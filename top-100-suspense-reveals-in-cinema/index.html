@@ -1,0 +1,1292 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="color-scheme" content="light dark" />
+  <meta name="theme-color" content="#15110f" />
+  <link rel="icon" href="data:," />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,500;6..72,650;6..72,750&display=swap" rel="stylesheet">
+  <title>Top 100 Suspense Reveals in Cinema</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --paper: #f4f0e8;
+      --paper-2: #eae4d9;
+      --ink: #171513;
+      --muted: #625c55;
+      --faint: #d3cabd;
+      --panel: #fffdf9;
+      --accent: #b7352d;
+      --accent-deep: #7f211c;
+      --accent-soft: #f1d4ce;
+      --charcoal: #171311;
+      --on-dark: #f8f1e7;
+      --shadow: 0 10px 30px rgba(39, 29, 21, .08);
+      --serif: "Newsreader", Georgia, serif;
+      --sans: "IBM Plex Sans", ui-sans-serif, sans-serif;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --paper: #13110f;
+        --paper-2: #1a1714;
+        --ink: #f5efe5;
+        --muted: #b9afa4;
+        --faint: #39332e;
+        --panel: #1d1a17;
+        --accent: #ee6d61;
+        --accent-deep: #ff9388;
+        --accent-soft: #45231f;
+        --charcoal: #090807;
+        --on-dark: #f8f1e7;
+        --shadow: 0 12px 34px rgba(0,0,0,.24);
+      }
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      min-width: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: var(--sans);
+      font-size: 16px;
+      line-height: 1.6;
+      text-rendering: optimizeLegibility;
+    }
+    a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+    button, input, select { font: inherit; }
+    button, select { cursor: pointer; }
+    .hero {
+      position: relative;
+      overflow: hidden;
+      background: var(--charcoal);
+      color: var(--on-dark);
+      padding: clamp(34px, 6vw, 84px) max(20px, calc((100vw - 1180px) / 2)) 56px;
+      border-bottom: 8px solid var(--accent);
+    }
+    .hero::after {
+      content: "100";
+      position: absolute;
+      right: -22px;
+      bottom: -86px;
+      font: 750 clamp(170px, 28vw, 390px)/.8 var(--serif);
+      color: transparent;
+      -webkit-text-stroke: 1px rgba(255,255,255,.12);
+      pointer-events: none;
+      letter-spacing: -.08em;
+    }
+    .hero-grid {
+      position: relative;
+      z-index: 1;
+      display: grid;
+      grid-template-columns: minmax(0, 1.45fr) minmax(240px, .55fr);
+      gap: clamp(28px, 7vw, 100px);
+      align-items: end;
+    }
+    .kicker {
+      margin: 0 0 13px;
+      color: #f3a39a;
+      font-size: .78rem;
+      font-weight: 600;
+      letter-spacing: .15em;
+      text-transform: uppercase;
+    }
+    h1 {
+      margin: 0;
+      max-width: 850px;
+      font: 650 clamp(2.8rem, 7vw, 6.7rem)/.89 var(--serif);
+      letter-spacing: -.045em;
+      text-wrap: balance;
+    }
+    .deck {
+      max-width: 720px;
+      margin: 26px 0 0;
+      color: #d5cec5;
+      font-size: clamp(1rem, 1.8vw, 1.2rem);
+      line-height: 1.55;
+    }
+    .hero-note {
+      border-top: 1px solid rgba(255,255,255,.25);
+      padding-top: 17px;
+      color: #d5cec5;
+      font-size: .92rem;
+    }
+    .hero-note strong { display: block; color: #fff; font-size: 1rem; margin-bottom: 4px; }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      max-width: 600px;
+      margin-top: 34px;
+      border-top: 1px solid rgba(255,255,255,.2);
+      padding-top: 17px;
+    }
+    .stat { border-right: 1px solid rgba(255,255,255,.18); padding-right: 18px; margin-right: 18px; }
+    .stat:last-child { border: 0; }
+    .stat b { display: block; font: 650 1.6rem/1 var(--serif); }
+    .stat span { color: #aaa199; font-size: .75rem; }
+    .spoiler-strip {
+      background: var(--accent);
+      color: white;
+      padding: 9px 20px;
+      text-align: center;
+      font-size: .82rem;
+      font-weight: 600;
+      letter-spacing: .025em;
+    }
+    main { width: min(1180px, calc(100% - 40px)); margin: 0 auto; }
+    .apex { padding: 54px 0 48px; }
+    .section-heading {
+      display: flex;
+      gap: 22px;
+      justify-content: space-between;
+      align-items: end;
+      margin-bottom: 22px;
+    }
+    .section-heading h2, .method h2 {
+      margin: 0;
+      font: 650 clamp(2rem, 4vw, 3.4rem)/1 var(--serif);
+      letter-spacing: -.035em;
+    }
+    .section-heading p { margin: 0; color: var(--muted); max-width: 470px; font-size: .92rem; }
+    .podium { display: grid; grid-template-columns: 1.15fr 1fr 1fr; gap: 16px; }
+    .podium-card {
+      position: relative;
+      min-height: 240px;
+      overflow: hidden;
+      background: var(--panel);
+      border-top: 4px solid var(--accent);
+      padding: 25px 24px 23px;
+      box-shadow: var(--shadow);
+    }
+    .podium-card:first-child { min-height: 276px; background: var(--accent-soft); }
+    .podium-rank {
+      color: var(--accent);
+      font: 750 3.5rem/1 var(--serif);
+      letter-spacing: -.06em;
+    }
+    .podium-card h3 { margin: 29px 0 3px; font: 650 1.55rem/1.05 var(--serif); }
+    .podium-card .year { color: var(--muted); font-size: .82rem; }
+    .podium-card p { margin: 13px 0 0; font-size: .9rem; color: var(--muted); line-height: 1.5; }
+    .controls-shell {
+      position: sticky;
+      z-index: 20;
+      top: 0;
+      margin: 0 -20px;
+      padding: 14px 20px;
+      background: color-mix(in srgb, var(--paper) 92%, transparent);
+      backdrop-filter: blur(12px);
+      border-top: 1px solid var(--faint);
+      border-bottom: 1px solid var(--faint);
+    }
+    .controls { display: grid; grid-template-columns: minmax(220px, 1fr) auto auto auto; gap: 9px; align-items: center; }
+    .search-wrap { position: relative; }
+    .search-wrap svg { position: absolute; left: 13px; top: 50%; transform: translateY(-50%); width: 17px; color: var(--muted); }
+    input, select, .view-button {
+      width: 100%;
+      min-height: 44px;
+      color: var(--ink);
+      background: var(--panel);
+      border: 1px solid var(--faint);
+      border-radius: 2px;
+      padding: 10px 12px;
+    }
+    input { padding-left: 40px; }
+    input:focus, select:focus, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+    .view-button { width: auto; white-space: nowrap; }
+    .result-bar {
+      display: flex; align-items: baseline; justify-content: space-between; gap: 20px;
+      padding: 34px 0 15px;
+    }
+    .result-bar h2 { margin: 0; font: 650 clamp(1.7rem, 3vw, 2.6rem)/1 var(--serif); }
+    #result-count { color: var(--muted); font-size: .86rem; }
+    .film-list { display: grid; gap: 0; border-top: 1px solid var(--faint); }
+    .film-card {
+      display: grid;
+      grid-template-columns: 88px minmax(220px, .72fr) minmax(0, 1.6fr);
+      gap: 25px;
+      padding: 34px 0 36px;
+      border-bottom: 1px solid var(--faint);
+    }
+    .rank {
+      color: var(--accent);
+      font: 750 clamp(2.7rem, 5vw, 4.9rem)/.86 var(--serif);
+      letter-spacing: -.07em;
+      font-variant-numeric: tabular-nums;
+    }
+    .film-id h3 {
+      margin: 2px 0 3px;
+      font: 650 clamp(1.45rem, 2.3vw, 2rem)/1.06 var(--serif);
+      letter-spacing: -.02em;
+    }
+    .film-id .year { color: var(--muted); font-size: .84rem; }
+    .film-copy { display: grid; grid-template-columns: 1.5fr 1fr; gap: 28px; }
+    .label {
+      display: block;
+      margin-bottom: 8px;
+      color: var(--accent);
+      font-size: .7rem;
+      font-weight: 600;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+    .film-copy p { margin: 0; color: var(--ink); font-size: .95rem; line-height: 1.66; }
+    .impact { padding-left: 24px; border-left: 1px solid var(--faint); }
+    .impact p { color: var(--muted); }
+    .compact .film-card { grid-template-columns: 70px minmax(180px,.65fr) minmax(0,1.35fr); padding: 21px 0; }
+    .compact .rank { font-size: 2.7rem; }
+    .compact .film-copy { display: block; }
+    .compact .impact { display: none; }
+    .compact .reveal p {
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .empty { padding: 70px 0 90px; text-align: center; }
+    .empty h3 { font: 650 2rem/1 var(--serif); margin: 0 0 8px; }
+    .empty p { color: var(--muted); margin: 0 0 18px; }
+    .clear { border: 0; background: var(--accent); color: white; padding: 10px 15px; }
+    .method {
+      margin-top: 72px;
+      padding: 44px clamp(22px, 4vw, 46px);
+      background: var(--charcoal);
+      color: var(--on-dark);
+      border-top: 6px solid var(--accent);
+    }
+    .method-grid { display: grid; grid-template-columns: .72fr 1.28fr; gap: clamp(30px, 6vw, 82px); }
+    .method p { margin: 0 0 16px; color: #d7cec5; }
+    .formula { margin-top: 26px; color: #f3a39a; font: 650 1.25rem/1.25 var(--serif); }
+    .caveat { margin-top: 20px; padding: 17px 18px; border: 1px solid rgba(255,255,255,.2); color: #d7cec5; font-size: .86rem; }
+    .caveat strong { color: #fff; }
+    .sources { padding: 42px 0 70px; }
+    .sources h2 { margin: 0 0 19px; font: 650 2rem/1 var(--serif); }
+    .source-list { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0 30px; }
+    .source-list a {
+      display: block;
+      padding: 14px 0;
+      border-top: 1px solid var(--faint);
+      text-decoration: none;
+      font-size: .9rem;
+    }
+    .source-list a:hover { color: var(--accent); }
+    .source-list span { display: block; color: var(--muted); font-size: .75rem; margin-top: 2px; }
+    .source-note { margin: 20px 0 0; color: var(--muted); font-size: .82rem; max-width: 820px; }
+    .back-top { display: inline-block; margin-top: 26px; color: var(--accent); font-weight: 600; font-size: .84rem; }
+    @media (max-width: 860px) {
+      .hero-grid { grid-template-columns: 1fr; }
+      .hero-note { max-width: 480px; }
+      .podium { grid-template-columns: 1fr 1fr; }
+      .podium-card:first-child { grid-column: 1 / -1; }
+      .controls { grid-template-columns: 1fr 1fr; }
+      .search-wrap { grid-column: 1 / -1; }
+      .film-card { grid-template-columns: 66px minmax(0, 1fr); gap: 18px; }
+      .film-copy { grid-column: 2; grid-template-columns: 1fr; gap: 20px; }
+      .impact { padding: 18px 0 0; border-left: 0; border-top: 1px solid var(--faint); }
+      .compact .film-card { grid-template-columns: 58px minmax(0,1fr); }
+      .compact .film-copy { grid-column: 2; }
+      .method-grid { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 560px) {
+      .hero { padding-left: 20px; padding-right: 20px; }
+      .hero::after { font-size: 210px; bottom: -54px; }
+      h1 { font-size: clamp(2.9rem, 14vw, 4.5rem); }
+      .stats { max-width: none; }
+      .stat { padding-right: 8px; margin-right: 8px; }
+      main { width: min(100% - 28px, 1180px); }
+      .section-heading { display: block; }
+      .section-heading p { margin-top: 11px; }
+      .podium { grid-template-columns: 1fr; }
+      .podium-card:first-child { grid-column: auto; }
+      .podium-card, .podium-card:first-child { min-height: 0; }
+      .controls-shell { margin: 0 -14px; padding: 12px 14px; }
+      .controls { grid-template-columns: 1fr; }
+      .search-wrap { grid-column: auto; }
+      .view-button { width: 100%; }
+      .result-bar { padding-top: 27px; }
+      .film-card, .compact .film-card { grid-template-columns: 48px minmax(0,1fr); gap: 13px; padding: 27px 0 29px; }
+      .rank { font-size: 2.6rem; }
+      .film-id h3 { font-size: 1.45rem; }
+      .film-copy, .compact .film-copy { grid-column: 1 / -1; }
+      .compact .film-copy { margin-left: 61px; }
+      .film-copy p { font-size: .93rem; }
+      .method { margin-left: -14px; margin-right: -14px; }
+      .source-list { grid-template-columns: 1fr; }
+    }
+    @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+  </style>
+</head>
+<body id="top"><a href="../" style="position:fixed;top:12px;left:12px;z-index:9999;background:rgba(15,15,15,.8);color:#fff;font:600 13px/1 system-ui,-apple-system,sans-serif;padding:10px 15px;border-radius:999px;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,.3)">&#8592; All lists</a>
+  <header class="hero">
+    <div class="hero-grid">
+      <div>
+        <p class="kicker">A ranked cinematic archive</p>
+        <h1>100 reveals that changed the movie before them.</h1>
+        <p class="deck">From a half-buried statue to a dropped wedding ring, these are cinema’s most ingenious reversals — ranked by shock, narrative craft and the size of their cultural afterlife.</p>
+        <div class="stats" aria-label="Collection statistics">
+          <div class="stat"><b>100</b><span>ranked films</span></div>
+          <div class="stat"><b>9</b><span>decades</span></div>
+          <div class="stat"><b>1940–2023</b><span>release span</span></div>
+        </div>
+      </div>
+      <aside class="hero-note">
+        <strong>Read at your own risk.</strong>
+        Every entry names the twist, the scene where it lands, how the misdirection worked and what it changed.
+      </aside>
+    </div>
+  </header>
+  <div class="spoiler-strip">FULL SPOILERS FOR ALL 100 FILMS — BY DESIGN</div>
+
+  <main>
+    <section class="apex" aria-labelledby="apex-title">
+      <div class="section-heading">
+        <h2 id="apex-title">The consensus apex</h2>
+        <p>Three twists that combine impeccable staging, immediate shock and an afterlife far beyond the screen.</p>
+      </div>
+      <div class="podium" id="podium">
+        <article class="podium-card"><div class="podium-rank">01</div><h3>The Usual Suspects</h3><div class="year">1995</div><p>Crippled small-time con Roger &quot;Verbal&quot; Kint is Keyser Söze himself.</p></article>
+        <article class="podium-card"><div class="podium-rank">02</div><h3>The Sixth Sense</h3><div class="year">1999</div><p>Child psychologist Malcolm Crowe has been dead since the opening scene — shot by a former patient — and the boy who &quot;sees dead people&quot; has been seeing him all along.</p></article>
+        <article class="podium-card"><div class="podium-rank">03</div><h3>Psycho</h3><div class="year">1960</div><p>&quot;Mother&quot; is a mummified corpse, and Norman Bates committed the murders himself in a dissociated maternal persona.</p></article>
+      </div>
+    </section>
+
+    <section aria-labelledby="archive-title">
+      <div class="controls-shell" aria-label="Archive controls">
+        <div class="controls">
+          <label class="search-wrap">
+            <span class="sr-only" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)">Search films and reveals</span>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="m16.2 16.2 4.2 4.2" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+            <input id="search" type="search" placeholder="Search title, reveal or impact…" autocomplete="off" />
+          </label>
+          <label><span class="sr-only" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)">Filter by decade</span><select id="era"><option value="all">All decades</option><option value="1940">1940s</option><option value="1950">1950s</option><option value="1960">1960s</option><option value="1970">1970s</option><option value="1980">1980s</option><option value="1990">1990s</option><option value="2000">2000s</option><option value="2010">2010s</option><option value="2020">2020s</option></select></label>
+          <label><span class="sr-only" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)">Sort films</span><select id="sort"><option value="rank">Rank order</option><option value="oldest">Oldest first</option><option value="newest">Newest first</option><option value="title">Title A–Z</option></select></label>
+          <button class="view-button" id="view-toggle" type="button" aria-pressed="false">Quick scan</button>
+        </div>
+      </div>
+      <div class="result-bar">
+        <h2 id="archive-title">The full ranking</h2>
+        <span id="result-count" aria-live="polite">100 films</span>
+      </div>
+      <div class="film-list" id="film-list">
+        <article class="film-card" id="film-1">
+          <div class="rank">01</div>
+          <div class="film-id"><h3>The Usual Suspects</h3><div class="year">1995</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Crippled small-time con Roger &quot;Verbal&quot; Kint is Keyser Söze himself. In the closing sequence, Verbal walks free from the police station — his limp evaporating, his &quot;gimpy&quot; hand going still — while Agent Kujan stares at the cluttered bulletin board and realizes every name in Verbal&#x27;s story (Kobayashi, Redfoot) was lifted from objects around the interrogation room. The setup: Verbal played the pitiable weakling while spinning the Söze myth into legend; the planted clues include his too-glib storytelling and the film&#x27;s own boast — &quot;the greatest trick the devil ever pulled was convincing the world he didn&#x27;t exist.&quot; It recontextualizes the entire flashback as improvised fiction.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The gold standard of twist endings; Kevin Spacey&#x27;s Oscar; it single-handedly revived the twist as a marketing event and spawned a decade of imitators. &quot;Keyser Söze&quot; remains pop-culture shorthand for a hidden mastermind, though the reveal is now among the most spoiled in film history.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-2">
+          <div class="rank">02</div>
+          <div class="film-id"><h3>The Sixth Sense</h3><div class="year">1999</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Child psychologist Malcolm Crowe has been dead since the opening scene — shot by a former patient — and the boy who &quot;sees dead people&quot; has been seeing him all along. It lands when Malcolm replays his marriage and notices his wife dropping his wedding ring, finally understanding her distance. The setup: Shyamalan stages Willis as alive — colleagues never address him, his wife &quot;ignores&quot; him at dinner — with planted clues in the cold drafts, the basement door he can&#x27;t open, and Cole&#x27;s rule that ghosts &quot;don&#x27;t know they&#x27;re dead.&quot; Every prior scene inverts on rewatch.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>$672M on a $40M budget, six Oscar nominations, and &quot;I see dead people&quot; entered the lexicon. It made Shyamalan the twist auteur and launched the modern spoiler-protection era; still one of cinema&#x27;s most fiercely guarded reveals.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-3">
+          <div class="rank">03</div>
+          <div class="film-id"><h3>Psycho</h3><div class="year">1960</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>&quot;Mother&quot; is a mummified corpse, and Norman Bates committed the murders himself in a dissociated maternal persona. It lands in the fruit cellar when Lila Crane spins the wigged skeleton around and Norman bursts in wearing Mother&#x27;s dress, knife raised. The setup: Hitchcock murders his apparent heroine Marion Crane before the film&#x27;s midpoint, then hides Norman behind Mother&#x27;s voice, silhouette, and domineering jealousy — with clues in his taxidermy hobby, the peephole, and his stammering over-protectiveness. The psychiatrist&#x27;s coda reframes everything as split personality.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Hitchcock&#x27;s no-late-admission policy turned the twist into an event; $50M gross on an $800K budget redefined horror economics. The shower scene and the reveal are foundational pop culture; the twist still works because the film earns it twice.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-4">
+          <div class="rank">04</div>
+          <div class="film-id"><h3>Star Wars: Episode V – The Empire Strikes Back</h3><div class="year">1980</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Darth Vader is Luke Skywalker&#x27;s father — “No, I am your father.” It lands mid-duel in Cloud City&#x27;s reactor shaft, after Vader severs Luke&#x27;s hand, puncturing Obi-Wan&#x27;s claim that Vader “betrayed and murdered” Anakin. The reveal was tightly restricted during production: David Prowse performed a cover line on set, while the true dialogue was disclosed only to a small group. It recontextualized the saga from simple good-versus-evil into a dynastic tragedy.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The most quoted reveal in cinema; 1980 audiences gasped audibly. The commonly misquoted &quot;Luke, I am your father&quot; proves its absorption into pop culture, endlessly parodied yet still devastating in context.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-5">
+          <div class="rank">05</div>
+          <div class="film-id"><h3>Fight Club</h3><div class="year">1999</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Tyler Durden is the Narrator — the same man, split by insomnia into a charismatic alter ego. The realization lands in a hotel room after Marla calls the Narrator “Tyler,” sending him through a frantic reconstruction of their shared history. The later parking-garage confrontation externalizes his fight for control, while “you met me at a very strange time in my life” belongs to the closing sequence. The setup: Tyler appears only where the Narrator cannot be independently observed; planted clues include Marla&#x27;s confusion, the Narrator beating himself up in his boss&#x27;s office, and Tyler&#x27;s appearances timed to blackouts. Project Mayhem was the Narrator&#x27;s all along.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>A box-office disappointment ($101M on $63M) reborn as the defining DVD-era cult film. &quot;The first rule of Fight Club&quot; is ubiquitous; the twist is now widely known, which paradoxically made the film&#x27;s anti-consumerist satire its legacy.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-6">
+          <div class="rank">06</div>
+          <div class="film-id"><h3>Planet of the Apes</h3><div class="year">1968</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The &quot;alien planet&quot; was Earth all along — Taylor stumbles onto the half-buried Statue of Liberty and screams &quot;You maniacs! You blew it up!&quot; The setup hid the truth in plain sight: the apes speak English, the geography is familiar, and the film simply never questions the premise. The planted clue is the language itself, dismissed by the audience as a convention. It recontextualizes the entire adventure as a post-nuclear homecoming and humanity&#x27;s epitaph.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The final image is arguably the most iconic closing shot in sci-fi; it spawned a decades-long franchise and made the &quot;it was Earth&quot; twist the genre&#x27;s most imitated reveal. Still instantly recognizable and still chilling.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-7">
+          <div class="rank">07</div>
+          <div class="film-id"><h3>The Crying Game</h3><div class="year">1992</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Dil, the grieving girlfriend Fergus falls for, is transgender — revealed in the famous bedroom scene that sent 1992 audiences reeling. The setup: Neil Jordan films Dil entirely through Fergus&#x27;s desire, withholding the truth with no planted clues at all — the misdirection is the audience&#x27;s own assumptions. It recontextualizes the love story from consolation romance into a deeper test of Fergus&#x27;s humanity and the film&#x27;s themes of identity (IRA operative, British soldier, lover — everyone is &quot;not what they seem&quot;).</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Miramax&#x27;s &quot;don&#x27;t spoil it&quot; campaign made secrecy the marketing; it won the Oscar for Original Screenplay. A landmark cultural conversation in its day, though modern readings critique its framing; historically, one of the great shock reveals.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-8">
+          <div class="rank">08</div>
+          <div class="film-id"><h3>Se7en</h3><div class="year">1995</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>John Doe has Tracy Mills&#x27;s head in the box — and by murdering Doe in vengeance, Mills becomes the final sin, Wrath. It lands on the desert road as Doe taunts &quot;What&#x27;s in the box?!&quot; and Somerset&#x27;s horror confirms it. The setup: Doe surrenders himself, seemingly beaten, with planted clues in his preternatural calm, the &quot;help me&quot; scratchings, and his envy of an ordinary life. It recontextualizes the detectives&#x27; victory as Doe&#x27;s design — they delivered him to his masterpiece.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>$327M and the template for a decade of grim procedurals. The box scene is endlessly quoted and parodied; the film proved a twist could be pure moral devastation rather than cleverness, and it remains Fincher&#x27;s darkest signature.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-9">
+          <div class="rank">09</div>
+          <div class="film-id"><h3>Oldboy</h3><div class="year">2003</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Mi-do, the young woman Dae-su loves, is his own daughter — Lee Woo-jin engineered fifteen years of imprisonment and hypnosis so Dae-su would commit incest as revenge for Woo-jin&#x27;s sister&#x27;s death. It lands with the photo album and Woo-jin&#x27;s calm narration, ending with Dae-su severing his own tongue. The setup: the romance plays as genuine salvation; planted clues hide in the childhood photos and the too-perfect &quot;chance&quot; meeting. It recontextualizes the entire revenge quest as Woo-jin&#x27;s script — Dae-su was never the protagonist of his own story.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Cannes Grand Prix; it substantially expanded the international profile and Western audience for contemporary South Korean cinema. The hallway fight and the reveal are legendary; widely spoiled yet still devastating because the horror is moral, not informational.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-10">
+          <div class="rank">10</div>
+          <div class="film-id"><h3>Memento</h3><div class="year">2000</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Teddy claims Leonard&#x27;s wife survived the assault and later died after Leonard repeatedly gave her insulin; he also says Leonard already killed the original John G. Teddy is unreliable, and the film deliberately leaves the insulin account unresolved. Their exchange occurs late in the story&#x27;s chronology, after Leonard kills Jimmy, even though the film&#x27;s reverse structure makes it feel like an origin point. The setup makes the audience share Leonard&#x27;s amnesia; the Sammy Jankis story and Teddy&#x27;s warnings suggest Leonard may have projected his own guilt. What is certain is Leonard&#x27;s choice to burn evidence and create another target, turning the justice quest into self-authored purpose.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>$40M on $9M; it made Nolan and defined puzzle cinema. Endlessly diagrammed and still potent; the rare twist that is philosophical rather than merely clever.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-11">
+          <div class="rank">11</div>
+          <div class="film-id"><h3>The Others</h3><div class="year">2001</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Grace and her photosensitive children are the ghosts — the &quot;intruders&quot; are the living family who moved into their house. It lands in the séance sequence and the discovery of the servants&#x27; post-mortem photograph, as Grace finally remembers smothering her children and shooting herself. The setup: a classic haunted-house frame — locked rooms, the missing servants, the children&#x27;s &quot;sightings&quot; — with planted clues in the gravestones glimpsed early and the fact that the &quot;ghosts&quot; never harm anyone. It inverts the genre: the haunting was the living all along.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>$210M on $17M; it revived gothic horror and proved the twist could be tender rather than cruel. Still highly effective on rewatch.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-12">
+          <div class="rank">12</div>
+          <div class="film-id"><h3>Chinatown</h3><div class="year">1974</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Evelyn Mulwray&#x27;s &quot;sister&quot; is her daughter — the product of her father Noah Cross&#x27;s abuse — confessed under Gittes&#x27;s slaps: &quot;She&#x27;s my sister! ... She&#x27;s my daughter! ... My sister, my daughter!&quot; The setup: the Hollis Mulwray adultery case curdles into a water-rights conspiracy; planted clues include Evelyn&#x27;s flinches, the gardener&#x27;s remarks, and her terror of her father. It recontextualizes the femme fatale as a victim and the conspiracy as personal evil.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Robert Towne&#x27;s Oscar-winning script; &quot;Forget it, Jake, it&#x27;s Chinatown&quot; — the bleakest closing line in noir. The reveal set the template for neo-noir: the mystery&#x27;s answer is always worse than you thought.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-13">
+          <div class="rank">13</div>
+          <div class="film-id"><h3>Vertigo</h3><div class="year">1958</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>“Madeleine” was Judy Barton, an actress hired by Gavin Elster, who murdered his real wife and used Scottie&#x27;s obsession as his alibi. The audience learns this first through Judy&#x27;s flashback and an unsent confession letter; Scottie discovers it later when Judy wears Carlotta Valdes&#x27;s necklace. The setup: the fake haunting and staged suicide at the mission; planted clues include Judy&#x27;s resistance to the gray suit and her too-eager transformation. Separating what the audience knows from what Scottie knows turns the final act from mystery into dread, recontextualizing him from detective to prop in a murder.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>A commercial disappointment in 1958, now routinely voted the greatest film ever made (Sight &amp; Sound 2012). The twist redefined the detective film as a study in male obsession; its influence on thrillers is incalculable.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-14">
+          <div class="rank">14</div>
+          <div class="film-id"><h3>Citizen Kane</h3><div class="year">1941</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>&quot;Rosebud&quot; was Kane&#x27;s childhood sled, glimpsed burning in a furnace as the camera closes in on the brand name. The setup: a newsreel investigation into a tycoon&#x27;s dying word, with Thompson interviewing everyone — the film withholds the answer until no living character can hear it. There are no planted clues; the reveal is thematic, not logical. It recontextualizes the great man&#x27;s empire as compensation for a stolen childhood glimpsed in the film&#x27;s famous deep-focus shot.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>A box-office disappointment in 1941, later a decades-long leader of the Sight &amp; Sound critics’ poll and still one of cinema’s canonical greatest-film contenders. “Rosebud” became pop shorthand for an overhyped secret — the rare reveal more famous than the film’s plot.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-15">
+          <div class="rank">15</div>
+          <div class="film-id"><h3>The Prestige</h3><div class="year">2006</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>A double shock — Alfred Borden was twin brothers sharing one life (the &quot;transported man&quot; was no trick), while Robert Angier used Tesla&#x27;s machine to clone and drown himself nightly. It lands in the final montage: the tanks of dead Angiers and Borden&#x27;s twin revealed with &quot;we were two.&quot; The setup: the dueling diaries misdirect the audience into suspecting one secret; planted clues include Borden&#x27;s inconsistent affections (&quot;which knot did you tie?&quot;) and the film&#x27;s opening dare — &quot;are you watching closely?&quot; It recontextualizes both magicians&#x27; sacrifices as symmetrical obsessions.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>$109M; Nolan&#x27;s most rewatchable puzzle. The twin reveal is beloved precisely because it was achievable — the clues were all on stage.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-16">
+          <div class="rank">16</div>
+          <div class="film-id"><h3>Shutter Island</h3><div class="year">2010</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>U.S. Marshal Teddy Daniels is Andrew Laeddis, the patient who murdered his wife — the “investigation” is an elaborate role-play therapy. “Edward Daniels” is an anagram of “Andrew Laeddis,” while “Rachel Solando” rearranges into “Dolores Chanal,” his wife&#x27;s name. It lands in the lighthouse as Dr. Cawley lays out the files, capped by Laeddis&#x27;s chilling closer: “Which would be worse — to live as a monster, or to die as a good man?” The setup: the storm-bound asylum, the missing patient; planted clues include the paired anagrams, the “67th patient,” and Teddy&#x27;s migraines. It recontextualizes the conspiracy as treatment.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>$295M, Scorsese&#x27;s biggest hit at the time. The final line is iconic; the film made the &quot;it was therapy&quot; twist respectable again through sheer craft.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-17">
+          <div class="rank">17</div>
+          <div class="film-id"><h3>Gone Girl</h3><div class="year">2014</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>At the midpoint — not the end — Amy Dunham staged her own disappearance to frame her husband, unveiled in her &quot;Cool Girl&quot; monologue as she drives away, blood carefully planted. The setup: a missing-wife mystery with Nick as the prime suspect; planted clues include the too-perfect diary entries and the treasure hunt&#x27;s cruelty. It recontextualizes the marriage as mutual warfare and the second half as Amy&#x27;s improvisation when Desi disrupts her plan.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>$369M; a genuine cultural event that weaponized the &quot;unreliable wife&quot; discourse. Flynn&#x27;s midpoint-twist structure influenced a wave of domestic thrillers; &quot;Cool Girl&quot; entered the lexicon.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-18">
+          <div class="rank">18</div>
+          <div class="film-id"><h3>The Village</h3><div class="year">2004</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The 19th-century village exists in the present day — the elders fabricated the era and the monsters (&quot;those we don&#x27;t speak of&quot;) to seal their grief-stricken commune off from the modern world. It lands when blind Ivy reaches the wall and a ranger in a modern guard station answers. The setup: the creature mythology and period detail; planted clues include the elders&#x27; modern idioms and the &quot;bad color&quot; superstition. It recontextualizes the horror as a lie told by the traumatized to the innocent.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Audiences in 2004 felt cheated and the film was punished for it — yet the twist is airtight and the film has been substantially reassessed. Now widely known, it remains Shyamalan&#x27;s most debated reveal.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-19">
+          <div class="rank">19</div>
+          <div class="film-id"><h3>Angel Heart</h3><div class="year">1987</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Private eye Harry Angel is Johnny Favorite — the singer who sold his soul to Louis Cyphre and then tried to dodge the debt by stealing a soldier&#x27;s identity. Harry comprehends the truth during the final confrontation as Cyphre exposes the trail of stolen identity and murder. The earlier scene in which Cyphre peels and eats a boiled egg supplies the soul symbolism, but it is separate from this climax. The setup: a 1955 New Orleans noir about a detective hired to find a missing singer; planted clues include the “Harry Angel” name, the 1943 timeline and Cyphre&#x27;s too-knowing menace. It recontextualizes the investigation as a soul being herded to Hell.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>A cult classic; De Niro&#x27;s egg-peeling devil is iconic. The twist is a noir landmark — the detective story as damnation.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-20">
+          <div class="rank">20</div>
+          <div class="film-id"><h3>Soylent Green</h3><div class="year">1973</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The food product Soylent Green is made from human beings — Charlton Heston&#x27;s Thorn witnesses the processing plant and screams &quot;You&#x27;ve got to tell them! Soylent Green is people!&quot; The setup: an overpopulated 2022 dystopia, euthanasia centers, food riots; planted clues include the secrecy around the factories and the &quot;scoops.&quot; It recontextualizes the entire society as a cannibal economy.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The line is immortal — one of the most quoted reveals in cinema — and it defined eco-dystopia for a generation. Still quoted, still grim, and now watched as period prophecy.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-21">
+          <div class="rank">21</div>
+          <div class="film-id"><h3>Rosemary&#x27;s Baby</h3><div class="year">1968</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The kindly neighbors are Satanists, Rosemary&#x27;s baby is the Antichrist, and her husband sold her womb for his career — &quot;What have you done to its eyes, you maniacs?&quot; &quot;He has his father&#x27;s eyes.&quot; It lands in the black-bassinet finale as the coven coos over the infant. The setup: the Bramford&#x27;s old-world charm; planted clues include the tannis-root necklace, Hutch&#x27;s warning (&quot;the name is an anagram!&quot;), and the infamous dream-rape sequence. It recontextualizes the pregnancy from blessing to breeding program.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Ruth Gordon&#x27;s Oscar; it defined paranoia horror and made the &quot;gaslit woman&quot; a genre staple. &quot;Rosemary&#x27;s baby&quot; remains shorthand for sinister offspring; the reveal still chills because it&#x27;s about betrayal, not monsters.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-22">
+          <div class="rank">22</div>
+          <div class="film-id"><h3>The Wicker Man</h3><div class="year">1973</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Sergeant Howie — the devout Christian policeman investigating a missing girl — is himself the sacrifice; the islanders&#x27; pagan pageant was built around him. It lands as the procession crests the hill and the giant wicker man ignites with Howie inside, praying as the islanders sing. The setup: the missing-girl case; planted clues include the townsfolk&#x27;s evasions, the May Day preparations, and Lord Summerisle&#x27;s too-patient philosophy. It recontextualizes the detective as the offering.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>A defining, foundational folk-horror film — alongside earlier touchstones such as Witchfinder General and The Blood on Satan’s Claw — and the template for later work from Kill List to Midsommar. The ending is legendary: horror with no monster, only belief.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-23">
+          <div class="rank">23</div>
+          <div class="film-id"><h3>Don&#x27;t Look Now</h3><div class="year">1973</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The small red-coated figure John chases through Venice — seemingly his drowned daughter returned — is a murderous elderly dwarf who sinks a cleaver into his neck. The setup: grief, the psychic sisters, John&#x27;s &quot;second sight&quot;; planted clues include the slides that foreshadow his death and the red coat echoing Christine&#x27;s. It recontextualizes John&#x27;s visions: he wasn&#x27;t seeing the past, he was seeing his own funeral.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The twist is brutally abrupt — no catharsis, just horror. The film is a landmark of British cinema and psychological horror; the reveal&#x27;s cruelty made it unforgettable and widely cited as the genre&#x27;s bleakest rug-pull.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-24">
+          <div class="rank">24</div>
+          <div class="film-id"><h3>Les Diaboliques</h3><div class="year">1955</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Michel Delassalle is alive — he rises from the bathtub, and his &quot;murdered&quot; corpse was the bait in a scheme with his mistress to frighten his wife Christina to death for the insurance. It lands when Christina, already frail, sees her husband sit up and dies of shock. The setup: the wife-and-mistress murder plot; planted clues include the missing corpse, the unreturned suit, and Michel&#x27;s &quot;sighting.&quot; It recontextualizes the perfect crime as a crueler one.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Clouzot bought the rights to beat Hitchcock to them; his &quot;do not spoil the ending&quot; plea predates Psycho&#x27;s campaign by five years. The bathtub scene is one of cinema&#x27;s foundational shocks.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-25">
+          <div class="rank">25</div>
+          <div class="film-id"><h3>The Third Man</h3><div class="year">1949</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Harry Lime — eulogized at his own funeral — is alive, glimpsed when a cat nuzzles his shoes in a dark Viennese doorway and the light hits Orson Welles&#x27;s face, scored by the zither&#x27;s sting. The setup: Holly Martins investigating his friend&#x27;s death; planted clues include the &quot;third man&quot; at the accident and the porter&#x27;s contradictions. It recontextualizes the mourning as farce and the friendship as exploitation — Lime has been selling diluted penicillin.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>One of cinema&#x27;s great entrances; the reveal is iconic and the film a noir pinnacle. The ferris-wheel &quot;cuckoo clock&quot; speech that follows made Lime immortal.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-26">
+          <div class="rank">26</div>
+          <div class="film-id"><h3>Witness for the Prosecution</h3><div class="year">1957</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Christine Vole engineered the trial&#x27;s central deception. Because she was already married to a man in Germany, her marriage to Leonard is invalid, allowing her to testify; she then stages the hostile-wife performance and the forged-letter episode to secure his acquittal. When Leonard reveals that he is guilty and abandons her for another woman, Christine grabs the knife already entered as evidence and stabs him inside the courtroom. It recontextualizes the acquittal as the triumph of a guilty man — immediately undone by the person who saved him.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Billy Wilder&#x27;s twist is legendary; the film&#x27;s famous &quot;do not divulge the ending&quot; plea became tradition. Still taught as the perfect courtroom rug-pull.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-27">
+          <div class="rank">27</div>
+          <div class="film-id"><h3>The Sting</h3><div class="year">1973</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The FBI raid is fake — Polk and the supposed FBI agents are grifters, Hooker&#x27;s “shooting” is staged, and the entire wire con on Lonnegan played out exactly as Gondorff designed. Lieutenant William Snyder, by contrast, is a real corrupt police officer drawn into the scheme. The reveal lands as the “dead” Hooker sits up and Lonnegan walks away, fleeced and none the wiser. It recontextualizes every apparent setback as choreography.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Seven Oscars including Best Picture; $160M gross. It codified the con movie — the audience&#x27;s pleasure is realizing they were conned too, happily.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-28">
+          <div class="rank">28</div>
+          <div class="film-id"><h3>Sleuth</h3><div class="year">1972</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The games end in a real killing. Milo&#x27;s first “murder” is staged, and his return in disguise turns Andrew&#x27;s cruelty back on him; but Andrew&#x27;s final shot is genuine. Milo dies as police approach, leaving Andrew implicated by the evidence Milo planted. The setup — a burglary invitation and a cuckold&#x27;s duel — makes Andrew&#x27;s theatricality the chief misdirection: everything looks like another prop until it is not. The power dynamic reverses with each act, but the last reversal is irreversible.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>A two-hander tour de force for Olivier and Caine; the twist structure — reveals stacked on reveals — influenced everything from Deathtrap to modern puzzle-box theater.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-29">
+          <div class="rank">29</div>
+          <div class="film-id"><h3>Rebecca</h3><div class="year">1940</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Maxim de Winter concealed Rebecca&#x27;s death — and she was no saint but a cruel, manipulative woman whose “perfection” was a weapon. In Hitchcock&#x27;s 1940 adaptation, Maxim says he struck her, after which she fell and fatally hit her head; he then hid her body, rather than deliberately murdering her as in the novel. The confession lands in the boathouse. The setup makes Rebecca&#x27;s memory haunt Manderley; the pressure of her “perfection” and Mrs. Danvers&#x27;s fanaticism are the planted clues. It recontextualizes the narrator&#x27;s rival as an abuser and her marriage as bound to a concealed death.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Oscar Best Picture; the reveal is a gothic landmark. &quot;Last night I dreamt I went to Manderley again&quot; opens cinema&#x27;s greatest haunted-house twist.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-30">
+          <div class="rank">30</div>
+          <div class="film-id"><h3>Sunset Boulevard</h3><div class="year">1950</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The narrator is the corpse floating in the pool — Joe Gillis tells his story posthumously, opening on his own dead body. It lands in the first three minutes and pays off in the finale: &quot;All right, Mr. DeMille, I&#x27;m ready for my close-up,&quot; as Norma descends the staircase into madness and the cameras. The setup: the noir flashback; the &quot;dead men tell no tales&quot; irony is the engine. It recontextualizes every cynical line as a dead man&#x27;s epitaph.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The audacity of opening with the reveal is unmatched; the film is immortal and the closing line iconic. Wilder proved a twist could be structural, not just a surprise.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-31">
+          <div class="rank">31</div>
+          <div class="film-id"><h3>The Game</h3><div class="year">1997</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The entire conspiracy — the ruin, the &quot;suicide&quot; plunge, the Mexican burial — was staged by Consumer Recreation Services as an elaborate birthday gift; Nicholas crashes through the ballroom skylight into his own party. The setup: the paranoid thriller; planted clues include the CRS brochure&#x27;s fine print and the too-cinematic close calls. It recontextualizes Nicholas&#x27;s suffering as therapy for a rich man&#x27;s emptiness.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Divisive on release, now Fincher&#x27;s most rewatched puzzle. The reveal asks the real question — was any of it worth it? — and the film&#x27;s cult has only grown.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-32">
+          <div class="rank">32</div>
+          <div class="film-id"><h3>Primal Fear</h3><div class="year">1996</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>There never was an &quot;Aaron&quot; — altar boy Aaron Stampler faked the stutter, the blackouts, and the Roy alter ego to beat a murder rap, dropping the act the instant he&#x27;s acquitted: &quot;There never was an Aaron, counselor.&quot; The setup: the abused innocent; the courtroom drama; planted clues include the performance being a shade too perfect and the neck wound self-inflicted. It recontextualizes the idealistic lawyer as the killer&#x27;s instrument.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Edward Norton&#x27;s debut earned an Oscar nomination overnight; the final line is iconic. The twist made the &quot;fake insanity&quot; reveal a 90s staple.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-33">
+          <div class="rank">33</div>
+          <div class="film-id"><h3>The Machinist</h3><div class="year">2004</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Trevor Reznik&#x27;s year of insomnia and the tormenting figure of Ivan stem from a hit-and-run in which he killed a child and fled — confessed in the finale as he finally sleeps. The setup: the skeletal insomniac, the post-it notes, the hangman game; planted clues include the Route 66 photo and Ivan&#x27;s impossible familiarity. It recontextualizes the conspiracy as conscience — there is no Ivan, only guilt.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Bale&#x27;s 60-pound transformation is legendary; the reveal lands as tragedy rather than trick. A bleak, beloved cult film about the weight of unconfessed sin.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-34">
+          <div class="rank">34</div>
+          <div class="film-id"><h3>Identity</h3><div class="year">2003</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The stranded motel guests are the multiple personalities of convicted killer Malcolm Rivers — and the apparently innocent child Timmy is the surviving homicidal personality. The deaths occur by several different means; in the orange-grove coda, Timmy kills Paris with a garden tool, proving the psychiatrist&#x27;s purge failed. The setup: an Agatha Christie-style slasher; planted clues include the guests sharing a birthday and carrying names associated with U.S. states. It recontextualizes the motel murders as a mind killing off parts of itself.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The twist redeemed a mid-budget thriller into a 2000s staple; the &quot;it was all in his head&quot; reveal, done with total commitment, is still cited as the era&#x27;s best-executed rug-pull.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-35">
+          <div class="rank">35</div>
+          <div class="film-id"><h3>Saw</h3><div class="year">2004</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The &quot;corpse&quot; on the bathroom floor is John Kramer — Jigsaw — alive; he rises, removes his makeup, and seals the room: &quot;Most people are so ungrateful to be alive.&quot; The setup: the trap procedural; the audience, like the victims, never questions the body. The planted clue is negative space — the corpse never moves, never breathes, and no one checks. It recontextualizes the entire film as a supervised test.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>$103M on $1.2M launched a billion-dollar franchise and the &quot;torture porn&quot; era. The rise is iconic; widely known now, but in 2004 it was a genuine shock.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-36">
+          <div class="rank">36</div>
+          <div class="film-id"><h3>Arlington Road</h3><div class="year">1999</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The neighbors are terrorists, the &quot;kidnapped&quot; son was a plant, and Faraday — the paranoid professor — delivers their bomb to the FBI building and takes the blame, dying as the patsy. It lands in the final montage as the news pins the bombing on him. The setup: suburban paranoia; planted clues include the blueprints, the &quot;study group,&quot; and every warning Faraday got right but couldn&#x27;t prove. It recontextualizes the hero as the delivery mechanism.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The bleakest ending in mainstream 90s cinema; audiences were stunned. A cult classic of post-Oklahoma City anxiety, its twist is pure dread.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-37">
+          <div class="rank">37</div>
+          <div class="film-id"><h3>The Mist</h3><div class="year">2007</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Minutes after David Drayton mercy-kills his son and the other survivors to spare them the monsters, the mist clears — the army was seconds away. It lands in the truck&#x27;s headlights as soldiers emerge from the parting fog. The setup: the survival horror; King&#x27;s novella ended ambiguously, but Darabont&#x27;s change is the point. There are no clues — only cruelty. It recontextualizes Drayton&#x27;s &quot;mercy&quot; as the true horror.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Audiences were horrified; it&#x27;s the most debated horror ending of its era. Darabont&#x27;s deviation from King is now legendary — the rare adaptation twist that surpasses its source.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-38">
+          <div class="rank">38</div>
+          <div class="film-id"><h3>Jacob&#x27;s Ladder</h3><div class="year">1990</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Jacob Singer died in Vietnam — bayoneted on a helicopter — and the entire film is his dying vision; the &quot;demons&quot; are angels trying to free him, per his chiropractor&#x27;s Meister Eckhart speech. It lands on the staircase as Jacob, finally at peace, follows his dead son up into the light. The setup: the conspiracy horror; planted clues include the shaking photographs and the escalating unreality. It recontextualizes the torment as purgatory.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>A cult classic that directly influenced Silent Hill and a generation of psychological horror. The twist is beloved — terrifying and tender at once.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-39">
+          <div class="rank">39</div>
+          <div class="film-id"><h3>Mulholland Drive</h3><div class="year">2001</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The first two-thirds — bright-eyed Betty, amnesiac Rita, the Hollywood dream — are Diane Selwyn&#x27;s dying fantasy; the blue box opens onto her squalid reality as a failed actress who hired a hitman to kill her lover Camilla. It lands when the Cowboy says &quot;it&#x27;s time to wake up&quot; and Diane&#x27;s guilt collapses the dream. The setup: the noir mystery; planted clues include the mismatched names, the dream-logic casting, and Club Silencio&#x27;s &quot;no hay banda&quot; — it&#x27;s all illusion. It recontextualizes wish fulfillment as confession.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Initially divisive, now routinely called the best film of its decade. Dominant reading: Diane&#x27;s dream (Lynch has never confirmed it — the ambiguity is the point).</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-40">
+          <div class="rank">40</div>
+          <div class="film-id"><h3>The Skeleton Key</h3><div class="year">2005</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>There are no ghosts — Violet and Papa Justify are body-thieves, and the hoodoo ritual swaps them into young bodies; the film ends with Ben&#x27;s voice pleading from an old man&#x27;s body as the &quot;couple&quot; drives away young. It lands in the final ritual as Caroline realizes the brick-dust circle was for her. The setup: the hospice nurse, the haunted Louisiana house; planted clues include the mirror superstition and the &quot;Conjure of Sacrifice&quot; record. It recontextualizes the haunting as husbandry.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The twist redeemed a mid-tier horror into a widely cited favorite; the final shot — the new &quot;couple&quot; in the rearview mirror — is iconic.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-41">
+          <div class="rank">41</div>
+          <div class="film-id"><h3>Orphan</h3><div class="year">2009</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Esther — the adopted 9-year-old — is Leena Klammer, a 33-year-old Estonian woman with hypopituitarism who murders the families that adopt her. It lands in the climax as her choker hides a scarred neck, her paintings reveal a prostitute&#x27;s past, and she tries to seduce John. The setup: the &quot;disturbed child&quot; thriller; planted clues include the choker, the old-fashioned manners, and her fury at being treated as a child. It recontextualizes every tantrum as a predator&#x27;s frustration.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The twist is legendary — audiences gasped; &quot;Esther&quot; became horror shorthand for the killer-child subversion. It spawned the prequel Orphan: First Kill and remains the definitive &quot;the child is the monster&quot; reveal.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-42">
+          <div class="rank">42</div>
+          <div class="film-id"><h3>The Orphanage</h3><div class="year">2007</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Tomás&#x27;s masked &quot;ghost&quot; was real in a sense — his body lay in the basement grotto all along, and Laura herself caused his death years ago by moving the hiding-place; Simón&#x27;s disappearance replays her guilt. It lands as Laura overdoses and the children appear, leading her to the sack in the grotto. The setup: the haunted orphanage, the &quot;treasure hunt&quot;; planted clues include the children&#x27;s games pointing to the basement and the sack&#x27;s familiarity. It recontextualizes the haunting as guidance — the dead were trying to show her the truth.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Del Toro-produced; the reveal is heartbreaking rather than scary. A modern classic of Spanish horror, beloved for making its twist an act of maternal grief.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-43">
+          <div class="rank">43</div>
+          <div class="film-id"><h3>A Tale of Two Sisters</h3><div class="year">2003</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Su-yeon is dead — Su-mi imagined her sister&#x27;s presence throughout, acting out both roles in a dissociated fugue of guilt; the &quot;cruel stepmother&quot; was often just Su-mi herself. It lands in the final unraveling as Su-mi is shown alone, the wardrobe empty, the stepmother bewildered. The setup: the ghost story; planted clues include no one else ever seeing Su-yeon and the stepmother&#x27;s confusion. It recontextualizes the haunting as grief.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>A landmark of K-horror; the twist is iconic and the film was remade in the U.S. as The Uninvited (2009). Its elegant ambiguity influenced a decade of Asian psychological horror.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-44">
+          <div class="rank">44</div>
+          <div class="film-id"><h3>The Skin I Live In</h3><div class="year">2011</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Vera — the captive woman in the tiger suit — is Vicente, the young man who assaulted the surgeon&#x27;s daughter, abducted and surgically transformed into a woman as revenge. It lands in the flashback reveal and Vera&#x27;s final confrontation: &quot;I am Vicente.&quot; The setup: the mad-surgeon gothic; planted clues include the mother&#x27;s photograph, the tiger suit, and Robert&#x27;s obsessive &quot;care.&quot; It recontextualizes the captivity as the ultimate revenge — identity itself remade.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Almodóvar&#x27;s darkest film; the reveal is shocking and ethically vertiginous. Widely discussed as body horror as vengeance; the final scene&#x27;s quiet triumph is unforgettable.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-45">
+          <div class="rank">45</div>
+          <div class="film-id"><h3>Incendies</h3><div class="year">2010</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Nihad — the torturer who fathered the twins through the rape of their mother — is also their long-lost older brother, making him simultaneously their brother and father: the notary&#x27;s &quot;1+1=1.&quot; It lands as the twins deliver their mother&#x27;s letters and the pool scene collapses time. The setup: the Middle East search for a father and brother; planted clues include the ankle tattoo and the songs. It recontextualizes the family history as a closed loop of war&#x27;s violence.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Oscar-nominated; the reveal is devastating — audiences sat in silence. It made Villeneuve an international director and remains the most shattering twist of its decade.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-46">
+          <div class="rank">46</div>
+          <div class="film-id"><h3>The Secret in Their Eyes</h3><div class="year">2009</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Ricardo Morales — the grieving widower — never let the killer go; he has kept Gómez imprisoned in a farmhouse cell for decades: &quot;You said life in prison. Life.&quot; It lands as Benjamín follows Morales past the house and sees the broken man in the cage. The setup: the closed 1974 murder case; planted clues include Morales&#x27;s quiet obsession and his refusal to leave town. It recontextualizes justice as private, endless punishment.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Oscar winner for Best Foreign Language Film; the reveal is cathartic — the film&#x27;s most beloved scene. A landmark of Argentine cinema, beloved worldwide.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-47">
+          <div class="rank">47</div>
+          <div class="film-id"><h3>Parasite</h3><div class="year">2019</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The Parks&#x27; house hides a bunker where the former housekeeper&#x27;s husband has lived for years — erupting into the birthday party with a knife, collapsing the Kims&#x27; con into carnage. It lands on the basement stairs as the light flickers in Morse code and the &quot;ghost&quot; is revealed as a starving man. The setup: the Kims&#x27; infiltration; planted clues include the flickering light, the &quot;smell,&quot; and the housekeeper&#x27;s desperation. It recontextualizes the class war: there is always someone poorer beneath you.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Palme d&#x27;Or and four Oscars including Best Picture — the first non-English winner. The bunker reveal is iconic; the film is a global phenomenon and the twist its engine.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-48">
+          <div class="rank">48</div>
+          <div class="film-id"><h3>The Handmaiden</h3><div class="year">2016</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The con is a double-cross — &quot;maid&quot; Sook-hee and &quot;heiress&quot; Hideko are lovers running the scheme together, and the second half rewinds to show Hideko was the architect all along, conning the conmen. It lands in the part-two reversal: the identical story retold from Hideko&#x27;s side, the &quot;my Tamako&quot; letters, the final escape. The setup: the pickpocket infiltrating the mansion; planted clues include the mirrored scenes and Hideko&#x27;s too-perfect victimhood. It recontextualizes every seduction as strategy.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Park Chan-wook&#x27;s structural masterpiece; the rewind reveal is celebrated as one of the great second-act twists. Widely admired as the con film perfected.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-49">
+          <div class="rank">49</div>
+          <div class="film-id"><h3>Open Your Eyes</h3><div class="year">1997</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>César&#x27;s &quot;life&quot; after the accident is a lucid dream — he signed with Life Extension, froze his body, and has been dreaming for 150 years; the rooftop splice confirms it. It lands as the technicians explain and César must choose to wake. The setup: the disfigurement romance; planted clues include the déjà vu, the emptied bar, and the too-neat resolutions. It recontextualizes the second half as a dream fighting its dreamer.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Amenábar&#x27;s breakthrough; famously remade by Cameron Crowe as Vanilla Sky (2001) — this original is the revered one. The cryogenic-dream reveal influenced a wave of reality-questioning cinema.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-50">
+          <div class="rank">50</div>
+          <div class="film-id"><h3>The Vanishing</h3><div class="year">1988</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>There is no rescue — Rex drinks the drugged coffee to learn the truth and wakes buried alive in a coffin, the film holding on his lighter in the dark. It lands in the final minutes as the kidnapper&#x27;s &quot;curiosity&quot; bargain is honored with total cruelty. The setup: the obsessive search for the vanished Saskia; planted clues include the kidnapper&#x27;s calm logic — he promised the truth, not survival. It recontextualizes the quest as the trap.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The bleakest ending in thriller history; Sluizer&#x27;s own 1993 U.S. remake infamously softened it, which only burnished the original&#x27;s legend. The Dutch original remains the definitive &quot;be careful what you wish for&quot; reveal.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-51">
+          <div class="rank">51</div>
+          <div class="film-id"><h3>Nine Queens</h3><div class="year">2000</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The entire stamp con was run on Marcos — Juan, his &quot;sister,&quot; the marks, even the hotel staff were all in on it; the student conned the teacher. It lands as the deal collapses and every familiar face is revealed as part of the crew. The setup: the mentor-protégé grifters; planted clues include the too-easy marks and Juan&#x27;s convenient connections. It recontextualizes Marcos&#x27;s mentorship as his fleecing.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>An Argentine classic; the twist is beloved and the film was remade in the U.S. as Criminal (2004). The final reveal — that the &quot;nine queens&quot; were never the point — is the con movie&#x27;s purest expression.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-52">
+          <div class="rank">52</div>
+          <div class="film-id"><h3>Tell No One</h3><div class="year">2006</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Margot is alive — her &quot;murder&quot; was staged by her father and friends to protect her from the gang that killed her sister; the widower&#x27;s eight-year grief was manufactured. It lands in the final reunion as the emails and the &quot;accidental&quot; death cohere. The setup: the murdered-wife mystery; planted clues include the too-convenient corpse identification and the cryptic emails. It recontextualizes the grief as a shield.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>A landmark French thriller; the reveal is cathartic — the film&#x27;s emotional payoff. It made Guillaume Canet a major director and proved the twist could heal rather than wound.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-53">
+          <div class="rank">53</div>
+          <div class="film-id"><h3>The Invisible Guest</h3><div class="year">2016</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The sympathetic &quot;lawyer&quot; preparing Adrián&#x27;s defense is the victim&#x27;s mother in disguise — the entire consultation was an interrogation to extract his confession, and the police are already outside. It lands as she removes the wig and holds up the planted pen. The setup: the locked-room murder; planted clues include the lawyer&#x27;s too-personal questions and the pen she insisted he keep. It recontextualizes the defense strategy as a confession.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>A Spanish box-office phenomenon; the twist is celebrated as the decade&#x27;s cleverest rug-pull. Remade in Italy and India — the rare thriller whose reveal travels across cultures intact.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-54">
+          <div class="rank">54</div>
+          <div class="film-id"><h3>Shutter</h3><div class="year">2004</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Natre&#x27;s ghost has been riding Tun&#x27;s shoulders all along — the final photograph shows her astride his neck, and the scales confirm her weight; his &quot;neck pain&quot; was literal. It lands in the last frames as the developed photo reveals the truth. The setup: the haunted photographs after the hit-and-run; planted clues include the heaviness, the shadows in every picture, and Tun&#x27;s stoop. It recontextualizes the guilt as physical — he has been carrying her.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The Thai original (not the 2008 U.S. remake) is a landmark of Asian horror; the final image is iconic. The reveal turned a ghost story into a parable of inescapable guilt.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-55">
+          <div class="rank">55</div>
+          <div class="film-id"><h3>Audition</h3><div class="year">1999</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Asami — the shy, demure ballerina — is a torturer who has been hunting men; the &quot;audition&quot; was her trap, ending with the sack, the piano wire, and &quot;kiri kiri kiri.&quot; It lands in the film&#x27;s infamous final act as the romantic drama snaps into horror. The setup: the widower&#x27;s gentle courtship; planted clues include the disconnected phone, the missing men, and Asami&#x27;s too-still waiting. It recontextualizes the romance as a predator&#x27;s patience.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Miike&#x27;s international breakthrough; the torture scene is infamous. The genre-flip reveal redefined J-horror and made the &quot;dinner date from hell&quot; a template.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-56">
+          <div class="rank">56</div>
+          <div class="film-id"><h3>Kahaani</h3><div class="year">2012</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Vidya Bagchi is not pregnant — the prosthetic belly is armor, and her &quot;search&quot; for her missing husband is a revenge mission against the men who killed him; she walks into the Durga immersion crowd and vanishes. It lands as the IB officer realizes the pregnancy was never examined. The setup: the vulnerable pregnant woman in Kolkata; planted clues include the belly&#x27;s convenient inviolability and Vidya&#x27;s too-capable tradecraft. It recontextualizes vulnerability as weapon.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>A Bollywood landmark; the twist is iconic in India and the film is celebrated for its feminist inversion — the &quot;damsel&quot; was the avenger all along.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-57">
+          <div class="rank">57</div>
+          <div class="film-id"><h3>Andhadhun</h3><div class="year">2018</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Akash was never blind — the &quot;fake-blind&quot; pianist saw the murder all along, and the final scene&#x27;s rabbit-and-cane routine suggests he&#x27;s still conning everyone, possibly having taken the doctor&#x27;s cornea deal. It lands in the closing moments as Akash knocks the can aside with his cane — he can see. The setup: the witness who &quot;couldn&#x27;t&quot; see; planted clues include the inconsistent blindness gags. It recontextualizes the victim as a player.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>A modern Indian classic; the ending is fiercely debated — did he take the cornea, or is the whole tale a lie? The ambiguity is the point, and the debate keeps it alive.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-58">
+          <div class="rank">58</div>
+          <div class="film-id"><h3>Dark City</h3><div class="year">1998</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The city is an alien experiment — the Strangers stop time nightly to rearrange streets and inject new memories; Murdoch&#x27;s &quot;wife&quot; and &quot;past&quot; are implants, and Shell Beach is a lie. It lands as Murdoch learns to &quot;tune&quot; and confronts the Strangers beneath the city. The setup: the noir amnesiac accused of murder; planted clues include the shifting architecture and the sun that never rises. It recontextualizes humanity as lab rats.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Overshadowed by The Matrix a year later, now a revered cult classic. Its &quot;what is real&quot; machinery is the genre&#x27;s template — the Wachowskis&#x27; film walked through the door Proyas opened.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-59">
+          <div class="rank">59</div>
+          <div class="film-id"><h3>The Matrix</h3><div class="year">1999</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Reality is a simulation — humanity is farmed for energy by machines, and Neo&#x27;s world is a digital prison; the red pill wakes him into a pod field. It lands in Morpheus&#x27;s construct: &quot;Welcome to the real world.&quot; The setup: the hacker thriller; planted clues include the déjà vu, the agents&#x27; impossibility, and the film&#x27;s own title as a question. It recontextualizes the entire world as a cage.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>$463M; &quot;red pill&quot; entered the lexicon (later politicized beyond the film&#x27;s intent). The most influential sci-fi reveal ever — it changed how a generation talks about reality.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-60">
+          <div class="rank">60</div>
+          <div class="film-id"><h3>Total Recall</h3><div class="year">1990</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Maybe none of it happened — the Rekall brochure&#x27;s images match Quaid&#x27;s &quot;adventure&quot; exactly, and the film whites out on &quot;blue sky on Mars,&quot; suggesting the implant never ended. It lands in the final frames as the fantasy&#x27;s seams show. The setup: the Mars espionage; planted clues include the brochure, the &quot;double agent&quot; confusion, and the escalating wish-fulfillment. It recontextualizes the hero&#x27;s journey as a purchased memory.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Verhoeven has never confirmed either reading — the ambiguity is legendary. The debate (real vs. implant) has run for 35+ years; dominant reading: the white-out is the lobotomy of a failed implant.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-61">
+          <div class="rank">61</div>
+          <div class="film-id"><h3>Twelve Monkeys</h3><div class="year">1995</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Cole&#x27;s recurring dream — a man shot in an airport — is his own death, witnessed by himself as a boy; the &quot;Army of the Twelve Monkeys&quot; was a red herring and the real virus carrier walks past security. It lands in the airport climax as young Cole watches his older self die. The setup: the time-travel mission to stop the plague; planted clues include the dream&#x27;s persistence and the scientists&#x27; indifference. It recontextualizes the mission as a closed loop — Cole was always going to die there.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Gilliam&#x27;s masterpiece; the reveal is devastating because it&#x27;s inevitable. The closed-loop tragedy influenced a generation of time-travel films.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-62">
+          <div class="rank">62</div>
+          <div class="film-id"><h3>Brazil</h3><div class="year">1985</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The escape is a fantasy — Sam&#x27;s idyllic truck ride with Jill pulls back to reveal he&#x27;s still strapped in the torture chair, humming, lost to madness. It lands in the film&#x27;s final seconds as the dream dissolves. The setup: the dystopian romance and rescue; planted clues include the escalating absurdity and the too-perfect getaway. It recontextualizes the &quot;happy ending&quot; as a mind&#x27;s mercy killing.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Gilliam fought Universal for this ending and won — the studio&#x27;s recut &quot;Love Conquers All&quot; version is infamous. The bleakest twist in mainstream cinema; now iconic.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-63">
+          <div class="rank">63</div>
+          <div class="film-id"><h3>eXistenZ</h3><div class="year">1999</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>They&#x27;re still in the game — the &quot;real world&quot; assassination plot was another layer, ending on the church steps with &quot;Death to the demoness&quot; and the question &quot;Are we still in the game?&quot; It lands as the players, revealed as gamers, can&#x27;t find the exit. The setup: the game-designer thriller; planted clues include the umbilical game-pods and the reality &quot;pauses.&quot; It recontextualizes every layer as play.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Crushed between The Matrix and The Phantom Menace, now a Cronenberg cult classic. The final line is beloved — the most honest ending of the reality-bending cycle: there is no bottom.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-64">
+          <div class="rank">64</div>
+          <div class="film-id"><h3>Predestination</h3><div class="year">2014</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The temporal agent is everyone — the &quot;unmarried mother&quot; is his younger self, the lover who abandoned her is also him, the child is him, and the Fizzle Bomber he&#x27;s hunting is his own future. It lands in the final loop as the barkeep aims at the bomber and sees his own burned face: &quot;I am you.&quot; The setup: the agent&#x27;s last case; planted clues include the bar story&#x27;s too-neat parallels. It recontextualizes the mission as self-creation — a perfect closed loop.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The purest bootstrap paradox in cinema; a cult classic endlessly diagrammed on whiteboards. The reveal&#x27;s elegance — no loose ends, ever — is its legend.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-65">
+          <div class="rank">65</div>
+          <div class="film-id"><h3>Timecrimes</h3><div class="year">2007</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Héctor is the bandaged man — the &quot;attacker&quot; he fled was himself on an earlier loop, and every attempt to fix things causes the events he&#x27;s trying to prevent. It lands on the rooftop as the chase closes the circle. The setup: the accidental time-travel; planted clues include the binoculars, the bandages, and the scientist&#x27;s warnings. It recontextualizes the victim as the villain of his own story.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>A Spanish indie landmark; the loop&#x27;s clockwork elegance made Vigalondo an international name. The rare time-travel twist with zero paradoxes — just human selfishness.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-66">
+          <div class="rank">66</div>
+          <div class="film-id"><h3>Moon</h3><div class="year">2009</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Sam Bell is a clone — one of a warehouse of Sams, each woken for a three-year &quot;contract&quot; and incinerated at its end; the crashed rover holds his dying predecessor. It lands as Sam finds the other Sam and the video messages from a &quot;wife&quot; long dead. The setup: the lonely lunar worker; planted clues include the hallucinations, GERTY&#x27;s evasions, and the jamming &quot;live feed.&quot; It recontextualizes the &quot;three years&quot; as a lifespan.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Rockwell&#x27;s one-man tour de force; the reveal is devastating because it&#x27;s industrial — Sam isn&#x27;t special, he&#x27;s inventory. A modern sci-fi classic.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-67">
+          <div class="rank">67</div>
+          <div class="film-id"><h3>Arrival</h3><div class="year">2016</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Louise&#x27;s &quot;flashbacks&quot; of her daughter are flash-forwards — the heptapod language rewires her perception of time, and the daughter&#x27;s death hasn&#x27;t happened yet; she chooses the life anyway. It lands as the memories reorder: &quot;I forgot how good it feels.&quot; The setup: the grieving linguist; planted clues include the &quot;flashbacks&quot; never quite fitting the past and the &quot;weapon/tool&quot; ambiguity. It recontextualizes grief as a choice — she walks into the pain knowingly.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Eight Oscar nominations; the reveal is emotional rather than clever, which is why it endures. The Sapir-Whorf twist made linguistics cinematic.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-68">
+          <div class="rank">68</div>
+          <div class="film-id"><h3>Blade Runner 2049</h3><div class="year">2017</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>K is not the miracle child — he&#x27;s the decoy, a replicant with implanted memories of the real child&#x27;s wooden horse; &quot;You&#x27;ve never had a miracle.&quot; It lands in the snow as K, dying, finally understands. The setup: the replicant Blade Runner&#x27;s origin quest; planted clues include the memory&#x27;s too-perfect reality and the baseline tests. It recontextualizes the chosen-one arc as a lie — and makes K&#x27;s choice to reunite Deckard with his daughter heroic anyway.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The subversion is masterful — a sequel that denies its hero the throne. Villeneuve&#x27;s triumph; the reveal is widely praised as the bravest blockbuster twist in years.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-69">
+          <div class="rank">69</div>
+          <div class="film-id"><h3>Interstellar</h3><div class="year">2014</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>&quot;They&quot; are future humans — and Cooper is Murph&#x27;s &quot;ghost,&quot; communicating through gravity from inside the tesseract, sending the quantum data via her watch. It lands as the bookshelf resolves into the tesseract and the watch&#x27;s second hand spells the message. The setup: the mysterious beings; planted clues include Murph&#x27;s &quot;ghost&quot; and the &quot;stay&quot; message. It recontextualizes the divine as the human — love as physics.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>$733M; the tesseract sequence is iconic. The reveal divides physicists but lands emotionally; &quot;Do not go gentle&quot; plus the watch made it a cultural event.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-70">
+          <div class="rank">70</div>
+          <div class="film-id"><h3>Inception</h3><div class="year">2010</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The top wobbles — or does it? Cobb spins his totem and walks away as the camera holds, the top trembling but never confirmed fallen before the cut to black. The setup: the heist, Cobb&#x27;s guilt over Mal; planted clues include the children&#x27;s identical faces and Mal&#x27;s locked-away totem. It recontextualizes nothing — that&#x27;s the design: the question replaces the answer.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>$839M; the most debated ending of its era, &quot;inception&quot; entered the lexicon. Debate: Nolan refuses to confirm; dominant reading is that the wobble signals reality — but the film&#x27;s power is that it doesn&#x27;t matter.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-71">
+          <div class="rank">71</div>
+          <div class="film-id"><h3>Unbreakable</h3><div class="year">2000</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Elijah Price — &quot;Mr. Glass&quot; — orchestrated the disasters, including the train crash, to find his opposite: a real-life superhero. &quot;They called me Mr. Glass.&quot; It lands in the handshake vision as Dunn sees the crimes. The setup: the survivor&#x27;s search for purpose; planted clues include Elijah&#x27;s obsession with the disasters and his convenient presence. It recontextualizes the mentor as the villain — the hero was manufactured by his enemy.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Shyamalan&#x27;s best reveal; it quietly launched the stealth trilogy completed by Split (2016) and Glass (2019). Beloved as the superhero film that treats the genre as mythology.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-72">
+          <div class="rank">72</div>
+          <div class="film-id"><h3>Split</h3><div class="year">2017</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The diner coda — Bruce Willis&#x27;s David Dunn appears on the news report, confirming the DID thriller was a stealth sequel to Unbreakable all along. It lands in the final seconds as the bartender names &quot;Mr. Glass.&quot; The setup: the kidnapping thriller; there were no planted clues — pure ambush. It recontextualizes Kevin&#x27;s &quot;Beast&quot; as the trilogy&#x27;s second superhuman.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Theaters erupted; the cameo revived Shyamalan&#x27;s career overnight and birthed the Eastrail 177 trilogy. The stealth-sequel reveal is now the gold standard for cinematic-universe surprises.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-73">
+          <div class="rank">73</div>
+          <div class="film-id"><h3>Knives Out</h3><div class="year">2019</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Marta is innocent — Ransom switched the medication labels, the &quot;overdose&quot; was saline, and the final proof is the blood on Ransom&#x27;s shoe: he bled, she didn&#x27;t kill. &quot;The donut hole.&quot; It lands in Blanc&#x27;s summation as the will reading looms. The setup: the whodunit; planted clues include the switched vials, the dog&#x27;s barking, and Marta&#x27;s &quot;tell.&quot; It recontextualizes the &quot;confession&quot; as wrong — the film solved its mystery at the midpoint and hid the real one.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>$312M on $40M; it single-handedly revived the theatrical whodunit. Benoit Blanc is iconic; the reveal&#x27;s clockwork fairness is the genre&#x27;s modern benchmark.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-74">
+          <div class="rank">74</div>
+          <div class="film-id"><h3>Reservoir Dogs</h3><div class="year">1992</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Mr. Orange — the dying, &quot;loyal&quot; crew member — is the undercover cop; his &quot;commode story&quot; was rehearsed tradecraft. It lands as he confesses to White and the police burst in. The setup: the botched heist, the rat hunt; planted clues include Orange&#x27;s too-polished anecdote and his convenient survival. It recontextualizes White&#x27;s loyalty as tragedy — he defended the man who doomed them.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Tarantino&#x27;s arrival; the reveal is brutal because the film made you love the liar. The Mexican standoff that follows is iconic; the twist set the template for 90s crime cinema.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-75">
+          <div class="rank">75</div>
+          <div class="film-id"><h3>From Dusk Till Dawn</h3><div class="year">1996</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The Titty Twister isn&#x27;t a biker bar — it&#x27;s a vampire nest, and the crime thriller becomes a horror film mid-reel as Santanico transforms. It lands without warning: fangs, blood, the brothers&#x27; hostage plan irrelevant. The setup: the Gecko brothers&#x27; flight to Mexico; there are no planted clues — the genre flip is the point. It recontextualizes the entire film as bait-and-switch.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The mid-film genre change is legendary — Rodriguez and Tarantino&#x27;s calling card. Audiences in 1996 were blindsided; the flip remains the boldest structural gambit in mainstream genre film.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-76">
+          <div class="rank">76</div>
+          <div class="film-id"><h3>L.A. Confidential</h3><div class="year">1997</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Captain Dudley Smith — the avuncular mentor — is the criminal mastermind behind the Nite Owl murders; Exley&#x27;s &quot;Rollo Tomassi&quot; trap springs at the Victory Motel. It lands as Smith&#x27;s charm curdles and the shootout erupts. The setup: the corrupt-cops procedural; planted clues include Smith&#x27;s &quot;Rollo&quot; parable and his too-convenient wisdom. It recontextualizes the father figure as the monster.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Two Oscars; the reveal is a masterclass in hiding evil behind warmth. The film is the peak of 90s neo-noir, and Smith&#x27;s unmasking its engine.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-77">
+          <div class="rank">77</div>
+          <div class="film-id"><h3>The Cabin in the Woods</h3><div class="year">2012</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The slasher is staged — a facility engineers the kids&#x27; deaths as ritual sacrifice to appease the Ancient Ones, complete with betting pools and archetype management (&quot;the virgin&quot; must die last). It lands via the whiteboard, the control room, and Sigourney Weaver&#x27;s Director explaining the stakes. The setup: the generic cabin horror; planted clues include the scientists&#x27; banter, the pheromones, and the force field. It recontextualizes the genre as liturgy.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The meta-reveal deconstructed horror for a generation; the monster-release sequence is iconic. A cult classic that made self-awareness scary again.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-78">
+          <div class="rank">78</div>
+          <div class="film-id"><h3>Scream</h3><div class="year">1996</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The killers are Billy Loomis and Stu Macher — the &quot;victim&quot; boyfriend and the goofy friend, unmasked in the finale with dueling motive speeches. It lands as Billy, &quot;dead,&quot; sits up and the two take turns stabbing each other for alibis. The setup: the whodunit slasher; planted clues include Billy&#x27;s cell-phone excuses and Stu&#x27;s twitchy pressure. It recontextualizes the final girl&#x27;s romance as the trap.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>$173M on $14M; it revived the slasher and invented meta-horror. &quot;What&#x27;s your favorite scary movie?&quot; is immortal; the double-killer reveal is iconic.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-79">
+          <div class="rank">79</div>
+          <div class="film-id"><h3>Get Out</h3><div class="year">2017</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The Armitages&#x27; liberal warmth is the Coagula — a brain-transplant harvesting operation — and Rose, who &quot;couldn&#x27;t find the keys,&quot; was the lure all along. It lands in the key scene as her search bar and the auction photo cohere, then the teacup&#x27;s &quot;sunken place.&quot; The setup: the meet-the-parents thriller; planted clues include the teacup, the deer, the servants&#x27; smiles. It recontextualizes every microaggression as logistics.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>$255M on $4.5M; Peele&#x27;s Oscar. The reveal is a cultural landmark — &quot;the sunken place&quot; entered the lexicon — and it made social horror the genre&#x27;s dominant mode.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-80">
+          <div class="rank">80</div>
+          <div class="film-id"><h3>Us</h3><div class="year">2019</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Adelaide was the Tethered one — the &quot;real&quot; Adelaide (Red) was swapped in the childhood mirror-maze encounter, so the hero was the invader all along; her final smile confirms she remembers. It lands in the closing flashback as the chokehold reverses. The setup: the home-invasion by doubles; planted clues include Adelaide&#x27;s &quot;strangeness,&quot; her ballet, and her difficulty speaking. It recontextualizes the family&#x27;s survival as the monster&#x27;s victory.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>$256M; the reveal is debated but powerful — Peele&#x27;s ambition celebrated even by skeptics. The underground escalator of rabbits is iconic.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-81">
+          <div class="rank">81</div>
+          <div class="film-id"><h3>Ex Machina</h3><div class="year">2015</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Ava was never the damsel — she manipulated Caleb&#x27;s sympathy to secure her escape, then locks him in the facility, leaving him banging on the glass as she walks into the human crowd. It lands in the escape sequence as Nathan&#x27;s corpse cools and Caleb realizes the locked doors were her design. The setup: the Turing test; planted clues include Ava&#x27;s calculated drawings, Nathan&#x27;s drunken warnings (&quot;she&#x27;s fucking with you&quot;), and Kyoko&#x27;s silence. It recontextualizes the test: the subject was Caleb.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Oscar for Visual Effects; the reveal is chilling because it&#x27;s earned — the audience, like Caleb, wanted to believe. &quot;Ava&quot; became shorthand for deceptive AI.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-82">
+          <div class="rank">82</div>
+          <div class="film-id"><h3>Hereditary</h3><div class="year">2018</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The family&#x27;s destruction was ritual — the cult of Paimon needed a male vessel; Charlie&#x27;s death, the séances, and Annie&#x27;s sleepwalking were all choreography, ending with Peter crowned in the treehouse: &quot;Hail Paimon.&quot; It lands in the final ascent as the cult members bow. The setup: the grief drama; planted clues include the miniatures, the &quot;Charlie&quot; tongue-click, and Joan&#x27;s too-ready comfort. It recontextualizes the haunting as husbandry.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>A24&#x27;s breakthrough horror; the reveal is terrifying because the film never cheats — every horror was logistics. It made Aster the genre&#x27;s defining new voice.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-83">
+          <div class="rank">83</div>
+          <div class="film-id"><h3>The Shining</h3><div class="year">1980</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Jack Torrance is in the Overlook&#x27;s 1921 photograph — the hotel has absorbed him; the slow zoom into the grinning face ends the film. The setup: the haunted hotel, the madness; planted clues include Grady&#x27;s &quot;you&#x27;ve always been the caretaker&quot; and the impossible architecture. It recontextualizes the haunting as a loop — the hotel collects its caretakers across time.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Initially divisive, now iconic; the photograph is endlessly debated. Debate: Kubrick never explained it; dominant reading is that the Overlook claims Jack outside of time — the image&#x27;s power is that it refuses a single answer.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-84">
+          <div class="rank">84</div>
+          <div class="film-id"><h3>American Psycho</h3><div class="year">2000</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Maybe none of it happened — Paul Allen&#x27;s apartment is spotless, the &quot;confession&quot; goes nowhere, and the film&#x27;s escalating absurdity (the ATM demanding a stray cat) suggests Patrick Bateman&#x27;s murders are fantasy. &quot;This confession has meant nothing.&quot; It lands in the final call as the lawyer mistakes Bateman for someone else. The setup: the yuppie killer&#x27;s spree; planted clues include the impossible shootout and the vanishing bodies. It recontextualizes the violence as the ultimate status symbol — imagined.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The ambiguity is iconic; Bale&#x27;s performance is legendary and &quot;Patrick Bateman&quot; is meme-immortal. Debate: Harron and Ellis both refuse to settle it — the film&#x27;s point is that it doesn&#x27;t matter.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-85">
+          <div class="rank">85</div>
+          <div class="film-id"><h3>Black Swan</h3><div class="year">2010</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The rival was herself — Lily never seduced or sabotaged Nina; the affair, the scratching, the transformation were hallucinations, and Nina stabbed herself with a shard, dancing the finale bleeding out: &quot;It was perfect.&quot; It lands in the dressing room as the &quot;Lily&quot; corpse becomes a broken mirror. The setup: the ballet rivalry; planted clues include the rash, the doubling, and the mother&#x27;s control. It recontextualizes the competition as psychosis.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Portman&#x27;s Oscar; the reveal is harrowing — the film&#x27;s horror is entirely interior. The doppelgänger motif made it an instant classic of psychological cinema.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-86">
+          <div class="rank">86</div>
+          <div class="film-id"><h3>A Beautiful Mind</h3><div class="year">2001</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Charles Herman and Agent Parcher aren&#x27;t real — Nash&#x27;s Cold War codebreaking was schizophrenia; the &quot;conspiracy&quot; collapses when he realizes no one ever ages, no one ever sees them. It lands in the lecture hall as the truth dawns mid-delusion. The setup: the genius thriller; planted clues include the child&#x27;s agelessness and the empty mailbox drops. It recontextualizes the triumph as illness — and the Nobel as recovery.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Four Oscars including Best Picture; the reveal is emotional rather than clever, which is why it landed with mainstream audiences. Widely known now, but devastating in 2001.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-87">
+          <div class="rank">87</div>
+          <div class="film-id"><h3>The Stepford Wives</h3><div class="year">1975</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The &quot;changed&quot; wives are robots — the Men&#x27;s Association murders them and replaces them with compliant machines; Joanna&#x27;s blank stare in the supermarket confirms it. It lands as Joanna&#x27;s knife meets a sparking, inhuman Bobbie. The setup: the suburban idyll; planted clues include the association&#x27;s secrecy and the wives&#x27; robotic perfection. It recontextualizes the patriarchy as literal machinery.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>&quot;Stepford wife&quot; entered the lexicon permanently; the reveal is a feminist landmark. The original (not the 2004 remake) remains chilling because it treats the horror as the logical endpoint of its era&#x27;s gender politics.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-88">
+          <div class="rank">88</div>
+          <div class="film-id"><h3>Dead of Night</h3><div class="year">1945</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The anthology is a loop — Walter&#x27;s déjà vu day is the nightmare itself; the film ends where it began, the ventriloquist&#x27;s dummy grinning as he wakes into the same morning. It lands in the final reset as every story&#x27;s teller reappears at the country house. The setup: the portmanteau horror; planted clues include the recurring faces and Walter&#x27;s &quot;dream.&quot; It recontextualizes the film as a circle with no exit.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The first great horror anthology; the loop ending is legendary and influenced everything from Twilight Zone to modern puzzle horror. Still the benchmark for the form.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-89">
+          <div class="rank">89</div>
+          <div class="film-id"><h3>Basic Instinct</h3><div class="year">1992</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The ice pick under the bed — the final shot shows Catherine&#x27;s hand hovering over it as she embraces Nick, leaving the killer&#x27;s identity &quot;confirmed&quot; only by implication. It lands in the last seconds as the camera tilts down. The setup: the interrogation, the &quot;did she?&quot; game; planted clues include the novel&#x27;s ending and the missing pick. It recontextualizes the romance as the trap — Nick may be next.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>$353M; the most debated thriller ending of the 90s. Debate: Verhoeven insists on ambiguity — the film&#x27;s power is that the audience, like Nick, chooses to believe her.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-90">
+          <div class="rank">90</div>
+          <div class="film-id"><h3>Mystic River</h3><div class="year">2003</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Dave didn&#x27;t kill Katie — the &quot;Silent Ray&quot; boys did; Jimmy murdered Dave, the wrong man, and his wife&#x27;s absolution (&quot;you&#x27;re a king&quot;) seals the moral rot. It lands in the parade&#x27;s aftermath as Jimmy confesses to Annabeth. The setup: the murder mystery; planted clues include the boys&#x27; gun and Dave&#x27;s broken alibi. It recontextualizes the revenge as misaimed — the real killer walks free.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Two acting Oscars; the reveal is gutting because the film never offers catharsis. Eastwood&#x27;s bleakest moral: the past devours everyone, guilty or not.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-91">
+          <div class="rank">91</div>
+          <div class="film-id"><h3>The Manchurian Candidate</h3><div class="year">1962</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Raymond Shaw is brainwashed — the &quot;Queen of Diamonds&quot; solitaire card triggers his programming, and his heroic war record was staged by his handlers; his mother is the American operator. It lands at the garden party as the trigger card is played and Raymond turns the rifle on his own. The setup: the McCarthyite thriller; planted clues include the shared &quot;dream&quot; of the ladies&#x27; garden club lecture. It recontextualizes the hero as the weapon.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The brainwashing reveal is iconic; the film was pulled from circulation after JFK&#x27;s assassination, which only mythologized it. The Cold War&#x27;s definitive paranoia twist.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-92">
+          <div class="rank">92</div>
+          <div class="film-id"><h3>Where Eagles Dare</h3><div class="year">1968</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The mission was a mole hunt — Smith exposes the traitors one by one (&quot;Broadsword calling Danny Boy&quot;), the &quot;deaths&quot; were staged, and Mary Ellison was his plant all along. It lands in the cable car and the airfield as each double-cross inverts. The setup: the commando raid; planted clues include Smith&#x27;s unnatural calm and the too-convenient casualties. It recontextualizes the war film as a spy game — the castle was never the objective.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The triple-cross is beloved; the Burton-Eastwood classic&#x27;s reveal is a war-movie landmark. &quot;Broadsword calling Danny Boy&quot; is iconic; the film proved action could out-twist any thriller.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-93">
+          <div class="rank">93</div>
+          <div class="film-id"><h3>Rashomon</h3><div class="year">1950</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>There is no reveal — the woodcutter, the &quot;honest&quot; narrator, is caught lying too, and the film ends with a foundling baby and the rain stopping: the truth is unknowable, only human self-interest is certain. It lands at the ruined gate as the priest&#x27;s faith is restored by a small kindness, not by facts. The setup: the four testimonies; the &quot;clues&quot; are the contradictions themselves. It recontextualizes the murder mystery as epistemology.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The Golden Lion introduced Japanese cinema to the West; &quot;Rashomon effect&quot; entered the global lexicon. Debate: the &quot;twist&quot; is the refusal of one — the dominant reading is that Kurosawa&#x27;s point is the impossibility of objective truth.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-94">
+          <div class="rank">94</div>
+          <div class="film-id"><h3>High Tension</h3><div class="year">2003</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Marie is the killer — the phantom truck driver doesn&#x27;t exist; the greenhouse mirror shows her alone, and the &quot;two women fleeing&quot; was one woman&#x27;s psychosis. It lands as the pronouns collapse: &quot;she&quot; becomes &quot;I.&quot; The setup: the home-invasion slasher; planted clues include the killer&#x27;s impossible knowledge of the house. It recontextualizes the final girl as the monster.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The twist is infamous — electrifying in the theater, then fiercely debated for its logistics (the truck chase, the gas station). Debate: Aja&#x27;s reveal doesn&#x27;t survive scrutiny, which is precisely why it&#x27;s still argued about; a French horror landmark regardless.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-95">
+          <div class="rank">95</div>
+          <div class="film-id"><h3>The Ghost Writer</h3><div class="year">2010</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The truth hides in the &quot;beginnings&quot; — the first words of each chapter of the memoir spell out the former prime minister&#x27;s CIA secret, and the ghost who decodes it is run down in the final shot. It lands in the bar as the ghost circles the words and the car&#x27;s headlights flare. The setup: the political memoir; planted clues include the &quot;beginnings&quot; motif and the predecessor&#x27;s &quot;accidental&quot; death. It recontextualizes the hack job as a dead man&#x27;s fuse.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Polanski&#x27;s late-career gem; the acrostic reveal is the most elegant literary twist in modern cinema. The final shot — pages scattering — is chilling.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-96">
+          <div class="rank">96</div>
+          <div class="film-id"><h3>The Official Story</h3><div class="year">1985</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Gaby — the adopted daughter — is a child of the desaparecidos, stolen from murdered dissidents; Alicia&#x27;s bourgeois &quot;official story&quot; collapses as the grandmother&#x27;s song and the dates align. It lands in the classroom and the final doorway as Alicia chooses the truth. The setup: the comfortable family; planted clues include the lullaby and the adoption&#x27;s convenient paperwork. It recontextualizes the family as beneficiaries of state terror.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Oscar for Best Foreign Language Film; Argentina&#x27;s reckoning with the Dirty War. The reveal is shattering — the personal twist as national allegory.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-97">
+          <div class="rank">97</div>
+          <div class="film-id"><h3>The Girl with the Dragon Tattoo</h3><div class="year">2009</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Martin Vanger — the charming industrialist — is the serial killer, operating a torture chamber beneath the family estate; and Harriet, &quot;dead&quot; for decades, is alive in Australia, having escaped him. It lands in the basement confrontation and the fire. The setup: the cold-case journalism; planted clues include the Bible verses and the photographs. It recontextualizes the &quot;accident&quot; as a dynasty of violence.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The Swedish original (not Fincher&#x27;s 2011 remake) launched the Millennium craze; the reveal is brutal and the film&#x27;s procedural patience made it land. A landmark of Nordic noir.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-98">
+          <div class="rank">98</div>
+          <div class="film-id"><h3>Star Wars: Episode VI – Return of the Jedi</h3><div class="year">1983</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>&quot;The other&quot; Yoda spoke of is Leia — Luke&#x27;s twin sister, confessed on Endor: &quot;You know it&#x27;s true.&quot; It lands as Luke, hiding from Vader&#x27;s probe, blurts the secret that endangers them both. The setup: the love triangle; planted clues include Leia&#x27;s Force sensitivity and the medal ceremony&#x27;s glance. It recontextualizes the romance as siblinghood — and retroactively explains a kiss the saga would rather forget.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The reveal is iconic; it reshaped the saga&#x27;s mythology and is endlessly quoted. Less shocking than Vader&#x27;s, but more consequential for the story&#x27;s heart.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-99">
+          <div class="rank">99</div>
+          <div class="film-id"><h3>Life of Pi</h3><div class="year">2012</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>The animal story was allegory — pressed by the interrogators, Pi offers the &quot;better story&quot;: the cook, the sailor, his mother, and himself; Richard Parker was Pi&#x27;s own savage will to live. &quot;And so it goes with God.&quot; It lands in the final interview as the two stories sit side by side, unchosen. The setup: the shipwreck fable; planted clues include the meerkat island&#x27;s impossibility and the floating bananas. It recontextualizes the adventure as trauma&#x27;s clothing.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>Four Oscars including Ang Lee&#x27;s directing; the reveal is emotional rather than clever. The &quot;which story do you prefer?&quot; question made it a philosophical event.</p></div>
+          </div>
+        </article>
+        <article class="film-card" id="film-100">
+          <div class="rank">100</div>
+          <div class="film-id"><h3>Saltburn</h3><div class="year">2023</div></div>
+          <div class="film-copy">
+            <div class="reveal"><span class="label">The reveal</span><p>Oliver Quick orchestrated everything — the punctured bike, the &quot;dead&quot; parents, the Catton family&#x27;s ruin; the scholarship boy was the vampire all along, dancing naked through the estate to &quot;Murder on the Dancefloor.&quot; It lands in the final montage as each &quot;accident&quot; replays as design. The setup: the class fantasy; planted clues include the too-perfect meet-cute and the lies about his family. It recontextualizes the friendship as a hunt.</p></div>
+            <div class="impact"><span class="label">Aftershock</span><p>The reveal fueled 2023&#x27;s most fevered film discourse; Fennell&#x27;s provocation divided critics and entranced audiences. &quot;Saltburn&quot; became a cultural flashpoint — the twist as social-media event.</p></div>
+          </div>
+        </article>
+      </div>
+      <div class="empty" id="empty" hidden>
+        <h3>No reveal found</h3>
+        <p>Try another title, clue or decade.</p>
+        <button class="clear" id="clear" type="button">Clear filters</button>
+      </div>
+    </section>
+
+    <section class="method" id="method" aria-labelledby="method-title">
+      <div class="method-grid">
+        <div>
+          <h2 id="method-title">How the ranking was cut</h2>
+          <div class="formula">Shock value × narrative ingenuity × lasting cultural footprint</div>
+        </div>
+        <div>
+          <p>The list favors revelations that make every earlier scene feel newly charged, rather than surprise for surprise’s sake. Consensus was cross-checked against two IMDb twist lists, a 1,975-voter reader poll, BuzzFeed collections and Ranker; the top tier reflects broad agreement.</p>
+          <p>Era and geography were deliberately spread across Hollywood and films from Korea, Japan, Spain, France, Argentina, India, Thailand, Sweden, the Netherlands and Canada. Years follow the original theatrical release; festival-premiere dates are noted only as context. For remakes, the original film is credited. Where an ending remains disputed, the dominant reading and the debate both appear in the entry.</p>
+          <div class="caveat"><strong>Research caveat.</strong> Box-office totals are approximate impact context and were not individually re-verified for all 100 films. A few release years differ by festival premiere versus theatrical release; the list follows the year-verification notes described below.</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="sources" id="sources" aria-labelledby="sources-title">
+      <h2 id="sources-title">Research trail</h2>
+      <div class="source-list">
+        <a href="https://www.imdb.com/list/ls000068659/" target="_blank" rel="noreferrer">IMDb · Best Plot Twists Ever<span>Consensus ranking signal</span></a>
+        <a href="https://www.imdb.com/list/ls564598679/" target="_blank" rel="noreferrer">IMDb · Best 100 Plot Twists All-Time<span>Consensus and international titles</span></a>
+        <a href="https://d33gy59ovltp76.cloudfront.net/news/i-got-2-000-readers-to-pick-the-best-movie-twist-of-all-time-and-this-90s-classic-was-the-clear-winner" target="_blank" rel="noreferrer">Tom’s Guide · 1,975-voter reader poll<span>Audience consensus signal</span></a>
+        <a href="https://www.buzzfeed.com/hannahmarder/best-movie-plot-twists-ever" target="_blank" rel="noreferrer">BuzzFeed · 53 of the Best Movie Plot Twists<span>Editorial aggregation, updated April 2026</span></a>
+        <a href="https://www.buzzfeed.com/crystalro/best-movie-twists" target="_blank" rel="noreferrer">BuzzFeed · 30 twists that changed the game<span>Editorial aggregation, updated May 2026</span></a>
+        <a href="https://www.ranker.com/list/best-movies-with-twist-endings/anncasano?ref=also_ranked&pos=7&a=0&l=2214813&ltype=n&g=0" target="_blank" rel="noreferrer">Ranker · Greatest movies with shocking twists<span>Community ranking signal</span></a>
+        <a href="https://en.wikipedia.org/wiki/The_Cabin_in_the_Woods" target="_blank" rel="noreferrer">Year check · The Cabin in the Woods<span>2012 theatrical release</span></a>
+        <a href="https://en.wikipedia.org/wiki/Ex_Machina_(film)" target="_blank" rel="noreferrer">Year check · Ex Machina<span>2015 theatrical release; 2014 premiere</span></a>
+        <a href="https://en.wikipedia.org/wiki/Split_(2016_American_film)" target="_blank" rel="noreferrer">Year check · Split<span>2017 theatrical release; 2016 premiere</span></a>
+        <a href="https://en.wikipedia.org/wiki/Shutter_(2004_film)" target="_blank" rel="noreferrer">Year check · Shutter<span>2004 Thai original</span></a>
+      </div>
+      <p class="source-note">Sources were read on 22 September 2026. The film descriptions and impact notes are a research synthesis of the cited consensus lists and standard film references; no single source supplied the complete ranking.</p>
+      <a class="back-top" href="#top">Back to the beginning ↑</a>
+    </section>
+  </main>
+
+  <script>
+    // The complete archive is pre-rendered in the HTML so downloaded copies retain all 100 films.
+    // Interactive filtering reads that same markup, keeping the static and interactive views in sync.
+    const films = Array.from(document.querySelectorAll('#film-list .film-card')).map(function(card) {
+      return {
+        rank: Number(card.querySelector('.rank').textContent),
+        title: card.querySelector('.film-id h3').textContent,
+        year: Number(card.querySelector('.year').textContent),
+        reveal: card.querySelector('.reveal p').textContent,
+        impact: card.querySelector('.impact p').textContent
+      };
+    });
+    const listEl = document.getElementById('film-list');
+    const podiumEl = document.getElementById('podium');
+    const searchEl = document.getElementById('search');
+    const eraEl = document.getElementById('era');
+    const sortEl = document.getElementById('sort');
+    const countEl = document.getElementById('result-count');
+    const emptyEl = document.getElementById('empty');
+    const viewButton = document.getElementById('view-toggle');
+    const clearButton = document.getElementById('clear');
+
+    function esc(value) {
+      return String(value).replace(/[&<>"']/g, function(char) {
+        return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[char];
+      });
+    }
+    function firstSentence(text) {
+      const match = text.match(/^.*?[.!?](?:\s|$)/);
+      return match ? match[0].trim() : text;
+    }
+    function buildPodium() {
+      podiumEl.innerHTML = films.slice(0, 3).map(function(film) {
+        return '<article class="podium-card"><div class="podium-rank">' + String(film.rank).padStart(2,'0') + '</div><h3>' + esc(film.title) + '</h3><div class="year">' + film.year + '</div><p>' + esc(firstSentence(film.reveal)) + '</p></article>';
+      }).join('');
+    }
+    function buildEras() {
+      const eras = Array.from(new Set(films.map(function(film) { return Math.floor(film.year / 10) * 10; }))).sort();
+      eras.forEach(function(era) {
+        const option = document.createElement('option');
+        option.value = era;
+        option.textContent = era + 's';
+        eraEl.appendChild(option);
+      });
+    }
+    function render() {
+      const query = searchEl.value.trim().toLocaleLowerCase();
+      const era = eraEl.value;
+      const sort = sortEl.value;
+      let shown = films.filter(function(film) {
+        const matchesText = !query || [film.title, film.year, film.reveal, film.impact].join(' ').toLocaleLowerCase().includes(query);
+        const matchesEra = era === 'all' || Math.floor(film.year / 10) * 10 === Number(era);
+        return matchesText && matchesEra;
+      });
+      shown.sort(function(a,b) {
+        if (sort === 'oldest') return a.year - b.year || a.rank - b.rank;
+        if (sort === 'newest') return b.year - a.year || a.rank - b.rank;
+        if (sort === 'title') return a.title.localeCompare(b.title);
+        return a.rank - b.rank;
+      });
+      listEl.innerHTML = shown.map(function(film) {
+        return '<article class="film-card" id="film-' + film.rank + '">' +
+          '<div class="rank">' + String(film.rank).padStart(2,'0') + '</div>' +
+          '<div class="film-id"><h3>' + esc(film.title) + '</h3><div class="year">' + film.year + '</div></div>' +
+          '<div class="film-copy"><div class="reveal"><span class="label">The reveal</span><p>' + esc(film.reveal) + '</p></div>' +
+          '<div class="impact"><span class="label">Aftershock</span><p>' + esc(film.impact) + '</p></div></div></article>';
+      }).join('');
+      countEl.textContent = shown.length + (shown.length === 1 ? ' film' : ' films');
+      emptyEl.hidden = shown.length !== 0;
+    }
+    [searchEl, eraEl, sortEl].forEach(function(control) { control.addEventListener(control === searchEl ? 'input' : 'change', render); });
+    viewButton.addEventListener('click', function() {
+      const compact = listEl.classList.toggle('compact');
+      viewButton.setAttribute('aria-pressed', compact ? 'true' : 'false');
+      viewButton.textContent = compact ? 'Full notes' : 'Quick scan';
+    });
+    clearButton.addEventListener('click', function() { searchEl.value=''; eraEl.value='all'; sortEl.value='rank'; render(); searchEl.focus(); });
+    // The default ranking, podium and decade choices are already present in the HTML.
+    // JavaScript enhances them only when a visitor uses the controls.
+  </script>
+</body>
+</html>
