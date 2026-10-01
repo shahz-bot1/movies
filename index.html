@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Top 100 Cinema Lists</title>
+<style>
+:root, html[data-theme="light"]{
+  --bg:#ffffff; --surface:#f7f5f1; --muted-surface:#efebe3;
+  --text:#1c1a16; --muted:#6f6a5e; --border:#e3ddd2;
+  --accent:#8f2d2d; --on-accent:#ffffff; --focus:#8f2d2d;
+  --shadow:rgba(60,20,20,.10);
+}
+html[data-theme="dark"]{
+  --bg:#141210; --surface:#1f1b18; --muted-surface:#2a2421;
+  --text:#f1ece4; --muted:#aaa096; --border:#3a332d;
+  --accent:#e08a6d; --on-accent:#1c0f08; --focus:#e08a6d;
+  --shadow:rgba(0,0,0,.35);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;line-height:1.55}
+.wrap{max-width:640px;margin:0 auto;padding:18px 16px 40px}
+.topbar{display:flex;justify-content:space-between;align-items:flex-start;gap:8px}
+h1{font-size:26px;margin:0 0 4px}
+.sub{font-size:14px;color:var(--muted);margin:0 0 18px}
+.themebtn{border:1px solid var(--border);background:var(--surface);color:var(--text);border-radius:9px;padding:6px 12px;font-size:13px;cursor:pointer;flex:none}
+.themebtn:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.grid{display:grid;gap:14px}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:18px;box-shadow:0 2px 10px var(--shadow)}
+.ctitle{font-size:19px;font-weight:700;margin:0 0 4px}
+.cdesc{font-size:14px;color:var(--muted);margin:0 0 14px}
+.copen{display:inline-block;background:var(--accent);color:var(--on-accent);border-radius:10px;padding:9px 18px;font-size:14.5px;font-weight:700;text-decoration:none}
+.copen:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.note{font-size:13px;color:var(--muted);margin-top:18px}
+.empty{font-size:14px;color:var(--muted);background:var(--surface);border:1px dashed var(--border);border-radius:14px;padding:18px;text-align:center}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="topbar">
+    <div>
+      <h1>Top 100 Cinema Lists</h1>
+      <p class="sub">Six ranked collections of cinema's most unforgettable scenes — each fully browsable with search, decade filters and sorting.</p>
+    </div>
+    <button class="themebtn" id="themeBtn">Theme: Auto</button>
+  </div>
+  <div class="grid" id="grid"></div>
+  <noscript>
+    <div class="grid">
+      <div class="card"><div class="ctitle">Top 100 Funniest Comedy Scenes</div><div class="cdesc">The biggest laughs in cinema, ranked.</div><a class="copen" href="top-100-funniest-comedy-scenes/">Open the list</a></div>
+      <div class="card"><div class="ctitle">Top 100 Suspense Reveals in Cinema</div><div class="cdesc">Twists and reveals that redefined their films.</div><a class="copen" href="top-100-suspense-reveals-in-cinema/">Open the list</a></div>
+      <div class="card"><div class="ctitle">100 Most Threatening Scenes in Cinema</div><div class="cdesc">The most menacing moments ever filmed.</div><a class="copen" href="100-most-threatening-scenes-in-cinema/">Open the list</a></div>
+      <div class="card"><div class="ctitle">100 Most Devastating Betrayals in Cinema</div><div class="cdesc">The betrayals that cut deepest.</div><a class="copen" href="100-most-devastating-betrayals-in-cinema/">Open the list</a></div>
+      <div class="card"><div class="ctitle">100 Greatest Marriage Proposal Scenes in Cinema</div><div class="cdesc">The most unforgettable proposals.</div><a class="copen" href="100-greatest-marriage-proposal-scenes-in-cinema/">Open the list</a></div>
+      <div class="card"><div class="ctitle">100 Greatest Sacrifice Scenes in Cinema</div><div class="cdesc">The ultimate sacrifices, ranked.</div><a class="copen" href="100-greatest-sacrifice-scenes-in-cinema/">Open the list</a></div>
+    </div>
+  </noscript>
+  <p class="note" id="countNote"></p>
+</div>
+<script>
+(function(){
+"use strict";
+/* To add a list: push a folder named after the list slug containing index.html,
+   then add one entry here. */
+var LISTS = [
+  {id:"top-100-funniest-comedy-scenes", title:"Top 100 Funniest Comedy Scenes", desc:"The biggest laughs in cinema, ranked."},
+  {id:"top-100-suspense-reveals-in-cinema", title:"Top 100 Suspense Reveals in Cinema", desc:"Twists and reveals that redefined their films."},
+  {id:"100-most-threatening-scenes-in-cinema", title:"100 Most Threatening Scenes in Cinema", desc:"The most menacing moments ever filmed."},
+  {id:"100-most-devastating-betrayals-in-cinema", title:"100 Most Devastating Betrayals in Cinema", desc:"The betrayals that cut deepest."},
+  {id:"100-greatest-marriage-proposal-scenes-in-cinema", title:"100 Greatest Marriage Proposal Scenes in Cinema", desc:"The most unforgettable proposals."},
+  {id:"100-greatest-sacrifice-scenes-in-cinema", title:"100 Greatest Sacrifice Scenes in Cinema", desc:"The ultimate sacrifices, ranked."}
+];
+var KEY='cinema-lists-theme', theme='auto';
+try{ theme=localStorage.getItem(KEY)||'auto'; }catch(e){}
+function applyTheme(){
+  var eff=theme;
+  if(theme==='auto'){ eff=(window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches)?'dark':'light'; }
+  document.documentElement.setAttribute('data-theme',eff);
+  document.getElementById('themeBtn').textContent='Theme: '+(theme==='auto'?'Auto':(theme==='dark'?'Dark':'Light'));
+}
+function esc(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+var grid=document.getElementById('grid');
+if(!LISTS.length){
+  grid.innerHTML='<div class="empty">No lists yet — check back soon.</div>';
+}else{
+  grid.innerHTML=LISTS.map(function(r){
+    return '<div class="card"><div class="ctitle">'+esc(r.title)+'</div>'
+      +'<div class="cdesc">'+esc(r.desc)+'</div>'
+      +'<a class="copen" href="'+esc(r.id)+'/">Open the list</a></div>';
+  }).join('');
+}
+document.getElementById('countNote').textContent =
+  LISTS.length+(LISTS.length===1?' list':' lists')+' so far — more will appear here as they are added.';
+document.getElementById('themeBtn').onclick=function(){
+  theme=theme==='auto'?'light':(theme==='light'?'dark':'auto');
+  try{localStorage.setItem(KEY,theme);}catch(e){}
+  applyTheme();
+};
+applyTheme();
+if(window.matchMedia){var mq=window.matchMedia('(prefers-color-scheme: dark)');if(mq.addEventListener){mq.addEventListener('change',function(){if(theme==='auto')applyTheme();});}}
+})();
+</script>
+</body>
+</html>
