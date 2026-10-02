@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>KBO — Kerala Box Office</title>
+<meta name="description" content="KBO: Kerala box office collections, movie details, cast and crew records.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="#/">
+    <span class="brand-mark">KBO</span>
+    <span class="brand-sub">Kerala Box Office</span>
+  </a>
+  <nav class="topnav">
+    <a href="#/movies" data-nav="movies">Movies</a>
+    <a href="#/people" data-nav="people">People</a>
+    <a href="#/stats" data-nav="stats">Stats</a>
+  </nav>
+  <div class="search-wrap">
+    <input id="search" type="search" placeholder="Search movies, people…" autocomplete="off">
+    <div id="search-results" class="search-results hidden"></div>
+  </div>
+  <button id="theme-toggle" class="icon-btn" aria-label="Toggle theme">◐</button>
+</header>
+<main id="app" class="app"></main>
+<footer class="footer">
+  <div>KBO — collections archive captured 2026-10-01. Figures are Kerala box office collections (₹).</div>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>
