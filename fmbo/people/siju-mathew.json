@@ -1,0 +1,41 @@
+{
+ "slug": "siju-mathew",
+ "name": "Siju Mathew",
+ "source_url": "https://fridaymatinee.in/people/siju-mathew",
+ "captured_at": "2026-10-02T10:45:15.481871+00:00",
+ "person": {
+  "name": "Siju Mathew",
+  "photo": null,
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 63,
+   "movie_slug": "forensic",
+   "title": "Forensic",
+   "year": 2020,
+   "kerala_gross": "₹4.2 Cr"
+  },
+  {
+   "movie_id": 75,
+   "movie_slug": "kala",
+   "title": "Kala",
+   "year": 2021,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 241,
+   "movie_slug": "adrishyam",
+   "title": "Adrishyam",
+   "year": 2022,
+   "kerala_gross": "₹49.0L"
+  }
+ ]
+}

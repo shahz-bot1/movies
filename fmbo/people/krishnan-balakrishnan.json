@@ -1,0 +1,48 @@
+{
+ "slug": "krishnan-balakrishnan",
+ "name": "Krishnan Balakrishnan",
+ "source_url": "https://fridaymatinee.in/people/krishnan-balakrishnan",
+ "captured_at": "2026-10-01T23:53:02.766758+00:00",
+ "person": {
+  "name": "Krishnan Balakrishnan",
+  "photo": "https://image.tmdb.org/t/p/w185/xfIdso6VpnfmWmo6SbWWKr8kgGM.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 149,
+   "movie_slug": "vaashi",
+   "title": "Vaashi",
+   "year": 2022,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 677,
+   "movie_slug": "narivetta",
+   "title": "Narivetta",
+   "year": 2025,
+   "kerala_gross": "₹14.9 Cr"
+  },
+  {
+   "movie_id": 746,
+   "movie_slug": "flask",
+   "title": "Flask",
+   "year": 2025,
+   "kerala_gross": "₹23.2L"
+  },
+  {
+   "movie_id": 899,
+   "movie_slug": "ithiri-neram",
+   "title": "Ithiri Neram",
+   "year": 2025,
+   "kerala_gross": "₹33.4L"
+  }
+ ]
+}

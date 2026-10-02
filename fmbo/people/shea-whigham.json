@@ -1,0 +1,41 @@
+{
+ "slug": "shea-whigham",
+ "name": "Shea Whigham",
+ "source_url": "https://fridaymatinee.in/people/shea-whigham",
+ "captured_at": "2026-10-02T10:30:01.602102+00:00",
+ "person": {
+  "name": "Shea Whigham",
+  "photo": "https://image.tmdb.org/t/p/w185/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 15,
+   "movie_slug": "joker",
+   "title": "Joker",
+   "year": 2019,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 405,
+   "movie_slug": "mission-impossible-dead-reckoning-part-one",
+   "title": "Mission: Impossible - Dead Reckoning Part One",
+   "year": 2023,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 692,
+   "movie_slug": "mission-impossible-the-final-reckoning",
+   "title": "Mission: Impossible - The Final Reckoning",
+   "year": 2025,
+   "kerala_gross": "₹3.6 Cr"
+  }
+ ]
+}

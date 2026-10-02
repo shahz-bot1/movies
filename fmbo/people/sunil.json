@@ -1,0 +1,55 @@
+{
+ "slug": "sunil",
+ "name": "Sunil",
+ "source_url": "https://fridaymatinee.in/people/sunil",
+ "captured_at": "2026-10-02T11:06:20.338891+00:00",
+ "person": {
+  "name": "Sunil",
+  "photo": "https://image.tmdb.org/t/p/w185/w92Vawfw4DcLYSLtUeFTm46KNIe.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 123,
+   "movie_slug": "beast",
+   "title": "Beast",
+   "year": 2022,
+   "kerala_gross": "₹6.7 Cr"
+  },
+  {
+   "movie_id": 399,
+   "movie_slug": "maamannan",
+   "title": "Maamannan",
+   "year": 2023,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 414,
+   "movie_slug": "jailer",
+   "title": "Jailer",
+   "year": 2023,
+   "kerala_gross": "₹42.4 Cr"
+  },
+  {
+   "movie_id": 1065,
+   "movie_slug": "love-insurance-kompany",
+   "title": "Love Insurance Kompany",
+   "year": 2026,
+   "kerala_gross": "₹54.0L"
+  },
+  {
+   "movie_id": 1225,
+   "movie_slug": "vishwanath-and-sons",
+   "title": "Vishwanath and Sons",
+   "year": 2026,
+   "kerala_gross": "₹7.2 Cr"
+  }
+ ]
+}

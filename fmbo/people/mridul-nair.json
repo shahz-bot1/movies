@@ -1,0 +1,58 @@
+{
+ "slug": "mridul-nair",
+ "name": "Mridul Nair",
+ "source_url": "https://fridaymatinee.in/people/mridul-nair",
+ "captured_at": "2026-10-02T00:45:17.214865+00:00",
+ "person": {
+  "name": "Mridul Nair",
+  "photo": null,
+  "role": "Actor, director and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 176,
+   "movie_slug": "nna-thaan-case-kodu",
+   "title": "Nna Thaan Case Kodu",
+   "year": 2022,
+   "kerala_gross": "₹15.3 Cr"
+  },
+  {
+   "movie_id": 305,
+   "movie_slug": "anpodu-kanmani",
+   "title": "Anpodu Kanmani",
+   "year": 2025,
+   "kerala_gross": "₹73.4L"
+  },
+  {
+   "movie_id": 644,
+   "movie_slug": "oru-jaathi-jaathakam",
+   "title": "Oru Jaathi Jaathakam",
+   "year": 2025,
+   "kerala_gross": "₹6.2 Cr"
+  },
+  {
+   "movie_id": 1069,
+   "movie_slug": "oru-durooha-saahacharyathil",
+   "title": "Oru Durooha Saahacharyathil",
+   "year": 2026,
+   "kerala_gross": "₹1.9 Cr"
+  }
+ ]
+}

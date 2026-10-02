@@ -1,0 +1,593 @@
+{
+ "id": 400,
+ "slug": "nalla-nilavulla-rathri",
+ "source_url": "https://fridaymatinee.in/boxoffice/nalla-nilavulla-rathri-400",
+ "captured_at": "2026-10-01T18:11:11.489522+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 400,
+    "title": "Nalla Nilavulla Rathri",
+    "img": "https://image.tmdb.org/t/p/original/a1z7SF9fmIcA5RI9AHzod4QxWjY.jpg",
+    "released": "2023-06-30",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27209716",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "126 min",
+    "genre": "Thriller, Action, Comedy",
+    "plot": "Six friends who were batch mates set out a trip to Shimoga. Once they reached their destination, bizarre happenings reveal each persons true identity.",
+    "released": "2023-06-30",
+    "director": "Murphy Devasy",
+    "directorSlug": "murphy-devasy",
+    "actors": [
+     "Baburaj",
+     "Chemban Vinod Jose",
+     "Binu Pappu",
+     "Ganapathi S. Poduval",
+     "Jinu Joseph",
+     "Rony David Raj"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.3",
+      "votes": 426,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:19.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Baburaj",
+     "character": "Kurien",
+     "slug": "baburaj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nuJ7GhTfuBrlGBWeMPIYr59O8kP.jpg"
+    },
+    {
+     "name": "Chemban Vinod Jose",
+     "character": "Irumban",
+     "slug": "chemban-vinod-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4bCAqhHMcPeoI41Emi4BBSXwZaj.jpg"
+    },
+    {
+     "name": "Binu Pappu",
+     "character": "Joshi",
+     "slug": "binu-pappu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zDVvCDE3cdxrAqfZ9J0LgqXfJpY.jpg"
+    },
+    {
+     "name": "Ganapathi S. Poduval",
+     "character": "Aneesh",
+     "slug": "ganapathi-s-poduval",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/15g6TQroqoLmcK1E8CniGZjm72l.jpg"
+    },
+    {
+     "name": "Jinu Joseph",
+     "character": "Dominic",
+     "slug": "jinu-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ag15QQVdGuzzE9JzMYWPDGpZTsr.jpg"
+    },
+    {
+     "name": "Rony David Raj",
+     "character": "Peter",
+     "slug": "rony-david-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xVF53sOhi28IDqPlir2EXfrF9AI.jpg"
+    },
+    {
+     "name": "Nithin George",
+     "character": "Rajeev",
+     "slug": "nithin-george",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sajin Cherukayil",
+     "character": "Paul",
+     "slug": "sajin-cherukayil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fuwZ6g0GMgfKJnaZ6kJljwM277x.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Murphy Devasy",
+       "slug": "murphy-devasy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Murphy Devasy",
+       "slug": "murphy-devasy"
+      },
+      {
+       "name": "Praful suresh",
+       "slug": "praful-suresh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Kailas Menon",
+       "slug": "kailas-menon"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ajay David Kachappilly",
+       "slug": "ajay-david-kachappilly"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shyam Sasidharan",
+       "slug": "shyam-sasidharan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Wilson Thomas",
+       "slug": "wilson-thomas"
+      },
+      {
+       "name": "Sandra Thomas",
+       "slug": "sandra-thomas"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sandra Thomas Productions",
+     "slug": "sandra-thomas-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4690826.8,
+    "totalShows": 1726,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 277689.19999999995,
+     "date": "2023-06-30"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 1537994.7999999998,
+     "date": "2023-07-02"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-06-30"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 400,
+    "title": "Nalla Nilavulla Rathri",
+    "img": "https://image.tmdb.org/t/p/original/a1z7SF9fmIcA5RI9AHzod4QxWjY.jpg",
+    "released": "2023-06-30",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27209716",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "126 min",
+    "genre": "Thriller, Action, Comedy",
+    "plot": "Six friends who were batch mates set out a trip to Shimoga. Once they reached their destination, bizarre happenings reveal each persons true identity.",
+    "released": "2023-06-30",
+    "director": "Murphy Devasy",
+    "directorSlug": "murphy-devasy",
+    "actors": [
+     "Baburaj",
+     "Chemban Vinod Jose",
+     "Binu Pappu",
+     "Ganapathi S. Poduval",
+     "Jinu Joseph",
+     "Rony David Raj"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.3",
+      "votes": 426,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:19.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Baburaj",
+     "character": "Kurien",
+     "slug": "baburaj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nuJ7GhTfuBrlGBWeMPIYr59O8kP.jpg"
+    },
+    {
+     "name": "Chemban Vinod Jose",
+     "character": "Irumban",
+     "slug": "chemban-vinod-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4bCAqhHMcPeoI41Emi4BBSXwZaj.jpg"
+    },
+    {
+     "name": "Binu Pappu",
+     "character": "Joshi",
+     "slug": "binu-pappu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zDVvCDE3cdxrAqfZ9J0LgqXfJpY.jpg"
+    },
+    {
+     "name": "Ganapathi S. Poduval",
+     "character": "Aneesh",
+     "slug": "ganapathi-s-poduval",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/15g6TQroqoLmcK1E8CniGZjm72l.jpg"
+    },
+    {
+     "name": "Jinu Joseph",
+     "character": "Dominic",
+     "slug": "jinu-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ag15QQVdGuzzE9JzMYWPDGpZTsr.jpg"
+    },
+    {
+     "name": "Rony David Raj",
+     "character": "Peter",
+     "slug": "rony-david-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xVF53sOhi28IDqPlir2EXfrF9AI.jpg"
+    },
+    {
+     "name": "Nithin George",
+     "character": "Rajeev",
+     "slug": "nithin-george",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sajin Cherukayil",
+     "character": "Paul",
+     "slug": "sajin-cherukayil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fuwZ6g0GMgfKJnaZ6kJljwM277x.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Murphy Devasy",
+       "slug": "murphy-devasy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Murphy Devasy",
+       "slug": "murphy-devasy"
+      },
+      {
+       "name": "Praful suresh",
+       "slug": "praful-suresh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Kailas Menon",
+       "slug": "kailas-menon"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ajay David Kachappilly",
+       "slug": "ajay-david-kachappilly"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shyam Sasidharan",
+       "slug": "shyam-sasidharan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Wilson Thomas",
+       "slug": "wilson-thomas"
+      },
+      {
+       "name": "Sandra Thomas",
+       "slug": "sandra-thomas"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sandra Thomas Productions",
+     "slug": "sandra-thomas-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2023-06-30",
+     "gross": 4690826.8,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1726,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4690826.8,
+    "totalShows": 1726,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 4690826.8
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4690826.8
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-06-30"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 400,
+    "title": "Nalla Nilavulla Rathri",
+    "img": "https://image.tmdb.org/t/p/original/a1z7SF9fmIcA5RI9AHzod4QxWjY.jpg",
+    "released": "2023-06-30",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27209716",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "126 min",
+    "genre": "Thriller, Action, Comedy",
+    "plot": "Six friends who were batch mates set out a trip to Shimoga. Once they reached their destination, bizarre happenings reveal each persons true identity.",
+    "released": "2023-06-30",
+    "director": "Murphy Devasy",
+    "directorSlug": "murphy-devasy",
+    "actors": [
+     "Baburaj",
+     "Chemban Vinod Jose",
+     "Binu Pappu",
+     "Ganapathi S. Poduval",
+     "Jinu Joseph",
+     "Rony David Raj"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.3",
+      "votes": 426,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:19.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Baburaj",
+     "character": "Kurien",
+     "slug": "baburaj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nuJ7GhTfuBrlGBWeMPIYr59O8kP.jpg"
+    },
+    {
+     "name": "Chemban Vinod Jose",
+     "character": "Irumban",
+     "slug": "chemban-vinod-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4bCAqhHMcPeoI41Emi4BBSXwZaj.jpg"
+    },
+    {
+     "name": "Binu Pappu",
+     "character": "Joshi",
+     "slug": "binu-pappu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zDVvCDE3cdxrAqfZ9J0LgqXfJpY.jpg"
+    },
+    {
+     "name": "Ganapathi S. Poduval",
+     "character": "Aneesh",
+     "slug": "ganapathi-s-poduval",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/15g6TQroqoLmcK1E8CniGZjm72l.jpg"
+    },
+    {
+     "name": "Jinu Joseph",
+     "character": "Dominic",
+     "slug": "jinu-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ag15QQVdGuzzE9JzMYWPDGpZTsr.jpg"
+    },
+    {
+     "name": "Rony David Raj",
+     "character": "Peter",
+     "slug": "rony-david-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xVF53sOhi28IDqPlir2EXfrF9AI.jpg"
+    },
+    {
+     "name": "Nithin George",
+     "character": "Rajeev",
+     "slug": "nithin-george",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sajin Cherukayil",
+     "character": "Paul",
+     "slug": "sajin-cherukayil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fuwZ6g0GMgfKJnaZ6kJljwM277x.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Murphy Devasy",
+       "slug": "murphy-devasy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Murphy Devasy",
+       "slug": "murphy-devasy"
+      },
+      {
+       "name": "Praful suresh",
+       "slug": "praful-suresh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Kailas Menon",
+       "slug": "kailas-menon"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ajay David Kachappilly",
+       "slug": "ajay-david-kachappilly"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shyam Sasidharan",
+       "slug": "shyam-sasidharan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Wilson Thomas",
+       "slug": "wilson-thomas"
+      },
+      {
+       "name": "Sandra Thomas",
+       "slug": "sandra-thomas"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sandra Thomas Productions",
+     "slug": "sandra-thomas-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4690826.8,
+    "totalShows": 1726,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1230907,
+     "date": "Thrissur"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1230907,
+     "date": "Thrissur"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-06-30"
+   }
+  }
+ }
+}

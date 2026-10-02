@@ -1,0 +1,55 @@
+{
+ "slug": "babu-annur",
+ "name": "Babu Annur",
+ "source_url": "https://fridaymatinee.in/people/babu-annur",
+ "captured_at": "2026-10-01T21:07:43.075891+00:00",
+ "person": {
+  "name": "Babu Annur",
+  "photo": "https://image.tmdb.org/t/p/w185/opbdFCDXux0wXHfwA8fjuno5Z3C.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 66,
+   "movie_slug": "vellam",
+   "title": "vellam",
+   "year": 2021,
+   "kerala_gross": "₹52.5L"
+  },
+  {
+   "movie_id": 68,
+   "movie_slug": "yuvam",
+   "title": "Yuvam",
+   "year": 2021,
+   "kerala_gross": "₹10.9L"
+  },
+  {
+   "movie_id": 82,
+   "movie_slug": "chathur-mukham",
+   "title": "Chathur Mukham",
+   "year": 2021,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 401,
+   "movie_slug": "journey-of-love-18",
+   "title": "Journey of Love 18+",
+   "year": 2023,
+   "kerala_gross": "₹4.3 Cr"
+  },
+  {
+   "movie_id": 422,
+   "movie_slug": "kasargold",
+   "title": "Kasargold",
+   "year": 2023,
+   "kerala_gross": "₹1.6 Cr"
+  }
+ ]
+}

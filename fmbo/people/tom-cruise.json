@@ -1,0 +1,53 @@
+{
+ "slug": "tom-cruise",
+ "name": "Tom Cruise",
+ "source_url": "https://fridaymatinee.in/people/tom-cruise",
+ "captured_at": "2026-10-02T11:25:38.656679+00:00",
+ "person": {
+  "name": "Tom Cruise",
+  "photo": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 141,
+   "movie_slug": "top-gun-maverick",
+   "title": "Top Gun Maverick",
+   "year": 2022,
+   "kerala_gross": "₹93.9L"
+  },
+  {
+   "movie_id": 405,
+   "movie_slug": "mission-impossible-dead-reckoning-part-one",
+   "title": "Mission: Impossible - Dead Reckoning Part One",
+   "year": 2023,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 692,
+   "movie_slug": "mission-impossible-the-final-reckoning",
+   "title": "Mission: Impossible - The Final Reckoning",
+   "year": 2025,
+   "kerala_gross": "₹3.6 Cr"
+  },
+  {
+   "movie_id": 1303,
+   "movie_slug": "digger",
+   "title": "Digger",
+   "year": 2026,
+   "kerala_gross": "₹2.3L"
+  }
+ ]
+}

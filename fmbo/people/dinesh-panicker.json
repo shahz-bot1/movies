@@ -1,0 +1,53 @@
+{
+ "slug": "dinesh-panicker",
+ "name": "Dinesh Panicker",
+ "source_url": "https://fridaymatinee.in/people/dinesh-panicker",
+ "captured_at": "2026-10-01T22:02:33.600446+00:00",
+ "person": {
+  "name": "Dinesh Panicker",
+  "photo": "https://image.tmdb.org/t/p/w185/2xHh1laCMu70Ixd5GZDwk7Wzl7i.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 55,
+   "movie_slug": "big-brother",
+   "title": "Big Brother ",
+   "year": 2020,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 932,
+   "movie_slug": "dheeram",
+   "title": "Dheeram",
+   "year": 2025,
+   "kerala_gross": "₹85.6L"
+  },
+  {
+   "movie_id": 1232,
+   "movie_slug": "madhuramee-jeevitham",
+   "title": "Madhuramee Jeevitham",
+   "year": 2026,
+   "kerala_gross": "₹3K"
+  },
+  {
+   "movie_id": 1260,
+   "movie_slug": "pradhama-dhrishtya-kuttakkar",
+   "title": "Pradhama Dhrishtya Kuttakkar",
+   "year": 2026,
+   "kerala_gross": "₹21.0 Cr"
+  }
+ ]
+}

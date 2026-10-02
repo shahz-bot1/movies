@@ -1,0 +1,55 @@
+{
+ "slug": "satya",
+ "name": "Satya",
+ "source_url": "https://fridaymatinee.in/people/satya",
+ "captured_at": "2026-10-02T10:17:53.007684+00:00",
+ "person": {
+  "name": "Satya",
+  "photo": "https://image.tmdb.org/t/p/w185/fWHqfjiqnORU6R2fqwiJnowujdP.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 361,
+   "movie_slug": "agent",
+   "title": "Agent",
+   "year": 2023,
+   "kerala_gross": "₹45.2L"
+  },
+  {
+   "movie_id": 495,
+   "movie_slug": "hanu-man",
+   "title": "Hanu-Man",
+   "year": 2024,
+   "kerala_gross": "₹16.0L"
+  },
+  {
+   "movie_id": 869,
+   "movie_slug": "dude",
+   "title": "Dude",
+   "year": 2025,
+   "kerala_gross": "₹3.4 Cr"
+  },
+  {
+   "movie_id": 957,
+   "movie_slug": "the-rajasaab",
+   "title": "The Rajasaab",
+   "year": 2026,
+   "kerala_gross": "₹61K"
+  },
+  {
+   "movie_id": 974,
+   "movie_slug": "bhartha-mahasayulaku-wignyapthi",
+   "title": "Bhartha Mahasayulaku Wignyapthi",
+   "year": 2026,
+   "kerala_gross": "₹72K"
+  }
+ ]
+}

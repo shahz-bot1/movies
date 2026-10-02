@@ -1,0 +1,41 @@
+{
+ "slug": "vineet-jain",
+ "name": "Vineet Jain",
+ "source_url": "https://fridaymatinee.in/people/vineet-jain",
+ "captured_at": "2026-10-02T11:47:47.860888+00:00",
+ "person": {
+  "name": "Vineet Jain",
+  "photo": null,
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 705,
+   "movie_slug": "ronth",
+   "title": "Ronth",
+   "year": 2025,
+   "kerala_gross": "₹5.3 Cr"
+  },
+  {
+   "movie_id": 909,
+   "movie_slug": "haq",
+   "title": "Haq",
+   "year": 2025,
+   "kerala_gross": "₹4.1L"
+  },
+  {
+   "movie_id": 1272,
+   "movie_slug": "daayra",
+   "title": "Daayra",
+   "year": 2026,
+   "kerala_gross": "₹11.8L"
+  }
+ ]
+}

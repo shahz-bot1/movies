@@ -1,0 +1,76 @@
+{
+ "slug": "renadive",
+ "name": "Renadive",
+ "source_url": "https://fridaymatinee.in/people/renadive",
+ "captured_at": "2026-10-02T08:47:38.669888+00:00",
+ "person": {
+  "name": "Renadive",
+  "photo": "https://image.tmdb.org/t/p/w185/sYiNWJRzqrfym5NBfySGOWNLRVu.jpg",
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 8
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 56,
+   "movie_slug": "shylock",
+   "title": "Shylock",
+   "year": 2020,
+   "kerala_gross": "₹7.1 Cr"
+  },
+  {
+   "movie_id": 193,
+   "movie_slug": "palthu-janwar",
+   "title": "Palthu Janwar",
+   "year": 2022,
+   "kerala_gross": "₹6.8 Cr"
+  },
+  {
+   "movie_id": 470,
+   "movie_slug": "antony",
+   "title": "Antony",
+   "year": 2023,
+   "kerala_gross": "₹5.5 Cr"
+  },
+  {
+   "movie_id": 628,
+   "movie_slug": "ennu-swantham-punyalan",
+   "title": "Ennu Swantham Punyalan",
+   "year": 2025,
+   "kerala_gross": "₹2.5 Cr"
+  },
+  {
+   "movie_id": 681,
+   "movie_slug": "prince-and-family",
+   "title": "Prince And Family",
+   "year": 2025,
+   "kerala_gross": "₹14.8 Cr"
+  },
+  {
+   "movie_id": 724,
+   "movie_slug": "jsk-janaki-v-vs-state-of-kerala",
+   "title": "Jsk - Janaki V Vs State Of Kerala",
+   "year": 2025,
+   "kerala_gross": "₹4.6 Cr"
+  },
+  {
+   "movie_id": 881,
+   "movie_slug": "vilaayath-budha",
+   "title": "Vilaayath Budha",
+   "year": 2025,
+   "kerala_gross": "₹4.5 Cr"
+  },
+  {
+   "movie_id": 1118,
+   "movie_slug": "kattalan",
+   "title": "Kattalan",
+   "year": 2026,
+   "kerala_gross": "₹4.9 Cr"
+  }
+ ]
+}

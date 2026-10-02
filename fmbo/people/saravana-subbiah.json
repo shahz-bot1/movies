@@ -1,0 +1,55 @@
+{
+ "slug": "saravana-subbiah",
+ "name": "Saravana Subbiah",
+ "source_url": "https://fridaymatinee.in/people/saravana-subbiah",
+ "captured_at": "2026-10-02T10:14:32.674231+00:00",
+ "person": {
+  "name": "Saravana Subbiah",
+  "photo": "https://image.tmdb.org/t/p/w185/o6OsYQnm9oXJHbmctOWLQMxBsWg.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 207,
+   "movie_slug": "naane-varuven",
+   "title": "Naane Varuven",
+   "year": 2022,
+   "kerala_gross": "₹31.8L"
+  },
+  {
+   "movie_id": 316,
+   "movie_slug": "viduthalai-part-1",
+   "title": "Viduthalai Part 1",
+   "year": 2023,
+   "kerala_gross": "₹86.9L"
+  },
+  {
+   "movie_id": 524,
+   "movie_slug": "maharaja",
+   "title": "Maharaja",
+   "year": 2024,
+   "kerala_gross": "₹5.7 Cr"
+  },
+  {
+   "movie_id": 618,
+   "movie_slug": "viduthalai-part-2",
+   "title": "Viduthalai Part - 2",
+   "year": 2024,
+   "kerala_gross": "₹66.7L"
+  },
+  {
+   "movie_id": 733,
+   "movie_slug": "maareesan",
+   "title": "Maareesan",
+   "year": 2025,
+   "kerala_gross": "₹1.2 Cr"
+  }
+ ]
+}

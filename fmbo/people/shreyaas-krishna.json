@@ -1,0 +1,41 @@
+{
+ "slug": "shreyaas-krishna",
+ "name": "Shreyaas Krishna",
+ "source_url": "https://fridaymatinee.in/people/shreyaas-krishna",
+ "captured_at": "2026-10-02T10:36:09.083966+00:00",
+ "person": {
+  "name": "Shreyaas Krishna",
+  "photo": null,
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 173,
+   "movie_slug": "sita-ramam",
+   "title": "Sita Ramam",
+   "year": 2022,
+   "kerala_gross": "₹5.0 Cr"
+  },
+  {
+   "movie_id": 678,
+   "movie_slug": "retro",
+   "title": "Retro",
+   "year": 2025,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 997,
+   "movie_slug": "with-love",
+   "title": "With Love",
+   "year": 2026,
+   "kerala_gross": "₹27.5L"
+  }
+ ]
+}

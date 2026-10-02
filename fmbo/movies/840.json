@@ -1,0 +1,758 @@
+{
+ "id": 840,
+ "slug": "nishaanchi",
+ "source_url": "https://fridaymatinee.in/boxoffice/nishaanchi-840",
+ "captured_at": "2026-10-01T18:24:06.044711+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 840,
+    "title": "Nishaanchi",
+    "img": "https://image.tmdb.org/t/p/original/aDI8pTr7QDs1QnDKCKsAoEampZj.jpg",
+    "released": "2025-09-19",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt34794166",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "176 min",
+    "genre": "Crime, Drama",
+    "plot": "Twin brothers, identical looks but different values, face brotherhood, betrayal, love, and redemption. Their paths weave through crime into a deeper story of human nature and its results.",
+    "released": "2025-09-19",
+    "director": "Anurag Kashyap",
+    "directorSlug": "anurag-kashyap",
+    "actors": [
+     "Monika Panwar",
+     "Aaishvary Thackeray",
+     "Vedika Pinto",
+     "Mohammed Zeeshan Ayyub",
+     "Kumud Mishra",
+     "Rajesh Kumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 3241,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Monika Panwar",
+     "character": "Manjari",
+     "slug": "monika-panwar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k6KDBJnLyvx0LWCW1DHEi4XeZES.jpg"
+    },
+    {
+     "name": "Aaishvary Thackeray",
+     "character": "Babloo/Dabloo",
+     "slug": "aaishvary-thackeray",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rxzsI327N1ymyreJ8bjVkMp6biP.jpg"
+    },
+    {
+     "name": "Vedika Pinto",
+     "character": "Rinku",
+     "slug": "vedika-pinto",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xSny2CLcB8C3kzcQ5jmoUnJ5yAX.jpg"
+    },
+    {
+     "name": "Mohammed Zeeshan Ayyub",
+     "character": "Kamal Ajeeb",
+     "slug": "mohammed-zeeshan-ayyub",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cF1j8Vt9YPlOBjy3lfmhuF11dmD.jpg"
+    },
+    {
+     "name": "Kumud Mishra",
+     "character": "Ambika Prasad",
+     "slug": "kumud-mishra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pM4eD7eIEPk2Lx0c5C1K201qnp6.jpg"
+    },
+    {
+     "name": "Rajesh Kumar",
+     "character": "Bhola Pehalwan",
+     "slug": "rajesh-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vat8qbqIeumutuToGX0VrtA06M6.jpg"
+    },
+    {
+     "name": "Girish Sharma",
+     "character": "Young Ambika",
+     "slug": "girish-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9M4W8zMh5aMK4OdorasqjSuDvAn.jpg"
+    },
+    {
+     "name": "Ghanshyam Garg",
+     "character": "Bank Manager",
+     "slug": "ghanshyam-garg",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2Ihi1ovFni9f5tGbQqXmJtRSJ8O.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anurag Kashyap",
+       "slug": "anurag-kashyap"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Prasoon Mishra",
+       "slug": "prasoon-mishra"
+      },
+      {
+       "name": "Ranjan Chandel",
+       "slug": "ranjan-chandel"
+      },
+      {
+       "name": "Anurag Kashyap",
+       "slug": "anurag-kashyap"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ajay Jayanthi",
+       "slug": "ajay-jayanthi"
+      },
+      {
+       "name": "Dhruv Ghanekar",
+       "slug": "dhruv-ghanekar"
+      },
+      {
+       "name": "Manan Bhardwaj",
+       "slug": "manan-bhardwaj"
+      },
+      {
+       "name": "Nishikant Chibber",
+       "slug": "nishikant-chibber"
+      },
+      {
+       "name": "Aaishvary Thackeray",
+       "slug": "aaishvary-thackeray"
+      },
+      {
+       "name": "Anurag Saikia",
+       "slug": "anurag-saikia"
+      },
+      {
+       "name": "Piyush Mishra",
+       "slug": "piyush-mishra"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sylvester Fonseca",
+       "slug": "sylvester-fonseca"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Aarti Bajaj",
+       "slug": "aarti-bajaj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ajay Rai",
+       "slug": "ajay-rai"
+      },
+      {
+       "name": "Ranjan Singh",
+       "slug": "ranjan-singh"
+      },
+      {
+       "name": "Mohan Joshi",
+       "slug": "mohan-joshi"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Flip Films",
+     "slug": "flip-films",
+     "logo": "https://image.tmdb.org/t/p/w185/iJwhvd6n3hzzKLWaK8cexgwNjQN.png"
+    },
+    {
+     "name": "Jar Pictures",
+     "slug": "jar-pictures",
+     "logo": null
+    },
+    {
+     "name": "Amazon MGM Studios",
+     "slug": "amazon-mgm-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-14",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 52020,
+    "totalShows": 11,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 11070,
+     "date": "2025-09-19"
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 28670,
+     "date": "2025-09-20"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-19"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 840,
+    "title": "Nishaanchi",
+    "img": "https://image.tmdb.org/t/p/original/aDI8pTr7QDs1QnDKCKsAoEampZj.jpg",
+    "released": "2025-09-19",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt34794166",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "176 min",
+    "genre": "Crime, Drama",
+    "plot": "Twin brothers, identical looks but different values, face brotherhood, betrayal, love, and redemption. Their paths weave through crime into a deeper story of human nature and its results.",
+    "released": "2025-09-19",
+    "director": "Anurag Kashyap",
+    "directorSlug": "anurag-kashyap",
+    "actors": [
+     "Monika Panwar",
+     "Aaishvary Thackeray",
+     "Vedika Pinto",
+     "Mohammed Zeeshan Ayyub",
+     "Kumud Mishra",
+     "Rajesh Kumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 3241,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Monika Panwar",
+     "character": "Manjari",
+     "slug": "monika-panwar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k6KDBJnLyvx0LWCW1DHEi4XeZES.jpg"
+    },
+    {
+     "name": "Aaishvary Thackeray",
+     "character": "Babloo/Dabloo",
+     "slug": "aaishvary-thackeray",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rxzsI327N1ymyreJ8bjVkMp6biP.jpg"
+    },
+    {
+     "name": "Vedika Pinto",
+     "character": "Rinku",
+     "slug": "vedika-pinto",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xSny2CLcB8C3kzcQ5jmoUnJ5yAX.jpg"
+    },
+    {
+     "name": "Mohammed Zeeshan Ayyub",
+     "character": "Kamal Ajeeb",
+     "slug": "mohammed-zeeshan-ayyub",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cF1j8Vt9YPlOBjy3lfmhuF11dmD.jpg"
+    },
+    {
+     "name": "Kumud Mishra",
+     "character": "Ambika Prasad",
+     "slug": "kumud-mishra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pM4eD7eIEPk2Lx0c5C1K201qnp6.jpg"
+    },
+    {
+     "name": "Rajesh Kumar",
+     "character": "Bhola Pehalwan",
+     "slug": "rajesh-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vat8qbqIeumutuToGX0VrtA06M6.jpg"
+    },
+    {
+     "name": "Girish Sharma",
+     "character": "Young Ambika",
+     "slug": "girish-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9M4W8zMh5aMK4OdorasqjSuDvAn.jpg"
+    },
+    {
+     "name": "Ghanshyam Garg",
+     "character": "Bank Manager",
+     "slug": "ghanshyam-garg",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2Ihi1ovFni9f5tGbQqXmJtRSJ8O.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anurag Kashyap",
+       "slug": "anurag-kashyap"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Prasoon Mishra",
+       "slug": "prasoon-mishra"
+      },
+      {
+       "name": "Ranjan Chandel",
+       "slug": "ranjan-chandel"
+      },
+      {
+       "name": "Anurag Kashyap",
+       "slug": "anurag-kashyap"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ajay Jayanthi",
+       "slug": "ajay-jayanthi"
+      },
+      {
+       "name": "Dhruv Ghanekar",
+       "slug": "dhruv-ghanekar"
+      },
+      {
+       "name": "Manan Bhardwaj",
+       "slug": "manan-bhardwaj"
+      },
+      {
+       "name": "Nishikant Chibber",
+       "slug": "nishikant-chibber"
+      },
+      {
+       "name": "Aaishvary Thackeray",
+       "slug": "aaishvary-thackeray"
+      },
+      {
+       "name": "Anurag Saikia",
+       "slug": "anurag-saikia"
+      },
+      {
+       "name": "Piyush Mishra",
+       "slug": "piyush-mishra"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sylvester Fonseca",
+       "slug": "sylvester-fonseca"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Aarti Bajaj",
+       "slug": "aarti-bajaj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ajay Rai",
+       "slug": "ajay-rai"
+      },
+      {
+       "name": "Ranjan Singh",
+       "slug": "ranjan-singh"
+      },
+      {
+       "name": "Mohan Joshi",
+       "slug": "mohan-joshi"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Flip Films",
+     "slug": "flip-films",
+     "logo": "https://image.tmdb.org/t/p/w185/iJwhvd6n3hzzKLWaK8cexgwNjQN.png"
+    },
+    {
+     "name": "Jar Pictures",
+     "slug": "jar-pictures",
+     "logo": null
+    },
+    {
+     "name": "Amazon MGM Studios",
+     "slug": "amazon-mgm-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-14",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-09-19",
+     "gross": 52020,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 11,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 52020,
+    "totalShows": 11,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 52020
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 52020
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-19"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 840,
+    "title": "Nishaanchi",
+    "img": "https://image.tmdb.org/t/p/original/aDI8pTr7QDs1QnDKCKsAoEampZj.jpg",
+    "released": "2025-09-19",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt34794166",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "176 min",
+    "genre": "Crime, Drama",
+    "plot": "Twin brothers, identical looks but different values, face brotherhood, betrayal, love, and redemption. Their paths weave through crime into a deeper story of human nature and its results.",
+    "released": "2025-09-19",
+    "director": "Anurag Kashyap",
+    "directorSlug": "anurag-kashyap",
+    "actors": [
+     "Monika Panwar",
+     "Aaishvary Thackeray",
+     "Vedika Pinto",
+     "Mohammed Zeeshan Ayyub",
+     "Kumud Mishra",
+     "Rajesh Kumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 3241,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Monika Panwar",
+     "character": "Manjari",
+     "slug": "monika-panwar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k6KDBJnLyvx0LWCW1DHEi4XeZES.jpg"
+    },
+    {
+     "name": "Aaishvary Thackeray",
+     "character": "Babloo/Dabloo",
+     "slug": "aaishvary-thackeray",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rxzsI327N1ymyreJ8bjVkMp6biP.jpg"
+    },
+    {
+     "name": "Vedika Pinto",
+     "character": "Rinku",
+     "slug": "vedika-pinto",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xSny2CLcB8C3kzcQ5jmoUnJ5yAX.jpg"
+    },
+    {
+     "name": "Mohammed Zeeshan Ayyub",
+     "character": "Kamal Ajeeb",
+     "slug": "mohammed-zeeshan-ayyub",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cF1j8Vt9YPlOBjy3lfmhuF11dmD.jpg"
+    },
+    {
+     "name": "Kumud Mishra",
+     "character": "Ambika Prasad",
+     "slug": "kumud-mishra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pM4eD7eIEPk2Lx0c5C1K201qnp6.jpg"
+    },
+    {
+     "name": "Rajesh Kumar",
+     "character": "Bhola Pehalwan",
+     "slug": "rajesh-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vat8qbqIeumutuToGX0VrtA06M6.jpg"
+    },
+    {
+     "name": "Girish Sharma",
+     "character": "Young Ambika",
+     "slug": "girish-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9M4W8zMh5aMK4OdorasqjSuDvAn.jpg"
+    },
+    {
+     "name": "Ghanshyam Garg",
+     "character": "Bank Manager",
+     "slug": "ghanshyam-garg",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2Ihi1ovFni9f5tGbQqXmJtRSJ8O.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anurag Kashyap",
+       "slug": "anurag-kashyap"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Prasoon Mishra",
+       "slug": "prasoon-mishra"
+      },
+      {
+       "name": "Ranjan Chandel",
+       "slug": "ranjan-chandel"
+      },
+      {
+       "name": "Anurag Kashyap",
+       "slug": "anurag-kashyap"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ajay Jayanthi",
+       "slug": "ajay-jayanthi"
+      },
+      {
+       "name": "Dhruv Ghanekar",
+       "slug": "dhruv-ghanekar"
+      },
+      {
+       "name": "Manan Bhardwaj",
+       "slug": "manan-bhardwaj"
+      },
+      {
+       "name": "Nishikant Chibber",
+       "slug": "nishikant-chibber"
+      },
+      {
+       "name": "Aaishvary Thackeray",
+       "slug": "aaishvary-thackeray"
+      },
+      {
+       "name": "Anurag Saikia",
+       "slug": "anurag-saikia"
+      },
+      {
+       "name": "Piyush Mishra",
+       "slug": "piyush-mishra"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sylvester Fonseca",
+       "slug": "sylvester-fonseca"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Aarti Bajaj",
+       "slug": "aarti-bajaj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ajay Rai",
+       "slug": "ajay-rai"
+      },
+      {
+       "name": "Ranjan Singh",
+       "slug": "ranjan-singh"
+      },
+      {
+       "name": "Mohan Joshi",
+       "slug": "mohan-joshi"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Flip Films",
+     "slug": "flip-films",
+     "logo": "https://image.tmdb.org/t/p/w185/iJwhvd6n3hzzKLWaK8cexgwNjQN.png"
+    },
+    {
+     "name": "Jar Pictures",
+     "slug": "jar-pictures",
+     "logo": null
+    },
+    {
+     "name": "Amazon MGM Studios",
+     "slug": "amazon-mgm-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-14",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 52020,
+    "totalShows": 11,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 37820,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 37820,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-19"
+   }
+  }
+ }
+}

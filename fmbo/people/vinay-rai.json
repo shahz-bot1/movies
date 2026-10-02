@@ -1,0 +1,62 @@
+{
+ "slug": "vinay-rai",
+ "name": "Vinay Rai",
+ "source_url": "https://fridaymatinee.in/people/vinay-rai",
+ "captured_at": "2026-10-02T11:46:53.019208+00:00",
+ "person": {
+  "name": "Vinay Rai",
+  "photo": "https://image.tmdb.org/t/p/w185/8xRUq54pt2p6SHc80ezhXnm9nnf.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 114,
+   "movie_slug": "etharkkum-thunindhavan",
+   "title": "Etharkkum Thunindhavan",
+   "year": 2022,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 272,
+   "movie_slug": "christopher",
+   "title": "Christopher",
+   "year": 2023,
+   "kerala_gross": "₹4.1 Cr"
+  },
+  {
+   "movie_id": 495,
+   "movie_slug": "hanu-man",
+   "title": "Hanu-Man",
+   "year": 2024,
+   "kerala_gross": "₹16.0L"
+  },
+  {
+   "movie_id": 616,
+   "movie_slug": "identity",
+   "title": "Identity",
+   "year": 2025,
+   "kerala_gross": "₹6.9 Cr"
+  },
+  {
+   "movie_id": 868,
+   "movie_slug": "diesel",
+   "title": "Diesel",
+   "year": 2025,
+   "kerala_gross": "₹9.5L"
+  },
+  {
+   "movie_id": 1222,
+   "movie_slug": "g-d-n",
+   "title": "G.D.N",
+   "year": 2026,
+   "kerala_gross": "₹18.2L"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "sameer-nair",
+ "name": "Sameer Nair",
+ "source_url": "https://fridaymatinee.in/people/sameer-nair",
+ "captured_at": "2026-10-02T10:04:50.752096+00:00",
+ "person": {
+  "name": "Sameer Nair",
+  "photo": null,
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 390,
+   "movie_slug": "por-thozhil",
+   "title": "Por Thozhil",
+   "year": 2023,
+   "kerala_gross": "₹2.8 Cr"
+  },
+  {
+   "movie_id": 867,
+   "movie_slug": "bison-kaalamaadan",
+   "title": "Bison Kaalamaadan",
+   "year": 2025,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 1147,
+   "movie_slug": "main-vaapas-aaunga",
+   "title": "Main Vaapas Aaunga",
+   "year": 2026,
+   "kerala_gross": "₹16.8L"
+  }
+ ]
+}

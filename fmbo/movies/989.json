@@ -1,0 +1,923 @@
+{
+ "id": 989,
+ "slug": "shelter",
+ "source_url": "https://fridaymatinee.in/boxoffice/shelter-989",
+ "captured_at": "2026-10-01T18:33:32.912815+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 989,
+    "title": "Shelter",
+    "img": "https://image.tmdb.org/t/p/original/klvZs66SG19qmacdwxSRkdFQhQS.jpg",
+    "released": "2026-01-30",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32357218",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "108 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+    "released": "2026-01-28",
+    "director": "Ric Roman Waugh",
+    "directorSlug": "ric-roman-waugh",
+    "actors": [
+     "Jason Statham",
+     "Bodhi Rae Breathnach",
+     "Michael Shaeffer",
+     "Anna Crilly",
+     "Bill Nighy",
+     "Harriet Walter"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 48938,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.8",
+      "votes": 1902,
+      "updatedAt": "2026-09-24T13:10:56.000Z"
+     },
+     "rt": "64%",
+     "metascore": 50,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jason Statham",
+     "character": "Mason",
+     "slug": "jason-statham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+    },
+    {
+     "name": "Bodhi Rae Breathnach",
+     "character": "Jesse",
+     "slug": "bodhi-rae-breathnach",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sONxErk3r0xfoESAmU3GVTxoPDe.jpg"
+    },
+    {
+     "name": "Michael Shaeffer",
+     "character": "Uncle",
+     "slug": "michael-shaeffer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5O0UCmRy8NWpYvHeCJDntPKXmti.jpg"
+    },
+    {
+     "name": "Anna Crilly",
+     "character": "Haneron",
+     "slug": "anna-crilly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wT6e4gDsQwrJjhXlIAj5IhcLICy.jpg"
+    },
+    {
+     "name": "Bill Nighy",
+     "character": "Manafort",
+     "slug": "bill-nighy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+    },
+    {
+     "name": "Harriet Walter",
+     "character": "Prime Minister Fordham",
+     "slug": "harriet-walter",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vH8JrqdHaoFeGos44XeKTNuQMKE.jpg"
+    },
+    {
+     "name": "Eugenia Caruso",
+     "character": "Shop Clerk",
+     "slug": "eugenia-caruso",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ocWaLnqvU58oU7ZAVsVKA1w2Als.jpg"
+    },
+    {
+     "name": "Celine Buckens",
+     "character": "Maddison",
+     "slug": "celine-buckens",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6pGlBFPZ0tErnpr9vi4C8Pe7JJ0.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ric Roman Waugh",
+       "slug": "ric-roman-waugh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ward Parry",
+       "slug": "ward-parry"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "David Buckley",
+       "slug": "david-buckley"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Martin Ahlgren",
+       "slug": "martin-ahlgren"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Matthew Newman",
+       "slug": "matthew-newman"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jason Statham",
+       "slug": "jason-statham"
+      },
+      {
+       "name": "John Friedberg",
+       "slug": "john-friedberg"
+      },
+      {
+       "name": "Brendon Boyea",
+       "slug": "brendon-boyea"
+      },
+      {
+       "name": "Jon Berg",
+       "slug": "jon-berg"
+      },
+      {
+       "name": "Greg Silverman",
+       "slug": "greg-silverman"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Black Bear Pictures",
+     "slug": "black-bear-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/v37N1mFeXNQfvPankg3feBhVvM7.png"
+    },
+    {
+     "name": "Punch Palace Productions",
+     "slug": "punch-palace-productions",
+     "logo": null
+    },
+    {
+     "name": "CineMachine",
+     "slug": "cinemachine",
+     "logo": null
+    },
+    {
+     "name": "Stampede Ventures",
+     "slug": "stampede-ventures",
+     "logo": "https://image.tmdb.org/t/p/w185/vafYjvjZwK4JaV5Hcm9vSzw6f9G.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-01-30": [
+     {
+      "id": 886,
+      "title": "Valathu Vashathe Kallan",
+      "img": "https://image.tmdb.org/t/p/original/p0kze6jxVm5qSulviLtXBniwb3d.jpg"
+     },
+     {
+      "id": 987,
+      "title": "Prakambanam",
+      "img": "https://image.tmdb.org/t/p/original/tTHiAMf4fKB5jL8ZKo6N8Pjm6LN.jpg"
+     },
+     {
+      "id": 988,
+      "title": "Mardaani 3",
+      "img": "https://image.tmdb.org/t/p/original/jLo8qcDOw9CD1COzMLBouOqHtqX.jpg"
+     }
+    ],
+    "2026-02-05": [
+     {
+      "id": 993,
+      "title": "Aashaan",
+      "img": "https://image.tmdb.org/t/p/original/pQxxZqUjkDQBlAqhPZ75MkWCZL3.jpg"
+     },
+     {
+      "id": 999,
+      "title": "The Strangers: Chapter 3",
+      "img": "https://image.tmdb.org/t/p/original/pD2QJSDE260exWpwbD3KK95jq3.jpg"
+     }
+    ],
+    "2026-02-04": [
+     {
+      "id": 996,
+      "title": "Stray Kids: The dominATE Experience",
+      "img": "https://image.tmdb.org/t/p/original/f1MvTJ25dq924ww9UOnLkj3qqs8.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-01-30",
+     "gross": 15260,
+     "sold": 75,
+     "unsold": 429,
+     "shows": 4,
+     "occ": 14.88,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 15260,
+     "lastUpdatedAt": "2026-01-30 18:14:00"
+    },
+    {
+     "label": "2026-01-31",
+     "gross": 57510,
+     "sold": 265,
+     "unsold": 996,
+     "shows": 9,
+     "occ": 21.02,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 72770,
+     "lastUpdatedAt": "2026-01-31 23:14:00"
+    },
+    {
+     "label": "2026-02-01",
+     "gross": 47600,
+     "sold": 227,
+     "unsold": 886,
+     "shows": 8,
+     "occ": 20.4,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 120370,
+     "lastUpdatedAt": "2026-02-01 23:08:00"
+    },
+    {
+     "label": "2026-02-02",
+     "gross": 13370,
+     "sold": 63,
+     "unsold": 622,
+     "shows": 5,
+     "occ": 9.2,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 133740,
+     "lastUpdatedAt": "2026-02-02 23:23:00"
+    },
+    {
+     "label": "2026-02-03",
+     "gross": 9833,
+     "sold": 89,
+     "unsold": 599,
+     "shows": 5,
+     "occ": 12.94,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 143573,
+     "lastUpdatedAt": "2026-02-03 23:23:00"
+    },
+    {
+     "label": "2026-02-04",
+     "gross": 12380,
+     "sold": 55,
+     "unsold": 631,
+     "shows": 5,
+     "occ": 8.02,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 155953,
+     "lastUpdatedAt": "2026-02-04 23:23:00"
+    },
+    {
+     "label": "2026-02-05",
+     "gross": 8030,
+     "sold": 42,
+     "unsold": 542,
+     "shows": 4,
+     "occ": 7.19,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 163983,
+     "lastUpdatedAt": "2026-02-05 14:08:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 163983,
+    "totalShows": 40,
+    "totalSeats": 5521,
+    "totalSold": 816,
+    "avgOcc": "14.8",
+    "totalDays": 7,
+    "totalHousefull": 2,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 2,
+     "gross": 57510,
+     "date": "2026-01-31"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 15260,
+     "date": "2026-01-30"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "7:8030:163983"
+  },
+  "week": {
+   "movie": {
+    "id": 989,
+    "title": "Shelter",
+    "img": "https://image.tmdb.org/t/p/original/klvZs66SG19qmacdwxSRkdFQhQS.jpg",
+    "released": "2026-01-30",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32357218",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "108 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+    "released": "2026-01-28",
+    "director": "Ric Roman Waugh",
+    "directorSlug": "ric-roman-waugh",
+    "actors": [
+     "Jason Statham",
+     "Bodhi Rae Breathnach",
+     "Michael Shaeffer",
+     "Anna Crilly",
+     "Bill Nighy",
+     "Harriet Walter"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 48938,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.8",
+      "votes": 1902,
+      "updatedAt": "2026-09-24T13:10:56.000Z"
+     },
+     "rt": "64%",
+     "metascore": 50,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jason Statham",
+     "character": "Mason",
+     "slug": "jason-statham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+    },
+    {
+     "name": "Bodhi Rae Breathnach",
+     "character": "Jesse",
+     "slug": "bodhi-rae-breathnach",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sONxErk3r0xfoESAmU3GVTxoPDe.jpg"
+    },
+    {
+     "name": "Michael Shaeffer",
+     "character": "Uncle",
+     "slug": "michael-shaeffer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5O0UCmRy8NWpYvHeCJDntPKXmti.jpg"
+    },
+    {
+     "name": "Anna Crilly",
+     "character": "Haneron",
+     "slug": "anna-crilly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wT6e4gDsQwrJjhXlIAj5IhcLICy.jpg"
+    },
+    {
+     "name": "Bill Nighy",
+     "character": "Manafort",
+     "slug": "bill-nighy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+    },
+    {
+     "name": "Harriet Walter",
+     "character": "Prime Minister Fordham",
+     "slug": "harriet-walter",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vH8JrqdHaoFeGos44XeKTNuQMKE.jpg"
+    },
+    {
+     "name": "Eugenia Caruso",
+     "character": "Shop Clerk",
+     "slug": "eugenia-caruso",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ocWaLnqvU58oU7ZAVsVKA1w2Als.jpg"
+    },
+    {
+     "name": "Celine Buckens",
+     "character": "Maddison",
+     "slug": "celine-buckens",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6pGlBFPZ0tErnpr9vi4C8Pe7JJ0.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ric Roman Waugh",
+       "slug": "ric-roman-waugh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ward Parry",
+       "slug": "ward-parry"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "David Buckley",
+       "slug": "david-buckley"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Martin Ahlgren",
+       "slug": "martin-ahlgren"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Matthew Newman",
+       "slug": "matthew-newman"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jason Statham",
+       "slug": "jason-statham"
+      },
+      {
+       "name": "John Friedberg",
+       "slug": "john-friedberg"
+      },
+      {
+       "name": "Brendon Boyea",
+       "slug": "brendon-boyea"
+      },
+      {
+       "name": "Jon Berg",
+       "slug": "jon-berg"
+      },
+      {
+       "name": "Greg Silverman",
+       "slug": "greg-silverman"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Black Bear Pictures",
+     "slug": "black-bear-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/v37N1mFeXNQfvPankg3feBhVvM7.png"
+    },
+    {
+     "name": "Punch Palace Productions",
+     "slug": "punch-palace-productions",
+     "logo": null
+    },
+    {
+     "name": "CineMachine",
+     "slug": "cinemachine",
+     "logo": null
+    },
+    {
+     "name": "Stampede Ventures",
+     "slug": "stampede-ventures",
+     "logo": "https://image.tmdb.org/t/p/w185/vafYjvjZwK4JaV5Hcm9vSzw6f9G.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-01-30": [
+     {
+      "id": 886,
+      "title": "Valathu Vashathe Kallan",
+      "img": "https://image.tmdb.org/t/p/original/p0kze6jxVm5qSulviLtXBniwb3d.jpg"
+     },
+     {
+      "id": 987,
+      "title": "Prakambanam",
+      "img": "https://image.tmdb.org/t/p/original/tTHiAMf4fKB5jL8ZKo6N8Pjm6LN.jpg"
+     },
+     {
+      "id": 988,
+      "title": "Mardaani 3",
+      "img": "https://image.tmdb.org/t/p/original/jLo8qcDOw9CD1COzMLBouOqHtqX.jpg"
+     }
+    ],
+    "2026-02-05": [
+     {
+      "id": 993,
+      "title": "Aashaan",
+      "img": "https://image.tmdb.org/t/p/original/pQxxZqUjkDQBlAqhPZ75MkWCZL3.jpg"
+     },
+     {
+      "id": 999,
+      "title": "The Strangers: Chapter 3",
+      "img": "https://image.tmdb.org/t/p/original/pD2QJSDE260exWpwbD3KK95jq3.jpg"
+     }
+    ],
+    "2026-02-04": [
+     {
+      "id": 996,
+      "title": "Stray Kids: The dominATE Experience",
+      "img": "https://image.tmdb.org/t/p/original/f1MvTJ25dq924ww9UOnLkj3qqs8.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-01-30",
+     "gross": 163983,
+     "sold": 816,
+     "unsold": 4705,
+     "shows": 40,
+     "occ": 14.78,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 163983,
+     "lastUpdatedAt": "2026-02-05 14:08:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 163983,
+    "totalShows": 40,
+    "totalSeats": 5521,
+    "totalSold": 816,
+    "avgOcc": "14.8",
+    "totalDays": 1,
+    "totalHousefull": 2,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 163983
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 163983
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:163983:163983"
+  },
+  "district": {
+   "movie": {
+    "id": 989,
+    "title": "Shelter",
+    "img": "https://image.tmdb.org/t/p/original/klvZs66SG19qmacdwxSRkdFQhQS.jpg",
+    "released": "2026-01-30",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32357218",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "108 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+    "released": "2026-01-28",
+    "director": "Ric Roman Waugh",
+    "directorSlug": "ric-roman-waugh",
+    "actors": [
+     "Jason Statham",
+     "Bodhi Rae Breathnach",
+     "Michael Shaeffer",
+     "Anna Crilly",
+     "Bill Nighy",
+     "Harriet Walter"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 48938,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.8",
+      "votes": 1902,
+      "updatedAt": "2026-09-24T13:10:56.000Z"
+     },
+     "rt": "64%",
+     "metascore": 50,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jason Statham",
+     "character": "Mason",
+     "slug": "jason-statham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+    },
+    {
+     "name": "Bodhi Rae Breathnach",
+     "character": "Jesse",
+     "slug": "bodhi-rae-breathnach",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sONxErk3r0xfoESAmU3GVTxoPDe.jpg"
+    },
+    {
+     "name": "Michael Shaeffer",
+     "character": "Uncle",
+     "slug": "michael-shaeffer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5O0UCmRy8NWpYvHeCJDntPKXmti.jpg"
+    },
+    {
+     "name": "Anna Crilly",
+     "character": "Haneron",
+     "slug": "anna-crilly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wT6e4gDsQwrJjhXlIAj5IhcLICy.jpg"
+    },
+    {
+     "name": "Bill Nighy",
+     "character": "Manafort",
+     "slug": "bill-nighy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+    },
+    {
+     "name": "Harriet Walter",
+     "character": "Prime Minister Fordham",
+     "slug": "harriet-walter",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vH8JrqdHaoFeGos44XeKTNuQMKE.jpg"
+    },
+    {
+     "name": "Eugenia Caruso",
+     "character": "Shop Clerk",
+     "slug": "eugenia-caruso",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ocWaLnqvU58oU7ZAVsVKA1w2Als.jpg"
+    },
+    {
+     "name": "Celine Buckens",
+     "character": "Maddison",
+     "slug": "celine-buckens",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6pGlBFPZ0tErnpr9vi4C8Pe7JJ0.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ric Roman Waugh",
+       "slug": "ric-roman-waugh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ward Parry",
+       "slug": "ward-parry"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "David Buckley",
+       "slug": "david-buckley"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Martin Ahlgren",
+       "slug": "martin-ahlgren"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Matthew Newman",
+       "slug": "matthew-newman"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jason Statham",
+       "slug": "jason-statham"
+      },
+      {
+       "name": "John Friedberg",
+       "slug": "john-friedberg"
+      },
+      {
+       "name": "Brendon Boyea",
+       "slug": "brendon-boyea"
+      },
+      {
+       "name": "Jon Berg",
+       "slug": "jon-berg"
+      },
+      {
+       "name": "Greg Silverman",
+       "slug": "greg-silverman"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Black Bear Pictures",
+     "slug": "black-bear-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/v37N1mFeXNQfvPankg3feBhVvM7.png"
+    },
+    {
+     "name": "Punch Palace Productions",
+     "slug": "punch-palace-productions",
+     "logo": null
+    },
+    {
+     "name": "CineMachine",
+     "slug": "cinemachine",
+     "logo": null
+    },
+    {
+     "name": "Stampede Ventures",
+     "slug": "stampede-ventures",
+     "logo": "https://image.tmdb.org/t/p/w185/vafYjvjZwK4JaV5Hcm9vSzw6f9G.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-01-30": [
+     {
+      "id": 886,
+      "title": "Valathu Vashathe Kallan",
+      "img": "https://image.tmdb.org/t/p/original/p0kze6jxVm5qSulviLtXBniwb3d.jpg"
+     },
+     {
+      "id": 987,
+      "title": "Prakambanam",
+      "img": "https://image.tmdb.org/t/p/original/tTHiAMf4fKB5jL8ZKo6N8Pjm6LN.jpg"
+     },
+     {
+      "id": 988,
+      "title": "Mardaani 3",
+      "img": "https://image.tmdb.org/t/p/original/jLo8qcDOw9CD1COzMLBouOqHtqX.jpg"
+     }
+    ],
+    "2026-02-05": [
+     {
+      "id": 993,
+      "title": "Aashaan",
+      "img": "https://image.tmdb.org/t/p/original/pQxxZqUjkDQBlAqhPZ75MkWCZL3.jpg"
+     },
+     {
+      "id": 999,
+      "title": "The Strangers: Chapter 3",
+      "img": "https://image.tmdb.org/t/p/original/pD2QJSDE260exWpwbD3KK95jq3.jpg"
+     }
+    ],
+    "2026-02-04": [
+     {
+      "id": 996,
+      "title": "Stray Kids: The dominATE Experience",
+      "img": "https://image.tmdb.org/t/p/original/f1MvTJ25dq924ww9UOnLkj3qqs8.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 102103,
+     "sold": 497,
+     "unsold": 2480,
+     "shows": 18,
+     "occ": 16.69,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 102103,
+     "lastUpdatedAt": "2026-02-05 14:08:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 38988,
+     "sold": 197,
+     "unsold": 1157,
+     "shows": 12,
+     "occ": 14.55,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 141091,
+     "lastUpdatedAt": "2026-02-05 13:23:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 22892,
+     "sold": 122,
+     "unsold": 1068,
+     "shows": 10,
+     "occ": 10.25,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 163983,
+     "lastUpdatedAt": "2026-02-05 08:56:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 163983,
+    "totalShows": 40,
+    "totalSeats": 5521,
+    "totalSold": 816,
+    "avgOcc": "14.8",
+    "totalDays": 3,
+    "totalHousefull": 2,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 102103,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 102103,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "3:22892:163983"
+  }
+ }
+}

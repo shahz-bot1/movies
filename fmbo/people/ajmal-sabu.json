@@ -1,0 +1,53 @@
+{
+ "slug": "ajmal-sabu",
+ "name": "Ajmal Sabu",
+ "source_url": "https://fridaymatinee.in/people/ajmal-sabu",
+ "captured_at": "2026-10-01T20:18:25.172960+00:00",
+ "person": {
+  "name": "Ajmal Sabu",
+  "photo": "https://image.tmdb.org/t/p/w185/eiF6QZEw0U3zRSdlba4bU5uk2qg.jpg",
+  "role": "Cinematography and editor"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 4
+  },
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 99,
+   "movie_slug": "meow",
+   "title": "Meow",
+   "year": 2021,
+   "kerala_gross": "₹74.0L"
+  },
+  {
+   "movie_id": 181,
+   "movie_slug": "solomante-theneechakal",
+   "title": "Solomante Theneechakal",
+   "year": 2022,
+   "kerala_gross": "₹37.9L"
+  },
+  {
+   "movie_id": 500,
+   "movie_slug": "premalu",
+   "title": "Premalu",
+   "year": 2024,
+   "kerala_gross": "₹49.2 Cr"
+  },
+  {
+   "movie_id": 1234,
+   "movie_slug": "bethlehem-kudumba-unit",
+   "title": "Bethlehem Kudumba Unit",
+   "year": 2026,
+   "kerala_gross": "₹145.2 Cr"
+  }
+ ]
+}

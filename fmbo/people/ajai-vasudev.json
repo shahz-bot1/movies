@@ -1,0 +1,46 @@
+{
+ "slug": "ajai-vasudev",
+ "name": "Ajai Vasudev",
+ "source_url": "https://fridaymatinee.in/people/ajai-vasudev",
+ "captured_at": "2026-10-01T20:15:51.601179+00:00",
+ "person": {
+  "name": "Ajai Vasudev",
+  "photo": "https://image.tmdb.org/t/p/w185/42zxUGP6Jmh4oDoTrJkMuMMU2mw.jpg",
+  "role": "Actor and director"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 56,
+   "movie_slug": "shylock",
+   "title": "Shylock",
+   "year": 2020,
+   "kerala_gross": "₹7.1 Cr"
+  },
+  {
+   "movie_id": 269,
+   "movie_slug": "malikappuram",
+   "title": "Malikappuram",
+   "year": 2022,
+   "kerala_gross": "₹28.1 Cr"
+  },
+  {
+   "movie_id": 521,
+   "movie_slug": "mandakini",
+   "title": "Mandakini",
+   "year": 2024,
+   "kerala_gross": "₹3.2 Cr"
+  }
+ ]
+}

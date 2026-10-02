@@ -1,0 +1,692 @@
+{
+ "id": 821,
+ "slug": "mirage",
+ "source_url": "https://fridaymatinee.in/boxoffice/mirage-821",
+ "captured_at": "2026-10-01T18:23:21.220778+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 821,
+    "title": "Mirage",
+    "img": "https://image.tmdb.org/t/p/original/d8pUxqcDoHNBrzrX8H09B2rYjdO.jpg",
+    "released": "2025-09-19",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt35019435",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "150 min",
+    "genre": "Mystery, Thriller",
+    "plot": "A woman joins forces with a journalist to investigate secrets her fiancé was keeping from her after she is informed he has died in a tragic train accident.",
+    "released": "2025-09-19",
+    "director": "Jeethu Joseph",
+    "directorSlug": "jeethu-joseph",
+    "actors": [
+     "Asif Ali",
+     "Aparna Balamurali",
+     "Sampath Raj",
+     "Hakkim Shajahan",
+     "Hannah Reji Koshy",
+     "Arjun Gopan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 2393,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:29.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Asif Ali",
+     "character": "Ashwin Kumar",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Aparna Balamurali",
+     "character": "Abhirami (Anjali Chandran)",
+     "slug": "aparna-balamurali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8IdA0YxPHttgDQCi09pE28LWw0E.jpg"
+    },
+    {
+     "name": "Sampath Raj",
+     "character": "SP Arumugham",
+     "slug": "sampath-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oQgoihP26Hyg6gMFVpACRAygZli.jpg"
+    },
+    {
+     "name": "Hakkim Shajahan",
+     "character": "Kiran (Amal)",
+     "slug": "hakkim-shajahan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/reEowrr3Gw4vKFfVUOhIT4EM4Es.jpg"
+    },
+    {
+     "name": "Hannah Reji Koshy",
+     "character": "Hrithika",
+     "slug": "hannah-reji-koshy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7JiW2EsAwOrQqpbEpXHM1JZmgF0.jpg"
+    },
+    {
+     "name": "Arjun Gopan",
+     "character": "Ananthu",
+     "slug": "arjun-gopan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/juiZoAd2gE583KZhH65KbQBXI3E.jpg"
+    },
+    {
+     "name": "Saravanan",
+     "character": "Rajkumar",
+     "slug": "saravanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mrLYzEZr0w0dq7LS3CXfYdLVlpK.jpg"
+    },
+    {
+     "name": "Deepak Parambol",
+     "character": "Prakash",
+     "slug": "deepak-parambol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ri2gQM9o9MmcZQZjjq6pQmdbIxb.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Srinivas Abrol",
+       "slug": "srinivas-abrol"
+      },
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      },
+      {
+       "name": "Aparna Tarakad",
+       "slug": "aparna-tarakad"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Shyam",
+       "slug": "vishnu-shyam"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Satheesh Kurup",
+       "slug": "satheesh-kurup"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "V S Vinayak",
+       "slug": "v-s-vinayak"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Mukesh R. Mehta",
+       "slug": "mukesh-r-mehta"
+      },
+      {
+       "name": "C. V. Sarathi",
+       "slug": "c-v-sarathi"
+      },
+      {
+       "name": "Jatin M Sethi",
+       "slug": "jatin-m-sethi"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "E4 Experiments",
+     "slug": "e4-experiments",
+     "logo": "https://image.tmdb.org/t/p/w185/fttKfs2TgjOiKOGgWAg63cCo9Um.png"
+    },
+    {
+     "name": "Naad SStudios",
+     "slug": "naad-sstudios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 51716860.39999999,
+    "totalShows": 7162,
+    "totalDays": 28,
+    "openingDay": {
+     "day": 1,
+     "gross": 9411693.8,
+     "date": "2025-09-19"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 9782501.2,
+     "date": "2025-09-21"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-19"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 821,
+    "title": "Mirage",
+    "img": "https://image.tmdb.org/t/p/original/d8pUxqcDoHNBrzrX8H09B2rYjdO.jpg",
+    "released": "2025-09-19",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt35019435",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "150 min",
+    "genre": "Mystery, Thriller",
+    "plot": "A woman joins forces with a journalist to investigate secrets her fiancé was keeping from her after she is informed he has died in a tragic train accident.",
+    "released": "2025-09-19",
+    "director": "Jeethu Joseph",
+    "directorSlug": "jeethu-joseph",
+    "actors": [
+     "Asif Ali",
+     "Aparna Balamurali",
+     "Sampath Raj",
+     "Hakkim Shajahan",
+     "Hannah Reji Koshy",
+     "Arjun Gopan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 2393,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:29.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Asif Ali",
+     "character": "Ashwin Kumar",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Aparna Balamurali",
+     "character": "Abhirami (Anjali Chandran)",
+     "slug": "aparna-balamurali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8IdA0YxPHttgDQCi09pE28LWw0E.jpg"
+    },
+    {
+     "name": "Sampath Raj",
+     "character": "SP Arumugham",
+     "slug": "sampath-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oQgoihP26Hyg6gMFVpACRAygZli.jpg"
+    },
+    {
+     "name": "Hakkim Shajahan",
+     "character": "Kiran (Amal)",
+     "slug": "hakkim-shajahan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/reEowrr3Gw4vKFfVUOhIT4EM4Es.jpg"
+    },
+    {
+     "name": "Hannah Reji Koshy",
+     "character": "Hrithika",
+     "slug": "hannah-reji-koshy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7JiW2EsAwOrQqpbEpXHM1JZmgF0.jpg"
+    },
+    {
+     "name": "Arjun Gopan",
+     "character": "Ananthu",
+     "slug": "arjun-gopan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/juiZoAd2gE583KZhH65KbQBXI3E.jpg"
+    },
+    {
+     "name": "Saravanan",
+     "character": "Rajkumar",
+     "slug": "saravanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mrLYzEZr0w0dq7LS3CXfYdLVlpK.jpg"
+    },
+    {
+     "name": "Deepak Parambol",
+     "character": "Prakash",
+     "slug": "deepak-parambol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ri2gQM9o9MmcZQZjjq6pQmdbIxb.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Srinivas Abrol",
+       "slug": "srinivas-abrol"
+      },
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      },
+      {
+       "name": "Aparna Tarakad",
+       "slug": "aparna-tarakad"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Shyam",
+       "slug": "vishnu-shyam"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Satheesh Kurup",
+       "slug": "satheesh-kurup"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "V S Vinayak",
+       "slug": "v-s-vinayak"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Mukesh R. Mehta",
+       "slug": "mukesh-r-mehta"
+      },
+      {
+       "name": "C. V. Sarathi",
+       "slug": "c-v-sarathi"
+      },
+      {
+       "name": "Jatin M Sethi",
+       "slug": "jatin-m-sethi"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "E4 Experiments",
+     "slug": "e4-experiments",
+     "logo": "https://image.tmdb.org/t/p/w185/fttKfs2TgjOiKOGgWAg63cCo9Um.png"
+    },
+    {
+     "name": "Naad SStudios",
+     "slug": "naad-sstudios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-09-19",
+     "gross": 39237907.4,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5039,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-09-26",
+     "gross": 10703470.000000002,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1663,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-10-03",
+     "gross": 1460850,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 401,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-10-10",
+     "gross": 314633,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 59,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 51716860.4,
+    "totalShows": 7162,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 39237907.4
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 39237907.4
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-19"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 821,
+    "title": "Mirage",
+    "img": "https://image.tmdb.org/t/p/original/d8pUxqcDoHNBrzrX8H09B2rYjdO.jpg",
+    "released": "2025-09-19",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt35019435",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "150 min",
+    "genre": "Mystery, Thriller",
+    "plot": "A woman joins forces with a journalist to investigate secrets her fiancé was keeping from her after she is informed he has died in a tragic train accident.",
+    "released": "2025-09-19",
+    "director": "Jeethu Joseph",
+    "directorSlug": "jeethu-joseph",
+    "actors": [
+     "Asif Ali",
+     "Aparna Balamurali",
+     "Sampath Raj",
+     "Hakkim Shajahan",
+     "Hannah Reji Koshy",
+     "Arjun Gopan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 2393,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:29.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Asif Ali",
+     "character": "Ashwin Kumar",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Aparna Balamurali",
+     "character": "Abhirami (Anjali Chandran)",
+     "slug": "aparna-balamurali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8IdA0YxPHttgDQCi09pE28LWw0E.jpg"
+    },
+    {
+     "name": "Sampath Raj",
+     "character": "SP Arumugham",
+     "slug": "sampath-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oQgoihP26Hyg6gMFVpACRAygZli.jpg"
+    },
+    {
+     "name": "Hakkim Shajahan",
+     "character": "Kiran (Amal)",
+     "slug": "hakkim-shajahan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/reEowrr3Gw4vKFfVUOhIT4EM4Es.jpg"
+    },
+    {
+     "name": "Hannah Reji Koshy",
+     "character": "Hrithika",
+     "slug": "hannah-reji-koshy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7JiW2EsAwOrQqpbEpXHM1JZmgF0.jpg"
+    },
+    {
+     "name": "Arjun Gopan",
+     "character": "Ananthu",
+     "slug": "arjun-gopan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/juiZoAd2gE583KZhH65KbQBXI3E.jpg"
+    },
+    {
+     "name": "Saravanan",
+     "character": "Rajkumar",
+     "slug": "saravanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mrLYzEZr0w0dq7LS3CXfYdLVlpK.jpg"
+    },
+    {
+     "name": "Deepak Parambol",
+     "character": "Prakash",
+     "slug": "deepak-parambol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ri2gQM9o9MmcZQZjjq6pQmdbIxb.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Srinivas Abrol",
+       "slug": "srinivas-abrol"
+      },
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      },
+      {
+       "name": "Aparna Tarakad",
+       "slug": "aparna-tarakad"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Shyam",
+       "slug": "vishnu-shyam"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Satheesh Kurup",
+       "slug": "satheesh-kurup"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "V S Vinayak",
+       "slug": "v-s-vinayak"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Mukesh R. Mehta",
+       "slug": "mukesh-r-mehta"
+      },
+      {
+       "name": "C. V. Sarathi",
+       "slug": "c-v-sarathi"
+      },
+      {
+       "name": "Jatin M Sethi",
+       "slug": "jatin-m-sethi"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "E4 Experiments",
+     "slug": "e4-experiments",
+     "logo": "https://image.tmdb.org/t/p/w185/fttKfs2TgjOiKOGgWAg63cCo9Um.png"
+    },
+    {
+     "name": "Naad SStudios",
+     "slug": "naad-sstudios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 51716860.4,
+    "totalShows": 7162,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 12538844,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 12538844,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-19"
+   }
+  }
+ }
+}

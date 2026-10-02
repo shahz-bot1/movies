@@ -1,0 +1,60 @@
+{
+ "slug": "sudeepa",
+ "name": "Sudeepa",
+ "source_url": "https://fridaymatinee.in/people/sudeepa",
+ "captured_at": "2026-10-02T11:01:20.882710+00:00",
+ "person": {
+  "name": "Sudeepa",
+  "photo": "https://image.tmdb.org/t/p/w185/8c5TYgGwbkcQkvC3ZlTU41OfYBN.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 44,
+   "movie_slug": "dabangg-3",
+   "title": "Dabangg 3",
+   "year": 2019,
+   "kerala_gross": "₹28.7L"
+  },
+  {
+   "movie_id": 167,
+   "movie_slug": "vikrant-rona",
+   "title": "Vikrant Rona",
+   "year": 2022,
+   "kerala_gross": "₹56.6L"
+  },
+  {
+   "movie_id": 308,
+   "movie_slug": "kabzaa",
+   "title": "Kabzaa",
+   "year": 2023,
+   "kerala_gross": "₹40.7L"
+  },
+  {
+   "movie_id": 892,
+   "movie_slug": "baahubali-the-epic",
+   "title": "Baahubali: The Epic",
+   "year": 2025,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 952,
+   "movie_slug": "mark",
+   "title": "Mark",
+   "year": 2025,
+   "kerala_gross": "₹21K"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "nissam-basheer",
+ "name": "Nissam Basheer",
+ "source_url": "https://fridaymatinee.in/people/nissam-basheer",
+ "captured_at": "2026-10-02T01:04:26.182004+00:00",
+ "person": {
+  "name": "Nissam Basheer",
+  "photo": "https://image.tmdb.org/t/p/w185/e60zOi5DRlslvDNIwtUVZSomI2k.jpg",
+  "role": "Director"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 38,
+   "movie_slug": "kettiyolaanu-ente-malakha",
+   "title": "Kettiyolaanu Ente Malakha",
+   "year": 2019,
+   "kerala_gross": "₹4.8 Cr"
+  },
+  {
+   "movie_id": 220,
+   "movie_slug": "rorschach",
+   "title": "Rorschach",
+   "year": 2022,
+   "kerala_gross": "₹14.3 Cr"
+  },
+  {
+   "movie_id": 1093,
+   "movie_slug": "i-nobody",
+   "title": "I, Nobody",
+   "year": 2026,
+   "kerala_gross": "₹6.6 Cr"
+  }
+ ]
+}

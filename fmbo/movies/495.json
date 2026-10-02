@@ -1,0 +1,651 @@
+{
+ "id": 495,
+ "slug": "hanu-man",
+ "source_url": "https://fridaymatinee.in/boxoffice/hanu-man-495",
+ "captured_at": "2026-10-01T18:13:31.110465+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 495,
+    "title": "Hanu-Man",
+    "img": "https://image.tmdb.org/t/p/original/m1zq48rWSXxplzoJR8YtbXWnnHM.jpg",
+    "released": "2024-01-12",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15433956",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "159 min",
+    "genre": "Fantasy, Action, Comedy, Science Fiction",
+    "plot": "In a small village, Hanumanthu, a petty thief, finds a mysterious gem, that gives him god-like powers. Will he succeed in keeping these powers from falling into the wrong hands and save his village?",
+    "released": "2024-01-11",
+    "director": "Prasanth Varma",
+    "directorSlug": "prasanth-varma",
+    "actors": [
+     "Teja Sajja",
+     "Vinay Rai",
+     "Amritha Aiyer",
+     "Varalaxmi Sarathkumar",
+     "Vennela Kishore",
+     "Getup Srinu"
+    ],
+    "awards": "4 wins u0026 12 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.7",
+      "votes": 30865,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "88%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Teja Sajja",
+     "character": "Hanumanthu / Hanu-Man",
+     "slug": "teja-sajja",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ahHqj4ADMjwzoj6lNAv7D9sP8nM.jpg"
+    },
+    {
+     "name": "Vinay Rai",
+     "character": "Michael / Mega-Man",
+     "slug": "vinay-rai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8xRUq54pt2p6SHc80ezhXnm9nnf.jpg"
+    },
+    {
+     "name": "Amritha Aiyer",
+     "character": "Meenakshi",
+     "slug": "amritha-aiyer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sjhXrtTkB9Nh8qyjrH4UwBEL4K7.jpg"
+    },
+    {
+     "name": "Varalaxmi Sarathkumar",
+     "character": "Anjamma",
+     "slug": "varalaxmi-sarathkumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vudH16iDpzft1uWIMMgcCRxBTXa.jpg"
+    },
+    {
+     "name": "Vennela Kishore",
+     "character": "Dr.Siri Vennela",
+     "slug": "vennela-kishore",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg"
+    },
+    {
+     "name": "Getup Srinu",
+     "character": "Kaasi",
+     "slug": "getup-srinu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xb2lJ213oU3DS6kMkDuqlf7EFeG.jpg"
+    },
+    {
+     "name": "Deepak Shetty",
+     "character": "Gajapathi",
+     "slug": "deepak-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bMJy4NbCLpamvJ7ooA8E4fx5znX.jpg"
+    },
+    {
+     "name": "Samuthirakani",
+     "character": "Vibhishana",
+     "slug": "samuthirakani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hicCPOdDfSRCEYkeb9g53FOY19A.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Prasanth Varma",
+       "slug": "prasanth-varma"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Prasanth Varma",
+       "slug": "prasanth-varma"
+      },
+      {
+       "name": "scriptsville",
+       "slug": "scriptsville"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anudeep Dev",
+       "slug": "anudeep-dev"
+      },
+      {
+       "name": "Krishna Saurabh",
+       "slug": "krishna-saurabh"
+      },
+      {
+       "name": "Hari Gowra",
+       "slug": "hari-gowra"
+      },
+      {
+       "name": "Jay Krish",
+       "slug": "jay-krish"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Dasaradhi Sivendra",
+       "slug": "dasaradhi-sivendra"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "R. Srikanth Patnaik",
+       "slug": "r-srikanth-patnaik"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "K Niranjan Reddy",
+       "slug": "k-niranjan-reddy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Primeshow Entertainment",
+     "slug": "primeshow-entertainment",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-03-16",
+    "platforms": [
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1602663.52,
+    "totalShows": 550,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 75051,
+     "date": "2024-01-12"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 421187,
+     "date": "2024-01-14"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-01-12"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 495,
+    "title": "Hanu-Man",
+    "img": "https://image.tmdb.org/t/p/original/m1zq48rWSXxplzoJR8YtbXWnnHM.jpg",
+    "released": "2024-01-12",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15433956",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "159 min",
+    "genre": "Fantasy, Action, Comedy, Science Fiction",
+    "plot": "In a small village, Hanumanthu, a petty thief, finds a mysterious gem, that gives him god-like powers. Will he succeed in keeping these powers from falling into the wrong hands and save his village?",
+    "released": "2024-01-11",
+    "director": "Prasanth Varma",
+    "directorSlug": "prasanth-varma",
+    "actors": [
+     "Teja Sajja",
+     "Vinay Rai",
+     "Amritha Aiyer",
+     "Varalaxmi Sarathkumar",
+     "Vennela Kishore",
+     "Getup Srinu"
+    ],
+    "awards": "4 wins u0026 12 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.7",
+      "votes": 30865,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "88%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Teja Sajja",
+     "character": "Hanumanthu / Hanu-Man",
+     "slug": "teja-sajja",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ahHqj4ADMjwzoj6lNAv7D9sP8nM.jpg"
+    },
+    {
+     "name": "Vinay Rai",
+     "character": "Michael / Mega-Man",
+     "slug": "vinay-rai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8xRUq54pt2p6SHc80ezhXnm9nnf.jpg"
+    },
+    {
+     "name": "Amritha Aiyer",
+     "character": "Meenakshi",
+     "slug": "amritha-aiyer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sjhXrtTkB9Nh8qyjrH4UwBEL4K7.jpg"
+    },
+    {
+     "name": "Varalaxmi Sarathkumar",
+     "character": "Anjamma",
+     "slug": "varalaxmi-sarathkumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vudH16iDpzft1uWIMMgcCRxBTXa.jpg"
+    },
+    {
+     "name": "Vennela Kishore",
+     "character": "Dr.Siri Vennela",
+     "slug": "vennela-kishore",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg"
+    },
+    {
+     "name": "Getup Srinu",
+     "character": "Kaasi",
+     "slug": "getup-srinu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xb2lJ213oU3DS6kMkDuqlf7EFeG.jpg"
+    },
+    {
+     "name": "Deepak Shetty",
+     "character": "Gajapathi",
+     "slug": "deepak-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bMJy4NbCLpamvJ7ooA8E4fx5znX.jpg"
+    },
+    {
+     "name": "Samuthirakani",
+     "character": "Vibhishana",
+     "slug": "samuthirakani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hicCPOdDfSRCEYkeb9g53FOY19A.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Prasanth Varma",
+       "slug": "prasanth-varma"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Prasanth Varma",
+       "slug": "prasanth-varma"
+      },
+      {
+       "name": "scriptsville",
+       "slug": "scriptsville"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anudeep Dev",
+       "slug": "anudeep-dev"
+      },
+      {
+       "name": "Krishna Saurabh",
+       "slug": "krishna-saurabh"
+      },
+      {
+       "name": "Hari Gowra",
+       "slug": "hari-gowra"
+      },
+      {
+       "name": "Jay Krish",
+       "slug": "jay-krish"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Dasaradhi Sivendra",
+       "slug": "dasaradhi-sivendra"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "R. Srikanth Patnaik",
+       "slug": "r-srikanth-patnaik"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "K Niranjan Reddy",
+       "slug": "k-niranjan-reddy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Primeshow Entertainment",
+     "slug": "primeshow-entertainment",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-03-16",
+    "platforms": [
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-01-12",
+     "gross": 1593774,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 541,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-01-19",
+     "gross": 8889.52,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 9,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1602663.52,
+    "totalShows": 550,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 1593774
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1593774
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-01-12"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 495,
+    "title": "Hanu-Man",
+    "img": "https://image.tmdb.org/t/p/original/m1zq48rWSXxplzoJR8YtbXWnnHM.jpg",
+    "released": "2024-01-12",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15433956",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "159 min",
+    "genre": "Fantasy, Action, Comedy, Science Fiction",
+    "plot": "In a small village, Hanumanthu, a petty thief, finds a mysterious gem, that gives him god-like powers. Will he succeed in keeping these powers from falling into the wrong hands and save his village?",
+    "released": "2024-01-11",
+    "director": "Prasanth Varma",
+    "directorSlug": "prasanth-varma",
+    "actors": [
+     "Teja Sajja",
+     "Vinay Rai",
+     "Amritha Aiyer",
+     "Varalaxmi Sarathkumar",
+     "Vennela Kishore",
+     "Getup Srinu"
+    ],
+    "awards": "4 wins u0026 12 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.7",
+      "votes": 30865,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "88%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Teja Sajja",
+     "character": "Hanumanthu / Hanu-Man",
+     "slug": "teja-sajja",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ahHqj4ADMjwzoj6lNAv7D9sP8nM.jpg"
+    },
+    {
+     "name": "Vinay Rai",
+     "character": "Michael / Mega-Man",
+     "slug": "vinay-rai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8xRUq54pt2p6SHc80ezhXnm9nnf.jpg"
+    },
+    {
+     "name": "Amritha Aiyer",
+     "character": "Meenakshi",
+     "slug": "amritha-aiyer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sjhXrtTkB9Nh8qyjrH4UwBEL4K7.jpg"
+    },
+    {
+     "name": "Varalaxmi Sarathkumar",
+     "character": "Anjamma",
+     "slug": "varalaxmi-sarathkumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vudH16iDpzft1uWIMMgcCRxBTXa.jpg"
+    },
+    {
+     "name": "Vennela Kishore",
+     "character": "Dr.Siri Vennela",
+     "slug": "vennela-kishore",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg"
+    },
+    {
+     "name": "Getup Srinu",
+     "character": "Kaasi",
+     "slug": "getup-srinu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xb2lJ213oU3DS6kMkDuqlf7EFeG.jpg"
+    },
+    {
+     "name": "Deepak Shetty",
+     "character": "Gajapathi",
+     "slug": "deepak-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bMJy4NbCLpamvJ7ooA8E4fx5znX.jpg"
+    },
+    {
+     "name": "Samuthirakani",
+     "character": "Vibhishana",
+     "slug": "samuthirakani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hicCPOdDfSRCEYkeb9g53FOY19A.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Prasanth Varma",
+       "slug": "prasanth-varma"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Prasanth Varma",
+       "slug": "prasanth-varma"
+      },
+      {
+       "name": "scriptsville",
+       "slug": "scriptsville"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anudeep Dev",
+       "slug": "anudeep-dev"
+      },
+      {
+       "name": "Krishna Saurabh",
+       "slug": "krishna-saurabh"
+      },
+      {
+       "name": "Hari Gowra",
+       "slug": "hari-gowra"
+      },
+      {
+       "name": "Jay Krish",
+       "slug": "jay-krish"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Dasaradhi Sivendra",
+       "slug": "dasaradhi-sivendra"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "R. Srikanth Patnaik",
+       "slug": "r-srikanth-patnaik"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "K Niranjan Reddy",
+       "slug": "k-niranjan-reddy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Primeshow Entertainment",
+     "slug": "primeshow-entertainment",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-03-16",
+    "platforms": [
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1602663.52,
+    "totalShows": 550,
+    "totalDays": 13,
+    "openingDay": {
+     "day": 1,
+     "gross": 615811,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 615811,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-01-12"
+   }
+  }
+ }
+}

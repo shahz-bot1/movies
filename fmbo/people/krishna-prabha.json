@@ -1,0 +1,55 @@
+{
+ "slug": "krishna-prabha",
+ "name": "Krishna Prabha",
+ "source_url": "https://fridaymatinee.in/people/krishna-prabha",
+ "captured_at": "2026-10-01T23:52:28.561341+00:00",
+ "person": {
+  "name": "Krishna Prabha",
+  "photo": "https://image.tmdb.org/t/p/w185/pmC9JG6uUxUwyCd3HUxe0zgOUJP.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 161,
+   "movie_slug": "ela-veezha-poonchira",
+   "title": "Ela Veezha Poonchira",
+   "year": 2022,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 593,
+   "movie_slug": "thudarum",
+   "title": "Thudarum",
+   "year": 2025,
+   "kerala_gross": "₹107.2 Cr"
+  },
+  {
+   "movie_id": 1067,
+   "movie_slug": "drishyam-2",
+   "title": "Drishyam 2",
+   "year": 2026,
+   "kerala_gross": "₹3.6L"
+  },
+  {
+   "movie_id": 1094,
+   "movie_slug": "dridam",
+   "title": "Dridam",
+   "year": 2026,
+   "kerala_gross": "₹3.2 Cr"
+  },
+  {
+   "movie_id": 1214,
+   "movie_slug": "unmadham",
+   "title": "Unmadham",
+   "year": 2026,
+   "kerala_gross": "₹3.6 Cr"
+  }
+ ]
+}

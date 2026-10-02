@@ -1,0 +1,637 @@
+{
+ "id": 210,
+ "slug": "mei-hoom-moosa",
+ "source_url": "https://fridaymatinee.in/boxoffice/mei-hoom-moosa-210",
+ "captured_at": "2026-10-01T18:06:43.602551+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 210,
+    "title": "Mei Hoom Moosa",
+    "img": "https://image.tmdb.org/t/p/original/gH8RKXUzYKPiIAbcUgwB1l2nnxY.jpg",
+    "released": "2022-09-30",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21430316",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "130 min",
+    "genre": "Comedy, Thriller",
+    "plot": "Moosa, a trooper gets back following 19 years in Prison. He finds he is assumed dead. How Moosa gets on track to demonstrate his character while additionally attempting to find some peace with all that has occurred around him during his time in a correctional facility.",
+    "released": "2022-09-30",
+    "director": "Jibu Jacob",
+    "directorSlug": "jibu-jacob",
+    "actors": [
+     "Suresh Gopi",
+     "Saiju Kurup",
+     "Hareesh Perumanna",
+     "Srindaa",
+     "Poonam Bajwa",
+     "Salim Kumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 1169,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:11:00.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Suresh Gopi",
+     "character": "Moosa",
+     "slug": "suresh-gopi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qLVCGoW4k1k9cVyPlxmgxd68GaY.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Meeran",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Hareesh Perumanna",
+     "character": "Thaami",
+     "slug": "hareesh-perumanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6yMsL4628NL86MmrGQlMHQ3OSbX.jpg"
+    },
+    {
+     "name": "Srindaa",
+     "character": "Suhara",
+     "slug": "srindaa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u0Sf0RpkyW3PFqBnPJb516BCEBg.jpg"
+    },
+    {
+     "name": "Poonam Bajwa",
+     "character": "Kunjipaathu",
+     "slug": "poonam-bajwa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/glwKn3JZWaGghDHzI8yIDD3cshc.jpg"
+    },
+    {
+     "name": "Salim Kumar",
+     "character": null,
+     "slug": "salim-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h8KKhTw56M7CoG1MkeYP9zMenq7.jpg"
+    },
+    {
+     "name": "Sudheer Karamana",
+     "character": "SI Anto",
+     "slug": "sudheer-karamana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iS9QP190ibnRdXdfeBpPwKMF3a8.jpg"
+    },
+    {
+     "name": "Major Ravi",
+     "character": null,
+     "slug": "major-ravi",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jibu Jacob",
+       "slug": "jibu-jacob"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rubesh Rain",
+       "slug": "rubesh-rain"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sreenath Sivasankaran",
+       "slug": "sreenath-sivasankaran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vishnu Narayan",
+       "slug": "vishnu-narayan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sooraj E.S.",
+       "slug": "sooraj-e-s"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Thomas Thiruvalla",
+       "slug": "thomas-thiruvalla"
+      },
+      {
+       "name": "Dr. C.J. Roy",
+       "slug": "dr-c-j-roy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Confident Group",
+     "slug": "confident-group",
+     "logo": null
+    },
+    {
+     "name": "Thomas Thiruvalla Films",
+     "slug": "thomas-thiruvalla-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 33221415.199999996,
+    "totalShows": 5780,
+    "totalDays": 18,
+    "openingDay": {
+     "day": 1,
+     "gross": 2461650,
+     "date": "2022-09-30"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 5770094.6,
+     "date": "2022-10-02"
+    },
+    "chartPosition": {
+     "current_position": 98,
+     "weeks_on_chart": 0,
+     "peak_position": 41,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-09-30"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 210,
+    "title": "Mei Hoom Moosa",
+    "img": "https://image.tmdb.org/t/p/original/gH8RKXUzYKPiIAbcUgwB1l2nnxY.jpg",
+    "released": "2022-09-30",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21430316",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "130 min",
+    "genre": "Comedy, Thriller",
+    "plot": "Moosa, a trooper gets back following 19 years in Prison. He finds he is assumed dead. How Moosa gets on track to demonstrate his character while additionally attempting to find some peace with all that has occurred around him during his time in a correctional facility.",
+    "released": "2022-09-30",
+    "director": "Jibu Jacob",
+    "directorSlug": "jibu-jacob",
+    "actors": [
+     "Suresh Gopi",
+     "Saiju Kurup",
+     "Hareesh Perumanna",
+     "Srindaa",
+     "Poonam Bajwa",
+     "Salim Kumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 1169,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:11:00.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Suresh Gopi",
+     "character": "Moosa",
+     "slug": "suresh-gopi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qLVCGoW4k1k9cVyPlxmgxd68GaY.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Meeran",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Hareesh Perumanna",
+     "character": "Thaami",
+     "slug": "hareesh-perumanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6yMsL4628NL86MmrGQlMHQ3OSbX.jpg"
+    },
+    {
+     "name": "Srindaa",
+     "character": "Suhara",
+     "slug": "srindaa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u0Sf0RpkyW3PFqBnPJb516BCEBg.jpg"
+    },
+    {
+     "name": "Poonam Bajwa",
+     "character": "Kunjipaathu",
+     "slug": "poonam-bajwa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/glwKn3JZWaGghDHzI8yIDD3cshc.jpg"
+    },
+    {
+     "name": "Salim Kumar",
+     "character": null,
+     "slug": "salim-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h8KKhTw56M7CoG1MkeYP9zMenq7.jpg"
+    },
+    {
+     "name": "Sudheer Karamana",
+     "character": "SI Anto",
+     "slug": "sudheer-karamana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iS9QP190ibnRdXdfeBpPwKMF3a8.jpg"
+    },
+    {
+     "name": "Major Ravi",
+     "character": null,
+     "slug": "major-ravi",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jibu Jacob",
+       "slug": "jibu-jacob"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rubesh Rain",
+       "slug": "rubesh-rain"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sreenath Sivasankaran",
+       "slug": "sreenath-sivasankaran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vishnu Narayan",
+       "slug": "vishnu-narayan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sooraj E.S.",
+       "slug": "sooraj-e-s"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Thomas Thiruvalla",
+       "slug": "thomas-thiruvalla"
+      },
+      {
+       "name": "Dr. C.J. Roy",
+       "slug": "dr-c-j-roy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Confident Group",
+     "slug": "confident-group",
+     "logo": null
+    },
+    {
+     "name": "Thomas Thiruvalla Films",
+     "slug": "thomas-thiruvalla-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2022-09-30",
+     "gross": 25644813.400000002,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3537,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-10-07",
+     "gross": 6774122.8,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2082,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-10-14",
+     "gross": 802479,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 161,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 33221415.200000003,
+    "totalShows": 5780,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 25644813.400000002
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 25644813.400000002
+    },
+    "chartPosition": {
+     "current_position": 98,
+     "weeks_on_chart": 0,
+     "peak_position": 41,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-09-30"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 210,
+    "title": "Mei Hoom Moosa",
+    "img": "https://image.tmdb.org/t/p/original/gH8RKXUzYKPiIAbcUgwB1l2nnxY.jpg",
+    "released": "2022-09-30",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21430316",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "130 min",
+    "genre": "Comedy, Thriller",
+    "plot": "Moosa, a trooper gets back following 19 years in Prison. He finds he is assumed dead. How Moosa gets on track to demonstrate his character while additionally attempting to find some peace with all that has occurred around him during his time in a correctional facility.",
+    "released": "2022-09-30",
+    "director": "Jibu Jacob",
+    "directorSlug": "jibu-jacob",
+    "actors": [
+     "Suresh Gopi",
+     "Saiju Kurup",
+     "Hareesh Perumanna",
+     "Srindaa",
+     "Poonam Bajwa",
+     "Salim Kumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 1169,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:11:00.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Suresh Gopi",
+     "character": "Moosa",
+     "slug": "suresh-gopi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qLVCGoW4k1k9cVyPlxmgxd68GaY.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Meeran",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Hareesh Perumanna",
+     "character": "Thaami",
+     "slug": "hareesh-perumanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6yMsL4628NL86MmrGQlMHQ3OSbX.jpg"
+    },
+    {
+     "name": "Srindaa",
+     "character": "Suhara",
+     "slug": "srindaa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u0Sf0RpkyW3PFqBnPJb516BCEBg.jpg"
+    },
+    {
+     "name": "Poonam Bajwa",
+     "character": "Kunjipaathu",
+     "slug": "poonam-bajwa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/glwKn3JZWaGghDHzI8yIDD3cshc.jpg"
+    },
+    {
+     "name": "Salim Kumar",
+     "character": null,
+     "slug": "salim-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h8KKhTw56M7CoG1MkeYP9zMenq7.jpg"
+    },
+    {
+     "name": "Sudheer Karamana",
+     "character": "SI Anto",
+     "slug": "sudheer-karamana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iS9QP190ibnRdXdfeBpPwKMF3a8.jpg"
+    },
+    {
+     "name": "Major Ravi",
+     "character": null,
+     "slug": "major-ravi",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jibu Jacob",
+       "slug": "jibu-jacob"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rubesh Rain",
+       "slug": "rubesh-rain"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sreenath Sivasankaran",
+       "slug": "sreenath-sivasankaran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vishnu Narayan",
+       "slug": "vishnu-narayan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sooraj E.S.",
+       "slug": "sooraj-e-s"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Thomas Thiruvalla",
+       "slug": "thomas-thiruvalla"
+      },
+      {
+       "name": "Dr. C.J. Roy",
+       "slug": "dr-c-j-roy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Confident Group",
+     "slug": "confident-group",
+     "logo": null
+    },
+    {
+     "name": "Thomas Thiruvalla Films",
+     "slug": "thomas-thiruvalla-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 33221415.2,
+    "totalShows": 5780,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 7079118,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 7079118,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 98,
+     "weeks_on_chart": 0,
+     "peak_position": 41,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-09-30"
+   }
+  }
+ }
+}

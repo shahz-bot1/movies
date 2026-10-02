@@ -1,0 +1,46 @@
+{
+ "slug": "a-v-anoop",
+ "name": "A.V. Anoop",
+ "source_url": "https://fridaymatinee.in/people/a-v-anoop",
+ "captured_at": "2026-10-01T20:01:43.603513+00:00",
+ "person": {
+  "name": "A.V. Anoop",
+  "photo": "https://image.tmdb.org/t/p/w185/qkLKyYRTI3JISZRzcFlfcvduucF.jpg",
+  "role": "Producer and actor"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  },
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 57,
+   "movie_slug": "anveshanam",
+   "title": "Anveshanam",
+   "year": 2020,
+   "kerala_gross": "₹52.9L"
+  },
+  {
+   "movie_id": 602,
+   "movie_slug": "sookshmadarshini",
+   "title": "Sookshmadarshini",
+   "year": 2024,
+   "kerala_gross": "₹22.1 Cr"
+  },
+  {
+   "movie_id": 881,
+   "movie_slug": "vilaayath-budha",
+   "title": "Vilaayath Budha",
+   "year": 2025,
+   "kerala_gross": "₹4.5 Cr"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "esther-anil",
+ "name": "Esther Anil",
+ "source_url": "https://fridaymatinee.in/people/esther-anil",
+ "captured_at": "2026-10-01T22:16:18.281981+00:00",
+ "person": {
+  "name": "Esther Anil",
+  "photo": "https://image.tmdb.org/t/p/w185/nXsLQHAtGT9GnScga3Aju5ObgR3.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 139,
+   "movie_slug": "jack-n-jill",
+   "title": "Jack N Jill",
+   "year": 2022,
+   "kerala_gross": "₹37.5L"
+  },
+  {
+   "movie_id": 1067,
+   "movie_slug": "drishyam-2",
+   "title": "Drishyam 2",
+   "year": 2026,
+   "kerala_gross": "₹3.6L"
+  },
+  {
+   "movie_id": 1012,
+   "movie_slug": "drishyam-3",
+   "title": "Drishyam 3",
+   "year": 2026,
+   "kerala_gross": "₹82.0 Cr"
+  }
+ ]
+}

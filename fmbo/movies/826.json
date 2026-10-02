@@ -1,0 +1,614 @@
+{
+ "id": 826,
+ "slug": "kiss",
+ "source_url": "https://fridaymatinee.in/boxoffice/kiss-826",
+ "captured_at": "2026-10-01T18:23:35.096129+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 826,
+    "title": "Kiss",
+    "img": "https://image.tmdb.org/t/p/original/faJlVgHULbQTrDnXN1ac2jqIDGK.jpg",
+    "released": "2025-09-19",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27148214",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "143 min",
+    "genre": "Romance, Comedy, Drama, Fantasy",
+    "plot": "A musician is gifted with the supernatural ability to see a couple's destiny whenever they kiss. But when he sees the grim fate of the woman he loves, he must use his powers to defy destiny itself.",
+    "released": "2025-09-19",
+    "director": "Sathish Krishnan",
+    "directorSlug": "sathish-krishnan",
+    "actors": [
+     "Kavin Raj",
+     "Preethi Asrani",
+     "Rao Ramesh",
+     "Devayani",
+     "Prabhu",
+     "Mirchi Vijay"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 981,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kavin Raj",
+     "character": "Nelson",
+     "slug": "kavin-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/85YJoi6JZcX1LQoXKRS43oKucYe.jpg"
+    },
+    {
+     "name": "Preethi Asrani",
+     "character": "Sarah",
+     "slug": "preethi-asrani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y0CwythRWa7WEyc29t0EWYML0jv.jpg"
+    },
+    {
+     "name": "Rao Ramesh",
+     "character": "Dr. Marcus",
+     "slug": "rao-ramesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jzO0wN21tEcmz0haekvliQU91JM.jpg"
+    },
+    {
+     "name": "Devayani",
+     "character": "Daisy",
+     "slug": "devayani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p03hLBmgjmRErMXHqEDlwur45Ed.jpg"
+    },
+    {
+     "name": "Prabhu",
+     "character": "The ancient book decipherer",
+     "slug": "prabhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1ZG65sdJaLrHjTAme5ETZMyqgnM.jpg"
+    },
+    {
+     "name": "Mirchi Vijay",
+     "character": "Sam",
+     "slug": "mirchi-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l2a0JOxw0ZVPoUpGyNg4uE9XN3i.jpg"
+    },
+    {
+     "name": "VTV Ganesh",
+     "character": "Dr. Thirunavukkarasu",
+     "slug": "vtv-ganesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5JomvpPx6PrExYcZAbHM1MoHjoZ.jpg"
+    },
+    {
+     "name": "Kalyan Kumar",
+     "character": "Williams",
+     "slug": "kalyan-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nCUClpez9E3FnqwevCn9r3VZvJK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sathish Krishnan",
+       "slug": "sathish-krishnan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sathish Krishnan",
+       "slug": "sathish-krishnan"
+      },
+      {
+       "name": "Mugil",
+       "slug": "mugil"
+      },
+      {
+       "name": "Savari Muthu",
+       "slug": "savari-muthu"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jen Martin",
+       "slug": "jen-martin"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Harish Kannan",
+       "slug": "harish-kannan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "R C Pranav",
+       "slug": "r-c-pranav"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Raahul",
+       "slug": "raahul"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Romeo Pictures",
+     "slug": "romeo-pictures",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-07",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 134300,
+    "totalShows": 12,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 69900,
+     "date": "2025-09-19"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 69900,
+     "date": "2025-09-19"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-19"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 826,
+    "title": "Kiss",
+    "img": "https://image.tmdb.org/t/p/original/faJlVgHULbQTrDnXN1ac2jqIDGK.jpg",
+    "released": "2025-09-19",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27148214",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "143 min",
+    "genre": "Romance, Comedy, Drama, Fantasy",
+    "plot": "A musician is gifted with the supernatural ability to see a couple's destiny whenever they kiss. But when he sees the grim fate of the woman he loves, he must use his powers to defy destiny itself.",
+    "released": "2025-09-19",
+    "director": "Sathish Krishnan",
+    "directorSlug": "sathish-krishnan",
+    "actors": [
+     "Kavin Raj",
+     "Preethi Asrani",
+     "Rao Ramesh",
+     "Devayani",
+     "Prabhu",
+     "Mirchi Vijay"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 981,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kavin Raj",
+     "character": "Nelson",
+     "slug": "kavin-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/85YJoi6JZcX1LQoXKRS43oKucYe.jpg"
+    },
+    {
+     "name": "Preethi Asrani",
+     "character": "Sarah",
+     "slug": "preethi-asrani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y0CwythRWa7WEyc29t0EWYML0jv.jpg"
+    },
+    {
+     "name": "Rao Ramesh",
+     "character": "Dr. Marcus",
+     "slug": "rao-ramesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jzO0wN21tEcmz0haekvliQU91JM.jpg"
+    },
+    {
+     "name": "Devayani",
+     "character": "Daisy",
+     "slug": "devayani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p03hLBmgjmRErMXHqEDlwur45Ed.jpg"
+    },
+    {
+     "name": "Prabhu",
+     "character": "The ancient book decipherer",
+     "slug": "prabhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1ZG65sdJaLrHjTAme5ETZMyqgnM.jpg"
+    },
+    {
+     "name": "Mirchi Vijay",
+     "character": "Sam",
+     "slug": "mirchi-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l2a0JOxw0ZVPoUpGyNg4uE9XN3i.jpg"
+    },
+    {
+     "name": "VTV Ganesh",
+     "character": "Dr. Thirunavukkarasu",
+     "slug": "vtv-ganesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5JomvpPx6PrExYcZAbHM1MoHjoZ.jpg"
+    },
+    {
+     "name": "Kalyan Kumar",
+     "character": "Williams",
+     "slug": "kalyan-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nCUClpez9E3FnqwevCn9r3VZvJK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sathish Krishnan",
+       "slug": "sathish-krishnan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sathish Krishnan",
+       "slug": "sathish-krishnan"
+      },
+      {
+       "name": "Mugil",
+       "slug": "mugil"
+      },
+      {
+       "name": "Savari Muthu",
+       "slug": "savari-muthu"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jen Martin",
+       "slug": "jen-martin"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Harish Kannan",
+       "slug": "harish-kannan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "R C Pranav",
+       "slug": "r-c-pranav"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Raahul",
+       "slug": "raahul"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Romeo Pictures",
+     "slug": "romeo-pictures",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-07",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-09-19",
+     "gross": 134300,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 12,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 134300,
+    "totalShows": 12,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 134300
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 134300
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-19"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 826,
+    "title": "Kiss",
+    "img": "https://image.tmdb.org/t/p/original/faJlVgHULbQTrDnXN1ac2jqIDGK.jpg",
+    "released": "2025-09-19",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27148214",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "143 min",
+    "genre": "Romance, Comedy, Drama, Fantasy",
+    "plot": "A musician is gifted with the supernatural ability to see a couple's destiny whenever they kiss. But when he sees the grim fate of the woman he loves, he must use his powers to defy destiny itself.",
+    "released": "2025-09-19",
+    "director": "Sathish Krishnan",
+    "directorSlug": "sathish-krishnan",
+    "actors": [
+     "Kavin Raj",
+     "Preethi Asrani",
+     "Rao Ramesh",
+     "Devayani",
+     "Prabhu",
+     "Mirchi Vijay"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 981,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kavin Raj",
+     "character": "Nelson",
+     "slug": "kavin-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/85YJoi6JZcX1LQoXKRS43oKucYe.jpg"
+    },
+    {
+     "name": "Preethi Asrani",
+     "character": "Sarah",
+     "slug": "preethi-asrani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y0CwythRWa7WEyc29t0EWYML0jv.jpg"
+    },
+    {
+     "name": "Rao Ramesh",
+     "character": "Dr. Marcus",
+     "slug": "rao-ramesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jzO0wN21tEcmz0haekvliQU91JM.jpg"
+    },
+    {
+     "name": "Devayani",
+     "character": "Daisy",
+     "slug": "devayani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p03hLBmgjmRErMXHqEDlwur45Ed.jpg"
+    },
+    {
+     "name": "Prabhu",
+     "character": "The ancient book decipherer",
+     "slug": "prabhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1ZG65sdJaLrHjTAme5ETZMyqgnM.jpg"
+    },
+    {
+     "name": "Mirchi Vijay",
+     "character": "Sam",
+     "slug": "mirchi-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l2a0JOxw0ZVPoUpGyNg4uE9XN3i.jpg"
+    },
+    {
+     "name": "VTV Ganesh",
+     "character": "Dr. Thirunavukkarasu",
+     "slug": "vtv-ganesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5JomvpPx6PrExYcZAbHM1MoHjoZ.jpg"
+    },
+    {
+     "name": "Kalyan Kumar",
+     "character": "Williams",
+     "slug": "kalyan-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nCUClpez9E3FnqwevCn9r3VZvJK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sathish Krishnan",
+       "slug": "sathish-krishnan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sathish Krishnan",
+       "slug": "sathish-krishnan"
+      },
+      {
+       "name": "Mugil",
+       "slug": "mugil"
+      },
+      {
+       "name": "Savari Muthu",
+       "slug": "savari-muthu"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jen Martin",
+       "slug": "jen-martin"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Harish Kannan",
+       "slug": "harish-kannan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "R C Pranav",
+       "slug": "r-c-pranav"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Raahul",
+       "slug": "raahul"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Romeo Pictures",
+     "slug": "romeo-pictures",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-07",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 134300,
+    "totalShows": 12,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 57680,
+     "date": "Kannur"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 57680,
+     "date": "Kannur"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-19"
+   }
+  }
+ }
+}

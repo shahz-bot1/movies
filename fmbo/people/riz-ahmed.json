@@ -1,0 +1,41 @@
+{
+ "slug": "riz-ahmed",
+ "name": "Riz Ahmed",
+ "source_url": "https://fridaymatinee.in/people/riz-ahmed",
+ "captured_at": "2026-10-02T09:44:37.701821+00:00",
+ "person": {
+  "name": "Riz Ahmed",
+  "photo": "https://image.tmdb.org/t/p/w185/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 748,
+   "movie_slug": "the-phoenician-scheme",
+   "title": "The Phoenician Scheme",
+   "year": 2025,
+   "kerala_gross": "₹1.0L"
+  },
+  {
+   "movie_id": 801,
+   "movie_slug": "relay",
+   "title": "Relay",
+   "year": 2025,
+   "kerala_gross": "₹52K"
+  },
+  {
+   "movie_id": 1303,
+   "movie_slug": "digger",
+   "title": "Digger",
+   "year": 2026,
+   "kerala_gross": "₹2.3L"
+  }
+ ]
+}

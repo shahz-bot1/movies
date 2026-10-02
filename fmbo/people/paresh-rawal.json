@@ -1,0 +1,62 @@
+{
+ "slug": "paresh-rawal",
+ "name": "Paresh Rawal",
+ "source_url": "https://fridaymatinee.in/people/paresh-rawal",
+ "captured_at": "2026-10-02T01:12:45.979437+00:00",
+ "person": {
+  "name": "Paresh Rawal",
+  "photo": "https://image.tmdb.org/t/p/w185/xFVHMvDC8s4Ab2sLXrdVxMxZ33b.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 22,
+   "movie_slug": "made-in-china",
+   "title": "Made In China",
+   "year": 2019,
+   "kerala_gross": "₹1.5L"
+  },
+  {
+   "movie_id": 62,
+   "movie_slug": "kannum-kannum-kollaiyadithaal",
+   "title": "Kannum Kannum Kollaiyadithaal",
+   "year": 2020,
+   "kerala_gross": "₹97.6L"
+  },
+  {
+   "movie_id": 872,
+   "movie_slug": "thamma",
+   "title": "Thamma",
+   "year": 2025,
+   "kerala_gross": "₹35.4L"
+  },
+  {
+   "movie_id": 1070,
+   "movie_slug": "bhooth-bangla",
+   "title": "Bhooth Bangla",
+   "year": 2026,
+   "kerala_gross": "₹24.0L"
+  },
+  {
+   "movie_id": 1181,
+   "movie_slug": "welcome-to-the-jungle",
+   "title": "Welcome to the Jungle",
+   "year": 2026,
+   "kerala_gross": "₹12.9L"
+  },
+  {
+   "movie_id": 1209,
+   "movie_slug": "tera-yaar-hoon-main",
+   "title": "Tera Yaar Hoon Main",
+   "year": 2026,
+   "kerala_gross": "₹1.2L"
+  }
+ ]
+}

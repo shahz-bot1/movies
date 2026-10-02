@@ -1,0 +1,41 @@
+{
+ "slug": "nithya-menen",
+ "name": "Nithya Menen",
+ "source_url": "https://fridaymatinee.in/people/nithya-menen",
+ "captured_at": "2026-10-02T01:05:22.511553+00:00",
+ "person": {
+  "name": "Nithya Menen",
+  "photo": "https://image.tmdb.org/t/p/w185/2X31LkjRO3FYKIsDRiIGXuqk6Sq.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 182,
+   "movie_slug": "thiruchitrambalam",
+   "title": "Thiruchitrambalam",
+   "year": 2022,
+   "kerala_gross": "₹47.5L"
+  },
+  {
+   "movie_id": 739,
+   "movie_slug": "thalaivan-thalaivii",
+   "title": "Thalaivan Thalaivii",
+   "year": 2025,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 854,
+   "movie_slug": "idli-kadai",
+   "title": "Idli Kadai",
+   "year": 2025,
+   "kerala_gross": "₹80.6L"
+  }
+ ]
+}

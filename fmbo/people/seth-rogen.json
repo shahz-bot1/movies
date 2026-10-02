@@ -1,0 +1,41 @@
+{
+ "slug": "seth-rogen",
+ "name": "Seth Rogen",
+ "source_url": "https://fridaymatinee.in/people/seth-rogen",
+ "captured_at": "2026-10-02T10:22:11.601973+00:00",
+ "person": {
+  "name": "Seth Rogen",
+  "photo": "https://image.tmdb.org/t/p/w185/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 617,
+   "movie_slug": "mufasa-the-lion-king",
+   "title": "Mufasa: The Lion King",
+   "year": 2024,
+   "kerala_gross": "₹4.4 Cr"
+  },
+  {
+   "movie_id": 870,
+   "movie_slug": "good-fortune",
+   "title": "Good Fortune",
+   "year": 2025,
+   "kerala_gross": "₹47K"
+  },
+  {
+   "movie_id": 1188,
+   "movie_slug": "the-invite",
+   "title": "The Invite",
+   "year": 2026,
+   "kerala_gross": "₹3.1L"
+  }
+ ]
+}

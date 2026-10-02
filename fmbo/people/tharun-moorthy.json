@@ -1,0 +1,53 @@
+{
+ "slug": "tharun-moorthy",
+ "name": "Tharun Moorthy",
+ "source_url": "https://fridaymatinee.in/people/tharun-moorthy",
+ "captured_at": "2026-10-02T11:19:38.804259+00:00",
+ "person": {
+  "name": "Tharun Moorthy",
+  "photo": "https://image.tmdb.org/t/p/w185/zqkNQtiWDo4kkK8gLNQRC7XA6EZ.jpg",
+  "role": "Director and writer"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 4
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 70,
+   "movie_slug": "operation-java",
+   "title": "Operation Java",
+   "year": 2021,
+   "kerala_gross": "₹86.0L"
+  },
+  {
+   "movie_id": 248,
+   "movie_slug": "saudi-vellakka",
+   "title": "Saudi Vellakka",
+   "year": 2022,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 593,
+   "movie_slug": "thudarum",
+   "title": "Thudarum",
+   "year": 2025,
+   "kerala_gross": "₹107.2 Cr"
+  },
+  {
+   "movie_id": 1085,
+   "movie_slug": "athimanoharam",
+   "title": "Athimanoharam",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

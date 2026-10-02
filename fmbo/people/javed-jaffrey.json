@@ -1,0 +1,41 @@
+{
+ "slug": "javed-jaffrey",
+ "name": "Javed Jaffrey",
+ "source_url": "https://fridaymatinee.in/people/javed-jaffrey",
+ "captured_at": "2026-10-01T23:04:17.292573+00:00",
+ "person": {
+  "name": "Javed Jaffrey",
+  "photo": "https://image.tmdb.org/t/p/w185/5JvPPxLsDEUFy6qDVawM3Itl6NV.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 39,
+   "movie_slug": "happy-sardar",
+   "title": "Happy Sardar",
+   "year": 2019,
+   "kerala_gross": "₹34.9L"
+  },
+  {
+   "movie_id": 915,
+   "movie_slug": "de-de-pyaar-de-2",
+   "title": "De De Pyaar De 2",
+   "year": 2025,
+   "kerala_gross": "₹11.5L"
+  },
+  {
+   "movie_id": 1190,
+   "movie_slug": "dhamaal-4",
+   "title": "Dhamaal 4",
+   "year": 2026,
+   "kerala_gross": "₹13.9L"
+  }
+ ]
+}

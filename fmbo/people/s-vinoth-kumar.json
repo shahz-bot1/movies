@@ -1,0 +1,55 @@
+{
+ "slug": "s-vinoth-kumar",
+ "name": "S. Vinoth Kumar",
+ "source_url": "https://fridaymatinee.in/people/s-vinoth-kumar",
+ "captured_at": "2026-10-02T09:55:31.026371+00:00",
+ "person": {
+  "name": "S. Vinoth Kumar",
+  "photo": null,
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 29,
+   "movie_slug": "moothon",
+   "title": "Moothon",
+   "year": 2019,
+   "kerala_gross": "₹63.5L"
+  },
+  {
+   "movie_id": 87,
+   "movie_slug": "enemy",
+   "title": "Enemy",
+   "year": 2021,
+   "kerala_gross": "₹39.0L"
+  },
+  {
+   "movie_id": 424,
+   "movie_slug": "mark-antony",
+   "title": "Mark Antony",
+   "year": 2023,
+   "kerala_gross": "₹2.5 Cr"
+  },
+  {
+   "movie_id": 366,
+   "movie_slug": "kudumbasthan",
+   "title": "Kudumbasthan",
+   "year": 2025,
+   "kerala_gross": "₹10.2L"
+  },
+  {
+   "movie_id": 1180,
+   "movie_slug": "ananthan-kaadu",
+   "title": "Ananthan Kaadu",
+   "year": 2026,
+   "kerala_gross": "₹2.2 Cr"
+  }
+ ]
+}

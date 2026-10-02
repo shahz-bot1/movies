@@ -1,0 +1,614 @@
+{
+ "id": 502,
+ "slug": "thundu",
+ "source_url": "https://fridaymatinee.in/boxoffice/thundu-502",
+ "captured_at": "2026-10-01T18:13:47.395549+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 502,
+    "title": "Thundu",
+    "img": "https://image.tmdb.org/t/p/original/qsDZWfBemritJgogFvTo7MSVc9X.jpg",
+    "released": "2024-02-16",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28253200",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "126 min",
+    "genre": "Comedy, Drama",
+    "plot": "A constable aiming for a promotion unexpectedly encounters many problems. Facing the issues with humor and compassion, he works to overcome them.",
+    "released": "2024-02-16",
+    "director": "Riyas Shereef",
+    "directorSlug": "riyas-shereef",
+    "actors": [
+     "Biju Menon",
+     "Shine Tom Chacko",
+     "Abhiram Radhakrishnan",
+     "Raffi",
+     "Baiju Santhosh",
+     "Shaju Sreedhar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.1",
+      "votes": 1000,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Biju Menon",
+     "character": "Baby John T",
+     "slug": "biju-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kSnzfoZphQGrnOBH7MfU3HMTKGJ.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Shibin Chandran",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Abhiram Radhakrishnan",
+     "character": "Gireesh Partykkaran",
+     "slug": "abhiram-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AjTvCsrPkiOLYblggiMlUAketU.jpg"
+    },
+    {
+     "name": "Raffi",
+     "character": "Raghavan",
+     "slug": "raffi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iL5F7FpMwgjHsu1eBvtKUpaeXXG.jpg"
+    },
+    {
+     "name": "Baiju Santhosh",
+     "character": "Police Commissioner Sathyachandran IPS",
+     "slug": "baiju-santhosh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mAGYsgiYZ5A3B24jx5PZdibN87I.jpg"
+    },
+    {
+     "name": "Shaju Sreedhar",
+     "character": null,
+     "slug": "shaju-sreedhar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4vDa8Q8VxZ9A6BRqY5f7rPIyIwS.jpg"
+    },
+    {
+     "name": "Unnimaya Prasad",
+     "character": null,
+     "slug": "unnimaya-prasad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8t3hx3ZAMNnBPW9hmGb1bskel1O.jpg"
+    },
+    {
+     "name": "Noushad Ali",
+     "character": null,
+     "slug": "noushad-ali",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Riyas Shereef",
+       "slug": "riyas-shereef"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Riyas Shereef",
+       "slug": "riyas-shereef"
+      },
+      {
+       "name": "Kannappa",
+       "slug": "kannappa"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jimshi Khalid",
+       "slug": "jimshi-khalid"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nabu Usman",
+       "slug": "nabu-usman"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ashiq Usman",
+       "slug": "ashiq-usman"
+      },
+      {
+       "name": "Jimshi Khalid",
+       "slug": "jimshi-khalid"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ashiq Usman Productions",
+     "slug": "ashiq-usman-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/viOe7LjhByej4jThVYcwp9SVNfM.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-03-18",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5975741.24,
+    "totalShows": 1881,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 1689048.8,
+     "date": "2024-02-16"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1689048.8,
+     "date": "2024-02-16"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-02-16"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 502,
+    "title": "Thundu",
+    "img": "https://image.tmdb.org/t/p/original/qsDZWfBemritJgogFvTo7MSVc9X.jpg",
+    "released": "2024-02-16",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28253200",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "126 min",
+    "genre": "Comedy, Drama",
+    "plot": "A constable aiming for a promotion unexpectedly encounters many problems. Facing the issues with humor and compassion, he works to overcome them.",
+    "released": "2024-02-16",
+    "director": "Riyas Shereef",
+    "directorSlug": "riyas-shereef",
+    "actors": [
+     "Biju Menon",
+     "Shine Tom Chacko",
+     "Abhiram Radhakrishnan",
+     "Raffi",
+     "Baiju Santhosh",
+     "Shaju Sreedhar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.1",
+      "votes": 1000,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Biju Menon",
+     "character": "Baby John T",
+     "slug": "biju-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kSnzfoZphQGrnOBH7MfU3HMTKGJ.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Shibin Chandran",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Abhiram Radhakrishnan",
+     "character": "Gireesh Partykkaran",
+     "slug": "abhiram-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AjTvCsrPkiOLYblggiMlUAketU.jpg"
+    },
+    {
+     "name": "Raffi",
+     "character": "Raghavan",
+     "slug": "raffi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iL5F7FpMwgjHsu1eBvtKUpaeXXG.jpg"
+    },
+    {
+     "name": "Baiju Santhosh",
+     "character": "Police Commissioner Sathyachandran IPS",
+     "slug": "baiju-santhosh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mAGYsgiYZ5A3B24jx5PZdibN87I.jpg"
+    },
+    {
+     "name": "Shaju Sreedhar",
+     "character": null,
+     "slug": "shaju-sreedhar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4vDa8Q8VxZ9A6BRqY5f7rPIyIwS.jpg"
+    },
+    {
+     "name": "Unnimaya Prasad",
+     "character": null,
+     "slug": "unnimaya-prasad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8t3hx3ZAMNnBPW9hmGb1bskel1O.jpg"
+    },
+    {
+     "name": "Noushad Ali",
+     "character": null,
+     "slug": "noushad-ali",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Riyas Shereef",
+       "slug": "riyas-shereef"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Riyas Shereef",
+       "slug": "riyas-shereef"
+      },
+      {
+       "name": "Kannappa",
+       "slug": "kannappa"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jimshi Khalid",
+       "slug": "jimshi-khalid"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nabu Usman",
+       "slug": "nabu-usman"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ashiq Usman",
+       "slug": "ashiq-usman"
+      },
+      {
+       "name": "Jimshi Khalid",
+       "slug": "jimshi-khalid"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ashiq Usman Productions",
+     "slug": "ashiq-usman-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/viOe7LjhByej4jThVYcwp9SVNfM.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-03-18",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-02-16",
+     "gross": 5975741.239999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1881,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5975741.239999999,
+    "totalShows": 1881,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 5975741.239999999
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5975741.239999999
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-02-16"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 502,
+    "title": "Thundu",
+    "img": "https://image.tmdb.org/t/p/original/qsDZWfBemritJgogFvTo7MSVc9X.jpg",
+    "released": "2024-02-16",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28253200",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "126 min",
+    "genre": "Comedy, Drama",
+    "plot": "A constable aiming for a promotion unexpectedly encounters many problems. Facing the issues with humor and compassion, he works to overcome them.",
+    "released": "2024-02-16",
+    "director": "Riyas Shereef",
+    "directorSlug": "riyas-shereef",
+    "actors": [
+     "Biju Menon",
+     "Shine Tom Chacko",
+     "Abhiram Radhakrishnan",
+     "Raffi",
+     "Baiju Santhosh",
+     "Shaju Sreedhar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.1",
+      "votes": 1000,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Biju Menon",
+     "character": "Baby John T",
+     "slug": "biju-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kSnzfoZphQGrnOBH7MfU3HMTKGJ.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Shibin Chandran",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Abhiram Radhakrishnan",
+     "character": "Gireesh Partykkaran",
+     "slug": "abhiram-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AjTvCsrPkiOLYblggiMlUAketU.jpg"
+    },
+    {
+     "name": "Raffi",
+     "character": "Raghavan",
+     "slug": "raffi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iL5F7FpMwgjHsu1eBvtKUpaeXXG.jpg"
+    },
+    {
+     "name": "Baiju Santhosh",
+     "character": "Police Commissioner Sathyachandran IPS",
+     "slug": "baiju-santhosh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mAGYsgiYZ5A3B24jx5PZdibN87I.jpg"
+    },
+    {
+     "name": "Shaju Sreedhar",
+     "character": null,
+     "slug": "shaju-sreedhar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4vDa8Q8VxZ9A6BRqY5f7rPIyIwS.jpg"
+    },
+    {
+     "name": "Unnimaya Prasad",
+     "character": null,
+     "slug": "unnimaya-prasad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8t3hx3ZAMNnBPW9hmGb1bskel1O.jpg"
+    },
+    {
+     "name": "Noushad Ali",
+     "character": null,
+     "slug": "noushad-ali",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Riyas Shereef",
+       "slug": "riyas-shereef"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Riyas Shereef",
+       "slug": "riyas-shereef"
+      },
+      {
+       "name": "Kannappa",
+       "slug": "kannappa"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jimshi Khalid",
+       "slug": "jimshi-khalid"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nabu Usman",
+       "slug": "nabu-usman"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ashiq Usman",
+       "slug": "ashiq-usman"
+      },
+      {
+       "name": "Jimshi Khalid",
+       "slug": "jimshi-khalid"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ashiq Usman Productions",
+     "slug": "ashiq-usman-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/viOe7LjhByej4jThVYcwp9SVNfM.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-03-18",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5975741.239999998,
+    "totalShows": 1881,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 2029458,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2029458,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-02-16"
+   }
+  }
+ }
+}

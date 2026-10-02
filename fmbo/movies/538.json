@@ -1,0 +1,676 @@
+{
+ "id": 538,
+ "slug": "barroz",
+ "source_url": "https://fridaymatinee.in/boxoffice/barroz-538",
+ "captured_at": "2026-10-01T18:14:50.584768+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 538,
+    "title": "Barroz",
+    "img": "https://image.tmdb.org/t/p/original/uv0MQn1EYH9qK7bO8jZG0Cu8R4P.jpg",
+    "released": "2024-12-25",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10345546",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "154 min",
+    "genre": "Action, Adventure, Fantasy, Thriller",
+    "plot": "Barroz has been protecting D' Gama's treasure for 400 years and has been entrusted to hand over the treasure to a true descendant of D' Gama. One day, a boy comes in search of Barroz, claiming that he is a descendant of Vasco da Gama. Barroz sets on a journey to find out the boy's true ancestors and history.",
+    "released": "2024-12-25",
+    "director": "Mohanlal",
+    "directorSlug": "mohanlal",
+    "actors": [
+     "Mohanlal",
+     "Maya Rao West",
+     "Rafael Amargo",
+     "Tuhin Menon",
+     "Sara Vega",
+     "Pranav Mohanlal"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.3",
+      "votes": 1179,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:52.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Barroz",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Maya Rao West",
+     "character": "Isa Ron / Isabella da Gama",
+     "slug": "maya-rao-west",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rafael Amargo",
+     "character": "Cristóvão da Gama",
+     "slug": "rafael-amargo",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Tuhin Menon",
+     "character": "Ron Madhav",
+     "slug": "tuhin-menon",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sara Vega",
+     "character": null,
+     "slug": "sara-vega",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gTBBbJ49vBenf2hr08AoZTySHCe.jpg"
+    },
+    {
+     "name": "Pranav Mohanlal",
+     "character": "Anonymous (Cameo)",
+     "slug": "pranav-mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nubzHZimxhAHdSBW7rkFXRPCajO.jpg"
+    },
+    {
+     "name": "Ignacio Mateos",
+     "character": null,
+     "slug": "ignacio-mateos",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ury6LzY0kMTemHQG85YSTbA1iOn.jpg"
+    },
+    {
+     "name": "Caesar Lorrento",
+     "character": null,
+     "slug": "caesar-lorrento",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Mohanlal",
+       "slug": "mohanlal"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jijo Punnoose",
+       "slug": "jijo-punnoose"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Lydian Nadhaswaram",
+       "slug": "lydian-nadhaswaram"
+      },
+      {
+       "name": "Mark Kilian",
+       "slug": "mark-kilian"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Santosh Sivan",
+       "slug": "santosh-sivan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "B. Ajithkumar",
+       "slug": "b-ajithkumar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Antony Perumbavoor",
+       "slug": "antony-perumbavoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aashirvad Cinemas",
+     "slug": "aashirvad-cinemas",
+     "logo": "https://image.tmdb.org/t/p/w185/khS7G0KzBoCYcLs4xuNjpuZjntR.png"
+    },
+    {
+     "name": "The Raviz",
+     "slug": "the-raviz",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-12-25",
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 85887452.99999997,
+    "totalShows": 8114,
+    "totalDays": 37,
+    "openingDay": {
+     "day": 1,
+     "gross": 27887221.8,
+     "date": "2024-12-25"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 27887221.8,
+     "date": "2024-12-25"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 64,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-12-25"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 538,
+    "title": "Barroz",
+    "img": "https://image.tmdb.org/t/p/original/uv0MQn1EYH9qK7bO8jZG0Cu8R4P.jpg",
+    "released": "2024-12-25",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10345546",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "154 min",
+    "genre": "Action, Adventure, Fantasy, Thriller",
+    "plot": "Barroz has been protecting D' Gama's treasure for 400 years and has been entrusted to hand over the treasure to a true descendant of D' Gama. One day, a boy comes in search of Barroz, claiming that he is a descendant of Vasco da Gama. Barroz sets on a journey to find out the boy's true ancestors and history.",
+    "released": "2024-12-25",
+    "director": "Mohanlal",
+    "directorSlug": "mohanlal",
+    "actors": [
+     "Mohanlal",
+     "Maya Rao West",
+     "Rafael Amargo",
+     "Tuhin Menon",
+     "Sara Vega",
+     "Pranav Mohanlal"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.3",
+      "votes": 1179,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:52.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Barroz",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Maya Rao West",
+     "character": "Isa Ron / Isabella da Gama",
+     "slug": "maya-rao-west",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rafael Amargo",
+     "character": "Cristóvão da Gama",
+     "slug": "rafael-amargo",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Tuhin Menon",
+     "character": "Ron Madhav",
+     "slug": "tuhin-menon",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sara Vega",
+     "character": null,
+     "slug": "sara-vega",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gTBBbJ49vBenf2hr08AoZTySHCe.jpg"
+    },
+    {
+     "name": "Pranav Mohanlal",
+     "character": "Anonymous (Cameo)",
+     "slug": "pranav-mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nubzHZimxhAHdSBW7rkFXRPCajO.jpg"
+    },
+    {
+     "name": "Ignacio Mateos",
+     "character": null,
+     "slug": "ignacio-mateos",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ury6LzY0kMTemHQG85YSTbA1iOn.jpg"
+    },
+    {
+     "name": "Caesar Lorrento",
+     "character": null,
+     "slug": "caesar-lorrento",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Mohanlal",
+       "slug": "mohanlal"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jijo Punnoose",
+       "slug": "jijo-punnoose"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Lydian Nadhaswaram",
+       "slug": "lydian-nadhaswaram"
+      },
+      {
+       "name": "Mark Kilian",
+       "slug": "mark-kilian"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Santosh Sivan",
+       "slug": "santosh-sivan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "B. Ajithkumar",
+       "slug": "b-ajithkumar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Antony Perumbavoor",
+       "slug": "antony-perumbavoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aashirvad Cinemas",
+     "slug": "aashirvad-cinemas",
+     "logo": "https://image.tmdb.org/t/p/w185/khS7G0KzBoCYcLs4xuNjpuZjntR.png"
+    },
+    {
+     "name": "The Raviz",
+     "slug": "the-raviz",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-12-25",
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2024-12-25",
+     "gross": 73258494.80000001,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5534,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-01",
+     "gross": 11110316.600000001,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2141,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-08",
+     "gross": 1107804.6,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 339,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-15",
+     "gross": 323471,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 72,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-22",
+     "gross": 80746,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 23,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-29",
+     "gross": 6620,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 85887453,
+    "totalShows": 8114,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 73258494.80000001
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 73258494.80000001
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 64,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-12-25"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 538,
+    "title": "Barroz",
+    "img": "https://image.tmdb.org/t/p/original/uv0MQn1EYH9qK7bO8jZG0Cu8R4P.jpg",
+    "released": "2024-12-25",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10345546",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "154 min",
+    "genre": "Action, Adventure, Fantasy, Thriller",
+    "plot": "Barroz has been protecting D' Gama's treasure for 400 years and has been entrusted to hand over the treasure to a true descendant of D' Gama. One day, a boy comes in search of Barroz, claiming that he is a descendant of Vasco da Gama. Barroz sets on a journey to find out the boy's true ancestors and history.",
+    "released": "2024-12-25",
+    "director": "Mohanlal",
+    "directorSlug": "mohanlal",
+    "actors": [
+     "Mohanlal",
+     "Maya Rao West",
+     "Rafael Amargo",
+     "Tuhin Menon",
+     "Sara Vega",
+     "Pranav Mohanlal"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.3",
+      "votes": 1179,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:52.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Barroz",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Maya Rao West",
+     "character": "Isa Ron / Isabella da Gama",
+     "slug": "maya-rao-west",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rafael Amargo",
+     "character": "Cristóvão da Gama",
+     "slug": "rafael-amargo",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Tuhin Menon",
+     "character": "Ron Madhav",
+     "slug": "tuhin-menon",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sara Vega",
+     "character": null,
+     "slug": "sara-vega",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gTBBbJ49vBenf2hr08AoZTySHCe.jpg"
+    },
+    {
+     "name": "Pranav Mohanlal",
+     "character": "Anonymous (Cameo)",
+     "slug": "pranav-mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nubzHZimxhAHdSBW7rkFXRPCajO.jpg"
+    },
+    {
+     "name": "Ignacio Mateos",
+     "character": null,
+     "slug": "ignacio-mateos",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ury6LzY0kMTemHQG85YSTbA1iOn.jpg"
+    },
+    {
+     "name": "Caesar Lorrento",
+     "character": null,
+     "slug": "caesar-lorrento",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Mohanlal",
+       "slug": "mohanlal"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jijo Punnoose",
+       "slug": "jijo-punnoose"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Lydian Nadhaswaram",
+       "slug": "lydian-nadhaswaram"
+      },
+      {
+       "name": "Mark Kilian",
+       "slug": "mark-kilian"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Santosh Sivan",
+       "slug": "santosh-sivan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "B. Ajithkumar",
+       "slug": "b-ajithkumar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Antony Perumbavoor",
+       "slug": "antony-perumbavoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aashirvad Cinemas",
+     "slug": "aashirvad-cinemas",
+     "logo": "https://image.tmdb.org/t/p/w185/khS7G0KzBoCYcLs4xuNjpuZjntR.png"
+    },
+    {
+     "name": "The Raviz",
+     "slug": "the-raviz",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-12-25",
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 85887453,
+    "totalShows": 8114,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 19368817,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 19368817,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 64,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-12-25"
+   }
+  }
+ }
+}

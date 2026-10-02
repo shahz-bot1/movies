@@ -1,0 +1,583 @@
+{
+ "id": 334,
+ "slug": "corona-papers",
+ "source_url": "https://fridaymatinee.in/boxoffice/corona-papers-334",
+ "captured_at": "2026-10-01T18:09:57.952015+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 334,
+    "title": "Corona Papers",
+    "img": "https://image.tmdb.org/t/p/original/k6H3KVhJOekEaXSUXHks9NQI8rA.jpg",
+    "released": "2023-04-06",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt24683702",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "155 min",
+    "genre": "Action, Drama, Thriller",
+    "plot": "The cat and mouse chase between the police and thieves who looted a huge amount during the COVID-19 pandemic.",
+    "released": "2023-04-06",
+    "director": "Priyadarshan",
+    "directorSlug": "priyadarshan",
+    "actors": [
+     "Shane Nigam",
+     "Shine Tom Chacko",
+     "Siddique",
+     "Maniyanpilla Raju",
+     "Gayathrie Shankar",
+     "Lal Jr."
+    ],
+    "awards": "2 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 1731,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:31.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shane Nigam",
+     "character": "SI Rahul Nambiar",
+     "slug": "shane-nigam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9KJqx2V9aRwcTuMh2FQmWj5HrAO.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Kaakka Pappi",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "SI Shankararaman",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Maniyanpilla Raju",
+     "character": "CI Ayyappan Pillai",
+     "slug": "maniyanpilla-raju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2G6JRbEXPkhCqZ0rZjzRNjip99D.jpg"
+    },
+    {
+     "name": "Gayathrie Shankar",
+     "character": "Veena",
+     "slug": "gayathrie-shankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bJgZlSd5WCIi7kp3IZKS0FDjIL2.jpg"
+    },
+    {
+     "name": "Lal Jr.",
+     "character": "Tony",
+     "slug": "lal-jr",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2QoAFcXlCwZNlYy6gTr3S2GY39o.jpg"
+    },
+    {
+     "name": "V. T. Vijilesh",
+     "character": null,
+     "slug": "v-t-vijilesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y96hD1ljwpy7LWP6fp73vbLXQ2i.jpg"
+    },
+    {
+     "name": "Hannah Reji Koshy",
+     "character": "Rani",
+     "slug": "hannah-reji-koshy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7JiW2EsAwOrQqpbEpXHM1JZmgF0.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Priyadarshan",
+       "slug": "priyadarshan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Priyadarshan",
+       "slug": "priyadarshan"
+      },
+      {
+       "name": "Sri Ganesh",
+       "slug": "sri-ganesh"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Divakar Mani",
+       "slug": "divakar-mani"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "M S Ayyappan Nair",
+       "slug": "m-s-ayyappan-nair"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Priyadarshan",
+       "slug": "priyadarshan"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 11977675.489999998,
+    "totalShows": 3090,
+    "totalDays": 16,
+    "openingDay": {
+     "day": 1,
+     "gross": 1544479.71,
+     "date": "2023-04-06"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 2021265.5999999999,
+     "date": "2023-04-09"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-04-06"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 334,
+    "title": "Corona Papers",
+    "img": "https://image.tmdb.org/t/p/original/k6H3KVhJOekEaXSUXHks9NQI8rA.jpg",
+    "released": "2023-04-06",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt24683702",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "155 min",
+    "genre": "Action, Drama, Thriller",
+    "plot": "The cat and mouse chase between the police and thieves who looted a huge amount during the COVID-19 pandemic.",
+    "released": "2023-04-06",
+    "director": "Priyadarshan",
+    "directorSlug": "priyadarshan",
+    "actors": [
+     "Shane Nigam",
+     "Shine Tom Chacko",
+     "Siddique",
+     "Maniyanpilla Raju",
+     "Gayathrie Shankar",
+     "Lal Jr."
+    ],
+    "awards": "2 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 1731,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:31.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shane Nigam",
+     "character": "SI Rahul Nambiar",
+     "slug": "shane-nigam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9KJqx2V9aRwcTuMh2FQmWj5HrAO.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Kaakka Pappi",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "SI Shankararaman",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Maniyanpilla Raju",
+     "character": "CI Ayyappan Pillai",
+     "slug": "maniyanpilla-raju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2G6JRbEXPkhCqZ0rZjzRNjip99D.jpg"
+    },
+    {
+     "name": "Gayathrie Shankar",
+     "character": "Veena",
+     "slug": "gayathrie-shankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bJgZlSd5WCIi7kp3IZKS0FDjIL2.jpg"
+    },
+    {
+     "name": "Lal Jr.",
+     "character": "Tony",
+     "slug": "lal-jr",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2QoAFcXlCwZNlYy6gTr3S2GY39o.jpg"
+    },
+    {
+     "name": "V. T. Vijilesh",
+     "character": null,
+     "slug": "v-t-vijilesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y96hD1ljwpy7LWP6fp73vbLXQ2i.jpg"
+    },
+    {
+     "name": "Hannah Reji Koshy",
+     "character": "Rani",
+     "slug": "hannah-reji-koshy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7JiW2EsAwOrQqpbEpXHM1JZmgF0.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Priyadarshan",
+       "slug": "priyadarshan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Priyadarshan",
+       "slug": "priyadarshan"
+      },
+      {
+       "name": "Sri Ganesh",
+       "slug": "sri-ganesh"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Divakar Mani",
+       "slug": "divakar-mani"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "M S Ayyappan Nair",
+       "slug": "m-s-ayyappan-nair"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Priyadarshan",
+       "slug": "priyadarshan"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-04-06",
+     "gross": 8941022.22,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1942,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-04-13",
+     "gross": 2885549.2700000005,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1077,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-04-20",
+     "gross": 151104,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 71,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 11977675.490000002,
+    "totalShows": 3090,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 8941022.22
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 8941022.22
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-04-06"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 334,
+    "title": "Corona Papers",
+    "img": "https://image.tmdb.org/t/p/original/k6H3KVhJOekEaXSUXHks9NQI8rA.jpg",
+    "released": "2023-04-06",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt24683702",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "155 min",
+    "genre": "Action, Drama, Thriller",
+    "plot": "The cat and mouse chase between the police and thieves who looted a huge amount during the COVID-19 pandemic.",
+    "released": "2023-04-06",
+    "director": "Priyadarshan",
+    "directorSlug": "priyadarshan",
+    "actors": [
+     "Shane Nigam",
+     "Shine Tom Chacko",
+     "Siddique",
+     "Maniyanpilla Raju",
+     "Gayathrie Shankar",
+     "Lal Jr."
+    ],
+    "awards": "2 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 1731,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:31.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shane Nigam",
+     "character": "SI Rahul Nambiar",
+     "slug": "shane-nigam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9KJqx2V9aRwcTuMh2FQmWj5HrAO.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Kaakka Pappi",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "SI Shankararaman",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Maniyanpilla Raju",
+     "character": "CI Ayyappan Pillai",
+     "slug": "maniyanpilla-raju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2G6JRbEXPkhCqZ0rZjzRNjip99D.jpg"
+    },
+    {
+     "name": "Gayathrie Shankar",
+     "character": "Veena",
+     "slug": "gayathrie-shankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bJgZlSd5WCIi7kp3IZKS0FDjIL2.jpg"
+    },
+    {
+     "name": "Lal Jr.",
+     "character": "Tony",
+     "slug": "lal-jr",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2QoAFcXlCwZNlYy6gTr3S2GY39o.jpg"
+    },
+    {
+     "name": "V. T. Vijilesh",
+     "character": null,
+     "slug": "v-t-vijilesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y96hD1ljwpy7LWP6fp73vbLXQ2i.jpg"
+    },
+    {
+     "name": "Hannah Reji Koshy",
+     "character": "Rani",
+     "slug": "hannah-reji-koshy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7JiW2EsAwOrQqpbEpXHM1JZmgF0.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Priyadarshan",
+       "slug": "priyadarshan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Priyadarshan",
+       "slug": "priyadarshan"
+      },
+      {
+       "name": "Sri Ganesh",
+       "slug": "sri-ganesh"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Divakar Mani",
+       "slug": "divakar-mani"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "M S Ayyappan Nair",
+       "slug": "m-s-ayyappan-nair"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Priyadarshan",
+       "slug": "priyadarshan"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 11977675.49,
+    "totalShows": 3090,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 2871068,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2871068,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-04-06"
+   }
+  }
+ }
+}

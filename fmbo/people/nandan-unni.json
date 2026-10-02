@@ -1,0 +1,48 @@
+{
+ "slug": "nandan-unni",
+ "name": "Nandan Unni",
+ "source_url": "https://fridaymatinee.in/people/nandan-unni",
+ "captured_at": "2026-10-02T00:51:47.738520+00:00",
+ "person": {
+  "name": "Nandan Unni",
+  "photo": "https://image.tmdb.org/t/p/w185/8h8D6uPFLWZskE5zvoHi8TBcumj.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 78,
+   "movie_slug": "anugraheethan-antony",
+   "title": "Anugraheethan Antony",
+   "year": 2021,
+   "kerala_gross": "₹1.3 Cr"
+  },
+  {
+   "movie_id": 491,
+   "movie_slug": "aattam",
+   "title": "Aattam",
+   "year": 2024,
+   "kerala_gross": "₹95.1L"
+  },
+  {
+   "movie_id": 705,
+   "movie_slug": "ronth",
+   "title": "Ronth",
+   "year": 2025,
+   "kerala_gross": "₹5.3 Cr"
+  },
+  {
+   "movie_id": 1094,
+   "movie_slug": "dridam",
+   "title": "Dridam",
+   "year": 2026,
+   "kerala_gross": "₹3.2 Cr"
+  }
+ ]
+}

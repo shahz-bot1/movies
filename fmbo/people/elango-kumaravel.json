@@ -1,0 +1,53 @@
+{
+ "slug": "elango-kumaravel",
+ "name": "Elango Kumaravel",
+ "source_url": "https://fridaymatinee.in/people/elango-kumaravel",
+ "captured_at": "2026-10-01T22:10:13.461050+00:00",
+ "person": {
+  "name": "Elango Kumaravel",
+  "photo": "https://image.tmdb.org/t/p/w185/8LtXDdacaCA7Gk4B8ACxTs430EO.jpg",
+  "role": "Actor and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 143,
+   "movie_slug": "john-luther",
+   "title": "John Luther",
+   "year": 2022,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 144,
+   "movie_slug": "vikram",
+   "title": "Vikram",
+   "year": 2022,
+   "kerala_gross": "₹29.1 Cr"
+  },
+  {
+   "movie_id": 492,
+   "movie_slug": "captain-miller",
+   "title": "Captain Miller",
+   "year": 2024,
+   "kerala_gross": "₹3.3 Cr"
+  },
+  {
+   "movie_id": 679,
+   "movie_slug": "tourist-family",
+   "title": "Tourist Family",
+   "year": 2025,
+   "kerala_gross": "₹1.3 Cr"
+  }
+ ]
+}

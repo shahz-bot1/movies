@@ -1,0 +1,782 @@
+{
+ "id": 67,
+ "slug": "wonder-woman-1984",
+ "source_url": "https://fridaymatinee.in/boxoffice/wonder-woman-1984-67",
+ "captured_at": "2026-10-01T17:59:45.576978+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 67,
+    "title": "Wonder Woman 1984",
+    "img": "https://image.tmdb.org/t/p/original/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+    "released": "2021-01-22",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt7126948",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "151 min",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.",
+    "released": "2020-12-16",
+    "director": "Patty Jenkins",
+    "directorSlug": "patty-jenkins",
+    "actors": [
+     "Gal Gadot",
+     "Chris Pine",
+     "Kristen Wiig",
+     "Pedro Pascal",
+     "Robin Wright",
+     "Connie Nielsen"
+    ],
+    "awards": "24 wins u0026 48 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.3",
+      "votes": 315350,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.3",
+      "votes": 9267,
+      "updatedAt": "2026-09-25T01:10:47.000Z"
+     },
+     "rt": "57%",
+     "metascore": 60,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Gal Gadot",
+     "character": "Diana Prince",
+     "slug": "gal-gadot",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg"
+    },
+    {
+     "name": "Chris Pine",
+     "character": "Steve Trevor",
+     "slug": "chris-pine",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d8hGMH1igEFnpNFEEFdP3yFHV3U.jpg"
+    },
+    {
+     "name": "Kristen Wiig",
+     "character": "Barbara Minerva",
+     "slug": "kristen-wiig",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oddvykQHx71hEZlvKinCzB3Vcfh.jpg"
+    },
+    {
+     "name": "Pedro Pascal",
+     "character": "Maxwell Lord",
+     "slug": "pedro-pascal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    },
+    {
+     "name": "Robin Wright",
+     "character": "Antiope",
+     "slug": "robin-wright",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+    },
+    {
+     "name": "Connie Nielsen",
+     "character": "Hippolyta",
+     "slug": "connie-nielsen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+    },
+    {
+     "name": "Lilly Aspell",
+     "character": "Young Diana",
+     "slug": "lilly-aspell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/coQpJMVLXrRhNgi0EKHYzVjQtLi.jpg"
+    },
+    {
+     "name": "Amr Waked",
+     "character": "Emir Said Bin Abydos",
+     "slug": "amr-waked",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eRcAC2beUP52lQiejmKQA8jiyld.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Patty Jenkins",
+       "slug": "patty-jenkins"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "David Callaham",
+       "slug": "david-callaham"
+      },
+      {
+       "name": "Patty Jenkins",
+       "slug": "patty-jenkins"
+      },
+      {
+       "name": "Geoff Johns",
+       "slug": "geoff-johns"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hans Zimmer",
+       "slug": "hans-zimmer"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Matthew Jensen",
+       "slug": "matthew-jensen"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Richard Pearson",
+       "slug": "richard-pearson"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Gal Gadot",
+       "slug": "gal-gadot"
+      },
+      {
+       "name": "Zack Snyder",
+       "slug": "zack-snyder"
+      },
+      {
+       "name": "Deborah Snyder",
+       "slug": "deborah-snyder"
+      },
+      {
+       "name": "Charles Roven",
+       "slug": "charles-roven"
+      },
+      {
+       "name": "Patty Jenkins",
+       "slug": "patty-jenkins"
+      },
+      {
+       "name": "Stephen Jones",
+       "slug": "stephen-jones"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "The Stone Quarry",
+     "slug": "the-stone-quarry",
+     "logo": "https://image.tmdb.org/t/p/w185/xYfrnGFXxrEy5x5OVThunxHYScK.png"
+    },
+    {
+     "name": "DC Films",
+     "slug": "dc-films",
+     "logo": "https://image.tmdb.org/t/p/w185/13F3Jf7EFAcREU0xzZqJnVnyGXu.png"
+    },
+    {
+     "name": "Atlas Entertainment",
+     "slug": "atlas-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/aRmHe6GWxYMRCQljF75rn2B9Gv8.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2020-12-18",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 193653,
+    "totalShows": 149,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 70974,
+     "date": "2021-01-22"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 73434,
+     "date": "2021-01-24"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 53,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-01-22"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 67,
+    "title": "Wonder Woman 1984",
+    "img": "https://image.tmdb.org/t/p/original/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+    "released": "2021-01-22",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt7126948",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "151 min",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.",
+    "released": "2020-12-16",
+    "director": "Patty Jenkins",
+    "directorSlug": "patty-jenkins",
+    "actors": [
+     "Gal Gadot",
+     "Chris Pine",
+     "Kristen Wiig",
+     "Pedro Pascal",
+     "Robin Wright",
+     "Connie Nielsen"
+    ],
+    "awards": "24 wins u0026 48 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.3",
+      "votes": 315350,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.3",
+      "votes": 9267,
+      "updatedAt": "2026-09-25T01:10:47.000Z"
+     },
+     "rt": "57%",
+     "metascore": 60,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Gal Gadot",
+     "character": "Diana Prince",
+     "slug": "gal-gadot",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg"
+    },
+    {
+     "name": "Chris Pine",
+     "character": "Steve Trevor",
+     "slug": "chris-pine",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d8hGMH1igEFnpNFEEFdP3yFHV3U.jpg"
+    },
+    {
+     "name": "Kristen Wiig",
+     "character": "Barbara Minerva",
+     "slug": "kristen-wiig",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oddvykQHx71hEZlvKinCzB3Vcfh.jpg"
+    },
+    {
+     "name": "Pedro Pascal",
+     "character": "Maxwell Lord",
+     "slug": "pedro-pascal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    },
+    {
+     "name": "Robin Wright",
+     "character": "Antiope",
+     "slug": "robin-wright",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+    },
+    {
+     "name": "Connie Nielsen",
+     "character": "Hippolyta",
+     "slug": "connie-nielsen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+    },
+    {
+     "name": "Lilly Aspell",
+     "character": "Young Diana",
+     "slug": "lilly-aspell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/coQpJMVLXrRhNgi0EKHYzVjQtLi.jpg"
+    },
+    {
+     "name": "Amr Waked",
+     "character": "Emir Said Bin Abydos",
+     "slug": "amr-waked",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eRcAC2beUP52lQiejmKQA8jiyld.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Patty Jenkins",
+       "slug": "patty-jenkins"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "David Callaham",
+       "slug": "david-callaham"
+      },
+      {
+       "name": "Patty Jenkins",
+       "slug": "patty-jenkins"
+      },
+      {
+       "name": "Geoff Johns",
+       "slug": "geoff-johns"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hans Zimmer",
+       "slug": "hans-zimmer"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Matthew Jensen",
+       "slug": "matthew-jensen"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Richard Pearson",
+       "slug": "richard-pearson"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Gal Gadot",
+       "slug": "gal-gadot"
+      },
+      {
+       "name": "Zack Snyder",
+       "slug": "zack-snyder"
+      },
+      {
+       "name": "Deborah Snyder",
+       "slug": "deborah-snyder"
+      },
+      {
+       "name": "Charles Roven",
+       "slug": "charles-roven"
+      },
+      {
+       "name": "Patty Jenkins",
+       "slug": "patty-jenkins"
+      },
+      {
+       "name": "Stephen Jones",
+       "slug": "stephen-jones"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "The Stone Quarry",
+     "slug": "the-stone-quarry",
+     "logo": "https://image.tmdb.org/t/p/w185/xYfrnGFXxrEy5x5OVThunxHYScK.png"
+    },
+    {
+     "name": "DC Films",
+     "slug": "dc-films",
+     "logo": "https://image.tmdb.org/t/p/w185/13F3Jf7EFAcREU0xzZqJnVnyGXu.png"
+    },
+    {
+     "name": "Atlas Entertainment",
+     "slug": "atlas-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/aRmHe6GWxYMRCQljF75rn2B9Gv8.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2020-12-18",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2021-01-22",
+     "gross": 193653,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 149,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 193653,
+    "totalShows": 149,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 193653
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 193653
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 53,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-01-22"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 67,
+    "title": "Wonder Woman 1984",
+    "img": "https://image.tmdb.org/t/p/original/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+    "released": "2021-01-22",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt7126948",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "151 min",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.",
+    "released": "2020-12-16",
+    "director": "Patty Jenkins",
+    "directorSlug": "patty-jenkins",
+    "actors": [
+     "Gal Gadot",
+     "Chris Pine",
+     "Kristen Wiig",
+     "Pedro Pascal",
+     "Robin Wright",
+     "Connie Nielsen"
+    ],
+    "awards": "24 wins u0026 48 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.3",
+      "votes": 315350,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.3",
+      "votes": 9267,
+      "updatedAt": "2026-09-25T01:10:47.000Z"
+     },
+     "rt": "57%",
+     "metascore": 60,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Gal Gadot",
+     "character": "Diana Prince",
+     "slug": "gal-gadot",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg"
+    },
+    {
+     "name": "Chris Pine",
+     "character": "Steve Trevor",
+     "slug": "chris-pine",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d8hGMH1igEFnpNFEEFdP3yFHV3U.jpg"
+    },
+    {
+     "name": "Kristen Wiig",
+     "character": "Barbara Minerva",
+     "slug": "kristen-wiig",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oddvykQHx71hEZlvKinCzB3Vcfh.jpg"
+    },
+    {
+     "name": "Pedro Pascal",
+     "character": "Maxwell Lord",
+     "slug": "pedro-pascal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    },
+    {
+     "name": "Robin Wright",
+     "character": "Antiope",
+     "slug": "robin-wright",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+    },
+    {
+     "name": "Connie Nielsen",
+     "character": "Hippolyta",
+     "slug": "connie-nielsen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+    },
+    {
+     "name": "Lilly Aspell",
+     "character": "Young Diana",
+     "slug": "lilly-aspell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/coQpJMVLXrRhNgi0EKHYzVjQtLi.jpg"
+    },
+    {
+     "name": "Amr Waked",
+     "character": "Emir Said Bin Abydos",
+     "slug": "amr-waked",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eRcAC2beUP52lQiejmKQA8jiyld.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Patty Jenkins",
+       "slug": "patty-jenkins"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "David Callaham",
+       "slug": "david-callaham"
+      },
+      {
+       "name": "Patty Jenkins",
+       "slug": "patty-jenkins"
+      },
+      {
+       "name": "Geoff Johns",
+       "slug": "geoff-johns"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hans Zimmer",
+       "slug": "hans-zimmer"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Matthew Jensen",
+       "slug": "matthew-jensen"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Richard Pearson",
+       "slug": "richard-pearson"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Gal Gadot",
+       "slug": "gal-gadot"
+      },
+      {
+       "name": "Zack Snyder",
+       "slug": "zack-snyder"
+      },
+      {
+       "name": "Deborah Snyder",
+       "slug": "deborah-snyder"
+      },
+      {
+       "name": "Charles Roven",
+       "slug": "charles-roven"
+      },
+      {
+       "name": "Patty Jenkins",
+       "slug": "patty-jenkins"
+      },
+      {
+       "name": "Stephen Jones",
+       "slug": "stephen-jones"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "The Stone Quarry",
+     "slug": "the-stone-quarry",
+     "logo": "https://image.tmdb.org/t/p/w185/xYfrnGFXxrEy5x5OVThunxHYScK.png"
+    },
+    {
+     "name": "DC Films",
+     "slug": "dc-films",
+     "logo": "https://image.tmdb.org/t/p/w185/13F3Jf7EFAcREU0xzZqJnVnyGXu.png"
+    },
+    {
+     "name": "Atlas Entertainment",
+     "slug": "atlas-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/aRmHe6GWxYMRCQljF75rn2B9Gv8.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2020-12-18",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 193653,
+    "totalShows": 149,
+    "totalDays": 10,
+    "openingDay": {
+     "day": 1,
+     "gross": 65575,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 65575,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 53,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-01-22"
+   }
+  }
+ }
+}

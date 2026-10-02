@@ -1,0 +1,55 @@
+{
+ "slug": "nirav-shah",
+ "name": "Nirav Shah",
+ "source_url": "https://fridaymatinee.in/people/nirav-shah",
+ "captured_at": "2026-10-02T01:03:10.688749+00:00",
+ "person": {
+  "name": "Nirav Shah",
+  "photo": "https://image.tmdb.org/t/p/w185/1bWhByXY7534EqNW3McDY1aCmWB.jpg",
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 109,
+   "movie_slug": "valimai",
+   "title": "Valimai",
+   "year": 2022,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 218,
+   "movie_slug": "godfather",
+   "title": "Godfather",
+   "year": 2022,
+   "kerala_gross": "₹8.6L"
+  },
+  {
+   "movie_id": 271,
+   "movie_slug": "thunivu",
+   "title": "Thunivu",
+   "year": 2023,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 494,
+   "movie_slug": "ayalaan",
+   "title": "Ayalaan",
+   "year": 2024,
+   "kerala_gross": "₹50.4L"
+  },
+  {
+   "movie_id": 1009,
+   "movie_slug": "my-lord",
+   "title": "My Lord",
+   "year": 2026,
+   "kerala_gross": "₹4.5L"
+  }
+ ]
+}

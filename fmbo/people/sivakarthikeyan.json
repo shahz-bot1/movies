@@ -1,0 +1,67 @@
+{
+ "slug": "sivakarthikeyan",
+ "name": "Sivakarthikeyan",
+ "source_url": "https://fridaymatinee.in/people/sivakarthikeyan",
+ "captured_at": "2026-10-02T10:47:47.222827+00:00",
+ "person": {
+  "name": "Sivakarthikeyan",
+  "photo": "https://image.tmdb.org/t/p/w185/jgy9y3V8QqZmu5r8sMxrGCzXuyp.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 229,
+   "movie_slug": "prince",
+   "title": "Prince",
+   "year": 2022,
+   "kerala_gross": "₹18.3L"
+  },
+  {
+   "movie_id": 409,
+   "movie_slug": "maaveeran",
+   "title": "Maaveeran",
+   "year": 2023,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 494,
+   "movie_slug": "ayalaan",
+   "title": "Ayalaan",
+   "year": 2024,
+   "kerala_gross": "₹50.4L"
+  },
+  {
+   "movie_id": 589,
+   "movie_slug": "amaran",
+   "title": "Amaran",
+   "year": 2024,
+   "kerala_gross": "₹9.7 Cr"
+  },
+  {
+   "movie_id": 807,
+   "movie_slug": "madharaasi",
+   "title": "Madharaasi",
+   "year": 2025,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 962,
+   "movie_slug": "parasakthi",
+   "title": "Parasakthi",
+   "year": 2026,
+   "kerala_gross": "₹1.2 Cr"
+  }
+ ]
+}

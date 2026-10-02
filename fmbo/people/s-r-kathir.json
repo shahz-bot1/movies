@@ -1,0 +1,48 @@
+{
+ "slug": "s-r-kathir",
+ "name": "S. R. Kathir",
+ "source_url": "https://fridaymatinee.in/people/s-r-kathir",
+ "captured_at": "2026-10-02T09:54:19.462035+00:00",
+ "person": {
+  "name": "S. R. Kathir",
+  "photo": "https://image.tmdb.org/t/p/w185/vok5BfxV04byvZROBxyTX4ykHwU.jpg",
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 42,
+   "movie_slug": "enai-noki-paayum-thota",
+   "title": "Enai Noki Paayum Thota",
+   "year": 2019,
+   "kerala_gross": "₹11.3L"
+  },
+  {
+   "movie_id": 135,
+   "movie_slug": "kaathuvaakula-rendu-kadhal",
+   "title": "Kaathuvaakula Rendu Kadhal",
+   "year": 2022,
+   "kerala_gross": "₹45.7L"
+  },
+  {
+   "movie_id": 582,
+   "movie_slug": "vettaiyan",
+   "title": "Vettaiyan",
+   "year": 2024,
+   "kerala_gross": "₹13.1 Cr"
+  },
+  {
+   "movie_id": 1274,
+   "movie_slug": "mandaadi",
+   "title": "Mandaadi",
+   "year": 2026,
+   "kerala_gross": "₹2.0 Cr"
+  }
+ ]
+}

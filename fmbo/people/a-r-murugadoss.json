@@ -1,0 +1,51 @@
+{
+ "slug": "a-r-murugadoss",
+ "name": "A. R. Murugadoss",
+ "source_url": "https://fridaymatinee.in/people/a-r-murugadoss",
+ "captured_at": "2026-10-01T20:01:32.537817+00:00",
+ "person": {
+  "name": "A. R. Murugadoss",
+  "photo": "https://image.tmdb.org/t/p/w185/7FGxsw7JD1jBiciqN7IGV1dAHW1.jpg",
+  "role": "Director, actor and writer"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  },
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 50,
+   "movie_slug": "darbar",
+   "title": "Darbar",
+   "year": 2020,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 673,
+   "movie_slug": "sikandar",
+   "title": "Sikandar",
+   "year": 2025,
+   "kerala_gross": "₹55.7L"
+  },
+  {
+   "movie_id": 807,
+   "movie_slug": "madharaasi",
+   "title": "Madharaasi",
+   "year": 2025,
+   "kerala_gross": "₹1.5 Cr"
+  }
+ ]
+}

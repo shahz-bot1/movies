@@ -1,0 +1,83 @@
+{
+ "slug": "prabhu",
+ "name": "Prabhu",
+ "source_url": "https://fridaymatinee.in/people/prabhu",
+ "captured_at": "2026-10-02T06:22:57.748829+00:00",
+ "person": {
+  "name": "Prabhu",
+  "photo": "https://image.tmdb.org/t/p/w185/1ZG65sdJaLrHjTAme5ETZMyqgnM.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 9
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 89,
+   "movie_slug": "marakkar",
+   "title": "Marakkar",
+   "year": 2021,
+   "kerala_gross": "₹13.7 Cr"
+  },
+  {
+   "movie_id": 135,
+   "movie_slug": "kaathuvaakula-rendu-kadhal",
+   "title": "Kaathuvaakula Rendu Kadhal",
+   "year": 2022,
+   "kerala_gross": "₹45.7L"
+  },
+  {
+   "movie_id": 170,
+   "movie_slug": "legend",
+   "title": "Legend",
+   "year": 2022,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 207,
+   "movie_slug": "naane-varuven",
+   "title": "Naane Varuven",
+   "year": 2022,
+   "kerala_gross": "₹31.8L"
+  },
+  {
+   "movie_id": 276,
+   "movie_slug": "varisu",
+   "title": "Varisu",
+   "year": 2023,
+   "kerala_gross": "₹7.8 Cr"
+  },
+  {
+   "movie_id": 359,
+   "movie_slug": "ponniyin-selvan-part-2",
+   "title": "Ponniyin Selvan - Part 2",
+   "year": 2023,
+   "kerala_gross": "₹13.2 Cr"
+  },
+  {
+   "movie_id": 664,
+   "movie_slug": "good-bad-ugly",
+   "title": "Good Bad Ugly",
+   "year": 2025,
+   "kerala_gross": "₹3.9 Cr"
+  },
+  {
+   "movie_id": 826,
+   "movie_slug": "kiss",
+   "title": "Kiss",
+   "year": 2025,
+   "kerala_gross": "₹1.3L"
+  },
+  {
+   "movie_id": 1253,
+   "movie_slug": "hi",
+   "title": "Hi!",
+   "year": 2026,
+   "kerala_gross": "₹8.9L"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "saurabh-sachdeva",
+ "name": "Saurabh Sachdeva",
+ "source_url": "https://fridaymatinee.in/people/saurabh-sachdeva",
+ "captured_at": "2026-10-02T10:18:23.854787+00:00",
+ "person": {
+  "name": "Saurabh Sachdeva",
+  "photo": "https://image.tmdb.org/t/p/w185/owFhWHeW4fyc7k6ik8uCvYQCXoy.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 468,
+   "movie_slug": "animal",
+   "title": "Animal",
+   "year": 2023,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 813,
+   "movie_slug": "baaghi-4",
+   "title": "Baaghi 4",
+   "year": 2025,
+   "kerala_gross": "₹35.3L"
+  },
+  {
+   "movie_id": 918,
+   "movie_slug": "eko",
+   "title": "Eko",
+   "year": 2025,
+   "kerala_gross": "₹20.3 Cr"
+  },
+  {
+   "movie_id": 1311,
+   "movie_slug": "don-t-trouble-the-trouble",
+   "title": "Don't Trouble The Trouble",
+   "year": 2026,
+   "kerala_gross": "₹11.6L"
+  }
+ ]
+}

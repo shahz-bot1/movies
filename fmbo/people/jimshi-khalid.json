@@ -1,0 +1,74 @@
+{
+ "slug": "jimshi-khalid",
+ "name": "Jimshi Khalid",
+ "source_url": "https://fridaymatinee.in/people/jimshi-khalid",
+ "captured_at": "2026-10-01T23:14:57.356440+00:00",
+ "person": {
+  "name": "Jimshi Khalid",
+  "photo": "https://image.tmdb.org/t/p/w185/cFZ38tsULmoWoCAipMBV3vdziXm.jpg",
+  "role": "Cinematography and producer"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 7
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 179,
+   "movie_slug": "thallumaala",
+   "title": "Thallumaala",
+   "year": 2022,
+   "kerala_gross": "₹18.9 Cr"
+  },
+  {
+   "movie_id": 502,
+   "movie_slug": "thundu",
+   "title": "Thundu",
+   "year": 2024,
+   "kerala_gross": "₹59.8L"
+  },
+  {
+   "movie_id": 548,
+   "movie_slug": "adios-amigo",
+   "title": "Adios Amigo",
+   "year": 2024,
+   "kerala_gross": "₹2.0 Cr"
+  },
+  {
+   "movie_id": 633,
+   "movie_slug": "alappuzha-gymkhana",
+   "title": "Alappuzha Gymkhana",
+   "year": 2025,
+   "kerala_gross": "₹35.2 Cr"
+  },
+  {
+   "movie_id": 662,
+   "movie_slug": "im-game",
+   "title": "Im Game",
+   "year": 2026,
+   "kerala_gross": "₹16.5 Cr"
+  },
+  {
+   "movie_id": 1267,
+   "movie_slug": "mela",
+   "title": "Mela",
+   "year": 2027,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 1307,
+   "movie_slug": "mattancherry-mafia",
+   "title": "Mattancherry Mafia",
+   "year": 2027,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

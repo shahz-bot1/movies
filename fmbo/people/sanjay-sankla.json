@@ -1,0 +1,48 @@
+{
+ "slug": "sanjay-sankla",
+ "name": "Sanjay Sankla",
+ "source_url": "https://fridaymatinee.in/people/sanjay-sankla",
+ "captured_at": "2026-10-02T10:10:02.515237+00:00",
+ "person": {
+  "name": "Sanjay Sankla",
+  "photo": null,
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 920,
+   "movie_slug": "mastiii-4",
+   "title": "Mastiii 4",
+   "year": 2025,
+   "kerala_gross": "₹4.4L"
+  },
+  {
+   "movie_id": 1111,
+   "movie_slug": "aakhri-sawal",
+   "title": "Aakhri Sawal",
+   "year": 2026,
+   "kerala_gross": "₹1.2L"
+  },
+  {
+   "movie_id": 1190,
+   "movie_slug": "dhamaal-4",
+   "title": "Dhamaal 4",
+   "year": 2026,
+   "kerala_gross": "₹13.9L"
+  },
+  {
+   "movie_id": 1209,
+   "movie_slug": "tera-yaar-hoon-main",
+   "title": "Tera Yaar Hoon Main",
+   "year": 2026,
+   "kerala_gross": "₹1.2L"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "saiyami-kher",
+ "name": "Saiyami Kher",
+ "source_url": "https://fridaymatinee.in/people/saiyami-kher",
+ "captured_at": "2026-10-02T09:59:32.138252+00:00",
+ "person": {
+  "name": "Saiyami Kher",
+  "photo": "https://image.tmdb.org/t/p/w185/iOQGK0DFuC5E6c1ZZsrWwNhjDqn.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 434,
+   "movie_slug": "jaat",
+   "title": "Jaat",
+   "year": 2025,
+   "kerala_gross": "₹18.1L"
+  },
+  {
+   "movie_id": 1169,
+   "movie_slug": "uyir",
+   "title": "Uyir",
+   "year": 2026,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 1278,
+   "movie_slug": "haiwaan",
+   "title": "Haiwaan",
+   "year": 2026,
+   "kerala_gross": "₹4.2L"
+  }
+ ]
+}

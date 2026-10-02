@@ -1,0 +1,55 @@
+{
+ "slug": "aparna-das",
+ "name": "Aparna Das",
+ "source_url": "https://fridaymatinee.in/people/aparna-das",
+ "captured_at": "2026-10-01T20:49:18.746841+00:00",
+ "person": {
+  "name": "Aparna Das",
+  "photo": "https://image.tmdb.org/t/p/w185/eLcg4bZfNVOW0h0T7AWonpSpu3g.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 123,
+   "movie_slug": "beast",
+   "title": "Beast",
+   "year": 2022,
+   "kerala_gross": "₹6.7 Cr"
+  },
+  {
+   "movie_id": 154,
+   "movie_slug": "priyan-ottathilaanu",
+   "title": "Priyan Ottathilaanu",
+   "year": 2022,
+   "kerala_gross": "₹1.0 Cr"
+  },
+  {
+   "movie_id": 545,
+   "movie_slug": "secret",
+   "title": "Secret",
+   "year": 2024,
+   "kerala_gross": "₹15.6L"
+  },
+  {
+   "movie_id": 598,
+   "movie_slug": "anand-sreebala",
+   "title": "Anand Sreebala",
+   "year": 2024,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 703,
+   "movie_slug": "written-directed-by-god",
+   "title": "Written u0026 Directed by God",
+   "year": 2025,
+   "kerala_gross": "₹33.5L"
+  }
+ ]
+}

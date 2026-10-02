@@ -1,0 +1,739 @@
+{
+ "id": 664,
+ "slug": "good-bad-ugly",
+ "source_url": "https://fridaymatinee.in/boxoffice/good-bad-ugly-664",
+ "captured_at": "2026-10-01T18:18:38.726171+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 664,
+    "title": "Good Bad Ugly",
+    "img": "https://image.tmdb.org/t/p/original/h8MRCA7lUIiUgswtaJOxlXONZuT.jpg",
+    "released": "2025-04-10",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27540217",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "139 min",
+    "genre": "Action, Crime, Comedy",
+    "plot": "AK, a powerful gangster, surrenders to the police, in hopes that his wife and son will live a peaceful life. When he is released 17 years later, he learns that his son is falsely accused of serious crimes. To protect him, he is forced to go back to his old ways, facing enemies, both old and new.",
+    "released": "2025-04-09",
+    "director": "Adhik Ravichandran",
+    "directorSlug": "adhik-ravichandran",
+    "actors": [
+     "Ajith Kumar",
+     "Trisha Krishnan",
+     "Arjun Das",
+     "Sunil Varma",
+     "Prabhu",
+     "Prasanna"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.3",
+      "votes": 13674,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ajith Kumar",
+     "character": "AK 'Red Dragon'",
+     "slug": "ajith-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bCS0pp7YNHoXJvHObBLoOJRUUYs.jpg"
+    },
+    {
+     "name": "Trisha Krishnan",
+     "character": "Ramya",
+     "slug": "trisha-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sirse7oOd1ACEEQBVF4PHJHPUup.jpg"
+    },
+    {
+     "name": "Arjun Das",
+     "character": "Johnny / Jammy",
+     "slug": "arjun-das",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/20RDzfTjpfRHxLYBfnIYXs7vcri.jpg"
+    },
+    {
+     "name": "Sunil Varma",
+     "character": "'Baby' Tyson",
+     "slug": "sunil-varma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ifmUCkLgpEzbfnRjIw62otrADpI.jpg"
+    },
+    {
+     "name": "Prabhu",
+     "character": "Jayaprakash",
+     "slug": "prabhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1ZG65sdJaLrHjTAme5ETZMyqgnM.jpg"
+    },
+    {
+     "name": "Prasanna",
+     "character": "Jaeger",
+     "slug": "prasanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rOJIiOmeEhWGEZWDEyMTWS1KmWv.jpg"
+    },
+    {
+     "name": "Jackie Shroff",
+     "character": "Babel",
+     "slug": "jackie-shroff",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1UNJypgEyuihUW2avLLVYj76jie.jpg"
+    },
+    {
+     "name": "Karthikeya Dev",
+     "character": "Vihaan",
+     "slug": "karthikeya-dev",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pTTR6jnuae9m4dYPVfgq8xTZF99.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Adhik Ravichandran",
+       "slug": "adhik-ravichandran"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Adhik Ravichandran",
+       "slug": "adhik-ravichandran"
+      },
+      {
+       "name": "B. Hari Krishna",
+       "slug": "b-hari-krishna"
+      },
+      {
+       "name": "S. J. Arjun",
+       "slug": "s-j-arjun"
+      },
+      {
+       "name": "Ravi Kandasamy",
+       "slug": "ravi-kandasamy"
+      },
+      {
+       "name": "Harish Manikandan",
+       "slug": "harish-manikandan"
+      },
+      {
+       "name": "K. Raja",
+       "slug": "k-raja"
+      },
+      {
+       "name": "V. G. Balasubramanian",
+       "slug": "v-g-balasubramanian"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "G. V. Prakash Kumar",
+       "slug": "g-v-prakash-kumar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Abinandhan Ramanujam",
+       "slug": "abinandhan-ramanujam"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vijay Velukutty",
+       "slug": "vijay-velukutty"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Naveen Yerneni",
+       "slug": "naveen-yerneni"
+      },
+      {
+       "name": "Y. Ravi Shankar",
+       "slug": "y-ravi-shankar"
+      },
+      {
+       "name": "Bhushan Kumar",
+       "slug": "bhushan-kumar"
+      },
+      {
+       "name": "Krishan Kumar",
+       "slug": "krishan-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mythri Movie Makers",
+     "slug": "mythri-movie-makers",
+     "logo": "https://image.tmdb.org/t/p/w185/7kRvsVRhT76VTbhGLgJ2CrTgdpa.png"
+    },
+    {
+     "name": "T-Series",
+     "slug": "t-series",
+     "logo": "https://image.tmdb.org/t/p/w185/d3u51JgEP5KwPfxS13ocqvtzZeX.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-05-08",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 39131497.99999999,
+    "totalShows": 5009,
+    "totalDays": 21,
+    "openingDay": {
+     "day": 1,
+     "gross": 6334031.799999999,
+     "date": "2025-04-10"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 6334031.799999999,
+     "date": "2025-04-10"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-04-10"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 664,
+    "title": "Good Bad Ugly",
+    "img": "https://image.tmdb.org/t/p/original/h8MRCA7lUIiUgswtaJOxlXONZuT.jpg",
+    "released": "2025-04-10",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27540217",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "139 min",
+    "genre": "Action, Crime, Comedy",
+    "plot": "AK, a powerful gangster, surrenders to the police, in hopes that his wife and son will live a peaceful life. When he is released 17 years later, he learns that his son is falsely accused of serious crimes. To protect him, he is forced to go back to his old ways, facing enemies, both old and new.",
+    "released": "2025-04-09",
+    "director": "Adhik Ravichandran",
+    "directorSlug": "adhik-ravichandran",
+    "actors": [
+     "Ajith Kumar",
+     "Trisha Krishnan",
+     "Arjun Das",
+     "Sunil Varma",
+     "Prabhu",
+     "Prasanna"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.3",
+      "votes": 13674,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ajith Kumar",
+     "character": "AK 'Red Dragon'",
+     "slug": "ajith-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bCS0pp7YNHoXJvHObBLoOJRUUYs.jpg"
+    },
+    {
+     "name": "Trisha Krishnan",
+     "character": "Ramya",
+     "slug": "trisha-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sirse7oOd1ACEEQBVF4PHJHPUup.jpg"
+    },
+    {
+     "name": "Arjun Das",
+     "character": "Johnny / Jammy",
+     "slug": "arjun-das",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/20RDzfTjpfRHxLYBfnIYXs7vcri.jpg"
+    },
+    {
+     "name": "Sunil Varma",
+     "character": "'Baby' Tyson",
+     "slug": "sunil-varma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ifmUCkLgpEzbfnRjIw62otrADpI.jpg"
+    },
+    {
+     "name": "Prabhu",
+     "character": "Jayaprakash",
+     "slug": "prabhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1ZG65sdJaLrHjTAme5ETZMyqgnM.jpg"
+    },
+    {
+     "name": "Prasanna",
+     "character": "Jaeger",
+     "slug": "prasanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rOJIiOmeEhWGEZWDEyMTWS1KmWv.jpg"
+    },
+    {
+     "name": "Jackie Shroff",
+     "character": "Babel",
+     "slug": "jackie-shroff",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1UNJypgEyuihUW2avLLVYj76jie.jpg"
+    },
+    {
+     "name": "Karthikeya Dev",
+     "character": "Vihaan",
+     "slug": "karthikeya-dev",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pTTR6jnuae9m4dYPVfgq8xTZF99.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Adhik Ravichandran",
+       "slug": "adhik-ravichandran"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Adhik Ravichandran",
+       "slug": "adhik-ravichandran"
+      },
+      {
+       "name": "B. Hari Krishna",
+       "slug": "b-hari-krishna"
+      },
+      {
+       "name": "S. J. Arjun",
+       "slug": "s-j-arjun"
+      },
+      {
+       "name": "Ravi Kandasamy",
+       "slug": "ravi-kandasamy"
+      },
+      {
+       "name": "Harish Manikandan",
+       "slug": "harish-manikandan"
+      },
+      {
+       "name": "K. Raja",
+       "slug": "k-raja"
+      },
+      {
+       "name": "V. G. Balasubramanian",
+       "slug": "v-g-balasubramanian"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "G. V. Prakash Kumar",
+       "slug": "g-v-prakash-kumar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Abinandhan Ramanujam",
+       "slug": "abinandhan-ramanujam"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vijay Velukutty",
+       "slug": "vijay-velukutty"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Naveen Yerneni",
+       "slug": "naveen-yerneni"
+      },
+      {
+       "name": "Y. Ravi Shankar",
+       "slug": "y-ravi-shankar"
+      },
+      {
+       "name": "Bhushan Kumar",
+       "slug": "bhushan-kumar"
+      },
+      {
+       "name": "Krishan Kumar",
+       "slug": "krishan-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mythri Movie Makers",
+     "slug": "mythri-movie-makers",
+     "logo": "https://image.tmdb.org/t/p/w185/7kRvsVRhT76VTbhGLgJ2CrTgdpa.png"
+    },
+    {
+     "name": "T-Series",
+     "slug": "t-series",
+     "logo": "https://image.tmdb.org/t/p/w185/d3u51JgEP5KwPfxS13ocqvtzZeX.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-05-08",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-04-10",
+     "gross": 27500003.2,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2173,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-04-17",
+     "gross": 10184328.4,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2238,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-04-24",
+     "gross": 1447166.4,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 598,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 39131498,
+    "totalShows": 5009,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 27500003.2
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 27500003.2
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-04-10"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 664,
+    "title": "Good Bad Ugly",
+    "img": "https://image.tmdb.org/t/p/original/h8MRCA7lUIiUgswtaJOxlXONZuT.jpg",
+    "released": "2025-04-10",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27540217",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "139 min",
+    "genre": "Action, Crime, Comedy",
+    "plot": "AK, a powerful gangster, surrenders to the police, in hopes that his wife and son will live a peaceful life. When he is released 17 years later, he learns that his son is falsely accused of serious crimes. To protect him, he is forced to go back to his old ways, facing enemies, both old and new.",
+    "released": "2025-04-09",
+    "director": "Adhik Ravichandran",
+    "directorSlug": "adhik-ravichandran",
+    "actors": [
+     "Ajith Kumar",
+     "Trisha Krishnan",
+     "Arjun Das",
+     "Sunil Varma",
+     "Prabhu",
+     "Prasanna"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.3",
+      "votes": 13674,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ajith Kumar",
+     "character": "AK 'Red Dragon'",
+     "slug": "ajith-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bCS0pp7YNHoXJvHObBLoOJRUUYs.jpg"
+    },
+    {
+     "name": "Trisha Krishnan",
+     "character": "Ramya",
+     "slug": "trisha-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sirse7oOd1ACEEQBVF4PHJHPUup.jpg"
+    },
+    {
+     "name": "Arjun Das",
+     "character": "Johnny / Jammy",
+     "slug": "arjun-das",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/20RDzfTjpfRHxLYBfnIYXs7vcri.jpg"
+    },
+    {
+     "name": "Sunil Varma",
+     "character": "'Baby' Tyson",
+     "slug": "sunil-varma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ifmUCkLgpEzbfnRjIw62otrADpI.jpg"
+    },
+    {
+     "name": "Prabhu",
+     "character": "Jayaprakash",
+     "slug": "prabhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1ZG65sdJaLrHjTAme5ETZMyqgnM.jpg"
+    },
+    {
+     "name": "Prasanna",
+     "character": "Jaeger",
+     "slug": "prasanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rOJIiOmeEhWGEZWDEyMTWS1KmWv.jpg"
+    },
+    {
+     "name": "Jackie Shroff",
+     "character": "Babel",
+     "slug": "jackie-shroff",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1UNJypgEyuihUW2avLLVYj76jie.jpg"
+    },
+    {
+     "name": "Karthikeya Dev",
+     "character": "Vihaan",
+     "slug": "karthikeya-dev",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pTTR6jnuae9m4dYPVfgq8xTZF99.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Adhik Ravichandran",
+       "slug": "adhik-ravichandran"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Adhik Ravichandran",
+       "slug": "adhik-ravichandran"
+      },
+      {
+       "name": "B. Hari Krishna",
+       "slug": "b-hari-krishna"
+      },
+      {
+       "name": "S. J. Arjun",
+       "slug": "s-j-arjun"
+      },
+      {
+       "name": "Ravi Kandasamy",
+       "slug": "ravi-kandasamy"
+      },
+      {
+       "name": "Harish Manikandan",
+       "slug": "harish-manikandan"
+      },
+      {
+       "name": "K. Raja",
+       "slug": "k-raja"
+      },
+      {
+       "name": "V. G. Balasubramanian",
+       "slug": "v-g-balasubramanian"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "G. V. Prakash Kumar",
+       "slug": "g-v-prakash-kumar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Abinandhan Ramanujam",
+       "slug": "abinandhan-ramanujam"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vijay Velukutty",
+       "slug": "vijay-velukutty"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Naveen Yerneni",
+       "slug": "naveen-yerneni"
+      },
+      {
+       "name": "Y. Ravi Shankar",
+       "slug": "y-ravi-shankar"
+      },
+      {
+       "name": "Bhushan Kumar",
+       "slug": "bhushan-kumar"
+      },
+      {
+       "name": "Krishan Kumar",
+       "slug": "krishan-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mythri Movie Makers",
+     "slug": "mythri-movie-makers",
+     "logo": "https://image.tmdb.org/t/p/w185/7kRvsVRhT76VTbhGLgJ2CrTgdpa.png"
+    },
+    {
+     "name": "T-Series",
+     "slug": "t-series",
+     "logo": "https://image.tmdb.org/t/p/w185/d3u51JgEP5KwPfxS13ocqvtzZeX.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-05-08",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 39131498,
+    "totalShows": 5009,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 10427310,
+     "date": "Thiruvananthapuram"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 10427310,
+     "date": "Thiruvananthapuram"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-04-10"
+   }
+  }
+ }
+}

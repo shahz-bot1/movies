@@ -1,0 +1,975 @@
+{
+ "id": 1016,
+ "slug": "wuthering-heights",
+ "source_url": "https://fridaymatinee.in/boxoffice/wuthering-heights-1016",
+ "captured_at": "2026-10-01T18:38:20.176516+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1016,
+    "title": "Wuthering Heights",
+    "img": "https://image.tmdb.org/t/p/original/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+    "released": "2026-02-12",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32897959",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "136 min",
+    "genre": "Romance, Drama",
+    "plot": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
+    "released": "2026-02-11",
+    "director": "Emerald Fennell",
+    "directorSlug": "emerald-fennell",
+    "actors": [
+     "Margot Robbie",
+     "Jacob Elordi",
+     "Hong Chau",
+     "Alison Oliver",
+     "Shazad Latif",
+     "Martin Clunes"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 92852,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.7",
+      "votes": 1360,
+      "updatedAt": "2026-09-24T13:10:37.000Z"
+     },
+     "rt": "57%",
+     "metascore": 55,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Margot Robbie",
+     "character": "Cathy",
+     "slug": "margot-robbie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg"
+    },
+    {
+     "name": "Jacob Elordi",
+     "character": "Heathcliff",
+     "slug": "jacob-elordi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1csUnKCfwqcsd796N8uPQoDRA6x.jpg"
+    },
+    {
+     "name": "Hong Chau",
+     "character": "Nelly",
+     "slug": "hong-chau",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yGEw6uiSUBo838HkiCARs4BR40y.jpg"
+    },
+    {
+     "name": "Alison Oliver",
+     "character": "Isabella",
+     "slug": "alison-oliver",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4hP6aIZHsUxfcPC76JPBLssqNuZ.jpg"
+    },
+    {
+     "name": "Shazad Latif",
+     "character": "Edgar",
+     "slug": "shazad-latif",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n8vJ1AHhv294hGqZxhjM95OvpxT.jpg"
+    },
+    {
+     "name": "Martin Clunes",
+     "character": "Mr. Earnshaw",
+     "slug": "martin-clunes",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xoCgVr1h3uhES9MnKCoyd05bW1v.jpg"
+    },
+    {
+     "name": "Ewan Mitchell",
+     "character": "Joseph",
+     "slug": "ewan-mitchell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v1PqysDnx5umfA2DqGyjwuAxc9C.jpg"
+    },
+    {
+     "name": "Amy Morgan",
+     "character": "Zillah",
+     "slug": "amy-morgan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qV4vtFOVcKFR7UxcuSxCXaxW5H1.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Emerald Fennell",
+       "slug": "emerald-fennell"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Emerald Fennell",
+       "slug": "emerald-fennell"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anthony B. Willis",
+       "slug": "anthony-b-willis"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Linus Sandgren",
+       "slug": "linus-sandgren"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Victoria Boydell",
+       "slug": "victoria-boydell"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Margot Robbie",
+       "slug": "margot-robbie"
+      },
+      {
+       "name": "Emerald Fennell",
+       "slug": "emerald-fennell"
+      },
+      {
+       "name": "Tom Ackerley",
+       "slug": "tom-ackerley"
+      },
+      {
+       "name": "Josey McNamara",
+       "slug": "josey-mcnamara"
+      },
+      {
+       "name": "Rosie Goodwin",
+       "slug": "rosie-goodwin"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "MRC",
+     "slug": "mrc",
+     "logo": "https://image.tmdb.org/t/p/w185/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png"
+    },
+    {
+     "name": "LuckyChap Entertainment",
+     "slug": "luckychap-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/gRROMOG5bpF6TIDMbfaa5gnFFzl.png"
+    },
+    {
+     "name": "Lie Still",
+     "slug": "lie-still",
+     "logo": null
+    },
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-03-04": [
+     {
+      "id": 631,
+      "title": "The Bride",
+      "img": "https://image.tmdb.org/t/p/original/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+     }
+    ],
+    "2026-02-27": [
+     {
+      "id": 1019,
+      "title": "Hamnet",
+      "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+     },
+     {
+      "id": 1020,
+      "title": "Masthishka Maranam",
+      "img": "https://image.tmdb.org/t/p/original/tC6dhwbZ7LDCx9RyDNiPOaLvMId.jpg"
+     },
+     {
+      "id": 1022,
+      "title": "The Kerala Story 2 Goes Beyond",
+      "img": "https://image.tmdb.org/t/p/original/5btAk8YTRT3FLsqQBumN5eCk8xO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-02-23",
+     "gross": 4773,
+     "sold": 23,
+     "unsold": 717,
+     "shows": 4,
+     "occ": 3.11,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4773,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-24",
+     "gross": 9137,
+     "sold": 77,
+     "unsold": 567,
+     "shows": 4,
+     "occ": 11.96,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 13910,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-25",
+     "gross": 5947,
+     "sold": 31,
+     "unsold": 636,
+     "shows": 4,
+     "occ": 4.65,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 19857,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-27",
+     "gross": 2145,
+     "sold": 15,
+     "unsold": 128,
+     "shows": 1,
+     "occ": 10.49,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 22002,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-28",
+     "gross": 6236,
+     "sold": 44,
+     "unsold": 99,
+     "shows": 1,
+     "occ": 30.77,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 28238,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-01",
+     "gross": 5462,
+     "sold": 38,
+     "unsold": 105,
+     "shows": 1,
+     "occ": 26.57,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 33700,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-02",
+     "gross": 2064,
+     "sold": 16,
+     "unsold": 91,
+     "shows": 1,
+     "occ": 14.95,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 35764,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-03",
+     "gross": 1564,
+     "sold": 17,
+     "unsold": 90,
+     "shows": 1,
+     "occ": 15.89,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 37328,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-04",
+     "gross": 1290,
+     "sold": 10,
+     "unsold": 97,
+     "shows": 1,
+     "occ": 9.35,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 38618,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-05",
+     "gross": 1419,
+     "sold": 11,
+     "unsold": 96,
+     "shows": 1,
+     "occ": 10.28,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 40037,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 40037,
+    "totalShows": 19,
+    "totalSeats": 2908,
+    "totalSold": 282,
+    "avgOcc": "9.7",
+    "totalDays": 10,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 2,
+     "gross": 9137,
+     "date": "2026-02-24"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 4773,
+     "date": "2026-02-23"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "10:1419:40037"
+  },
+  "week": {
+   "movie": {
+    "id": 1016,
+    "title": "Wuthering Heights",
+    "img": "https://image.tmdb.org/t/p/original/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+    "released": "2026-02-12",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32897959",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "136 min",
+    "genre": "Romance, Drama",
+    "plot": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
+    "released": "2026-02-11",
+    "director": "Emerald Fennell",
+    "directorSlug": "emerald-fennell",
+    "actors": [
+     "Margot Robbie",
+     "Jacob Elordi",
+     "Hong Chau",
+     "Alison Oliver",
+     "Shazad Latif",
+     "Martin Clunes"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 92852,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.7",
+      "votes": 1360,
+      "updatedAt": "2026-09-24T13:10:37.000Z"
+     },
+     "rt": "57%",
+     "metascore": 55,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Margot Robbie",
+     "character": "Cathy",
+     "slug": "margot-robbie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg"
+    },
+    {
+     "name": "Jacob Elordi",
+     "character": "Heathcliff",
+     "slug": "jacob-elordi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1csUnKCfwqcsd796N8uPQoDRA6x.jpg"
+    },
+    {
+     "name": "Hong Chau",
+     "character": "Nelly",
+     "slug": "hong-chau",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yGEw6uiSUBo838HkiCARs4BR40y.jpg"
+    },
+    {
+     "name": "Alison Oliver",
+     "character": "Isabella",
+     "slug": "alison-oliver",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4hP6aIZHsUxfcPC76JPBLssqNuZ.jpg"
+    },
+    {
+     "name": "Shazad Latif",
+     "character": "Edgar",
+     "slug": "shazad-latif",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n8vJ1AHhv294hGqZxhjM95OvpxT.jpg"
+    },
+    {
+     "name": "Martin Clunes",
+     "character": "Mr. Earnshaw",
+     "slug": "martin-clunes",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xoCgVr1h3uhES9MnKCoyd05bW1v.jpg"
+    },
+    {
+     "name": "Ewan Mitchell",
+     "character": "Joseph",
+     "slug": "ewan-mitchell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v1PqysDnx5umfA2DqGyjwuAxc9C.jpg"
+    },
+    {
+     "name": "Amy Morgan",
+     "character": "Zillah",
+     "slug": "amy-morgan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qV4vtFOVcKFR7UxcuSxCXaxW5H1.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Emerald Fennell",
+       "slug": "emerald-fennell"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Emerald Fennell",
+       "slug": "emerald-fennell"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anthony B. Willis",
+       "slug": "anthony-b-willis"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Linus Sandgren",
+       "slug": "linus-sandgren"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Victoria Boydell",
+       "slug": "victoria-boydell"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Margot Robbie",
+       "slug": "margot-robbie"
+      },
+      {
+       "name": "Emerald Fennell",
+       "slug": "emerald-fennell"
+      },
+      {
+       "name": "Tom Ackerley",
+       "slug": "tom-ackerley"
+      },
+      {
+       "name": "Josey McNamara",
+       "slug": "josey-mcnamara"
+      },
+      {
+       "name": "Rosie Goodwin",
+       "slug": "rosie-goodwin"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "MRC",
+     "slug": "mrc",
+     "logo": "https://image.tmdb.org/t/p/w185/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png"
+    },
+    {
+     "name": "LuckyChap Entertainment",
+     "slug": "luckychap-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/gRROMOG5bpF6TIDMbfaa5gnFFzl.png"
+    },
+    {
+     "name": "Lie Still",
+     "slug": "lie-still",
+     "logo": null
+    },
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-03-04": [
+     {
+      "id": 631,
+      "title": "The Bride",
+      "img": "https://image.tmdb.org/t/p/original/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+     }
+    ],
+    "2026-02-27": [
+     {
+      "id": 1019,
+      "title": "Hamnet",
+      "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+     },
+     {
+      "id": 1020,
+      "title": "Masthishka Maranam",
+      "img": "https://image.tmdb.org/t/p/original/tC6dhwbZ7LDCx9RyDNiPOaLvMId.jpg"
+     },
+     {
+      "id": 1022,
+      "title": "The Kerala Story 2 Goes Beyond",
+      "img": "https://image.tmdb.org/t/p/original/5btAk8YTRT3FLsqQBumN5eCk8xO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-02-23",
+     "gross": 33700,
+     "sold": 228,
+     "unsold": 2252,
+     "shows": 15,
+     "occ": 9.19,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 33700,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-02",
+     "gross": 6337,
+     "sold": 54,
+     "unsold": 374,
+     "shows": 4,
+     "occ": 12.62,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 40037,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 40037,
+    "totalShows": 19,
+    "totalSeats": 2908,
+    "totalSold": 282,
+    "avgOcc": "9.7",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 33700
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 33700
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "2:6337:40037"
+  },
+  "district": {
+   "movie": {
+    "id": 1016,
+    "title": "Wuthering Heights",
+    "img": "https://image.tmdb.org/t/p/original/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
+    "released": "2026-02-12",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32897959",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "136 min",
+    "genre": "Romance, Drama",
+    "plot": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
+    "released": "2026-02-11",
+    "director": "Emerald Fennell",
+    "directorSlug": "emerald-fennell",
+    "actors": [
+     "Margot Robbie",
+     "Jacob Elordi",
+     "Hong Chau",
+     "Alison Oliver",
+     "Shazad Latif",
+     "Martin Clunes"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 92852,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.7",
+      "votes": 1360,
+      "updatedAt": "2026-09-24T13:10:37.000Z"
+     },
+     "rt": "57%",
+     "metascore": 55,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Margot Robbie",
+     "character": "Cathy",
+     "slug": "margot-robbie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg"
+    },
+    {
+     "name": "Jacob Elordi",
+     "character": "Heathcliff",
+     "slug": "jacob-elordi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1csUnKCfwqcsd796N8uPQoDRA6x.jpg"
+    },
+    {
+     "name": "Hong Chau",
+     "character": "Nelly",
+     "slug": "hong-chau",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yGEw6uiSUBo838HkiCARs4BR40y.jpg"
+    },
+    {
+     "name": "Alison Oliver",
+     "character": "Isabella",
+     "slug": "alison-oliver",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4hP6aIZHsUxfcPC76JPBLssqNuZ.jpg"
+    },
+    {
+     "name": "Shazad Latif",
+     "character": "Edgar",
+     "slug": "shazad-latif",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n8vJ1AHhv294hGqZxhjM95OvpxT.jpg"
+    },
+    {
+     "name": "Martin Clunes",
+     "character": "Mr. Earnshaw",
+     "slug": "martin-clunes",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xoCgVr1h3uhES9MnKCoyd05bW1v.jpg"
+    },
+    {
+     "name": "Ewan Mitchell",
+     "character": "Joseph",
+     "slug": "ewan-mitchell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v1PqysDnx5umfA2DqGyjwuAxc9C.jpg"
+    },
+    {
+     "name": "Amy Morgan",
+     "character": "Zillah",
+     "slug": "amy-morgan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qV4vtFOVcKFR7UxcuSxCXaxW5H1.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Emerald Fennell",
+       "slug": "emerald-fennell"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Emerald Fennell",
+       "slug": "emerald-fennell"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anthony B. Willis",
+       "slug": "anthony-b-willis"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Linus Sandgren",
+       "slug": "linus-sandgren"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Victoria Boydell",
+       "slug": "victoria-boydell"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Margot Robbie",
+       "slug": "margot-robbie"
+      },
+      {
+       "name": "Emerald Fennell",
+       "slug": "emerald-fennell"
+      },
+      {
+       "name": "Tom Ackerley",
+       "slug": "tom-ackerley"
+      },
+      {
+       "name": "Josey McNamara",
+       "slug": "josey-mcnamara"
+      },
+      {
+       "name": "Rosie Goodwin",
+       "slug": "rosie-goodwin"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "MRC",
+     "slug": "mrc",
+     "logo": "https://image.tmdb.org/t/p/w185/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png"
+    },
+    {
+     "name": "LuckyChap Entertainment",
+     "slug": "luckychap-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/gRROMOG5bpF6TIDMbfaa5gnFFzl.png"
+    },
+    {
+     "name": "Lie Still",
+     "slug": "lie-still",
+     "logo": null
+    },
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-03-04": [
+     {
+      "id": 631,
+      "title": "The Bride",
+      "img": "https://image.tmdb.org/t/p/original/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+     }
+    ],
+    "2026-02-27": [
+     {
+      "id": 1019,
+      "title": "Hamnet",
+      "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+     },
+     {
+      "id": 1020,
+      "title": "Masthishka Maranam",
+      "img": "https://image.tmdb.org/t/p/original/tC6dhwbZ7LDCx9RyDNiPOaLvMId.jpg"
+     },
+     {
+      "id": 1022,
+      "title": "The Kerala Story 2 Goes Beyond",
+      "img": "https://image.tmdb.org/t/p/original/5btAk8YTRT3FLsqQBumN5eCk8xO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 37323,
+     "sold": 268,
+     "unsold": 1974,
+     "shows": 15,
+     "occ": 11.95,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 37323,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 1834,
+     "sold": 10,
+     "unsold": 396,
+     "shows": 2,
+     "occ": 2.46,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 39157,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Thrissur",
+     "gross": 880,
+     "sold": 4,
+     "unsold": 256,
+     "shows": 2,
+     "occ": 1.54,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 40037,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 40037,
+    "totalShows": 19,
+    "totalSeats": 2908,
+    "totalSold": 282,
+    "avgOcc": "9.7",
+    "totalDays": 3,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 37323,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 37323,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "3:880:40037"
+  }
+ }
+}

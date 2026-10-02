@@ -1,0 +1,62 @@
+{
+ "slug": "rohini",
+ "name": "Rohini",
+ "source_url": "https://fridaymatinee.in/people/rohini",
+ "captured_at": "2026-10-02T09:47:40.132911+00:00",
+ "person": {
+  "name": "Rohini",
+  "photo": "https://image.tmdb.org/t/p/w185/oeT5DXeqsTY17DtJLTGpQec91fr.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 148,
+   "movie_slug": "aha-sundara",
+   "title": "Aha Sundara",
+   "year": 2022,
+   "kerala_gross": "₹6.3L"
+  },
+  {
+   "movie_id": 490,
+   "movie_slug": "ajayante-randam-moshanam",
+   "title": "Ajayante Randam Moshanam",
+   "year": 2024,
+   "kerala_gross": "₹56.2 Cr"
+  },
+  {
+   "movie_id": 582,
+   "movie_slug": "vettaiyan",
+   "title": "Vettaiyan",
+   "year": 2024,
+   "kerala_gross": "₹13.1 Cr"
+  },
+  {
+   "movie_id": 869,
+   "movie_slug": "dude",
+   "title": "Dude",
+   "year": 2025,
+   "kerala_gross": "₹3.4 Cr"
+  },
+  {
+   "movie_id": 892,
+   "movie_slug": "baahubali-the-epic",
+   "title": "Baahubali: The Epic",
+   "year": 2025,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 906,
+   "movie_slug": "the-girlfriend",
+   "title": "The Girlfriend",
+   "year": 2025,
+   "kerala_gross": "₹3.4L"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "regina-cassandra",
+ "name": "Regena Cassandrra",
+ "source_url": "https://fridaymatinee.in/people/regina-cassandra",
+ "captured_at": "2026-10-02T08:46:34.356345+00:00",
+ "person": {
+  "name": "Regena Cassandrra",
+  "photo": "https://image.tmdb.org/t/p/w185/ypUo0oOCjY2FMhjrNBeCR9esmpS.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 647,
+   "movie_slug": "vidaamuyarchi",
+   "title": "Vidaamuyarchi",
+   "year": 2025,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 434,
+   "movie_slug": "jaat",
+   "title": "Jaat",
+   "year": 2025,
+   "kerala_gross": "₹18.1L"
+  },
+  {
+   "movie_id": 1180,
+   "movie_slug": "ananthan-kaadu",
+   "title": "Ananthan Kaadu",
+   "year": 2026,
+   "kerala_gross": "₹2.2 Cr"
+  }
+ ]
+}

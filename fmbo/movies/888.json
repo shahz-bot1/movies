@@ -1,0 +1,940 @@
+{
+ "id": 888,
+ "slug": "bugonia",
+ "source_url": "https://fridaymatinee.in/boxoffice/bugonia-888",
+ "captured_at": "2026-10-01T18:25:28.079721+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 888,
+    "title": "Bugonia",
+    "img": "https://image.tmdb.org/t/p/original/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+    "released": "2025-10-31",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt12300742",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "119 min",
+    "genre": "Science Fiction, Thriller, Comedy",
+    "plot": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+    "released": "2025-10-23",
+    "director": "Yorgos Lanthimos",
+    "directorSlug": "yorgos-lanthimos",
+    "actors": [
+     "Emma Stone",
+     "Jesse Plemons",
+     "Aidan Delbis",
+     "Stavros Halkias",
+     "Alicia Silverstone",
+     "J. Carmen Galindez Barrera"
+    ],
+    "awards": "Nominated for 4 Oscars. 9 wins u0026 120 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.4",
+      "votes": 226447,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 2427,
+      "updatedAt": "2026-09-24T13:11:43.000Z"
+     },
+     "rt": "87%",
+     "metascore": 72,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Emma Stone",
+     "character": "Michelle",
+     "slug": "emma-stone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+    },
+    {
+     "name": "Jesse Plemons",
+     "character": "Teddy",
+     "slug": "jesse-plemons",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/og4I51GsuwohdPgoELOHVMMqMre.jpg"
+    },
+    {
+     "name": "Aidan Delbis",
+     "character": "Don",
+     "slug": "aidan-delbis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k9xKpm9cVryO3dgdsyxvC46FyBW.jpg"
+    },
+    {
+     "name": "Stavros Halkias",
+     "character": "Casey",
+     "slug": "stavros-halkias",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9QB7YGMk6O7hRgGWvK0OimTVzl7.jpg"
+    },
+    {
+     "name": "Alicia Silverstone",
+     "character": "Sandy",
+     "slug": "alicia-silverstone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
+    },
+    {
+     "name": "J. Carmen Galindez Barrera",
+     "character": "Ricky / Security Guard",
+     "slug": "j-carmen-galindez-barrera",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2ktCkWgexsBTbh0UFsbdKoHX4D1.jpg"
+    },
+    {
+     "name": "Marc T. Lewis",
+     "character": "Tony",
+     "slug": "marc-t-lewis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rrwyDxRMfnPnRvFEX1uuvdRq9WQ.jpg"
+    },
+    {
+     "name": "Vanessa Eng",
+     "character": "Corey",
+     "slug": "vanessa-eng",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3HYU97U1wKR9byRBvu5SVpvifeH.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Yorgos Lanthimos",
+       "slug": "yorgos-lanthimos"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Will Tracy",
+       "slug": "will-tracy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jerskin Fendrix",
+       "slug": "jerskin-fendrix"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Robbie Ryan",
+       "slug": "robbie-ryan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Yorgos Mavropsaridis",
+       "slug": "yorgos-mavropsaridis"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Andrew Lowe",
+       "slug": "andrew-lowe"
+      },
+      {
+       "name": "Ed Guiney",
+       "slug": "ed-guiney"
+      },
+      {
+       "name": "Yorgos Lanthimos",
+       "slug": "yorgos-lanthimos"
+      },
+      {
+       "name": "Emma Stone",
+       "slug": "emma-stone"
+      },
+      {
+       "name": "Ari Aster",
+       "slug": "ari-aster"
+      },
+      {
+       "name": "Lars Knudsen",
+       "slug": "lars-knudsen"
+      },
+      {
+       "name": "Jerry Kyoungboum Ko",
+       "slug": "jerry-kyoungboum-ko"
+      },
+      {
+       "name": "Miky Lee",
+       "slug": "miky-lee"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Element Pictures",
+     "slug": "element-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/hUw1iTY3hdjyb2zXT9KxupHbL4M.png"
+    },
+    {
+     "name": "Square Peg",
+     "slug": "square-peg",
+     "logo": "https://image.tmdb.org/t/p/w185/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png"
+    },
+    {
+     "name": "Fremantle",
+     "slug": "fremantle",
+     "logo": "https://image.tmdb.org/t/p/w185/7OwtRpQAFKU3KWA7InBg3h3PxqI.png"
+    },
+    {
+     "name": "Pith Quest Films",
+     "slug": "pith-quest-films",
+     "logo": null
+    },
+    {
+     "name": "Fruit Tree",
+     "slug": "fruit-tree",
+     "logo": "https://image.tmdb.org/t/p/w185/3I1k679J7ZLQtVFM23dJhFZQQCH.png"
+    },
+    {
+     "name": "CJ ENM",
+     "slug": "cj-enm",
+     "logo": "https://image.tmdb.org/t/p/w185/dP3usmr6di1jMPH738rvbxdkmSQ.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-01-16",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-10-31": [
+     {
+      "id": 887,
+      "title": "Aaryan",
+      "img": "https://image.tmdb.org/t/p/original/rRjh3zumdW89fNMe4tdjmALB1xG.jpg"
+     },
+     {
+      "id": 889,
+      "title": "COMONDRA ALIEN",
+      "img": "https://image.tmdb.org/t/p/original/jIXzLgGIuamgAhwVYd70XO9Dj7f.jpg"
+     },
+     {
+      "id": 890,
+      "title": "The Black Phone 2",
+      "img": "https://image.tmdb.org/t/p/original/d9kDYFoQzcmhWtmncJhKsFq8KoH.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-10-31",
+     "gross": 17230,
+     "sold": 88,
+     "unsold": 360,
+     "shows": 3,
+     "occ": 19.64,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 17230,
+     "lastUpdatedAt": "2025-10-31 20:28:00"
+    },
+    {
+     "label": "2025-11-01",
+     "gross": 21010,
+     "sold": 105,
+     "unsold": 344,
+     "shows": 3,
+     "occ": 23.39,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 38240,
+     "lastUpdatedAt": "2025-11-01 20:28:00"
+    },
+    {
+     "label": "2025-11-02",
+     "gross": 33170,
+     "sold": 159,
+     "unsold": 290,
+     "shows": 3,
+     "occ": 35.41,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 71410,
+     "lastUpdatedAt": "2025-11-02 20:28:00"
+    },
+    {
+     "label": "2025-11-03",
+     "gross": 10590,
+     "sold": 54,
+     "unsold": 487,
+     "shows": 3,
+     "occ": 9.98,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 82000,
+     "lastUpdatedAt": "2025-11-03 20:28:00"
+    },
+    {
+     "label": "2025-11-04",
+     "gross": 10970,
+     "sold": 55,
+     "unsold": 486,
+     "shows": 3,
+     "occ": 10.17,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 92970,
+     "lastUpdatedAt": "2025-11-04 20:28:00"
+    },
+    {
+     "label": "2025-11-05",
+     "gross": 15360,
+     "sold": 75,
+     "unsold": 466,
+     "shows": 3,
+     "occ": 13.86,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 108330,
+     "lastUpdatedAt": "2025-11-05 20:28:00"
+    },
+    {
+     "label": "2025-11-06",
+     "gross": 12540,
+     "sold": 65,
+     "unsold": 331,
+     "shows": 2,
+     "occ": 16.41,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 120870,
+     "lastUpdatedAt": "2025-11-06 20:28:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 120870,
+    "totalShows": 20,
+    "totalSeats": 3365,
+    "totalSold": 601,
+    "avgOcc": "17.9",
+    "totalDays": 7,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 3,
+     "gross": 33170,
+     "date": "2025-11-02"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 17230,
+     "date": "2025-10-31"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "7:12540:120870"
+  },
+  "week": {
+   "movie": {
+    "id": 888,
+    "title": "Bugonia",
+    "img": "https://image.tmdb.org/t/p/original/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+    "released": "2025-10-31",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt12300742",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "119 min",
+    "genre": "Science Fiction, Thriller, Comedy",
+    "plot": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+    "released": "2025-10-23",
+    "director": "Yorgos Lanthimos",
+    "directorSlug": "yorgos-lanthimos",
+    "actors": [
+     "Emma Stone",
+     "Jesse Plemons",
+     "Aidan Delbis",
+     "Stavros Halkias",
+     "Alicia Silverstone",
+     "J. Carmen Galindez Barrera"
+    ],
+    "awards": "Nominated for 4 Oscars. 9 wins u0026 120 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.4",
+      "votes": 226447,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 2427,
+      "updatedAt": "2026-09-24T13:11:43.000Z"
+     },
+     "rt": "87%",
+     "metascore": 72,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Emma Stone",
+     "character": "Michelle",
+     "slug": "emma-stone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+    },
+    {
+     "name": "Jesse Plemons",
+     "character": "Teddy",
+     "slug": "jesse-plemons",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/og4I51GsuwohdPgoELOHVMMqMre.jpg"
+    },
+    {
+     "name": "Aidan Delbis",
+     "character": "Don",
+     "slug": "aidan-delbis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k9xKpm9cVryO3dgdsyxvC46FyBW.jpg"
+    },
+    {
+     "name": "Stavros Halkias",
+     "character": "Casey",
+     "slug": "stavros-halkias",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9QB7YGMk6O7hRgGWvK0OimTVzl7.jpg"
+    },
+    {
+     "name": "Alicia Silverstone",
+     "character": "Sandy",
+     "slug": "alicia-silverstone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
+    },
+    {
+     "name": "J. Carmen Galindez Barrera",
+     "character": "Ricky / Security Guard",
+     "slug": "j-carmen-galindez-barrera",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2ktCkWgexsBTbh0UFsbdKoHX4D1.jpg"
+    },
+    {
+     "name": "Marc T. Lewis",
+     "character": "Tony",
+     "slug": "marc-t-lewis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rrwyDxRMfnPnRvFEX1uuvdRq9WQ.jpg"
+    },
+    {
+     "name": "Vanessa Eng",
+     "character": "Corey",
+     "slug": "vanessa-eng",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3HYU97U1wKR9byRBvu5SVpvifeH.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Yorgos Lanthimos",
+       "slug": "yorgos-lanthimos"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Will Tracy",
+       "slug": "will-tracy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jerskin Fendrix",
+       "slug": "jerskin-fendrix"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Robbie Ryan",
+       "slug": "robbie-ryan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Yorgos Mavropsaridis",
+       "slug": "yorgos-mavropsaridis"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Andrew Lowe",
+       "slug": "andrew-lowe"
+      },
+      {
+       "name": "Ed Guiney",
+       "slug": "ed-guiney"
+      },
+      {
+       "name": "Yorgos Lanthimos",
+       "slug": "yorgos-lanthimos"
+      },
+      {
+       "name": "Emma Stone",
+       "slug": "emma-stone"
+      },
+      {
+       "name": "Ari Aster",
+       "slug": "ari-aster"
+      },
+      {
+       "name": "Lars Knudsen",
+       "slug": "lars-knudsen"
+      },
+      {
+       "name": "Jerry Kyoungboum Ko",
+       "slug": "jerry-kyoungboum-ko"
+      },
+      {
+       "name": "Miky Lee",
+       "slug": "miky-lee"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Element Pictures",
+     "slug": "element-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/hUw1iTY3hdjyb2zXT9KxupHbL4M.png"
+    },
+    {
+     "name": "Square Peg",
+     "slug": "square-peg",
+     "logo": "https://image.tmdb.org/t/p/w185/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png"
+    },
+    {
+     "name": "Fremantle",
+     "slug": "fremantle",
+     "logo": "https://image.tmdb.org/t/p/w185/7OwtRpQAFKU3KWA7InBg3h3PxqI.png"
+    },
+    {
+     "name": "Pith Quest Films",
+     "slug": "pith-quest-films",
+     "logo": null
+    },
+    {
+     "name": "Fruit Tree",
+     "slug": "fruit-tree",
+     "logo": "https://image.tmdb.org/t/p/w185/3I1k679J7ZLQtVFM23dJhFZQQCH.png"
+    },
+    {
+     "name": "CJ ENM",
+     "slug": "cj-enm",
+     "logo": "https://image.tmdb.org/t/p/w185/dP3usmr6di1jMPH738rvbxdkmSQ.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-01-16",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-10-31": [
+     {
+      "id": 887,
+      "title": "Aaryan",
+      "img": "https://image.tmdb.org/t/p/original/rRjh3zumdW89fNMe4tdjmALB1xG.jpg"
+     },
+     {
+      "id": 889,
+      "title": "COMONDRA ALIEN",
+      "img": "https://image.tmdb.org/t/p/original/jIXzLgGIuamgAhwVYd70XO9Dj7f.jpg"
+     },
+     {
+      "id": 890,
+      "title": "The Black Phone 2",
+      "img": "https://image.tmdb.org/t/p/original/d9kDYFoQzcmhWtmncJhKsFq8KoH.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-10-31",
+     "gross": 120870,
+     "sold": 601,
+     "unsold": 2764,
+     "shows": 20,
+     "occ": 17.86,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 120870,
+     "lastUpdatedAt": "2025-11-06 20:28:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 120870,
+    "totalShows": 20,
+    "totalSeats": 3365,
+    "totalSold": 601,
+    "avgOcc": "17.9",
+    "totalDays": 1,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 120870
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 120870
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:120870:120870"
+  },
+  "district": {
+   "movie": {
+    "id": 888,
+    "title": "Bugonia",
+    "img": "https://image.tmdb.org/t/p/original/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+    "released": "2025-10-31",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt12300742",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "119 min",
+    "genre": "Science Fiction, Thriller, Comedy",
+    "plot": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+    "released": "2025-10-23",
+    "director": "Yorgos Lanthimos",
+    "directorSlug": "yorgos-lanthimos",
+    "actors": [
+     "Emma Stone",
+     "Jesse Plemons",
+     "Aidan Delbis",
+     "Stavros Halkias",
+     "Alicia Silverstone",
+     "J. Carmen Galindez Barrera"
+    ],
+    "awards": "Nominated for 4 Oscars. 9 wins u0026 120 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.4",
+      "votes": 226447,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 2427,
+      "updatedAt": "2026-09-24T13:11:43.000Z"
+     },
+     "rt": "87%",
+     "metascore": 72,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Emma Stone",
+     "character": "Michelle",
+     "slug": "emma-stone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+    },
+    {
+     "name": "Jesse Plemons",
+     "character": "Teddy",
+     "slug": "jesse-plemons",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/og4I51GsuwohdPgoELOHVMMqMre.jpg"
+    },
+    {
+     "name": "Aidan Delbis",
+     "character": "Don",
+     "slug": "aidan-delbis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k9xKpm9cVryO3dgdsyxvC46FyBW.jpg"
+    },
+    {
+     "name": "Stavros Halkias",
+     "character": "Casey",
+     "slug": "stavros-halkias",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9QB7YGMk6O7hRgGWvK0OimTVzl7.jpg"
+    },
+    {
+     "name": "Alicia Silverstone",
+     "character": "Sandy",
+     "slug": "alicia-silverstone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pyxqkP4i0ubVdoRe5hoiiiwkHkb.jpg"
+    },
+    {
+     "name": "J. Carmen Galindez Barrera",
+     "character": "Ricky / Security Guard",
+     "slug": "j-carmen-galindez-barrera",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2ktCkWgexsBTbh0UFsbdKoHX4D1.jpg"
+    },
+    {
+     "name": "Marc T. Lewis",
+     "character": "Tony",
+     "slug": "marc-t-lewis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rrwyDxRMfnPnRvFEX1uuvdRq9WQ.jpg"
+    },
+    {
+     "name": "Vanessa Eng",
+     "character": "Corey",
+     "slug": "vanessa-eng",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3HYU97U1wKR9byRBvu5SVpvifeH.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Yorgos Lanthimos",
+       "slug": "yorgos-lanthimos"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Will Tracy",
+       "slug": "will-tracy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jerskin Fendrix",
+       "slug": "jerskin-fendrix"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Robbie Ryan",
+       "slug": "robbie-ryan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Yorgos Mavropsaridis",
+       "slug": "yorgos-mavropsaridis"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Andrew Lowe",
+       "slug": "andrew-lowe"
+      },
+      {
+       "name": "Ed Guiney",
+       "slug": "ed-guiney"
+      },
+      {
+       "name": "Yorgos Lanthimos",
+       "slug": "yorgos-lanthimos"
+      },
+      {
+       "name": "Emma Stone",
+       "slug": "emma-stone"
+      },
+      {
+       "name": "Ari Aster",
+       "slug": "ari-aster"
+      },
+      {
+       "name": "Lars Knudsen",
+       "slug": "lars-knudsen"
+      },
+      {
+       "name": "Jerry Kyoungboum Ko",
+       "slug": "jerry-kyoungboum-ko"
+      },
+      {
+       "name": "Miky Lee",
+       "slug": "miky-lee"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Element Pictures",
+     "slug": "element-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/hUw1iTY3hdjyb2zXT9KxupHbL4M.png"
+    },
+    {
+     "name": "Square Peg",
+     "slug": "square-peg",
+     "logo": "https://image.tmdb.org/t/p/w185/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png"
+    },
+    {
+     "name": "Fremantle",
+     "slug": "fremantle",
+     "logo": "https://image.tmdb.org/t/p/w185/7OwtRpQAFKU3KWA7InBg3h3PxqI.png"
+    },
+    {
+     "name": "Pith Quest Films",
+     "slug": "pith-quest-films",
+     "logo": null
+    },
+    {
+     "name": "Fruit Tree",
+     "slug": "fruit-tree",
+     "logo": "https://image.tmdb.org/t/p/w185/3I1k679J7ZLQtVFM23dJhFZQQCH.png"
+    },
+    {
+     "name": "CJ ENM",
+     "slug": "cj-enm",
+     "logo": "https://image.tmdb.org/t/p/w185/dP3usmr6di1jMPH738rvbxdkmSQ.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-01-16",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-10-31": [
+     {
+      "id": 887,
+      "title": "Aaryan",
+      "img": "https://image.tmdb.org/t/p/original/rRjh3zumdW89fNMe4tdjmALB1xG.jpg"
+     },
+     {
+      "id": 889,
+      "title": "COMONDRA ALIEN",
+      "img": "https://image.tmdb.org/t/p/original/jIXzLgGIuamgAhwVYd70XO9Dj7f.jpg"
+     },
+     {
+      "id": 890,
+      "title": "The Black Phone 2",
+      "img": "https://image.tmdb.org/t/p/original/d9kDYFoQzcmhWtmncJhKsFq8KoH.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 78750,
+     "sold": 387,
+     "unsold": 2284,
+     "shows": 13,
+     "occ": 14.49,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 78750,
+     "lastUpdatedAt": "2025-11-06 16:38:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 42120,
+     "sold": 214,
+     "unsold": 480,
+     "shows": 7,
+     "occ": 30.84,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 120870,
+     "lastUpdatedAt": "2025-11-06 20:28:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 120870,
+    "totalShows": 20,
+    "totalSeats": 3365,
+    "totalSold": 601,
+    "avgOcc": "17.9",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 78750,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 78750,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "2:42120:120870"
+  }
+ }
+}

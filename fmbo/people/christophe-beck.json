@@ -1,0 +1,41 @@
+{
+ "slug": "christophe-beck",
+ "name": "Christophe Beck",
+ "source_url": "https://fridaymatinee.in/people/christophe-beck",
+ "captured_at": "2026-10-01T21:37:59.383244+00:00",
+ "person": {
+  "name": "Christophe Beck",
+  "photo": "https://image.tmdb.org/t/p/w185/n3U0OPETTZGTx4mgsrryARKphR4.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 36,
+   "movie_slug": "frozen-2",
+   "title": "Frozen 2",
+   "year": 2019,
+   "kerala_gross": "₹94.4L"
+  },
+  {
+   "movie_id": 298,
+   "movie_slug": "ant-man-and-the-wasp-quantumania",
+   "title": "Ant-Man and the Wasp Quantumania",
+   "year": 2023,
+   "kerala_gross": "₹93.4L"
+  },
+  {
+   "movie_id": 1095,
+   "movie_slug": "the-sheep-detectives",
+   "title": "The Sheep Detectives",
+   "year": 2026,
+   "kerala_gross": "₹22.1L"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "slug": "salim-kumar",
+ "name": "Salim Kumar",
+ "source_url": "https://fridaymatinee.in/people/salim-kumar",
+ "captured_at": "2026-10-02T10:02:37.805876+00:00",
+ "person": {
+  "name": "Salim Kumar",
+  "photo": "https://image.tmdb.org/t/p/w185/h8KKhTw56M7CoG1MkeYP9zMenq7.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 7
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 25,
+   "movie_slug": "akasha-ganga-2",
+   "title": "Akasha Ganga 2",
+   "year": 2019,
+   "kerala_gross": "₹69.7L"
+  },
+  {
+   "movie_id": 48,
+   "movie_slug": "driving-licence",
+   "title": "Driving Licence",
+   "year": 2019,
+   "kerala_gross": "₹7.6 Cr"
+  },
+  {
+   "movie_id": 76,
+   "movie_slug": "one",
+   "title": "One",
+   "year": 2021,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 99,
+   "movie_slug": "meow",
+   "title": "Meow",
+   "year": 2021,
+   "kerala_gross": "₹74.0L"
+  },
+  {
+   "movie_id": 210,
+   "movie_slug": "mei-hoom-moosa",
+   "title": "Mei Hoom Moosa",
+   "year": 2022,
+   "kerala_gross": "₹3.3 Cr"
+  },
+  {
+   "movie_id": 516,
+   "movie_slug": "malayalee-from-india",
+   "title": "Malayalee From India",
+   "year": 2024,
+   "kerala_gross": "₹8.4 Cr"
+  },
+  {
+   "movie_id": 1004,
+   "movie_slug": "koodothram",
+   "title": "Koodothram",
+   "year": 2026,
+   "kerala_gross": "₹31.1L"
+  }
+ ]
+}

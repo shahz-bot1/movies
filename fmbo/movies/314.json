@@ -1,0 +1,639 @@
+{
+ "id": 314,
+ "slug": "dasara",
+ "source_url": "https://fridaymatinee.in/boxoffice/dasara-314",
+ "captured_at": "2026-10-01T18:09:51.035494+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 314,
+    "title": "Dasara",
+    "img": "https://image.tmdb.org/t/p/original/4OTVoCVXa5aHDZl8opKoIV9Ezr5.jpg",
+    "released": "2023-03-30",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15440322",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "159 min",
+    "genre": "Action, Thriller",
+    "plot": "In 1990s, Set in small village Veerlapally, Dharani, Vennela, and Suri are childhood friends. Dharani loves Vennela, but she has Suri in her mind. Knowing Suri’s interest in Vennela, Dharani sacrifices his love and helps get them married. But Local politics between Rajanna, Shivanna and the latter's son Chinna Nambi threaten to disrupt their lives.",
+    "released": "2023-03-30",
+    "director": "Srikanth Odela",
+    "directorSlug": "srikanth-odela",
+    "actors": [
+     "Nani",
+     "Keerthy Suresh",
+     "Dheekshith Shetty",
+     "Shine Tom Chacko",
+     "Sai Kumar",
+     "Samuthirakani"
+    ],
+    "awards": "12 wins u0026 14 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 12602,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "86%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Nani",
+     "character": "Dharani",
+     "slug": "nani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/csRjrh58D90LhFNiqNEUTohzoIK.jpg"
+    },
+    {
+     "name": "Keerthy Suresh",
+     "character": "Vennala",
+     "slug": "keerthy-suresh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fTdgSinsAitdujBBEUEA72GY0pv.jpg"
+    },
+    {
+     "name": "Dheekshith Shetty",
+     "character": "Suri",
+     "slug": "dheekshith-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f0MzEH6dmEZiXuZ78ycDKgxECbD.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Chinna Nambi",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Sai Kumar",
+     "character": "Rajanna",
+     "slug": "sai-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Xq5VNf8rPgQF0tuQLjl5YwHPoc.jpg"
+    },
+    {
+     "name": "Samuthirakani",
+     "character": "Shivanna",
+     "slug": "samuthirakani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hicCPOdDfSRCEYkeb9g53FOY19A.jpg"
+    },
+    {
+     "name": "Poorna",
+     "character": "Vadinamma",
+     "slug": "poorna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/TDjD3RpKSgbwSApdpPhFXRtwf8.jpg"
+    },
+    {
+     "name": "Ravi Teja Nannimala",
+     "character": "Dharani's Friend",
+     "slug": "ravi-teja-nannimala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4mdfuK30uJEJ4h9Fo7IxyoMWzze.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Srikanth Odela",
+       "slug": "srikanth-odela"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vamsee Krishna",
+       "slug": "vamsee-krishna"
+      },
+      {
+       "name": "Arjuna Paturi",
+       "slug": "arjuna-paturi"
+      },
+      {
+       "name": "Jella Srinath",
+       "slug": "jella-srinath"
+      },
+      {
+       "name": "Srikanth Odela",
+       "slug": "srikanth-odela"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Santhosh Narayanan",
+       "slug": "santhosh-narayanan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sathyan Sooryan",
+       "slug": "sathyan-sooryan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Naveen Nooli",
+       "slug": "naveen-nooli"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sudhakar Cherukuri",
+       "slug": "sudhakar-cherukuri"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sri Lakshmi Venkateswara Cinemas",
+     "slug": "sri-lakshmi-venkateswara-cinemas",
+     "logo": "https://image.tmdb.org/t/p/w185/9O7xb3qb7NCwtvW1J4rVkizegg1.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-04-27",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4138759.09,
+    "totalShows": 1945,
+    "totalDays": 9,
+    "openingDay": {
+     "day": 1,
+     "gross": 992886.61,
+     "date": "2023-03-30"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 992886.61,
+     "date": "2023-03-30"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-03-30"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 314,
+    "title": "Dasara",
+    "img": "https://image.tmdb.org/t/p/original/4OTVoCVXa5aHDZl8opKoIV9Ezr5.jpg",
+    "released": "2023-03-30",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15440322",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "159 min",
+    "genre": "Action, Thriller",
+    "plot": "In 1990s, Set in small village Veerlapally, Dharani, Vennela, and Suri are childhood friends. Dharani loves Vennela, but she has Suri in her mind. Knowing Suri’s interest in Vennela, Dharani sacrifices his love and helps get them married. But Local politics between Rajanna, Shivanna and the latter's son Chinna Nambi threaten to disrupt their lives.",
+    "released": "2023-03-30",
+    "director": "Srikanth Odela",
+    "directorSlug": "srikanth-odela",
+    "actors": [
+     "Nani",
+     "Keerthy Suresh",
+     "Dheekshith Shetty",
+     "Shine Tom Chacko",
+     "Sai Kumar",
+     "Samuthirakani"
+    ],
+    "awards": "12 wins u0026 14 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 12602,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "86%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Nani",
+     "character": "Dharani",
+     "slug": "nani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/csRjrh58D90LhFNiqNEUTohzoIK.jpg"
+    },
+    {
+     "name": "Keerthy Suresh",
+     "character": "Vennala",
+     "slug": "keerthy-suresh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fTdgSinsAitdujBBEUEA72GY0pv.jpg"
+    },
+    {
+     "name": "Dheekshith Shetty",
+     "character": "Suri",
+     "slug": "dheekshith-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f0MzEH6dmEZiXuZ78ycDKgxECbD.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Chinna Nambi",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Sai Kumar",
+     "character": "Rajanna",
+     "slug": "sai-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Xq5VNf8rPgQF0tuQLjl5YwHPoc.jpg"
+    },
+    {
+     "name": "Samuthirakani",
+     "character": "Shivanna",
+     "slug": "samuthirakani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hicCPOdDfSRCEYkeb9g53FOY19A.jpg"
+    },
+    {
+     "name": "Poorna",
+     "character": "Vadinamma",
+     "slug": "poorna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/TDjD3RpKSgbwSApdpPhFXRtwf8.jpg"
+    },
+    {
+     "name": "Ravi Teja Nannimala",
+     "character": "Dharani's Friend",
+     "slug": "ravi-teja-nannimala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4mdfuK30uJEJ4h9Fo7IxyoMWzze.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Srikanth Odela",
+       "slug": "srikanth-odela"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vamsee Krishna",
+       "slug": "vamsee-krishna"
+      },
+      {
+       "name": "Arjuna Paturi",
+       "slug": "arjuna-paturi"
+      },
+      {
+       "name": "Jella Srinath",
+       "slug": "jella-srinath"
+      },
+      {
+       "name": "Srikanth Odela",
+       "slug": "srikanth-odela"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Santhosh Narayanan",
+       "slug": "santhosh-narayanan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sathyan Sooryan",
+       "slug": "sathyan-sooryan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Naveen Nooli",
+       "slug": "naveen-nooli"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sudhakar Cherukuri",
+       "slug": "sudhakar-cherukuri"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sri Lakshmi Venkateswara Cinemas",
+     "slug": "sri-lakshmi-venkateswara-cinemas",
+     "logo": "https://image.tmdb.org/t/p/w185/9O7xb3qb7NCwtvW1J4rVkizegg1.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-04-27",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-03-30",
+     "gross": 3964946.09,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1864,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-04-06",
+     "gross": 173813,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 81,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4138759.09,
+    "totalShows": 1945,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 3964946.09
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3964946.09
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-03-30"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 314,
+    "title": "Dasara",
+    "img": "https://image.tmdb.org/t/p/original/4OTVoCVXa5aHDZl8opKoIV9Ezr5.jpg",
+    "released": "2023-03-30",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15440322",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "159 min",
+    "genre": "Action, Thriller",
+    "plot": "In 1990s, Set in small village Veerlapally, Dharani, Vennela, and Suri are childhood friends. Dharani loves Vennela, but she has Suri in her mind. Knowing Suri’s interest in Vennela, Dharani sacrifices his love and helps get them married. But Local politics between Rajanna, Shivanna and the latter's son Chinna Nambi threaten to disrupt their lives.",
+    "released": "2023-03-30",
+    "director": "Srikanth Odela",
+    "directorSlug": "srikanth-odela",
+    "actors": [
+     "Nani",
+     "Keerthy Suresh",
+     "Dheekshith Shetty",
+     "Shine Tom Chacko",
+     "Sai Kumar",
+     "Samuthirakani"
+    ],
+    "awards": "12 wins u0026 14 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 12602,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "86%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Nani",
+     "character": "Dharani",
+     "slug": "nani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/csRjrh58D90LhFNiqNEUTohzoIK.jpg"
+    },
+    {
+     "name": "Keerthy Suresh",
+     "character": "Vennala",
+     "slug": "keerthy-suresh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fTdgSinsAitdujBBEUEA72GY0pv.jpg"
+    },
+    {
+     "name": "Dheekshith Shetty",
+     "character": "Suri",
+     "slug": "dheekshith-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f0MzEH6dmEZiXuZ78ycDKgxECbD.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Chinna Nambi",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Sai Kumar",
+     "character": "Rajanna",
+     "slug": "sai-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Xq5VNf8rPgQF0tuQLjl5YwHPoc.jpg"
+    },
+    {
+     "name": "Samuthirakani",
+     "character": "Shivanna",
+     "slug": "samuthirakani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hicCPOdDfSRCEYkeb9g53FOY19A.jpg"
+    },
+    {
+     "name": "Poorna",
+     "character": "Vadinamma",
+     "slug": "poorna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/TDjD3RpKSgbwSApdpPhFXRtwf8.jpg"
+    },
+    {
+     "name": "Ravi Teja Nannimala",
+     "character": "Dharani's Friend",
+     "slug": "ravi-teja-nannimala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4mdfuK30uJEJ4h9Fo7IxyoMWzze.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Srikanth Odela",
+       "slug": "srikanth-odela"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vamsee Krishna",
+       "slug": "vamsee-krishna"
+      },
+      {
+       "name": "Arjuna Paturi",
+       "slug": "arjuna-paturi"
+      },
+      {
+       "name": "Jella Srinath",
+       "slug": "jella-srinath"
+      },
+      {
+       "name": "Srikanth Odela",
+       "slug": "srikanth-odela"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Santhosh Narayanan",
+       "slug": "santhosh-narayanan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sathyan Sooryan",
+       "slug": "sathyan-sooryan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Naveen Nooli",
+       "slug": "naveen-nooli"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sudhakar Cherukuri",
+       "slug": "sudhakar-cherukuri"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sri Lakshmi Venkateswara Cinemas",
+     "slug": "sri-lakshmi-venkateswara-cinemas",
+     "logo": "https://image.tmdb.org/t/p/w185/9O7xb3qb7NCwtvW1J4rVkizegg1.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-04-27",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4138759.0900000003,
+    "totalShows": 1945,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1075345,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1075345,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-03-30"
+   }
+  }
+ }
+}

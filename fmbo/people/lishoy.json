@@ -1,0 +1,48 @@
+{
+ "slug": "lishoy",
+ "name": "Lishoy",
+ "source_url": "https://fridaymatinee.in/people/lishoy",
+ "captured_at": "2026-10-02T00:03:48.885957+00:00",
+ "person": {
+  "name": "Lishoy",
+  "photo": "https://image.tmdb.org/t/p/w185/4d2yluJjAggVbnyXqcABFnTX0aP.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 73,
+   "movie_slug": "the-priest",
+   "title": "The Priest",
+   "year": 2021,
+   "kerala_gross": "₹5.8 Cr"
+  },
+  {
+   "movie_id": 585,
+   "movie_slug": "marco",
+   "title": "Marco",
+   "year": 2024,
+   "kerala_gross": "₹34.7 Cr"
+  },
+  {
+   "movie_id": 882,
+   "movie_slug": "athibheekara-kaamukan",
+   "title": "Athibheekara Kaamukan",
+   "year": 2025,
+   "kerala_gross": "₹41.6L"
+  },
+  {
+   "movie_id": 1012,
+   "movie_slug": "drishyam-3",
+   "title": "Drishyam 3",
+   "year": 2026,
+   "kerala_gross": "₹82.0 Cr"
+  }
+ ]
+}

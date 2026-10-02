@@ -1,0 +1,69 @@
+{
+ "slug": "jayasurya",
+ "name": "Jayasurya",
+ "source_url": "https://fridaymatinee.in/people/jayasurya",
+ "captured_at": "2026-10-01T23:06:39.296144+00:00",
+ "person": {
+  "name": "Jayasurya",
+  "photo": "https://image.tmdb.org/t/p/w185/m3M0skefVc1wMJBKW5CMjKt4orJ.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 7
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 41,
+   "movie_slug": "puzhikkadakan",
+   "title": "Puzhikkadakan",
+   "year": 2019,
+   "kerala_gross": "₹13.8L"
+  },
+  {
+   "movie_id": 47,
+   "movie_slug": "thrissur-pooram",
+   "title": "Thrissur Pooram",
+   "year": 2019,
+   "kerala_gross": "₹66.6L"
+  },
+  {
+   "movie_id": 57,
+   "movie_slug": "anveshanam",
+   "title": "Anveshanam",
+   "year": 2020,
+   "kerala_gross": "₹52.9L"
+  },
+  {
+   "movie_id": 66,
+   "movie_slug": "vellam",
+   "title": "vellam",
+   "year": 2021,
+   "kerala_gross": "₹52.5L"
+  },
+  {
+   "movie_id": 143,
+   "movie_slug": "john-luther",
+   "title": "John Luther",
+   "year": 2022,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 1026,
+   "movie_slug": "aadu-3",
+   "title": "Aadu 3",
+   "year": 2026,
+   "kerala_gross": "₹47.2 Cr"
+  },
+  {
+   "movie_id": 336,
+   "movie_slug": "enthada-saji",
+   "title": "Enthada Saji",
+   "year": 2023,
+   "kerala_gross": "₹86.4L"
+  }
+ ]
+}

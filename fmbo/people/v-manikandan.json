@@ -1,0 +1,41 @@
+{
+ "slug": "v-manikandan",
+ "name": "V. Manikandan",
+ "source_url": "https://fridaymatinee.in/people/v-manikandan",
+ "captured_at": "2026-10-02T11:34:50.929380+00:00",
+ "person": {
+  "name": "V. Manikandan",
+  "photo": null,
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 199,
+   "movie_slug": "brahmastra-part-one-shiva",
+   "title": "Brahmastra Part One Shiva",
+   "year": 2022,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 353,
+   "movie_slug": "kisi-ka-bhai-kisi-ki-jaan",
+   "title": "Kisi Ka Bhai Kisi Ki Jaan",
+   "year": 2023,
+   "kerala_gross": "₹30.6L"
+  },
+  {
+   "movie_id": 749,
+   "movie_slug": "yeh-jawaani-hai-deewani",
+   "title": "Yeh Jawaani Hai Deewani",
+   "year": 2025,
+   "kerala_gross": "₹70.2L"
+  }
+ ]
+}

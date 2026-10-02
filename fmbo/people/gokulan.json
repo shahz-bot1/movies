@@ -1,0 +1,90 @@
+{
+ "slug": "gokulan",
+ "name": "Gokulan",
+ "source_url": "https://fridaymatinee.in/people/gokulan",
+ "captured_at": "2026-10-01T22:33:46.313355+00:00",
+ "person": {
+  "name": "Gokulan",
+  "photo": "https://image.tmdb.org/t/p/w185/y36ZVFg40z8XKo7nhpZkC6N0S4N.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 10
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 40,
+   "movie_slug": "kamala",
+   "title": "Kamala",
+   "year": 2019,
+   "kerala_gross": "₹17.0L"
+  },
+  {
+   "movie_id": 179,
+   "movie_slug": "thallumaala",
+   "title": "Thallumaala",
+   "year": 2022,
+   "kerala_gross": "₹18.9 Cr"
+  },
+  {
+   "movie_id": 248,
+   "movie_slug": "saudi-vellakka",
+   "title": "Saudi Vellakka",
+   "year": 2022,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 356,
+   "movie_slug": "ayalvaashi",
+   "title": "Ayalvaashi",
+   "year": 2023,
+   "kerala_gross": "₹79.2L"
+  },
+  {
+   "movie_id": 402,
+   "movie_slug": "padmini",
+   "title": "Padmini",
+   "year": 2023,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 502,
+   "movie_slug": "thundu",
+   "title": "Thundu",
+   "year": 2024,
+   "kerala_gross": "₹59.8L"
+  },
+  {
+   "movie_id": 802,
+   "movie_slug": "the-case-diary",
+   "title": "The Case Diary",
+   "year": 2025,
+   "kerala_gross": "₹21.5L"
+  },
+  {
+   "movie_id": 832,
+   "movie_slug": "vala-story-of-a-bangle",
+   "title": "Vala - Story of a Bangle",
+   "year": 2025,
+   "kerala_gross": "₹83.7L"
+  },
+  {
+   "movie_id": 1314,
+   "movie_slug": "aaram",
+   "title": "Aaram",
+   "year": 2026,
+   "kerala_gross": "₹1.0 Cr"
+  },
+  {
+   "movie_id": 1315,
+   "movie_slug": "orijinal",
+   "title": "Orijinal",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

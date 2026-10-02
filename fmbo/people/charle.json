@@ -1,0 +1,41 @@
+{
+ "slug": "charle",
+ "name": "Charle",
+ "source_url": "https://fridaymatinee.in/people/charle",
+ "captured_at": "2026-10-01T21:31:53.000908+00:00",
+ "person": {
+  "name": "Charle",
+  "photo": "https://image.tmdb.org/t/p/w185/fprDHhsu4TJsoUKycYZ6GZ8nqZ6.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 428,
+   "movie_slug": "iraivan",
+   "title": "Iraivan",
+   "year": 2023,
+   "kerala_gross": "₹28.0L"
+  },
+  {
+   "movie_id": 765,
+   "movie_slug": "coolie",
+   "title": "Coolie",
+   "year": 2025,
+   "kerala_gross": "₹22.9 Cr"
+  },
+  {
+   "movie_id": 921,
+   "movie_slug": "mask",
+   "title": "Mask",
+   "year": 2025,
+   "kerala_gross": "₹3.6L"
+  }
+ ]
+}

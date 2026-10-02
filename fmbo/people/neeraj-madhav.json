@@ -1,0 +1,55 @@
+{
+ "slug": "neeraj-madhav",
+ "name": "Neeraj Madhav",
+ "source_url": "https://fridaymatinee.in/people/neeraj-madhav",
+ "captured_at": "2026-10-02T00:56:43.831065+00:00",
+ "person": {
+  "name": "Neeraj Madhav",
+  "photo": "https://image.tmdb.org/t/p/w185/vzFN3yyUEzEstVkMRnaI4lImrOp.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 204,
+   "movie_slug": "vendhu-thanindhathu-kaadu",
+   "title": "Vendhu Thanindhathu Kaadu",
+   "year": 2022,
+   "kerala_gross": "₹40.9L"
+  },
+  {
+   "movie_id": 294,
+   "movie_slug": "enkilum-chandrike",
+   "title": "Enkilum Chandrike",
+   "year": 2023,
+   "kerala_gross": "₹1.3 Cr"
+  },
+  {
+   "movie_id": 416,
+   "movie_slug": "rdx-robert-dony-xavier",
+   "title": "RDX - Robert Dony Xavier",
+   "year": 2023,
+   "kerala_gross": "₹39.7 Cr"
+  },
+  {
+   "movie_id": 489,
+   "movie_slug": "varshangalkku-shesham",
+   "title": "Varshangalkku Shesham",
+   "year": 2024,
+   "kerala_gross": "₹31.2 Cr"
+  },
+  {
+   "movie_id": 1213,
+   "movie_slug": "pluto",
+   "title": "Pluto",
+   "year": 2026,
+   "kerala_gross": "₹1.2 Cr"
+  }
+ ]
+}

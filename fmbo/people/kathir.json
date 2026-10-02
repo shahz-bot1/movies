@@ -1,0 +1,41 @@
+{
+ "slug": "kathir",
+ "name": "Kathir",
+ "source_url": "https://fridaymatinee.in/people/kathir",
+ "captured_at": "2026-10-01T23:42:34.871158+00:00",
+ "person": {
+  "name": "Kathir",
+  "photo": "https://image.tmdb.org/t/p/w185/cQNlW5ztPIANrUNRos81cxZuZe5.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 18,
+   "movie_slug": "bigil",
+   "title": "Bigil",
+   "year": 2019,
+   "kerala_gross": "₹5.4 Cr"
+  },
+  {
+   "movie_id": 766,
+   "movie_slug": "meesha",
+   "title": "Meesha",
+   "year": 2025,
+   "kerala_gross": "₹21.6L"
+  },
+  {
+   "movie_id": 662,
+   "movie_slug": "im-game",
+   "title": "Im Game",
+   "year": 2026,
+   "kerala_gross": "₹16.5 Cr"
+  }
+ ]
+}

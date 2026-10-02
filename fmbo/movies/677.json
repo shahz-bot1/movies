@@ -1,0 +1,695 @@
+{
+ "id": 677,
+ "slug": "narivetta",
+ "source_url": "https://fridaymatinee.in/boxoffice/narivetta-677",
+ "captured_at": "2026-10-01T18:19:04.205419+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 677,
+    "title": "Narivetta",
+    "img": "https://image.tmdb.org/t/p/original/3xhdWk6y5hVUAOhW7MsBMA7wb10.jpg",
+    "released": "2025-05-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28479285",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "139 min",
+    "genre": "Drama, Action",
+    "plot": "A police officer uncovers a conspiracy based around state-sanctioned violence against victimized villagers.",
+    "released": "2025-05-16",
+    "director": "Anuraj Manohar",
+    "directorSlug": "anuraj-manohar",
+    "actors": [
+     "Tovino Thomas",
+     "Suraj Venjaramoodu",
+     "Cheran",
+     "Arya Salim",
+     "Priyamvada Krishna",
+     "Rini Udayakumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 3931,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:11:12.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tovino Thomas",
+     "character": "Varghese Peter",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Suraj Venjaramoodu",
+     "character": "Basheer Ahammed",
+     "slug": "suraj-venjaramoodu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2FUs0wmR3eHBd8g4GVbCmhkUzeI.jpg"
+    },
+    {
+     "name": "Cheran",
+     "character": "R. Keshavadas",
+     "slug": "cheran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nCZmkDoFuBqKs3IbkXJ7qmRcHTW.jpg"
+    },
+    {
+     "name": "Arya Salim",
+     "character": "C.K Shanthi",
+     "slug": "arya-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/upKUfyU0xYsGmNsqRtri1Xuf7nh.jpg"
+    },
+    {
+     "name": "Priyamvada Krishna",
+     "character": "Nancy",
+     "slug": "priyamvada-krishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c50vLxG5k9Gk2gO0Ng1YWtZExAv.jpg"
+    },
+    {
+     "name": "Rini Udayakumar",
+     "character": "Gracy",
+     "slug": "rini-udayakumar",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Nandhu",
+     "character": "Joy",
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    },
+    {
+     "name": "Shahi Kabir",
+     "character": "Jayesh Mohan/ Adakka",
+     "slug": "shahi-kabir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gzf4rvlRjKpH5k4dw8fRwV3e96F.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anuraj Manohar",
+       "slug": "anuraj-manohar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Abin Joseph",
+       "slug": "abin-joseph"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vijay",
+       "slug": "vijay-11202"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shiyas Hassan",
+       "slug": "shiyas-hassan"
+      },
+      {
+       "name": "Tippushan",
+       "slug": "tippushan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Indian Cinema Company",
+     "slug": "indian-cinema-company",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-07-10",
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 148824598.9999999,
+    "totalShows": 16312,
+    "totalDays": 48,
+    "openingDay": {
+     "day": 1,
+     "gross": 14814438.200000001,
+     "date": "2025-05-23"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 18596337.999999996,
+     "date": "2025-05-25"
+    },
+    "chartPosition": {
+     "current_position": 70,
+     "weeks_on_chart": 0,
+     "peak_position": 45,
+     "last_week_position": 70
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-05-23"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 677,
+    "title": "Narivetta",
+    "img": "https://image.tmdb.org/t/p/original/3xhdWk6y5hVUAOhW7MsBMA7wb10.jpg",
+    "released": "2025-05-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28479285",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "139 min",
+    "genre": "Drama, Action",
+    "plot": "A police officer uncovers a conspiracy based around state-sanctioned violence against victimized villagers.",
+    "released": "2025-05-16",
+    "director": "Anuraj Manohar",
+    "directorSlug": "anuraj-manohar",
+    "actors": [
+     "Tovino Thomas",
+     "Suraj Venjaramoodu",
+     "Cheran",
+     "Arya Salim",
+     "Priyamvada Krishna",
+     "Rini Udayakumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 3931,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:11:12.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tovino Thomas",
+     "character": "Varghese Peter",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Suraj Venjaramoodu",
+     "character": "Basheer Ahammed",
+     "slug": "suraj-venjaramoodu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2FUs0wmR3eHBd8g4GVbCmhkUzeI.jpg"
+    },
+    {
+     "name": "Cheran",
+     "character": "R. Keshavadas",
+     "slug": "cheran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nCZmkDoFuBqKs3IbkXJ7qmRcHTW.jpg"
+    },
+    {
+     "name": "Arya Salim",
+     "character": "C.K Shanthi",
+     "slug": "arya-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/upKUfyU0xYsGmNsqRtri1Xuf7nh.jpg"
+    },
+    {
+     "name": "Priyamvada Krishna",
+     "character": "Nancy",
+     "slug": "priyamvada-krishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c50vLxG5k9Gk2gO0Ng1YWtZExAv.jpg"
+    },
+    {
+     "name": "Rini Udayakumar",
+     "character": "Gracy",
+     "slug": "rini-udayakumar",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Nandhu",
+     "character": "Joy",
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    },
+    {
+     "name": "Shahi Kabir",
+     "character": "Jayesh Mohan/ Adakka",
+     "slug": "shahi-kabir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gzf4rvlRjKpH5k4dw8fRwV3e96F.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anuraj Manohar",
+       "slug": "anuraj-manohar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Abin Joseph",
+       "slug": "abin-joseph"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vijay",
+       "slug": "vijay-11202"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shiyas Hassan",
+       "slug": "shiyas-hassan"
+      },
+      {
+       "name": "Tippushan",
+       "slug": "tippushan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Indian Cinema Company",
+     "slug": "indian-cinema-company",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-07-10",
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-05-23",
+     "gross": 80739936.19999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5892,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-05-30",
+     "gross": 41673752.39999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5582,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-06-06",
+     "gross": 21369255.799999997,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3124,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-06-13",
+     "gross": 3927404.5999999996,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1322,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-06-20",
+     "gross": 819257,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 303,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-06-27",
+     "gross": 206515,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 65,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-07-04",
+     "gross": 88478,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 24,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 148824598.99999997,
+    "totalShows": 16312,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 80739936.19999999
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 80739936.19999999
+    },
+    "chartPosition": {
+     "current_position": 70,
+     "weeks_on_chart": 0,
+     "peak_position": 45,
+     "last_week_position": 70
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-05-23"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 677,
+    "title": "Narivetta",
+    "img": "https://image.tmdb.org/t/p/original/3xhdWk6y5hVUAOhW7MsBMA7wb10.jpg",
+    "released": "2025-05-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28479285",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "139 min",
+    "genre": "Drama, Action",
+    "plot": "A police officer uncovers a conspiracy based around state-sanctioned violence against victimized villagers.",
+    "released": "2025-05-16",
+    "director": "Anuraj Manohar",
+    "directorSlug": "anuraj-manohar",
+    "actors": [
+     "Tovino Thomas",
+     "Suraj Venjaramoodu",
+     "Cheran",
+     "Arya Salim",
+     "Priyamvada Krishna",
+     "Rini Udayakumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 3931,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:11:12.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tovino Thomas",
+     "character": "Varghese Peter",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Suraj Venjaramoodu",
+     "character": "Basheer Ahammed",
+     "slug": "suraj-venjaramoodu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2FUs0wmR3eHBd8g4GVbCmhkUzeI.jpg"
+    },
+    {
+     "name": "Cheran",
+     "character": "R. Keshavadas",
+     "slug": "cheran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nCZmkDoFuBqKs3IbkXJ7qmRcHTW.jpg"
+    },
+    {
+     "name": "Arya Salim",
+     "character": "C.K Shanthi",
+     "slug": "arya-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/upKUfyU0xYsGmNsqRtri1Xuf7nh.jpg"
+    },
+    {
+     "name": "Priyamvada Krishna",
+     "character": "Nancy",
+     "slug": "priyamvada-krishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c50vLxG5k9Gk2gO0Ng1YWtZExAv.jpg"
+    },
+    {
+     "name": "Rini Udayakumar",
+     "character": "Gracy",
+     "slug": "rini-udayakumar",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Nandhu",
+     "character": "Joy",
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    },
+    {
+     "name": "Shahi Kabir",
+     "character": "Jayesh Mohan/ Adakka",
+     "slug": "shahi-kabir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gzf4rvlRjKpH5k4dw8fRwV3e96F.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anuraj Manohar",
+       "slug": "anuraj-manohar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Abin Joseph",
+       "slug": "abin-joseph"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vijay",
+       "slug": "vijay-11202"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shiyas Hassan",
+       "slug": "shiyas-hassan"
+      },
+      {
+       "name": "Tippushan",
+       "slug": "tippushan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Indian Cinema Company",
+     "slug": "indian-cinema-company",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-07-10",
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 148824599,
+    "totalShows": 16312,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 33226131,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 33226131,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 70,
+     "weeks_on_chart": 0,
+     "peak_position": 45,
+     "last_week_position": 70
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-05-23"
+   }
+  }
+ }
+}

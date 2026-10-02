@@ -1,0 +1,46 @@
+{
+ "slug": "vignesh-raja",
+ "name": "Vignesh Raja",
+ "source_url": "https://fridaymatinee.in/people/vignesh-raja",
+ "captured_at": "2026-10-02T11:42:54.018005+00:00",
+ "person": {
+  "name": "Vignesh Raja",
+  "photo": "https://image.tmdb.org/t/p/w185/aUaNkljAVaAAve5UC7jMBXT3zwP.jpg",
+  "role": "Writer and director"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 390,
+   "movie_slug": "por-thozhil",
+   "title": "Por Thozhil",
+   "year": 2023,
+   "kerala_gross": "₹2.8 Cr"
+  },
+  {
+   "movie_id": 1084,
+   "movie_slug": "kara",
+   "title": "Kara",
+   "year": 2026,
+   "kerala_gross": "₹51.6L"
+  },
+  {
+   "movie_id": 1333,
+   "movie_slug": "anbil-avan",
+   "title": "Anbil Avan",
+   "year": 2026,
+   "kerala_gross": "₹2.4L"
+  }
+ ]
+}

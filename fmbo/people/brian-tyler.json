@@ -1,0 +1,48 @@
+{
+ "slug": "brian-tyler",
+ "name": "Brian Tyler",
+ "source_url": "https://fridaymatinee.in/people/brian-tyler",
+ "captured_at": "2026-10-01T21:25:11.855462+00:00",
+ "person": {
+  "name": "Brian Tyler",
+  "photo": "https://image.tmdb.org/t/p/w185/wLPLAOcEgA9vfNuXSX1QI1ajguU.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 377,
+   "movie_slug": "fast-x",
+   "title": "Fast X",
+   "year": 2023,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 908,
+   "movie_slug": "nuremberg",
+   "title": "Nuremberg",
+   "year": 2025,
+   "kerala_gross": "₹1.1L"
+  },
+  {
+   "movie_id": 878,
+   "movie_slug": "now-you-see-me-now-you-dont",
+   "title": "Now You See Me: Now You Dont",
+   "year": 2025,
+   "kerala_gross": "₹10.9L"
+  },
+  {
+   "movie_id": 1049,
+   "movie_slug": "the-super-mario-galaxy-movie",
+   "title": "The Super Mario Galaxy Movie",
+   "year": 2026,
+   "kerala_gross": "₹31.2L"
+  }
+ ]
+}

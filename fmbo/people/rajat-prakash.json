@@ -1,0 +1,41 @@
+{
+ "slug": "rajat-prakash",
+ "name": "Rajat Prakash",
+ "source_url": "https://fridaymatinee.in/people/rajat-prakash",
+ "captured_at": "2026-10-02T08:31:33.640135+00:00",
+ "person": {
+  "name": "Rajat Prakash",
+  "photo": null,
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 104,
+   "movie_slug": "archana-31-not-out",
+   "title": "Archana 31 Not Out",
+   "year": 2022,
+   "kerala_gross": "₹22.7L"
+  },
+  {
+   "movie_id": 549,
+   "movie_slug": "vaazha",
+   "title": "Vaazha",
+   "year": 2024,
+   "kerala_gross": "₹24.4 Cr"
+  },
+  {
+   "movie_id": 1048,
+   "movie_slug": "vaazha-ii",
+   "title": "Vaazha II",
+   "year": 2026,
+   "kerala_gross": "₹119.7 Cr"
+  }
+ ]
+}

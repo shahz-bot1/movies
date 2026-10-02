@@ -1,0 +1,664 @@
+{
+ "id": 785,
+ "slug": "war-2",
+ "source_url": "https://fridaymatinee.in/boxoffice/war-2-785",
+ "captured_at": "2026-10-01T18:22:27.307960+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 785,
+    "title": "War 2",
+    "img": "https://image.tmdb.org/t/p/original/2Yc8Kl2ldPpDzLrG2M5Ddv62FXB.jpg",
+    "released": "2025-08-14",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27425164",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "TV-MA",
+    "runtime": "173 min",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "Years ago Agent Kabir went rogue, became India’s greatest villain ever.  As he descends further into the deepest shadows... India sends its deadliest, most lethal agent after him, Agent Vikram  A Special Units Officer who is more than Kabir’s equal and a relentless Terminator driven by his own demons, determined to put a bullet into Kabir’s skull.",
+    "released": "2025-08-13",
+    "director": "Ayan Mukerji",
+    "directorSlug": "ayan-mukerji",
+    "actors": [
+     "N.T. Rama Rao Jr.",
+     "Hrithik Roshan",
+     "Kiara Advani",
+     "Ashutosh Rana",
+     "Anil Kapoor",
+     "Bobby Deol"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.1",
+      "votes": 34592,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.0",
+      "votes": 74,
+      "updatedAt": "2026-09-24T16:10:39.000Z"
+     },
+     "rt": "30%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "N.T. Rama Rao Jr.",
+     "character": "Vikram",
+     "slug": "n-t-rama-rao-jr",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5ycQgZ3SPUa12bq0yn1jpToBq9X.jpg"
+    },
+    {
+     "name": "Hrithik Roshan",
+     "character": "Kabir Dhaliwal",
+     "slug": "hrithik-roshan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5O7WrWe84WDFj7td64NVsobtHf3.jpg"
+    },
+    {
+     "name": "Kiara Advani",
+     "character": "Kavya Luthra",
+     "slug": "kiara-advani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zEhXyCvmttj9pQOXgNpO2deqtWD.jpg"
+    },
+    {
+     "name": "Ashutosh Rana",
+     "character": "Colonel Sunil Luthra",
+     "slug": "ashutosh-rana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg"
+    },
+    {
+     "name": "Anil Kapoor",
+     "character": "Vikrant Kaul",
+     "slug": "anil-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6RcrXGFzO50Tazqc8tbDlzYKvTd.jpg"
+    },
+    {
+     "name": "Bobby Deol",
+     "character": "Unnamed",
+     "slug": "bobby-deol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2npVa3PduichY8e7qBiE54m9VVP.jpg"
+    },
+    {
+     "name": "K.C. Shankar",
+     "character": "Gautam Gulati",
+     "slug": "k-c-shankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fbxJMM6YZGl3OLHhnqISzPjbSpB.jpg"
+    },
+    {
+     "name": "Varun Badola",
+     "character": "Vilasrao Sarang",
+     "slug": "varun-badola",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dzSBwofeP4dh3bP8TG6VxkHSjLy.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ayan Mukerji",
+       "slug": "ayan-mukerji"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shridhar Raghavan",
+       "slug": "shridhar-raghavan"
+      },
+      {
+       "name": "Aditya Chopra",
+       "slug": "aditya-chopra"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sanchit Balhara",
+       "slug": "sanchit-balhara"
+      },
+      {
+       "name": "Ankit Balhara",
+       "slug": "ankit-balhara"
+      },
+      {
+       "name": "Pritam Chakraborty",
+       "slug": "pritam-chakraborty"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Benjamin Jasper",
+       "slug": "benjamin-jasper"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Aarif Sheikh",
+       "slug": "aarif-sheikh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Aditya Chopra",
+       "slug": "aditya-chopra"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Yash Raj Films",
+     "slug": "yash-raj-films",
+     "logo": "https://image.tmdb.org/t/p/w185/lvzN86o3jrP44DIvn4SMBLOl9PF.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-01",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 17942726.400000002,
+    "totalShows": 3123,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 4809817.199999999,
+     "date": "2025-08-14"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4809817.199999999,
+     "date": "2025-08-14"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-14"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 785,
+    "title": "War 2",
+    "img": "https://image.tmdb.org/t/p/original/2Yc8Kl2ldPpDzLrG2M5Ddv62FXB.jpg",
+    "released": "2025-08-14",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27425164",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "TV-MA",
+    "runtime": "173 min",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "Years ago Agent Kabir went rogue, became India’s greatest villain ever.  As he descends further into the deepest shadows... India sends its deadliest, most lethal agent after him, Agent Vikram  A Special Units Officer who is more than Kabir’s equal and a relentless Terminator driven by his own demons, determined to put a bullet into Kabir’s skull.",
+    "released": "2025-08-13",
+    "director": "Ayan Mukerji",
+    "directorSlug": "ayan-mukerji",
+    "actors": [
+     "N.T. Rama Rao Jr.",
+     "Hrithik Roshan",
+     "Kiara Advani",
+     "Ashutosh Rana",
+     "Anil Kapoor",
+     "Bobby Deol"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.1",
+      "votes": 34592,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.0",
+      "votes": 74,
+      "updatedAt": "2026-09-24T16:10:39.000Z"
+     },
+     "rt": "30%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "N.T. Rama Rao Jr.",
+     "character": "Vikram",
+     "slug": "n-t-rama-rao-jr",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5ycQgZ3SPUa12bq0yn1jpToBq9X.jpg"
+    },
+    {
+     "name": "Hrithik Roshan",
+     "character": "Kabir Dhaliwal",
+     "slug": "hrithik-roshan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5O7WrWe84WDFj7td64NVsobtHf3.jpg"
+    },
+    {
+     "name": "Kiara Advani",
+     "character": "Kavya Luthra",
+     "slug": "kiara-advani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zEhXyCvmttj9pQOXgNpO2deqtWD.jpg"
+    },
+    {
+     "name": "Ashutosh Rana",
+     "character": "Colonel Sunil Luthra",
+     "slug": "ashutosh-rana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg"
+    },
+    {
+     "name": "Anil Kapoor",
+     "character": "Vikrant Kaul",
+     "slug": "anil-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6RcrXGFzO50Tazqc8tbDlzYKvTd.jpg"
+    },
+    {
+     "name": "Bobby Deol",
+     "character": "Unnamed",
+     "slug": "bobby-deol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2npVa3PduichY8e7qBiE54m9VVP.jpg"
+    },
+    {
+     "name": "K.C. Shankar",
+     "character": "Gautam Gulati",
+     "slug": "k-c-shankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fbxJMM6YZGl3OLHhnqISzPjbSpB.jpg"
+    },
+    {
+     "name": "Varun Badola",
+     "character": "Vilasrao Sarang",
+     "slug": "varun-badola",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dzSBwofeP4dh3bP8TG6VxkHSjLy.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ayan Mukerji",
+       "slug": "ayan-mukerji"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shridhar Raghavan",
+       "slug": "shridhar-raghavan"
+      },
+      {
+       "name": "Aditya Chopra",
+       "slug": "aditya-chopra"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sanchit Balhara",
+       "slug": "sanchit-balhara"
+      },
+      {
+       "name": "Ankit Balhara",
+       "slug": "ankit-balhara"
+      },
+      {
+       "name": "Pritam Chakraborty",
+       "slug": "pritam-chakraborty"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Benjamin Jasper",
+       "slug": "benjamin-jasper"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Aarif Sheikh",
+       "slug": "aarif-sheikh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Aditya Chopra",
+       "slug": "aditya-chopra"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Yash Raj Films",
+     "slug": "yash-raj-films",
+     "logo": "https://image.tmdb.org/t/p/w185/lvzN86o3jrP44DIvn4SMBLOl9PF.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-01",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-08-14",
+     "gross": 16188310.200000003,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2589,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-21",
+     "gross": 1741236.2000000002,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 530,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-28",
+     "gross": 13180,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 17942726.400000002,
+    "totalShows": 3123,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 16188310.200000003
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 16188310.200000003
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-14"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 785,
+    "title": "War 2",
+    "img": "https://image.tmdb.org/t/p/original/2Yc8Kl2ldPpDzLrG2M5Ddv62FXB.jpg",
+    "released": "2025-08-14",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27425164",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "TV-MA",
+    "runtime": "173 min",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "Years ago Agent Kabir went rogue, became India’s greatest villain ever.  As he descends further into the deepest shadows... India sends its deadliest, most lethal agent after him, Agent Vikram  A Special Units Officer who is more than Kabir’s equal and a relentless Terminator driven by his own demons, determined to put a bullet into Kabir’s skull.",
+    "released": "2025-08-13",
+    "director": "Ayan Mukerji",
+    "directorSlug": "ayan-mukerji",
+    "actors": [
+     "N.T. Rama Rao Jr.",
+     "Hrithik Roshan",
+     "Kiara Advani",
+     "Ashutosh Rana",
+     "Anil Kapoor",
+     "Bobby Deol"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.1",
+      "votes": 34592,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.0",
+      "votes": 74,
+      "updatedAt": "2026-09-24T16:10:39.000Z"
+     },
+     "rt": "30%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "N.T. Rama Rao Jr.",
+     "character": "Vikram",
+     "slug": "n-t-rama-rao-jr",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5ycQgZ3SPUa12bq0yn1jpToBq9X.jpg"
+    },
+    {
+     "name": "Hrithik Roshan",
+     "character": "Kabir Dhaliwal",
+     "slug": "hrithik-roshan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5O7WrWe84WDFj7td64NVsobtHf3.jpg"
+    },
+    {
+     "name": "Kiara Advani",
+     "character": "Kavya Luthra",
+     "slug": "kiara-advani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zEhXyCvmttj9pQOXgNpO2deqtWD.jpg"
+    },
+    {
+     "name": "Ashutosh Rana",
+     "character": "Colonel Sunil Luthra",
+     "slug": "ashutosh-rana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg"
+    },
+    {
+     "name": "Anil Kapoor",
+     "character": "Vikrant Kaul",
+     "slug": "anil-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6RcrXGFzO50Tazqc8tbDlzYKvTd.jpg"
+    },
+    {
+     "name": "Bobby Deol",
+     "character": "Unnamed",
+     "slug": "bobby-deol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2npVa3PduichY8e7qBiE54m9VVP.jpg"
+    },
+    {
+     "name": "K.C. Shankar",
+     "character": "Gautam Gulati",
+     "slug": "k-c-shankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fbxJMM6YZGl3OLHhnqISzPjbSpB.jpg"
+    },
+    {
+     "name": "Varun Badola",
+     "character": "Vilasrao Sarang",
+     "slug": "varun-badola",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dzSBwofeP4dh3bP8TG6VxkHSjLy.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ayan Mukerji",
+       "slug": "ayan-mukerji"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shridhar Raghavan",
+       "slug": "shridhar-raghavan"
+      },
+      {
+       "name": "Aditya Chopra",
+       "slug": "aditya-chopra"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sanchit Balhara",
+       "slug": "sanchit-balhara"
+      },
+      {
+       "name": "Ankit Balhara",
+       "slug": "ankit-balhara"
+      },
+      {
+       "name": "Pritam Chakraborty",
+       "slug": "pritam-chakraborty"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Benjamin Jasper",
+       "slug": "benjamin-jasper"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Aarif Sheikh",
+       "slug": "aarif-sheikh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Aditya Chopra",
+       "slug": "aditya-chopra"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Yash Raj Films",
+     "slug": "yash-raj-films",
+     "logo": "https://image.tmdb.org/t/p/w185/lvzN86o3jrP44DIvn4SMBLOl9PF.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-01",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 17942726.400000002,
+    "totalShows": 3123,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 7105823,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 7105823,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-14"
+   }
+  }
+ }
+}

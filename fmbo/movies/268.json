@@ -1,0 +1,542 @@
+{
+ "id": 268,
+ "slug": "djinn",
+ "source_url": "https://fridaymatinee.in/boxoffice/djinn-268",
+ "captured_at": "2026-10-01T18:08:14.937497+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 268,
+    "title": "Djinn",
+    "img": "https://image.tmdb.org/t/p/original/woW3UhIRYb6xJjv0sbS2dKtDo8Y.jpg",
+    "released": "2023-01-06",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10285752",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "133 min",
+    "genre": "Horror, Fantasy, Drama",
+    "plot": "Lalappan is empathetic, compassionate and a nature lover. His thoughts are different from those around him, so he faces discrimination. His life takes a U-turn when he decides to leave his village with a friend dreaming to reopen a Beedi company.",
+    "released": "2023-01-06",
+    "director": "Sidharth Bharathan",
+    "directorSlug": "sidharth-bharathan",
+    "actors": [
+     "Soubin Shahir",
+     "Santhy Balachandran",
+     "Leona Lishoy",
+     "Shine Tom Chacko",
+     "Sharafudheen",
+     "KPAC Lalitha"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 298,
+      "updatedAt": "2026-09-25T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Soubin Shahir",
+     "character": "Lalappan aka Djinn",
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Santhy Balachandran",
+     "character": "Safa",
+     "slug": "santhy-balachandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gLpx6IM3Ifs6m1tytsc3yc4Lw90.jpg"
+    },
+    {
+     "name": "Leona Lishoy",
+     "character": "Tara Koshi",
+     "slug": "leona-lishoy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4MKzSA8uvurHJc9xUxaGvbocI5B.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": null,
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Sharafudheen",
+     "character": null,
+     "slug": "sharafudheen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+    },
+    {
+     "name": "KPAC Lalitha",
+     "character": null,
+     "slug": "kpac-lalitha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fmGcXMxnk8exC4pnJ76GrmsURdh.jpg"
+    },
+    {
+     "name": "Sabumon Abdusamad",
+     "character": null,
+     "slug": "sabumon-abdusamad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mI81jD0mykZh84e0k8X0TPb11Sj.jpg"
+    },
+    {
+     "name": "Jaffer Idukki",
+     "character": null,
+     "slug": "jaffer-idukki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6kkv7LDD0NIGFTKZyrgGH5KGZpR.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sidharth Bharathan",
+       "slug": "sidharth-bharathan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rajesh Gopinadhan",
+       "slug": "rajesh-gopinadhan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Prashant Pillai",
+       "slug": "prashant-pillai"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Girish Gangadharan",
+       "slug": "girish-gangadharan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Deepu Joseph",
+       "slug": "deepu-joseph"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Straight Line Cinemas",
+     "slug": "straight-line-cinemas",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3864949.16,
+    "totalShows": 1068,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 994389.99,
+     "date": "2023-01-06"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 1378777.33,
+     "date": "2023-01-08"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-06"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 268,
+    "title": "Djinn",
+    "img": "https://image.tmdb.org/t/p/original/woW3UhIRYb6xJjv0sbS2dKtDo8Y.jpg",
+    "released": "2023-01-06",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10285752",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "133 min",
+    "genre": "Horror, Fantasy, Drama",
+    "plot": "Lalappan is empathetic, compassionate and a nature lover. His thoughts are different from those around him, so he faces discrimination. His life takes a U-turn when he decides to leave his village with a friend dreaming to reopen a Beedi company.",
+    "released": "2023-01-06",
+    "director": "Sidharth Bharathan",
+    "directorSlug": "sidharth-bharathan",
+    "actors": [
+     "Soubin Shahir",
+     "Santhy Balachandran",
+     "Leona Lishoy",
+     "Shine Tom Chacko",
+     "Sharafudheen",
+     "KPAC Lalitha"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 298,
+      "updatedAt": "2026-09-25T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Soubin Shahir",
+     "character": "Lalappan aka Djinn",
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Santhy Balachandran",
+     "character": "Safa",
+     "slug": "santhy-balachandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gLpx6IM3Ifs6m1tytsc3yc4Lw90.jpg"
+    },
+    {
+     "name": "Leona Lishoy",
+     "character": "Tara Koshi",
+     "slug": "leona-lishoy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4MKzSA8uvurHJc9xUxaGvbocI5B.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": null,
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Sharafudheen",
+     "character": null,
+     "slug": "sharafudheen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+    },
+    {
+     "name": "KPAC Lalitha",
+     "character": null,
+     "slug": "kpac-lalitha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fmGcXMxnk8exC4pnJ76GrmsURdh.jpg"
+    },
+    {
+     "name": "Sabumon Abdusamad",
+     "character": null,
+     "slug": "sabumon-abdusamad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mI81jD0mykZh84e0k8X0TPb11Sj.jpg"
+    },
+    {
+     "name": "Jaffer Idukki",
+     "character": null,
+     "slug": "jaffer-idukki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6kkv7LDD0NIGFTKZyrgGH5KGZpR.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sidharth Bharathan",
+       "slug": "sidharth-bharathan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rajesh Gopinadhan",
+       "slug": "rajesh-gopinadhan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Prashant Pillai",
+       "slug": "prashant-pillai"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Girish Gangadharan",
+       "slug": "girish-gangadharan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Deepu Joseph",
+       "slug": "deepu-joseph"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Straight Line Cinemas",
+     "slug": "straight-line-cinemas",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2023-01-06",
+     "gross": 3864949.1599999997,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1068,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3864949.1599999997,
+    "totalShows": 1068,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 3864949.1599999997
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3864949.1599999997
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-06"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 268,
+    "title": "Djinn",
+    "img": "https://image.tmdb.org/t/p/original/woW3UhIRYb6xJjv0sbS2dKtDo8Y.jpg",
+    "released": "2023-01-06",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10285752",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "133 min",
+    "genre": "Horror, Fantasy, Drama",
+    "plot": "Lalappan is empathetic, compassionate and a nature lover. His thoughts are different from those around him, so he faces discrimination. His life takes a U-turn when he decides to leave his village with a friend dreaming to reopen a Beedi company.",
+    "released": "2023-01-06",
+    "director": "Sidharth Bharathan",
+    "directorSlug": "sidharth-bharathan",
+    "actors": [
+     "Soubin Shahir",
+     "Santhy Balachandran",
+     "Leona Lishoy",
+     "Shine Tom Chacko",
+     "Sharafudheen",
+     "KPAC Lalitha"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 298,
+      "updatedAt": "2026-09-25T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Soubin Shahir",
+     "character": "Lalappan aka Djinn",
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Santhy Balachandran",
+     "character": "Safa",
+     "slug": "santhy-balachandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gLpx6IM3Ifs6m1tytsc3yc4Lw90.jpg"
+    },
+    {
+     "name": "Leona Lishoy",
+     "character": "Tara Koshi",
+     "slug": "leona-lishoy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4MKzSA8uvurHJc9xUxaGvbocI5B.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": null,
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Sharafudheen",
+     "character": null,
+     "slug": "sharafudheen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+    },
+    {
+     "name": "KPAC Lalitha",
+     "character": null,
+     "slug": "kpac-lalitha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fmGcXMxnk8exC4pnJ76GrmsURdh.jpg"
+    },
+    {
+     "name": "Sabumon Abdusamad",
+     "character": null,
+     "slug": "sabumon-abdusamad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mI81jD0mykZh84e0k8X0TPb11Sj.jpg"
+    },
+    {
+     "name": "Jaffer Idukki",
+     "character": null,
+     "slug": "jaffer-idukki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6kkv7LDD0NIGFTKZyrgGH5KGZpR.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sidharth Bharathan",
+       "slug": "sidharth-bharathan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rajesh Gopinadhan",
+       "slug": "rajesh-gopinadhan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Prashant Pillai",
+       "slug": "prashant-pillai"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Girish Gangadharan",
+       "slug": "girish-gangadharan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Deepu Joseph",
+       "slug": "deepu-joseph"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Straight Line Cinemas",
+     "slug": "straight-line-cinemas",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3864949.1599999997,
+    "totalShows": 1068,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 976625,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 976625,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-06"
+   }
+  }
+ }
+}

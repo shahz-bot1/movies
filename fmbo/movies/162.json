@@ -1,0 +1,590 @@
+{
+ "id": 162,
+ "slug": "padma",
+ "source_url": "https://fridaymatinee.in/boxoffice/padma-162",
+ "captured_at": "2026-10-01T18:05:26.593524+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 162,
+    "title": "Padma",
+    "img": "https://image.tmdb.org/t/p/original/ee7MjReehEUfLIOBbT6ytvXACbs.jpg",
+    "released": "2022-07-15",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13990248",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Drama, Family",
+    "plot": "Padmaja Cheroth and psychologist Ravi are like chalk and cheese, but have a happy, married life. Will their wedded bliss stand the test of time?",
+    "released": "2022-07-15",
+    "director": "Anoop Menon",
+    "directorSlug": "anoop-menon",
+    "actors": [
+     "Anoop Menon",
+     "Surabhi Lakshmi",
+     "Shankar Ramakrishnan",
+     "Mareena Michael",
+     "Shruthi Rajanikanth",
+     "Maala Parvathi"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.9",
+      "votes": 405,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:19.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Anoop Menon",
+     "character": "Dr. Ravi",
+     "slug": "anoop-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bQTaoXeuG0Mf3GbwATsfdNFwzKN.jpg"
+    },
+    {
+     "name": "Surabhi Lakshmi",
+     "character": "Padma",
+     "slug": "surabhi-lakshmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wiUgB299IuWJ0FFJLo1IPMJ1BAD.jpg"
+    },
+    {
+     "name": "Shankar Ramakrishnan",
+     "character": null,
+     "slug": "shankar-ramakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6FPuMP7IkWL18nXsPlI6IXiL1Gb.jpg"
+    },
+    {
+     "name": "Mareena Michael",
+     "character": null,
+     "slug": "mareena-michael",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zBtoWhF9bFAILmEaIC8TWA7ucxL.jpg"
+    },
+    {
+     "name": "Shruthi Rajanikanth",
+     "character": null,
+     "slug": "shruthi-rajanikanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7eixxlqu4pLvYw3AF6eUwVVbW0e.jpg"
+    },
+    {
+     "name": "Maala Parvathi",
+     "character": null,
+     "slug": "maala-parvathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l0iW1LfapmsXcvJaLPuwb68L5Ll.jpg"
+    },
+    {
+     "name": "Dinesh Prabhakar",
+     "character": null,
+     "slug": "dinesh-prabhakar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qI85omROARp5QsUlKevz6i8kvD0.jpg"
+    },
+    {
+     "name": "Ambi Neenasam",
+     "character": "Abdu",
+     "slug": "ambi-neenasam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5dfQVPkGs9Axoh9A5DKeOjc9l7E.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anoop Menon",
+       "slug": "anoop-menon"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Anoop Menon",
+       "slug": "anoop-menon"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ninoy Varghese",
+       "slug": "ninoy-varghese"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mahadevan Thampi",
+       "slug": "mahadevan-thampi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Zian Sreekanth",
+       "slug": "zian-sreekanth"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Anoop Menon",
+       "slug": "anoop-menon"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Anoopmenon StoryZ",
+     "slug": "anoopmenon-storyz",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 884679,
+    "totalShows": 221,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 201995,
+     "date": "2022-07-15"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 416823,
+     "date": "2022-07-17"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-07-15"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 162,
+    "title": "Padma",
+    "img": "https://image.tmdb.org/t/p/original/ee7MjReehEUfLIOBbT6ytvXACbs.jpg",
+    "released": "2022-07-15",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13990248",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Drama, Family",
+    "plot": "Padmaja Cheroth and psychologist Ravi are like chalk and cheese, but have a happy, married life. Will their wedded bliss stand the test of time?",
+    "released": "2022-07-15",
+    "director": "Anoop Menon",
+    "directorSlug": "anoop-menon",
+    "actors": [
+     "Anoop Menon",
+     "Surabhi Lakshmi",
+     "Shankar Ramakrishnan",
+     "Mareena Michael",
+     "Shruthi Rajanikanth",
+     "Maala Parvathi"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.9",
+      "votes": 405,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:19.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Anoop Menon",
+     "character": "Dr. Ravi",
+     "slug": "anoop-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bQTaoXeuG0Mf3GbwATsfdNFwzKN.jpg"
+    },
+    {
+     "name": "Surabhi Lakshmi",
+     "character": "Padma",
+     "slug": "surabhi-lakshmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wiUgB299IuWJ0FFJLo1IPMJ1BAD.jpg"
+    },
+    {
+     "name": "Shankar Ramakrishnan",
+     "character": null,
+     "slug": "shankar-ramakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6FPuMP7IkWL18nXsPlI6IXiL1Gb.jpg"
+    },
+    {
+     "name": "Mareena Michael",
+     "character": null,
+     "slug": "mareena-michael",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zBtoWhF9bFAILmEaIC8TWA7ucxL.jpg"
+    },
+    {
+     "name": "Shruthi Rajanikanth",
+     "character": null,
+     "slug": "shruthi-rajanikanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7eixxlqu4pLvYw3AF6eUwVVbW0e.jpg"
+    },
+    {
+     "name": "Maala Parvathi",
+     "character": null,
+     "slug": "maala-parvathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l0iW1LfapmsXcvJaLPuwb68L5Ll.jpg"
+    },
+    {
+     "name": "Dinesh Prabhakar",
+     "character": null,
+     "slug": "dinesh-prabhakar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qI85omROARp5QsUlKevz6i8kvD0.jpg"
+    },
+    {
+     "name": "Ambi Neenasam",
+     "character": "Abdu",
+     "slug": "ambi-neenasam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5dfQVPkGs9Axoh9A5DKeOjc9l7E.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anoop Menon",
+       "slug": "anoop-menon"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Anoop Menon",
+       "slug": "anoop-menon"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ninoy Varghese",
+       "slug": "ninoy-varghese"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mahadevan Thampi",
+       "slug": "mahadevan-thampi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Zian Sreekanth",
+       "slug": "zian-sreekanth"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Anoop Menon",
+       "slug": "anoop-menon"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Anoopmenon StoryZ",
+     "slug": "anoopmenon-storyz",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-07-15",
+     "gross": 884679,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 221,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 884679,
+    "totalShows": 221,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 884679
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 884679
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-07-15"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 162,
+    "title": "Padma",
+    "img": "https://image.tmdb.org/t/p/original/ee7MjReehEUfLIOBbT6ytvXACbs.jpg",
+    "released": "2022-07-15",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13990248",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Drama, Family",
+    "plot": "Padmaja Cheroth and psychologist Ravi are like chalk and cheese, but have a happy, married life. Will their wedded bliss stand the test of time?",
+    "released": "2022-07-15",
+    "director": "Anoop Menon",
+    "directorSlug": "anoop-menon",
+    "actors": [
+     "Anoop Menon",
+     "Surabhi Lakshmi",
+     "Shankar Ramakrishnan",
+     "Mareena Michael",
+     "Shruthi Rajanikanth",
+     "Maala Parvathi"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.9",
+      "votes": 405,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:19.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Anoop Menon",
+     "character": "Dr. Ravi",
+     "slug": "anoop-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bQTaoXeuG0Mf3GbwATsfdNFwzKN.jpg"
+    },
+    {
+     "name": "Surabhi Lakshmi",
+     "character": "Padma",
+     "slug": "surabhi-lakshmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wiUgB299IuWJ0FFJLo1IPMJ1BAD.jpg"
+    },
+    {
+     "name": "Shankar Ramakrishnan",
+     "character": null,
+     "slug": "shankar-ramakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6FPuMP7IkWL18nXsPlI6IXiL1Gb.jpg"
+    },
+    {
+     "name": "Mareena Michael",
+     "character": null,
+     "slug": "mareena-michael",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zBtoWhF9bFAILmEaIC8TWA7ucxL.jpg"
+    },
+    {
+     "name": "Shruthi Rajanikanth",
+     "character": null,
+     "slug": "shruthi-rajanikanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7eixxlqu4pLvYw3AF6eUwVVbW0e.jpg"
+    },
+    {
+     "name": "Maala Parvathi",
+     "character": null,
+     "slug": "maala-parvathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l0iW1LfapmsXcvJaLPuwb68L5Ll.jpg"
+    },
+    {
+     "name": "Dinesh Prabhakar",
+     "character": null,
+     "slug": "dinesh-prabhakar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qI85omROARp5QsUlKevz6i8kvD0.jpg"
+    },
+    {
+     "name": "Ambi Neenasam",
+     "character": "Abdu",
+     "slug": "ambi-neenasam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5dfQVPkGs9Axoh9A5DKeOjc9l7E.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anoop Menon",
+       "slug": "anoop-menon"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Anoop Menon",
+       "slug": "anoop-menon"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ninoy Varghese",
+       "slug": "ninoy-varghese"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mahadevan Thampi",
+       "slug": "mahadevan-thampi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Zian Sreekanth",
+       "slug": "zian-sreekanth"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Anoop Menon",
+       "slug": "anoop-menon"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Anoopmenon StoryZ",
+     "slug": "anoopmenon-storyz",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 884679,
+    "totalShows": 221,
+    "totalDays": 10,
+    "openingDay": {
+     "day": 1,
+     "gross": 413250,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 413250,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-07-15"
+   }
+  }
+ }
+}

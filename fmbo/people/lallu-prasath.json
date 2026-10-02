@@ -1,0 +1,48 @@
+{
+ "slug": "lallu-prasath",
+ "name": "Lallu Prasath",
+ "source_url": "https://fridaymatinee.in/people/lallu-prasath",
+ "captured_at": "2026-10-01T23:57:55.104007+00:00",
+ "person": {
+  "name": "Lallu Prasath",
+  "photo": "https://image.tmdb.org/t/p/w185/f6TVtddrbG1Qk1brFASrpPehpQh.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 21,
+   "movie_slug": "kaithi",
+   "title": "Kaithi",
+   "year": 2019,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 589,
+   "movie_slug": "amaran",
+   "title": "Amaran",
+   "year": 2024,
+   "kerala_gross": "₹9.7 Cr"
+  },
+  {
+   "movie_id": 339,
+   "movie_slug": "madraskaaran",
+   "title": "Madraskaaran",
+   "year": 2025,
+   "kerala_gross": "₹1.5L"
+  },
+  {
+   "movie_id": 1268,
+   "movie_slug": "om-chapter-1-udhiram-the-blood-wood",
+   "title": "OM Chapter 1: Udhiram - The Blood Wood",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

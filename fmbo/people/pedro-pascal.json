@@ -1,0 +1,69 @@
+{
+ "slug": "pedro-pascal",
+ "name": "Pedro Pascal",
+ "source_url": "https://fridaymatinee.in/people/pedro-pascal",
+ "captured_at": "2026-10-02T01:17:14.685827+00:00",
+ "person": {
+  "name": "Pedro Pascal",
+  "photo": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 7
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 67,
+   "movie_slug": "wonder-woman-1984",
+   "title": "Wonder Woman 1984",
+   "year": 2021,
+   "kerala_gross": "₹1.9L"
+  },
+  {
+   "movie_id": 317,
+   "movie_slug": "the-wild-robot",
+   "title": "The Wild Robot",
+   "year": 2024,
+   "kerala_gross": "₹44.0L"
+  },
+  {
+   "movie_id": 568,
+   "movie_slug": "gladiator-ii",
+   "title": "Gladiator II",
+   "year": 2024,
+   "kerala_gross": "₹32.0L"
+  },
+  {
+   "movie_id": 726,
+   "movie_slug": "materialists",
+   "title": "Materialists",
+   "year": 2025,
+   "kerala_gross": "₹4.6L"
+  },
+  {
+   "movie_id": 734,
+   "movie_slug": "the-fantastic-four-first-steps",
+   "title": "The Fantastic Four: First Steps",
+   "year": 2025,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 1114,
+   "movie_slug": "star-wars-the-mandalorian-and-grogu",
+   "title": "Star Wars: The Mandalorian and Grogu",
+   "year": 2026,
+   "kerala_gross": "₹16.9L"
+  },
+  {
+   "movie_id": 794,
+   "movie_slug": "avengers-doomsday",
+   "title": "Avengers: Doomsday",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

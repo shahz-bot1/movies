@@ -1,0 +1,961 @@
+{
+ "id": 1321,
+ "slug": "runner",
+ "source_url": "https://fridaymatinee.in/boxoffice/runner-1321",
+ "captured_at": "2026-10-01T19:58:53.723199+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1321,
+    "title": "Runner",
+    "img": "https://image.tmdb.org/t/p/original/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+    "released": "2026-09-25",
+    "language": "English",
+    "live": "on",
+    "pretrack": "off",
+    "imdbId": "tt31349844",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "97 min",
+    "genre": "Action, Comedy, Thriller",
+    "plot": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+    "released": "2026-09-07",
+    "director": "Scott Waugh",
+    "directorSlug": "scott-waugh",
+    "actors": [
+     "Alan Ritchson",
+     "Owen Wilson",
+     "Rodrigo Santoro",
+     "Leila George",
+     "Kate Box",
+     "Adriana Barraza"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 6030,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.2",
+      "votes": 212,
+      "updatedAt": "2026-10-01T13:10:01.000Z"
+     },
+     "rt": null,
+     "metascore": 55,
+     "updatedAt": "2026-10-01T13:10:01.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Alan Ritchson",
+     "character": "Hank Malone",
+     "slug": "alan-ritchson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+    },
+    {
+     "name": "Owen Wilson",
+     "character": "Ben Bishop",
+     "slug": "owen-wilson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
+    },
+    {
+     "name": "Rodrigo Santoro",
+     "character": "Damian Zaldivar",
+     "slug": "rodrigo-santoro",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg"
+    },
+    {
+     "name": "Leila George",
+     "character": "Kate Baker",
+     "slug": "leila-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s46DMiPDGSMq6qad5TL8mG5qfdy.jpg"
+    },
+    {
+     "name": "Kate Box",
+     "character": "Dr. Ainsley",
+     "slug": "kate-box",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zv4NckgNBn6Tc2xhCdNFFx9o9EZ.jpg"
+    },
+    {
+     "name": "Adriana Barraza",
+     "character": "Donna",
+     "slug": "adriana-barraza",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kfww4YbO9J2HpCldEqyyhQugwy5.jpg"
+    },
+    {
+     "name": "Peta Sergeant",
+     "character": "Nurse Julie",
+     "slug": "peta-sergeant",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/owkSN29t7P6hpazZKsUMt7FybrP.jpg"
+    },
+    {
+     "name": "Scarlett Crabtree",
+     "character": "Ellie Baker",
+     "slug": "scarlett-crabtree",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3377x3ADVhE5kuPV7JpCByqvF5r.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Scott Waugh",
+       "slug": "scott-waugh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Tommy White",
+       "slug": "tommy-white"
+      },
+      {
+       "name": "Miles Hubley",
+       "slug": "miles-hubley"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Charlie Nguyen Kim",
+       "slug": "charlie-nguyen-kim"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Lorenzo Senatore",
+       "slug": "lorenzo-senatore"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Matt Villa",
+       "slug": "matt-villa"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Todd Garner",
+       "slug": "todd-garner"
+      },
+      {
+       "name": "Alan Ritchson",
+       "slug": "alan-ritchson"
+      },
+      {
+       "name": "Mark Fasano",
+       "slug": "mark-fasano"
+      },
+      {
+       "name": "Jeffrey Greenstein",
+       "slug": "jeffrey-greenstein"
+      },
+      {
+       "name": "Deborah Glover",
+       "slug": "deborah-glover"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Broken Road Productions",
+     "slug": "broken-road-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/f8NwLg72BByt3eav7lX1lcJfe60.png"
+    },
+    {
+     "name": "AllyCat Entertainment",
+     "slug": "allycat-entertainment",
+     "logo": null
+    },
+    {
+     "name": "Nickel City Pictures",
+     "slug": "nickel-city-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/27Od860h9Xc7gDS3Pph6yRlUyBI.png"
+    },
+    {
+     "name": "A Higher Standard",
+     "slug": "a-higher-standard",
+     "logo": "https://image.tmdb.org/t/p/w185/aj3EiCWM5jKxDJGZh34KV6L9HcE.png"
+    },
+    {
+     "name": "G2 Dispatch",
+     "slug": "g2-dispatch",
+     "logo": null
+    },
+    {
+     "name": "Angel Studios",
+     "slug": "angel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/pDh2WDdOajWST9jlkFo6TOvETnB.png"
+    },
+    {
+     "name": "International Media Funds Management",
+     "slug": "international-media-funds-management",
+     "logo": "https://image.tmdb.org/t/p/w185/9IYQkwgJlOzBiWANI6krDsE3QvR.png"
+    },
+    {
+     "name": "Bright White Light",
+     "slug": "bright-white-light",
+     "logo": "https://image.tmdb.org/t/p/w185/lvqsgXsWHX4r5jBOuvbNCpZCnBf.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-25": [
+     {
+      "id": 1224,
+      "title": "Primetime",
+      "img": "https://image.tmdb.org/t/p/original/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
+     },
+     {
+      "id": 1258,
+      "title": "Dhoomakethu",
+      "img": "https://image.tmdb.org/t/p/original/sxXFjKj3tFKcSJ9VtxRaDc3cbiw.jpg"
+     },
+     {
+      "id": 1288,
+      "title": "Avengers Endgame: Encore",
+      "img": "https://image.tmdb.org/t/p/original/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+     }
+    ],
+    "2026-10-01": [
+     {
+      "id": 1330,
+      "title": "Baththa",
+      "img": "https://m.media-amazon.com/images/M/MV5BNjRmZGFjMDctMzRiNS00MmIwLTliYmMtODY5ZGFkOTE5YmFkXkEyXkFqcGc@._V1_.jpg"
+     },
+     {
+      "id": 1331,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "img": "https://image.tmdb.org/t/p/original/wdWQA1IVCYiTTEZMSnWl1tzhBd3.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-09-25",
+     "gross": 13335,
+     "sold": 62,
+     "unsold": 378,
+     "shows": 3,
+     "occ": 14.09,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 13335,
+     "lastUpdatedAt": "2026-09-25 23:43:01"
+    },
+    {
+     "label": "2026-09-26",
+     "gross": 22455,
+     "sold": 103,
+     "unsold": 457,
+     "shows": 4,
+     "occ": 18.39,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 35790,
+     "lastUpdatedAt": "2026-09-26 18:08:01"
+    },
+    {
+     "label": "2026-09-27",
+     "gross": 27200,
+     "sold": 139,
+     "unsold": 307,
+     "shows": 3,
+     "occ": 31.17,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 62990,
+     "lastUpdatedAt": "2026-09-27 18:08:01"
+    },
+    {
+     "label": "2026-09-28",
+     "gross": 6495,
+     "sold": 34,
+     "unsold": 202,
+     "shows": 2,
+     "occ": 14.41,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 69485,
+     "lastUpdatedAt": "2026-09-28 18:08:01"
+    },
+    {
+     "label": "2026-09-29",
+     "gross": 10792,
+     "sold": 76,
+     "unsold": 365,
+     "shows": 3,
+     "occ": 17.23,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 80277,
+     "lastUpdatedAt": "2026-09-29 20:08:01"
+    },
+    {
+     "label": "2026-09-30",
+     "gross": 7130,
+     "sold": 30,
+     "unsold": 296,
+     "shows": 2,
+     "occ": 9.2,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 87407,
+     "lastUpdatedAt": "2026-09-30 20:08:01"
+    },
+    {
+     "label": "2026-10-01",
+     "gross": 3875,
+     "sold": 21,
+     "unsold": 500,
+     "shows": 3,
+     "occ": 4.03,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 91282,
+     "lastUpdatedAt": "2026-10-01 18:08:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 91282,
+    "totalShows": 20,
+    "totalSeats": 2970,
+    "totalSold": 465,
+    "avgOcc": "15.7",
+    "totalDays": 7,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 3,
+     "gross": 27200,
+     "date": "2026-09-27"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 13335,
+     "date": "2026-09-25"
+    },
+    "chartPosition": null
+   },
+   "_tier": "hot",
+   "_hash": "7:3875:91282"
+  },
+  "week": {
+   "movie": {
+    "id": 1321,
+    "title": "Runner",
+    "img": "https://image.tmdb.org/t/p/original/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+    "released": "2026-09-25",
+    "language": "English",
+    "live": "on",
+    "pretrack": "off",
+    "imdbId": "tt31349844",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "97 min",
+    "genre": "Action, Comedy, Thriller",
+    "plot": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+    "released": "2026-09-07",
+    "director": "Scott Waugh",
+    "directorSlug": "scott-waugh",
+    "actors": [
+     "Alan Ritchson",
+     "Owen Wilson",
+     "Rodrigo Santoro",
+     "Leila George",
+     "Kate Box",
+     "Adriana Barraza"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 6030,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.2",
+      "votes": 212,
+      "updatedAt": "2026-10-01T13:10:01.000Z"
+     },
+     "rt": null,
+     "metascore": 55,
+     "updatedAt": "2026-10-01T13:10:01.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Alan Ritchson",
+     "character": "Hank Malone",
+     "slug": "alan-ritchson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+    },
+    {
+     "name": "Owen Wilson",
+     "character": "Ben Bishop",
+     "slug": "owen-wilson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
+    },
+    {
+     "name": "Rodrigo Santoro",
+     "character": "Damian Zaldivar",
+     "slug": "rodrigo-santoro",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg"
+    },
+    {
+     "name": "Leila George",
+     "character": "Kate Baker",
+     "slug": "leila-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s46DMiPDGSMq6qad5TL8mG5qfdy.jpg"
+    },
+    {
+     "name": "Kate Box",
+     "character": "Dr. Ainsley",
+     "slug": "kate-box",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zv4NckgNBn6Tc2xhCdNFFx9o9EZ.jpg"
+    },
+    {
+     "name": "Adriana Barraza",
+     "character": "Donna",
+     "slug": "adriana-barraza",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kfww4YbO9J2HpCldEqyyhQugwy5.jpg"
+    },
+    {
+     "name": "Peta Sergeant",
+     "character": "Nurse Julie",
+     "slug": "peta-sergeant",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/owkSN29t7P6hpazZKsUMt7FybrP.jpg"
+    },
+    {
+     "name": "Scarlett Crabtree",
+     "character": "Ellie Baker",
+     "slug": "scarlett-crabtree",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3377x3ADVhE5kuPV7JpCByqvF5r.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Scott Waugh",
+       "slug": "scott-waugh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Tommy White",
+       "slug": "tommy-white"
+      },
+      {
+       "name": "Miles Hubley",
+       "slug": "miles-hubley"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Charlie Nguyen Kim",
+       "slug": "charlie-nguyen-kim"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Lorenzo Senatore",
+       "slug": "lorenzo-senatore"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Matt Villa",
+       "slug": "matt-villa"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Todd Garner",
+       "slug": "todd-garner"
+      },
+      {
+       "name": "Alan Ritchson",
+       "slug": "alan-ritchson"
+      },
+      {
+       "name": "Mark Fasano",
+       "slug": "mark-fasano"
+      },
+      {
+       "name": "Jeffrey Greenstein",
+       "slug": "jeffrey-greenstein"
+      },
+      {
+       "name": "Deborah Glover",
+       "slug": "deborah-glover"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Broken Road Productions",
+     "slug": "broken-road-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/f8NwLg72BByt3eav7lX1lcJfe60.png"
+    },
+    {
+     "name": "AllyCat Entertainment",
+     "slug": "allycat-entertainment",
+     "logo": null
+    },
+    {
+     "name": "Nickel City Pictures",
+     "slug": "nickel-city-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/27Od860h9Xc7gDS3Pph6yRlUyBI.png"
+    },
+    {
+     "name": "A Higher Standard",
+     "slug": "a-higher-standard",
+     "logo": "https://image.tmdb.org/t/p/w185/aj3EiCWM5jKxDJGZh34KV6L9HcE.png"
+    },
+    {
+     "name": "G2 Dispatch",
+     "slug": "g2-dispatch",
+     "logo": null
+    },
+    {
+     "name": "Angel Studios",
+     "slug": "angel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/pDh2WDdOajWST9jlkFo6TOvETnB.png"
+    },
+    {
+     "name": "International Media Funds Management",
+     "slug": "international-media-funds-management",
+     "logo": "https://image.tmdb.org/t/p/w185/9IYQkwgJlOzBiWANI6krDsE3QvR.png"
+    },
+    {
+     "name": "Bright White Light",
+     "slug": "bright-white-light",
+     "logo": "https://image.tmdb.org/t/p/w185/lvqsgXsWHX4r5jBOuvbNCpZCnBf.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-25": [
+     {
+      "id": 1224,
+      "title": "Primetime",
+      "img": "https://image.tmdb.org/t/p/original/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
+     },
+     {
+      "id": 1258,
+      "title": "Dhoomakethu",
+      "img": "https://image.tmdb.org/t/p/original/sxXFjKj3tFKcSJ9VtxRaDc3cbiw.jpg"
+     },
+     {
+      "id": 1288,
+      "title": "Avengers Endgame: Encore",
+      "img": "https://image.tmdb.org/t/p/original/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+     }
+    ],
+    "2026-10-01": [
+     {
+      "id": 1330,
+      "title": "Baththa",
+      "img": "https://m.media-amazon.com/images/M/MV5BNjRmZGFjMDctMzRiNS00MmIwLTliYmMtODY5ZGFkOTE5YmFkXkEyXkFqcGc@._V1_.jpg"
+     },
+     {
+      "id": 1331,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "img": "https://image.tmdb.org/t/p/original/wdWQA1IVCYiTTEZMSnWl1tzhBd3.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-09-25",
+     "gross": 91282,
+     "sold": 465,
+     "unsold": 2505,
+     "shows": 20,
+     "occ": 15.66,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 91282,
+     "lastUpdatedAt": "2026-10-01 18:08:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 91282,
+    "totalShows": 20,
+    "totalSeats": 2970,
+    "totalSold": 465,
+    "avgOcc": "15.7",
+    "totalDays": 1,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 91282
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 91282
+    },
+    "chartPosition": null
+   },
+   "_tier": "hot",
+   "_hash": "1:91282:91282"
+  },
+  "district": {
+   "movie": {
+    "id": 1321,
+    "title": "Runner",
+    "img": "https://image.tmdb.org/t/p/original/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+    "released": "2026-09-25",
+    "language": "English",
+    "live": "on",
+    "pretrack": "off",
+    "imdbId": "tt31349844",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "97 min",
+    "genre": "Action, Comedy, Thriller",
+    "plot": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+    "released": "2026-09-07",
+    "director": "Scott Waugh",
+    "directorSlug": "scott-waugh",
+    "actors": [
+     "Alan Ritchson",
+     "Owen Wilson",
+     "Rodrigo Santoro",
+     "Leila George",
+     "Kate Box",
+     "Adriana Barraza"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 6030,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.2",
+      "votes": 212,
+      "updatedAt": "2026-10-01T13:10:01.000Z"
+     },
+     "rt": null,
+     "metascore": 55,
+     "updatedAt": "2026-10-01T13:10:01.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Alan Ritchson",
+     "character": "Hank Malone",
+     "slug": "alan-ritchson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+    },
+    {
+     "name": "Owen Wilson",
+     "character": "Ben Bishop",
+     "slug": "owen-wilson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
+    },
+    {
+     "name": "Rodrigo Santoro",
+     "character": "Damian Zaldivar",
+     "slug": "rodrigo-santoro",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg"
+    },
+    {
+     "name": "Leila George",
+     "character": "Kate Baker",
+     "slug": "leila-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s46DMiPDGSMq6qad5TL8mG5qfdy.jpg"
+    },
+    {
+     "name": "Kate Box",
+     "character": "Dr. Ainsley",
+     "slug": "kate-box",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zv4NckgNBn6Tc2xhCdNFFx9o9EZ.jpg"
+    },
+    {
+     "name": "Adriana Barraza",
+     "character": "Donna",
+     "slug": "adriana-barraza",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kfww4YbO9J2HpCldEqyyhQugwy5.jpg"
+    },
+    {
+     "name": "Peta Sergeant",
+     "character": "Nurse Julie",
+     "slug": "peta-sergeant",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/owkSN29t7P6hpazZKsUMt7FybrP.jpg"
+    },
+    {
+     "name": "Scarlett Crabtree",
+     "character": "Ellie Baker",
+     "slug": "scarlett-crabtree",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3377x3ADVhE5kuPV7JpCByqvF5r.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Scott Waugh",
+       "slug": "scott-waugh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Tommy White",
+       "slug": "tommy-white"
+      },
+      {
+       "name": "Miles Hubley",
+       "slug": "miles-hubley"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Charlie Nguyen Kim",
+       "slug": "charlie-nguyen-kim"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Lorenzo Senatore",
+       "slug": "lorenzo-senatore"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Matt Villa",
+       "slug": "matt-villa"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Todd Garner",
+       "slug": "todd-garner"
+      },
+      {
+       "name": "Alan Ritchson",
+       "slug": "alan-ritchson"
+      },
+      {
+       "name": "Mark Fasano",
+       "slug": "mark-fasano"
+      },
+      {
+       "name": "Jeffrey Greenstein",
+       "slug": "jeffrey-greenstein"
+      },
+      {
+       "name": "Deborah Glover",
+       "slug": "deborah-glover"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Broken Road Productions",
+     "slug": "broken-road-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/f8NwLg72BByt3eav7lX1lcJfe60.png"
+    },
+    {
+     "name": "AllyCat Entertainment",
+     "slug": "allycat-entertainment",
+     "logo": null
+    },
+    {
+     "name": "Nickel City Pictures",
+     "slug": "nickel-city-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/27Od860h9Xc7gDS3Pph6yRlUyBI.png"
+    },
+    {
+     "name": "A Higher Standard",
+     "slug": "a-higher-standard",
+     "logo": "https://image.tmdb.org/t/p/w185/aj3EiCWM5jKxDJGZh34KV6L9HcE.png"
+    },
+    {
+     "name": "G2 Dispatch",
+     "slug": "g2-dispatch",
+     "logo": null
+    },
+    {
+     "name": "Angel Studios",
+     "slug": "angel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/pDh2WDdOajWST9jlkFo6TOvETnB.png"
+    },
+    {
+     "name": "International Media Funds Management",
+     "slug": "international-media-funds-management",
+     "logo": "https://image.tmdb.org/t/p/w185/9IYQkwgJlOzBiWANI6krDsE3QvR.png"
+    },
+    {
+     "name": "Bright White Light",
+     "slug": "bright-white-light",
+     "logo": "https://image.tmdb.org/t/p/w185/lvqsgXsWHX4r5jBOuvbNCpZCnBf.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-25": [
+     {
+      "id": 1224,
+      "title": "Primetime",
+      "img": "https://image.tmdb.org/t/p/original/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
+     },
+     {
+      "id": 1258,
+      "title": "Dhoomakethu",
+      "img": "https://image.tmdb.org/t/p/original/sxXFjKj3tFKcSJ9VtxRaDc3cbiw.jpg"
+     },
+     {
+      "id": 1288,
+      "title": "Avengers Endgame: Encore",
+      "img": "https://image.tmdb.org/t/p/original/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+     }
+    ],
+    "2026-10-01": [
+     {
+      "id": 1330,
+      "title": "Baththa",
+      "img": "https://m.media-amazon.com/images/M/MV5BNjRmZGFjMDctMzRiNS00MmIwLTliYmMtODY5ZGFkOTE5YmFkXkEyXkFqcGc@._V1_.jpg"
+     },
+     {
+      "id": 1331,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "img": "https://image.tmdb.org/t/p/original/wdWQA1IVCYiTTEZMSnWl1tzhBd3.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 63252,
+     "sold": 337,
+     "unsold": 1779,
+     "shows": 13,
+     "occ": 15.93,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 63252,
+     "lastUpdatedAt": "2026-10-01 16:13:01"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 28030,
+     "sold": 128,
+     "unsold": 726,
+     "shows": 7,
+     "occ": 14.99,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 91282,
+     "lastUpdatedAt": "2026-10-01 18:08:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 91282,
+    "totalShows": 20,
+    "totalSeats": 2970,
+    "totalSold": 465,
+    "avgOcc": "15.7",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 63252,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 63252,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "hot",
+   "_hash": "2:28030:91282"
+  }
+ }
+}

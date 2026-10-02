@@ -1,0 +1,48 @@
+{
+ "slug": "vikram-montrose",
+ "name": "Vikram Montrose",
+ "source_url": "https://fridaymatinee.in/people/vikram-montrose",
+ "captured_at": "2026-10-02T11:45:54.698050+00:00",
+ "person": {
+  "name": "Vikram Montrose",
+  "photo": null,
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 183,
+   "movie_slug": "liger",
+   "title": "Liger",
+   "year": 2022,
+   "kerala_gross": "₹33.1L"
+  },
+  {
+   "movie_id": 837,
+   "movie_slug": "jolly-llb-3",
+   "title": "Jolly LLB 3",
+   "year": 2025,
+   "kerala_gross": "₹19.7L"
+  },
+  {
+   "movie_id": 976,
+   "movie_slug": "rahu-ketu",
+   "title": "Rahu Ketu",
+   "year": 2026,
+   "kerala_gross": "₹63K"
+  },
+  {
+   "movie_id": 1181,
+   "movie_slug": "welcome-to-the-jungle",
+   "title": "Welcome to the Jungle",
+   "year": 2026,
+   "kerala_gross": "₹12.9L"
+  }
+ ]
+}

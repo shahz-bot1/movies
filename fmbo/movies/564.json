@@ -1,0 +1,681 @@
+{
+ "id": 564,
+ "slug": "joker-folie-a-deux",
+ "source_url": "https://fridaymatinee.in/boxoffice/joker-folie-a-deux-564",
+ "captured_at": "2026-10-01T18:15:41.478214+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 564,
+    "title": "Joker: Folie A Deux",
+    "img": "https://image.tmdb.org/t/p/original/byDXrm0pY6vSKIKyuKWK5vWz62G.jpg",
+    "released": "2024-10-02",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11315808",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "138 min",
+    "genre": "Drama, Crime, Thriller",
+    "plot": "While struggling with his dual identity, Arthur Fleck not only stumbles upon true love, but also finds the music that's always been inside him.",
+    "released": "2024-10-01",
+    "director": "Todd Phillips",
+    "directorSlug": "todd-phillips",
+    "actors": [
+     "Joaquin Phoenix",
+     "Lady Gaga",
+     "Brendan Gleeson",
+     "Catherine Keener",
+     "Zazie Beetz",
+     "Steve Coogan"
+    ],
+    "awards": "7 wins u0026 19 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.2",
+      "votes": 188835,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.4",
+      "votes": 3070,
+      "updatedAt": "2026-09-24T19:10:44.000Z"
+     },
+     "rt": "31%",
+     "metascore": 45,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Joaquin Phoenix",
+     "character": "Arthur Fleck",
+     "slug": "joaquin-phoenix",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+    },
+    {
+     "name": "Lady Gaga",
+     "character": "Lee Quinzel",
+     "slug": "lady-gaga",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9Y4Pz7AEXhB9qNar2tMsx5EVXML.jpg"
+    },
+    {
+     "name": "Brendan Gleeson",
+     "character": "Jackie Sullivan",
+     "slug": "brendan-gleeson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+    },
+    {
+     "name": "Catherine Keener",
+     "character": "Maryanne Stewart",
+     "slug": "catherine-keener",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+    },
+    {
+     "name": "Zazie Beetz",
+     "character": "Sophie Dumond",
+     "slug": "zazie-beetz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+    },
+    {
+     "name": "Steve Coogan",
+     "character": "Paddy Meyers",
+     "slug": "steve-coogan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg"
+    },
+    {
+     "name": "Harry Lawtey",
+     "character": "Harvey Dent",
+     "slug": "harry-lawtey",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l2qFs3TntkZD0G3zFEd1o2DXSWX.jpg"
+    },
+    {
+     "name": "Leigh Gill",
+     "character": "Gary Puddles",
+     "slug": "leigh-gill",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ke4D7YZcH2uVPZGgPHJPrR7yywn.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Todd Phillips",
+       "slug": "todd-phillips"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Scott Silver",
+       "slug": "scott-silver"
+      },
+      {
+       "name": "Todd Phillips",
+       "slug": "todd-phillips"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hildur Guðnadóttir",
+       "slug": "hildur-gu-nadottir"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Lawrence Sher",
+       "slug": "lawrence-sher"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jeff Groth",
+       "slug": "jeff-groth"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Joseph Garner",
+       "slug": "joseph-garner"
+      },
+      {
+       "name": "Emma Tillinger Koskoff",
+       "slug": "emma-tillinger-koskoff"
+      },
+      {
+       "name": "Todd Phillips",
+       "slug": "todd-phillips"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "Joint Effort",
+     "slug": "joint-effort",
+     "logo": null
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-10-29",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5902610.4,
+    "totalShows": 1432,
+    "totalDays": 10,
+    "openingDay": {
+     "day": 1,
+     "gross": 2635184.8,
+     "date": "2024-10-02"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2635184.8,
+     "date": "2024-10-02"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-10-02"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 564,
+    "title": "Joker: Folie A Deux",
+    "img": "https://image.tmdb.org/t/p/original/byDXrm0pY6vSKIKyuKWK5vWz62G.jpg",
+    "released": "2024-10-02",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11315808",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "138 min",
+    "genre": "Drama, Crime, Thriller",
+    "plot": "While struggling with his dual identity, Arthur Fleck not only stumbles upon true love, but also finds the music that's always been inside him.",
+    "released": "2024-10-01",
+    "director": "Todd Phillips",
+    "directorSlug": "todd-phillips",
+    "actors": [
+     "Joaquin Phoenix",
+     "Lady Gaga",
+     "Brendan Gleeson",
+     "Catherine Keener",
+     "Zazie Beetz",
+     "Steve Coogan"
+    ],
+    "awards": "7 wins u0026 19 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.2",
+      "votes": 188835,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.4",
+      "votes": 3070,
+      "updatedAt": "2026-09-24T19:10:44.000Z"
+     },
+     "rt": "31%",
+     "metascore": 45,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Joaquin Phoenix",
+     "character": "Arthur Fleck",
+     "slug": "joaquin-phoenix",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+    },
+    {
+     "name": "Lady Gaga",
+     "character": "Lee Quinzel",
+     "slug": "lady-gaga",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9Y4Pz7AEXhB9qNar2tMsx5EVXML.jpg"
+    },
+    {
+     "name": "Brendan Gleeson",
+     "character": "Jackie Sullivan",
+     "slug": "brendan-gleeson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+    },
+    {
+     "name": "Catherine Keener",
+     "character": "Maryanne Stewart",
+     "slug": "catherine-keener",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+    },
+    {
+     "name": "Zazie Beetz",
+     "character": "Sophie Dumond",
+     "slug": "zazie-beetz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+    },
+    {
+     "name": "Steve Coogan",
+     "character": "Paddy Meyers",
+     "slug": "steve-coogan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg"
+    },
+    {
+     "name": "Harry Lawtey",
+     "character": "Harvey Dent",
+     "slug": "harry-lawtey",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l2qFs3TntkZD0G3zFEd1o2DXSWX.jpg"
+    },
+    {
+     "name": "Leigh Gill",
+     "character": "Gary Puddles",
+     "slug": "leigh-gill",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ke4D7YZcH2uVPZGgPHJPrR7yywn.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Todd Phillips",
+       "slug": "todd-phillips"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Scott Silver",
+       "slug": "scott-silver"
+      },
+      {
+       "name": "Todd Phillips",
+       "slug": "todd-phillips"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hildur Guðnadóttir",
+       "slug": "hildur-gu-nadottir"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Lawrence Sher",
+       "slug": "lawrence-sher"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jeff Groth",
+       "slug": "jeff-groth"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Joseph Garner",
+       "slug": "joseph-garner"
+      },
+      {
+       "name": "Emma Tillinger Koskoff",
+       "slug": "emma-tillinger-koskoff"
+      },
+      {
+       "name": "Todd Phillips",
+       "slug": "todd-phillips"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "Joint Effort",
+     "slug": "joint-effort",
+     "logo": null
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-10-29",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-10-02",
+     "gross": 5385149.4,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1342,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-10-09",
+     "gross": 517461,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 90,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5902610.4,
+    "totalShows": 1432,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 5385149.4
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5385149.4
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-10-02"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 564,
+    "title": "Joker: Folie A Deux",
+    "img": "https://image.tmdb.org/t/p/original/byDXrm0pY6vSKIKyuKWK5vWz62G.jpg",
+    "released": "2024-10-02",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11315808",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "138 min",
+    "genre": "Drama, Crime, Thriller",
+    "plot": "While struggling with his dual identity, Arthur Fleck not only stumbles upon true love, but also finds the music that's always been inside him.",
+    "released": "2024-10-01",
+    "director": "Todd Phillips",
+    "directorSlug": "todd-phillips",
+    "actors": [
+     "Joaquin Phoenix",
+     "Lady Gaga",
+     "Brendan Gleeson",
+     "Catherine Keener",
+     "Zazie Beetz",
+     "Steve Coogan"
+    ],
+    "awards": "7 wins u0026 19 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.2",
+      "votes": 188835,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.4",
+      "votes": 3070,
+      "updatedAt": "2026-09-24T19:10:44.000Z"
+     },
+     "rt": "31%",
+     "metascore": 45,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Joaquin Phoenix",
+     "character": "Arthur Fleck",
+     "slug": "joaquin-phoenix",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+    },
+    {
+     "name": "Lady Gaga",
+     "character": "Lee Quinzel",
+     "slug": "lady-gaga",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9Y4Pz7AEXhB9qNar2tMsx5EVXML.jpg"
+    },
+    {
+     "name": "Brendan Gleeson",
+     "character": "Jackie Sullivan",
+     "slug": "brendan-gleeson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+    },
+    {
+     "name": "Catherine Keener",
+     "character": "Maryanne Stewart",
+     "slug": "catherine-keener",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+    },
+    {
+     "name": "Zazie Beetz",
+     "character": "Sophie Dumond",
+     "slug": "zazie-beetz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+    },
+    {
+     "name": "Steve Coogan",
+     "character": "Paddy Meyers",
+     "slug": "steve-coogan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg"
+    },
+    {
+     "name": "Harry Lawtey",
+     "character": "Harvey Dent",
+     "slug": "harry-lawtey",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l2qFs3TntkZD0G3zFEd1o2DXSWX.jpg"
+    },
+    {
+     "name": "Leigh Gill",
+     "character": "Gary Puddles",
+     "slug": "leigh-gill",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ke4D7YZcH2uVPZGgPHJPrR7yywn.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Todd Phillips",
+       "slug": "todd-phillips"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Scott Silver",
+       "slug": "scott-silver"
+      },
+      {
+       "name": "Todd Phillips",
+       "slug": "todd-phillips"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hildur Guðnadóttir",
+       "slug": "hildur-gu-nadottir"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Lawrence Sher",
+       "slug": "lawrence-sher"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jeff Groth",
+       "slug": "jeff-groth"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Joseph Garner",
+       "slug": "joseph-garner"
+      },
+      {
+       "name": "Emma Tillinger Koskoff",
+       "slug": "emma-tillinger-koskoff"
+      },
+      {
+       "name": "Todd Phillips",
+       "slug": "todd-phillips"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "Joint Effort",
+     "slug": "joint-effort",
+     "logo": null
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-10-29",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5902610.4,
+    "totalShows": 1432,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 2410549,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2410549,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-10-02"
+   }
+  }
+ }
+}

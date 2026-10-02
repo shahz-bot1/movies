@@ -1,0 +1,654 @@
+{
+ "id": 87,
+ "slug": "enemy",
+ "source_url": "https://fridaymatinee.in/boxoffice/enemy-87",
+ "captured_at": "2026-10-01T18:00:32.435201+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 87,
+    "title": "Enemy",
+    "img": "https://image.tmdb.org/t/p/original/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
+    "released": "2021-11-04",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13131186",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "159 min",
+    "genre": "Action, Thriller",
+    "plot": "Two childhood friends end up on opposite extremes of morality, and face each other in a good vs evil war.",
+    "released": "2021-11-04",
+    "director": "Anand Shankar",
+    "directorSlug": "anand-shankar",
+    "actors": [
+     "Vishal Krishna",
+     "Arya",
+     "Prakash Raj",
+     "Mamta Mohandas",
+     "Mirnalini Ravi",
+     "Thambi Ramaiah"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 5382,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vishal Krishna",
+     "character": "Chozhan",
+     "slug": "vishal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/39NsHSvIygBnkUpAB4Wx3A9g4GF.jpg"
+    },
+    {
+     "name": "Arya",
+     "character": "Rajiv",
+     "slug": "arya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tX9cHKPa52Iz8M3dvUFW9uqbqUK.jpg"
+    },
+    {
+     "name": "Prakash Raj",
+     "character": "Paarirajan",
+     "slug": "prakash-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg"
+    },
+    {
+     "name": "Mamta Mohandas",
+     "character": "Anisha",
+     "slug": "mamta-mohandas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ce9B8AG0IN77F9GR3b8gj13CP1q.jpg"
+    },
+    {
+     "name": "Mirnalini Ravi",
+     "character": "Ashvitha",
+     "slug": "mirnalini-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xJWqESPs6cshSFeYEK1pSPZIai3.jpg"
+    },
+    {
+     "name": "Thambi Ramaiah",
+     "character": "Risk Ramalingam",
+     "slug": "thambi-ramaiah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/murNGZdySdA7uKgLBeMwOK4wEdg.jpg"
+    },
+    {
+     "name": "Karunakaran",
+     "character": "Babu",
+     "slug": "karunakaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3unnOmeQ0r4GhAY1EDbZaCdt1N.jpg"
+    },
+    {
+     "name": "Malavika Avinash",
+     "character": "Minister of External Affairs",
+     "slug": "malavika-avinash",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1D3J1HIRP4gm0bYzrOdF2AmreV5.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anand Shankar",
+       "slug": "anand-shankar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Anand Shankar",
+       "slug": "anand-shankar"
+      },
+      {
+       "name": "S. Ramakrishnan",
+       "slug": "s-ramakrishnan"
+      },
+      {
+       "name": "Shan Karuppusamy",
+       "slug": "shan-karuppusamy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      },
+      {
+       "name": "S. Thaman",
+       "slug": "s-thaman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "R. D. Rajasekhar",
+       "slug": "r-d-rajasekhar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Raymond Derrick Crasta",
+       "slug": "raymond-derrick-crasta"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "S. Vinoth Kumar",
+       "slug": "s-vinoth-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mini Studios",
+     "slug": "mini-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/9OTmYAzW2URLSE76T7y8OVLqqBT.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3902868,
+    "totalShows": 1347,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 783473,
+     "date": "2021-11-04"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 783473,
+     "date": "2021-11-04"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 45,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-11-04"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 87,
+    "title": "Enemy",
+    "img": "https://image.tmdb.org/t/p/original/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
+    "released": "2021-11-04",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13131186",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "159 min",
+    "genre": "Action, Thriller",
+    "plot": "Two childhood friends end up on opposite extremes of morality, and face each other in a good vs evil war.",
+    "released": "2021-11-04",
+    "director": "Anand Shankar",
+    "directorSlug": "anand-shankar",
+    "actors": [
+     "Vishal Krishna",
+     "Arya",
+     "Prakash Raj",
+     "Mamta Mohandas",
+     "Mirnalini Ravi",
+     "Thambi Ramaiah"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 5382,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vishal Krishna",
+     "character": "Chozhan",
+     "slug": "vishal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/39NsHSvIygBnkUpAB4Wx3A9g4GF.jpg"
+    },
+    {
+     "name": "Arya",
+     "character": "Rajiv",
+     "slug": "arya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tX9cHKPa52Iz8M3dvUFW9uqbqUK.jpg"
+    },
+    {
+     "name": "Prakash Raj",
+     "character": "Paarirajan",
+     "slug": "prakash-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg"
+    },
+    {
+     "name": "Mamta Mohandas",
+     "character": "Anisha",
+     "slug": "mamta-mohandas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ce9B8AG0IN77F9GR3b8gj13CP1q.jpg"
+    },
+    {
+     "name": "Mirnalini Ravi",
+     "character": "Ashvitha",
+     "slug": "mirnalini-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xJWqESPs6cshSFeYEK1pSPZIai3.jpg"
+    },
+    {
+     "name": "Thambi Ramaiah",
+     "character": "Risk Ramalingam",
+     "slug": "thambi-ramaiah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/murNGZdySdA7uKgLBeMwOK4wEdg.jpg"
+    },
+    {
+     "name": "Karunakaran",
+     "character": "Babu",
+     "slug": "karunakaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3unnOmeQ0r4GhAY1EDbZaCdt1N.jpg"
+    },
+    {
+     "name": "Malavika Avinash",
+     "character": "Minister of External Affairs",
+     "slug": "malavika-avinash",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1D3J1HIRP4gm0bYzrOdF2AmreV5.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anand Shankar",
+       "slug": "anand-shankar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Anand Shankar",
+       "slug": "anand-shankar"
+      },
+      {
+       "name": "S. Ramakrishnan",
+       "slug": "s-ramakrishnan"
+      },
+      {
+       "name": "Shan Karuppusamy",
+       "slug": "shan-karuppusamy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      },
+      {
+       "name": "S. Thaman",
+       "slug": "s-thaman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "R. D. Rajasekhar",
+       "slug": "r-d-rajasekhar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Raymond Derrick Crasta",
+       "slug": "raymond-derrick-crasta"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "S. Vinoth Kumar",
+       "slug": "s-vinoth-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mini Studios",
+     "slug": "mini-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/9OTmYAzW2URLSE76T7y8OVLqqBT.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2021-11-04",
+     "gross": 3900988,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1342,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-11-11",
+     "gross": 1880,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3902868,
+    "totalShows": 1347,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 3900988
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3900988
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 45,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-11-04"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 87,
+    "title": "Enemy",
+    "img": "https://image.tmdb.org/t/p/original/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
+    "released": "2021-11-04",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13131186",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "159 min",
+    "genre": "Action, Thriller",
+    "plot": "Two childhood friends end up on opposite extremes of morality, and face each other in a good vs evil war.",
+    "released": "2021-11-04",
+    "director": "Anand Shankar",
+    "directorSlug": "anand-shankar",
+    "actors": [
+     "Vishal Krishna",
+     "Arya",
+     "Prakash Raj",
+     "Mamta Mohandas",
+     "Mirnalini Ravi",
+     "Thambi Ramaiah"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 5382,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vishal Krishna",
+     "character": "Chozhan",
+     "slug": "vishal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/39NsHSvIygBnkUpAB4Wx3A9g4GF.jpg"
+    },
+    {
+     "name": "Arya",
+     "character": "Rajiv",
+     "slug": "arya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tX9cHKPa52Iz8M3dvUFW9uqbqUK.jpg"
+    },
+    {
+     "name": "Prakash Raj",
+     "character": "Paarirajan",
+     "slug": "prakash-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg"
+    },
+    {
+     "name": "Mamta Mohandas",
+     "character": "Anisha",
+     "slug": "mamta-mohandas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ce9B8AG0IN77F9GR3b8gj13CP1q.jpg"
+    },
+    {
+     "name": "Mirnalini Ravi",
+     "character": "Ashvitha",
+     "slug": "mirnalini-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xJWqESPs6cshSFeYEK1pSPZIai3.jpg"
+    },
+    {
+     "name": "Thambi Ramaiah",
+     "character": "Risk Ramalingam",
+     "slug": "thambi-ramaiah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/murNGZdySdA7uKgLBeMwOK4wEdg.jpg"
+    },
+    {
+     "name": "Karunakaran",
+     "character": "Babu",
+     "slug": "karunakaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3unnOmeQ0r4GhAY1EDbZaCdt1N.jpg"
+    },
+    {
+     "name": "Malavika Avinash",
+     "character": "Minister of External Affairs",
+     "slug": "malavika-avinash",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1D3J1HIRP4gm0bYzrOdF2AmreV5.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anand Shankar",
+       "slug": "anand-shankar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Anand Shankar",
+       "slug": "anand-shankar"
+      },
+      {
+       "name": "S. Ramakrishnan",
+       "slug": "s-ramakrishnan"
+      },
+      {
+       "name": "Shan Karuppusamy",
+       "slug": "shan-karuppusamy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      },
+      {
+       "name": "S. Thaman",
+       "slug": "s-thaman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "R. D. Rajasekhar",
+       "slug": "r-d-rajasekhar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Raymond Derrick Crasta",
+       "slug": "raymond-derrick-crasta"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "S. Vinoth Kumar",
+       "slug": "s-vinoth-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mini Studios",
+     "slug": "mini-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/9OTmYAzW2URLSE76T7y8OVLqqBT.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3902868,
+    "totalShows": 1347,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 802719,
+     "date": "Thrissur"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 802719,
+     "date": "Thrissur"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 45,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-11-04"
+   }
+  }
+ }
+}

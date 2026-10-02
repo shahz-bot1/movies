@@ -1,0 +1,62 @@
+{
+ "slug": "aneesh-gopal",
+ "name": "Aneesh Gopal",
+ "source_url": "https://fridaymatinee.in/people/aneesh-gopal",
+ "captured_at": "2026-10-01T20:38:01.801412+00:00",
+ "person": {
+  "name": "Aneesh Gopal",
+  "photo": "https://image.tmdb.org/t/p/w185/mYnnfmNDo87ucIWDA2jKpGKl7gK.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 198,
+   "movie_slug": "ottu",
+   "title": "Ottu",
+   "year": 2022,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 423,
+   "movie_slug": "nadikalil-sundari-yamuna",
+   "title": "Nadikalil Sundari Yamuna",
+   "year": 2023,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 616,
+   "movie_slug": "identity",
+   "title": "Identity",
+   "year": 2025,
+   "kerala_gross": "₹6.9 Cr"
+  },
+  {
+   "movie_id": 677,
+   "movie_slug": "narivetta",
+   "title": "Narivetta",
+   "year": 2025,
+   "kerala_gross": "₹14.9 Cr"
+  },
+  {
+   "movie_id": 987,
+   "movie_slug": "prakambanam",
+   "title": "Prakambanam",
+   "year": 2026,
+   "kerala_gross": "₹12.1 Cr"
+  },
+  {
+   "movie_id": 1218,
+   "movie_slug": "vivaah",
+   "title": "Vivaah",
+   "year": 2026,
+   "kerala_gross": "₹6.7L"
+  }
+ ]
+}

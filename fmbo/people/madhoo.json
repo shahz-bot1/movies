@@ -1,0 +1,48 @@
+{
+ "slug": "madhoo",
+ "name": "Madhoo",
+ "source_url": "https://fridaymatinee.in/people/madhoo",
+ "captured_at": "2026-10-02T00:10:47.958272+00:00",
+ "person": {
+  "name": "Madhoo",
+  "photo": "https://image.tmdb.org/t/p/w185/vH4fS92NFq0k2TGTPZe9I5qdPbo.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 350,
+   "movie_slug": "shaakuntalam",
+   "title": "Shaakuntalam",
+   "year": 2023,
+   "kerala_gross": "₹4.2L"
+  },
+  {
+   "movie_id": 709,
+   "movie_slug": "kannappa",
+   "title": "Kannappa",
+   "year": 2025,
+   "kerala_gross": "₹64.0L"
+  },
+  {
+   "movie_id": 1146,
+   "movie_slug": "governor",
+   "title": "Governor",
+   "year": 2026,
+   "kerala_gross": "₹68K"
+  },
+  {
+   "movie_id": 1155,
+   "movie_slug": "chinna-chinna-aasai",
+   "title": "Chinna Chinna Aasai",
+   "year": 2026,
+   "kerala_gross": "₹1.9 Cr"
+  }
+ ]
+}

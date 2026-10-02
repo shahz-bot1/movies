@@ -1,0 +1,62 @@
+{
+ "slug": "alby",
+ "name": "Alby",
+ "source_url": "https://fridaymatinee.in/people/alby",
+ "captured_at": "2026-10-01T20:22:43.529553+00:00",
+ "person": {
+  "name": "Alby",
+  "photo": null,
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 463,
+   "movie_slug": "phoenix",
+   "title": "Phoenix",
+   "year": 2023,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 517,
+   "movie_slug": "nadikar",
+   "title": "Nadikar",
+   "year": 2024,
+   "kerala_gross": "₹3.0 Cr"
+  },
+  {
+   "movie_id": 566,
+   "movie_slug": "bad-boyz",
+   "title": "Bad Boyz",
+   "year": 2024,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 772,
+   "movie_slug": "sahasam",
+   "title": "Sahasam",
+   "year": 2025,
+   "kerala_gross": "₹2.1 Cr"
+  },
+  {
+   "movie_id": 987,
+   "movie_slug": "prakambanam",
+   "title": "Prakambanam",
+   "year": 2026,
+   "kerala_gross": "₹12.1 Cr"
+  },
+  {
+   "movie_id": 1292,
+   "movie_slug": "enna-vilai",
+   "title": "Enna Vilai",
+   "year": 2026,
+   "kerala_gross": "₹5.4L"
+  }
+ ]
+}

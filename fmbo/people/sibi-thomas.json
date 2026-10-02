@@ -1,0 +1,53 @@
+{
+ "slug": "sibi-thomas",
+ "name": "Sibi Thomas",
+ "source_url": "https://fridaymatinee.in/people/sibi-thomas",
+ "captured_at": "2026-10-02T10:38:43.837380+00:00",
+ "person": {
+  "name": "Sibi Thomas",
+  "photo": "https://image.tmdb.org/t/p/w185/3Jk3mpM4GMtdYcf9haktI14Qt22.jpg",
+  "role": "Actor and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 142,
+   "movie_slug": "kuttavum-shikshayum",
+   "title": "Kuttavum Shikshayum",
+   "year": 2022,
+   "kerala_gross": "₹50.7L"
+  },
+  {
+   "movie_id": 176,
+   "movie_slug": "nna-thaan-case-kodu",
+   "title": "Nna Thaan Case Kodu",
+   "year": 2022,
+   "kerala_gross": "₹15.3 Cr"
+  },
+  {
+   "movie_id": 523,
+   "movie_slug": "grrr",
+   "title": "Grrr..",
+   "year": 2024,
+   "kerala_gross": "₹2.9 Cr"
+  },
+  {
+   "movie_id": 1102,
+   "movie_slug": "angam-attahasam",
+   "title": "Angam Attahasam",
+   "year": 2026,
+   "kerala_gross": "₹15.5L"
+  }
+ ]
+}

@@ -1,0 +1,773 @@
+{
+ "id": 632,
+ "slug": "superman",
+ "source_url": "https://fridaymatinee.in/boxoffice/superman-632",
+ "captured_at": "2026-10-01T18:17:33.965540+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 632,
+    "title": "Superman",
+    "img": "https://image.tmdb.org/t/p/original/wPLysNDLffQLOVebZQCbXJEv6E6.jpg",
+    "released": "2025-07-11",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt5950044",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "130 min",
+    "genre": "Science Fiction, Adventure, Action",
+    "plot": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+    "released": "2025-07-09",
+    "director": "James Gunn",
+    "directorSlug": "james-gunn",
+    "actors": [
+     "David Corenswet",
+     "Rachel Brosnahan",
+     "Nicholas Hoult",
+     "Edi Gathegi",
+     "Nathan Fillion",
+     "Isabela Merced"
+    ],
+    "awards": "4 wins u0026 73 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.0",
+      "votes": 446351,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 5491,
+      "updatedAt": "2026-09-24T19:10:27.000Z"
+     },
+     "rt": "83%",
+     "metascore": 68,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "David Corenswet",
+     "character": "Superman",
+     "slug": "david-corenswet",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yoQxpUPt3le9zY4Sab3g2ANy4CE.jpg"
+    },
+    {
+     "name": "Rachel Brosnahan",
+     "character": "Lois Lane",
+     "slug": "rachel-brosnahan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1f9NK43gWrXN2uMmYMlennB7jCC.jpg"
+    },
+    {
+     "name": "Nicholas Hoult",
+     "character": "Lex Luthor",
+     "slug": "nicholas-hoult",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xesAPMRC5HmPm4D3Stme7rNoNJ7.jpg"
+    },
+    {
+     "name": "Edi Gathegi",
+     "character": "Mr. Terrific",
+     "slug": "edi-gathegi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dt8yMyycDlzxkjhmuuJJ4tXDbp4.jpg"
+    },
+    {
+     "name": "Nathan Fillion",
+     "character": "Guy Gardner",
+     "slug": "nathan-fillion",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/q31mXXgnN5PsuIjEqaaAPvBDvHc.jpg"
+    },
+    {
+     "name": "Isabela Merced",
+     "character": "Hawkgirl",
+     "slug": "isabela-merced",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7O5GWIH8IHwU4kGZIhC3JkGDiZr.jpg"
+    },
+    {
+     "name": "María Gabriela de Faría",
+     "character": "The Engineer",
+     "slug": "maria-gabriela-de-faria",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/joKXt8ai99udROK7VEFCDsBEm3Y.jpg"
+    },
+    {
+     "name": "Skyler Gisondo",
+     "character": "Jimmy Olsen",
+     "slug": "skyler-gisondo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vyalCuJUUP7Ht1vMWZQzhOrscXV.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "James Gunn",
+       "slug": "james-gunn"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "James Gunn",
+       "slug": "james-gunn"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "John Murphy",
+       "slug": "john-murphy"
+      },
+      {
+       "name": "David Fleming",
+       "slug": "david-fleming"
+      },
+      {
+       "name": "John Williams",
+       "slug": "john-williams"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Henry Braham",
+       "slug": "henry-braham"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "William Hoy",
+       "slug": "william-hoy"
+      },
+      {
+       "name": "Craig Alpert",
+       "slug": "craig-alpert"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "James Gunn",
+       "slug": "james-gunn"
+      },
+      {
+       "name": "Peter Safran",
+       "slug": "peter-safran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "DC Studios",
+     "slug": "dc-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/iNTsbEgntSUwHmsZ9whiLhm60WB.png"
+    },
+    {
+     "name": "Troll Court Entertainment",
+     "slug": "troll-court-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kxuhS8wyKtVprOn5nckdHyNuSg1.png"
+    },
+    {
+     "name": "The Safran Company",
+     "slug": "the-safran-company",
+     "logo": "https://image.tmdb.org/t/p/w185/odU3l6csuBmXUrzFm6araUgEUHQ.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-08-14",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 37084236,
+    "totalShows": 4957,
+    "totalDays": 49,
+    "openingDay": {
+     "day": 1,
+     "gross": 5764870,
+     "date": "2025-07-11"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 6726028,
+     "date": "2025-07-13"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-07-11"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 632,
+    "title": "Superman",
+    "img": "https://image.tmdb.org/t/p/original/wPLysNDLffQLOVebZQCbXJEv6E6.jpg",
+    "released": "2025-07-11",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt5950044",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "130 min",
+    "genre": "Science Fiction, Adventure, Action",
+    "plot": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+    "released": "2025-07-09",
+    "director": "James Gunn",
+    "directorSlug": "james-gunn",
+    "actors": [
+     "David Corenswet",
+     "Rachel Brosnahan",
+     "Nicholas Hoult",
+     "Edi Gathegi",
+     "Nathan Fillion",
+     "Isabela Merced"
+    ],
+    "awards": "4 wins u0026 73 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.0",
+      "votes": 446351,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 5491,
+      "updatedAt": "2026-09-24T19:10:27.000Z"
+     },
+     "rt": "83%",
+     "metascore": 68,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "David Corenswet",
+     "character": "Superman",
+     "slug": "david-corenswet",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yoQxpUPt3le9zY4Sab3g2ANy4CE.jpg"
+    },
+    {
+     "name": "Rachel Brosnahan",
+     "character": "Lois Lane",
+     "slug": "rachel-brosnahan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1f9NK43gWrXN2uMmYMlennB7jCC.jpg"
+    },
+    {
+     "name": "Nicholas Hoult",
+     "character": "Lex Luthor",
+     "slug": "nicholas-hoult",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xesAPMRC5HmPm4D3Stme7rNoNJ7.jpg"
+    },
+    {
+     "name": "Edi Gathegi",
+     "character": "Mr. Terrific",
+     "slug": "edi-gathegi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dt8yMyycDlzxkjhmuuJJ4tXDbp4.jpg"
+    },
+    {
+     "name": "Nathan Fillion",
+     "character": "Guy Gardner",
+     "slug": "nathan-fillion",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/q31mXXgnN5PsuIjEqaaAPvBDvHc.jpg"
+    },
+    {
+     "name": "Isabela Merced",
+     "character": "Hawkgirl",
+     "slug": "isabela-merced",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7O5GWIH8IHwU4kGZIhC3JkGDiZr.jpg"
+    },
+    {
+     "name": "María Gabriela de Faría",
+     "character": "The Engineer",
+     "slug": "maria-gabriela-de-faria",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/joKXt8ai99udROK7VEFCDsBEm3Y.jpg"
+    },
+    {
+     "name": "Skyler Gisondo",
+     "character": "Jimmy Olsen",
+     "slug": "skyler-gisondo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vyalCuJUUP7Ht1vMWZQzhOrscXV.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "James Gunn",
+       "slug": "james-gunn"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "James Gunn",
+       "slug": "james-gunn"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "John Murphy",
+       "slug": "john-murphy"
+      },
+      {
+       "name": "David Fleming",
+       "slug": "david-fleming"
+      },
+      {
+       "name": "John Williams",
+       "slug": "john-williams"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Henry Braham",
+       "slug": "henry-braham"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "William Hoy",
+       "slug": "william-hoy"
+      },
+      {
+       "name": "Craig Alpert",
+       "slug": "craig-alpert"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "James Gunn",
+       "slug": "james-gunn"
+      },
+      {
+       "name": "Peter Safran",
+       "slug": "peter-safran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "DC Studios",
+     "slug": "dc-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/iNTsbEgntSUwHmsZ9whiLhm60WB.png"
+    },
+    {
+     "name": "Troll Court Entertainment",
+     "slug": "troll-court-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kxuhS8wyKtVprOn5nckdHyNuSg1.png"
+    },
+    {
+     "name": "The Safran Company",
+     "slug": "the-safran-company",
+     "logo": "https://image.tmdb.org/t/p/w185/odU3l6csuBmXUrzFm6araUgEUHQ.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-08-14",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-07-11",
+     "gross": 27679109,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4043,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-07-18",
+     "gross": 7125315,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 562,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-07-25",
+     "gross": 1185660,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 206,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-01",
+     "gross": 527696,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 55,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-08",
+     "gross": 280035,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 48,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-15",
+     "gross": 195922,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 24,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-22",
+     "gross": 90499,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 19,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 37084236,
+    "totalShows": 4957,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 27679109
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 27679109
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-07-11"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 632,
+    "title": "Superman",
+    "img": "https://image.tmdb.org/t/p/original/wPLysNDLffQLOVebZQCbXJEv6E6.jpg",
+    "released": "2025-07-11",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt5950044",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "130 min",
+    "genre": "Science Fiction, Adventure, Action",
+    "plot": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+    "released": "2025-07-09",
+    "director": "James Gunn",
+    "directorSlug": "james-gunn",
+    "actors": [
+     "David Corenswet",
+     "Rachel Brosnahan",
+     "Nicholas Hoult",
+     "Edi Gathegi",
+     "Nathan Fillion",
+     "Isabela Merced"
+    ],
+    "awards": "4 wins u0026 73 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.0",
+      "votes": 446351,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 5491,
+      "updatedAt": "2026-09-24T19:10:27.000Z"
+     },
+     "rt": "83%",
+     "metascore": 68,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "David Corenswet",
+     "character": "Superman",
+     "slug": "david-corenswet",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yoQxpUPt3le9zY4Sab3g2ANy4CE.jpg"
+    },
+    {
+     "name": "Rachel Brosnahan",
+     "character": "Lois Lane",
+     "slug": "rachel-brosnahan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1f9NK43gWrXN2uMmYMlennB7jCC.jpg"
+    },
+    {
+     "name": "Nicholas Hoult",
+     "character": "Lex Luthor",
+     "slug": "nicholas-hoult",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xesAPMRC5HmPm4D3Stme7rNoNJ7.jpg"
+    },
+    {
+     "name": "Edi Gathegi",
+     "character": "Mr. Terrific",
+     "slug": "edi-gathegi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dt8yMyycDlzxkjhmuuJJ4tXDbp4.jpg"
+    },
+    {
+     "name": "Nathan Fillion",
+     "character": "Guy Gardner",
+     "slug": "nathan-fillion",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/q31mXXgnN5PsuIjEqaaAPvBDvHc.jpg"
+    },
+    {
+     "name": "Isabela Merced",
+     "character": "Hawkgirl",
+     "slug": "isabela-merced",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7O5GWIH8IHwU4kGZIhC3JkGDiZr.jpg"
+    },
+    {
+     "name": "María Gabriela de Faría",
+     "character": "The Engineer",
+     "slug": "maria-gabriela-de-faria",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/joKXt8ai99udROK7VEFCDsBEm3Y.jpg"
+    },
+    {
+     "name": "Skyler Gisondo",
+     "character": "Jimmy Olsen",
+     "slug": "skyler-gisondo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vyalCuJUUP7Ht1vMWZQzhOrscXV.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "James Gunn",
+       "slug": "james-gunn"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "James Gunn",
+       "slug": "james-gunn"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "John Murphy",
+       "slug": "john-murphy"
+      },
+      {
+       "name": "David Fleming",
+       "slug": "david-fleming"
+      },
+      {
+       "name": "John Williams",
+       "slug": "john-williams"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Henry Braham",
+       "slug": "henry-braham"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "William Hoy",
+       "slug": "william-hoy"
+      },
+      {
+       "name": "Craig Alpert",
+       "slug": "craig-alpert"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "James Gunn",
+       "slug": "james-gunn"
+      },
+      {
+       "name": "Peter Safran",
+       "slug": "peter-safran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "DC Studios",
+     "slug": "dc-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/iNTsbEgntSUwHmsZ9whiLhm60WB.png"
+    },
+    {
+     "name": "Troll Court Entertainment",
+     "slug": "troll-court-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kxuhS8wyKtVprOn5nckdHyNuSg1.png"
+    },
+    {
+     "name": "The Safran Company",
+     "slug": "the-safran-company",
+     "logo": "https://image.tmdb.org/t/p/w185/odU3l6csuBmXUrzFm6araUgEUHQ.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-08-14",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 37084236,
+    "totalShows": 4957,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 15163962,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 15163962,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-07-11"
+   }
+  }
+ }
+}

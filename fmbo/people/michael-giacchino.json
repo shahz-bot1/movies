@@ -1,0 +1,83 @@
+{
+ "slug": "michael-giacchino",
+ "name": "Michael Giacchino",
+ "source_url": "https://fridaymatinee.in/people/michael-giacchino",
+ "captured_at": "2026-10-02T00:35:51.333695+00:00",
+ "person": {
+  "name": "Michael Giacchino",
+  "photo": "https://image.tmdb.org/t/p/w185/xgurVFMLVgtgz9f5bgrrCppm4xq.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 9
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 96,
+   "movie_slug": "spider-man-no-way-home",
+   "title": "Spider Man No Way Home",
+   "year": 2021,
+   "kerala_gross": "₹11.5 Cr"
+  },
+  {
+   "movie_id": 112,
+   "movie_slug": "batman",
+   "title": "Batman",
+   "year": 2022,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 145,
+   "movie_slug": "jurassic-world-dominion",
+   "title": "Jurassic World Dominion",
+   "year": 2022,
+   "kerala_gross": "₹2.0 Cr"
+  },
+  {
+   "movie_id": 158,
+   "movie_slug": "thor-love-and-thunder",
+   "title": "Thor Love and Thunder",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 734,
+   "movie_slug": "the-fantastic-four-first-steps",
+   "title": "The Fantastic Four: First Steps",
+   "year": 2025,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 900,
+   "movie_slug": "zootopia-2",
+   "title": "Zootopia 2",
+   "year": 2025,
+   "kerala_gross": "₹84.3L"
+  },
+  {
+   "movie_id": 675,
+   "movie_slug": "spider-man-brand-new-day",
+   "title": "Spider-Man: Brand New Day",
+   "year": 2026,
+   "kerala_gross": "₹35.7 Cr"
+  },
+  {
+   "movie_id": 1227,
+   "movie_slug": "the-end-of-oak-street",
+   "title": "The End of Oak Street",
+   "year": 2026,
+   "kerala_gross": "₹22.6L"
+  },
+  {
+   "movie_id": 629,
+   "movie_slug": "the-batman-part-ii",
+   "title": "The Batman - Part II",
+   "year": 2027,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

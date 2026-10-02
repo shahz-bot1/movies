@@ -1,0 +1,41 @@
+{
+ "slug": "r-mahendran",
+ "name": "R. Mahendran",
+ "source_url": "https://fridaymatinee.in/people/r-mahendran",
+ "captured_at": "2026-10-02T06:34:57.120455+00:00",
+ "person": {
+  "name": "R. Mahendran",
+  "photo": null,
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 144,
+   "movie_slug": "vikram",
+   "title": "Vikram",
+   "year": 2022,
+   "kerala_gross": "₹29.1 Cr"
+  },
+  {
+   "movie_id": 589,
+   "movie_slug": "amaran",
+   "title": "Amaran",
+   "year": 2024,
+   "kerala_gross": "₹9.7 Cr"
+  },
+  {
+   "movie_id": 701,
+   "movie_slug": "thug-life",
+   "title": "Thug Life",
+   "year": 2025,
+   "kerala_gross": "₹2.2 Cr"
+  }
+ ]
+}

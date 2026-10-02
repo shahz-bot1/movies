@@ -1,0 +1,41 @@
+{
+ "slug": "srinidhi-shetty",
+ "name": "Srinidhi Shetty",
+ "source_url": "https://fridaymatinee.in/people/srinidhi-shetty",
+ "captured_at": "2026-10-02T10:56:09.655856+00:00",
+ "person": {
+  "name": "Srinidhi Shetty",
+  "photo": "https://image.tmdb.org/t/p/w185/pTsixKDFS3n2xsvR6wDZ9J6jjfQ.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 124,
+   "movie_slug": "kgf-chapter-2",
+   "title": "KGF Chapter 2",
+   "year": 2022,
+   "kerala_gross": "₹52.5 Cr"
+  },
+  {
+   "movie_id": 187,
+   "movie_slug": "cobra",
+   "title": "Cobra",
+   "year": 2022,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 682,
+   "movie_slug": "hit-the-third-case",
+   "title": "HIT: The Third Case",
+   "year": 2025,
+   "kerala_gross": "₹71.3L"
+  }
+ ]
+}

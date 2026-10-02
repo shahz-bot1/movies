@@ -1,0 +1,48 @@
+{
+ "slug": "ashutosh-rana",
+ "name": "Ashutosh Rana",
+ "source_url": "https://fridaymatinee.in/people/ashutosh-rana",
+ "captured_at": "2026-10-01T21:00:38.642788+00:00",
+ "person": {
+  "name": "Ashutosh Rana",
+  "photo": "https://image.tmdb.org/t/p/w185/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 31,
+   "movie_slug": "sangathamizhan",
+   "title": "Sangathamizhan",
+   "year": 2019,
+   "kerala_gross": "₹4.6L"
+  },
+  {
+   "movie_id": 278,
+   "movie_slug": "pathaan",
+   "title": "Pathaan",
+   "year": 2023,
+   "kerala_gross": "₹9.5 Cr"
+  },
+  {
+   "movie_id": 785,
+   "movie_slug": "war-2",
+   "title": "War 2",
+   "year": 2025,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 978,
+   "movie_slug": "one-two-cha-cha-chaa",
+   "title": "One Two Cha Cha Chaa",
+   "year": 2026,
+   "kerala_gross": "₹77K"
+  }
+ ]
+}

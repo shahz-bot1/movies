@@ -1,0 +1,41 @@
+{
+ "slug": "sanjay-sharma",
+ "name": "Sanjay Sharma",
+ "source_url": "https://fridaymatinee.in/people/sanjay-sharma",
+ "captured_at": "2026-10-02T10:10:06.552088+00:00",
+ "person": {
+  "name": "Sanjay Sharma",
+  "photo": null,
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 370,
+   "movie_slug": "the-kerala-story",
+   "title": "The Kerala Story",
+   "year": 2023,
+   "kerala_gross": "₹25.5L"
+  },
+  {
+   "movie_id": 1022,
+   "movie_slug": "the-kerala-story-2-goes-beyond",
+   "title": "The Kerala Story 2 Goes Beyond",
+   "year": 2026,
+   "kerala_gross": "₹17.8L"
+  },
+  {
+   "movie_id": 1146,
+   "movie_slug": "governor",
+   "title": "Governor",
+   "year": 2026,
+   "kerala_gross": "₹68K"
+  }
+ ]
+}

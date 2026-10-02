@@ -1,0 +1,551 @@
+{
+ "id": 822,
+ "slug": "blackmail",
+ "source_url": "https://fridaymatinee.in/boxoffice/blackmail-822",
+ "captured_at": "2026-10-01T18:23:23.519123+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 822,
+    "title": "Blackmail",
+    "img": "https://image.tmdb.org/t/p/original/ppZRUMG5JnQo2JDvgDYRRWHDkje.jpg",
+    "released": "2025-09-12",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt36435352",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "121 min",
+    "genre": "Thriller, Romance, Drama",
+    "plot": "Trapped in escalating blackmail, Mani faces mounting danger as crime, passion, and greed intertwine, exposing hidden truths and changing allegiances throughout his ordeal.",
+    "released": "2025-08-01",
+    "director": "Mu. Maran",
+    "directorSlug": "mu-maran",
+    "actors": [
+     "G. V. Prakash Kumar",
+     "Teju Ashwini",
+     "Srikanth",
+     "Bindu Madhavi",
+     "Linga",
+     "Ramesh Thilak"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 1766,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:29.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "G. V. Prakash Kumar",
+     "character": "Mani",
+     "slug": "g-v-prakash-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ArX3l6CdNo0sGI8b6PFYveR9Azm.jpg"
+    },
+    {
+     "name": "Teju Ashwini",
+     "character": null,
+     "slug": "teju-ashwini",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTrsWNHiVOZadgAQYSmkyBWEiKA.jpg"
+    },
+    {
+     "name": "Srikanth",
+     "character": null,
+     "slug": "srikanth-4673",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l8KmsNQUzrOl8sDJtDXmiknJb7J.jpg"
+    },
+    {
+     "name": "Bindu Madhavi",
+     "character": null,
+     "slug": "bindu-madhavi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k74x48kELHXy5JxRkrJmO3t2Ndu.jpg"
+    },
+    {
+     "name": "Linga",
+     "character": null,
+     "slug": "linga",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tjSJ5tLNOTChDLTvph6uxWybley.jpg"
+    },
+    {
+     "name": "Ramesh Thilak",
+     "character": null,
+     "slug": "ramesh-thilak",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cZ5RxGzGA5swW0rZwPhPU0yVNTb.jpg"
+    },
+    {
+     "name": "Haripriya Isai",
+     "character": null,
+     "slug": "haripriya-isai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wVyjEfgi9TNScP4yHrIopBJR8TG.jpg"
+    },
+    {
+     "name": "Muthukumar",
+     "character": null,
+     "slug": "muthukumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oPaJbhh6FqbotLju84LDlZ6ymhu.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Mu. Maran",
+       "slug": "mu-maran"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Mu. Maran",
+       "slug": "mu-maran"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Gokul Benoy",
+       "slug": "gokul-benoy"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "San Lokesh",
+       "slug": "san-lokesh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "A Deivakani",
+       "slug": "a-deivakani"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 72080,
+    "totalShows": 114,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 3260,
+     "date": "2025-09-12"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 29803,
+     "date": "2025-09-14"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-12"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 822,
+    "title": "Blackmail",
+    "img": "https://image.tmdb.org/t/p/original/ppZRUMG5JnQo2JDvgDYRRWHDkje.jpg",
+    "released": "2025-09-12",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt36435352",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "121 min",
+    "genre": "Thriller, Romance, Drama",
+    "plot": "Trapped in escalating blackmail, Mani faces mounting danger as crime, passion, and greed intertwine, exposing hidden truths and changing allegiances throughout his ordeal.",
+    "released": "2025-08-01",
+    "director": "Mu. Maran",
+    "directorSlug": "mu-maran",
+    "actors": [
+     "G. V. Prakash Kumar",
+     "Teju Ashwini",
+     "Srikanth",
+     "Bindu Madhavi",
+     "Linga",
+     "Ramesh Thilak"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 1766,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:29.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "G. V. Prakash Kumar",
+     "character": "Mani",
+     "slug": "g-v-prakash-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ArX3l6CdNo0sGI8b6PFYveR9Azm.jpg"
+    },
+    {
+     "name": "Teju Ashwini",
+     "character": null,
+     "slug": "teju-ashwini",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTrsWNHiVOZadgAQYSmkyBWEiKA.jpg"
+    },
+    {
+     "name": "Srikanth",
+     "character": null,
+     "slug": "srikanth-4673",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l8KmsNQUzrOl8sDJtDXmiknJb7J.jpg"
+    },
+    {
+     "name": "Bindu Madhavi",
+     "character": null,
+     "slug": "bindu-madhavi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k74x48kELHXy5JxRkrJmO3t2Ndu.jpg"
+    },
+    {
+     "name": "Linga",
+     "character": null,
+     "slug": "linga",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tjSJ5tLNOTChDLTvph6uxWybley.jpg"
+    },
+    {
+     "name": "Ramesh Thilak",
+     "character": null,
+     "slug": "ramesh-thilak",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cZ5RxGzGA5swW0rZwPhPU0yVNTb.jpg"
+    },
+    {
+     "name": "Haripriya Isai",
+     "character": null,
+     "slug": "haripriya-isai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wVyjEfgi9TNScP4yHrIopBJR8TG.jpg"
+    },
+    {
+     "name": "Muthukumar",
+     "character": null,
+     "slug": "muthukumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oPaJbhh6FqbotLju84LDlZ6ymhu.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Mu. Maran",
+       "slug": "mu-maran"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Mu. Maran",
+       "slug": "mu-maran"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Gokul Benoy",
+       "slug": "gokul-benoy"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "San Lokesh",
+       "slug": "san-lokesh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "A Deivakani",
+       "slug": "a-deivakani"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2025-09-12",
+     "gross": 72080,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 114,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 72080,
+    "totalShows": 114,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 72080
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 72080
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-12"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 822,
+    "title": "Blackmail",
+    "img": "https://image.tmdb.org/t/p/original/ppZRUMG5JnQo2JDvgDYRRWHDkje.jpg",
+    "released": "2025-09-12",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt36435352",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "121 min",
+    "genre": "Thriller, Romance, Drama",
+    "plot": "Trapped in escalating blackmail, Mani faces mounting danger as crime, passion, and greed intertwine, exposing hidden truths and changing allegiances throughout his ordeal.",
+    "released": "2025-08-01",
+    "director": "Mu. Maran",
+    "directorSlug": "mu-maran",
+    "actors": [
+     "G. V. Prakash Kumar",
+     "Teju Ashwini",
+     "Srikanth",
+     "Bindu Madhavi",
+     "Linga",
+     "Ramesh Thilak"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 1766,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:29.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "G. V. Prakash Kumar",
+     "character": "Mani",
+     "slug": "g-v-prakash-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ArX3l6CdNo0sGI8b6PFYveR9Azm.jpg"
+    },
+    {
+     "name": "Teju Ashwini",
+     "character": null,
+     "slug": "teju-ashwini",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTrsWNHiVOZadgAQYSmkyBWEiKA.jpg"
+    },
+    {
+     "name": "Srikanth",
+     "character": null,
+     "slug": "srikanth-4673",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l8KmsNQUzrOl8sDJtDXmiknJb7J.jpg"
+    },
+    {
+     "name": "Bindu Madhavi",
+     "character": null,
+     "slug": "bindu-madhavi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k74x48kELHXy5JxRkrJmO3t2Ndu.jpg"
+    },
+    {
+     "name": "Linga",
+     "character": null,
+     "slug": "linga",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tjSJ5tLNOTChDLTvph6uxWybley.jpg"
+    },
+    {
+     "name": "Ramesh Thilak",
+     "character": null,
+     "slug": "ramesh-thilak",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cZ5RxGzGA5swW0rZwPhPU0yVNTb.jpg"
+    },
+    {
+     "name": "Haripriya Isai",
+     "character": null,
+     "slug": "haripriya-isai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wVyjEfgi9TNScP4yHrIopBJR8TG.jpg"
+    },
+    {
+     "name": "Muthukumar",
+     "character": null,
+     "slug": "muthukumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oPaJbhh6FqbotLju84LDlZ6ymhu.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Mu. Maran",
+       "slug": "mu-maran"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Mu. Maran",
+       "slug": "mu-maran"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Gokul Benoy",
+       "slug": "gokul-benoy"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "San Lokesh",
+       "slug": "san-lokesh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "A Deivakani",
+       "slug": "a-deivakani"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 72080,
+    "totalShows": 114,
+    "totalDays": 13,
+    "openingDay": {
+     "day": 1,
+     "gross": 24660,
+     "date": "Trivandrum"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 24660,
+     "date": "Trivandrum"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-12"
+   }
+  }
+ }
+}

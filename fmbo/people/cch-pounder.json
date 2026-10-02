@@ -1,0 +1,41 @@
+{
+ "slug": "cch-pounder",
+ "name": "CCH Pounder",
+ "source_url": "https://fridaymatinee.in/people/cch-pounder",
+ "captured_at": "2026-10-01T21:29:36.843600+00:00",
+ "person": {
+  "name": "CCH Pounder",
+  "photo": "https://image.tmdb.org/t/p/w185/mr6BLDN75T8DJl9dNK3hN4YwqJa.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 246,
+   "movie_slug": "avatar-the-way-of-water",
+   "title": "Avatar The Way of Water",
+   "year": 2022,
+   "kerala_gross": "₹33.3 Cr"
+  },
+  {
+   "movie_id": 781,
+   "movie_slug": "the-naked-gun",
+   "title": "The Naked Gun",
+   "year": 2025,
+   "kerala_gross": "₹1.3L"
+  },
+  {
+   "movie_id": 793,
+   "movie_slug": "avatar-fire-and-ash",
+   "title": "Avatar: Fire and Ash",
+   "year": 2025,
+   "kerala_gross": "₹10.2 Cr"
+  }
+ ]
+}

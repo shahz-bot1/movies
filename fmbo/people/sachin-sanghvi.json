@@ -1,0 +1,62 @@
+{
+ "slug": "sachin-sanghvi",
+ "name": "Sachin Sanghvi",
+ "source_url": "https://fridaymatinee.in/people/sachin-sanghvi",
+ "captured_at": "2026-10-02T09:56:53.761934+00:00",
+ "person": {
+  "name": "Sachin Sanghvi",
+  "photo": "https://image.tmdb.org/t/p/w185/eU5IcGfWX8Ttv3hLNZnFbkno3Ev.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 22,
+   "movie_slug": "made-in-china",
+   "title": "Made In China",
+   "year": 2019,
+   "kerala_gross": "₹1.5L"
+  },
+  {
+   "movie_id": 791,
+   "movie_slug": "param-sundari",
+   "title": "Param Sundari",
+   "year": 2025,
+   "kerala_gross": "₹21.4L"
+  },
+  {
+   "movie_id": 872,
+   "movie_slug": "thamma",
+   "title": "Thamma",
+   "year": 2025,
+   "kerala_gross": "₹35.4L"
+  },
+  {
+   "movie_id": 972,
+   "movie_slug": "ikkis",
+   "title": "Ikkis",
+   "year": 2026,
+   "kerala_gross": "₹16.1L"
+  },
+  {
+   "movie_id": 1113,
+   "movie_slug": "chand-mera-dil",
+   "title": "Chand Mera Dil",
+   "year": 2026,
+   "kerala_gross": "₹4.2L"
+  },
+  {
+   "movie_id": 1201,
+   "movie_slug": "king",
+   "title": "King",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "kiara-advani",
+ "name": "Kiara Advani",
+ "source_url": "https://fridaymatinee.in/people/kiara-advani",
+ "captured_at": "2026-10-01T23:47:24.643029+00:00",
+ "person": {
+  "name": "Kiara Advani",
+  "photo": "https://image.tmdb.org/t/p/w185/2xmU03a6kTWUvuTPMdofiFLxdAw.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 636,
+   "movie_slug": "game-changer",
+   "title": "Game Changer",
+   "year": 2025,
+   "kerala_gross": "₹62.3L"
+  },
+  {
+   "movie_id": 785,
+   "movie_slug": "war-2",
+   "title": "War 2",
+   "year": 2025,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 669,
+   "movie_slug": "toxic",
+   "title": "Toxic",
+   "year": 2026,
+   "kerala_gross": "₹3.5 Cr"
+  }
+ ]
+}

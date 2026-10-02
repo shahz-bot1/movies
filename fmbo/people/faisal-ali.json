@@ -1,0 +1,48 @@
+{
+ "slug": "faisal-ali",
+ "name": "Faisal Ali",
+ "source_url": "https://fridaymatinee.in/people/faisal-ali",
+ "captured_at": "2026-10-01T22:18:29.173681+00:00",
+ "person": {
+  "name": "Faisal Ali",
+  "photo": null,
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 423,
+   "movie_slug": "nadikalil-sundari-yamuna",
+   "title": "Nadikalil Sundari Yamuna",
+   "year": 2023,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 865,
+   "movie_slug": "private",
+   "title": "Private",
+   "year": 2025,
+   "kerala_gross": "₹9.8L"
+  },
+  {
+   "movie_id": 653,
+   "movie_slug": "kalamkaval",
+   "title": "Kalamkaval",
+   "year": 2025,
+   "kerala_gross": "₹31.9 Cr"
+  },
+  {
+   "movie_id": 1096,
+   "movie_slug": "revolver-rinko",
+   "title": "Revolver Rinko",
+   "year": 2026,
+   "kerala_gross": "₹25.9L"
+  }
+ ]
+}

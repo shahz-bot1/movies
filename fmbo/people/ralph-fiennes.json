@@ -1,0 +1,41 @@
+{
+ "slug": "ralph-fiennes",
+ "name": "Ralph Fiennes",
+ "source_url": "https://fridaymatinee.in/people/ralph-fiennes",
+ "captured_at": "2026-10-02T08:36:45.143043+00:00",
+ "person": {
+  "name": "Ralph Fiennes",
+  "photo": "https://image.tmdb.org/t/p/w185/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 221,
+   "movie_slug": "conclave",
+   "title": "Conclave",
+   "year": 2024,
+   "kerala_gross": "₹2.2L"
+  },
+  {
+   "movie_id": 621,
+   "movie_slug": "28-years-later",
+   "title": "28 Years Later",
+   "year": 2025,
+   "kerala_gross": "₹13.2L"
+  },
+  {
+   "movie_id": 979,
+   "movie_slug": "28-years-later-the-bone-temple",
+   "title": "28 Years Later The Bone Temple",
+   "year": 2026,
+   "kerala_gross": "₹5.9L"
+  }
+ ]
+}

@@ -1,0 +1,1626 @@
+{
+ "id": 1139,
+ "slug": "backrooms",
+ "source_url": "https://fridaymatinee.in/boxoffice/backrooms-1139",
+ "captured_at": "2026-10-01T19:48:36.767750+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1139,
+    "title": "Backrooms",
+    "img": "https://image.tmdb.org/t/p/original/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "released": "2026-06-11",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26657236",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "111 min",
+    "genre": "Horror, Mystery, Science Fiction",
+    "plot": "A strange doorway appears in the basement of a furniture showroom.",
+    "released": "2026-05-27",
+    "director": "Kane Parsons",
+    "directorSlug": "kane-parsons",
+    "actors": [
+     "Chiwetel Ejiofor",
+     "Renate Reinsve",
+     "Finn Bennett",
+     "Lukita Maxwell",
+     "Mark Duplass",
+     "Avan Jogia"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 211067,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.0",
+      "votes": 3389,
+      "updatedAt": "2026-09-24T10:11:16.000Z"
+     },
+     "rt": "87%",
+     "metascore": 76,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Chiwetel Ejiofor",
+     "character": "Clark",
+     "slug": "chiwetel-ejiofor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+    },
+    {
+     "name": "Renate Reinsve",
+     "character": "Mary",
+     "slug": "renate-reinsve",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/q0ljTd4fyFSJKxPgmcrKtdg3HKo.jpg"
+    },
+    {
+     "name": "Finn Bennett",
+     "character": "Bobby",
+     "slug": "finn-bennett",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p4ya77nmLlhS2cyPKUZi9zVD4Mu.jpg"
+    },
+    {
+     "name": "Lukita Maxwell",
+     "character": "Kat",
+     "slug": "lukita-maxwell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/g5g6XxUAtSdPfsJrSoFkl7vH51d.jpg"
+    },
+    {
+     "name": "Mark Duplass",
+     "character": "Phil",
+     "slug": "mark-duplass",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lRDf99rAfcdqt8Cqk4LsIT7XSD2.jpg"
+    },
+    {
+     "name": "Avan Jogia",
+     "character": "Naren Warne",
+     "slug": "avan-jogia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7BX0Lg39bHlgtvWZpszTr1YjTAW.jpg"
+    },
+    {
+     "name": "Robert Bobroczkyi",
+     "character": "Pirate Clark",
+     "slug": "robert-bobroczkyi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3SK7NuuBKR5PSJwsQ7HO4qHIM9C.jpg"
+    },
+    {
+     "name": "Ember Ambrose",
+     "character": "Young Mary",
+     "slug": "ember-ambrose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w7h6l4ltuWaMYanGgzwyhAHGL2y.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Kane Parsons",
+       "slug": "kane-parsons"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Will Soodik",
+       "slug": "will-soodik"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Edo van Breemen",
+       "slug": "edo-van-breemen"
+      },
+      {
+       "name": "Kane Parsons",
+       "slug": "kane-parsons"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jeremy Cox",
+       "slug": "jeremy-cox"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Greg Ng",
+       "slug": "greg-ng"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shawn Levy",
+       "slug": "shawn-levy"
+      },
+      {
+       "name": "Dan Cohen",
+       "slug": "dan-cohen"
+      },
+      {
+       "name": "Dan Levine",
+       "slug": "dan-levine"
+      },
+      {
+       "name": "James Wan",
+       "slug": "james-wan"
+      },
+      {
+       "name": "Michael Clear",
+       "slug": "michael-clear"
+      },
+      {
+       "name": "Roberto Patino",
+       "slug": "roberto-patino"
+      },
+      {
+       "name": "Kori Adelson",
+       "slug": "kori-adelson"
+      },
+      {
+       "name": "Chris Ferguson",
+       "slug": "chris-ferguson"
+      },
+      {
+       "name": "Osgood Perkins",
+       "slug": "osgood-perkins"
+      },
+      {
+       "name": "Jenno Topping",
+       "slug": "jenno-topping"
+      },
+      {
+       "name": "Peter Chernin",
+       "slug": "peter-chernin"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Atomic Monster",
+     "slug": "atomic-monster",
+     "logo": "https://image.tmdb.org/t/p/w185/ygMQtjsKX7BZkCQhQZY82lgnCUO.png"
+    },
+    {
+     "name": "21 Laps Entertainment",
+     "slug": "21-laps-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/9YJrHYlcfHtwtulkFMAies3aFEl.png"
+    },
+    {
+     "name": "A24",
+     "slug": "a24",
+     "logo": "https://image.tmdb.org/t/p/w185/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png"
+    },
+    {
+     "name": "Phobos",
+     "slug": "phobos",
+     "logo": "https://image.tmdb.org/t/p/w185/Yt9QqQjZzvdZCRLN5vGoi3dc8n.png"
+    },
+    {
+     "name": "The North Road Company",
+     "slug": "the-north-road-company",
+     "logo": "https://image.tmdb.org/t/p/w185/lKT1JrDNMwC9M3HvQQCofbiYtRr.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-06-26": [
+     {
+      "id": 795,
+      "title": "Supergirl",
+      "img": "https://image.tmdb.org/t/p/original/niSvU02l2BONH9ivubV6K1a5QiK.jpg"
+     },
+     {
+      "id": 1169,
+      "title": "Uyir",
+      "img": "https://image.tmdb.org/t/p/original/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg"
+     },
+     {
+      "id": 1170,
+      "title": "Heartin",
+      "img": "https://image.tmdb.org/t/p/original/7xvMocNLZov64aOU1X3BRWawjD7.jpg"
+     }
+    ],
+    "2026-06-18": [
+     {
+      "id": 1063,
+      "title": "Colony",
+      "img": "https://image.tmdb.org/t/p/original/tzjoWjgro6HllRGei0wb11e6AEt.jpg"
+     },
+     {
+      "id": 1154,
+      "title": "Secret of Kalinga",
+      "img": "https://image.tmdb.org/t/p/original/8VsD78ZxP68dLtYYhKgqXbfSQbR.jpg"
+     }
+    ],
+    "2026-06-19": [
+     {
+      "id": 1079,
+      "title": "Balan",
+      "img": "https://image.tmdb.org/t/p/original/c6mFtfkOWplAUm3rniSBi7h1wsv.jpg"
+     },
+     {
+      "id": 1155,
+      "title": "Chinna Chinna Aasai",
+      "img": "https://image.tmdb.org/t/p/original/9uBqlrtZAoq160hEXyhmCv1NXcX.jpg"
+     },
+     {
+      "id": 1156,
+      "title": "Cocktail 2",
+      "img": "https://image.tmdb.org/t/p/original/hkDo2RN8tDsFl3J8wi4j7jy3sXU.jpg"
+     }
+    ],
+    "2026-07-09": [
+     {
+      "id": 1093,
+      "title": "I, Nobody",
+      "img": "https://image.tmdb.org/t/p/original/lVZx2XvCJi9Ujm3zmjMbNGMPVlW.jpg"
+     },
+     {
+      "id": 1182,
+      "title": "Evil Dead Burn",
+      "img": "https://image.tmdb.org/t/p/original/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
+     }
+    ],
+    "2026-06-12": [
+     {
+      "id": 1145,
+      "title": "Bharat Bhhagya Viddhaata",
+      "img": "https://image.tmdb.org/t/p/original/bNXFBZYX50ttN0SYdOc0hPyDlpP.jpg"
+     },
+     {
+      "id": 1146,
+      "title": "Governor",
+      "img": "https://image.tmdb.org/t/p/original/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg"
+     },
+     {
+      "id": 1147,
+      "title": "Main Vaapas Aaunga",
+      "img": "https://image.tmdb.org/t/p/original/qVoRgy52uGlvEESuLuSLdlojk74.jpg"
+     }
+    ],
+    "2026-07-02": [
+     {
+      "id": 1177,
+      "title": "Minions u0026 Monsters",
+      "img": "https://image.tmdb.org/t/p/original/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+     }
+    ],
+    "2026-06-25": [
+     {
+      "id": 1180,
+      "title": "Ananthan Kaadu",
+      "img": "https://image.tmdb.org/t/p/original/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg"
+     }
+    ],
+    "2026-07-03": [
+     {
+      "id": 1192,
+      "title": "Gatta Kusthi 2",
+      "img": "https://image.tmdb.org/t/p/original/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-06-11",
+     "gross": 151740,
+     "sold": 639,
+     "unsold": 612,
+     "shows": 9,
+     "occ": 51.08,
+     "hf": "0",
+     "almost": "0",
+     "ff": "1",
+     "cumul": 151740,
+     "lastUpdatedAt": "2026-06-11 23:14:01"
+    },
+    {
+     "label": "2026-06-12",
+     "gross": 352739,
+     "sold": 1563,
+     "unsold": 3741,
+     "shows": 35,
+     "occ": 29.47,
+     "hf": "0",
+     "almost": "1",
+     "ff": "1",
+     "cumul": 504479,
+     "lastUpdatedAt": "2026-06-12 23:28:01"
+    },
+    {
+     "label": "2026-06-13",
+     "gross": 445206,
+     "sold": 1888,
+     "unsold": 4582,
+     "shows": 43,
+     "occ": 29.18,
+     "hf": "0",
+     "almost": "1",
+     "ff": "1",
+     "cumul": 949685,
+     "lastUpdatedAt": "2026-06-13 23:38:01"
+    },
+    {
+     "label": "2026-06-14",
+     "gross": 352147,
+     "sold": 1540,
+     "unsold": 4212,
+     "shows": 39,
+     "occ": 26.77,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1301832,
+     "lastUpdatedAt": "2026-06-14 23:38:01"
+    },
+    {
+     "label": "2026-06-15",
+     "gross": 189670,
+     "sold": 877,
+     "unsold": 6037,
+     "shows": 44,
+     "occ": 12.68,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1491502,
+     "lastUpdatedAt": "2026-06-15 23:48:01"
+    },
+    {
+     "label": "2026-06-16",
+     "gross": 202359,
+     "sold": 1199,
+     "unsold": 5456,
+     "shows": 43,
+     "occ": 18.02,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1693861,
+     "lastUpdatedAt": "2026-06-16 23:48:01"
+    },
+    {
+     "label": "2026-06-17",
+     "gross": 162103,
+     "sold": 719,
+     "unsold": 5759,
+     "shows": 42,
+     "occ": 11.1,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1855964,
+     "lastUpdatedAt": "2026-06-17 23:48:01"
+    },
+    {
+     "label": "2026-06-18",
+     "gross": 69419,
+     "sold": 303,
+     "unsold": 2878,
+     "shows": 19,
+     "occ": 9.53,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1925383,
+     "lastUpdatedAt": "2026-06-18 23:48:01"
+    },
+    {
+     "label": "2026-06-19",
+     "gross": 57580,
+     "sold": 245,
+     "unsold": 969,
+     "shows": 8,
+     "occ": 20.18,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1982963,
+     "lastUpdatedAt": "2026-06-19 22:58:01"
+    },
+    {
+     "label": "2026-06-20",
+     "gross": 85423,
+     "sold": 367,
+     "unsold": 724,
+     "shows": 8,
+     "occ": 33.64,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2068386,
+     "lastUpdatedAt": "2026-06-20 22:58:01"
+    },
+    {
+     "label": "2026-06-21",
+     "gross": 99534,
+     "sold": 427,
+     "unsold": 830,
+     "shows": 8,
+     "occ": 33.97,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2167920,
+     "lastUpdatedAt": "2026-06-21 22:58:01"
+    },
+    {
+     "label": "2026-06-22",
+     "gross": 21519,
+     "sold": 94,
+     "unsold": 813,
+     "shows": 8,
+     "occ": 10.36,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2189439,
+     "lastUpdatedAt": "2026-06-22 23:23:01"
+    },
+    {
+     "label": "2026-06-23",
+     "gross": 12312,
+     "sold": 59,
+     "unsold": 493,
+     "shows": 4,
+     "occ": 10.69,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2201751,
+     "lastUpdatedAt": "2026-06-23 12:28:01"
+    },
+    {
+     "label": "2026-06-24",
+     "gross": 42690,
+     "sold": 167,
+     "unsold": 857,
+     "shows": 9,
+     "occ": 16.31,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2244441,
+     "lastUpdatedAt": "2026-06-24 23:38:01"
+    },
+    {
+     "label": "2026-06-25",
+     "gross": 25245,
+     "sold": 97,
+     "unsold": 600,
+     "shows": 6,
+     "occ": 13.92,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2269686,
+     "lastUpdatedAt": "2026-06-25 22:53:01"
+    },
+    {
+     "label": "2026-06-26",
+     "gross": 20120,
+     "sold": 102,
+     "unsold": 503,
+     "shows": 4,
+     "occ": 16.86,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2289806,
+     "lastUpdatedAt": "2026-06-26 20:28:01"
+    },
+    {
+     "label": "2026-06-27",
+     "gross": 22040,
+     "sold": 106,
+     "unsold": 335,
+     "shows": 3,
+     "occ": 24.04,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2311846,
+     "lastUpdatedAt": "2026-06-27 20:28:01"
+    },
+    {
+     "label": "2026-06-28",
+     "gross": 25180,
+     "sold": 123,
+     "unsold": 440,
+     "shows": 4,
+     "occ": 21.85,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2337026,
+     "lastUpdatedAt": "2026-06-28 20:28:01"
+    },
+    {
+     "label": "2026-06-29",
+     "gross": 12430,
+     "sold": 59,
+     "unsold": 409,
+     "shows": 3,
+     "occ": 12.61,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2349456,
+     "lastUpdatedAt": "2026-06-29 22:28:01"
+    },
+    {
+     "label": "2026-06-30",
+     "gross": 9741,
+     "sold": 77,
+     "unsold": 368,
+     "shows": 3,
+     "occ": 17.3,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2359197,
+     "lastUpdatedAt": "2026-06-30 22:28:01"
+    },
+    {
+     "label": "2026-07-01",
+     "gross": 9150,
+     "sold": 45,
+     "unsold": 401,
+     "shows": 3,
+     "occ": 10.09,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2368347,
+     "lastUpdatedAt": "2026-07-01 22:28:01"
+    },
+    {
+     "label": "2026-07-02",
+     "gross": 10000,
+     "sold": 53,
+     "unsold": 392,
+     "shows": 3,
+     "occ": 11.91,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2378347,
+     "lastUpdatedAt": "2026-07-02 22:28:01"
+    },
+    {
+     "label": "2026-07-03",
+     "gross": 10470,
+     "sold": 45,
+     "unsold": 254,
+     "shows": 2,
+     "occ": 15.05,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2388817,
+     "lastUpdatedAt": "2026-07-03 19:38:01"
+    },
+    {
+     "label": "2026-07-04",
+     "gross": 12120,
+     "sold": 60,
+     "unsold": 239,
+     "shows": 2,
+     "occ": 20.07,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2400937,
+     "lastUpdatedAt": "2026-07-04 17:53:01"
+    },
+    {
+     "label": "2026-07-05",
+     "gross": 24060,
+     "sold": 112,
+     "unsold": 188,
+     "shows": 2,
+     "occ": 37.33,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2424997,
+     "lastUpdatedAt": "2026-07-05 17:53:01"
+    },
+    {
+     "label": "2026-07-06",
+     "gross": 4200,
+     "sold": 21,
+     "unsold": 299,
+     "shows": 2,
+     "occ": 6.56,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2429197,
+     "lastUpdatedAt": "2026-07-06 19:23:01"
+    },
+    {
+     "label": "2026-07-07",
+     "gross": 5886,
+     "sold": 42,
+     "unsold": 279,
+     "shows": 2,
+     "occ": 13.08,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2435083,
+     "lastUpdatedAt": "2026-07-07 19:08:01"
+    },
+    {
+     "label": "2026-07-08",
+     "gross": 6390,
+     "sold": 34,
+     "unsold": 286,
+     "shows": 2,
+     "occ": 10.62,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2441473,
+     "lastUpdatedAt": "2026-07-08 19:08:01"
+    },
+    {
+     "label": "2026-07-09",
+     "gross": 3040,
+     "sold": 16,
+     "unsold": 304,
+     "shows": 2,
+     "occ": 5,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2444513,
+     "lastUpdatedAt": "2026-07-09 19:08:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 2444513,
+    "totalShows": 362,
+    "totalSeats": 54339,
+    "totalSold": 11079,
+    "avgOcc": "20.4",
+    "totalDays": 29,
+    "totalHousefull": 0,
+    "totalAlmost": 2,
+    "totalFastFilling": 3,
+    "peakDay": {
+     "day": 3,
+     "gross": 445206,
+     "date": "2026-06-13"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 151740,
+     "date": "2026-06-11"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "29:3040:2444513"
+  },
+  "week": {
+   "movie": {
+    "id": 1139,
+    "title": "Backrooms",
+    "img": "https://image.tmdb.org/t/p/original/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "released": "2026-06-11",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26657236",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "111 min",
+    "genre": "Horror, Mystery, Science Fiction",
+    "plot": "A strange doorway appears in the basement of a furniture showroom.",
+    "released": "2026-05-27",
+    "director": "Kane Parsons",
+    "directorSlug": "kane-parsons",
+    "actors": [
+     "Chiwetel Ejiofor",
+     "Renate Reinsve",
+     "Finn Bennett",
+     "Lukita Maxwell",
+     "Mark Duplass",
+     "Avan Jogia"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 211067,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.0",
+      "votes": 3389,
+      "updatedAt": "2026-09-24T10:11:16.000Z"
+     },
+     "rt": "87%",
+     "metascore": 76,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Chiwetel Ejiofor",
+     "character": "Clark",
+     "slug": "chiwetel-ejiofor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+    },
+    {
+     "name": "Renate Reinsve",
+     "character": "Mary",
+     "slug": "renate-reinsve",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/q0ljTd4fyFSJKxPgmcrKtdg3HKo.jpg"
+    },
+    {
+     "name": "Finn Bennett",
+     "character": "Bobby",
+     "slug": "finn-bennett",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p4ya77nmLlhS2cyPKUZi9zVD4Mu.jpg"
+    },
+    {
+     "name": "Lukita Maxwell",
+     "character": "Kat",
+     "slug": "lukita-maxwell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/g5g6XxUAtSdPfsJrSoFkl7vH51d.jpg"
+    },
+    {
+     "name": "Mark Duplass",
+     "character": "Phil",
+     "slug": "mark-duplass",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lRDf99rAfcdqt8Cqk4LsIT7XSD2.jpg"
+    },
+    {
+     "name": "Avan Jogia",
+     "character": "Naren Warne",
+     "slug": "avan-jogia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7BX0Lg39bHlgtvWZpszTr1YjTAW.jpg"
+    },
+    {
+     "name": "Robert Bobroczkyi",
+     "character": "Pirate Clark",
+     "slug": "robert-bobroczkyi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3SK7NuuBKR5PSJwsQ7HO4qHIM9C.jpg"
+    },
+    {
+     "name": "Ember Ambrose",
+     "character": "Young Mary",
+     "slug": "ember-ambrose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w7h6l4ltuWaMYanGgzwyhAHGL2y.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Kane Parsons",
+       "slug": "kane-parsons"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Will Soodik",
+       "slug": "will-soodik"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Edo van Breemen",
+       "slug": "edo-van-breemen"
+      },
+      {
+       "name": "Kane Parsons",
+       "slug": "kane-parsons"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jeremy Cox",
+       "slug": "jeremy-cox"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Greg Ng",
+       "slug": "greg-ng"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shawn Levy",
+       "slug": "shawn-levy"
+      },
+      {
+       "name": "Dan Cohen",
+       "slug": "dan-cohen"
+      },
+      {
+       "name": "Dan Levine",
+       "slug": "dan-levine"
+      },
+      {
+       "name": "James Wan",
+       "slug": "james-wan"
+      },
+      {
+       "name": "Michael Clear",
+       "slug": "michael-clear"
+      },
+      {
+       "name": "Roberto Patino",
+       "slug": "roberto-patino"
+      },
+      {
+       "name": "Kori Adelson",
+       "slug": "kori-adelson"
+      },
+      {
+       "name": "Chris Ferguson",
+       "slug": "chris-ferguson"
+      },
+      {
+       "name": "Osgood Perkins",
+       "slug": "osgood-perkins"
+      },
+      {
+       "name": "Jenno Topping",
+       "slug": "jenno-topping"
+      },
+      {
+       "name": "Peter Chernin",
+       "slug": "peter-chernin"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Atomic Monster",
+     "slug": "atomic-monster",
+     "logo": "https://image.tmdb.org/t/p/w185/ygMQtjsKX7BZkCQhQZY82lgnCUO.png"
+    },
+    {
+     "name": "21 Laps Entertainment",
+     "slug": "21-laps-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/9YJrHYlcfHtwtulkFMAies3aFEl.png"
+    },
+    {
+     "name": "A24",
+     "slug": "a24",
+     "logo": "https://image.tmdb.org/t/p/w185/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png"
+    },
+    {
+     "name": "Phobos",
+     "slug": "phobos",
+     "logo": "https://image.tmdb.org/t/p/w185/Yt9QqQjZzvdZCRLN5vGoi3dc8n.png"
+    },
+    {
+     "name": "The North Road Company",
+     "slug": "the-north-road-company",
+     "logo": "https://image.tmdb.org/t/p/w185/lKT1JrDNMwC9M3HvQQCofbiYtRr.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-06-26": [
+     {
+      "id": 795,
+      "title": "Supergirl",
+      "img": "https://image.tmdb.org/t/p/original/niSvU02l2BONH9ivubV6K1a5QiK.jpg"
+     },
+     {
+      "id": 1169,
+      "title": "Uyir",
+      "img": "https://image.tmdb.org/t/p/original/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg"
+     },
+     {
+      "id": 1170,
+      "title": "Heartin",
+      "img": "https://image.tmdb.org/t/p/original/7xvMocNLZov64aOU1X3BRWawjD7.jpg"
+     }
+    ],
+    "2026-06-18": [
+     {
+      "id": 1063,
+      "title": "Colony",
+      "img": "https://image.tmdb.org/t/p/original/tzjoWjgro6HllRGei0wb11e6AEt.jpg"
+     },
+     {
+      "id": 1154,
+      "title": "Secret of Kalinga",
+      "img": "https://image.tmdb.org/t/p/original/8VsD78ZxP68dLtYYhKgqXbfSQbR.jpg"
+     }
+    ],
+    "2026-06-19": [
+     {
+      "id": 1079,
+      "title": "Balan",
+      "img": "https://image.tmdb.org/t/p/original/c6mFtfkOWplAUm3rniSBi7h1wsv.jpg"
+     },
+     {
+      "id": 1155,
+      "title": "Chinna Chinna Aasai",
+      "img": "https://image.tmdb.org/t/p/original/9uBqlrtZAoq160hEXyhmCv1NXcX.jpg"
+     },
+     {
+      "id": 1156,
+      "title": "Cocktail 2",
+      "img": "https://image.tmdb.org/t/p/original/hkDo2RN8tDsFl3J8wi4j7jy3sXU.jpg"
+     }
+    ],
+    "2026-07-09": [
+     {
+      "id": 1093,
+      "title": "I, Nobody",
+      "img": "https://image.tmdb.org/t/p/original/lVZx2XvCJi9Ujm3zmjMbNGMPVlW.jpg"
+     },
+     {
+      "id": 1182,
+      "title": "Evil Dead Burn",
+      "img": "https://image.tmdb.org/t/p/original/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
+     }
+    ],
+    "2026-06-12": [
+     {
+      "id": 1145,
+      "title": "Bharat Bhhagya Viddhaata",
+      "img": "https://image.tmdb.org/t/p/original/bNXFBZYX50ttN0SYdOc0hPyDlpP.jpg"
+     },
+     {
+      "id": 1146,
+      "title": "Governor",
+      "img": "https://image.tmdb.org/t/p/original/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg"
+     },
+     {
+      "id": 1147,
+      "title": "Main Vaapas Aaunga",
+      "img": "https://image.tmdb.org/t/p/original/qVoRgy52uGlvEESuLuSLdlojk74.jpg"
+     }
+    ],
+    "2026-07-02": [
+     {
+      "id": 1177,
+      "title": "Minions u0026 Monsters",
+      "img": "https://image.tmdb.org/t/p/original/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+     }
+    ],
+    "2026-06-25": [
+     {
+      "id": 1180,
+      "title": "Ananthan Kaadu",
+      "img": "https://image.tmdb.org/t/p/original/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg"
+     }
+    ],
+    "2026-07-03": [
+     {
+      "id": 1192,
+      "title": "Gatta Kusthi 2",
+      "img": "https://image.tmdb.org/t/p/original/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-06-11",
+     "gross": 1855964,
+     "sold": 8425,
+     "unsold": 30399,
+     "shows": 255,
+     "occ": 21.7,
+     "hf": "0",
+     "almost": "2",
+     "ff": "3",
+     "cumul": 1855964,
+     "lastUpdatedAt": "2026-06-17 23:48:01"
+    },
+    {
+     "label": "2026-06-18",
+     "gross": 388477,
+     "sold": 1662,
+     "unsold": 7564,
+     "shows": 64,
+     "occ": 18.01,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2244441,
+     "lastUpdatedAt": "2026-06-24 23:38:01"
+    },
+    {
+     "label": "2026-06-25",
+     "gross": 123906,
+     "sold": 609,
+     "unsold": 3056,
+     "shows": 26,
+     "occ": 16.62,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2368347,
+     "lastUpdatedAt": "2026-07-01 22:28:01"
+    },
+    {
+     "label": "2026-07-02",
+     "gross": 73126,
+     "sold": 367,
+     "unsold": 1937,
+     "shows": 15,
+     "occ": 15.93,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2441473,
+     "lastUpdatedAt": "2026-07-08 19:08:01"
+    },
+    {
+     "label": "2026-07-09",
+     "gross": 3040,
+     "sold": 16,
+     "unsold": 304,
+     "shows": 2,
+     "occ": 5,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2444513,
+     "lastUpdatedAt": "2026-07-09 19:08:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 2444513,
+    "totalShows": 362,
+    "totalSeats": 54339,
+    "totalSold": 11079,
+    "avgOcc": "20.4",
+    "totalDays": 5,
+    "totalHousefull": 0,
+    "totalAlmost": 2,
+    "totalFastFilling": 3,
+    "peakDay": {
+     "day": 1,
+     "gross": 1855964
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 1855964
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "5:3040:2444513"
+  },
+  "district": {
+   "movie": {
+    "id": 1139,
+    "title": "Backrooms",
+    "img": "https://image.tmdb.org/t/p/original/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "released": "2026-06-11",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26657236",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "111 min",
+    "genre": "Horror, Mystery, Science Fiction",
+    "plot": "A strange doorway appears in the basement of a furniture showroom.",
+    "released": "2026-05-27",
+    "director": "Kane Parsons",
+    "directorSlug": "kane-parsons",
+    "actors": [
+     "Chiwetel Ejiofor",
+     "Renate Reinsve",
+     "Finn Bennett",
+     "Lukita Maxwell",
+     "Mark Duplass",
+     "Avan Jogia"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 211067,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.0",
+      "votes": 3389,
+      "updatedAt": "2026-09-24T10:11:16.000Z"
+     },
+     "rt": "87%",
+     "metascore": 76,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Chiwetel Ejiofor",
+     "character": "Clark",
+     "slug": "chiwetel-ejiofor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+    },
+    {
+     "name": "Renate Reinsve",
+     "character": "Mary",
+     "slug": "renate-reinsve",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/q0ljTd4fyFSJKxPgmcrKtdg3HKo.jpg"
+    },
+    {
+     "name": "Finn Bennett",
+     "character": "Bobby",
+     "slug": "finn-bennett",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p4ya77nmLlhS2cyPKUZi9zVD4Mu.jpg"
+    },
+    {
+     "name": "Lukita Maxwell",
+     "character": "Kat",
+     "slug": "lukita-maxwell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/g5g6XxUAtSdPfsJrSoFkl7vH51d.jpg"
+    },
+    {
+     "name": "Mark Duplass",
+     "character": "Phil",
+     "slug": "mark-duplass",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lRDf99rAfcdqt8Cqk4LsIT7XSD2.jpg"
+    },
+    {
+     "name": "Avan Jogia",
+     "character": "Naren Warne",
+     "slug": "avan-jogia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7BX0Lg39bHlgtvWZpszTr1YjTAW.jpg"
+    },
+    {
+     "name": "Robert Bobroczkyi",
+     "character": "Pirate Clark",
+     "slug": "robert-bobroczkyi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3SK7NuuBKR5PSJwsQ7HO4qHIM9C.jpg"
+    },
+    {
+     "name": "Ember Ambrose",
+     "character": "Young Mary",
+     "slug": "ember-ambrose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w7h6l4ltuWaMYanGgzwyhAHGL2y.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Kane Parsons",
+       "slug": "kane-parsons"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Will Soodik",
+       "slug": "will-soodik"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Edo van Breemen",
+       "slug": "edo-van-breemen"
+      },
+      {
+       "name": "Kane Parsons",
+       "slug": "kane-parsons"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jeremy Cox",
+       "slug": "jeremy-cox"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Greg Ng",
+       "slug": "greg-ng"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shawn Levy",
+       "slug": "shawn-levy"
+      },
+      {
+       "name": "Dan Cohen",
+       "slug": "dan-cohen"
+      },
+      {
+       "name": "Dan Levine",
+       "slug": "dan-levine"
+      },
+      {
+       "name": "James Wan",
+       "slug": "james-wan"
+      },
+      {
+       "name": "Michael Clear",
+       "slug": "michael-clear"
+      },
+      {
+       "name": "Roberto Patino",
+       "slug": "roberto-patino"
+      },
+      {
+       "name": "Kori Adelson",
+       "slug": "kori-adelson"
+      },
+      {
+       "name": "Chris Ferguson",
+       "slug": "chris-ferguson"
+      },
+      {
+       "name": "Osgood Perkins",
+       "slug": "osgood-perkins"
+      },
+      {
+       "name": "Jenno Topping",
+       "slug": "jenno-topping"
+      },
+      {
+       "name": "Peter Chernin",
+       "slug": "peter-chernin"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Atomic Monster",
+     "slug": "atomic-monster",
+     "logo": "https://image.tmdb.org/t/p/w185/ygMQtjsKX7BZkCQhQZY82lgnCUO.png"
+    },
+    {
+     "name": "21 Laps Entertainment",
+     "slug": "21-laps-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/9YJrHYlcfHtwtulkFMAies3aFEl.png"
+    },
+    {
+     "name": "A24",
+     "slug": "a24",
+     "logo": "https://image.tmdb.org/t/p/w185/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png"
+    },
+    {
+     "name": "Phobos",
+     "slug": "phobos",
+     "logo": "https://image.tmdb.org/t/p/w185/Yt9QqQjZzvdZCRLN5vGoi3dc8n.png"
+    },
+    {
+     "name": "The North Road Company",
+     "slug": "the-north-road-company",
+     "logo": "https://image.tmdb.org/t/p/w185/lKT1JrDNMwC9M3HvQQCofbiYtRr.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-06-26": [
+     {
+      "id": 795,
+      "title": "Supergirl",
+      "img": "https://image.tmdb.org/t/p/original/niSvU02l2BONH9ivubV6K1a5QiK.jpg"
+     },
+     {
+      "id": 1169,
+      "title": "Uyir",
+      "img": "https://image.tmdb.org/t/p/original/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg"
+     },
+     {
+      "id": 1170,
+      "title": "Heartin",
+      "img": "https://image.tmdb.org/t/p/original/7xvMocNLZov64aOU1X3BRWawjD7.jpg"
+     }
+    ],
+    "2026-06-18": [
+     {
+      "id": 1063,
+      "title": "Colony",
+      "img": "https://image.tmdb.org/t/p/original/tzjoWjgro6HllRGei0wb11e6AEt.jpg"
+     },
+     {
+      "id": 1154,
+      "title": "Secret of Kalinga",
+      "img": "https://image.tmdb.org/t/p/original/8VsD78ZxP68dLtYYhKgqXbfSQbR.jpg"
+     }
+    ],
+    "2026-06-19": [
+     {
+      "id": 1079,
+      "title": "Balan",
+      "img": "https://image.tmdb.org/t/p/original/c6mFtfkOWplAUm3rniSBi7h1wsv.jpg"
+     },
+     {
+      "id": 1155,
+      "title": "Chinna Chinna Aasai",
+      "img": "https://image.tmdb.org/t/p/original/9uBqlrtZAoq160hEXyhmCv1NXcX.jpg"
+     },
+     {
+      "id": 1156,
+      "title": "Cocktail 2",
+      "img": "https://image.tmdb.org/t/p/original/hkDo2RN8tDsFl3J8wi4j7jy3sXU.jpg"
+     }
+    ],
+    "2026-07-09": [
+     {
+      "id": 1093,
+      "title": "I, Nobody",
+      "img": "https://image.tmdb.org/t/p/original/lVZx2XvCJi9Ujm3zmjMbNGMPVlW.jpg"
+     },
+     {
+      "id": 1182,
+      "title": "Evil Dead Burn",
+      "img": "https://image.tmdb.org/t/p/original/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
+     }
+    ],
+    "2026-06-12": [
+     {
+      "id": 1145,
+      "title": "Bharat Bhhagya Viddhaata",
+      "img": "https://image.tmdb.org/t/p/original/bNXFBZYX50ttN0SYdOc0hPyDlpP.jpg"
+     },
+     {
+      "id": 1146,
+      "title": "Governor",
+      "img": "https://image.tmdb.org/t/p/original/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg"
+     },
+     {
+      "id": 1147,
+      "title": "Main Vaapas Aaunga",
+      "img": "https://image.tmdb.org/t/p/original/qVoRgy52uGlvEESuLuSLdlojk74.jpg"
+     }
+    ],
+    "2026-07-02": [
+     {
+      "id": 1177,
+      "title": "Minions u0026 Monsters",
+      "img": "https://image.tmdb.org/t/p/original/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+     }
+    ],
+    "2026-06-25": [
+     {
+      "id": 1180,
+      "title": "Ananthan Kaadu",
+      "img": "https://image.tmdb.org/t/p/original/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg"
+     }
+    ],
+    "2026-07-03": [
+     {
+      "id": 1192,
+      "title": "Gatta Kusthi 2",
+      "img": "https://image.tmdb.org/t/p/original/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 1149500,
+     "sold": 5186,
+     "unsold": 14028,
+     "shows": 134,
+     "occ": 26.99,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1149500,
+     "lastUpdatedAt": "2026-07-09 16:53:01"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 635344,
+     "sold": 2810,
+     "unsold": 9687,
+     "shows": 77,
+     "occ": 22.49,
+     "hf": "0",
+     "almost": "2",
+     "ff": "3",
+     "cumul": 1784844,
+     "lastUpdatedAt": "2026-07-09 19:08:01"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 284492,
+     "sold": 1129,
+     "unsold": 7154,
+     "shows": 55,
+     "occ": 13.63,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2069336,
+     "lastUpdatedAt": "2026-06-25 21:58:01"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 195148,
+     "sold": 963,
+     "unsold": 3969,
+     "shows": 34,
+     "occ": 19.53,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2264484,
+     "lastUpdatedAt": "2026-06-24 17:43:01"
+    },
+    {
+     "label": "Kannur",
+     "gross": 99890,
+     "sold": 450,
+     "unsold": 3708,
+     "shows": 33,
+     "occ": 10.82,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2364374,
+     "lastUpdatedAt": "2026-06-20 17:43:01"
+    },
+    {
+     "label": "Thiruvananthapuram (Trivandrum)",
+     "gross": 35739,
+     "sold": 177,
+     "unsold": 687,
+     "shows": 8,
+     "occ": 20.49,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2400113,
+     "lastUpdatedAt": "2026-07-08 19:08:01"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 24000,
+     "sold": 240,
+     "unsold": 1329,
+     "shows": 11,
+     "occ": 15.3,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2424113,
+     "lastUpdatedAt": "2026-06-17 21:44:01"
+    },
+    {
+     "label": "Kollam",
+     "gross": 20400,
+     "sold": 124,
+     "unsold": 2698,
+     "shows": 10,
+     "occ": 4.39,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2444513,
+     "lastUpdatedAt": "2026-06-17 11:13:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 2444513,
+    "totalShows": 362,
+    "totalSeats": 54339,
+    "totalSold": 11079,
+    "avgOcc": "20.4",
+    "totalDays": 8,
+    "totalHousefull": 0,
+    "totalAlmost": 2,
+    "totalFastFilling": 3,
+    "peakDay": {
+     "day": 1,
+     "gross": 1149500,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 1149500,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "8:20400:2444513"
+  }
+ }
+}

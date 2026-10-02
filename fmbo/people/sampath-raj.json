@@ -1,0 +1,48 @@
+{
+ "slug": "sampath-raj",
+ "name": "Sampath Raj",
+ "source_url": "https://fridaymatinee.in/people/sampath-raj",
+ "captured_at": "2026-10-02T10:05:27.011781+00:00",
+ "person": {
+  "name": "Sampath Raj",
+  "photo": "https://image.tmdb.org/t/p/w185/oQgoihP26Hyg6gMFVpACRAygZli.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 361,
+   "movie_slug": "agent",
+   "title": "Agent",
+   "year": 2023,
+   "kerala_gross": "₹45.2L"
+  },
+  {
+   "movie_id": 821,
+   "movie_slug": "mirage",
+   "title": "Mirage",
+   "year": 2025,
+   "kerala_gross": "₹5.2 Cr"
+  },
+  {
+   "movie_id": 1231,
+   "movie_slug": "magudam",
+   "title": "Magudam",
+   "year": 2026,
+   "kerala_gross": "₹7.0L"
+  },
+  {
+   "movie_id": 1335,
+   "movie_slug": "sigma",
+   "title": "Sigma",
+   "year": 2026,
+   "kerala_gross": "₹4.4L"
+  }
+ ]
+}

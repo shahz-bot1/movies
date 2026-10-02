@@ -1,0 +1,41 @@
+{
+ "slug": "franco-francis",
+ "name": "Franco Francis",
+ "source_url": "https://fridaymatinee.in/people/franco-francis",
+ "captured_at": "2026-10-01T22:22:31.087525+00:00",
+ "person": {
+  "name": "Franco Francis",
+  "photo": "https://image.tmdb.org/t/p/w185/pQ6lobHfFDMOS9MvTV2H5T43qsd.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 295,
+   "movie_slug": "christy",
+   "title": "Christy",
+   "year": 2023,
+   "kerala_gross": "₹51.6L"
+  },
+  {
+   "movie_id": 633,
+   "movie_slug": "alappuzha-gymkhana",
+   "title": "Alappuzha Gymkhana",
+   "year": 2025,
+   "kerala_gross": "₹35.2 Cr"
+  },
+  {
+   "movie_id": 1047,
+   "movie_slug": "derby",
+   "title": "Derby",
+   "year": 2026,
+   "kerala_gross": "₹1.1 Cr"
+  }
+ ]
+}

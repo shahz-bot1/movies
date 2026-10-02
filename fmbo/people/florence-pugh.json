@@ -1,0 +1,62 @@
+{
+ "slug": "florence-pugh",
+ "name": "Florence Pugh",
+ "source_url": "https://fridaymatinee.in/people/florence-pugh",
+ "captured_at": "2026-10-01T22:21:38.282005+00:00",
+ "person": {
+  "name": "Florence Pugh",
+  "photo": "https://image.tmdb.org/t/p/w185/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 403,
+   "movie_slug": "oppenheimer",
+   "title": "Oppenheimer",
+   "year": 2023,
+   "kerala_gross": "₹7.1 Cr"
+  },
+  {
+   "movie_id": 498,
+   "movie_slug": "dune-part-two",
+   "title": "Dune: Part Two",
+   "year": 2024,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 687,
+   "movie_slug": "thunderbolts",
+   "title": "Thunderbolts*",
+   "year": 2025,
+   "kerala_gross": "₹1.0 Cr"
+  },
+  {
+   "movie_id": 675,
+   "movie_slug": "spider-man-brand-new-day",
+   "title": "Spider-Man: Brand New Day",
+   "year": 2026,
+   "kerala_gross": "₹35.7 Cr"
+  },
+  {
+   "movie_id": 794,
+   "movie_slug": "avengers-doomsday",
+   "title": "Avengers: Doomsday",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 778,
+   "movie_slug": "dune-part-three",
+   "title": "Dune: Part Three",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slug": "tamizh",
+ "name": "Tamizh",
+ "source_url": "https://fridaymatinee.in/people/tamizh",
+ "captured_at": "2026-10-02T11:15:00.997477+00:00",
+ "person": {
+  "name": "Tamizh",
+  "photo": "https://image.tmdb.org/t/p/w185/67atHtV6UWaWqaJk4NJhj2JHyY9.jpg",
+  "role": "Actor and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 303,
+   "movie_slug": "pakalum-paathiravum",
+   "title": "Pakalum Paathiravum",
+   "year": 2023,
+   "kerala_gross": "₹60.1L"
+  },
+  {
+   "movie_id": 316,
+   "movie_slug": "viduthalai-part-1",
+   "title": "Viduthalai Part 1",
+   "year": 2023,
+   "kerala_gross": "₹86.9L"
+  },
+  {
+   "movie_id": 618,
+   "movie_slug": "viduthalai-part-2",
+   "title": "Viduthalai Part - 2",
+   "year": 2024,
+   "kerala_gross": "₹66.7L"
+  },
+  {
+   "movie_id": 678,
+   "movie_slug": "retro",
+   "title": "Retro",
+   "year": 2025,
+   "kerala_gross": "₹4.0 Cr"
+  }
+ ]
+}

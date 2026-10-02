@@ -1,0 +1,41 @@
+{
+ "slug": "samjith-mhd",
+ "name": "Samjith Mhd.",
+ "source_url": "https://fridaymatinee.in/people/samjith-mhd",
+ "captured_at": "2026-10-02T10:05:17.864530+00:00",
+ "person": {
+  "name": "Samjith Mhd.",
+  "photo": null,
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 17,
+   "movie_slug": "edakkad-battalion-06",
+   "title": "Edakkad Battalion 06",
+   "year": 2019,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 667,
+   "movie_slug": "lucifer",
+   "title": "Lucifer",
+   "year": 2025,
+   "kerala_gross": "₹32.3L"
+  },
+  {
+   "movie_id": 724,
+   "movie_slug": "jsk-janaki-v-vs-state-of-kerala",
+   "title": "Jsk - Janaki V Vs State Of Kerala",
+   "year": 2025,
+   "kerala_gross": "₹4.6 Cr"
+  }
+ ]
+}

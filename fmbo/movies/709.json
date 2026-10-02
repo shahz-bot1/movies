@@ -1,0 +1,653 @@
+{
+ "id": 709,
+ "slug": "kannappa",
+ "source_url": "https://fridaymatinee.in/boxoffice/kannappa-709",
+ "captured_at": "2026-10-01T18:20:03.075346+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 709,
+    "title": "Kannappa",
+    "img": "https://image.tmdb.org/t/p/original/orxZctKHCuAetIU1FAAtseNEa0B.jpg",
+    "released": "2025-06-27",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt5306972",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "182 min",
+    "genre": "Fantasy, History, Drama",
+    "plot": "After witnessing the cruel sacrifice of his childhood friend, an atheist warrior rejects religion until love forces him to find his own faith.",
+    "released": "2025-06-26",
+    "director": "Mukesh Kumar Singh",
+    "directorSlug": "mukesh-kumar-singh",
+    "actors": [
+     "Vishnu Manchu",
+     "Preity Mukhundhan",
+     "Akshay Kumar",
+     "Mohan Babu",
+     "Mohanlal",
+     "Prabhas"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.6",
+      "votes": 28024,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vishnu Manchu",
+     "character": "Kannappa",
+     "slug": "vishnu-manchu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/g0wi6kP54JK2B1312pwiEexihFB.jpg"
+    },
+    {
+     "name": "Preity Mukhundhan",
+     "character": "Nemali",
+     "slug": "preity-mukhundhan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m3qGm6zD2MIye4PB0OaeaS6wc9v.jpg"
+    },
+    {
+     "name": "Akshay Kumar",
+     "character": "Shiva",
+     "slug": "akshay-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1d77rFiN8h2JXE6vS8VCuc2k20J.jpg"
+    },
+    {
+     "name": "Mohan Babu",
+     "character": "Mahadeva Shastri",
+     "slug": "mohan-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg"
+    },
+    {
+     "name": "Mohanlal",
+     "character": "Kirata",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Prabhas",
+     "character": "Rudra",
+     "slug": "prabhas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u6RVP8ukgLaymeoi5VmX0JRAcCn.jpg"
+    },
+    {
+     "name": "Kajal Aggarwal",
+     "character": "Parvathy",
+     "slug": "kajal-aggarwal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wDzYjnDRNzyigCPBEwc9gf1hZ0Q.jpg"
+    },
+    {
+     "name": "R. Sarathkumar",
+     "character": "Nathanadhudu",
+     "slug": "r-sarathkumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x2Bx2mxOvgvRzaLFlpKNGmKYkK2.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Mukesh Kumar Singh",
+       "slug": "mukesh-kumar-singh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vishnu Manchu",
+       "slug": "vishnu-manchu"
+      },
+      {
+       "name": "Gopalakrishna Paruchuri",
+       "slug": "gopalakrishna-paruchuri"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Stephen Devassy",
+       "slug": "stephen-devassy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sheldon Chau",
+       "slug": "sheldon-chau"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Anthony",
+       "slug": "anthony"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Mohan Babu",
+       "slug": "mohan-babu"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "24 Frames Factory",
+     "slug": "24-frames-factory",
+     "logo": "https://image.tmdb.org/t/p/w185/8ghDPXgUL9G8KK3us1LQJeH9qxI.png"
+    },
+    {
+     "name": "AVA Entertainment",
+     "slug": "ava-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/lqtyMXWdf2QNxVpyzTyYgR2Cqqq.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 6404223.599999999,
+    "totalShows": 2968,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 2430252.3999999994,
+     "date": "2025-06-27"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2430252.3999999994,
+     "date": "2025-06-27"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-06-27"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 709,
+    "title": "Kannappa",
+    "img": "https://image.tmdb.org/t/p/original/orxZctKHCuAetIU1FAAtseNEa0B.jpg",
+    "released": "2025-06-27",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt5306972",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "182 min",
+    "genre": "Fantasy, History, Drama",
+    "plot": "After witnessing the cruel sacrifice of his childhood friend, an atheist warrior rejects religion until love forces him to find his own faith.",
+    "released": "2025-06-26",
+    "director": "Mukesh Kumar Singh",
+    "directorSlug": "mukesh-kumar-singh",
+    "actors": [
+     "Vishnu Manchu",
+     "Preity Mukhundhan",
+     "Akshay Kumar",
+     "Mohan Babu",
+     "Mohanlal",
+     "Prabhas"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.6",
+      "votes": 28024,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vishnu Manchu",
+     "character": "Kannappa",
+     "slug": "vishnu-manchu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/g0wi6kP54JK2B1312pwiEexihFB.jpg"
+    },
+    {
+     "name": "Preity Mukhundhan",
+     "character": "Nemali",
+     "slug": "preity-mukhundhan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m3qGm6zD2MIye4PB0OaeaS6wc9v.jpg"
+    },
+    {
+     "name": "Akshay Kumar",
+     "character": "Shiva",
+     "slug": "akshay-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1d77rFiN8h2JXE6vS8VCuc2k20J.jpg"
+    },
+    {
+     "name": "Mohan Babu",
+     "character": "Mahadeva Shastri",
+     "slug": "mohan-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg"
+    },
+    {
+     "name": "Mohanlal",
+     "character": "Kirata",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Prabhas",
+     "character": "Rudra",
+     "slug": "prabhas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u6RVP8ukgLaymeoi5VmX0JRAcCn.jpg"
+    },
+    {
+     "name": "Kajal Aggarwal",
+     "character": "Parvathy",
+     "slug": "kajal-aggarwal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wDzYjnDRNzyigCPBEwc9gf1hZ0Q.jpg"
+    },
+    {
+     "name": "R. Sarathkumar",
+     "character": "Nathanadhudu",
+     "slug": "r-sarathkumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x2Bx2mxOvgvRzaLFlpKNGmKYkK2.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Mukesh Kumar Singh",
+       "slug": "mukesh-kumar-singh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vishnu Manchu",
+       "slug": "vishnu-manchu"
+      },
+      {
+       "name": "Gopalakrishna Paruchuri",
+       "slug": "gopalakrishna-paruchuri"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Stephen Devassy",
+       "slug": "stephen-devassy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sheldon Chau",
+       "slug": "sheldon-chau"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Anthony",
+       "slug": "anthony"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Mohan Babu",
+       "slug": "mohan-babu"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "24 Frames Factory",
+     "slug": "24-frames-factory",
+     "logo": "https://image.tmdb.org/t/p/w185/8ghDPXgUL9G8KK3us1LQJeH9qxI.png"
+    },
+    {
+     "name": "AVA Entertainment",
+     "slug": "ava-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/lqtyMXWdf2QNxVpyzTyYgR2Cqqq.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-06-27",
+     "gross": 6404223.6,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2968,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 6404223.6,
+    "totalShows": 2968,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 6404223.6
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 6404223.6
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-06-27"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 709,
+    "title": "Kannappa",
+    "img": "https://image.tmdb.org/t/p/original/orxZctKHCuAetIU1FAAtseNEa0B.jpg",
+    "released": "2025-06-27",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt5306972",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "182 min",
+    "genre": "Fantasy, History, Drama",
+    "plot": "After witnessing the cruel sacrifice of his childhood friend, an atheist warrior rejects religion until love forces him to find his own faith.",
+    "released": "2025-06-26",
+    "director": "Mukesh Kumar Singh",
+    "directorSlug": "mukesh-kumar-singh",
+    "actors": [
+     "Vishnu Manchu",
+     "Preity Mukhundhan",
+     "Akshay Kumar",
+     "Mohan Babu",
+     "Mohanlal",
+     "Prabhas"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.6",
+      "votes": 28024,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vishnu Manchu",
+     "character": "Kannappa",
+     "slug": "vishnu-manchu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/g0wi6kP54JK2B1312pwiEexihFB.jpg"
+    },
+    {
+     "name": "Preity Mukhundhan",
+     "character": "Nemali",
+     "slug": "preity-mukhundhan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m3qGm6zD2MIye4PB0OaeaS6wc9v.jpg"
+    },
+    {
+     "name": "Akshay Kumar",
+     "character": "Shiva",
+     "slug": "akshay-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1d77rFiN8h2JXE6vS8VCuc2k20J.jpg"
+    },
+    {
+     "name": "Mohan Babu",
+     "character": "Mahadeva Shastri",
+     "slug": "mohan-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zwqcXtnk0ju0nhuhvZXSLL2nLIy.jpg"
+    },
+    {
+     "name": "Mohanlal",
+     "character": "Kirata",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Prabhas",
+     "character": "Rudra",
+     "slug": "prabhas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u6RVP8ukgLaymeoi5VmX0JRAcCn.jpg"
+    },
+    {
+     "name": "Kajal Aggarwal",
+     "character": "Parvathy",
+     "slug": "kajal-aggarwal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wDzYjnDRNzyigCPBEwc9gf1hZ0Q.jpg"
+    },
+    {
+     "name": "R. Sarathkumar",
+     "character": "Nathanadhudu",
+     "slug": "r-sarathkumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x2Bx2mxOvgvRzaLFlpKNGmKYkK2.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Mukesh Kumar Singh",
+       "slug": "mukesh-kumar-singh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vishnu Manchu",
+       "slug": "vishnu-manchu"
+      },
+      {
+       "name": "Gopalakrishna Paruchuri",
+       "slug": "gopalakrishna-paruchuri"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Stephen Devassy",
+       "slug": "stephen-devassy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sheldon Chau",
+       "slug": "sheldon-chau"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Anthony",
+       "slug": "anthony"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Mohan Babu",
+       "slug": "mohan-babu"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "24 Frames Factory",
+     "slug": "24-frames-factory",
+     "logo": "https://image.tmdb.org/t/p/w185/8ghDPXgUL9G8KK3us1LQJeH9qxI.png"
+    },
+    {
+     "name": "AVA Entertainment",
+     "slug": "ava-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/lqtyMXWdf2QNxVpyzTyYgR2Cqqq.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 6404223.6,
+    "totalShows": 2968,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1700818,
+     "date": "Thrissur"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1700818,
+     "date": "Thrissur"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-06-27"
+   }
+  }
+ }
+}

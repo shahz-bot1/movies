@@ -1,0 +1,48 @@
+{
+ "slug": "shruthy-menon",
+ "name": "Shruthy Menon",
+ "source_url": "https://fridaymatinee.in/people/shruthy-menon",
+ "captured_at": "2026-10-02T10:36:50.840348+00:00",
+ "person": {
+  "name": "Shruthy Menon",
+  "photo": "https://image.tmdb.org/t/p/w185/mBgSAZn28MhYUXzrC544V9YM50a.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 233,
+   "movie_slug": "kumari",
+   "title": "Kumari",
+   "year": 2022,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 771,
+   "movie_slug": "vadakkan",
+   "title": "Vadakkan",
+   "year": 2025,
+   "kerala_gross": "₹25.5L"
+  },
+  {
+   "movie_id": 1005,
+   "movie_slug": "spa",
+   "title": "Spa",
+   "year": 2026,
+   "kerala_gross": "₹38.6L"
+  },
+  {
+   "movie_id": 1169,
+   "movie_slug": "uyir",
+   "title": "Uyir",
+   "year": 2026,
+   "kerala_gross": "₹1.6 Cr"
+  }
+ ]
+}

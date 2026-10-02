@@ -1,0 +1,756 @@
+{
+ "id": 568,
+ "slug": "gladiator-ii",
+ "source_url": "https://fridaymatinee.in/boxoffice/gladiator-ii-568",
+ "captured_at": "2026-10-01T18:15:54.289166+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 568,
+    "title": "Gladiator II",
+    "img": "https://image.tmdb.org/t/p/original/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+    "released": "2024-11-15",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt9218128",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "148 min",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+    "released": "2024-11-13",
+    "director": "Ridley Scott",
+    "directorSlug": "ridley-scott",
+    "actors": [
+     "Paul Mescal",
+     "Denzel Washington",
+     "Pedro Pascal",
+     "Connie Nielsen",
+     "Joseph Quinn",
+     "Fred Hechinger"
+    ],
+    "awards": "Nominated for 1 Oscar. 9 wins u0026 113 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 313636,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.6",
+      "votes": 4755,
+      "updatedAt": "2026-09-24T19:10:42.000Z"
+     },
+     "rt": "70%",
+     "metascore": 64,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Paul Mescal",
+     "character": "Lucius",
+     "slug": "paul-mescal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
+    },
+    {
+     "name": "Denzel Washington",
+     "character": "Macrinus",
+     "slug": "denzel-washington",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+    },
+    {
+     "name": "Pedro Pascal",
+     "character": "General Acacius",
+     "slug": "pedro-pascal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    },
+    {
+     "name": "Connie Nielsen",
+     "character": "Lucilla",
+     "slug": "connie-nielsen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+    },
+    {
+     "name": "Joseph Quinn",
+     "character": "Emperor Geta",
+     "slug": "joseph-quinn",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zshhuioZaH8S5ZKdMcojzWi1ntl.jpg"
+    },
+    {
+     "name": "Fred Hechinger",
+     "character": "Emperor Caracalla",
+     "slug": "fred-hechinger",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nxQfwTWev2VzQJDdKHixPvwXiZS.jpg"
+    },
+    {
+     "name": "Lior Raz",
+     "character": "Viggo",
+     "slug": "lior-raz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bl3KLFUQ4Q0zC9lCU4qP1Jf4qHS.jpg"
+    },
+    {
+     "name": "Derek Jacobi",
+     "character": "Gracchus",
+     "slug": "derek-jacobi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yHENzHZSVpnNrqsoATuDSMiQflf.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ridley Scott",
+       "slug": "ridley-scott"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Peter Craig",
+       "slug": "peter-craig"
+      },
+      {
+       "name": "David Scarpa",
+       "slug": "david-scarpa"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Harry Gregson-Williams",
+       "slug": "harry-gregson-williams"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "John Mathieson",
+       "slug": "john-mathieson"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Claire Simpson",
+       "slug": "claire-simpson"
+      },
+      {
+       "name": "Sam Restivo",
+       "slug": "sam-restivo"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Michael A. Pruss",
+       "slug": "michael-a-pruss"
+      },
+      {
+       "name": "David Franzoni",
+       "slug": "david-franzoni"
+      },
+      {
+       "name": "Douglas Wick",
+       "slug": "douglas-wick"
+      },
+      {
+       "name": "Lucy Fisher",
+       "slug": "lucy-fisher"
+      },
+      {
+       "name": "Ridley Scott",
+       "slug": "ridley-scott"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+     "name": "Scott Free Productions",
+     "slug": "scott-free-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png"
+    },
+    {
+     "name": "Lucy Fisher/Douglas Wick Productions",
+     "slug": "lucy-fisher-douglas-wick-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-03-12",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3199640,
+    "totalShows": 819,
+    "totalDays": 35,
+    "openingDay": {
+     "day": 1,
+     "gross": 418720,
+     "date": "2024-11-15"
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 643006,
+     "date": "2024-11-16"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-11-15"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 568,
+    "title": "Gladiator II",
+    "img": "https://image.tmdb.org/t/p/original/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+    "released": "2024-11-15",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt9218128",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "148 min",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+    "released": "2024-11-13",
+    "director": "Ridley Scott",
+    "directorSlug": "ridley-scott",
+    "actors": [
+     "Paul Mescal",
+     "Denzel Washington",
+     "Pedro Pascal",
+     "Connie Nielsen",
+     "Joseph Quinn",
+     "Fred Hechinger"
+    ],
+    "awards": "Nominated for 1 Oscar. 9 wins u0026 113 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 313636,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.6",
+      "votes": 4755,
+      "updatedAt": "2026-09-24T19:10:42.000Z"
+     },
+     "rt": "70%",
+     "metascore": 64,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Paul Mescal",
+     "character": "Lucius",
+     "slug": "paul-mescal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
+    },
+    {
+     "name": "Denzel Washington",
+     "character": "Macrinus",
+     "slug": "denzel-washington",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+    },
+    {
+     "name": "Pedro Pascal",
+     "character": "General Acacius",
+     "slug": "pedro-pascal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    },
+    {
+     "name": "Connie Nielsen",
+     "character": "Lucilla",
+     "slug": "connie-nielsen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+    },
+    {
+     "name": "Joseph Quinn",
+     "character": "Emperor Geta",
+     "slug": "joseph-quinn",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zshhuioZaH8S5ZKdMcojzWi1ntl.jpg"
+    },
+    {
+     "name": "Fred Hechinger",
+     "character": "Emperor Caracalla",
+     "slug": "fred-hechinger",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nxQfwTWev2VzQJDdKHixPvwXiZS.jpg"
+    },
+    {
+     "name": "Lior Raz",
+     "character": "Viggo",
+     "slug": "lior-raz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bl3KLFUQ4Q0zC9lCU4qP1Jf4qHS.jpg"
+    },
+    {
+     "name": "Derek Jacobi",
+     "character": "Gracchus",
+     "slug": "derek-jacobi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yHENzHZSVpnNrqsoATuDSMiQflf.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ridley Scott",
+       "slug": "ridley-scott"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Peter Craig",
+       "slug": "peter-craig"
+      },
+      {
+       "name": "David Scarpa",
+       "slug": "david-scarpa"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Harry Gregson-Williams",
+       "slug": "harry-gregson-williams"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "John Mathieson",
+       "slug": "john-mathieson"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Claire Simpson",
+       "slug": "claire-simpson"
+      },
+      {
+       "name": "Sam Restivo",
+       "slug": "sam-restivo"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Michael A. Pruss",
+       "slug": "michael-a-pruss"
+      },
+      {
+       "name": "David Franzoni",
+       "slug": "david-franzoni"
+      },
+      {
+       "name": "Douglas Wick",
+       "slug": "douglas-wick"
+      },
+      {
+       "name": "Lucy Fisher",
+       "slug": "lucy-fisher"
+      },
+      {
+       "name": "Ridley Scott",
+       "slug": "ridley-scott"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+     "name": "Scott Free Productions",
+     "slug": "scott-free-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png"
+    },
+    {
+     "name": "Lucy Fisher/Douglas Wick Productions",
+     "slug": "lucy-fisher-douglas-wick-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-03-12",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-11-15",
+     "gross": 2316823,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 722,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-11-22",
+     "gross": 570780,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 59,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-11-29",
+     "gross": 212757,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 24,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-12-06",
+     "gross": 49090,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 7,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-12-13",
+     "gross": 50190,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 7,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3199640,
+    "totalShows": 819,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 2316823
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2316823
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-11-15"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 568,
+    "title": "Gladiator II",
+    "img": "https://image.tmdb.org/t/p/original/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+    "released": "2024-11-15",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt9218128",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "148 min",
+    "genre": "Action, Adventure, Drama",
+    "plot": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+    "released": "2024-11-13",
+    "director": "Ridley Scott",
+    "directorSlug": "ridley-scott",
+    "actors": [
+     "Paul Mescal",
+     "Denzel Washington",
+     "Pedro Pascal",
+     "Connie Nielsen",
+     "Joseph Quinn",
+     "Fred Hechinger"
+    ],
+    "awards": "Nominated for 1 Oscar. 9 wins u0026 113 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 313636,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.6",
+      "votes": 4755,
+      "updatedAt": "2026-09-24T19:10:42.000Z"
+     },
+     "rt": "70%",
+     "metascore": 64,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Paul Mescal",
+     "character": "Lucius",
+     "slug": "paul-mescal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
+    },
+    {
+     "name": "Denzel Washington",
+     "character": "Macrinus",
+     "slug": "denzel-washington",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+    },
+    {
+     "name": "Pedro Pascal",
+     "character": "General Acacius",
+     "slug": "pedro-pascal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    },
+    {
+     "name": "Connie Nielsen",
+     "character": "Lucilla",
+     "slug": "connie-nielsen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+    },
+    {
+     "name": "Joseph Quinn",
+     "character": "Emperor Geta",
+     "slug": "joseph-quinn",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zshhuioZaH8S5ZKdMcojzWi1ntl.jpg"
+    },
+    {
+     "name": "Fred Hechinger",
+     "character": "Emperor Caracalla",
+     "slug": "fred-hechinger",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nxQfwTWev2VzQJDdKHixPvwXiZS.jpg"
+    },
+    {
+     "name": "Lior Raz",
+     "character": "Viggo",
+     "slug": "lior-raz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bl3KLFUQ4Q0zC9lCU4qP1Jf4qHS.jpg"
+    },
+    {
+     "name": "Derek Jacobi",
+     "character": "Gracchus",
+     "slug": "derek-jacobi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yHENzHZSVpnNrqsoATuDSMiQflf.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ridley Scott",
+       "slug": "ridley-scott"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Peter Craig",
+       "slug": "peter-craig"
+      },
+      {
+       "name": "David Scarpa",
+       "slug": "david-scarpa"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Harry Gregson-Williams",
+       "slug": "harry-gregson-williams"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "John Mathieson",
+       "slug": "john-mathieson"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Claire Simpson",
+       "slug": "claire-simpson"
+      },
+      {
+       "name": "Sam Restivo",
+       "slug": "sam-restivo"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Michael A. Pruss",
+       "slug": "michael-a-pruss"
+      },
+      {
+       "name": "David Franzoni",
+       "slug": "david-franzoni"
+      },
+      {
+       "name": "Douglas Wick",
+       "slug": "douglas-wick"
+      },
+      {
+       "name": "Lucy Fisher",
+       "slug": "lucy-fisher"
+      },
+      {
+       "name": "Ridley Scott",
+       "slug": "ridley-scott"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+     "name": "Scott Free Productions",
+     "slug": "scott-free-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png"
+    },
+    {
+     "name": "Lucy Fisher/Douglas Wick Productions",
+     "slug": "lucy-fisher-douglas-wick-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-03-12",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3199640,
+    "totalShows": 819,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1863758,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1863758,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-11-15"
+   }
+  }
+ }
+}

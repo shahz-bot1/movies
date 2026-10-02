@@ -1,0 +1,659 @@
+{
+ "id": 1109,
+ "slug": "pati-patni-aur-woh",
+ "source_url": "https://fridaymatinee.in/boxoffice/pati-patni-aur-woh-1109",
+ "captured_at": "2026-10-01T19:47:02.711049+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1109,
+    "title": "Pati Patni Aur Woh",
+    "img": "https://image.tmdb.org/t/p/original/9sAegdBnkfucqhrsocR47zCKcez.jpg",
+    "released": "2026-05-15",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33054858",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "117 min",
+    "genre": "Comedy, Drama, Romance",
+    "plot": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+    "released": "2026-05-15",
+    "director": "Mudassar Aziz",
+    "directorSlug": "mudassar-aziz",
+    "actors": [
+     "Ayushmann Khurrana",
+     "Wamiqa Gabbi",
+     "Rakul Preet Singh",
+     "Sara Ali Khan",
+     "Vijay Raaz",
+     "Tigmanshu Dhulia"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 9146,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ayushmann Khurrana",
+     "character": "Prajapati Pandey",
+     "slug": "ayushmann-khurrana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qbdclvnDkJxPX7OQqmMY7w9ekBP.jpg"
+    },
+    {
+     "name": "Wamiqa Gabbi",
+     "character": "Aparna Pandey",
+     "slug": "wamiqa-gabbi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e1CNXkH2scGeoabOTowFJJxX2YF.jpg"
+    },
+    {
+     "name": "Rakul Preet Singh",
+     "character": "Nilofer Khan",
+     "slug": "rakul-preet-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rYCgaWjQJ0IkxN9k47URLca7g1j.jpg"
+    },
+    {
+     "name": "Sara Ali Khan",
+     "character": "Chanchal Kumari",
+     "slug": "sara-ali-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nRtF9kNgIt9q52jy89cyZBimUPs.jpg"
+    },
+    {
+     "name": "Vijay Raaz",
+     "character": "Dharamveer Singh",
+     "slug": "vijay-raaz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bLSjiy51UPjVnTYRDmgRUy1VOwD.jpg"
+    },
+    {
+     "name": "Tigmanshu Dhulia",
+     "character": "MLA Gajraj Tiwari",
+     "slug": "tigmanshu-dhulia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2CRk2UX3KfqMythuLBleMwQ7bQr.jpg"
+    },
+    {
+     "name": "Ayesha Raza Mishra",
+     "character": "Bua Ji",
+     "slug": "ayesha-raza-mishra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cKC6Gj5AbeoLpH0bxnSj8SEzewi.jpg"
+    },
+    {
+     "name": "Vishal Vashishtha",
+     "character": "Sudhanshu Tiwari",
+     "slug": "vishal-vashishtha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gxvmaEsTW1HnhnHLZOb7CNQmJIp.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Mudassar Aziz",
+       "slug": "mudassar-aziz"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Mudassar Aziz",
+       "slug": "mudassar-aziz"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ketan Sodha",
+       "slug": "ketan-sodha"
+      },
+      {
+       "name": "Rajesh Roshan",
+       "slug": "rajesh-roshan"
+      },
+      {
+       "name": "Rochak Kohli",
+       "slug": "rochak-kohli"
+      },
+      {
+       "name": "Tanishk Bagchi",
+       "slug": "tanishk-bagchi"
+      },
+      {
+       "name": "Badshah",
+       "slug": "badshah"
+      },
+      {
+       "name": "Devv Sadaana",
+       "slug": "devv-sadaana"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jishnu Bhattacharjee",
+       "slug": "jishnu-bhattacharjee"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ninad Khanolkar",
+       "slug": "ninad-khanolkar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Bhushan Kumar",
+       "slug": "bhushan-kumar"
+      },
+      {
+       "name": "Renu Ravi Chopra",
+       "slug": "renu-ravi-chopra"
+      },
+      {
+       "name": "Krishan Kumar",
+       "slug": "krishan-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "T-Series",
+     "slug": "t-series",
+     "logo": "https://image.tmdb.org/t/p/w185/d3u51JgEP5KwPfxS13ocqvtzZeX.png"
+    },
+    {
+     "name": "B.R. Studios",
+     "slug": "b-r-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-07-10",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {},
+   "boxoffice": [],
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalSeats": 0,
+    "totalSold": 0,
+    "avgOcc": 0,
+    "totalDays": 0,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": null,
+    "openingDay": null,
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "0:0:0"
+  },
+  "week": {
+   "movie": {
+    "id": 1109,
+    "title": "Pati Patni Aur Woh",
+    "img": "https://image.tmdb.org/t/p/original/9sAegdBnkfucqhrsocR47zCKcez.jpg",
+    "released": "2026-05-15",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33054858",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "117 min",
+    "genre": "Comedy, Drama, Romance",
+    "plot": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+    "released": "2026-05-15",
+    "director": "Mudassar Aziz",
+    "directorSlug": "mudassar-aziz",
+    "actors": [
+     "Ayushmann Khurrana",
+     "Wamiqa Gabbi",
+     "Rakul Preet Singh",
+     "Sara Ali Khan",
+     "Vijay Raaz",
+     "Tigmanshu Dhulia"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 9146,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ayushmann Khurrana",
+     "character": "Prajapati Pandey",
+     "slug": "ayushmann-khurrana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qbdclvnDkJxPX7OQqmMY7w9ekBP.jpg"
+    },
+    {
+     "name": "Wamiqa Gabbi",
+     "character": "Aparna Pandey",
+     "slug": "wamiqa-gabbi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e1CNXkH2scGeoabOTowFJJxX2YF.jpg"
+    },
+    {
+     "name": "Rakul Preet Singh",
+     "character": "Nilofer Khan",
+     "slug": "rakul-preet-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rYCgaWjQJ0IkxN9k47URLca7g1j.jpg"
+    },
+    {
+     "name": "Sara Ali Khan",
+     "character": "Chanchal Kumari",
+     "slug": "sara-ali-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nRtF9kNgIt9q52jy89cyZBimUPs.jpg"
+    },
+    {
+     "name": "Vijay Raaz",
+     "character": "Dharamveer Singh",
+     "slug": "vijay-raaz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bLSjiy51UPjVnTYRDmgRUy1VOwD.jpg"
+    },
+    {
+     "name": "Tigmanshu Dhulia",
+     "character": "MLA Gajraj Tiwari",
+     "slug": "tigmanshu-dhulia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2CRk2UX3KfqMythuLBleMwQ7bQr.jpg"
+    },
+    {
+     "name": "Ayesha Raza Mishra",
+     "character": "Bua Ji",
+     "slug": "ayesha-raza-mishra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cKC6Gj5AbeoLpH0bxnSj8SEzewi.jpg"
+    },
+    {
+     "name": "Vishal Vashishtha",
+     "character": "Sudhanshu Tiwari",
+     "slug": "vishal-vashishtha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gxvmaEsTW1HnhnHLZOb7CNQmJIp.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Mudassar Aziz",
+       "slug": "mudassar-aziz"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Mudassar Aziz",
+       "slug": "mudassar-aziz"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ketan Sodha",
+       "slug": "ketan-sodha"
+      },
+      {
+       "name": "Rajesh Roshan",
+       "slug": "rajesh-roshan"
+      },
+      {
+       "name": "Rochak Kohli",
+       "slug": "rochak-kohli"
+      },
+      {
+       "name": "Tanishk Bagchi",
+       "slug": "tanishk-bagchi"
+      },
+      {
+       "name": "Badshah",
+       "slug": "badshah"
+      },
+      {
+       "name": "Devv Sadaana",
+       "slug": "devv-sadaana"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jishnu Bhattacharjee",
+       "slug": "jishnu-bhattacharjee"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ninad Khanolkar",
+       "slug": "ninad-khanolkar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Bhushan Kumar",
+       "slug": "bhushan-kumar"
+      },
+      {
+       "name": "Renu Ravi Chopra",
+       "slug": "renu-ravi-chopra"
+      },
+      {
+       "name": "Krishan Kumar",
+       "slug": "krishan-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "T-Series",
+     "slug": "t-series",
+     "logo": "https://image.tmdb.org/t/p/w185/d3u51JgEP5KwPfxS13ocqvtzZeX.png"
+    },
+    {
+     "name": "B.R. Studios",
+     "slug": "b-r-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-07-10",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {},
+   "boxoffice": [],
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalSeats": 0,
+    "totalSold": 0,
+    "avgOcc": 0,
+    "totalDays": 0,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": null,
+    "openingDay": null,
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "0:0:0"
+  },
+  "district": {
+   "movie": {
+    "id": 1109,
+    "title": "Pati Patni Aur Woh",
+    "img": "https://image.tmdb.org/t/p/original/9sAegdBnkfucqhrsocR47zCKcez.jpg",
+    "released": "2026-05-15",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33054858",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "117 min",
+    "genre": "Comedy, Drama, Romance",
+    "plot": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+    "released": "2026-05-15",
+    "director": "Mudassar Aziz",
+    "directorSlug": "mudassar-aziz",
+    "actors": [
+     "Ayushmann Khurrana",
+     "Wamiqa Gabbi",
+     "Rakul Preet Singh",
+     "Sara Ali Khan",
+     "Vijay Raaz",
+     "Tigmanshu Dhulia"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 9146,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ayushmann Khurrana",
+     "character": "Prajapati Pandey",
+     "slug": "ayushmann-khurrana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qbdclvnDkJxPX7OQqmMY7w9ekBP.jpg"
+    },
+    {
+     "name": "Wamiqa Gabbi",
+     "character": "Aparna Pandey",
+     "slug": "wamiqa-gabbi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e1CNXkH2scGeoabOTowFJJxX2YF.jpg"
+    },
+    {
+     "name": "Rakul Preet Singh",
+     "character": "Nilofer Khan",
+     "slug": "rakul-preet-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rYCgaWjQJ0IkxN9k47URLca7g1j.jpg"
+    },
+    {
+     "name": "Sara Ali Khan",
+     "character": "Chanchal Kumari",
+     "slug": "sara-ali-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nRtF9kNgIt9q52jy89cyZBimUPs.jpg"
+    },
+    {
+     "name": "Vijay Raaz",
+     "character": "Dharamveer Singh",
+     "slug": "vijay-raaz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bLSjiy51UPjVnTYRDmgRUy1VOwD.jpg"
+    },
+    {
+     "name": "Tigmanshu Dhulia",
+     "character": "MLA Gajraj Tiwari",
+     "slug": "tigmanshu-dhulia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2CRk2UX3KfqMythuLBleMwQ7bQr.jpg"
+    },
+    {
+     "name": "Ayesha Raza Mishra",
+     "character": "Bua Ji",
+     "slug": "ayesha-raza-mishra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cKC6Gj5AbeoLpH0bxnSj8SEzewi.jpg"
+    },
+    {
+     "name": "Vishal Vashishtha",
+     "character": "Sudhanshu Tiwari",
+     "slug": "vishal-vashishtha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gxvmaEsTW1HnhnHLZOb7CNQmJIp.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Mudassar Aziz",
+       "slug": "mudassar-aziz"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Mudassar Aziz",
+       "slug": "mudassar-aziz"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ketan Sodha",
+       "slug": "ketan-sodha"
+      },
+      {
+       "name": "Rajesh Roshan",
+       "slug": "rajesh-roshan"
+      },
+      {
+       "name": "Rochak Kohli",
+       "slug": "rochak-kohli"
+      },
+      {
+       "name": "Tanishk Bagchi",
+       "slug": "tanishk-bagchi"
+      },
+      {
+       "name": "Badshah",
+       "slug": "badshah"
+      },
+      {
+       "name": "Devv Sadaana",
+       "slug": "devv-sadaana"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jishnu Bhattacharjee",
+       "slug": "jishnu-bhattacharjee"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ninad Khanolkar",
+       "slug": "ninad-khanolkar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Bhushan Kumar",
+       "slug": "bhushan-kumar"
+      },
+      {
+       "name": "Renu Ravi Chopra",
+       "slug": "renu-ravi-chopra"
+      },
+      {
+       "name": "Krishan Kumar",
+       "slug": "krishan-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "T-Series",
+     "slug": "t-series",
+     "logo": "https://image.tmdb.org/t/p/w185/d3u51JgEP5KwPfxS13ocqvtzZeX.png"
+    },
+    {
+     "name": "B.R. Studios",
+     "slug": "b-r-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-07-10",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {},
+   "boxoffice": [],
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalSeats": 0,
+    "totalSold": 0,
+    "avgOcc": 0,
+    "totalDays": 0,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": null,
+    "openingDay": null,
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "0:0:0"
+  }
+ }
+}

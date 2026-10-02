@@ -1,0 +1,55 @@
+{
+ "slug": "priyamani",
+ "name": "Priyamani",
+ "source_url": "https://fridaymatinee.in/people/priyamani",
+ "captured_at": "2026-10-02T06:32:08.294489+00:00",
+ "person": {
+  "name": "Priyamani",
+  "photo": "https://image.tmdb.org/t/p/w185/grcW2eMm77Q2Kj1xX0HvZlRpGRR.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 417,
+   "movie_slug": "jawan",
+   "title": "Jawan",
+   "year": 2023,
+   "kerala_gross": "₹9.9 Cr"
+  },
+  {
+   "movie_id": 481,
+   "movie_slug": "neru",
+   "title": "Neru",
+   "year": 2023,
+   "kerala_gross": "₹35.9 Cr"
+  },
+  {
+   "movie_id": 654,
+   "movie_slug": "officer-on-duty",
+   "title": "Officer On Duty",
+   "year": 2025,
+   "kerala_gross": "₹23.6 Cr"
+  },
+  {
+   "movie_id": 956,
+   "movie_slug": "jana-nayagan",
+   "title": "Jana Nayagan",
+   "year": 2026,
+   "kerala_gross": "₹15.5 Cr"
+  },
+  {
+   "movie_id": 1222,
+   "movie_slug": "g-d-n",
+   "title": "G.D.N",
+   "year": 2026,
+   "kerala_gross": "₹18.2L"
+  }
+ ]
+}

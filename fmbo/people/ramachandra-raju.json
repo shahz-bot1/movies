@@ -1,0 +1,48 @@
+{
+ "slug": "ramachandra-raju",
+ "name": "Ramachandra Raju",
+ "source_url": "https://fridaymatinee.in/people/ramachandra-raju",
+ "captured_at": "2026-10-02T08:37:37.219173+00:00",
+ "person": {
+  "name": "Ramachandra Raju",
+  "photo": "https://image.tmdb.org/t/p/w185/kU1a4H8o1IQA25Lyq3cW70aufhT.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 157,
+   "movie_slug": "yaanai",
+   "title": "Yaanai",
+   "year": 2022,
+   "kerala_gross": "₹16.6L"
+  },
+  {
+   "movie_id": 478,
+   "movie_slug": "salaar-part-1-ceasefire",
+   "title": "Salaar: Part 1 - Ceasefire",
+   "year": 2023,
+   "kerala_gross": "₹12.5 Cr"
+  },
+  {
+   "movie_id": 869,
+   "movie_slug": "dude",
+   "title": "Dude",
+   "year": 2025,
+   "kerala_gross": "₹3.4 Cr"
+  },
+  {
+   "movie_id": 829,
+   "movie_slug": "vrusshabha",
+   "title": "Vrusshabha",
+   "year": 2025,
+   "kerala_gross": "₹66.2L"
+  }
+ ]
+}

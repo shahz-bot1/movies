@@ -1,0 +1,41 @@
+{
+ "slug": "sanjo-joesph",
+ "name": "Sanjo Joesph",
+ "source_url": "https://fridaymatinee.in/people/sanjo-joesph",
+ "captured_at": "2026-10-02T10:10:14.239718+00:00",
+ "person": {
+  "name": "Sanjo Joesph",
+  "photo": null,
+  "role": "Writer"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 464,
+   "movie_slug": "falimy",
+   "title": "Falimy",
+   "year": 2023,
+   "kerala_gross": "₹7.9 Cr"
+  },
+  {
+   "movie_id": 604,
+   "movie_slug": "hello-mummy",
+   "title": "Hello Mummy",
+   "year": 2024,
+   "kerala_gross": "₹6.6 Cr"
+  },
+  {
+   "movie_id": 967,
+   "movie_slug": "thalaivar-thambi-thalaimaiyil",
+   "title": "Thalaivar Thambi Thalaimaiyil",
+   "year": 2026,
+   "kerala_gross": "₹88.2L"
+  }
+ ]
+}

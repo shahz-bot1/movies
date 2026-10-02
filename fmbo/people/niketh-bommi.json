@@ -1,0 +1,48 @@
+{
+ "slug": "niketh-bommi",
+ "name": "Niketh Bommi",
+ "source_url": "https://fridaymatinee.in/people/niketh-bommi",
+ "captured_at": "2026-10-02T01:01:04.874321+00:00",
+ "person": {
+  "name": "Niketh Bommi",
+  "photo": "https://image.tmdb.org/t/p/w185/xsCrPnSnTV6FK71nTSeRHxEa9p3.jpg",
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 148,
+   "movie_slug": "aha-sundara",
+   "title": "Aha Sundara",
+   "year": 2022,
+   "kerala_gross": "₹6.3L"
+  },
+  {
+   "movie_id": 658,
+   "movie_slug": "dragon",
+   "title": "Dragon",
+   "year": 2025,
+   "kerala_gross": "₹3.1 Cr"
+  },
+  {
+   "movie_id": 706,
+   "movie_slug": "kuberaa",
+   "title": "Kuberaa",
+   "year": 2025,
+   "kerala_gross": "₹99.0L"
+  },
+  {
+   "movie_id": 869,
+   "movie_slug": "dude",
+   "title": "Dude",
+   "year": 2025,
+   "kerala_gross": "₹3.4 Cr"
+  }
+ ]
+}

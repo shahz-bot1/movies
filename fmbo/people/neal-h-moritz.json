@@ -1,0 +1,41 @@
+{
+ "slug": "neal-h-moritz",
+ "name": "Neal H. Moritz",
+ "source_url": "https://fridaymatinee.in/people/neal-h-moritz",
+ "captured_at": "2026-10-02T00:56:03.629300+00:00",
+ "person": {
+  "name": "Neal H. Moritz",
+  "photo": "https://image.tmdb.org/t/p/w185/xgCTFHhbQh3QyIT7ZvJGbEohzG8.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 377,
+   "movie_slug": "fast-x",
+   "title": "Fast X",
+   "year": 2023,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 603,
+   "movie_slug": "sonic-the-hedgehog-3",
+   "title": "Sonic the Hedgehog 3",
+   "year": 2025,
+   "kerala_gross": "₹30.5L"
+  },
+  {
+   "movie_id": 835,
+   "movie_slug": "afterburn",
+   "title": "Afterburn",
+   "year": 2025,
+   "kerala_gross": "₹89K"
+  }
+ ]
+}

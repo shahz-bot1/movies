@@ -1,0 +1,709 @@
+{
+ "id": 179,
+ "slug": "thallumaala",
+ "source_url": "https://fridaymatinee.in/boxoffice/thallumaala-179",
+ "captured_at": "2026-10-01T18:05:53.001847+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 179,
+    "title": "Thallumaala",
+    "img": "https://image.tmdb.org/t/p/original/4Y1tcQqAiUkAbc6SUJgoP73sE5S.jpg",
+    "released": "2022-08-12",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11075264",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "146 min",
+    "genre": "Comedy, Drama, Action",
+    "plot": "Wazim is young, carefree and often drawn to fights. But when love blooms with a star vlogger, the impact of his fists could have disastrous effects.",
+    "released": "2022-08-12",
+    "director": "Khalid Rahman",
+    "directorSlug": "khalid-rahman",
+    "actors": [
+     "Tovino Thomas",
+     "Lukman Avaran",
+     "Swathi Das Prabhu",
+     "Adhri Joe",
+     "Austin Dan",
+     "Shine Tom Chacko"
+    ],
+    "awards": "3 wins u0026 6 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.0",
+      "votes": 8260,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tovino Thomas",
+     "character": "Manavaalan Wazim",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Lukman Avaran",
+     "character": "Jamshi",
+     "slug": "lukman-avaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w1fSOcEP3cezwPtorTLY1dUIkqv.jpg"
+    },
+    {
+     "name": "Swathi Das Prabhu",
+     "character": "Sathaar",
+     "slug": "swathi-das-prabhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/djKv8ti6z3pydi1NZTzUjNYBkLS.jpg"
+    },
+    {
+     "name": "Adhri Joe",
+     "character": "Vikas",
+     "slug": "adhri-joe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ig7WT04NABdtjvgy3tChK6T0ceS.jpg"
+    },
+    {
+     "name": "Austin Dan",
+     "character": "Rakesh",
+     "slug": "austin-dan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5S5QzHu2DVzE4TmnQIAhhshVjbW.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Reji Mathew",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Kalyani Priyadarshan",
+     "character": "Fathima 'Beepathu' Beevi",
+     "slug": "kalyani-priyadarshan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8FXahoKdXzS3nCKvyRqbE2y5kSA.jpg"
+    },
+    {
+     "name": "Binu Pappu",
+     "character": "Kalappurakkal David",
+     "slug": "binu-pappu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zDVvCDE3cdxrAqfZ9J0LgqXfJpY.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Khalid Rahman",
+       "slug": "khalid-rahman"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ashraf Hamsa",
+       "slug": "ashraf-hamsa"
+      },
+      {
+       "name": "Muhsin Parari",
+       "slug": "muhsin-parari"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jimshi Khalid",
+       "slug": "jimshi-khalid"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nishadh Yusuf",
+       "slug": "nishadh-yusuf"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ashiq Usman",
+       "slug": "ashiq-usman"
+      },
+      {
+       "name": "Khalid Rahman",
+       "slug": "khalid-rahman"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ashiq Usman Productions",
+     "slug": "ashiq-usman-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/viOe7LjhByej4jThVYcwp9SVNfM.png"
+    },
+    {
+     "name": "Plan B Motion Pictures",
+     "slug": "plan-b-motion-pictures",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-09-11",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 189117627.51000005,
+    "totalShows": 13350,
+    "totalDays": 38,
+    "openingDay": {
+     "day": 1,
+     "gross": 23050567.949999996,
+     "date": "2022-08-12"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 26609784.26,
+     "date": "2022-08-14"
+    },
+    "chartPosition": {
+     "current_position": 53,
+     "weeks_on_chart": 52,
+     "peak_position": 5,
+     "last_week_position": 52
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-08-12"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 179,
+    "title": "Thallumaala",
+    "img": "https://image.tmdb.org/t/p/original/4Y1tcQqAiUkAbc6SUJgoP73sE5S.jpg",
+    "released": "2022-08-12",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11075264",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "146 min",
+    "genre": "Comedy, Drama, Action",
+    "plot": "Wazim is young, carefree and often drawn to fights. But when love blooms with a star vlogger, the impact of his fists could have disastrous effects.",
+    "released": "2022-08-12",
+    "director": "Khalid Rahman",
+    "directorSlug": "khalid-rahman",
+    "actors": [
+     "Tovino Thomas",
+     "Lukman Avaran",
+     "Swathi Das Prabhu",
+     "Adhri Joe",
+     "Austin Dan",
+     "Shine Tom Chacko"
+    ],
+    "awards": "3 wins u0026 6 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.0",
+      "votes": 8260,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tovino Thomas",
+     "character": "Manavaalan Wazim",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Lukman Avaran",
+     "character": "Jamshi",
+     "slug": "lukman-avaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w1fSOcEP3cezwPtorTLY1dUIkqv.jpg"
+    },
+    {
+     "name": "Swathi Das Prabhu",
+     "character": "Sathaar",
+     "slug": "swathi-das-prabhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/djKv8ti6z3pydi1NZTzUjNYBkLS.jpg"
+    },
+    {
+     "name": "Adhri Joe",
+     "character": "Vikas",
+     "slug": "adhri-joe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ig7WT04NABdtjvgy3tChK6T0ceS.jpg"
+    },
+    {
+     "name": "Austin Dan",
+     "character": "Rakesh",
+     "slug": "austin-dan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5S5QzHu2DVzE4TmnQIAhhshVjbW.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Reji Mathew",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Kalyani Priyadarshan",
+     "character": "Fathima 'Beepathu' Beevi",
+     "slug": "kalyani-priyadarshan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8FXahoKdXzS3nCKvyRqbE2y5kSA.jpg"
+    },
+    {
+     "name": "Binu Pappu",
+     "character": "Kalappurakkal David",
+     "slug": "binu-pappu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zDVvCDE3cdxrAqfZ9J0LgqXfJpY.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Khalid Rahman",
+       "slug": "khalid-rahman"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ashraf Hamsa",
+       "slug": "ashraf-hamsa"
+      },
+      {
+       "name": "Muhsin Parari",
+       "slug": "muhsin-parari"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jimshi Khalid",
+       "slug": "jimshi-khalid"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nishadh Yusuf",
+       "slug": "nishadh-yusuf"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ashiq Usman",
+       "slug": "ashiq-usman"
+      },
+      {
+       "name": "Khalid Rahman",
+       "slug": "khalid-rahman"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ashiq Usman Productions",
+     "slug": "ashiq-usman-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/viOe7LjhByej4jThVYcwp9SVNfM.png"
+    },
+    {
+     "name": "Plan B Motion Pictures",
+     "slug": "plan-b-motion-pictures",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-09-11",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-08-12",
+     "gross": 128936665.91000007,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5391,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-08-19",
+     "gross": 37215106.00000002,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4063,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-08-26",
+     "gross": 13643828.200000003,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2363,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-09-02",
+     "gross": 8082158.4,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1377,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-09-09",
+     "gross": 1217699,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 153,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-09-16",
+     "gross": 22170,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 189117627.51000008,
+    "totalShows": 13350,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 128936665.91000007
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 128936665.91000007
+    },
+    "chartPosition": {
+     "current_position": 53,
+     "weeks_on_chart": 52,
+     "peak_position": 5,
+     "last_week_position": 52
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-08-12"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 179,
+    "title": "Thallumaala",
+    "img": "https://image.tmdb.org/t/p/original/4Y1tcQqAiUkAbc6SUJgoP73sE5S.jpg",
+    "released": "2022-08-12",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11075264",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "146 min",
+    "genre": "Comedy, Drama, Action",
+    "plot": "Wazim is young, carefree and often drawn to fights. But when love blooms with a star vlogger, the impact of his fists could have disastrous effects.",
+    "released": "2022-08-12",
+    "director": "Khalid Rahman",
+    "directorSlug": "khalid-rahman",
+    "actors": [
+     "Tovino Thomas",
+     "Lukman Avaran",
+     "Swathi Das Prabhu",
+     "Adhri Joe",
+     "Austin Dan",
+     "Shine Tom Chacko"
+    ],
+    "awards": "3 wins u0026 6 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.0",
+      "votes": 8260,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tovino Thomas",
+     "character": "Manavaalan Wazim",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Lukman Avaran",
+     "character": "Jamshi",
+     "slug": "lukman-avaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w1fSOcEP3cezwPtorTLY1dUIkqv.jpg"
+    },
+    {
+     "name": "Swathi Das Prabhu",
+     "character": "Sathaar",
+     "slug": "swathi-das-prabhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/djKv8ti6z3pydi1NZTzUjNYBkLS.jpg"
+    },
+    {
+     "name": "Adhri Joe",
+     "character": "Vikas",
+     "slug": "adhri-joe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ig7WT04NABdtjvgy3tChK6T0ceS.jpg"
+    },
+    {
+     "name": "Austin Dan",
+     "character": "Rakesh",
+     "slug": "austin-dan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5S5QzHu2DVzE4TmnQIAhhshVjbW.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Reji Mathew",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Kalyani Priyadarshan",
+     "character": "Fathima 'Beepathu' Beevi",
+     "slug": "kalyani-priyadarshan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8FXahoKdXzS3nCKvyRqbE2y5kSA.jpg"
+    },
+    {
+     "name": "Binu Pappu",
+     "character": "Kalappurakkal David",
+     "slug": "binu-pappu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zDVvCDE3cdxrAqfZ9J0LgqXfJpY.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Khalid Rahman",
+       "slug": "khalid-rahman"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ashraf Hamsa",
+       "slug": "ashraf-hamsa"
+      },
+      {
+       "name": "Muhsin Parari",
+       "slug": "muhsin-parari"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jimshi Khalid",
+       "slug": "jimshi-khalid"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nishadh Yusuf",
+       "slug": "nishadh-yusuf"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ashiq Usman",
+       "slug": "ashiq-usman"
+      },
+      {
+       "name": "Khalid Rahman",
+       "slug": "khalid-rahman"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ashiq Usman Productions",
+     "slug": "ashiq-usman-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/viOe7LjhByej4jThVYcwp9SVNfM.png"
+    },
+    {
+     "name": "Plan B Motion Pictures",
+     "slug": "plan-b-motion-pictures",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-09-11",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 189117627.50999996,
+    "totalShows": 13350,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 39866597,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 39866597,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 53,
+     "weeks_on_chart": 52,
+     "peak_position": 5,
+     "last_week_position": 52
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-08-12"
+   }
+  }
+ }
+}

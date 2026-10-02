@@ -1,0 +1,48 @@
+{
+ "slug": "tom-holland",
+ "name": "Tom Holland",
+ "source_url": "https://fridaymatinee.in/people/tom-holland",
+ "captured_at": "2026-10-02T11:26:13.686234+00:00",
+ "person": {
+  "name": "Tom Holland",
+  "photo": "https://image.tmdb.org/t/p/w185/5OK84Wn1bIEIThFKcVoaN087mLj.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 96,
+   "movie_slug": "spider-man-no-way-home",
+   "title": "Spider Man No Way Home",
+   "year": 2021,
+   "kerala_gross": "₹11.5 Cr"
+  },
+  {
+   "movie_id": 777,
+   "movie_slug": "the-odyssey",
+   "title": "The Odyssey",
+   "year": 2026,
+   "kerala_gross": "₹12.6 Cr"
+  },
+  {
+   "movie_id": 675,
+   "movie_slug": "spider-man-brand-new-day",
+   "title": "Spider-Man: Brand New Day",
+   "year": 2026,
+   "kerala_gross": "₹35.7 Cr"
+  },
+  {
+   "movie_id": 1288,
+   "movie_slug": "avengers-endgame-encore",
+   "title": "Avengers Endgame: Encore",
+   "year": 2026,
+   "kerala_gross": "₹2.3 Cr"
+  }
+ ]
+}

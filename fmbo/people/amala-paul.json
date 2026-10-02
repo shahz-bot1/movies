@@ -1,0 +1,48 @@
+{
+ "slug": "amala-paul",
+ "name": "Amala Paul",
+ "source_url": "https://fridaymatinee.in/people/amala-paul",
+ "captured_at": "2026-10-01T20:28:04.668736+00:00",
+ "person": {
+  "name": "Amala Paul",
+  "photo": "https://image.tmdb.org/t/p/w185/11tTCca9pl89XaPhaE2o8UQLUVr.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 250,
+   "movie_slug": "the-teacher",
+   "title": "The Teacher",
+   "year": 2022,
+   "kerala_gross": "₹19.4L"
+  },
+  {
+   "movie_id": 272,
+   "movie_slug": "christopher",
+   "title": "Christopher",
+   "year": 2023,
+   "kerala_gross": "₹4.1 Cr"
+  },
+  {
+   "movie_id": 476,
+   "movie_slug": "aadujeevitham",
+   "title": "Aadujeevitham",
+   "year": 2024,
+   "kerala_gross": "₹64.1 Cr"
+  },
+  {
+   "movie_id": 544,
+   "movie_slug": "level-cross",
+   "title": "Level Cross",
+   "year": 2024,
+   "kerala_gross": "₹2.0 Cr"
+  }
+ ]
+}

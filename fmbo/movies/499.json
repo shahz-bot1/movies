@@ -1,0 +1,753 @@
+{
+ "id": 499,
+ "slug": "bramayugam",
+ "source_url": "https://fridaymatinee.in/boxoffice/bramayugam-499",
+ "captured_at": "2026-10-01T18:13:39.765775+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 499,
+    "title": "Bramayugam",
+    "img": "https://image.tmdb.org/t/p/original/8ojbLvqjUDRPvau4w6DBbmgoD7W.jpg",
+    "released": "2024-02-15",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27431598",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "139 min",
+    "genre": "Horror, Thriller, Drama",
+    "plot": "A folk singer in 17th-century Kerala discovers a mansion. Inside, he encounters an enigmatic cook and a powerful master, setting in motion a chain of events that changes his life.",
+    "released": "2024-02-15",
+    "director": "Rahul Sadasivan",
+    "directorSlug": "rahul-sadasivan",
+    "actors": [
+     "Arjun Ashokan",
+     "Mammootty",
+     "Sidharth Bharathan",
+     "Manikandan Achari",
+     "Amalda Liz",
+     "Aluva Sheeba Sebastian"
+    ],
+    "awards": "3 wins u0026 9 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.7",
+      "votes": 18724,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 91,
+      "updatedAt": "2026-09-24T19:11:03.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Arjun Ashokan",
+     "character": "Thevan",
+     "slug": "arjun-ashokan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fA9V9ImvGlLGQ9HWB68j8d8eo0J.jpg"
+    },
+    {
+     "name": "Mammootty",
+     "character": "Kodumon Potti",
+     "slug": "mammootty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
+    },
+    {
+     "name": "Sidharth Bharathan",
+     "character": "Servant",
+     "slug": "sidharth-bharathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4a13KELmZuB4NnRlOsdzMfo2K7j.jpg"
+    },
+    {
+     "name": "Manikandan Achari",
+     "character": "Koran",
+     "slug": "manikandan-achari",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5yLbdEwBpSAUajsvLM9eY1fsymp.jpg"
+    },
+    {
+     "name": "Amalda Liz",
+     "character": "Yakshi",
+     "slug": "amalda-liz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dvre5bAj5rYQmcRoHWCSk4Hc88Y.jpg"
+    },
+    {
+     "name": "Aluva Sheeba Sebastian",
+     "character": "Thevan's Mother",
+     "slug": "aluva-sheeba-sebastian",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Akash Chandran",
+     "character": "Goblin",
+     "slug": "akash-chandran",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rafnas Rafeek",
+     "character": "Theyyam",
+     "slug": "rafnas-rafeek",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rahul Sadasivan",
+       "slug": "rahul-sadasivan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rahul Sadasivan",
+       "slug": "rahul-sadasivan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Christo Xavier",
+       "slug": "christo-xavier"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shehnad Jalal",
+       "slug": "shehnad-jalal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shafique Mohamed Ali",
+       "slug": "shafique-mohamed-ali"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "S. Sashikanth",
+       "slug": "s-sashikanth"
+      },
+      {
+       "name": "Chakravarthy Ramachandra",
+       "slug": "chakravarthy-ramachandra"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Y NOT Studios",
+     "slug": "y-not-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/yEkKuDfFOGouqL5i9lssaAo5Key.png"
+    },
+    {
+     "name": "Night Shift Studios",
+     "slug": "night-shift-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-03-15",
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 180882939.04999995,
+    "totalShows": 13320,
+    "totalDays": 56,
+    "openingDay": {
+     "day": 1,
+     "gross": 21909630.029999997,
+     "date": "2024-02-15"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 26412839.699999996,
+     "date": "2024-02-18"
+    },
+    "chartPosition": {
+     "current_position": 54,
+     "weeks_on_chart": 0,
+     "peak_position": 19,
+     "last_week_position": 54
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-02-15"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 499,
+    "title": "Bramayugam",
+    "img": "https://image.tmdb.org/t/p/original/8ojbLvqjUDRPvau4w6DBbmgoD7W.jpg",
+    "released": "2024-02-15",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27431598",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "139 min",
+    "genre": "Horror, Thriller, Drama",
+    "plot": "A folk singer in 17th-century Kerala discovers a mansion. Inside, he encounters an enigmatic cook and a powerful master, setting in motion a chain of events that changes his life.",
+    "released": "2024-02-15",
+    "director": "Rahul Sadasivan",
+    "directorSlug": "rahul-sadasivan",
+    "actors": [
+     "Arjun Ashokan",
+     "Mammootty",
+     "Sidharth Bharathan",
+     "Manikandan Achari",
+     "Amalda Liz",
+     "Aluva Sheeba Sebastian"
+    ],
+    "awards": "3 wins u0026 9 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.7",
+      "votes": 18724,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 91,
+      "updatedAt": "2026-09-24T19:11:03.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Arjun Ashokan",
+     "character": "Thevan",
+     "slug": "arjun-ashokan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fA9V9ImvGlLGQ9HWB68j8d8eo0J.jpg"
+    },
+    {
+     "name": "Mammootty",
+     "character": "Kodumon Potti",
+     "slug": "mammootty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
+    },
+    {
+     "name": "Sidharth Bharathan",
+     "character": "Servant",
+     "slug": "sidharth-bharathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4a13KELmZuB4NnRlOsdzMfo2K7j.jpg"
+    },
+    {
+     "name": "Manikandan Achari",
+     "character": "Koran",
+     "slug": "manikandan-achari",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5yLbdEwBpSAUajsvLM9eY1fsymp.jpg"
+    },
+    {
+     "name": "Amalda Liz",
+     "character": "Yakshi",
+     "slug": "amalda-liz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dvre5bAj5rYQmcRoHWCSk4Hc88Y.jpg"
+    },
+    {
+     "name": "Aluva Sheeba Sebastian",
+     "character": "Thevan's Mother",
+     "slug": "aluva-sheeba-sebastian",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Akash Chandran",
+     "character": "Goblin",
+     "slug": "akash-chandran",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rafnas Rafeek",
+     "character": "Theyyam",
+     "slug": "rafnas-rafeek",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rahul Sadasivan",
+       "slug": "rahul-sadasivan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rahul Sadasivan",
+       "slug": "rahul-sadasivan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Christo Xavier",
+       "slug": "christo-xavier"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shehnad Jalal",
+       "slug": "shehnad-jalal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shafique Mohamed Ali",
+       "slug": "shafique-mohamed-ali"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "S. Sashikanth",
+       "slug": "s-sashikanth"
+      },
+      {
+       "name": "Chakravarthy Ramachandra",
+       "slug": "chakravarthy-ramachandra"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Y NOT Studios",
+     "slug": "y-not-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/yEkKuDfFOGouqL5i9lssaAo5Key.png"
+    },
+    {
+     "name": "Night Shift Studios",
+     "slug": "night-shift-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-03-15",
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-02-15",
+     "gross": 120576741.89999998,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5450,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-02-22",
+     "gross": 38526816.140000015,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4300,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-02-29",
+     "gross": 15618104.010000005,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2631,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-03-07",
+     "gross": 4602859.800000001,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 716,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-03-14",
+     "gross": 1025538.2,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 145,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-03-21",
+     "gross": 438720,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 63,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-03-28",
+     "gross": 55949,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 8,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-04-04",
+     "gross": 38210,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 7,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 180882939.05,
+    "totalShows": 13320,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 120576741.89999998
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 120576741.89999998
+    },
+    "chartPosition": {
+     "current_position": 54,
+     "weeks_on_chart": 0,
+     "peak_position": 19,
+     "last_week_position": 54
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-02-15"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 499,
+    "title": "Bramayugam",
+    "img": "https://image.tmdb.org/t/p/original/8ojbLvqjUDRPvau4w6DBbmgoD7W.jpg",
+    "released": "2024-02-15",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27431598",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "139 min",
+    "genre": "Horror, Thriller, Drama",
+    "plot": "A folk singer in 17th-century Kerala discovers a mansion. Inside, he encounters an enigmatic cook and a powerful master, setting in motion a chain of events that changes his life.",
+    "released": "2024-02-15",
+    "director": "Rahul Sadasivan",
+    "directorSlug": "rahul-sadasivan",
+    "actors": [
+     "Arjun Ashokan",
+     "Mammootty",
+     "Sidharth Bharathan",
+     "Manikandan Achari",
+     "Amalda Liz",
+     "Aluva Sheeba Sebastian"
+    ],
+    "awards": "3 wins u0026 9 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.7",
+      "votes": 18724,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 91,
+      "updatedAt": "2026-09-24T19:11:03.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Arjun Ashokan",
+     "character": "Thevan",
+     "slug": "arjun-ashokan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fA9V9ImvGlLGQ9HWB68j8d8eo0J.jpg"
+    },
+    {
+     "name": "Mammootty",
+     "character": "Kodumon Potti",
+     "slug": "mammootty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
+    },
+    {
+     "name": "Sidharth Bharathan",
+     "character": "Servant",
+     "slug": "sidharth-bharathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4a13KELmZuB4NnRlOsdzMfo2K7j.jpg"
+    },
+    {
+     "name": "Manikandan Achari",
+     "character": "Koran",
+     "slug": "manikandan-achari",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5yLbdEwBpSAUajsvLM9eY1fsymp.jpg"
+    },
+    {
+     "name": "Amalda Liz",
+     "character": "Yakshi",
+     "slug": "amalda-liz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dvre5bAj5rYQmcRoHWCSk4Hc88Y.jpg"
+    },
+    {
+     "name": "Aluva Sheeba Sebastian",
+     "character": "Thevan's Mother",
+     "slug": "aluva-sheeba-sebastian",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Akash Chandran",
+     "character": "Goblin",
+     "slug": "akash-chandran",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rafnas Rafeek",
+     "character": "Theyyam",
+     "slug": "rafnas-rafeek",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rahul Sadasivan",
+       "slug": "rahul-sadasivan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rahul Sadasivan",
+       "slug": "rahul-sadasivan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Christo Xavier",
+       "slug": "christo-xavier"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shehnad Jalal",
+       "slug": "shehnad-jalal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shafique Mohamed Ali",
+       "slug": "shafique-mohamed-ali"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "S. Sashikanth",
+       "slug": "s-sashikanth"
+      },
+      {
+       "name": "Chakravarthy Ramachandra",
+       "slug": "chakravarthy-ramachandra"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Y NOT Studios",
+     "slug": "y-not-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/yEkKuDfFOGouqL5i9lssaAo5Key.png"
+    },
+    {
+     "name": "Night Shift Studios",
+     "slug": "night-shift-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-03-15",
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 180882939.05,
+    "totalShows": 13320,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 44667370,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 44667370,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 54,
+     "weeks_on_chart": 0,
+     "peak_position": 19,
+     "last_week_position": 54
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-02-15"
+   }
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "seema",
+ "name": "Seema",
+ "source_url": "https://fridaymatinee.in/people/seema",
+ "captured_at": "2026-10-02T10:20:40.196201+00:00",
+ "person": {
+  "name": "Seema",
+  "photo": "https://image.tmdb.org/t/p/w185/5VeEKZkIn7C7l7TwUMCYOSaPsym.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 135,
+   "movie_slug": "kaathuvaakula-rendu-kadhal",
+   "title": "Kaathuvaakula Rendu Kadhal",
+   "year": 2022,
+   "kerala_gross": "₹45.7L"
+  },
+  {
+   "movie_id": 160,
+   "movie_slug": "kaduva",
+   "title": "Kaduva",
+   "year": 2022,
+   "kerala_gross": "₹17.0 Cr"
+  },
+  {
+   "movie_id": 584,
+   "movie_slug": "pani",
+   "title": "Pani",
+   "year": 2024,
+   "kerala_gross": "₹16.7 Cr"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "benedict-wong",
+ "name": "Benedict Wong",
+ "source_url": "https://fridaymatinee.in/people/benedict-wong",
+ "captured_at": "2026-10-01T21:13:37.987348+00:00",
+ "person": {
+  "name": "Benedict Wong",
+  "photo": "https://image.tmdb.org/t/p/w185/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 96,
+   "movie_slug": "spider-man-no-way-home",
+   "title": "Spider Man No Way Home",
+   "year": 2021,
+   "kerala_gross": "₹11.5 Cr"
+  },
+  {
+   "movie_id": 136,
+   "movie_slug": "doctor-strange-in-the-multiverse-of-madness",
+   "title": "Doctor Strange in the Multiverse of Madness",
+   "year": 2022,
+   "kerala_gross": "₹4.5 Cr"
+  },
+  {
+   "movie_id": 741,
+   "movie_slug": "weapons",
+   "title": "Weapons",
+   "year": 2025,
+   "kerala_gross": "₹27.0L"
+  }
+ ]
+}

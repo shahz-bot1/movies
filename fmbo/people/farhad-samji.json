@@ -1,0 +1,46 @@
+{
+ "slug": "farhad-samji",
+ "name": "Farhad Samji",
+ "source_url": "https://fridaymatinee.in/people/farhad-samji",
+ "captured_at": "2026-10-01T22:19:17.001602+00:00",
+ "person": {
+  "name": "Farhad Samji",
+  "photo": null,
+  "role": "Writer and director"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 20,
+   "movie_slug": "housefull-4",
+   "title": "Housefull 4",
+   "year": 2019,
+   "kerala_gross": "₹23.7L"
+  },
+  {
+   "movie_id": 353,
+   "movie_slug": "kisi-ka-bhai-kisi-ki-jaan",
+   "title": "Kisi Ka Bhai Kisi Ki Jaan",
+   "year": 2023,
+   "kerala_gross": "₹30.6L"
+  },
+  {
+   "movie_id": 1181,
+   "movie_slug": "welcome-to-the-jungle",
+   "title": "Welcome to the Jungle",
+   "year": 2026,
+   "kerala_gross": "₹12.9L"
+  }
+ ]
+}

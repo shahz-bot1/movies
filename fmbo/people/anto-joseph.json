@@ -1,0 +1,55 @@
+{
+ "slug": "anto-joseph",
+ "name": "Anto Joseph",
+ "source_url": "https://fridaymatinee.in/people/anto-joseph",
+ "captured_at": "2026-10-01T20:45:12.169406+00:00",
+ "person": {
+  "name": "Anto Joseph",
+  "photo": "https://image.tmdb.org/t/p/w185/usNTYHQl3d8i7WbV0ZOx7nYtrUa.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 62,
+   "movie_slug": "kannum-kannum-kollaiyadithaal",
+   "title": "Kannum Kannum Kollaiyadithaal",
+   "year": 2020,
+   "kerala_gross": "₹97.6L"
+  },
+  {
+   "movie_id": 73,
+   "movie_slug": "the-priest",
+   "title": "The Priest",
+   "year": 2021,
+   "kerala_gross": "₹5.8 Cr"
+  },
+  {
+   "movie_id": 83,
+   "movie_slug": "nizhal",
+   "title": "Nizhal",
+   "year": 2021,
+   "kerala_gross": "₹54.2L"
+  },
+  {
+   "movie_id": 365,
+   "movie_slug": "2018",
+   "title": "2018",
+   "year": 2023,
+   "kerala_gross": "₹66.3 Cr"
+  },
+  {
+   "movie_id": 1081,
+   "movie_slug": "patriot",
+   "title": "Patriot",
+   "year": 2026,
+   "kerala_gross": "₹24.9 Cr"
+  }
+ ]
+}

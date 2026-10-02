@@ -1,0 +1,62 @@
+{
+ "slug": "kovai-sarala",
+ "name": "Kovai Sarala",
+ "source_url": "https://fridaymatinee.in/people/kovai-sarala",
+ "captured_at": "2026-10-01T23:51:19.652298+00:00",
+ "person": {
+  "name": "Kovai Sarala",
+  "photo": "https://image.tmdb.org/t/p/w185/rujbfPg6rp9DOphQZYUjll7KNPz.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 62,
+   "movie_slug": "kannum-kannum-kollaiyadithaal",
+   "title": "Kannum Kannum Kollaiyadithaal",
+   "year": 2020,
+   "kerala_gross": "₹97.6L"
+  },
+  {
+   "movie_id": 170,
+   "movie_slug": "legend",
+   "title": "Legend",
+   "year": 2022,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 338,
+   "movie_slug": "desamuduru",
+   "title": "Desamuduru",
+   "year": 2023,
+   "kerala_gross": "₹94K"
+  },
+  {
+   "movie_id": 592,
+   "movie_slug": "kanguva",
+   "title": "Kanguva",
+   "year": 2024,
+   "kerala_gross": "₹4.7 Cr"
+  },
+  {
+   "movie_id": 733,
+   "movie_slug": "maareesan",
+   "title": "Maareesan",
+   "year": 2025,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 1011,
+   "movie_slug": "seetha-payanam",
+   "title": "Seetha Payanam",
+   "year": 2026,
+   "kerala_gross": "₹36K"
+  }
+ ]
+}

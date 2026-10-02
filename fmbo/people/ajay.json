@@ -1,0 +1,83 @@
+{
+ "slug": "ajay",
+ "name": "Ajay",
+ "source_url": "https://fridaymatinee.in/people/ajay",
+ "captured_at": "2026-10-01T20:15:59.238517+00:00",
+ "person": {
+  "name": "Ajay",
+  "photo": "https://image.tmdb.org/t/p/w185/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 9
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 53,
+   "movie_slug": "sarileru-neekevvaru",
+   "title": "Sarileru Neekevvaru",
+   "year": 2020,
+   "kerala_gross": "₹7.9L"
+  },
+  {
+   "movie_id": 94,
+   "movie_slug": "pushpa-the-rise-part-01",
+   "title": "Pushpa The Rise Part 01",
+   "year": 2021,
+   "kerala_gross": "₹7.7 Cr"
+  },
+  {
+   "movie_id": 271,
+   "movie_slug": "thunivu",
+   "title": "Thunivu",
+   "year": 2023,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 338,
+   "movie_slug": "desamuduru",
+   "title": "Desamuduru",
+   "year": 2023,
+   "kerala_gross": "₹94K"
+  },
+  {
+   "movie_id": 493,
+   "movie_slug": "guntur-kaaram",
+   "title": "Guntur Kaaram",
+   "year": 2024,
+   "kerala_gross": "₹8.3L"
+  },
+  {
+   "movie_id": 574,
+   "movie_slug": "devara-part-1",
+   "title": "Devara - Part 1",
+   "year": 2024,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 607,
+   "movie_slug": "pushpa-2-the-rule",
+   "title": "Pushpa 2 - The Rule",
+   "year": 2024,
+   "kerala_gross": "₹15.1 Cr"
+  },
+  {
+   "movie_id": 1231,
+   "movie_slug": "magudam",
+   "title": "Magudam",
+   "year": 2026,
+   "kerala_gross": "₹7.0L"
+  },
+  {
+   "movie_id": 966,
+   "movie_slug": "spirit",
+   "title": "Spirit",
+   "year": 2027,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

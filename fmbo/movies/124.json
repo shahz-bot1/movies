@@ -1,0 +1,728 @@
+{
+ "id": 124,
+ "slug": "kgf-chapter-2",
+ "source_url": "https://fridaymatinee.in/boxoffice/kgf-chapter-2-124",
+ "captured_at": "2026-10-01T18:01:40.459379+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 124,
+    "title": "KGF Chapter 2",
+    "img": "https://image.tmdb.org/t/p/original/khNVygolU0TxLIDWff5tQlAhZ23.jpg",
+    "released": "2022-04-14",
+    "language": "Kannada",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10698680",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "168 min",
+    "genre": "Action, Thriller, Adventure, Crime",
+    "plot": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.",
+    "released": "2022-04-14",
+    "director": "Prashanth Neel",
+    "directorSlug": "prashanth-neel",
+    "actors": [
+     "Yash",
+     "Sanjay Dutt",
+     "Raveena Tandon",
+     "Srinidhi Shetty",
+     "Archana Jois",
+     "Achyuth Kumar"
+    ],
+    "awards": "8 wins u0026 13 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.2",
+      "votes": 173135,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.5",
+      "votes": 227,
+      "updatedAt": "2026-09-25T01:10:29.000Z"
+     },
+     "rt": "50%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Yash",
+     "character": "Raja Krishnappa Bairya 'Rocky'",
+     "slug": "yash",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/es8St0vl9otL1XAAZJKYmNpL3Wy.jpg"
+    },
+    {
+     "name": "Sanjay Dutt",
+     "character": "Adheera",
+     "slug": "sanjay-dutt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg"
+    },
+    {
+     "name": "Raveena Tandon",
+     "character": "Ramika Sen",
+     "slug": "raveena-tandon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3ifGMlHKKRFvK9Sg5y2bs5jWUlI.jpg"
+    },
+    {
+     "name": "Srinidhi Shetty",
+     "character": "Reena",
+     "slug": "srinidhi-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pTsixKDFS3n2xsvR6wDZ9J6jjfQ.jpg"
+    },
+    {
+     "name": "Archana Jois",
+     "character": "Shanthamma",
+     "slug": "archana-jois",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kRmgREIRxLxNKssJMT7YxzNXmFH.jpg"
+    },
+    {
+     "name": "Achyuth Kumar",
+     "character": "Guru Pandyan",
+     "slug": "achyuth-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zO1MoCgaz0RxILjga8VYXguROMp.jpg"
+    },
+    {
+     "name": "Rao Ramesh",
+     "character": "Kanneganti Raghavan",
+     "slug": "rao-ramesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jzO0wN21tEcmz0haekvliQU91JM.jpg"
+    },
+    {
+     "name": "Ayyappa P. Sharma",
+     "character": "Vanaram",
+     "slug": "ayyappa-p-sharma",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Prashanth Neel",
+       "slug": "prashanth-neel"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Prashanth Neel",
+       "slug": "prashanth-neel"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ravi Basrur",
+       "slug": "ravi-basrur"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Bhuvan Gowda",
+       "slug": "bhuvan-gowda"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ujwal Kulkarni",
+       "slug": "ujwal-kulkarni"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vijay Kiragandur",
+       "slug": "vijay-kiragandur"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Hombale Films",
+     "slug": "hombale-films",
+     "logo": "https://image.tmdb.org/t/p/w185/ldpgYauK9FMNsbOSSxSSl63o3mb.png"
+    },
+    {
+     "name": "Vaaraahi Chalana Chitram",
+     "slug": "vaaraahi-chalana-chitram",
+     "logo": "https://image.tmdb.org/t/p/w185/cxgZzPxh77xTJJ8b94hf2uJAdlL.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-05-16",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 525335006.01,
+    "totalShows": 26238,
+    "totalDays": 43,
+    "openingDay": {
+     "day": 1,
+     "gross": 51212691.35000001,
+     "date": "2022-04-14"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 54907956.890000015,
+     "date": "2022-04-17"
+    },
+    "chartPosition": {
+     "current_position": 13,
+     "weeks_on_chart": 208,
+     "peak_position": 1,
+     "last_week_position": 13
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-04-14"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 124,
+    "title": "KGF Chapter 2",
+    "img": "https://image.tmdb.org/t/p/original/khNVygolU0TxLIDWff5tQlAhZ23.jpg",
+    "released": "2022-04-14",
+    "language": "Kannada",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10698680",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "168 min",
+    "genre": "Action, Thriller, Adventure, Crime",
+    "plot": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.",
+    "released": "2022-04-14",
+    "director": "Prashanth Neel",
+    "directorSlug": "prashanth-neel",
+    "actors": [
+     "Yash",
+     "Sanjay Dutt",
+     "Raveena Tandon",
+     "Srinidhi Shetty",
+     "Archana Jois",
+     "Achyuth Kumar"
+    ],
+    "awards": "8 wins u0026 13 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.2",
+      "votes": 173135,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.5",
+      "votes": 227,
+      "updatedAt": "2026-09-25T01:10:29.000Z"
+     },
+     "rt": "50%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Yash",
+     "character": "Raja Krishnappa Bairya 'Rocky'",
+     "slug": "yash",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/es8St0vl9otL1XAAZJKYmNpL3Wy.jpg"
+    },
+    {
+     "name": "Sanjay Dutt",
+     "character": "Adheera",
+     "slug": "sanjay-dutt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg"
+    },
+    {
+     "name": "Raveena Tandon",
+     "character": "Ramika Sen",
+     "slug": "raveena-tandon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3ifGMlHKKRFvK9Sg5y2bs5jWUlI.jpg"
+    },
+    {
+     "name": "Srinidhi Shetty",
+     "character": "Reena",
+     "slug": "srinidhi-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pTsixKDFS3n2xsvR6wDZ9J6jjfQ.jpg"
+    },
+    {
+     "name": "Archana Jois",
+     "character": "Shanthamma",
+     "slug": "archana-jois",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kRmgREIRxLxNKssJMT7YxzNXmFH.jpg"
+    },
+    {
+     "name": "Achyuth Kumar",
+     "character": "Guru Pandyan",
+     "slug": "achyuth-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zO1MoCgaz0RxILjga8VYXguROMp.jpg"
+    },
+    {
+     "name": "Rao Ramesh",
+     "character": "Kanneganti Raghavan",
+     "slug": "rao-ramesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jzO0wN21tEcmz0haekvliQU91JM.jpg"
+    },
+    {
+     "name": "Ayyappa P. Sharma",
+     "character": "Vanaram",
+     "slug": "ayyappa-p-sharma",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Prashanth Neel",
+       "slug": "prashanth-neel"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Prashanth Neel",
+       "slug": "prashanth-neel"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ravi Basrur",
+       "slug": "ravi-basrur"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Bhuvan Gowda",
+       "slug": "bhuvan-gowda"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ujwal Kulkarni",
+       "slug": "ujwal-kulkarni"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vijay Kiragandur",
+       "slug": "vijay-kiragandur"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Hombale Films",
+     "slug": "hombale-films",
+     "logo": "https://image.tmdb.org/t/p/w185/ldpgYauK9FMNsbOSSxSSl63o3mb.png"
+    },
+    {
+     "name": "Vaaraahi Chalana Chitram",
+     "slug": "vaaraahi-chalana-chitram",
+     "logo": "https://image.tmdb.org/t/p/w185/cxgZzPxh77xTJJ8b94hf2uJAdlL.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-05-16",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-04-14",
+     "gross": 305114945.58,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 10045,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-04-21",
+     "gross": 125767247.62000002,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 8475,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-04-28",
+     "gross": 49467716.66000002,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3421,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-05-05",
+     "gross": 35355799.48,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2858,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-05-12",
+     "gross": 8125167.670000001,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1270,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-05-19",
+     "gross": 1453119,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 161,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-05-26",
+     "gross": 51010,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 8,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 525335006.01000005,
+    "totalShows": 26238,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 305114945.58
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 305114945.58
+    },
+    "chartPosition": {
+     "current_position": 13,
+     "weeks_on_chart": 208,
+     "peak_position": 1,
+     "last_week_position": 13
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-04-14"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 124,
+    "title": "KGF Chapter 2",
+    "img": "https://image.tmdb.org/t/p/original/khNVygolU0TxLIDWff5tQlAhZ23.jpg",
+    "released": "2022-04-14",
+    "language": "Kannada",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10698680",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "168 min",
+    "genre": "Action, Thriller, Adventure, Crime",
+    "plot": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their Savior, the government sees him as a threat to law and order; enemies are clamoring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.",
+    "released": "2022-04-14",
+    "director": "Prashanth Neel",
+    "directorSlug": "prashanth-neel",
+    "actors": [
+     "Yash",
+     "Sanjay Dutt",
+     "Raveena Tandon",
+     "Srinidhi Shetty",
+     "Archana Jois",
+     "Achyuth Kumar"
+    ],
+    "awards": "8 wins u0026 13 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.2",
+      "votes": 173135,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.5",
+      "votes": 227,
+      "updatedAt": "2026-09-25T01:10:29.000Z"
+     },
+     "rt": "50%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Yash",
+     "character": "Raja Krishnappa Bairya 'Rocky'",
+     "slug": "yash",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/es8St0vl9otL1XAAZJKYmNpL3Wy.jpg"
+    },
+    {
+     "name": "Sanjay Dutt",
+     "character": "Adheera",
+     "slug": "sanjay-dutt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg"
+    },
+    {
+     "name": "Raveena Tandon",
+     "character": "Ramika Sen",
+     "slug": "raveena-tandon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3ifGMlHKKRFvK9Sg5y2bs5jWUlI.jpg"
+    },
+    {
+     "name": "Srinidhi Shetty",
+     "character": "Reena",
+     "slug": "srinidhi-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pTsixKDFS3n2xsvR6wDZ9J6jjfQ.jpg"
+    },
+    {
+     "name": "Archana Jois",
+     "character": "Shanthamma",
+     "slug": "archana-jois",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kRmgREIRxLxNKssJMT7YxzNXmFH.jpg"
+    },
+    {
+     "name": "Achyuth Kumar",
+     "character": "Guru Pandyan",
+     "slug": "achyuth-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zO1MoCgaz0RxILjga8VYXguROMp.jpg"
+    },
+    {
+     "name": "Rao Ramesh",
+     "character": "Kanneganti Raghavan",
+     "slug": "rao-ramesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jzO0wN21tEcmz0haekvliQU91JM.jpg"
+    },
+    {
+     "name": "Ayyappa P. Sharma",
+     "character": "Vanaram",
+     "slug": "ayyappa-p-sharma",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Prashanth Neel",
+       "slug": "prashanth-neel"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Prashanth Neel",
+       "slug": "prashanth-neel"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ravi Basrur",
+       "slug": "ravi-basrur"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Bhuvan Gowda",
+       "slug": "bhuvan-gowda"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ujwal Kulkarni",
+       "slug": "ujwal-kulkarni"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vijay Kiragandur",
+       "slug": "vijay-kiragandur"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Hombale Films",
+     "slug": "hombale-films",
+     "logo": "https://image.tmdb.org/t/p/w185/ldpgYauK9FMNsbOSSxSSl63o3mb.png"
+    },
+    {
+     "name": "Vaaraahi Chalana Chitram",
+     "slug": "vaaraahi-chalana-chitram",
+     "logo": "https://image.tmdb.org/t/p/w185/cxgZzPxh77xTJJ8b94hf2uJAdlL.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-05-16",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 525335006.01,
+    "totalShows": 26238,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 100164754,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 100164754,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 13,
+     "weeks_on_chart": 208,
+     "peak_position": 1,
+     "last_week_position": 13
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-04-14"
+   }
+  }
+ }
+}

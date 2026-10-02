@@ -1,0 +1,41 @@
+{
+ "slug": "sruthi-jayan",
+ "name": "Sruthi Jayan",
+ "source_url": "https://fridaymatinee.in/people/sruthi-jayan",
+ "captured_at": "2026-10-02T10:56:43.316345+00:00",
+ "person": {
+  "name": "Sruthi Jayan",
+  "photo": "https://image.tmdb.org/t/p/w185/rmCEgqdYysu2Ey3p9G0pbFGzneO.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 292,
+   "movie_slug": "momo-in-dubai",
+   "title": "Momo in Dubai",
+   "year": 2023,
+   "kerala_gross": "₹10.1L"
+  },
+  {
+   "movie_id": 656,
+   "movie_slug": "machante-malakha",
+   "title": "Machante Malakha",
+   "year": 2025,
+   "kerala_gross": "₹69.4L"
+  },
+  {
+   "movie_id": 1218,
+   "movie_slug": "vivaah",
+   "title": "Vivaah",
+   "year": 2026,
+   "kerala_gross": "₹6.7L"
+  }
+ ]
+}

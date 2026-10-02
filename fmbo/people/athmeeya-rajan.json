@@ -1,0 +1,48 @@
+{
+ "slug": "athmeeya-rajan",
+ "name": "Athmeeya Rajan",
+ "source_url": "https://fridaymatinee.in/people/athmeeya-rajan",
+ "captured_at": "2026-10-01T21:02:35.066170+00:00",
+ "person": {
+  "name": "Athmeeya Rajan",
+  "photo": "https://image.tmdb.org/t/p/w185/xoRwDLXMoKxAFX5XTApSS5cdElu.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 143,
+   "movie_slug": "john-luther",
+   "title": "John Luther",
+   "year": 2022,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 241,
+   "movie_slug": "adrishyam",
+   "title": "Adrishyam",
+   "year": 2022,
+   "kerala_gross": "₹49.0L"
+  },
+  {
+   "movie_id": 244,
+   "movie_slug": "shefeekkinte-santhosham",
+   "title": "Shefeekkinte Santhosham",
+   "year": 2022,
+   "kerala_gross": "₹50.1L"
+  },
+  {
+   "movie_id": 866,
+   "movie_slug": "paathirathri",
+   "title": "Paathirathri",
+   "year": 2025,
+   "kerala_gross": "₹2.1 Cr"
+  }
+ ]
+}

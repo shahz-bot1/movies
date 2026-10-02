@@ -1,0 +1,346 @@
+{
+ "id": 32,
+ "slug": "action",
+ "source_url": "https://fridaymatinee.in/boxoffice/action-32",
+ "captured_at": "2026-10-01T17:57:37.892178+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 32,
+    "title": "Action",
+    "img": "https://image.tmdb.org/t/p/original/9PpaVbWWyVYJZSdof8P3lIDylbE.jpg",
+    "released": "2019-11-15",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10955578",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "158 min",
+    "genre": "Action",
+    "plot": "An Indian army officer goes after the mastermind behind a terror attack that also resulted in personal loss to him.",
+    "released": "2019-11-15",
+    "director": "Sundar C",
+    "directorSlug": "sundar-c",
+    "actors": [
+     "Vishal Krishna",
+     "Tamannaah Bhatia",
+     "Aishwarya Lekshmi",
+     "Yogi Babu",
+     "Ramki",
+     "Akanksha Puri"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "4.8",
+      "votes": 2568,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vishal Krishna",
+     "character": "Subash",
+     "slug": "vishal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/39NsHSvIygBnkUpAB4Wx3A9g4GF.jpg"
+    },
+    {
+     "name": "Tamannaah Bhatia",
+     "character": "Diya",
+     "slug": "tamannaah-bhatia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/t4WYoKiFAyO1Rhjv7O03EKmJHp4.jpg"
+    },
+    {
+     "name": "Aishwarya Lekshmi",
+     "character": "Meera",
+     "slug": "aishwarya-lekshmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b3yxjhc62X0JZghaRTYNMVrI78a.jpg"
+    },
+    {
+     "name": "Yogi Babu",
+     "character": "Jack",
+     "slug": "yogi-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+    },
+    {
+     "name": "Ramki",
+     "character": "Subhash's Brother",
+     "slug": "ramki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vLlfDwmoNzQJsmuVQezZbJyb387.jpg"
+    },
+    {
+     "name": "Akanksha Puri",
+     "character": "Kiara",
+     "slug": "akanksha-puri",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/o3nETwZt3jLyWjPyUc4i8ZTJ2DW.jpg"
+    },
+    {
+     "name": "Chaya Singh",
+     "character": "Kayalvizhi",
+     "slug": "chaya-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/g9y7VK16FrXW9RKmsJvbIwC9Rf0.jpg"
+    },
+    {
+     "name": "Kabir Duhan Singh",
+     "character": "Syed Ibrahim Malik",
+     "slug": "kabir-duhan-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lAVAxFARP63oTHMYWpwHrWsXPWa.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sundar C",
+       "slug": "sundar-c"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "A.N. Balakrishnan",
+       "slug": "a-n-balakrishnan"
+      },
+      {
+       "name": "D Suresh",
+       "slug": "d-suresh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "HipHop Tamizha Adhi",
+       "slug": "hiphop-tamizha-adhi"
+      },
+      {
+       "name": "HipHop Tamizha Jeeva",
+       "slug": "hiphop-tamizha-jeeva"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Dudley",
+       "slug": "dudley"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "N. B. Srikanth",
+       "slug": "n-b-srikanth"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "R. Ravindran",
+       "slug": "r-ravindran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Trident Arts",
+     "slug": "trident-arts",
+     "logo": "https://image.tmdb.org/t/p/w185/xryPUTxib0ykcr5bwiLUX8u7b4d.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2019-11-15",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 965392,
+    "totalShows": 380,
+    "totalDays": 10,
+    "openingDay": {
+     "day": 1,
+     "gross": 228595,
+     "date": "2019-11-15"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 228595,
+     "date": "2019-11-15"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 17,
+     "last_week_position": 97
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-15"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 32,
+    "title": "Action",
+    "img": "https://image.tmdb.org/t/p/original/9PpaVbWWyVYJZSdof8P3lIDylbE.jpg",
+    "released": "2019-11-15",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10955578",
+    "isRerelease": false
+   },
+   "omdb": "$e:1:props:allViews:date:omdb",
+   "cast": "$e:1:props:allViews:date:cast",
+   "crew": "$e:1:props:allViews:date:crew",
+   "companies": "$e:1:props:allViews:date:companies",
+   "ott": "$e:1:props:allViews:date:ott",
+   "boxoffice": [
+    {
+     "label": "2019-11-15",
+     "gross": 952082,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 376,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-11-22",
+     "gross": 13310,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 965392,
+    "totalShows": 380,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 952082,
+     "date": "$undefined"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 952082,
+     "date": "$undefined"
+    },
+    "chartPosition": "$e:1:props:allViews:date:summary:chartPosition"
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-15"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 32,
+    "title": "Action",
+    "img": "https://image.tmdb.org/t/p/original/9PpaVbWWyVYJZSdof8P3lIDylbE.jpg",
+    "released": "2019-11-15",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10955578",
+    "isRerelease": false
+   },
+   "omdb": "$e:1:props:allViews:date:omdb",
+   "cast": "$e:1:props:allViews:date:cast",
+   "crew": "$e:1:props:allViews:date:crew",
+   "companies": "$e:1:props:allViews:date:companies",
+   "ott": "$e:1:props:allViews:date:ott",
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 965392,
+    "totalShows": 380,
+    "totalDays": 10,
+    "openingDay": {
+     "day": 1,
+     "gross": 270687,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 270687,
+     "date": "Ernakulam"
+    },
+    "chartPosition": "$e:1:props:allViews:date:summary:chartPosition"
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-15"
+   }
+  }
+ }
+}

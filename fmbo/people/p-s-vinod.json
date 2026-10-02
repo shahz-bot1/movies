@@ -1,0 +1,41 @@
+{
+ "slug": "p-s-vinod",
+ "name": "P. S. Vinod",
+ "source_url": "https://fridaymatinee.in/people/p-s-vinod",
+ "captured_at": "2026-10-02T01:10:57.586561+00:00",
+ "person": {
+  "name": "P. S. Vinod",
+  "photo": null,
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 54,
+   "movie_slug": "angu-vaikuntapurathu",
+   "title": "Angu Vaikuntapurathu",
+   "year": 2020,
+   "kerala_gross": "₹36.2L"
+  },
+  {
+   "movie_id": 173,
+   "movie_slug": "sita-ramam",
+   "title": "Sita Ramam",
+   "year": 2022,
+   "kerala_gross": "₹5.0 Cr"
+  },
+  {
+   "movie_id": 216,
+   "movie_slug": "vikram-vedha",
+   "title": "Vikram Vedha",
+   "year": 2022,
+   "kerala_gross": "₹25.8L"
+  }
+ ]
+}

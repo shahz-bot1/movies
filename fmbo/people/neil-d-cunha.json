@@ -1,0 +1,41 @@
+{
+ "slug": "neil-d-cunha",
+ "name": "Neil D'Cunha",
+ "source_url": "https://fridaymatinee.in/people/neil-d-cunha",
+ "captured_at": "2026-10-02T00:57:53.294675+00:00",
+ "person": {
+  "name": "Neil D'Cunha",
+  "photo": "https://image.tmdb.org/t/p/w185/nBV2TzAax4UOsgH2rexGWAp4tQU.jpg",
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 102,
+   "movie_slug": "meppadiyan",
+   "title": "Meppadiyan",
+   "year": 2022,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 149,
+   "movie_slug": "vaashi",
+   "title": "Vaashi",
+   "year": 2022,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 19,
+   "movie_slug": "idi-mazha-kaattu",
+   "title": "Idi Mazha Kaattu",
+   "year": 2025,
+   "kerala_gross": "₹11.0L"
+  }
+ ]
+}

@@ -1,0 +1,636 @@
+{
+ "id": 546,
+ "slug": "devadoothan",
+ "source_url": "https://fridaymatinee.in/boxoffice/devadoothan-546",
+ "captured_at": "2026-10-01T18:15:00.815171+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 546,
+    "title": "Devadoothan",
+    "img": "https://image.tmdb.org/t/p/original/rsUOdghEjm87u6IiJa2fXQlVo0m.jpg",
+    "released": "2024-07-26",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt0280599",
+    "isRerelease": true
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "158 min",
+    "genre": "Horror, Music, Mystery, Romance",
+    "plot": "Vishal Krishnamoorthy, a renowned music composer and singer, reminisces about his initial struggles and an unknown spirit that inspires him to compose songs.",
+    "released": "2000-12-25",
+    "director": "Sibi Malayil",
+    "directorSlug": "sibi-malayil",
+    "actors": [
+     "Mohanlal",
+     "Jaya Prada",
+     "Vijayalakshmi",
+     "Janardhanan",
+     "Murali",
+     "Jagadish"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.7",
+      "votes": 1640,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Vishal Krishnamoorthy",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Jaya Prada",
+     "character": "Angelina Ignatius (Aleena)",
+     "slug": "jaya-prada",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jD3BDABDH36vYPaQrI3PFWM9KJ9.jpg"
+    },
+    {
+     "name": "Vijayalakshmi",
+     "character": "Sneha",
+     "slug": "vijayalakshmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mqpIBKplX9eI9LdJ95Vcc7ytijP.jpg"
+    },
+    {
+     "name": "Janardhanan",
+     "character": "College Principal Edward",
+     "slug": "janardhanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aZB2VxD5iyugCnzCPyQbMOrzRls.jpg"
+    },
+    {
+     "name": "Murali",
+     "character": "Alberto",
+     "slug": "murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/npEuqQO3pOTqGijM4Ty88VTpCWC.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Ithakk",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Jagathy Sreekumar",
+     "character": "Fr. Sthevachan",
+     "slug": "jagathy-sreekumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wfiRYvHVaHWlaJ7XxDvtyxkvCIc.jpg"
+    },
+    {
+     "name": "Vineeth Kumar",
+     "character": "Nikhil Maheshwar",
+     "slug": "vineeth-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rTtJDTHhqyQ4IGlrAyrCkHyBc33.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sibi Malayil",
+       "slug": "sibi-malayil"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Raghunath Paleri",
+       "slug": "raghunath-paleri"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vidyasagar",
+       "slug": "vidyasagar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Santosh Thundiyil",
+       "slug": "santosh-thundiyil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "L. Bhoominathan",
+       "slug": "l-bhoominathan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Siyad Koker",
+       "slug": "siyad-koker"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Kokers Films",
+     "slug": "kokers-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 34350758.599999994,
+    "totalShows": 4515,
+    "totalDays": 29,
+    "openingDay": {
+     "day": 1,
+     "gross": 2521867,
+     "date": "2024-07-26"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 4265710.399999999,
+     "date": "2024-07-28"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 99,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-07-26"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 546,
+    "title": "Devadoothan",
+    "img": "https://image.tmdb.org/t/p/original/rsUOdghEjm87u6IiJa2fXQlVo0m.jpg",
+    "released": "2024-07-26",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt0280599",
+    "isRerelease": true
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "158 min",
+    "genre": "Horror, Music, Mystery, Romance",
+    "plot": "Vishal Krishnamoorthy, a renowned music composer and singer, reminisces about his initial struggles and an unknown spirit that inspires him to compose songs.",
+    "released": "2000-12-25",
+    "director": "Sibi Malayil",
+    "directorSlug": "sibi-malayil",
+    "actors": [
+     "Mohanlal",
+     "Jaya Prada",
+     "Vijayalakshmi",
+     "Janardhanan",
+     "Murali",
+     "Jagadish"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.7",
+      "votes": 1640,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Vishal Krishnamoorthy",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Jaya Prada",
+     "character": "Angelina Ignatius (Aleena)",
+     "slug": "jaya-prada",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jD3BDABDH36vYPaQrI3PFWM9KJ9.jpg"
+    },
+    {
+     "name": "Vijayalakshmi",
+     "character": "Sneha",
+     "slug": "vijayalakshmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mqpIBKplX9eI9LdJ95Vcc7ytijP.jpg"
+    },
+    {
+     "name": "Janardhanan",
+     "character": "College Principal Edward",
+     "slug": "janardhanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aZB2VxD5iyugCnzCPyQbMOrzRls.jpg"
+    },
+    {
+     "name": "Murali",
+     "character": "Alberto",
+     "slug": "murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/npEuqQO3pOTqGijM4Ty88VTpCWC.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Ithakk",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Jagathy Sreekumar",
+     "character": "Fr. Sthevachan",
+     "slug": "jagathy-sreekumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wfiRYvHVaHWlaJ7XxDvtyxkvCIc.jpg"
+    },
+    {
+     "name": "Vineeth Kumar",
+     "character": "Nikhil Maheshwar",
+     "slug": "vineeth-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rTtJDTHhqyQ4IGlrAyrCkHyBc33.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sibi Malayil",
+       "slug": "sibi-malayil"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Raghunath Paleri",
+       "slug": "raghunath-paleri"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vidyasagar",
+       "slug": "vidyasagar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Santosh Thundiyil",
+       "slug": "santosh-thundiyil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "L. Bhoominathan",
+       "slug": "l-bhoominathan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Siyad Koker",
+       "slug": "siyad-koker"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Kokers Films",
+     "slug": "kokers-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2024-07-26",
+     "gross": 17390535.4,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1202,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-08-02",
+     "gross": 12674337.400000002,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2345,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-08-09",
+     "gross": 3718193.7999999993,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 882,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-08-16",
+     "gross": 564012,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 85,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-08-23",
+     "gross": 3680,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 34350758.6,
+    "totalShows": 4515,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 17390535.4
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 17390535.4
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 99,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-07-26"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 546,
+    "title": "Devadoothan",
+    "img": "https://image.tmdb.org/t/p/original/rsUOdghEjm87u6IiJa2fXQlVo0m.jpg",
+    "released": "2024-07-26",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt0280599",
+    "isRerelease": true
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "158 min",
+    "genre": "Horror, Music, Mystery, Romance",
+    "plot": "Vishal Krishnamoorthy, a renowned music composer and singer, reminisces about his initial struggles and an unknown spirit that inspires him to compose songs.",
+    "released": "2000-12-25",
+    "director": "Sibi Malayil",
+    "directorSlug": "sibi-malayil",
+    "actors": [
+     "Mohanlal",
+     "Jaya Prada",
+     "Vijayalakshmi",
+     "Janardhanan",
+     "Murali",
+     "Jagadish"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.7",
+      "votes": 1640,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Vishal Krishnamoorthy",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Jaya Prada",
+     "character": "Angelina Ignatius (Aleena)",
+     "slug": "jaya-prada",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jD3BDABDH36vYPaQrI3PFWM9KJ9.jpg"
+    },
+    {
+     "name": "Vijayalakshmi",
+     "character": "Sneha",
+     "slug": "vijayalakshmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mqpIBKplX9eI9LdJ95Vcc7ytijP.jpg"
+    },
+    {
+     "name": "Janardhanan",
+     "character": "College Principal Edward",
+     "slug": "janardhanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aZB2VxD5iyugCnzCPyQbMOrzRls.jpg"
+    },
+    {
+     "name": "Murali",
+     "character": "Alberto",
+     "slug": "murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/npEuqQO3pOTqGijM4Ty88VTpCWC.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Ithakk",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Jagathy Sreekumar",
+     "character": "Fr. Sthevachan",
+     "slug": "jagathy-sreekumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wfiRYvHVaHWlaJ7XxDvtyxkvCIc.jpg"
+    },
+    {
+     "name": "Vineeth Kumar",
+     "character": "Nikhil Maheshwar",
+     "slug": "vineeth-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rTtJDTHhqyQ4IGlrAyrCkHyBc33.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sibi Malayil",
+       "slug": "sibi-malayil"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Raghunath Paleri",
+       "slug": "raghunath-paleri"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vidyasagar",
+       "slug": "vidyasagar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Santosh Thundiyil",
+       "slug": "santosh-thundiyil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "L. Bhoominathan",
+       "slug": "l-bhoominathan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Siyad Koker",
+       "slug": "siyad-koker"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Kokers Films",
+     "slug": "kokers-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 34350758.599999994,
+    "totalShows": 4515,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 11548938,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 11548938,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 99,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-07-26"
+   }
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "brie-larson",
+ "name": "Brie Larson",
+ "source_url": "https://fridaymatinee.in/people/brie-larson",
+ "captured_at": "2026-10-01T21:25:23.915217+00:00",
+ "person": {
+  "name": "Brie Larson",
+  "photo": "https://image.tmdb.org/t/p/w185/iqZ5uKJWbwSITCK4CqdlUHZTnXD.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 377,
+   "movie_slug": "fast-x",
+   "title": "Fast X",
+   "year": 2023,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 452,
+   "movie_slug": "the-marvels",
+   "title": "The Marvels",
+   "year": 2023,
+   "kerala_gross": "₹35.6L"
+  },
+  {
+   "movie_id": 1049,
+   "movie_slug": "the-super-mario-galaxy-movie",
+   "title": "The Super Mario Galaxy Movie",
+   "year": 2026,
+   "kerala_gross": "₹31.2L"
+  },
+  {
+   "movie_id": 1288,
+   "movie_slug": "avengers-endgame-encore",
+   "title": "Avengers Endgame: Encore",
+   "year": 2026,
+   "kerala_gross": "₹2.3 Cr"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "slug": "salman-khan",
+ "name": "Salman Khan",
+ "source_url": "https://fridaymatinee.in/people/salman-khan",
+ "captured_at": "2026-10-02T10:02:57.032795+00:00",
+ "person": {
+  "name": "Salman Khan",
+  "photo": "https://image.tmdb.org/t/p/w185/gxKwCCcs777HzsXRpdGsBV87pXn.jpg",
+  "role": "Actor, producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 8
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 44,
+   "movie_slug": "dabangg-3",
+   "title": "Dabangg 3",
+   "year": 2019,
+   "kerala_gross": "₹28.7L"
+  },
+  {
+   "movie_id": 353,
+   "movie_slug": "kisi-ka-bhai-kisi-ki-jaan",
+   "title": "Kisi Ka Bhai Kisi Ki Jaan",
+   "year": 2023,
+   "kerala_gross": "₹30.6L"
+  },
+  {
+   "movie_id": 459,
+   "movie_slug": "tiger-3",
+   "title": "Tiger 3",
+   "year": 2023,
+   "kerala_gross": "₹1.9 Cr"
+  },
+  {
+   "movie_id": 673,
+   "movie_slug": "sikandar",
+   "title": "Sikandar",
+   "year": 2025,
+   "kerala_gross": "₹55.7L"
+  },
+  {
+   "movie_id": 218,
+   "movie_slug": "godfather",
+   "title": "Godfather",
+   "year": 2022,
+   "kerala_gross": "₹8.6L"
+  },
+  {
+   "movie_id": 278,
+   "movie_slug": "pathaan",
+   "title": "Pathaan",
+   "year": 2023,
+   "kerala_gross": "₹9.5 Cr"
+  },
+  {
+   "movie_id": 1099,
+   "movie_slug": "raja-shivaji",
+   "title": "Raja Shivaji",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 1243,
+   "movie_slug": "7-dogs",
+   "title": "7 Dogs",
+   "year": 2026,
+   "kerala_gross": "₹11K"
+  }
+ ]
+}

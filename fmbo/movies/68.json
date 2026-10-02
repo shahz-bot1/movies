@@ -1,0 +1,609 @@
+{
+ "id": 68,
+ "slug": "yuvam",
+ "source_url": "https://fridaymatinee.in/boxoffice/yuvam-68",
+ "captured_at": "2026-10-01T17:59:48.452383+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 68,
+    "title": "Yuvam",
+    "img": "https://image.tmdb.org/t/p/original/vo1TfxITj6YLZy0JlAjVMBt2ckf.jpg",
+    "released": "2021-02-12",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13986720",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "119 min",
+    "genre": "Drama",
+    "plot": "Aby and his friends are happy-go-lucky lawyers, who take up a social task when they find out that their irresponsibility leads to a loss of life. Will they succeed in this endeavour?",
+    "released": "2021-02-12",
+    "director": "Pinku Peter",
+    "directorSlug": "pinku-peter",
+    "actors": [
+     "Amith Chakalakkal",
+     "Abhishek Raveendran",
+     "Nirmal Palazhi",
+     "Saikumar",
+     "Indrans",
+     "Disney James"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 358,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:46.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Amith Chakalakkal",
+     "character": "Aby",
+     "slug": "amith-chakalakkal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3UXRwVTyBj27ixwzz6OptaHlUn2.jpg"
+    },
+    {
+     "name": "Abhishek Raveendran",
+     "character": "Paul",
+     "slug": "abhishek-raveendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9895dMZFKOaVkmyoqjx5YoaRr0w.jpg"
+    },
+    {
+     "name": "Nirmal Palazhi",
+     "character": "Vinu",
+     "slug": "nirmal-palazhi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/trWP0Ap0mRnJepUQMflKZ1KFNbR.jpg"
+    },
+    {
+     "name": "Saikumar",
+     "character": "Chief Minister D.K. Srinivasan",
+     "slug": "saikumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/shnJkiBgcsnr4sozTZib4MXN1ou.jpg"
+    },
+    {
+     "name": "Indrans",
+     "character": "Adv. Sreekanth Panicker",
+     "slug": "indrans",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vs5Acy2hJ4dWoM3xRGdnFKdVXzw.jpg"
+    },
+    {
+     "name": "Disney James",
+     "character": "SI Kannappan",
+     "slug": "disney-james",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9DL5EVhklurk6BiOAnIR6ukTPTF.jpg"
+    },
+    {
+     "name": "Nedumudi Venu",
+     "character": "Judge Ramakrishnan",
+     "slug": "nedumudi-venu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d1MdSwIWnTNwk4qSxQ001GqZaaB.jpg"
+    },
+    {
+     "name": "Kalabhavan Shajon",
+     "character": "Rajesh MLA",
+     "slug": "kalabhavan-shajon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AeiCzOHp0lo426jJGpwJ2CWwISy.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Pinku Peter",
+       "slug": "pinku-peter"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Pinku Peter",
+       "slug": "pinku-peter"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sajith Purushan",
+       "slug": "sajith-purushan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "John Kutty",
+       "slug": "john-kutty"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Once Upon a Time Production",
+     "slug": "once-upon-a-time-production",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1093296,
+    "totalShows": 567,
+    "totalDays": 9,
+    "openingDay": {
+     "day": 1,
+     "gross": 170104,
+     "date": "2021-02-12"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 225028,
+     "date": "2021-02-14"
+    },
+    "chartPosition": {
+     "current_position": 98,
+     "weeks_on_chart": 0,
+     "peak_position": 49,
+     "last_week_position": 95
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-02-12"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 68,
+    "title": "Yuvam",
+    "img": "https://image.tmdb.org/t/p/original/vo1TfxITj6YLZy0JlAjVMBt2ckf.jpg",
+    "released": "2021-02-12",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13986720",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "119 min",
+    "genre": "Drama",
+    "plot": "Aby and his friends are happy-go-lucky lawyers, who take up a social task when they find out that their irresponsibility leads to a loss of life. Will they succeed in this endeavour?",
+    "released": "2021-02-12",
+    "director": "Pinku Peter",
+    "directorSlug": "pinku-peter",
+    "actors": [
+     "Amith Chakalakkal",
+     "Abhishek Raveendran",
+     "Nirmal Palazhi",
+     "Saikumar",
+     "Indrans",
+     "Disney James"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 358,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:46.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Amith Chakalakkal",
+     "character": "Aby",
+     "slug": "amith-chakalakkal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3UXRwVTyBj27ixwzz6OptaHlUn2.jpg"
+    },
+    {
+     "name": "Abhishek Raveendran",
+     "character": "Paul",
+     "slug": "abhishek-raveendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9895dMZFKOaVkmyoqjx5YoaRr0w.jpg"
+    },
+    {
+     "name": "Nirmal Palazhi",
+     "character": "Vinu",
+     "slug": "nirmal-palazhi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/trWP0Ap0mRnJepUQMflKZ1KFNbR.jpg"
+    },
+    {
+     "name": "Saikumar",
+     "character": "Chief Minister D.K. Srinivasan",
+     "slug": "saikumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/shnJkiBgcsnr4sozTZib4MXN1ou.jpg"
+    },
+    {
+     "name": "Indrans",
+     "character": "Adv. Sreekanth Panicker",
+     "slug": "indrans",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vs5Acy2hJ4dWoM3xRGdnFKdVXzw.jpg"
+    },
+    {
+     "name": "Disney James",
+     "character": "SI Kannappan",
+     "slug": "disney-james",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9DL5EVhklurk6BiOAnIR6ukTPTF.jpg"
+    },
+    {
+     "name": "Nedumudi Venu",
+     "character": "Judge Ramakrishnan",
+     "slug": "nedumudi-venu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d1MdSwIWnTNwk4qSxQ001GqZaaB.jpg"
+    },
+    {
+     "name": "Kalabhavan Shajon",
+     "character": "Rajesh MLA",
+     "slug": "kalabhavan-shajon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AeiCzOHp0lo426jJGpwJ2CWwISy.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Pinku Peter",
+       "slug": "pinku-peter"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Pinku Peter",
+       "slug": "pinku-peter"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sajith Purushan",
+       "slug": "sajith-purushan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "John Kutty",
+       "slug": "john-kutty"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Once Upon a Time Production",
+     "slug": "once-upon-a-time-production",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2021-02-12",
+     "gross": 1068516,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 557,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-02-19",
+     "gross": 24780,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 10,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1093296,
+    "totalShows": 567,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 1068516
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1068516
+    },
+    "chartPosition": {
+     "current_position": 98,
+     "weeks_on_chart": 0,
+     "peak_position": 49,
+     "last_week_position": 95
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-02-12"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 68,
+    "title": "Yuvam",
+    "img": "https://image.tmdb.org/t/p/original/vo1TfxITj6YLZy0JlAjVMBt2ckf.jpg",
+    "released": "2021-02-12",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13986720",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "119 min",
+    "genre": "Drama",
+    "plot": "Aby and his friends are happy-go-lucky lawyers, who take up a social task when they find out that their irresponsibility leads to a loss of life. Will they succeed in this endeavour?",
+    "released": "2021-02-12",
+    "director": "Pinku Peter",
+    "directorSlug": "pinku-peter",
+    "actors": [
+     "Amith Chakalakkal",
+     "Abhishek Raveendran",
+     "Nirmal Palazhi",
+     "Saikumar",
+     "Indrans",
+     "Disney James"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 358,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:46.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Amith Chakalakkal",
+     "character": "Aby",
+     "slug": "amith-chakalakkal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3UXRwVTyBj27ixwzz6OptaHlUn2.jpg"
+    },
+    {
+     "name": "Abhishek Raveendran",
+     "character": "Paul",
+     "slug": "abhishek-raveendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9895dMZFKOaVkmyoqjx5YoaRr0w.jpg"
+    },
+    {
+     "name": "Nirmal Palazhi",
+     "character": "Vinu",
+     "slug": "nirmal-palazhi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/trWP0Ap0mRnJepUQMflKZ1KFNbR.jpg"
+    },
+    {
+     "name": "Saikumar",
+     "character": "Chief Minister D.K. Srinivasan",
+     "slug": "saikumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/shnJkiBgcsnr4sozTZib4MXN1ou.jpg"
+    },
+    {
+     "name": "Indrans",
+     "character": "Adv. Sreekanth Panicker",
+     "slug": "indrans",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vs5Acy2hJ4dWoM3xRGdnFKdVXzw.jpg"
+    },
+    {
+     "name": "Disney James",
+     "character": "SI Kannappan",
+     "slug": "disney-james",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9DL5EVhklurk6BiOAnIR6ukTPTF.jpg"
+    },
+    {
+     "name": "Nedumudi Venu",
+     "character": "Judge Ramakrishnan",
+     "slug": "nedumudi-venu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d1MdSwIWnTNwk4qSxQ001GqZaaB.jpg"
+    },
+    {
+     "name": "Kalabhavan Shajon",
+     "character": "Rajesh MLA",
+     "slug": "kalabhavan-shajon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AeiCzOHp0lo426jJGpwJ2CWwISy.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Pinku Peter",
+       "slug": "pinku-peter"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Pinku Peter",
+       "slug": "pinku-peter"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sajith Purushan",
+       "slug": "sajith-purushan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "John Kutty",
+       "slug": "john-kutty"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Once Upon a Time Production",
+     "slug": "once-upon-a-time-production",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1093296,
+    "totalShows": 567,
+    "totalDays": 10,
+    "openingDay": {
+     "day": 1,
+     "gross": 407260,
+     "date": "Malappuram"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 407260,
+     "date": "Malappuram"
+    },
+    "chartPosition": {
+     "current_position": 98,
+     "weeks_on_chart": 0,
+     "peak_position": 49,
+     "last_week_position": 95
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-02-12"
+   }
+  }
+ }
+}

@@ -1,0 +1,532 @@
+{
+ "id": 91,
+ "slug": "kaaval",
+ "source_url": "https://fridaymatinee.in/boxoffice/kaaval-91",
+ "captured_at": "2026-10-01T18:00:44.632458+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 91,
+    "title": "Kaaval",
+    "img": "https://image.tmdb.org/t/p/original/uP15yTnZHc12JztbTCF00q94UTh.jpg",
+    "released": "2021-11-25",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11182984",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "148 min",
+    "genre": "Action, Thriller",
+    "plot": "Thampan and Antony are a long time best friends and business partners who owned a saw mill at Kattappana in the past. A family tragedy and its falling-out separates them for good. But now Antony and his family faces a grievous situation, and he is forced to ask his old friend for a help out. The timeline of the story spans over two generations",
+    "released": "2021-11-25",
+    "director": "Nithin Renji Panicker",
+    "directorSlug": "nithin-renji-panicker",
+    "actors": [
+     "Suresh Gopi",
+     "Renji Panicker",
+     "Rajesh Sharma",
+     "Muthumani Somasundaran",
+     "Shankar Ramakrishnan",
+     "Santhosh Keezhattoor"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.2",
+      "votes": 1692,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:38.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Suresh Gopi",
+     "character": "Thampan",
+     "slug": "suresh-gopi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qLVCGoW4k1k9cVyPlxmgxd68GaY.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "Antony",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5MGztWs1yxlptGDzeofC2jG7cAm.jpg"
+    },
+    {
+     "name": "Rajesh Sharma",
+     "character": "Pappy",
+     "slug": "rajesh-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AsYcBF5qQhSP7cQvhndLtz1aSrK.jpg"
+    },
+    {
+     "name": "Muthumani Somasundaran",
+     "character": "Smitha",
+     "slug": "muthumani-somasundaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9JQyoTIqKEsVkDsRa4JDrmXdv9v.jpg"
+    },
+    {
+     "name": "Shankar Ramakrishnan",
+     "character": "P.C. K. P. Varghese",
+     "slug": "shankar-ramakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6FPuMP7IkWL18nXsPlI6IXiL1Gb.jpg"
+    },
+    {
+     "name": "Santhosh Keezhattoor",
+     "character": "Thomas",
+     "slug": "santhosh-keezhattoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fl39fT0fSTeLCaJAsbybXgHMVUw.jpg"
+    },
+    {
+     "name": "Sadiq",
+     "character": "Head Constable Aravindakshan",
+     "slug": "sadiq",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dLfxvjZ014CumD83Oz6yXWbtvNA.jpg"
+    },
+    {
+     "name": "Kichu Tellus",
+     "character": "SI Madhu K",
+     "slug": "kichu-tellus",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ilo7dTpCUZ31qmCsaqtGUrQ0VaH.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nithin Renji Panicker",
+       "slug": "nithin-renji-panicker"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Nithin Renji Panicker",
+       "slug": "nithin-renji-panicker"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Joby George Thadathil",
+       "slug": "joby-george-thadathil"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": "2021-11-25",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 28314860,
+    "totalShows": 4148,
+    "totalDays": 18,
+    "openingDay": {
+     "day": 1,
+     "gross": 4839133,
+     "date": "2021-11-25"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 6151492,
+     "date": "2021-11-28"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 16,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-11-25"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 91,
+    "title": "Kaaval",
+    "img": "https://image.tmdb.org/t/p/original/uP15yTnZHc12JztbTCF00q94UTh.jpg",
+    "released": "2021-11-25",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11182984",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "148 min",
+    "genre": "Action, Thriller",
+    "plot": "Thampan and Antony are a long time best friends and business partners who owned a saw mill at Kattappana in the past. A family tragedy and its falling-out separates them for good. But now Antony and his family faces a grievous situation, and he is forced to ask his old friend for a help out. The timeline of the story spans over two generations",
+    "released": "2021-11-25",
+    "director": "Nithin Renji Panicker",
+    "directorSlug": "nithin-renji-panicker",
+    "actors": [
+     "Suresh Gopi",
+     "Renji Panicker",
+     "Rajesh Sharma",
+     "Muthumani Somasundaran",
+     "Shankar Ramakrishnan",
+     "Santhosh Keezhattoor"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.2",
+      "votes": 1692,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:38.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Suresh Gopi",
+     "character": "Thampan",
+     "slug": "suresh-gopi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qLVCGoW4k1k9cVyPlxmgxd68GaY.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "Antony",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5MGztWs1yxlptGDzeofC2jG7cAm.jpg"
+    },
+    {
+     "name": "Rajesh Sharma",
+     "character": "Pappy",
+     "slug": "rajesh-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AsYcBF5qQhSP7cQvhndLtz1aSrK.jpg"
+    },
+    {
+     "name": "Muthumani Somasundaran",
+     "character": "Smitha",
+     "slug": "muthumani-somasundaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9JQyoTIqKEsVkDsRa4JDrmXdv9v.jpg"
+    },
+    {
+     "name": "Shankar Ramakrishnan",
+     "character": "P.C. K. P. Varghese",
+     "slug": "shankar-ramakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6FPuMP7IkWL18nXsPlI6IXiL1Gb.jpg"
+    },
+    {
+     "name": "Santhosh Keezhattoor",
+     "character": "Thomas",
+     "slug": "santhosh-keezhattoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fl39fT0fSTeLCaJAsbybXgHMVUw.jpg"
+    },
+    {
+     "name": "Sadiq",
+     "character": "Head Constable Aravindakshan",
+     "slug": "sadiq",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dLfxvjZ014CumD83Oz6yXWbtvNA.jpg"
+    },
+    {
+     "name": "Kichu Tellus",
+     "character": "SI Madhu K",
+     "slug": "kichu-tellus",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ilo7dTpCUZ31qmCsaqtGUrQ0VaH.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nithin Renji Panicker",
+       "slug": "nithin-renji-panicker"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Nithin Renji Panicker",
+       "slug": "nithin-renji-panicker"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Joby George Thadathil",
+       "slug": "joby-george-thadathil"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": "2021-11-25",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2021-11-25",
+     "gross": 25726777,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3624,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-12-02",
+     "gross": 2581283,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 517,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-12-09",
+     "gross": 6800,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 7,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 28314860,
+    "totalShows": 4148,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 25726777
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 25726777
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 16,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-11-25"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 91,
+    "title": "Kaaval",
+    "img": "https://image.tmdb.org/t/p/original/uP15yTnZHc12JztbTCF00q94UTh.jpg",
+    "released": "2021-11-25",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11182984",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "148 min",
+    "genre": "Action, Thriller",
+    "plot": "Thampan and Antony are a long time best friends and business partners who owned a saw mill at Kattappana in the past. A family tragedy and its falling-out separates them for good. But now Antony and his family faces a grievous situation, and he is forced to ask his old friend for a help out. The timeline of the story spans over two generations",
+    "released": "2021-11-25",
+    "director": "Nithin Renji Panicker",
+    "directorSlug": "nithin-renji-panicker",
+    "actors": [
+     "Suresh Gopi",
+     "Renji Panicker",
+     "Rajesh Sharma",
+     "Muthumani Somasundaran",
+     "Shankar Ramakrishnan",
+     "Santhosh Keezhattoor"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.2",
+      "votes": 1692,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:38.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Suresh Gopi",
+     "character": "Thampan",
+     "slug": "suresh-gopi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qLVCGoW4k1k9cVyPlxmgxd68GaY.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "Antony",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5MGztWs1yxlptGDzeofC2jG7cAm.jpg"
+    },
+    {
+     "name": "Rajesh Sharma",
+     "character": "Pappy",
+     "slug": "rajesh-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AsYcBF5qQhSP7cQvhndLtz1aSrK.jpg"
+    },
+    {
+     "name": "Muthumani Somasundaran",
+     "character": "Smitha",
+     "slug": "muthumani-somasundaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9JQyoTIqKEsVkDsRa4JDrmXdv9v.jpg"
+    },
+    {
+     "name": "Shankar Ramakrishnan",
+     "character": "P.C. K. P. Varghese",
+     "slug": "shankar-ramakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6FPuMP7IkWL18nXsPlI6IXiL1Gb.jpg"
+    },
+    {
+     "name": "Santhosh Keezhattoor",
+     "character": "Thomas",
+     "slug": "santhosh-keezhattoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fl39fT0fSTeLCaJAsbybXgHMVUw.jpg"
+    },
+    {
+     "name": "Sadiq",
+     "character": "Head Constable Aravindakshan",
+     "slug": "sadiq",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dLfxvjZ014CumD83Oz6yXWbtvNA.jpg"
+    },
+    {
+     "name": "Kichu Tellus",
+     "character": "SI Madhu K",
+     "slug": "kichu-tellus",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ilo7dTpCUZ31qmCsaqtGUrQ0VaH.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nithin Renji Panicker",
+       "slug": "nithin-renji-panicker"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Nithin Renji Panicker",
+       "slug": "nithin-renji-panicker"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Joby George Thadathil",
+       "slug": "joby-george-thadathil"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": "2021-11-25",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 28314860,
+    "totalShows": 4148,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 4714295,
+     "date": "Thiruvananthapuram"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4714295,
+     "date": "Thiruvananthapuram"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 16,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-11-25"
+   }
+  }
+ }
+}

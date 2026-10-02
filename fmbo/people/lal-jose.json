@@ -1,0 +1,74 @@
+{
+ "slug": "lal-jose",
+ "name": "Lal Jose",
+ "source_url": "https://fridaymatinee.in/people/lal-jose",
+ "captured_at": "2026-10-01T23:57:38.805584+00:00",
+ "person": {
+  "name": "Lal Jose",
+  "photo": "https://image.tmdb.org/t/p/w185/k6JjoJQyDAjuaCoxpecTQCO43iu.jpg",
+  "role": "Actor and director"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 59,
+   "movie_slug": "varane-avashyamund",
+   "title": "Varane Avashyamund",
+   "year": 2020,
+   "kerala_gross": "₹6.3 Cr"
+  },
+  {
+   "movie_id": 544,
+   "movie_slug": "level-cross",
+   "title": "Level Cross",
+   "year": 2024,
+   "kerala_gross": "₹2.0 Cr"
+  },
+  {
+   "movie_id": 656,
+   "movie_slug": "machante-malakha",
+   "title": "Machante Malakha",
+   "year": 2025,
+   "kerala_gross": "₹69.4L"
+  },
+  {
+   "movie_id": 1260,
+   "movie_slug": "pradhama-dhrishtya-kuttakkar",
+   "title": "Pradhama Dhrishtya Kuttakkar",
+   "year": 2026,
+   "kerala_gross": "₹21.0 Cr"
+  },
+  {
+   "movie_id": 28,
+   "movie_slug": "nalpathiyonnu",
+   "title": "Nalpathiyonnu",
+   "year": 2019,
+   "kerala_gross": "₹78.4L"
+  },
+  {
+   "movie_id": 99,
+   "movie_slug": "meow",
+   "title": "Meow",
+   "year": 2021,
+   "kerala_gross": "₹74.0L"
+  },
+  {
+   "movie_id": 181,
+   "movie_slug": "solomante-theneechakal",
+   "title": "Solomante Theneechakal",
+   "year": 2022,
+   "kerala_gross": "₹37.9L"
+  }
+ ]
+}

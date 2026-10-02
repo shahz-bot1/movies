@@ -1,0 +1,55 @@
+{
+ "slug": "rithvik",
+ "name": "Rithvik",
+ "source_url": "https://fridaymatinee.in/people/rithvik",
+ "captured_at": "2026-10-02T09:43:53.373346+00:00",
+ "person": {
+  "name": "Rithvik",
+  "photo": "https://image.tmdb.org/t/p/w185/9j9GPeTCDcqBW5TMDoQwz30usT7.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 228,
+   "movie_slug": "sardar",
+   "title": "Sardar",
+   "year": 2022,
+   "kerala_gross": "₹94.9L"
+  },
+  {
+   "movie_id": 414,
+   "movie_slug": "jailer",
+   "title": "Jailer",
+   "year": 2023,
+   "kerala_gross": "₹42.4 Cr"
+  },
+  {
+   "movie_id": 537,
+   "movie_slug": "lucky-baskhar",
+   "title": "Lucky Baskhar",
+   "year": 2024,
+   "kerala_gross": "₹17.4 Cr"
+  },
+  {
+   "movie_id": 1276,
+   "movie_slug": "sardar-2",
+   "title": "Sardar 2",
+   "year": 2026,
+   "kerala_gross": "₹42.6L"
+  },
+  {
+   "movie_id": 1271,
+   "movie_slug": "jailer-2",
+   "title": "Jailer 2",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

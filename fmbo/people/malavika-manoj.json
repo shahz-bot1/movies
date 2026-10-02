@@ -1,0 +1,48 @@
+{
+ "slug": "malavika-manoj",
+ "name": "Malavika Manoj",
+ "source_url": "https://fridaymatinee.in/people/malavika-manoj",
+ "captured_at": "2026-10-02T00:14:30.711495+00:00",
+ "person": {
+  "name": "Malavika Manoj",
+  "photo": "https://image.tmdb.org/t/p/w185/jGmAQsZuQHNG5afX0OeWB2UPkL4.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 150,
+   "movie_slug": "prakashan-parakkatte",
+   "title": "Prakashan Parakkatte",
+   "year": 2022,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 598,
+   "movie_slug": "anand-sreebala",
+   "title": "Anand Sreebala",
+   "year": 2024,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 680,
+   "movie_slug": "sumathi-valavu",
+   "title": "Sumathi Valavu",
+   "year": 2025,
+   "kerala_gross": "₹15.0 Cr"
+  },
+  {
+   "movie_id": 1148,
+   "movie_slug": "habeebi",
+   "title": "Habeebi",
+   "year": 2026,
+   "kerala_gross": "₹1.7L"
+  }
+ ]
+}

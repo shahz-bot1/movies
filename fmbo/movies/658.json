@@ -1,0 +1,702 @@
+{
+ "id": 658,
+ "slug": "dragon",
+ "source_url": "https://fridaymatinee.in/boxoffice/dragon-658",
+ "captured_at": "2026-10-01T18:18:22.986200+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 658,
+    "title": "Dragon",
+    "img": "https://image.tmdb.org/t/p/original/sKO0EFi0aSdKZXZxqjTunLlNdjU.jpg",
+    "released": "2025-02-21",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32080876",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "157 min",
+    "genre": "Romance, Comedy, Drama",
+    "plot": "Raghavan transforms from a school topper into a “bad boy” to score girls in college, but ends up a heartbroken dropout. He then cons his way into a successful finance career, but the lies keep building and maintaining the facade proves tricky.",
+    "released": "2025-02-21",
+    "director": "Ashwath Marimuthu",
+    "directorSlug": "ashwath-marimuthu",
+    "actors": [
+     "Pradeep Ranganathan",
+     "Anupama Parameswaran",
+     "Kayadu Lohar",
+     "Mysskin",
+     "Gautham Vasudev Menon",
+     "K. S. Ravikumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.8",
+      "votes": 19443,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.4",
+      "votes": 52,
+      "updatedAt": "2026-09-24T19:10:18.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Pradeep Ranganathan",
+     "character": "D. Raghavan (Dragon)",
+     "slug": "pradeep-ranganathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yfATc50b77UwlNxz9OrokPYnwRj.jpg"
+    },
+    {
+     "name": "Anupama Parameswaran",
+     "character": "Keerthi",
+     "slug": "anupama-parameswaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iA8NAbwIKTbA8fKTNtXsAiBcC4W.jpg"
+    },
+    {
+     "name": "Kayadu Lohar",
+     "character": "Pallavi Parasuram",
+     "slug": "kayadu-lohar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pHaMPnrfnWvTPZA4IOmZk8BHY0U.jpg"
+    },
+    {
+     "name": "Mysskin",
+     "character": "Mayilvahanan",
+     "slug": "mysskin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2g65eG5FBh9oOMAhxpfk5T6um6A.jpg"
+    },
+    {
+     "name": "Gautham Vasudev Menon",
+     "character": "Vale Kumar",
+     "slug": "gautham-vasudev-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+     "name": "K. S. Ravikumar",
+     "character": "Parasuram",
+     "slug": "k-s-ravikumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8dUdM3sFvL4aXnDtLJJCkDMNEbo.jpg"
+    },
+    {
+     "name": "George Mariyan",
+     "character": "Dhanapal",
+     "slug": "george-mariyan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/izpHGWpHeMeOV7mXlhF19Hu7IER.jpg"
+    },
+    {
+     "name": "Indumathi Manigandan",
+     "character": "Chithra Dhanapal",
+     "slug": "indumathi-manigandan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8ThE7KSZtzzPbdtg42tn0UBoA5V.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ashwath Marimuthu",
+       "slug": "ashwath-marimuthu"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Pradeep Ranganathan",
+       "slug": "pradeep-ranganathan"
+      },
+      {
+       "name": "Ashwath Marimuthu",
+       "slug": "ashwath-marimuthu"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Leon James",
+       "slug": "leon-james"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Niketh Bommi",
+       "slug": "niketh-bommi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Pradeep E. Ragav",
+       "slug": "pradeep-e-ragav"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kalpathi S Aghoram",
+       "slug": "kalpathi-s-aghoram"
+      },
+      {
+       "name": "Kalpathi S Ganesh",
+       "slug": "kalpathi-s-ganesh"
+      },
+      {
+       "name": "Kalpathi S Suresh",
+       "slug": "kalpathi-s-suresh"
+      },
+      {
+       "name": "Archana Kalpathi",
+       "slug": "archana-kalpathi"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "AGS Entertainment",
+     "slug": "ags-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/u2MPw19ZZ4mIzacy6SXOLgU1la0.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-03-21",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 31201805,
+    "totalShows": 5707,
+    "totalDays": 34,
+    "openingDay": {
+     "day": 1,
+     "gross": 722176,
+     "date": "2025-02-21"
+    },
+    "peakDay": {
+     "day": 9,
+     "gross": 2698435,
+     "date": "2025-03-01"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-02-21"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 658,
+    "title": "Dragon",
+    "img": "https://image.tmdb.org/t/p/original/sKO0EFi0aSdKZXZxqjTunLlNdjU.jpg",
+    "released": "2025-02-21",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32080876",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "157 min",
+    "genre": "Romance, Comedy, Drama",
+    "plot": "Raghavan transforms from a school topper into a “bad boy” to score girls in college, but ends up a heartbroken dropout. He then cons his way into a successful finance career, but the lies keep building and maintaining the facade proves tricky.",
+    "released": "2025-02-21",
+    "director": "Ashwath Marimuthu",
+    "directorSlug": "ashwath-marimuthu",
+    "actors": [
+     "Pradeep Ranganathan",
+     "Anupama Parameswaran",
+     "Kayadu Lohar",
+     "Mysskin",
+     "Gautham Vasudev Menon",
+     "K. S. Ravikumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.8",
+      "votes": 19443,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.4",
+      "votes": 52,
+      "updatedAt": "2026-09-24T19:10:18.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Pradeep Ranganathan",
+     "character": "D. Raghavan (Dragon)",
+     "slug": "pradeep-ranganathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yfATc50b77UwlNxz9OrokPYnwRj.jpg"
+    },
+    {
+     "name": "Anupama Parameswaran",
+     "character": "Keerthi",
+     "slug": "anupama-parameswaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iA8NAbwIKTbA8fKTNtXsAiBcC4W.jpg"
+    },
+    {
+     "name": "Kayadu Lohar",
+     "character": "Pallavi Parasuram",
+     "slug": "kayadu-lohar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pHaMPnrfnWvTPZA4IOmZk8BHY0U.jpg"
+    },
+    {
+     "name": "Mysskin",
+     "character": "Mayilvahanan",
+     "slug": "mysskin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2g65eG5FBh9oOMAhxpfk5T6um6A.jpg"
+    },
+    {
+     "name": "Gautham Vasudev Menon",
+     "character": "Vale Kumar",
+     "slug": "gautham-vasudev-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+     "name": "K. S. Ravikumar",
+     "character": "Parasuram",
+     "slug": "k-s-ravikumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8dUdM3sFvL4aXnDtLJJCkDMNEbo.jpg"
+    },
+    {
+     "name": "George Mariyan",
+     "character": "Dhanapal",
+     "slug": "george-mariyan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/izpHGWpHeMeOV7mXlhF19Hu7IER.jpg"
+    },
+    {
+     "name": "Indumathi Manigandan",
+     "character": "Chithra Dhanapal",
+     "slug": "indumathi-manigandan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8ThE7KSZtzzPbdtg42tn0UBoA5V.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ashwath Marimuthu",
+       "slug": "ashwath-marimuthu"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Pradeep Ranganathan",
+       "slug": "pradeep-ranganathan"
+      },
+      {
+       "name": "Ashwath Marimuthu",
+       "slug": "ashwath-marimuthu"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Leon James",
+       "slug": "leon-james"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Niketh Bommi",
+       "slug": "niketh-bommi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Pradeep E. Ragav",
+       "slug": "pradeep-e-ragav"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kalpathi S Aghoram",
+       "slug": "kalpathi-s-aghoram"
+      },
+      {
+       "name": "Kalpathi S Ganesh",
+       "slug": "kalpathi-s-ganesh"
+      },
+      {
+       "name": "Kalpathi S Suresh",
+       "slug": "kalpathi-s-suresh"
+      },
+      {
+       "name": "Archana Kalpathi",
+       "slug": "archana-kalpathi"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "AGS Entertainment",
+     "slug": "ags-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/u2MPw19ZZ4mIzacy6SXOLgU1la0.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-03-21",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-02-21",
+     "gross": 10198258,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1019,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-28",
+     "gross": 11741346,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2234,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-03-07",
+     "gross": 5852526,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1635,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-03-14",
+     "gross": 2732076,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 648,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-03-21",
+     "gross": 677599,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 171,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 31201805,
+    "totalShows": 5707,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 10198258
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 11741346
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-02-21"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 658,
+    "title": "Dragon",
+    "img": "https://image.tmdb.org/t/p/original/sKO0EFi0aSdKZXZxqjTunLlNdjU.jpg",
+    "released": "2025-02-21",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32080876",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "157 min",
+    "genre": "Romance, Comedy, Drama",
+    "plot": "Raghavan transforms from a school topper into a “bad boy” to score girls in college, but ends up a heartbroken dropout. He then cons his way into a successful finance career, but the lies keep building and maintaining the facade proves tricky.",
+    "released": "2025-02-21",
+    "director": "Ashwath Marimuthu",
+    "directorSlug": "ashwath-marimuthu",
+    "actors": [
+     "Pradeep Ranganathan",
+     "Anupama Parameswaran",
+     "Kayadu Lohar",
+     "Mysskin",
+     "Gautham Vasudev Menon",
+     "K. S. Ravikumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.8",
+      "votes": 19443,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.4",
+      "votes": 52,
+      "updatedAt": "2026-09-24T19:10:18.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Pradeep Ranganathan",
+     "character": "D. Raghavan (Dragon)",
+     "slug": "pradeep-ranganathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yfATc50b77UwlNxz9OrokPYnwRj.jpg"
+    },
+    {
+     "name": "Anupama Parameswaran",
+     "character": "Keerthi",
+     "slug": "anupama-parameswaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iA8NAbwIKTbA8fKTNtXsAiBcC4W.jpg"
+    },
+    {
+     "name": "Kayadu Lohar",
+     "character": "Pallavi Parasuram",
+     "slug": "kayadu-lohar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pHaMPnrfnWvTPZA4IOmZk8BHY0U.jpg"
+    },
+    {
+     "name": "Mysskin",
+     "character": "Mayilvahanan",
+     "slug": "mysskin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2g65eG5FBh9oOMAhxpfk5T6um6A.jpg"
+    },
+    {
+     "name": "Gautham Vasudev Menon",
+     "character": "Vale Kumar",
+     "slug": "gautham-vasudev-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+     "name": "K. S. Ravikumar",
+     "character": "Parasuram",
+     "slug": "k-s-ravikumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8dUdM3sFvL4aXnDtLJJCkDMNEbo.jpg"
+    },
+    {
+     "name": "George Mariyan",
+     "character": "Dhanapal",
+     "slug": "george-mariyan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/izpHGWpHeMeOV7mXlhF19Hu7IER.jpg"
+    },
+    {
+     "name": "Indumathi Manigandan",
+     "character": "Chithra Dhanapal",
+     "slug": "indumathi-manigandan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8ThE7KSZtzzPbdtg42tn0UBoA5V.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ashwath Marimuthu",
+       "slug": "ashwath-marimuthu"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Pradeep Ranganathan",
+       "slug": "pradeep-ranganathan"
+      },
+      {
+       "name": "Ashwath Marimuthu",
+       "slug": "ashwath-marimuthu"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Leon James",
+       "slug": "leon-james"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Niketh Bommi",
+       "slug": "niketh-bommi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Pradeep E. Ragav",
+       "slug": "pradeep-e-ragav"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kalpathi S Aghoram",
+       "slug": "kalpathi-s-aghoram"
+      },
+      {
+       "name": "Kalpathi S Ganesh",
+       "slug": "kalpathi-s-ganesh"
+      },
+      {
+       "name": "Kalpathi S Suresh",
+       "slug": "kalpathi-s-suresh"
+      },
+      {
+       "name": "Archana Kalpathi",
+       "slug": "archana-kalpathi"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "AGS Entertainment",
+     "slug": "ags-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/u2MPw19ZZ4mIzacy6SXOLgU1la0.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-03-21",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 31201805,
+    "totalShows": 5707,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 10198133,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 10198133,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-02-21"
+   }
+  }
+ }
+}

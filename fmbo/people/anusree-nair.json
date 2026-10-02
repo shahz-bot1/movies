@@ -1,0 +1,48 @@
+{
+ "slug": "anusree-nair",
+ "name": "Anusree Nair",
+ "source_url": "https://fridaymatinee.in/people/anusree-nair",
+ "captured_at": "2026-10-01T20:48:45.981903+00:00",
+ "person": {
+  "name": "Anusree Nair",
+  "photo": "https://image.tmdb.org/t/p/w185/gI1mBmAa3IPVqn1CSej0IEiPIws.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 46,
+   "movie_slug": "prathi-poovankozhi",
+   "title": "Prathi Poovankozhi",
+   "year": 2019,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 406,
+   "movie_slug": "voice-of-sathyanathan",
+   "title": "Voice Of Sathyanathan",
+   "year": 2023,
+   "kerala_gross": "₹10.1 Cr"
+  },
+  {
+   "movie_id": 522,
+   "movie_slug": "thalavan",
+   "title": "Thalavan",
+   "year": 2024,
+   "kerala_gross": "₹11.1 Cr"
+  },
+  {
+   "movie_id": 573,
+   "movie_slug": "kadha-innuvare",
+   "title": "Kadha Innuvare",
+   "year": 2024,
+   "kerala_gross": "₹96.7L"
+  }
+ ]
+}

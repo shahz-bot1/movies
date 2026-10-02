@@ -1,0 +1,41 @@
+{
+ "slug": "emma-tillinger-koskoff",
+ "name": "Emma Tillinger Koskoff",
+ "source_url": "https://fridaymatinee.in/people/emma-tillinger-koskoff",
+ "captured_at": "2026-10-01T22:13:51.236321+00:00",
+ "person": {
+  "name": "Emma Tillinger Koskoff",
+  "photo": "https://image.tmdb.org/t/p/w185/bsKUYo9DyNYj4xB10182k7CZOQD.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 15,
+   "movie_slug": "joker",
+   "title": "Joker",
+   "year": 2019,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 564,
+   "movie_slug": "joker-folie-a-deux",
+   "title": "Joker: Folie A Deux",
+   "year": 2024,
+   "kerala_gross": "₹59.0L"
+  },
+  {
+   "movie_id": 631,
+   "movie_slug": "the-bride",
+   "title": "The Bride",
+   "year": 2026,
+   "kerala_gross": "₹7.9L"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "mark-hamill",
+ "name": "Mark Hamill",
+ "source_url": "https://fridaymatinee.in/people/mark-hamill",
+ "captured_at": "2026-10-02T00:24:02.207570+00:00",
+ "person": {
+  "name": "Mark Hamill",
+  "photo": "https://image.tmdb.org/t/p/w185/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 317,
+   "movie_slug": "the-wild-robot",
+   "title": "The Wild Robot",
+   "year": 2024,
+   "kerala_gross": "₹44.0L"
+  },
+  {
+   "movie_id": 819,
+   "movie_slug": "the-long-walk",
+   "title": "The Long Walk",
+   "year": 2025,
+   "kerala_gross": "₹95K"
+  },
+  {
+   "movie_id": 973,
+   "movie_slug": "the-spongebob-movie-search-for-squarepants",
+   "title": "The Spongebob Movie Search For Squarepants",
+   "year": 2026,
+   "kerala_gross": "₹2.5L"
+  }
+ ]
+}

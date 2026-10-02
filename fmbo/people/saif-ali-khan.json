@@ -1,0 +1,48 @@
+{
+ "slug": "saif-ali-khan",
+ "name": "Saif Ali Khan",
+ "source_url": "https://fridaymatinee.in/people/saif-ali-khan",
+ "captured_at": "2026-10-02T09:59:07.515319+00:00",
+ "person": {
+  "name": "Saif Ali Khan",
+  "photo": "https://image.tmdb.org/t/p/w185/kzOy1DoCeLoKJ07nbYnQDObU3yY.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 216,
+   "movie_slug": "vikram-vedha",
+   "title": "Vikram Vedha",
+   "year": 2022,
+   "kerala_gross": "₹25.8L"
+  },
+  {
+   "movie_id": 386,
+   "movie_slug": "adipurush",
+   "title": "Adipurush",
+   "year": 2023,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 574,
+   "movie_slug": "devara-part-1",
+   "title": "Devara - Part 1",
+   "year": 2024,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 1278,
+   "movie_slug": "haiwaan",
+   "title": "Haiwaan",
+   "year": 2026,
+   "kerala_gross": "₹4.2L"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "bala",
+ "name": "Bala",
+ "source_url": "https://fridaymatinee.in/people/bala",
+ "captured_at": "2026-10-01T21:08:48.234735+00:00",
+ "person": {
+  "name": "Bala",
+  "photo": "https://image.tmdb.org/t/p/w185/l76ZJjEaTOix5twXeYy5k2xY9e7.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 45,
+   "movie_slug": "thambi",
+   "title": "Thambi",
+   "year": 2019,
+   "kerala_gross": "₹16.3L"
+  },
+  {
+   "movie_id": 86,
+   "movie_slug": "annaatthe",
+   "title": "Annaatthe",
+   "year": 2021,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 244,
+   "movie_slug": "shefeekkinte-santhosham",
+   "title": "Shefeekkinte Santhosham",
+   "year": 2022,
+   "kerala_gross": "₹50.1L"
+  },
+  {
+   "movie_id": 802,
+   "movie_slug": "the-case-diary",
+   "title": "The Case Diary",
+   "year": 2025,
+   "kerala_gross": "₹21.5L"
+  },
+  {
+   "movie_id": 591,
+   "movie_slug": "bilal",
+   "title": "Bilal",
+   "year": 2099,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

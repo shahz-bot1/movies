@@ -1,0 +1,46 @@
+{
+ "slug": "gerard-butler",
+ "name": "Gerard Butler",
+ "source_url": "https://fridaymatinee.in/people/gerard-butler",
+ "captured_at": "2026-10-01T22:30:36.330743+00:00",
+ "person": {
+  "name": "Gerard Butler",
+  "photo": "https://image.tmdb.org/t/p/w185/i54XoxYieuff2w6MwyfwVUBvmR0.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 472,
+   "movie_slug": "den-of-thieves-2-pantera",
+   "title": "Den of Thieves 2: Pantera",
+   "year": 2025,
+   "kerala_gross": "₹60K"
+  },
+  {
+   "movie_id": 725,
+   "movie_slug": "how-to-train-your-dragon",
+   "title": "How to Train Your Dragon",
+   "year": 2025,
+   "kerala_gross": "₹87.2L"
+  },
+  {
+   "movie_id": 975,
+   "movie_slug": "greenland-2-migration",
+   "title": "Greenland 2 Migration",
+   "year": 2026,
+   "kerala_gross": "₹1.4L"
+  }
+ ]
+}

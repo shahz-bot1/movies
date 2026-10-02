@@ -1,0 +1,41 @@
+{
+ "slug": "dravid-selvam",
+ "name": "Dravid Selvam",
+ "source_url": "https://fridaymatinee.in/people/dravid-selvam",
+ "captured_at": "2026-10-01T22:06:42.948103+00:00",
+ "person": {
+  "name": "Dravid Selvam",
+  "photo": "https://image.tmdb.org/t/p/w185/aQdJr95KI1EWjum65eRF3NbHZIL.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 869,
+   "movie_slug": "dude",
+   "title": "Dude",
+   "year": 2025,
+   "kerala_gross": "₹3.4 Cr"
+  },
+  {
+   "movie_id": 1191,
+   "movie_slug": "idhayam-murali",
+   "title": "Idhayam Murali",
+   "year": 2026,
+   "kerala_gross": "₹25.9L"
+  },
+  {
+   "movie_id": 1255,
+   "movie_slug": "once-more",
+   "title": "Once More",
+   "year": 2026,
+   "kerala_gross": "₹2.8L"
+  }
+ ]
+}

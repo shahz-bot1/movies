@@ -1,0 +1,822 @@
+{
+ "id": 871,
+ "slug": "a-nice-indian-boy",
+ "source_url": "https://fridaymatinee.in/boxoffice/a-nice-indian-boy-871",
+ "captured_at": "2026-10-01T18:24:46.878056+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 871,
+    "title": "A Nice Indian Boy",
+    "img": "https://image.tmdb.org/t/p/original/xfY2FZlnm5uaQbaWR9IYW41J1xG.jpg",
+    "released": "2025-10-17",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt16431330",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "96 min",
+    "genre": "Romance, Comedy",
+    "plot": "When Naveen brings his fiancé Jay home to meet his traditional Indian family, they must contend with accepting his white-orphan-artist boyfriend and helping them plan the Indian wedding of their dreams.",
+    "released": "2025-04-04",
+    "director": "Roshan Sethi",
+    "directorSlug": "roshan-sethi",
+    "actors": [
+     "Karan Soni",
+     "Jonathan Groff",
+     "Sunita Mani",
+     "Zarna Garg",
+     "Harish Patel",
+     "Peter S. Kim"
+    ],
+    "awards": "4 wins u0026 6 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 8810,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 86,
+      "updatedAt": "2026-09-24T16:10:09.000Z"
+     },
+     "rt": "95%",
+     "metascore": 85,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Karan Soni",
+     "character": "Naveen Gavaskar",
+     "slug": "karan-soni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/t3eNrzRKy3wTVCUiEp002UXbjxX.jpg"
+    },
+    {
+     "name": "Jonathan Groff",
+     "character": "Jay Kurundkar",
+     "slug": "jonathan-groff",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
+    },
+    {
+     "name": "Sunita Mani",
+     "character": "Arundhathi Gavaskar",
+     "slug": "sunita-mani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xQo4rkMEphSAt8F9D1OyWv0GBLx.jpg"
+    },
+    {
+     "name": "Zarna Garg",
+     "character": "Megha Gavaskar",
+     "slug": "zarna-garg",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6iNlWvcQ6Pn9RLBvm2Hc6pL3juU.jpg"
+    },
+    {
+     "name": "Harish Patel",
+     "character": "Archit Gavaskar",
+     "slug": "harish-patel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/g2aHA5J5ODMcBgIwCa72ykcmN85.jpg"
+    },
+    {
+     "name": "Peter S. Kim",
+     "character": "Paul",
+     "slug": "peter-s-kim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4wnFQ5HharyJjanbpjmQqfqWB1k.jpg"
+    },
+    {
+     "name": "Sean Amsing",
+     "character": "Neel",
+     "slug": "sean-amsing",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iFeuwiZFd4o6Ps47Kxmc99rd28Y.jpg"
+    },
+    {
+     "name": "Sas Goldberg",
+     "character": "Billie",
+     "slug": "sas-goldberg",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vittrEB80rZjQNDYMQzdt1cVLux.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Roshan Sethi",
+       "slug": "roshan-sethi"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Eric Randall",
+       "slug": "eric-randall"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Raashi Kulkarni",
+       "slug": "raashi-kulkarni"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Amy Vincent",
+       "slug": "amy-vincent"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Stephanie Kaznocha",
+       "slug": "stephanie-kaznocha"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Andrew Calof",
+       "slug": "andrew-calof"
+      },
+      {
+       "name": "Justin Baldoni",
+       "slug": "justin-baldoni"
+      },
+      {
+       "name": "Renee Witt",
+       "slug": "renee-witt"
+      },
+      {
+       "name": "Charlie McSpadden",
+       "slug": "charlie-mcspadden"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Levantine Films",
+     "slug": "levantine-films",
+     "logo": "https://image.tmdb.org/t/p/w185/rW2LeKnt5DzczmZfq1MAmIDuaSa.png"
+    },
+    {
+     "name": "Wayfarer Studios",
+     "slug": "wayfarer-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/879WnwsOH1oP6NlLY7ChD6vL6lh.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-05-06",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-10-21": [
+     {
+      "id": 872,
+      "title": "Thamma",
+      "img": "https://image.tmdb.org/t/p/original/udkbDwBbysCGEydt0FHnl9dVO2k.jpg"
+     },
+     {
+      "id": 875,
+      "title": "Ek Deewane Ki Deewaniyat",
+      "img": "https://image.tmdb.org/t/p/original/1AfKrRPRPT0TtCTiK9uyBCgFjZS.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-10-18",
+     "gross": 2160,
+     "sold": 10,
+     "unsold": 295,
+     "shows": 2,
+     "occ": 3.28,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2160,
+     "lastUpdatedAt": "2025-10-18 20:38:00"
+    },
+    {
+     "label": "2025-10-19",
+     "gross": 2610,
+     "sold": 11,
+     "unsold": 292,
+     "shows": 2,
+     "occ": 3.63,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4770,
+     "lastUpdatedAt": "2025-10-19 20:38:00"
+    },
+    {
+     "label": "2025-10-20",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 204,
+     "shows": 1,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4770,
+     "lastUpdatedAt": "2025-10-20 18:08:00"
+    },
+    {
+     "label": "2025-10-21",
+     "gross": 380,
+     "sold": 2,
+     "unsold": 97,
+     "shows": 1,
+     "occ": 2.02,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5150,
+     "lastUpdatedAt": "2025-10-21 20:38:00"
+    },
+    {
+     "label": "2025-10-22",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 99,
+     "shows": 1,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5150,
+     "lastUpdatedAt": "2025-10-22 19:53:00"
+    },
+    {
+     "label": "2025-10-23",
+     "gross": 1050,
+     "sold": 3,
+     "unsold": 96,
+     "shows": 1,
+     "occ": 3.03,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 6200,
+     "lastUpdatedAt": "2025-10-23 20:38:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 6200,
+    "totalShows": 8,
+    "totalSeats": 1109,
+    "totalSold": 26,
+    "avgOcc": "2.3",
+    "totalDays": 6,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 2,
+     "gross": 2610,
+     "date": "2025-10-19"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 2160,
+     "date": "2025-10-18"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "6:1050:6200"
+  },
+  "week": {
+   "movie": {
+    "id": 871,
+    "title": "A Nice Indian Boy",
+    "img": "https://image.tmdb.org/t/p/original/xfY2FZlnm5uaQbaWR9IYW41J1xG.jpg",
+    "released": "2025-10-17",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt16431330",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "96 min",
+    "genre": "Romance, Comedy",
+    "plot": "When Naveen brings his fiancé Jay home to meet his traditional Indian family, they must contend with accepting his white-orphan-artist boyfriend and helping them plan the Indian wedding of their dreams.",
+    "released": "2025-04-04",
+    "director": "Roshan Sethi",
+    "directorSlug": "roshan-sethi",
+    "actors": [
+     "Karan Soni",
+     "Jonathan Groff",
+     "Sunita Mani",
+     "Zarna Garg",
+     "Harish Patel",
+     "Peter S. Kim"
+    ],
+    "awards": "4 wins u0026 6 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 8810,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 86,
+      "updatedAt": "2026-09-24T16:10:09.000Z"
+     },
+     "rt": "95%",
+     "metascore": 85,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Karan Soni",
+     "character": "Naveen Gavaskar",
+     "slug": "karan-soni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/t3eNrzRKy3wTVCUiEp002UXbjxX.jpg"
+    },
+    {
+     "name": "Jonathan Groff",
+     "character": "Jay Kurundkar",
+     "slug": "jonathan-groff",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
+    },
+    {
+     "name": "Sunita Mani",
+     "character": "Arundhathi Gavaskar",
+     "slug": "sunita-mani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xQo4rkMEphSAt8F9D1OyWv0GBLx.jpg"
+    },
+    {
+     "name": "Zarna Garg",
+     "character": "Megha Gavaskar",
+     "slug": "zarna-garg",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6iNlWvcQ6Pn9RLBvm2Hc6pL3juU.jpg"
+    },
+    {
+     "name": "Harish Patel",
+     "character": "Archit Gavaskar",
+     "slug": "harish-patel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/g2aHA5J5ODMcBgIwCa72ykcmN85.jpg"
+    },
+    {
+     "name": "Peter S. Kim",
+     "character": "Paul",
+     "slug": "peter-s-kim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4wnFQ5HharyJjanbpjmQqfqWB1k.jpg"
+    },
+    {
+     "name": "Sean Amsing",
+     "character": "Neel",
+     "slug": "sean-amsing",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iFeuwiZFd4o6Ps47Kxmc99rd28Y.jpg"
+    },
+    {
+     "name": "Sas Goldberg",
+     "character": "Billie",
+     "slug": "sas-goldberg",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vittrEB80rZjQNDYMQzdt1cVLux.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Roshan Sethi",
+       "slug": "roshan-sethi"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Eric Randall",
+       "slug": "eric-randall"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Raashi Kulkarni",
+       "slug": "raashi-kulkarni"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Amy Vincent",
+       "slug": "amy-vincent"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Stephanie Kaznocha",
+       "slug": "stephanie-kaznocha"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Andrew Calof",
+       "slug": "andrew-calof"
+      },
+      {
+       "name": "Justin Baldoni",
+       "slug": "justin-baldoni"
+      },
+      {
+       "name": "Renee Witt",
+       "slug": "renee-witt"
+      },
+      {
+       "name": "Charlie McSpadden",
+       "slug": "charlie-mcspadden"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Levantine Films",
+     "slug": "levantine-films",
+     "logo": "https://image.tmdb.org/t/p/w185/rW2LeKnt5DzczmZfq1MAmIDuaSa.png"
+    },
+    {
+     "name": "Wayfarer Studios",
+     "slug": "wayfarer-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/879WnwsOH1oP6NlLY7ChD6vL6lh.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-05-06",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-10-21": [
+     {
+      "id": 872,
+      "title": "Thamma",
+      "img": "https://image.tmdb.org/t/p/original/udkbDwBbysCGEydt0FHnl9dVO2k.jpg"
+     },
+     {
+      "id": 875,
+      "title": "Ek Deewane Ki Deewaniyat",
+      "img": "https://image.tmdb.org/t/p/original/1AfKrRPRPT0TtCTiK9uyBCgFjZS.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-10-18",
+     "gross": 6200,
+     "sold": 26,
+     "unsold": 1083,
+     "shows": 8,
+     "occ": 2.34,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 6200,
+     "lastUpdatedAt": "2025-10-23 20:38:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 6200,
+    "totalShows": 8,
+    "totalSeats": 1109,
+    "totalSold": 26,
+    "avgOcc": "2.3",
+    "totalDays": 1,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 6200
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 6200
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:6200:6200"
+  },
+  "district": {
+   "movie": {
+    "id": 871,
+    "title": "A Nice Indian Boy",
+    "img": "https://image.tmdb.org/t/p/original/xfY2FZlnm5uaQbaWR9IYW41J1xG.jpg",
+    "released": "2025-10-17",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt16431330",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "96 min",
+    "genre": "Romance, Comedy",
+    "plot": "When Naveen brings his fiancé Jay home to meet his traditional Indian family, they must contend with accepting his white-orphan-artist boyfriend and helping them plan the Indian wedding of their dreams.",
+    "released": "2025-04-04",
+    "director": "Roshan Sethi",
+    "directorSlug": "roshan-sethi",
+    "actors": [
+     "Karan Soni",
+     "Jonathan Groff",
+     "Sunita Mani",
+     "Zarna Garg",
+     "Harish Patel",
+     "Peter S. Kim"
+    ],
+    "awards": "4 wins u0026 6 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 8810,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 86,
+      "updatedAt": "2026-09-24T16:10:09.000Z"
+     },
+     "rt": "95%",
+     "metascore": 85,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Karan Soni",
+     "character": "Naveen Gavaskar",
+     "slug": "karan-soni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/t3eNrzRKy3wTVCUiEp002UXbjxX.jpg"
+    },
+    {
+     "name": "Jonathan Groff",
+     "character": "Jay Kurundkar",
+     "slug": "jonathan-groff",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
+    },
+    {
+     "name": "Sunita Mani",
+     "character": "Arundhathi Gavaskar",
+     "slug": "sunita-mani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xQo4rkMEphSAt8F9D1OyWv0GBLx.jpg"
+    },
+    {
+     "name": "Zarna Garg",
+     "character": "Megha Gavaskar",
+     "slug": "zarna-garg",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6iNlWvcQ6Pn9RLBvm2Hc6pL3juU.jpg"
+    },
+    {
+     "name": "Harish Patel",
+     "character": "Archit Gavaskar",
+     "slug": "harish-patel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/g2aHA5J5ODMcBgIwCa72ykcmN85.jpg"
+    },
+    {
+     "name": "Peter S. Kim",
+     "character": "Paul",
+     "slug": "peter-s-kim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4wnFQ5HharyJjanbpjmQqfqWB1k.jpg"
+    },
+    {
+     "name": "Sean Amsing",
+     "character": "Neel",
+     "slug": "sean-amsing",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iFeuwiZFd4o6Ps47Kxmc99rd28Y.jpg"
+    },
+    {
+     "name": "Sas Goldberg",
+     "character": "Billie",
+     "slug": "sas-goldberg",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vittrEB80rZjQNDYMQzdt1cVLux.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Roshan Sethi",
+       "slug": "roshan-sethi"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Eric Randall",
+       "slug": "eric-randall"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Raashi Kulkarni",
+       "slug": "raashi-kulkarni"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Amy Vincent",
+       "slug": "amy-vincent"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Stephanie Kaznocha",
+       "slug": "stephanie-kaznocha"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Andrew Calof",
+       "slug": "andrew-calof"
+      },
+      {
+       "name": "Justin Baldoni",
+       "slug": "justin-baldoni"
+      },
+      {
+       "name": "Renee Witt",
+       "slug": "renee-witt"
+      },
+      {
+       "name": "Charlie McSpadden",
+       "slug": "charlie-mcspadden"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Levantine Films",
+     "slug": "levantine-films",
+     "logo": "https://image.tmdb.org/t/p/w185/rW2LeKnt5DzczmZfq1MAmIDuaSa.png"
+    },
+    {
+     "name": "Wayfarer Studios",
+     "slug": "wayfarer-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/879WnwsOH1oP6NlLY7ChD6vL6lh.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-05-06",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-10-21": [
+     {
+      "id": 872,
+      "title": "Thamma",
+      "img": "https://image.tmdb.org/t/p/original/udkbDwBbysCGEydt0FHnl9dVO2k.jpg"
+     },
+     {
+      "id": 875,
+      "title": "Ek Deewane Ki Deewaniyat",
+      "img": "https://image.tmdb.org/t/p/original/1AfKrRPRPT0TtCTiK9uyBCgFjZS.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 3220,
+     "sold": 14,
+     "unsold": 598,
+     "shows": 3,
+     "occ": 2.29,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3220,
+     "lastUpdatedAt": "2025-10-20 18:08:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 2980,
+     "sold": 12,
+     "unsold": 485,
+     "shows": 5,
+     "occ": 2.41,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 6200,
+     "lastUpdatedAt": "2025-10-23 20:38:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 6200,
+    "totalShows": 8,
+    "totalSeats": 1109,
+    "totalSold": 26,
+    "avgOcc": "2.3",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 3220,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 3220,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "2:2980:6200"
+  }
+ }
+}

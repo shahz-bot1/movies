@@ -1,0 +1,70 @@
+{
+ "slug": "ranjith",
+ "name": "Ranjith",
+ "source_url": "https://fridaymatinee.in/people/ranjith",
+ "captured_at": "2026-10-02T08:41:26.409364+00:00",
+ "person": {
+  "name": "Ranjith",
+  "photo": "https://image.tmdb.org/t/p/w185/4OeMr0KJySEiCTiOcJ5WtDdB6q1.jpg",
+  "role": "Actor, director, producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 2
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 60,
+   "movie_slug": "ayyappanum-koshiyum",
+   "title": "Ayyappanum Koshiyum",
+   "year": 2020,
+   "kerala_gross": "₹7.3 Cr"
+  },
+  {
+   "movie_id": 76,
+   "movie_slug": "one",
+   "title": "One",
+   "year": 2021,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 240,
+   "movie_slug": "mukundan-unni-associates",
+   "title": "Mukundan Unni Associates",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 522,
+   "movie_slug": "thalavan",
+   "title": "Thalavan",
+   "year": 2024,
+   "kerala_gross": "₹11.1 Cr"
+  },
+  {
+   "movie_id": 545,
+   "movie_slug": "secret",
+   "title": "Secret",
+   "year": 2024,
+   "kerala_gross": "₹15.6L"
+  }
+ ]
+}

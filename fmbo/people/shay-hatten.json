@@ -1,0 +1,41 @@
+{
+ "slug": "shay-hatten",
+ "name": "Shay Hatten",
+ "source_url": "https://fridaymatinee.in/people/shay-hatten",
+ "captured_at": "2026-10-02T10:29:49.504173+00:00",
+ "person": {
+  "name": "Shay Hatten",
+  "photo": "https://image.tmdb.org/t/p/w185/hu4OQVq5whk0C6v7B7KHCVUsmUG.jpg",
+  "role": "Writer"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 310,
+   "movie_slug": "john-wick-chapter-4",
+   "title": "John Wick Chapter 4",
+   "year": 2023,
+   "kerala_gross": "₹3.7 Cr"
+  },
+  {
+   "movie_id": 727,
+   "movie_slug": "from-the-world-of-john-wick-ballerina",
+   "title": "From The World Of John Wick Ballerina",
+   "year": 2025,
+   "kerala_gross": "₹66.8L"
+  },
+  {
+   "movie_id": 1289,
+   "movie_slug": "resident-evil",
+   "title": "Resident Evil",
+   "year": 2026,
+   "kerala_gross": "₹87.8L"
+  }
+ ]
+}

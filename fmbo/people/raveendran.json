@@ -1,0 +1,41 @@
+{
+ "slug": "raveendran",
+ "name": "Raveendran",
+ "source_url": "https://fridaymatinee.in/people/raveendran",
+ "captured_at": "2026-10-02T08:43:41.377433+00:00",
+ "person": {
+  "name": "Raveendran",
+  "photo": "https://image.tmdb.org/t/p/w185/oZk3lsCuprV73v3Vy6y37Mgc6iZ.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 38,
+   "movie_slug": "kettiyolaanu-ente-malakha",
+   "title": "Kettiyolaanu Ente Malakha",
+   "year": 2019,
+   "kerala_gross": "₹4.8 Cr"
+  },
+  {
+   "movie_id": 947,
+   "movie_slug": "haal",
+   "title": "Haal",
+   "year": 2025,
+   "kerala_gross": "₹1.3 Cr"
+  },
+  {
+   "movie_id": 1048,
+   "movie_slug": "vaazha-ii",
+   "title": "Vaazha II",
+   "year": 2026,
+   "kerala_gross": "₹119.7 Cr"
+  }
+ ]
+}

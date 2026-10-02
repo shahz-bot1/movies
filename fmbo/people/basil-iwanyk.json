@@ -1,0 +1,48 @@
+{
+ "slug": "basil-iwanyk",
+ "name": "Basil Iwanyk",
+ "source_url": "https://fridaymatinee.in/people/basil-iwanyk",
+ "captured_at": "2026-10-01T21:11:37.898333+00:00",
+ "person": {
+  "name": "Basil Iwanyk",
+  "photo": "https://image.tmdb.org/t/p/w185/pvHAcYM1UC30XMqOSOF7Gc2nmBh.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 310,
+   "movie_slug": "john-wick-chapter-4",
+   "title": "John Wick Chapter 4",
+   "year": 2023,
+   "kerala_gross": "₹3.7 Cr"
+  },
+  {
+   "movie_id": 727,
+   "movie_slug": "from-the-world-of-john-wick-ballerina",
+   "title": "From The World Of John Wick Ballerina",
+   "year": 2025,
+   "kerala_gross": "₹66.8L"
+  },
+  {
+   "movie_id": 801,
+   "movie_slug": "relay",
+   "title": "Relay",
+   "year": 2025,
+   "kerala_gross": "₹52K"
+  },
+  {
+   "movie_id": 975,
+   "movie_slug": "greenland-2-migration",
+   "title": "Greenland 2 Migration",
+   "year": 2026,
+   "kerala_gross": "₹1.4L"
+  }
+ ]
+}

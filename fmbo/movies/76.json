@@ -1,0 +1,656 @@
+{
+ "id": 76,
+ "slug": "one",
+ "source_url": "https://fridaymatinee.in/boxoffice/one-76",
+ "captured_at": "2026-10-01T18:00:12.735302+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 76,
+    "title": "One",
+    "img": "https://image.tmdb.org/t/p/original/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+    "released": "2021-03-26",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11250720",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "151 min",
+    "genre": "Drama, Thriller",
+    "plot": "Story of Kadakkal Chandran, the Chief Minister of Kerala whose uncompromising attitude towards corruption and his dictatorial actions has gained him a lot of enemies. The events gets more intense when he faces an allegation.",
+    "released": "2021-03-26",
+    "director": "Santhosh Viswanath",
+    "directorSlug": "santhosh-viswanath",
+    "actors": [
+     "Mammootty",
+     "Murali Gopy",
+     "Mathew Thomas",
+     "Siddique",
+     "Joju George",
+     "Ishaani Krishna"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 3271,
+      "updatedAt": "2026-09-25T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mammootty",
+     "character": "Kadakkal Chandran",
+     "slug": "mammootty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
+    },
+    {
+     "name": "Murali Gopy",
+     "character": "Marampally Jayanandan",
+     "slug": "murali-gopy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oNEKhIL7PmE6yXzOcaVNGqPMnmw.jpg"
+    },
+    {
+     "name": "Mathew Thomas",
+     "character": "Sanal",
+     "slug": "mathew-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tynqqZ6LXz6TCDUWMG0xR4pNDkw.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Speaker K C Jayakumar",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Joju George",
+     "character": "Baby",
+     "slug": "joju-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jCObRH5idadzrTvyC9XnlnR8rXH.jpg"
+    },
+    {
+     "name": "Ishaani Krishna",
+     "character": "Remya",
+     "slug": "ishaani-krishna",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Gayatri Arun",
+     "character": "Seena",
+     "slug": "gayatri-arun",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xH4s5hUOiFY24BHHMCBl4Z4jcVl.jpg"
+    },
+    {
+     "name": "Nimisha Sajayan",
+     "character": "Lathika Satheesh",
+     "slug": "nimisha-sajayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/r1tiqFWXlWDFlZx966yOeBYs2qY.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Santhosh Viswanath",
+       "slug": "santhosh-viswanath"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Bobby",
+       "slug": "bobby"
+      },
+      {
+       "name": "Sanjay",
+       "slug": "sanjay"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vaidy S.",
+       "slug": "vaidy-s"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nishadh Yusuf",
+       "slug": "nishadh-yusuf"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "R. Sreelakshmi",
+       "slug": "r-sreelakshmi"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ichais Productions",
+     "slug": "ichais-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 27050995,
+    "totalShows": 3748,
+    "totalDays": 25,
+    "openingDay": {
+     "day": 1,
+     "gross": 5791245,
+     "date": "2021-03-26"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5791245,
+     "date": "2021-03-26"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 16,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-03-26"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 76,
+    "title": "One",
+    "img": "https://image.tmdb.org/t/p/original/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+    "released": "2021-03-26",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11250720",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "151 min",
+    "genre": "Drama, Thriller",
+    "plot": "Story of Kadakkal Chandran, the Chief Minister of Kerala whose uncompromising attitude towards corruption and his dictatorial actions has gained him a lot of enemies. The events gets more intense when he faces an allegation.",
+    "released": "2021-03-26",
+    "director": "Santhosh Viswanath",
+    "directorSlug": "santhosh-viswanath",
+    "actors": [
+     "Mammootty",
+     "Murali Gopy",
+     "Mathew Thomas",
+     "Siddique",
+     "Joju George",
+     "Ishaani Krishna"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 3271,
+      "updatedAt": "2026-09-25T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mammootty",
+     "character": "Kadakkal Chandran",
+     "slug": "mammootty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
+    },
+    {
+     "name": "Murali Gopy",
+     "character": "Marampally Jayanandan",
+     "slug": "murali-gopy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oNEKhIL7PmE6yXzOcaVNGqPMnmw.jpg"
+    },
+    {
+     "name": "Mathew Thomas",
+     "character": "Sanal",
+     "slug": "mathew-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tynqqZ6LXz6TCDUWMG0xR4pNDkw.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Speaker K C Jayakumar",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Joju George",
+     "character": "Baby",
+     "slug": "joju-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jCObRH5idadzrTvyC9XnlnR8rXH.jpg"
+    },
+    {
+     "name": "Ishaani Krishna",
+     "character": "Remya",
+     "slug": "ishaani-krishna",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Gayatri Arun",
+     "character": "Seena",
+     "slug": "gayatri-arun",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xH4s5hUOiFY24BHHMCBl4Z4jcVl.jpg"
+    },
+    {
+     "name": "Nimisha Sajayan",
+     "character": "Lathika Satheesh",
+     "slug": "nimisha-sajayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/r1tiqFWXlWDFlZx966yOeBYs2qY.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Santhosh Viswanath",
+       "slug": "santhosh-viswanath"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Bobby",
+       "slug": "bobby"
+      },
+      {
+       "name": "Sanjay",
+       "slug": "sanjay"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vaidy S.",
+       "slug": "vaidy-s"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nishadh Yusuf",
+       "slug": "nishadh-yusuf"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "R. Sreelakshmi",
+       "slug": "r-sreelakshmi"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ichais Productions",
+     "slug": "ichais-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2021-03-26",
+     "gross": 21385752,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2425,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-04-02",
+     "gross": 5239819,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1153,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-04-09",
+     "gross": 411924,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 157,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-04-16",
+     "gross": 13500,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 13,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 27050995,
+    "totalShows": 3748,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 21385752
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 21385752
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 16,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-03-26"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 76,
+    "title": "One",
+    "img": "https://image.tmdb.org/t/p/original/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg",
+    "released": "2021-03-26",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11250720",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "151 min",
+    "genre": "Drama, Thriller",
+    "plot": "Story of Kadakkal Chandran, the Chief Minister of Kerala whose uncompromising attitude towards corruption and his dictatorial actions has gained him a lot of enemies. The events gets more intense when he faces an allegation.",
+    "released": "2021-03-26",
+    "director": "Santhosh Viswanath",
+    "directorSlug": "santhosh-viswanath",
+    "actors": [
+     "Mammootty",
+     "Murali Gopy",
+     "Mathew Thomas",
+     "Siddique",
+     "Joju George",
+     "Ishaani Krishna"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 3271,
+      "updatedAt": "2026-09-25T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mammootty",
+     "character": "Kadakkal Chandran",
+     "slug": "mammootty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
+    },
+    {
+     "name": "Murali Gopy",
+     "character": "Marampally Jayanandan",
+     "slug": "murali-gopy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oNEKhIL7PmE6yXzOcaVNGqPMnmw.jpg"
+    },
+    {
+     "name": "Mathew Thomas",
+     "character": "Sanal",
+     "slug": "mathew-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tynqqZ6LXz6TCDUWMG0xR4pNDkw.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Speaker K C Jayakumar",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Joju George",
+     "character": "Baby",
+     "slug": "joju-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jCObRH5idadzrTvyC9XnlnR8rXH.jpg"
+    },
+    {
+     "name": "Ishaani Krishna",
+     "character": "Remya",
+     "slug": "ishaani-krishna",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Gayatri Arun",
+     "character": "Seena",
+     "slug": "gayatri-arun",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xH4s5hUOiFY24BHHMCBl4Z4jcVl.jpg"
+    },
+    {
+     "name": "Nimisha Sajayan",
+     "character": "Lathika Satheesh",
+     "slug": "nimisha-sajayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/r1tiqFWXlWDFlZx966yOeBYs2qY.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Santhosh Viswanath",
+       "slug": "santhosh-viswanath"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Bobby",
+       "slug": "bobby"
+      },
+      {
+       "name": "Sanjay",
+       "slug": "sanjay"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vaidy S.",
+       "slug": "vaidy-s"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nishadh Yusuf",
+       "slug": "nishadh-yusuf"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "R. Sreelakshmi",
+       "slug": "r-sreelakshmi"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ichais Productions",
+     "slug": "ichais-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 27050995,
+    "totalShows": 3748,
+    "totalDays": 13,
+    "openingDay": {
+     "day": 1,
+     "gross": 6402799,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 6402799,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 16,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-03-26"
+   }
+  }
+ }
+}

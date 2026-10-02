@@ -1,0 +1,48 @@
+{
+ "slug": "anu-sithara",
+ "name": "Anu Sithara",
+ "source_url": "https://fridaymatinee.in/people/anu-sithara",
+ "captured_at": "2026-10-01T20:46:17.929596+00:00",
+ "person": {
+  "name": "Anu Sithara",
+  "photo": "https://image.tmdb.org/t/p/w185/lVeYbJDBc1BYsanTEG7Wwwdc5Zw.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 16,
+   "movie_slug": "aadya-rathri",
+   "title": "Aadya Rathri",
+   "year": 2019,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 43,
+   "movie_slug": "mamangam",
+   "title": "Mamangam",
+   "year": 2019,
+   "kerala_gross": "₹5.7 Cr"
+  },
+  {
+   "movie_id": 292,
+   "movie_slug": "momo-in-dubai",
+   "title": "Momo in Dubai",
+   "year": 2023,
+   "kerala_gross": "₹10.1L"
+  },
+  {
+   "movie_id": 313,
+   "movie_slug": "pathu-thala",
+   "title": "Pathu Thala",
+   "year": 2023,
+   "kerala_gross": "₹41.7L"
+  }
+ ]
+}

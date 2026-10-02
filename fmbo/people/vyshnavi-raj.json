@@ -1,0 +1,48 @@
+{
+ "slug": "vyshnavi-raj",
+ "name": "Vyshnavi Raj",
+ "source_url": "https://fridaymatinee.in/people/vyshnavi-raj",
+ "captured_at": "2026-10-02T11:55:38.480940+00:00",
+ "person": {
+  "name": "Vyshnavi Raj",
+  "photo": "https://image.tmdb.org/t/p/w185/bLPmTDTtvLdX2eCwc4G73CQBcvV.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 244,
+   "movie_slug": "shefeekkinte-santhosham",
+   "title": "Shefeekkinte Santhosham",
+   "year": 2022,
+   "kerala_gross": "₹50.1L"
+  },
+  {
+   "movie_id": 562,
+   "movie_slug": "kishkindha-kaandam",
+   "title": "Kishkindha Kaandam",
+   "year": 2024,
+   "kerala_gross": "₹34.1 Cr"
+  },
+  {
+   "movie_id": 724,
+   "movie_slug": "jsk-janaki-v-vs-state-of-kerala",
+   "title": "Jsk - Janaki V Vs State Of Kerala",
+   "year": 2025,
+   "kerala_gross": "₹4.6 Cr"
+  },
+  {
+   "movie_id": 886,
+   "movie_slug": "valathu-vashathe-kallan",
+   "title": "Valathu Vashathe Kallan",
+   "year": 2026,
+   "kerala_gross": "₹4.3 Cr"
+  }
+ ]
+}

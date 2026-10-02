@@ -1,0 +1,60 @@
+{
+ "slug": "aditya-chopra",
+ "name": "Aditya Chopra",
+ "source_url": "https://fridaymatinee.in/people/aditya-chopra",
+ "captured_at": "2026-10-01T20:12:16.841818+00:00",
+ "person": {
+  "name": "Aditya Chopra",
+  "photo": "https://image.tmdb.org/t/p/w185/eXYKfA6bg12pn9LPrWeRfxYQwcb.jpg",
+  "role": "Producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 5
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 278,
+   "movie_slug": "pathaan",
+   "title": "Pathaan",
+   "year": 2023,
+   "kerala_gross": "₹9.5 Cr"
+  },
+  {
+   "movie_id": 459,
+   "movie_slug": "tiger-3",
+   "title": "Tiger 3",
+   "year": 2023,
+   "kerala_gross": "₹1.9 Cr"
+  },
+  {
+   "movie_id": 732,
+   "movie_slug": "saiyaara",
+   "title": "Saiyaara",
+   "year": 2025,
+   "kerala_gross": "₹2.3 Cr"
+  },
+  {
+   "movie_id": 785,
+   "movie_slug": "war-2",
+   "title": "War 2",
+   "year": 2025,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 988,
+   "movie_slug": "mardaani-3",
+   "title": "Mardaani 3",
+   "year": 2026,
+   "kerala_gross": "₹7.8L"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "dvv-danayya",
+ "name": "DVV Danayya",
+ "source_url": "https://fridaymatinee.in/people/dvv-danayya",
+ "captured_at": "2026-10-01T22:07:40.053554+00:00",
+ "person": {
+  "name": "DVV Danayya",
+  "photo": "https://image.tmdb.org/t/p/w185/1M5FySUrRDmZTZgJNE7EcTK4sDQ.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 118,
+   "movie_slug": "rrr",
+   "title": "Rrr",
+   "year": 2022,
+   "kerala_gross": "₹17.1 Cr"
+  },
+  {
+   "movie_id": 338,
+   "movie_slug": "desamuduru",
+   "title": "Desamuduru",
+   "year": 2023,
+   "kerala_gross": "₹94K"
+  },
+  {
+   "movie_id": 827,
+   "movie_slug": "they-call-him-og",
+   "title": "They Call Him OG",
+   "year": 2025,
+   "kerala_gross": "₹36.6L"
+  }
+ ]
+}

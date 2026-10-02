@@ -1,0 +1,55 @@
+{
+ "slug": "sathyan-sooryan",
+ "name": "Sathyan Sooryan",
+ "source_url": "https://fridaymatinee.in/people/sathyan-sooryan",
+ "captured_at": "2026-10-02T10:16:27.300978+00:00",
+ "person": {
+  "name": "Sathyan Sooryan",
+  "photo": null,
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 21,
+   "movie_slug": "kaithi",
+   "title": "Kaithi",
+   "year": 2019,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 64,
+   "movie_slug": "master",
+   "title": "Master",
+   "year": 2021,
+   "kerala_gross": "₹4.1 Cr"
+  },
+  {
+   "movie_id": 314,
+   "movie_slug": "dasara",
+   "title": "Dasara",
+   "year": 2023,
+   "kerala_gross": "₹41.4L"
+  },
+  {
+   "movie_id": 454,
+   "movie_slug": "japan",
+   "title": "Japan",
+   "year": 2023,
+   "kerala_gross": "₹17.8L"
+  },
+  {
+   "movie_id": 956,
+   "movie_slug": "jana-nayagan",
+   "title": "Jana Nayagan",
+   "year": 2026,
+   "kerala_gross": "₹15.5 Cr"
+  }
+ ]
+}

@@ -1,0 +1,653 @@
+{
+ "id": 452,
+ "slug": "the-marvels",
+ "source_url": "https://fridaymatinee.in/boxoffice/the-marvels-452",
+ "captured_at": "2026-10-01T18:12:23.889526+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 452,
+    "title": "The Marvels",
+    "img": "https://image.tmdb.org/t/p/original/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg",
+    "released": "2023-11-10",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10676048",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "105 min",
+    "genre": "Science Fiction, Adventure, Action",
+    "plot": "When her duties send her to an anomalous wormhole linked to a Kree revolutionary, Carol's powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol's estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+    "released": "2023-11-08",
+    "director": "Nia DaCosta",
+    "directorSlug": "nia-dacosta",
+    "actors": [
+     "Brie Larson",
+     "Teyonah Parris",
+     "Iman Vellani",
+     "Samuel L. Jackson",
+     "Zawe Ashton",
+     "Gary Lewis"
+    ],
+    "awards": "5 wins u0026 13 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.4",
+      "votes": 171468,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.9",
+      "votes": 3652,
+      "updatedAt": "2026-09-24T22:10:07.000Z"
+     },
+     "rt": "63%",
+     "metascore": 50,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Brie Larson",
+     "character": "Carol Danvers / Captain Marvel",
+     "slug": "brie-larson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xSGvMwNNJcEQvVcjiIUTyxyMfkZ.jpg"
+    },
+    {
+     "name": "Teyonah Parris",
+     "character": "Monica Rambeau",
+     "slug": "teyonah-parris",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iGvBTOi0y2fbBVwgnBRXgY0IXDY.jpg"
+    },
+    {
+     "name": "Iman Vellani",
+     "character": "Kamala Khan / Ms. Marvel",
+     "slug": "iman-vellani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jD2TNIyJQmdqijGTzhvdiYabYix.jpg"
+    },
+    {
+     "name": "Samuel L. Jackson",
+     "character": "Nick Fury",
+     "slug": "samuel-l-jackson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+    },
+    {
+     "name": "Zawe Ashton",
+     "character": "Dar-Benn",
+     "slug": "zawe-ashton",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zbxVfvhPhCfgpgmWTdtHWurNqYu.jpg"
+    },
+    {
+     "name": "Gary Lewis",
+     "character": "Emperor Dro'ge",
+     "slug": "gary-lewis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cOaibfAluUeWPtcSOjedfGXn9ym.jpg"
+    },
+    {
+     "name": "Park Seo-jun",
+     "character": "Prince Yan",
+     "slug": "park-seo-jun",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k1ALgZkOApYt7PIUBkUitmknXQC.jpg"
+    },
+    {
+     "name": "Zenobia Shroff",
+     "character": "Muneeba Khan",
+     "slug": "zenobia-shroff",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fwU2vIUq9W9eXRKxx9r3papdOkS.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nia DaCosta",
+       "slug": "nia-dacosta"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Elissa Karasik",
+       "slug": "elissa-karasik"
+      },
+      {
+       "name": "Nia DaCosta",
+       "slug": "nia-dacosta"
+      },
+      {
+       "name": "Megan McDonnell",
+       "slug": "megan-mcdonnell"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Laura Karpman",
+       "slug": "laura-karpman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sean Bobbitt",
+       "slug": "sean-bobbitt"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Catrin Hedström",
+       "slug": "catrin-hedstrom"
+      },
+      {
+       "name": "Evan Schiff",
+       "slug": "evan-schiff"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Kevin Feige Productions",
+     "slug": "kevin-feige-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-01-16",
+    "platforms": [
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3562734,
+    "totalShows": 725,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 1251514.8,
+     "date": "2023-11-10"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1251514.8,
+     "date": "2023-11-10"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-11-10"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 452,
+    "title": "The Marvels",
+    "img": "https://image.tmdb.org/t/p/original/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg",
+    "released": "2023-11-10",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10676048",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "105 min",
+    "genre": "Science Fiction, Adventure, Action",
+    "plot": "When her duties send her to an anomalous wormhole linked to a Kree revolutionary, Carol's powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol's estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+    "released": "2023-11-08",
+    "director": "Nia DaCosta",
+    "directorSlug": "nia-dacosta",
+    "actors": [
+     "Brie Larson",
+     "Teyonah Parris",
+     "Iman Vellani",
+     "Samuel L. Jackson",
+     "Zawe Ashton",
+     "Gary Lewis"
+    ],
+    "awards": "5 wins u0026 13 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.4",
+      "votes": 171468,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.9",
+      "votes": 3652,
+      "updatedAt": "2026-09-24T22:10:07.000Z"
+     },
+     "rt": "63%",
+     "metascore": 50,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Brie Larson",
+     "character": "Carol Danvers / Captain Marvel",
+     "slug": "brie-larson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xSGvMwNNJcEQvVcjiIUTyxyMfkZ.jpg"
+    },
+    {
+     "name": "Teyonah Parris",
+     "character": "Monica Rambeau",
+     "slug": "teyonah-parris",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iGvBTOi0y2fbBVwgnBRXgY0IXDY.jpg"
+    },
+    {
+     "name": "Iman Vellani",
+     "character": "Kamala Khan / Ms. Marvel",
+     "slug": "iman-vellani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jD2TNIyJQmdqijGTzhvdiYabYix.jpg"
+    },
+    {
+     "name": "Samuel L. Jackson",
+     "character": "Nick Fury",
+     "slug": "samuel-l-jackson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+    },
+    {
+     "name": "Zawe Ashton",
+     "character": "Dar-Benn",
+     "slug": "zawe-ashton",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zbxVfvhPhCfgpgmWTdtHWurNqYu.jpg"
+    },
+    {
+     "name": "Gary Lewis",
+     "character": "Emperor Dro'ge",
+     "slug": "gary-lewis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cOaibfAluUeWPtcSOjedfGXn9ym.jpg"
+    },
+    {
+     "name": "Park Seo-jun",
+     "character": "Prince Yan",
+     "slug": "park-seo-jun",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k1ALgZkOApYt7PIUBkUitmknXQC.jpg"
+    },
+    {
+     "name": "Zenobia Shroff",
+     "character": "Muneeba Khan",
+     "slug": "zenobia-shroff",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fwU2vIUq9W9eXRKxx9r3papdOkS.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nia DaCosta",
+       "slug": "nia-dacosta"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Elissa Karasik",
+       "slug": "elissa-karasik"
+      },
+      {
+       "name": "Nia DaCosta",
+       "slug": "nia-dacosta"
+      },
+      {
+       "name": "Megan McDonnell",
+       "slug": "megan-mcdonnell"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Laura Karpman",
+       "slug": "laura-karpman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sean Bobbitt",
+       "slug": "sean-bobbitt"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Catrin Hedström",
+       "slug": "catrin-hedstrom"
+      },
+      {
+       "name": "Evan Schiff",
+       "slug": "evan-schiff"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Kevin Feige Productions",
+     "slug": "kevin-feige-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-01-16",
+    "platforms": [
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-11-10",
+     "gross": 3562733.9999999995,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 725,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3562733.9999999995,
+    "totalShows": 725,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 3562733.9999999995
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3562733.9999999995
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-11-10"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 452,
+    "title": "The Marvels",
+    "img": "https://image.tmdb.org/t/p/original/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg",
+    "released": "2023-11-10",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10676048",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "105 min",
+    "genre": "Science Fiction, Adventure, Action",
+    "plot": "When her duties send her to an anomalous wormhole linked to a Kree revolutionary, Carol's powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol's estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+    "released": "2023-11-08",
+    "director": "Nia DaCosta",
+    "directorSlug": "nia-dacosta",
+    "actors": [
+     "Brie Larson",
+     "Teyonah Parris",
+     "Iman Vellani",
+     "Samuel L. Jackson",
+     "Zawe Ashton",
+     "Gary Lewis"
+    ],
+    "awards": "5 wins u0026 13 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.4",
+      "votes": 171468,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.9",
+      "votes": 3652,
+      "updatedAt": "2026-09-24T22:10:07.000Z"
+     },
+     "rt": "63%",
+     "metascore": 50,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Brie Larson",
+     "character": "Carol Danvers / Captain Marvel",
+     "slug": "brie-larson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xSGvMwNNJcEQvVcjiIUTyxyMfkZ.jpg"
+    },
+    {
+     "name": "Teyonah Parris",
+     "character": "Monica Rambeau",
+     "slug": "teyonah-parris",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iGvBTOi0y2fbBVwgnBRXgY0IXDY.jpg"
+    },
+    {
+     "name": "Iman Vellani",
+     "character": "Kamala Khan / Ms. Marvel",
+     "slug": "iman-vellani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jD2TNIyJQmdqijGTzhvdiYabYix.jpg"
+    },
+    {
+     "name": "Samuel L. Jackson",
+     "character": "Nick Fury",
+     "slug": "samuel-l-jackson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+    },
+    {
+     "name": "Zawe Ashton",
+     "character": "Dar-Benn",
+     "slug": "zawe-ashton",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zbxVfvhPhCfgpgmWTdtHWurNqYu.jpg"
+    },
+    {
+     "name": "Gary Lewis",
+     "character": "Emperor Dro'ge",
+     "slug": "gary-lewis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cOaibfAluUeWPtcSOjedfGXn9ym.jpg"
+    },
+    {
+     "name": "Park Seo-jun",
+     "character": "Prince Yan",
+     "slug": "park-seo-jun",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k1ALgZkOApYt7PIUBkUitmknXQC.jpg"
+    },
+    {
+     "name": "Zenobia Shroff",
+     "character": "Muneeba Khan",
+     "slug": "zenobia-shroff",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fwU2vIUq9W9eXRKxx9r3papdOkS.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nia DaCosta",
+       "slug": "nia-dacosta"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Elissa Karasik",
+       "slug": "elissa-karasik"
+      },
+      {
+       "name": "Nia DaCosta",
+       "slug": "nia-dacosta"
+      },
+      {
+       "name": "Megan McDonnell",
+       "slug": "megan-mcdonnell"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Laura Karpman",
+       "slug": "laura-karpman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sean Bobbitt",
+       "slug": "sean-bobbitt"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Catrin Hedström",
+       "slug": "catrin-hedstrom"
+      },
+      {
+       "name": "Evan Schiff",
+       "slug": "evan-schiff"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Kevin Feige Productions",
+     "slug": "kevin-feige-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-01-16",
+    "platforms": [
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3562734,
+    "totalShows": 725,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1263388,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1263388,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-11-10"
+   }
+  }
+ }
+}

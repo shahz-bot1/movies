@@ -1,0 +1,48 @@
+{
+ "slug": "jasnya-jayadeesh",
+ "name": "Jasnya Jayadeesh",
+ "source_url": "https://fridaymatinee.in/people/jasnya-jayadeesh",
+ "captured_at": "2026-10-01T23:02:52.678547+00:00",
+ "person": {
+  "name": "Jasnya Jayadeesh",
+  "photo": "https://image.tmdb.org/t/p/w185/94NKnCt1Jf0xuleG7G1i5yAzVEP.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 98,
+   "movie_slug": "kunjeldho",
+   "title": "Kunjeldho",
+   "year": 2021,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 680,
+   "movie_slug": "sumathi-valavu",
+   "title": "Sumathi Valavu",
+   "year": 2025,
+   "kerala_gross": "₹15.0 Cr"
+  },
+  {
+   "movie_id": 1047,
+   "movie_slug": "derby",
+   "title": "Derby",
+   "year": 2026,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 1257,
+   "movie_slug": "ottam-thullal",
+   "title": "Ottam Thullal",
+   "year": 2026,
+   "kerala_gross": "₹17.5L"
+  }
+ ]
+}

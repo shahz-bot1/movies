@@ -1,0 +1,41 @@
+{
+ "slug": "shinoz",
+ "name": "Shinoz",
+ "source_url": "https://fridaymatinee.in/people/shinoz",
+ "captured_at": "2026-10-02T10:33:23.282224+00:00",
+ "person": {
+  "name": "Shinoz",
+  "photo": null,
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 302,
+   "movie_slug": "pranaya-vilasam",
+   "title": "Pranaya Vilasam",
+   "year": 2023,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 556,
+   "movie_slug": "footage",
+   "title": "Footage",
+   "year": 2024,
+   "kerala_gross": "₹31.1L"
+  },
+  {
+   "movie_id": 961,
+   "movie_slug": "pennu-case",
+   "title": "Pennu Case",
+   "year": 2026,
+   "kerala_gross": "₹1.5 Cr"
+  }
+ ]
+}

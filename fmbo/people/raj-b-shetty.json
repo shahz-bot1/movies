@@ -1,0 +1,60 @@
+{
+ "slug": "raj-b-shetty",
+ "name": "Raj B Shetty",
+ "source_url": "https://fridaymatinee.in/people/raj-b-shetty",
+ "captured_at": "2026-10-02T08:30:10.274639+00:00",
+ "person": {
+  "name": "Raj B Shetty",
+  "photo": "https://image.tmdb.org/t/p/w185/vlNvrGhaYzmRxhkd4GOKFNfSkHY.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 146,
+   "movie_slug": "777-charlie",
+   "title": "777 Charlie",
+   "year": 2022,
+   "kerala_gross": "₹3.0 Cr"
+  },
+  {
+   "movie_id": 474,
+   "movie_slug": "turbo",
+   "title": "Turbo",
+   "year": 2024,
+   "kerala_gross": "₹30.1 Cr"
+  },
+  {
+   "movie_id": 561,
+   "movie_slug": "kondal",
+   "title": "Kondal",
+   "year": 2024,
+   "kerala_gross": "₹2.4 Cr"
+  },
+  {
+   "movie_id": 286,
+   "movie_slug": "porattu-nadakam",
+   "title": "Porattu Nadakam",
+   "year": 2024,
+   "kerala_gross": "₹22.2L"
+  },
+  {
+   "movie_id": 740,
+   "movie_slug": "su-from-so",
+   "title": "SU from So",
+   "year": 2025,
+   "kerala_gross": "₹5.8 Cr"
+  }
+ ]
+}

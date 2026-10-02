@@ -1,0 +1,46 @@
+{
+ "slug": "h-vinoth",
+ "name": "H. Vinoth",
+ "source_url": "https://fridaymatinee.in/people/h-vinoth",
+ "captured_at": "2026-10-01T22:37:58.598057+00:00",
+ "person": {
+  "name": "H. Vinoth",
+  "photo": "https://image.tmdb.org/t/p/w185/32y5N68bLbNgOVADywSo3e0m9TG.jpg",
+  "role": "Director and writer"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 109,
+   "movie_slug": "valimai",
+   "title": "Valimai",
+   "year": 2022,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 271,
+   "movie_slug": "thunivu",
+   "title": "Thunivu",
+   "year": 2023,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 956,
+   "movie_slug": "jana-nayagan",
+   "title": "Jana Nayagan",
+   "year": 2026,
+   "kerala_gross": "₹15.5 Cr"
+  }
+ ]
+}

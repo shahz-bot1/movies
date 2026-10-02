@@ -1,0 +1,55 @@
+{
+ "slug": "uma-k-p",
+ "name": "Uma K.P",
+ "source_url": "https://fridaymatinee.in/people/uma-k-p",
+ "captured_at": "2026-10-02T11:32:34.933370+00:00",
+ "person": {
+  "name": "Uma K.P",
+  "photo": "https://image.tmdb.org/t/p/w185/uMhcovEVNLxUSfNFqiGG4HyHmIu.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 82,
+   "movie_slug": "chathur-mukham",
+   "title": "Chathur Mukham",
+   "year": 2021,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 154,
+   "movie_slug": "priyan-ottathilaanu",
+   "title": "Priyan Ottathilaanu",
+   "year": 2022,
+   "kerala_gross": "₹1.0 Cr"
+  },
+  {
+   "movie_id": 354,
+   "movie_slug": "neelavelicham",
+   "title": "Neelavelicham",
+   "year": 2023,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 286,
+   "movie_slug": "porattu-nadakam",
+   "title": "Porattu Nadakam",
+   "year": 2024,
+   "kerala_gross": "₹22.2L"
+  },
+  {
+   "movie_id": 672,
+   "movie_slug": "abhilasham",
+   "title": "Abhilasham",
+   "year": 2025,
+   "kerala_gross": "₹54.4L"
+  }
+ ]
+}

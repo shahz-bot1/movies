@@ -1,0 +1,708 @@
+{
+ "id": 792,
+ "slug": "one-battle-after-another",
+ "source_url": "https://fridaymatinee.in/boxoffice/one-battle-after-another-792",
+ "captured_at": "2026-10-01T18:22:33.422401+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 792,
+    "title": "One Battle After Another",
+    "img": "https://image.tmdb.org/t/p/original/1Q7pVGjJG4ATzqtZfGKHQptODg6.jpg",
+    "released": "2025-09-26",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt30144839",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "162 min",
+    "genre": "Thriller, Crime, Comedy",
+    "plot": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+    "released": "2025-09-23",
+    "director": "Paul Thomas Anderson",
+    "directorSlug": "paul-thomas-anderson",
+    "actors": [
+     "Leonardo DiCaprio",
+     "Sean Penn",
+     "Chase Infiniti",
+     "Benicio del Toro",
+     "Regina Hall",
+     "Teyana Taylor"
+    ],
+    "awards": "Nominated for 13 Oscars. 234 wins u0026 478 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.6",
+      "votes": 447833,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 4289,
+      "updatedAt": "2026-09-24T16:10:37.000Z"
+     },
+     "rt": "94%",
+     "metascore": 95,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Leonardo DiCaprio",
+     "character": "Bob",
+     "slug": "leonardo-dicaprio",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+    },
+    {
+     "name": "Sean Penn",
+     "character": "Col. Steven J. Lockjaw",
+     "slug": "sean-penn",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+    },
+    {
+     "name": "Chase Infiniti",
+     "character": "Willa",
+     "slug": "chase-infiniti",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6tO5t5anIb7D1Nwr6TQjAXMog5N.jpg"
+    },
+    {
+     "name": "Benicio del Toro",
+     "character": "Sensei Sergio St. Carlos",
+     "slug": "benicio-del-toro",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aYomJWx0B2B8ra6Rmgt8lr0XCrw.jpg"
+    },
+    {
+     "name": "Regina Hall",
+     "character": "Deandra",
+     "slug": "regina-hall",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
+    },
+    {
+     "name": "Teyana Taylor",
+     "character": "Perfidia",
+     "slug": "teyana-taylor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5b2dAuTsBejBsdm9SkWX4F7jG9w.jpg"
+    },
+    {
+     "name": "Wood Harris",
+     "character": "Laredo",
+     "slug": "wood-harris",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v3puIl2KncqUd6amDyD1Y0crzkF.jpg"
+    },
+    {
+     "name": "Tony Goldwyn",
+     "character": "Virgil Throckmorton",
+     "slug": "tony-goldwyn",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ptm8SG4MYIMn0hnDl2YJ70Dwal5.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Paul Thomas Anderson",
+       "slug": "paul-thomas-anderson"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Paul Thomas Anderson",
+       "slug": "paul-thomas-anderson"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jonny Greenwood",
+       "slug": "jonny-greenwood"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Michael Bauman",
+       "slug": "michael-bauman"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Andy Jurgensen",
+       "slug": "andy-jurgensen"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Adam Somner",
+       "slug": "adam-somner"
+      },
+      {
+       "name": "Sara Murphy",
+       "slug": "sara-murphy"
+      },
+      {
+       "name": "Paul Thomas Anderson",
+       "slug": "paul-thomas-anderson"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "Ghoulardi Film Company",
+     "slug": "ghoulardi-film-company",
+     "logo": null
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-13",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5085903,
+    "totalShows": 502,
+    "totalDays": 33,
+    "openingDay": {
+     "day": 1,
+     "gross": 553766,
+     "date": "2025-09-26"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 702819,
+     "date": "2025-09-28"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-26"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 792,
+    "title": "One Battle After Another",
+    "img": "https://image.tmdb.org/t/p/original/1Q7pVGjJG4ATzqtZfGKHQptODg6.jpg",
+    "released": "2025-09-26",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt30144839",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "162 min",
+    "genre": "Thriller, Crime, Comedy",
+    "plot": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+    "released": "2025-09-23",
+    "director": "Paul Thomas Anderson",
+    "directorSlug": "paul-thomas-anderson",
+    "actors": [
+     "Leonardo DiCaprio",
+     "Sean Penn",
+     "Chase Infiniti",
+     "Benicio del Toro",
+     "Regina Hall",
+     "Teyana Taylor"
+    ],
+    "awards": "Nominated for 13 Oscars. 234 wins u0026 478 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.6",
+      "votes": 447833,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 4289,
+      "updatedAt": "2026-09-24T16:10:37.000Z"
+     },
+     "rt": "94%",
+     "metascore": 95,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Leonardo DiCaprio",
+     "character": "Bob",
+     "slug": "leonardo-dicaprio",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+    },
+    {
+     "name": "Sean Penn",
+     "character": "Col. Steven J. Lockjaw",
+     "slug": "sean-penn",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+    },
+    {
+     "name": "Chase Infiniti",
+     "character": "Willa",
+     "slug": "chase-infiniti",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6tO5t5anIb7D1Nwr6TQjAXMog5N.jpg"
+    },
+    {
+     "name": "Benicio del Toro",
+     "character": "Sensei Sergio St. Carlos",
+     "slug": "benicio-del-toro",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aYomJWx0B2B8ra6Rmgt8lr0XCrw.jpg"
+    },
+    {
+     "name": "Regina Hall",
+     "character": "Deandra",
+     "slug": "regina-hall",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
+    },
+    {
+     "name": "Teyana Taylor",
+     "character": "Perfidia",
+     "slug": "teyana-taylor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5b2dAuTsBejBsdm9SkWX4F7jG9w.jpg"
+    },
+    {
+     "name": "Wood Harris",
+     "character": "Laredo",
+     "slug": "wood-harris",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v3puIl2KncqUd6amDyD1Y0crzkF.jpg"
+    },
+    {
+     "name": "Tony Goldwyn",
+     "character": "Virgil Throckmorton",
+     "slug": "tony-goldwyn",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ptm8SG4MYIMn0hnDl2YJ70Dwal5.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Paul Thomas Anderson",
+       "slug": "paul-thomas-anderson"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Paul Thomas Anderson",
+       "slug": "paul-thomas-anderson"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jonny Greenwood",
+       "slug": "jonny-greenwood"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Michael Bauman",
+       "slug": "michael-bauman"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Andy Jurgensen",
+       "slug": "andy-jurgensen"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Adam Somner",
+       "slug": "adam-somner"
+      },
+      {
+       "name": "Sara Murphy",
+       "slug": "sara-murphy"
+      },
+      {
+       "name": "Paul Thomas Anderson",
+       "slug": "paul-thomas-anderson"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "Ghoulardi Film Company",
+     "slug": "ghoulardi-film-company",
+     "logo": null
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-13",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-09-26",
+     "gross": 3680891,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 336,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-10-03",
+     "gross": 842978,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 83,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-10-10",
+     "gross": 378111,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 55,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-10-17",
+     "gross": 122263,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 18,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-10-31",
+     "gross": 61660,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 10,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5085903,
+    "totalShows": 502,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 3680891
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3680891
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-26"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 792,
+    "title": "One Battle After Another",
+    "img": "https://image.tmdb.org/t/p/original/1Q7pVGjJG4ATzqtZfGKHQptODg6.jpg",
+    "released": "2025-09-26",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt30144839",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "162 min",
+    "genre": "Thriller, Crime, Comedy",
+    "plot": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+    "released": "2025-09-23",
+    "director": "Paul Thomas Anderson",
+    "directorSlug": "paul-thomas-anderson",
+    "actors": [
+     "Leonardo DiCaprio",
+     "Sean Penn",
+     "Chase Infiniti",
+     "Benicio del Toro",
+     "Regina Hall",
+     "Teyana Taylor"
+    ],
+    "awards": "Nominated for 13 Oscars. 234 wins u0026 478 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.6",
+      "votes": 447833,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 4289,
+      "updatedAt": "2026-09-24T16:10:37.000Z"
+     },
+     "rt": "94%",
+     "metascore": 95,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Leonardo DiCaprio",
+     "character": "Bob",
+     "slug": "leonardo-dicaprio",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+    },
+    {
+     "name": "Sean Penn",
+     "character": "Col. Steven J. Lockjaw",
+     "slug": "sean-penn",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+    },
+    {
+     "name": "Chase Infiniti",
+     "character": "Willa",
+     "slug": "chase-infiniti",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6tO5t5anIb7D1Nwr6TQjAXMog5N.jpg"
+    },
+    {
+     "name": "Benicio del Toro",
+     "character": "Sensei Sergio St. Carlos",
+     "slug": "benicio-del-toro",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aYomJWx0B2B8ra6Rmgt8lr0XCrw.jpg"
+    },
+    {
+     "name": "Regina Hall",
+     "character": "Deandra",
+     "slug": "regina-hall",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
+    },
+    {
+     "name": "Teyana Taylor",
+     "character": "Perfidia",
+     "slug": "teyana-taylor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5b2dAuTsBejBsdm9SkWX4F7jG9w.jpg"
+    },
+    {
+     "name": "Wood Harris",
+     "character": "Laredo",
+     "slug": "wood-harris",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v3puIl2KncqUd6amDyD1Y0crzkF.jpg"
+    },
+    {
+     "name": "Tony Goldwyn",
+     "character": "Virgil Throckmorton",
+     "slug": "tony-goldwyn",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ptm8SG4MYIMn0hnDl2YJ70Dwal5.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Paul Thomas Anderson",
+       "slug": "paul-thomas-anderson"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Paul Thomas Anderson",
+       "slug": "paul-thomas-anderson"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jonny Greenwood",
+       "slug": "jonny-greenwood"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Michael Bauman",
+       "slug": "michael-bauman"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Andy Jurgensen",
+       "slug": "andy-jurgensen"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Adam Somner",
+       "slug": "adam-somner"
+      },
+      {
+       "name": "Sara Murphy",
+       "slug": "sara-murphy"
+      },
+      {
+       "name": "Paul Thomas Anderson",
+       "slug": "paul-thomas-anderson"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "Ghoulardi Film Company",
+     "slug": "ghoulardi-film-company",
+     "logo": null
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-13",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5085903,
+    "totalShows": 502,
+    "totalDays": 9,
+    "openingDay": {
+     "day": 1,
+     "gross": 2841272,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2841272,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-26"
+   }
+  }
+ }
+}

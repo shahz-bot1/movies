@@ -1,0 +1,41 @@
+{
+ "slug": "siddhartha-nuni",
+ "name": "Siddhartha Nuni",
+ "source_url": "https://fridaymatinee.in/people/siddhartha-nuni",
+ "captured_at": "2026-10-02T10:39:29.801946+00:00",
+ "person": {
+  "name": "Siddhartha Nuni",
+  "photo": null,
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 204,
+   "movie_slug": "vendhu-thanindhathu-kaadu",
+   "title": "Vendhu Thanindhathu Kaadu",
+   "year": 2022,
+   "kerala_gross": "₹40.9L"
+  },
+  {
+   "movie_id": 492,
+   "movie_slug": "captain-miller",
+   "title": "Captain Miller",
+   "year": 2024,
+   "kerala_gross": "₹3.3 Cr"
+  },
+  {
+   "movie_id": 560,
+   "movie_slug": "the-greatest-of-all-time",
+   "title": "The Greatest Of All Time",
+   "year": 2024,
+   "kerala_gross": "₹10.6 Cr"
+  }
+ ]
+}

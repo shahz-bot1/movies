@@ -1,0 +1,48 @@
+{
+ "slug": "mamukkoya",
+ "name": "Mamukkoya",
+ "source_url": "https://fridaymatinee.in/people/mamukkoya",
+ "captured_at": "2026-10-02T00:15:49.588896+00:00",
+ "person": {
+  "name": "Mamukkoya",
+  "photo": "https://image.tmdb.org/t/p/w185/iavXWAjIiy56nPTjLpcCou4jSqK.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 76,
+   "movie_slug": "one",
+   "title": "One",
+   "year": 2021,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 186,
+   "movie_slug": "theerppu",
+   "title": "Theerppu",
+   "year": 2022,
+   "kerala_gross": "₹84.2L"
+  },
+  {
+   "movie_id": 187,
+   "movie_slug": "cobra",
+   "title": "Cobra",
+   "year": 2022,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 357,
+   "movie_slug": "sulaikha-manzil",
+   "title": "Sulaikha Manzil",
+   "year": 2023,
+   "kerala_gross": "₹1.1 Cr"
+  }
+ ]
+}

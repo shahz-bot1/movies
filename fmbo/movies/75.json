@@ -1,0 +1,724 @@
+{
+ "id": 75,
+ "slug": "kala",
+ "source_url": "https://fridaymatinee.in/boxoffice/kala-75",
+ "captured_at": "2026-10-01T18:00:09.303425+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 75,
+    "title": "Kala",
+    "img": "https://image.tmdb.org/t/p/original/mLmnhWJDAmI6j2cxH7uvBiyi9Jb.jpg",
+    "released": "2021-03-25",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt12687276",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "127 min",
+    "genre": "Action, Thriller",
+    "plot": "The life of Shaji, a laid-back youngster, turns upside down when someone from his past pays him a visit.",
+    "released": "2021-03-25",
+    "director": "Rohith VS",
+    "directorSlug": "rohith-vs",
+    "actors": [
+     "Sumesh Moor",
+     "Tovino Thomas",
+     "Divya Pillai",
+     "Lal",
+     "Pramod Veliyanad",
+     "Ashik Safiya Aboobakker"
+    ],
+    "awards": "2 wins u0026 1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 4248,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "100%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sumesh Moor",
+     "character": "The Protagonist",
+     "slug": "sumesh-moor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pehYNBd8DpKD9C1idJ8lqYiqbLS.jpg"
+    },
+    {
+     "name": "Tovino Thomas",
+     "character": "Shaji",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Divya Pillai",
+     "character": "Vidhya",
+     "slug": "divya-pillai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n0BfTrgMiF0pAHvwl4Q3xvjHWlL.jpg"
+    },
+    {
+     "name": "Lal",
+     "character": "Ravi",
+     "slug": "lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg"
+    },
+    {
+     "name": "Pramod Veliyanad",
+     "character": "Mani Ashan",
+     "slug": "pramod-veliyanad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ny9jQwPULaSUesCQBWWherDq7dd.jpg"
+    },
+    {
+     "name": "Ashik Safiya Aboobakker",
+     "character": "Sathyan",
+     "slug": "ashik-safiya-aboobakker",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sreejith Ravi",
+     "character": "Shaji's Friend",
+     "slug": "sreejith-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h1fKS7qVWJ3mhmDs0Z8RHx24iQI.jpg"
+    },
+    {
+     "name": "Ramadevi TG",
+     "character": "Maid",
+     "slug": "ramadevi-tg",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rohith VS",
+       "slug": "rohith-vs"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Yadhu Pushpakaran",
+       "slug": "yadhu-pushpakaran"
+      },
+      {
+       "name": "Rohith VS",
+       "slug": "rohith-vs"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Dawn Vincent",
+       "slug": "dawn-vincent"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Akhil George",
+       "slug": "akhil-george"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Chaman Chakko",
+       "slug": "chaman-chakko"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Navis Xaviour",
+       "slug": "navis-xaviour"
+      },
+      {
+       "name": "Siju Mathew",
+       "slug": "siju-mathew"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Juvis Production",
+     "slug": "juvis-production",
+     "logo": null
+    },
+    {
+     "name": "Tovino Thomas Productions",
+     "slug": "tovino-thomas-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 12422466,
+    "totalShows": 2358,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 4044262,
+     "date": "2021-03-25"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4044262,
+     "date": "2021-03-25"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 24,
+     "last_week_position": 97
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-03-25"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 75,
+    "title": "Kala",
+    "img": "https://image.tmdb.org/t/p/original/mLmnhWJDAmI6j2cxH7uvBiyi9Jb.jpg",
+    "released": "2021-03-25",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt12687276",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "127 min",
+    "genre": "Action, Thriller",
+    "plot": "The life of Shaji, a laid-back youngster, turns upside down when someone from his past pays him a visit.",
+    "released": "2021-03-25",
+    "director": "Rohith VS",
+    "directorSlug": "rohith-vs",
+    "actors": [
+     "Sumesh Moor",
+     "Tovino Thomas",
+     "Divya Pillai",
+     "Lal",
+     "Pramod Veliyanad",
+     "Ashik Safiya Aboobakker"
+    ],
+    "awards": "2 wins u0026 1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 4248,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "100%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sumesh Moor",
+     "character": "The Protagonist",
+     "slug": "sumesh-moor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pehYNBd8DpKD9C1idJ8lqYiqbLS.jpg"
+    },
+    {
+     "name": "Tovino Thomas",
+     "character": "Shaji",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Divya Pillai",
+     "character": "Vidhya",
+     "slug": "divya-pillai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n0BfTrgMiF0pAHvwl4Q3xvjHWlL.jpg"
+    },
+    {
+     "name": "Lal",
+     "character": "Ravi",
+     "slug": "lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg"
+    },
+    {
+     "name": "Pramod Veliyanad",
+     "character": "Mani Ashan",
+     "slug": "pramod-veliyanad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ny9jQwPULaSUesCQBWWherDq7dd.jpg"
+    },
+    {
+     "name": "Ashik Safiya Aboobakker",
+     "character": "Sathyan",
+     "slug": "ashik-safiya-aboobakker",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sreejith Ravi",
+     "character": "Shaji's Friend",
+     "slug": "sreejith-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h1fKS7qVWJ3mhmDs0Z8RHx24iQI.jpg"
+    },
+    {
+     "name": "Ramadevi TG",
+     "character": "Maid",
+     "slug": "ramadevi-tg",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rohith VS",
+       "slug": "rohith-vs"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Yadhu Pushpakaran",
+       "slug": "yadhu-pushpakaran"
+      },
+      {
+       "name": "Rohith VS",
+       "slug": "rohith-vs"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Dawn Vincent",
+       "slug": "dawn-vincent"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Akhil George",
+       "slug": "akhil-george"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Chaman Chakko",
+       "slug": "chaman-chakko"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Navis Xaviour",
+       "slug": "navis-xaviour"
+      },
+      {
+       "name": "Siju Mathew",
+       "slug": "siju-mathew"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Juvis Production",
+     "slug": "juvis-production",
+     "logo": null
+    },
+    {
+     "name": "Tovino Thomas Productions",
+     "slug": "tovino-thomas-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2021-03-25",
+     "gross": 11023345,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1742,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-04-01",
+     "gross": 1386551,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 602,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-04-08",
+     "gross": 12570,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 14,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 12422466,
+    "totalShows": 2358,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 11023345
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 11023345
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 24,
+     "last_week_position": 97
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-03-25"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 75,
+    "title": "Kala",
+    "img": "https://image.tmdb.org/t/p/original/mLmnhWJDAmI6j2cxH7uvBiyi9Jb.jpg",
+    "released": "2021-03-25",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt12687276",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "127 min",
+    "genre": "Action, Thriller",
+    "plot": "The life of Shaji, a laid-back youngster, turns upside down when someone from his past pays him a visit.",
+    "released": "2021-03-25",
+    "director": "Rohith VS",
+    "directorSlug": "rohith-vs",
+    "actors": [
+     "Sumesh Moor",
+     "Tovino Thomas",
+     "Divya Pillai",
+     "Lal",
+     "Pramod Veliyanad",
+     "Ashik Safiya Aboobakker"
+    ],
+    "awards": "2 wins u0026 1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 4248,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "100%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sumesh Moor",
+     "character": "The Protagonist",
+     "slug": "sumesh-moor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pehYNBd8DpKD9C1idJ8lqYiqbLS.jpg"
+    },
+    {
+     "name": "Tovino Thomas",
+     "character": "Shaji",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Divya Pillai",
+     "character": "Vidhya",
+     "slug": "divya-pillai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n0BfTrgMiF0pAHvwl4Q3xvjHWlL.jpg"
+    },
+    {
+     "name": "Lal",
+     "character": "Ravi",
+     "slug": "lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg"
+    },
+    {
+     "name": "Pramod Veliyanad",
+     "character": "Mani Ashan",
+     "slug": "pramod-veliyanad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ny9jQwPULaSUesCQBWWherDq7dd.jpg"
+    },
+    {
+     "name": "Ashik Safiya Aboobakker",
+     "character": "Sathyan",
+     "slug": "ashik-safiya-aboobakker",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sreejith Ravi",
+     "character": "Shaji's Friend",
+     "slug": "sreejith-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h1fKS7qVWJ3mhmDs0Z8RHx24iQI.jpg"
+    },
+    {
+     "name": "Ramadevi TG",
+     "character": "Maid",
+     "slug": "ramadevi-tg",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rohith VS",
+       "slug": "rohith-vs"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Yadhu Pushpakaran",
+       "slug": "yadhu-pushpakaran"
+      },
+      {
+       "name": "Rohith VS",
+       "slug": "rohith-vs"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Dawn Vincent",
+       "slug": "dawn-vincent"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Akhil George",
+       "slug": "akhil-george"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Chaman Chakko",
+       "slug": "chaman-chakko"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Navis Xaviour",
+       "slug": "navis-xaviour"
+      },
+      {
+       "name": "Siju Mathew",
+       "slug": "siju-mathew"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Juvis Production",
+     "slug": "juvis-production",
+     "logo": null
+    },
+    {
+     "name": "Tovino Thomas Productions",
+     "slug": "tovino-thomas-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 12422466,
+    "totalShows": 2358,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 3390257,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3390257,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 24,
+     "last_week_position": 97
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-03-25"
+   }
+  }
+ }
+}

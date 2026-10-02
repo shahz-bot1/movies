@@ -1,0 +1,41 @@
+{
+ "slug": "kumar-sunil",
+ "name": "Kumar Sunil",
+ "source_url": "https://fridaymatinee.in/people/kumar-sunil",
+ "captured_at": "2026-10-01T23:54:54.993553+00:00",
+ "person": {
+  "name": "Kumar Sunil",
+  "photo": null,
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 401,
+   "movie_slug": "journey-of-love-18",
+   "title": "Journey of Love 18+",
+   "year": 2023,
+   "kerala_gross": "₹4.3 Cr"
+  },
+  {
+   "movie_id": 649,
+   "movie_slug": "narayaneente-moonnaanmakkal",
+   "title": "Narayaneente Moonnaanmakkal",
+   "year": 2025,
+   "kerala_gross": "₹88.9L"
+  },
+  {
+   "movie_id": 859,
+   "movie_slug": "feminist-fathima",
+   "title": "Feminist Fathima",
+   "year": 2025,
+   "kerala_gross": "₹22.3L"
+  }
+ ]
+}

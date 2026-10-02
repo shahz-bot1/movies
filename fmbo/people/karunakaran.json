@@ -1,0 +1,83 @@
+{
+ "slug": "karunakaran",
+ "name": "Karunakaran",
+ "source_url": "https://fridaymatinee.in/people/karunakaran",
+ "captured_at": "2026-10-01T23:41:47.451816+00:00",
+ "person": {
+  "name": "Karunakaran",
+  "photo": "https://image.tmdb.org/t/p/w185/3unnOmeQ0r4GhAY1EDbZaCdt1N.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 9
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 87,
+   "movie_slug": "enemy",
+   "title": "Enemy",
+   "year": 2021,
+   "kerala_gross": "₹39.0L"
+  },
+  {
+   "movie_id": 494,
+   "movie_slug": "ayalaan",
+   "title": "Ayalaan",
+   "year": 2024,
+   "kerala_gross": "₹50.4L"
+  },
+  {
+   "movie_id": 580,
+   "movie_slug": "meiyazhagan",
+   "title": "Meiyazhagan",
+   "year": 2024,
+   "kerala_gross": "₹67.2L"
+  },
+  {
+   "movie_id": 678,
+   "movie_slug": "retro",
+   "title": "Retro",
+   "year": 2025,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 750,
+   "movie_slug": "dna",
+   "title": "DNA",
+   "year": 2025,
+   "kerala_gross": "₹8.8L"
+  },
+  {
+   "movie_id": 963,
+   "movie_slug": "vaa-vaathiyaar",
+   "title": "Vaa Vaathiyaar",
+   "year": 2026,
+   "kerala_gross": "₹45.0L"
+  },
+  {
+   "movie_id": 1192,
+   "movie_slug": "gatta-kusthi-2",
+   "title": "Gatta Kusthi 2",
+   "year": 2026,
+   "kerala_gross": "₹86.8L"
+  },
+  {
+   "movie_id": 1222,
+   "movie_slug": "g-d-n",
+   "title": "G.D.N",
+   "year": 2026,
+   "kerala_gross": "₹18.2L"
+  },
+  {
+   "movie_id": 1316,
+   "movie_slug": "meesaya-murukku-2",
+   "title": "Meesaya Murukku 2",
+   "year": 2026,
+   "kerala_gross": "₹25.6L"
+  }
+ ]
+}

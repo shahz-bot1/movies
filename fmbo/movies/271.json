@@ -1,0 +1,631 @@
+{
+ "id": 271,
+ "slug": "thunivu",
+ "source_url": "https://fridaymatinee.in/boxoffice/thunivu-271",
+ "captured_at": "2026-10-01T18:08:21.647056+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 271,
+    "title": "Thunivu",
+    "img": "https://image.tmdb.org/t/p/original/5Cdi9MFxEGsfphvDxV4TyY4znP6.jpg",
+    "released": "2023-01-11",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15163652",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "146 min",
+    "genre": "Action, Crime, Thriller, Comedy",
+    "plot": "A gang goes to rob a bank only to find that there's already a criminal mastermind holding it for ransom, but his identities and motives behind the heist remains mysterious. As they plan to collect the bounty and disappear without a trace, their crimes and their past slowly catches up with them.",
+    "released": "2023-01-10",
+    "director": "H. Vinoth",
+    "directorSlug": "h-vinoth",
+    "actors": [
+     "Ajith Kumar",
+     "Manju Warrier",
+     "Samuthirakani",
+     "John Kokken",
+     "Veera Bahu",
+     "Prem"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 30888,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ajith Kumar",
+     "character": "Dark Devil",
+     "slug": "ajith-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bCS0pp7YNHoXJvHObBLoOJRUUYs.jpg"
+    },
+    {
+     "name": "Manju Warrier",
+     "character": "Kanmani",
+     "slug": "manju-warrier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7u1WgUHnwIW9mtL6aTdo1cRXmCM.jpg"
+    },
+    {
+     "name": "Samuthirakani",
+     "character": "N. Dhayalan",
+     "slug": "samuthirakani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hicCPOdDfSRCEYkeb9g53FOY19A.jpg"
+    },
+    {
+     "name": "John Kokken",
+     "character": "Krish",
+     "slug": "john-kokken",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3dIc5cYnlzLYjaZYTOkrTIAg2D1.jpg"
+    },
+    {
+     "name": "Veera Bahu",
+     "character": "Radha",
+     "slug": "veera-bahu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8jO9TAQZ9uIo7J32ofqEhEs3KOi.jpg"
+    },
+    {
+     "name": "Prem",
+     "character": "Prem",
+     "slug": "prem",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/41ZntbRg0ObcwLPVBxprp8Kz3Ot.jpg"
+    },
+    {
+     "name": "Ajay",
+     "character": "Ramachandran",
+     "slug": "ajay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg"
+    },
+    {
+     "name": "G. M. Sundar",
+     "character": "Muthazhagan",
+     "slug": "g-m-sundar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hMYrf0wmw9XPiICyOWXYmDIucFV.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "H. Vinoth",
+       "slug": "h-vinoth"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "H. Vinoth",
+       "slug": "h-vinoth"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ghibran",
+       "slug": "ghibran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nirav Shah",
+       "slug": "nirav-shah"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vijay Velukutty",
+       "slug": "vijay-velukutty"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Boney Kapoor",
+       "slug": "boney-kapoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Bayview Projects",
+     "slug": "bayview-projects",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-02-08",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 26376033.17,
+    "totalShows": 4617,
+    "totalDays": 16,
+    "openingDay": {
+     "day": 1,
+     "gross": 9535855.97,
+     "date": "2023-01-11"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 9535855.97,
+     "date": "2023-01-11"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 60,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-11"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 271,
+    "title": "Thunivu",
+    "img": "https://image.tmdb.org/t/p/original/5Cdi9MFxEGsfphvDxV4TyY4znP6.jpg",
+    "released": "2023-01-11",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15163652",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "146 min",
+    "genre": "Action, Crime, Thriller, Comedy",
+    "plot": "A gang goes to rob a bank only to find that there's already a criminal mastermind holding it for ransom, but his identities and motives behind the heist remains mysterious. As they plan to collect the bounty and disappear without a trace, their crimes and their past slowly catches up with them.",
+    "released": "2023-01-10",
+    "director": "H. Vinoth",
+    "directorSlug": "h-vinoth",
+    "actors": [
+     "Ajith Kumar",
+     "Manju Warrier",
+     "Samuthirakani",
+     "John Kokken",
+     "Veera Bahu",
+     "Prem"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 30888,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ajith Kumar",
+     "character": "Dark Devil",
+     "slug": "ajith-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bCS0pp7YNHoXJvHObBLoOJRUUYs.jpg"
+    },
+    {
+     "name": "Manju Warrier",
+     "character": "Kanmani",
+     "slug": "manju-warrier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7u1WgUHnwIW9mtL6aTdo1cRXmCM.jpg"
+    },
+    {
+     "name": "Samuthirakani",
+     "character": "N. Dhayalan",
+     "slug": "samuthirakani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hicCPOdDfSRCEYkeb9g53FOY19A.jpg"
+    },
+    {
+     "name": "John Kokken",
+     "character": "Krish",
+     "slug": "john-kokken",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3dIc5cYnlzLYjaZYTOkrTIAg2D1.jpg"
+    },
+    {
+     "name": "Veera Bahu",
+     "character": "Radha",
+     "slug": "veera-bahu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8jO9TAQZ9uIo7J32ofqEhEs3KOi.jpg"
+    },
+    {
+     "name": "Prem",
+     "character": "Prem",
+     "slug": "prem",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/41ZntbRg0ObcwLPVBxprp8Kz3Ot.jpg"
+    },
+    {
+     "name": "Ajay",
+     "character": "Ramachandran",
+     "slug": "ajay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg"
+    },
+    {
+     "name": "G. M. Sundar",
+     "character": "Muthazhagan",
+     "slug": "g-m-sundar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hMYrf0wmw9XPiICyOWXYmDIucFV.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "H. Vinoth",
+       "slug": "h-vinoth"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "H. Vinoth",
+       "slug": "h-vinoth"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ghibran",
+       "slug": "ghibran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nirav Shah",
+       "slug": "nirav-shah"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vijay Velukutty",
+       "slug": "vijay-velukutty"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Boney Kapoor",
+       "slug": "boney-kapoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Bayview Projects",
+     "slug": "bayview-projects",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-02-08",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-01-11",
+     "gross": 23231078.790000007,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3400,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-01-18",
+     "gross": 2965146.3800000004,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1150,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-01-25",
+     "gross": 179808,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 67,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 26376033.170000006,
+    "totalShows": 4617,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 23231078.790000007
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 23231078.790000007
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 60,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-11"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 271,
+    "title": "Thunivu",
+    "img": "https://image.tmdb.org/t/p/original/5Cdi9MFxEGsfphvDxV4TyY4znP6.jpg",
+    "released": "2023-01-11",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15163652",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "146 min",
+    "genre": "Action, Crime, Thriller, Comedy",
+    "plot": "A gang goes to rob a bank only to find that there's already a criminal mastermind holding it for ransom, but his identities and motives behind the heist remains mysterious. As they plan to collect the bounty and disappear without a trace, their crimes and their past slowly catches up with them.",
+    "released": "2023-01-10",
+    "director": "H. Vinoth",
+    "directorSlug": "h-vinoth",
+    "actors": [
+     "Ajith Kumar",
+     "Manju Warrier",
+     "Samuthirakani",
+     "John Kokken",
+     "Veera Bahu",
+     "Prem"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 30888,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ajith Kumar",
+     "character": "Dark Devil",
+     "slug": "ajith-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bCS0pp7YNHoXJvHObBLoOJRUUYs.jpg"
+    },
+    {
+     "name": "Manju Warrier",
+     "character": "Kanmani",
+     "slug": "manju-warrier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7u1WgUHnwIW9mtL6aTdo1cRXmCM.jpg"
+    },
+    {
+     "name": "Samuthirakani",
+     "character": "N. Dhayalan",
+     "slug": "samuthirakani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hicCPOdDfSRCEYkeb9g53FOY19A.jpg"
+    },
+    {
+     "name": "John Kokken",
+     "character": "Krish",
+     "slug": "john-kokken",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3dIc5cYnlzLYjaZYTOkrTIAg2D1.jpg"
+    },
+    {
+     "name": "Veera Bahu",
+     "character": "Radha",
+     "slug": "veera-bahu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8jO9TAQZ9uIo7J32ofqEhEs3KOi.jpg"
+    },
+    {
+     "name": "Prem",
+     "character": "Prem",
+     "slug": "prem",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/41ZntbRg0ObcwLPVBxprp8Kz3Ot.jpg"
+    },
+    {
+     "name": "Ajay",
+     "character": "Ramachandran",
+     "slug": "ajay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg"
+    },
+    {
+     "name": "G. M. Sundar",
+     "character": "Muthazhagan",
+     "slug": "g-m-sundar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hMYrf0wmw9XPiICyOWXYmDIucFV.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "H. Vinoth",
+       "slug": "h-vinoth"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "H. Vinoth",
+       "slug": "h-vinoth"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ghibran",
+       "slug": "ghibran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nirav Shah",
+       "slug": "nirav-shah"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vijay Velukutty",
+       "slug": "vijay-velukutty"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Boney Kapoor",
+       "slug": "boney-kapoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Bayview Projects",
+     "slug": "bayview-projects",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-02-08",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 26376033.169999998,
+    "totalShows": 4617,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 6152421,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 6152421,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 60,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-11"
+   }
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "bhavani-sre",
+ "name": "Bhavani Sre",
+ "source_url": "https://fridaymatinee.in/people/bhavani-sre",
+ "captured_at": "2026-10-01T21:15:55.652605+00:00",
+ "person": {
+  "name": "Bhavani Sre",
+  "photo": "https://image.tmdb.org/t/p/w185/jpSwJEKKmCoaQZOOG6ofppNHdGQ.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 316,
+   "movie_slug": "viduthalai-part-1",
+   "title": "Viduthalai Part 1",
+   "year": 2023,
+   "kerala_gross": "₹86.9L"
+  },
+  {
+   "movie_id": 618,
+   "movie_slug": "viduthalai-part-2",
+   "title": "Viduthalai Part - 2",
+   "year": 2024,
+   "kerala_gross": "₹66.7L"
+  },
+  {
+   "movie_id": 1053,
+   "movie_slug": "kaalidas-2",
+   "title": "Kaalidas 2",
+   "year": 2026,
+   "kerala_gross": "₹4.7L"
+  },
+  {
+   "movie_id": 1225,
+   "movie_slug": "vishwanath-and-sons",
+   "title": "Vishwanath and Sons",
+   "year": 2026,
+   "kerala_gross": "₹7.2 Cr"
+  }
+ ]
+}

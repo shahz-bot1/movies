@@ -1,0 +1,48 @@
+{
+ "slug": "chetan",
+ "name": "Chetan",
+ "source_url": "https://fridaymatinee.in/people/chetan",
+ "captured_at": "2026-10-01T21:33:41.802521+00:00",
+ "person": {
+  "name": "Chetan",
+  "photo": "https://image.tmdb.org/t/p/w185/jE66LoKC6ctmSLitdtIQUOrpTkI.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 316,
+   "movie_slug": "viduthalai-part-1",
+   "title": "Viduthalai Part 1",
+   "year": 2023,
+   "kerala_gross": "₹86.9L"
+  },
+  {
+   "movie_id": 750,
+   "movie_slug": "dna",
+   "title": "DNA",
+   "year": 2025,
+   "kerala_gross": "₹8.8L"
+  },
+  {
+   "movie_id": 962,
+   "movie_slug": "parasakthi",
+   "title": "Parasakthi",
+   "year": 2026,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 1197,
+   "movie_slug": "anbe-diana",
+   "title": "Anbe Diana",
+   "year": 2026,
+   "kerala_gross": "₹2.4L"
+  }
+ ]
+}

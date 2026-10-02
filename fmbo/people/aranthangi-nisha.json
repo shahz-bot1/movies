@@ -1,0 +1,41 @@
+{
+ "slug": "aranthangi-nisha",
+ "name": "Aranthangi Nisha",
+ "source_url": "https://fridaymatinee.in/people/aranthangi-nisha",
+ "captured_at": "2026-10-01T20:50:35.022307+00:00",
+ "person": {
+  "name": "Aranthangi Nisha",
+  "photo": "https://image.tmdb.org/t/p/w185/lcX6jN1qkX4cuqr1VZIrKCwN7cC.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 182,
+   "movie_slug": "thiruchitrambalam",
+   "title": "Thiruchitrambalam",
+   "year": 2022,
+   "kerala_gross": "₹47.5L"
+  },
+  {
+   "movie_id": 547,
+   "movie_slug": "raayan",
+   "title": "Raayan",
+   "year": 2024,
+   "kerala_gross": "₹4.4 Cr"
+  },
+  {
+   "movie_id": 1052,
+   "movie_slug": "leader",
+   "title": "Leader",
+   "year": 2026,
+   "kerala_gross": "₹2.8L"
+  }
+ ]
+}

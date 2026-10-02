@@ -1,0 +1,756 @@
+{
+ "id": 1088,
+ "slug": "fuze",
+ "source_url": "https://fridaymatinee.in/boxoffice/fuze-1088",
+ "captured_at": "2026-10-01T19:45:45.437163+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1088,
+    "title": "Fuze",
+    "img": "https://image.tmdb.org/t/p/original/oWehDe6fFR4eUdUMDy4jz6XiinO.jpg",
+    "released": "2026-04-24",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31189814",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "96 min",
+    "genre": "Action, Crime, Drama, Thriller",
+    "plot": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
+    "released": "2025-09-05",
+    "director": "David Mackenzie",
+    "directorSlug": "david-mackenzie",
+    "actors": [
+     "Aaron Taylor-Johnson",
+     "Theo James",
+     "Gugu Mbatha-Raw",
+     "Elham Ehsas",
+     "Sam Worthington",
+     "Shaun Mason"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 18227,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.1",
+      "votes": 412,
+      "updatedAt": "2026-09-24T13:10:01.000Z"
+     },
+     "rt": "72%",
+     "metascore": 58,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aaron Taylor-Johnson",
+     "character": "Will",
+     "slug": "aaron-taylor-johnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pFtHhih2XEaFaD3qOFyQW6q83br.jpg"
+    },
+    {
+     "name": "Theo James",
+     "character": "Karalis",
+     "slug": "theo-james",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/g4yeW1EgIpyht0fy1stv7EXUmPC.jpg"
+    },
+    {
+     "name": "Gugu Mbatha-Raw",
+     "character": "Zuzana",
+     "slug": "gugu-mbatha-raw",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
+    },
+    {
+     "name": "Elham Ehsas",
+     "character": "Rahim",
+     "slug": "elham-ehsas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mlOS34qKEVApg5VVLTBUzY8cftN.jpg"
+    },
+    {
+     "name": "Sam Worthington",
+     "character": "X",
+     "slug": "sam-worthington",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+    },
+    {
+     "name": "Shaun Mason",
+     "character": "Y",
+     "slug": "shaun-mason",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6JDlkUjE9tsWwLYbxoMStnYMMB4.jpg"
+    },
+    {
+     "name": "Nabil Elouahabi",
+     "character": "Z",
+     "slug": "nabil-elouahabi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gBWJGBBIWyAFv5rGv3hw3hwmEls.jpg"
+    },
+    {
+     "name": "Honor Swinton Byrne",
+     "character": "Clareese",
+     "slug": "honor-swinton-byrne",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/90w9RClgkcvu3pOavfj0ELuTFYW.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "David Mackenzie",
+       "slug": "david-mackenzie"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ben Hopkins",
+       "slug": "ben-hopkins"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Tony Doogan",
+       "slug": "tony-doogan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Giles Nuttgens",
+       "slug": "giles-nuttgens"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Gillian Berrie",
+       "slug": "gillian-berrie"
+      },
+      {
+       "name": "Sebastien Raybaud",
+       "slug": "sebastien-raybaud"
+      },
+      {
+       "name": "Callum Grant",
+       "slug": "callum-grant"
+      },
+      {
+       "name": "David Mackenzie",
+       "slug": "david-mackenzie"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Anton",
+     "slug": "anton",
+     "logo": "https://image.tmdb.org/t/p/w185/abFJGmtPFs6Bq5cBavmrnXDcpf8.png"
+    },
+    {
+     "name": "Sigma Films",
+     "slug": "sigma-films",
+     "logo": "https://image.tmdb.org/t/p/w185/mZJMAPElHQBIuWWXSyHtyaMf26C.png"
+    },
+    {
+     "name": "Sky",
+     "slug": "sky",
+     "logo": "https://image.tmdb.org/t/p/w185/8XjNmpBDZrMOoKRhA14wp1FLuvN.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-04-24": [
+     {
+      "id": 1089,
+      "title": "Achappas Album",
+      "img": "https://m.media-amazon.com/images/M/MV5BYzI1MzA5OGEtMmY2Mi00YjFkLTk0MTktNTNmOGQ0NzM0YjBhXkEyXkFqcGc@._V1_.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-04-24",
+     "gross": 14880,
+     "sold": 55,
+     "unsold": 270,
+     "shows": 2,
+     "occ": 16.92,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 14880,
+     "lastUpdatedAt": "2026-04-24 20:13:00"
+    },
+    {
+     "label": "2026-04-25",
+     "gross": 9490,
+     "sold": 36,
+     "unsold": 291,
+     "shows": 2,
+     "occ": 11.01,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 24370,
+     "lastUpdatedAt": "2026-04-25 20:13:00"
+    },
+    {
+     "label": "2026-04-26",
+     "gross": 14450,
+     "sold": 59,
+     "unsold": 268,
+     "shows": 2,
+     "occ": 18.04,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 38820,
+     "lastUpdatedAt": "2026-04-26 20:13:00"
+    },
+    {
+     "label": "2026-04-27",
+     "gross": 3020,
+     "sold": 15,
+     "unsold": 305,
+     "shows": 2,
+     "occ": 4.69,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 41840,
+     "lastUpdatedAt": "2026-04-27 16:48:00"
+    },
+    {
+     "label": "2026-04-28",
+     "gross": 6208,
+     "sold": 41,
+     "unsold": 281,
+     "shows": 2,
+     "occ": 12.73,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 48048,
+     "lastUpdatedAt": "2026-04-28 17:33:00"
+    },
+    {
+     "label": "2026-04-29",
+     "gross": 7200,
+     "sold": 32,
+     "unsold": 290,
+     "shows": 2,
+     "occ": 9.94,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 55248,
+     "lastUpdatedAt": "2026-04-29 17:33:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 55248,
+    "totalShows": 12,
+    "totalSeats": 1943,
+    "totalSold": 238,
+    "avgOcc": "12.2",
+    "totalDays": 6,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 14880,
+     "date": "2026-04-24"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 14880,
+     "date": "2026-04-24"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "6:7200:55248"
+  },
+  "week": {
+   "movie": {
+    "id": 1088,
+    "title": "Fuze",
+    "img": "https://image.tmdb.org/t/p/original/oWehDe6fFR4eUdUMDy4jz6XiinO.jpg",
+    "released": "2026-04-24",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31189814",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "96 min",
+    "genre": "Action, Crime, Drama, Thriller",
+    "plot": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
+    "released": "2025-09-05",
+    "director": "David Mackenzie",
+    "directorSlug": "david-mackenzie",
+    "actors": [
+     "Aaron Taylor-Johnson",
+     "Theo James",
+     "Gugu Mbatha-Raw",
+     "Elham Ehsas",
+     "Sam Worthington",
+     "Shaun Mason"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 18227,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.1",
+      "votes": 412,
+      "updatedAt": "2026-09-24T13:10:01.000Z"
+     },
+     "rt": "72%",
+     "metascore": 58,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aaron Taylor-Johnson",
+     "character": "Will",
+     "slug": "aaron-taylor-johnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pFtHhih2XEaFaD3qOFyQW6q83br.jpg"
+    },
+    {
+     "name": "Theo James",
+     "character": "Karalis",
+     "slug": "theo-james",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/g4yeW1EgIpyht0fy1stv7EXUmPC.jpg"
+    },
+    {
+     "name": "Gugu Mbatha-Raw",
+     "character": "Zuzana",
+     "slug": "gugu-mbatha-raw",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
+    },
+    {
+     "name": "Elham Ehsas",
+     "character": "Rahim",
+     "slug": "elham-ehsas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mlOS34qKEVApg5VVLTBUzY8cftN.jpg"
+    },
+    {
+     "name": "Sam Worthington",
+     "character": "X",
+     "slug": "sam-worthington",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+    },
+    {
+     "name": "Shaun Mason",
+     "character": "Y",
+     "slug": "shaun-mason",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6JDlkUjE9tsWwLYbxoMStnYMMB4.jpg"
+    },
+    {
+     "name": "Nabil Elouahabi",
+     "character": "Z",
+     "slug": "nabil-elouahabi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gBWJGBBIWyAFv5rGv3hw3hwmEls.jpg"
+    },
+    {
+     "name": "Honor Swinton Byrne",
+     "character": "Clareese",
+     "slug": "honor-swinton-byrne",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/90w9RClgkcvu3pOavfj0ELuTFYW.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "David Mackenzie",
+       "slug": "david-mackenzie"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ben Hopkins",
+       "slug": "ben-hopkins"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Tony Doogan",
+       "slug": "tony-doogan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Giles Nuttgens",
+       "slug": "giles-nuttgens"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Gillian Berrie",
+       "slug": "gillian-berrie"
+      },
+      {
+       "name": "Sebastien Raybaud",
+       "slug": "sebastien-raybaud"
+      },
+      {
+       "name": "Callum Grant",
+       "slug": "callum-grant"
+      },
+      {
+       "name": "David Mackenzie",
+       "slug": "david-mackenzie"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Anton",
+     "slug": "anton",
+     "logo": "https://image.tmdb.org/t/p/w185/abFJGmtPFs6Bq5cBavmrnXDcpf8.png"
+    },
+    {
+     "name": "Sigma Films",
+     "slug": "sigma-films",
+     "logo": "https://image.tmdb.org/t/p/w185/mZJMAPElHQBIuWWXSyHtyaMf26C.png"
+    },
+    {
+     "name": "Sky",
+     "slug": "sky",
+     "logo": "https://image.tmdb.org/t/p/w185/8XjNmpBDZrMOoKRhA14wp1FLuvN.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-04-24": [
+     {
+      "id": 1089,
+      "title": "Achappas Album",
+      "img": "https://m.media-amazon.com/images/M/MV5BYzI1MzA5OGEtMmY2Mi00YjFkLTk0MTktNTNmOGQ0NzM0YjBhXkEyXkFqcGc@._V1_.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-04-24",
+     "gross": 55248,
+     "sold": 238,
+     "unsold": 1705,
+     "shows": 12,
+     "occ": 12.25,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 55248,
+     "lastUpdatedAt": "2026-04-29 17:33:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 55248,
+    "totalShows": 12,
+    "totalSeats": 1943,
+    "totalSold": 238,
+    "avgOcc": "12.2",
+    "totalDays": 1,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 55248
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 55248
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "1:55248:55248"
+  },
+  "district": {
+   "movie": {
+    "id": 1088,
+    "title": "Fuze",
+    "img": "https://image.tmdb.org/t/p/original/oWehDe6fFR4eUdUMDy4jz6XiinO.jpg",
+    "released": "2026-04-24",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31189814",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "96 min",
+    "genre": "Action, Crime, Drama, Thriller",
+    "plot": "An unexploded WWII bomb is discovered on a busy construction site in the centre of London. Chaos ensues as the military and police begin a mass evacuation against a ticking clock.",
+    "released": "2025-09-05",
+    "director": "David Mackenzie",
+    "directorSlug": "david-mackenzie",
+    "actors": [
+     "Aaron Taylor-Johnson",
+     "Theo James",
+     "Gugu Mbatha-Raw",
+     "Elham Ehsas",
+     "Sam Worthington",
+     "Shaun Mason"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 18227,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.1",
+      "votes": 412,
+      "updatedAt": "2026-09-24T13:10:01.000Z"
+     },
+     "rt": "72%",
+     "metascore": 58,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aaron Taylor-Johnson",
+     "character": "Will",
+     "slug": "aaron-taylor-johnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pFtHhih2XEaFaD3qOFyQW6q83br.jpg"
+    },
+    {
+     "name": "Theo James",
+     "character": "Karalis",
+     "slug": "theo-james",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/g4yeW1EgIpyht0fy1stv7EXUmPC.jpg"
+    },
+    {
+     "name": "Gugu Mbatha-Raw",
+     "character": "Zuzana",
+     "slug": "gugu-mbatha-raw",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
+    },
+    {
+     "name": "Elham Ehsas",
+     "character": "Rahim",
+     "slug": "elham-ehsas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mlOS34qKEVApg5VVLTBUzY8cftN.jpg"
+    },
+    {
+     "name": "Sam Worthington",
+     "character": "X",
+     "slug": "sam-worthington",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+    },
+    {
+     "name": "Shaun Mason",
+     "character": "Y",
+     "slug": "shaun-mason",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6JDlkUjE9tsWwLYbxoMStnYMMB4.jpg"
+    },
+    {
+     "name": "Nabil Elouahabi",
+     "character": "Z",
+     "slug": "nabil-elouahabi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gBWJGBBIWyAFv5rGv3hw3hwmEls.jpg"
+    },
+    {
+     "name": "Honor Swinton Byrne",
+     "character": "Clareese",
+     "slug": "honor-swinton-byrne",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/90w9RClgkcvu3pOavfj0ELuTFYW.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "David Mackenzie",
+       "slug": "david-mackenzie"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ben Hopkins",
+       "slug": "ben-hopkins"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Tony Doogan",
+       "slug": "tony-doogan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Giles Nuttgens",
+       "slug": "giles-nuttgens"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Gillian Berrie",
+       "slug": "gillian-berrie"
+      },
+      {
+       "name": "Sebastien Raybaud",
+       "slug": "sebastien-raybaud"
+      },
+      {
+       "name": "Callum Grant",
+       "slug": "callum-grant"
+      },
+      {
+       "name": "David Mackenzie",
+       "slug": "david-mackenzie"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Anton",
+     "slug": "anton",
+     "logo": "https://image.tmdb.org/t/p/w185/abFJGmtPFs6Bq5cBavmrnXDcpf8.png"
+    },
+    {
+     "name": "Sigma Films",
+     "slug": "sigma-films",
+     "logo": "https://image.tmdb.org/t/p/w185/mZJMAPElHQBIuWWXSyHtyaMf26C.png"
+    },
+    {
+     "name": "Sky",
+     "slug": "sky",
+     "logo": "https://image.tmdb.org/t/p/w185/8XjNmpBDZrMOoKRhA14wp1FLuvN.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-04-24": [
+     {
+      "id": 1089,
+      "title": "Achappas Album",
+      "img": "https://m.media-amazon.com/images/M/MV5BYzI1MzA5OGEtMmY2Mi00YjFkLTk0MTktNTNmOGQ0NzM0YjBhXkEyXkFqcGc@._V1_.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 35892,
+     "sold": 143,
+     "unsold": 1070,
+     "shows": 6,
+     "occ": 11.79,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 35892,
+     "lastUpdatedAt": "2026-04-29 17:33:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 19356,
+     "sold": 95,
+     "unsold": 635,
+     "shows": 6,
+     "occ": 13.01,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 55248,
+     "lastUpdatedAt": "2026-04-29 16:23:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 55248,
+    "totalShows": 12,
+    "totalSeats": 1943,
+    "totalSold": 238,
+    "avgOcc": "12.2",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 35892,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 35892,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "2:19356:55248"
+  }
+ }
+}

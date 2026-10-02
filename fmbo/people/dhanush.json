@@ -1,0 +1,112 @@
+{
+ "slug": "dhanush",
+ "name": "Dhanush",
+ "source_url": "https://fridaymatinee.in/people/dhanush",
+ "captured_at": "2026-10-01T21:58:51.610882+00:00",
+ "person": {
+  "name": "Dhanush",
+  "photo": "https://image.tmdb.org/t/p/w185/34gv8DThQCh74oZQZe5zoDnaZrw.jpg",
+  "role": "Actor, director, producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 11
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 2
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 2
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 42,
+   "movie_slug": "enai-noki-paayum-thota",
+   "title": "Enai Noki Paayum Thota",
+   "year": 2019,
+   "kerala_gross": "₹11.3L"
+  },
+  {
+   "movie_id": 182,
+   "movie_slug": "thiruchitrambalam",
+   "title": "Thiruchitrambalam",
+   "year": 2022,
+   "kerala_gross": "₹47.5L"
+  },
+  {
+   "movie_id": 207,
+   "movie_slug": "naane-varuven",
+   "title": "Naane Varuven",
+   "year": 2022,
+   "kerala_gross": "₹31.8L"
+  },
+  {
+   "movie_id": 297,
+   "movie_slug": "vaathi",
+   "title": "Vaathi",
+   "year": 2023,
+   "kerala_gross": "₹50.3L"
+  },
+  {
+   "movie_id": 492,
+   "movie_slug": "captain-miller",
+   "title": "Captain Miller",
+   "year": 2024,
+   "kerala_gross": "₹3.3 Cr"
+  },
+  {
+   "movie_id": 547,
+   "movie_slug": "raayan",
+   "title": "Raayan",
+   "year": 2024,
+   "kerala_gross": "₹4.4 Cr"
+  },
+  {
+   "movie_id": 854,
+   "movie_slug": "idli-kadai",
+   "title": "Idli Kadai",
+   "year": 2025,
+   "kerala_gross": "₹80.6L"
+  },
+  {
+   "movie_id": 929,
+   "movie_slug": "tere-ishk-mein",
+   "title": "Tere Ishk Mein",
+   "year": 2025,
+   "kerala_gross": "₹41.3L"
+  },
+  {
+   "movie_id": 1084,
+   "movie_slug": "kara",
+   "title": "Kara",
+   "year": 2026,
+   "kerala_gross": "₹51.6L"
+  },
+  {
+   "movie_id": 1268,
+   "movie_slug": "om-chapter-1-udhiram-the-blood-wood",
+   "title": "OM Chapter 1: Udhiram - The Blood Wood",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 706,
+   "movie_slug": "kuberaa",
+   "title": "Kuberaa",
+   "year": 2025,
+   "kerala_gross": "₹99.0L"
+  }
+ ]
+}

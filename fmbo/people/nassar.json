@@ -1,0 +1,104 @@
+{
+ "slug": "nassar",
+ "name": "Nassar",
+ "source_url": "https://fridaymatinee.in/people/nassar",
+ "captured_at": "2026-10-02T00:53:15.795946+00:00",
+ "person": {
+  "name": "Nassar",
+  "photo": "https://image.tmdb.org/t/p/w185/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 12
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 31,
+   "movie_slug": "sangathamizhan",
+   "title": "Sangathamizhan",
+   "year": 2019,
+   "kerala_gross": "₹4.6L"
+  },
+  {
+   "movie_id": 64,
+   "movie_slug": "master",
+   "title": "Master",
+   "year": 2021,
+   "kerala_gross": "₹4.1 Cr"
+  },
+  {
+   "movie_id": 170,
+   "movie_slug": "legend",
+   "title": "Legend",
+   "year": 2022,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 415,
+   "movie_slug": "ramachandra-boss-and-co",
+   "title": "Ramachandra Boss And Co",
+   "year": 2023,
+   "kerala_gross": "₹2.8 Cr"
+  },
+  {
+   "movie_id": 678,
+   "movie_slug": "retro",
+   "title": "Retro",
+   "year": 2025,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 701,
+   "movie_slug": "thug-life",
+   "title": "Thug Life",
+   "year": 2025,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 731,
+   "movie_slug": "hari-hara-veera-mallu-part-1-sword-vs-spirit",
+   "title": "Hari Hara Veera Mallu - Part 1 Sword Vs Spirit",
+   "year": 2025,
+   "kerala_gross": "₹20.0L"
+  },
+  {
+   "movie_id": 892,
+   "movie_slug": "baahubali-the-epic",
+   "title": "Baahubali: The Epic",
+   "year": 2025,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 956,
+   "movie_slug": "jana-nayagan",
+   "title": "Jana Nayagan",
+   "year": 2026,
+   "kerala_gross": "₹15.5 Cr"
+  },
+  {
+   "movie_id": 1225,
+   "movie_slug": "vishwanath-and-sons",
+   "title": "Vishwanath and Sons",
+   "year": 2026,
+   "kerala_gross": "₹7.2 Cr"
+  },
+  {
+   "movie_id": 1276,
+   "movie_slug": "sardar-2",
+   "title": "Sardar 2",
+   "year": 2026,
+   "kerala_gross": "₹42.6L"
+  },
+  {
+   "movie_id": 1316,
+   "movie_slug": "meesaya-murukku-2",
+   "title": "Meesaya Murukku 2",
+   "year": 2026,
+   "kerala_gross": "₹25.6L"
+  }
+ ]
+}

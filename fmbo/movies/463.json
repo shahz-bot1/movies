@@ -1,0 +1,712 @@
+{
+ "id": 463,
+ "slug": "phoenix",
+ "source_url": "https://fridaymatinee.in/boxoffice/phoenix-463",
+ "captured_at": "2026-10-01T18:12:37.052670+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 463,
+    "title": "Phoenix",
+    "img": "https://image.tmdb.org/t/p/original/qWkRWeD0VsnjnQeQRcw1De4hC2G.jpg",
+    "released": "2023-11-17",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27664585",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "130 min",
+    "genre": "Thriller, Horror",
+    "plot": "John and his family relocate to a far away island village with hopes of rebuilding their lives. But destiny has other plans for them as a series of horrifying events begin to unfold.",
+    "released": "2023-11-17",
+    "director": "Vishnu Bharathan",
+    "directorSlug": "vishnu-bharathan",
+    "actors": [
+     "Aju Varghese",
+     "Chandhunadh",
+     "Anoop Menon",
+     "Nilja K. Baby",
+     "Bhagath Manuel",
+     "Zhinz Shan"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 1133,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aju Varghese",
+     "character": "Adv. John Williams",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Chandhunadh",
+     "character": "Freddy",
+     "slug": "chandhunadh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aVp12ZChrArtgkVu3PmxXWxYwy5.jpg"
+    },
+    {
+     "name": "Anoop Menon",
+     "character": "Fr. Francis",
+     "slug": "anoop-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bQTaoXeuG0Mf3GbwATsfdNFwzKN.jpg"
+    },
+    {
+     "name": "Nilja K. Baby",
+     "character": "Daisy",
+     "slug": "nilja-k-baby",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/otlxmUL1bthUNpbo0JZ1MZ6402c.jpg"
+    },
+    {
+     "name": "Bhagath Manuel",
+     "character": "Ameer",
+     "slug": "bhagath-manuel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wDDvr2aWeeYs6Oi8oFiLBBHlCJi.jpg"
+    },
+    {
+     "name": "Zhinz Shan",
+     "character": "Fr. Geo Kuttikadan",
+     "slug": "zhinz-shan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e2qrMKWAS01rpA2kl89UUz4VyBt.jpg"
+    },
+    {
+     "name": "Abhirami Bose",
+     "character": "Anna Rose",
+     "slug": "abhirami-bose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1VKnxaPYbvmRsSydhVCYZg5DwaL.jpg"
+    },
+    {
+     "name": "Asha Aravind",
+     "character": "Sister Aneetta",
+     "slug": "asha-aravind",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xy6Agu48YUyW9H9LdyHpN3bSAIe.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vishnu Bharathan",
+       "slug": "vishnu-bharathan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Midhun Manuel Thomas",
+       "slug": "midhun-manuel-thomas"
+      },
+      {
+       "name": "Vishnu Bharathan",
+       "slug": "vishnu-bharathan"
+      },
+      {
+       "name": "Bigil Balakrishnan",
+       "slug": "bigil-balakrishnan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Alby",
+       "slug": "alby"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nithish K.T.R",
+       "slug": "nithish-k-t-r"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Rinish K.N",
+       "slug": "rinish-k-n"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "The Front Row Productions",
+     "slug": "the-front-row-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2708,
+      "name": " AP International South Cinema Amazon Channel",
+      "logoPath": "/qe5IxHppN6JWNGf8xqSo2dgAbR4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 15581949.270000001,
+    "totalShows": 3186,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 2976680.2800000003,
+     "date": "2023-11-17"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2976680.2800000003,
+     "date": "2023-11-17"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-11-17"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 463,
+    "title": "Phoenix",
+    "img": "https://image.tmdb.org/t/p/original/qWkRWeD0VsnjnQeQRcw1De4hC2G.jpg",
+    "released": "2023-11-17",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27664585",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "130 min",
+    "genre": "Thriller, Horror",
+    "plot": "John and his family relocate to a far away island village with hopes of rebuilding their lives. But destiny has other plans for them as a series of horrifying events begin to unfold.",
+    "released": "2023-11-17",
+    "director": "Vishnu Bharathan",
+    "directorSlug": "vishnu-bharathan",
+    "actors": [
+     "Aju Varghese",
+     "Chandhunadh",
+     "Anoop Menon",
+     "Nilja K. Baby",
+     "Bhagath Manuel",
+     "Zhinz Shan"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 1133,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aju Varghese",
+     "character": "Adv. John Williams",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Chandhunadh",
+     "character": "Freddy",
+     "slug": "chandhunadh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aVp12ZChrArtgkVu3PmxXWxYwy5.jpg"
+    },
+    {
+     "name": "Anoop Menon",
+     "character": "Fr. Francis",
+     "slug": "anoop-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bQTaoXeuG0Mf3GbwATsfdNFwzKN.jpg"
+    },
+    {
+     "name": "Nilja K. Baby",
+     "character": "Daisy",
+     "slug": "nilja-k-baby",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/otlxmUL1bthUNpbo0JZ1MZ6402c.jpg"
+    },
+    {
+     "name": "Bhagath Manuel",
+     "character": "Ameer",
+     "slug": "bhagath-manuel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wDDvr2aWeeYs6Oi8oFiLBBHlCJi.jpg"
+    },
+    {
+     "name": "Zhinz Shan",
+     "character": "Fr. Geo Kuttikadan",
+     "slug": "zhinz-shan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e2qrMKWAS01rpA2kl89UUz4VyBt.jpg"
+    },
+    {
+     "name": "Abhirami Bose",
+     "character": "Anna Rose",
+     "slug": "abhirami-bose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1VKnxaPYbvmRsSydhVCYZg5DwaL.jpg"
+    },
+    {
+     "name": "Asha Aravind",
+     "character": "Sister Aneetta",
+     "slug": "asha-aravind",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xy6Agu48YUyW9H9LdyHpN3bSAIe.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vishnu Bharathan",
+       "slug": "vishnu-bharathan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Midhun Manuel Thomas",
+       "slug": "midhun-manuel-thomas"
+      },
+      {
+       "name": "Vishnu Bharathan",
+       "slug": "vishnu-bharathan"
+      },
+      {
+       "name": "Bigil Balakrishnan",
+       "slug": "bigil-balakrishnan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Alby",
+       "slug": "alby"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nithish K.T.R",
+       "slug": "nithish-k-t-r"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Rinish K.N",
+       "slug": "rinish-k-n"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "The Front Row Productions",
+     "slug": "the-front-row-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2708,
+      "name": " AP International South Cinema Amazon Channel",
+      "logoPath": "/qe5IxHppN6JWNGf8xqSo2dgAbR4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-11-17",
+     "gross": 11881974.679999996,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2177,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-11-24",
+     "gross": 3699974.5900000012,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1008,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-12-01",
+     "gross": 0,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 15581949.269999998,
+    "totalShows": 3186,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 11881974.679999996
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 11881974.679999996
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-11-17"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 463,
+    "title": "Phoenix",
+    "img": "https://image.tmdb.org/t/p/original/qWkRWeD0VsnjnQeQRcw1De4hC2G.jpg",
+    "released": "2023-11-17",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27664585",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "130 min",
+    "genre": "Thriller, Horror",
+    "plot": "John and his family relocate to a far away island village with hopes of rebuilding their lives. But destiny has other plans for them as a series of horrifying events begin to unfold.",
+    "released": "2023-11-17",
+    "director": "Vishnu Bharathan",
+    "directorSlug": "vishnu-bharathan",
+    "actors": [
+     "Aju Varghese",
+     "Chandhunadh",
+     "Anoop Menon",
+     "Nilja K. Baby",
+     "Bhagath Manuel",
+     "Zhinz Shan"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 1133,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aju Varghese",
+     "character": "Adv. John Williams",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Chandhunadh",
+     "character": "Freddy",
+     "slug": "chandhunadh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aVp12ZChrArtgkVu3PmxXWxYwy5.jpg"
+    },
+    {
+     "name": "Anoop Menon",
+     "character": "Fr. Francis",
+     "slug": "anoop-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bQTaoXeuG0Mf3GbwATsfdNFwzKN.jpg"
+    },
+    {
+     "name": "Nilja K. Baby",
+     "character": "Daisy",
+     "slug": "nilja-k-baby",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/otlxmUL1bthUNpbo0JZ1MZ6402c.jpg"
+    },
+    {
+     "name": "Bhagath Manuel",
+     "character": "Ameer",
+     "slug": "bhagath-manuel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wDDvr2aWeeYs6Oi8oFiLBBHlCJi.jpg"
+    },
+    {
+     "name": "Zhinz Shan",
+     "character": "Fr. Geo Kuttikadan",
+     "slug": "zhinz-shan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e2qrMKWAS01rpA2kl89UUz4VyBt.jpg"
+    },
+    {
+     "name": "Abhirami Bose",
+     "character": "Anna Rose",
+     "slug": "abhirami-bose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1VKnxaPYbvmRsSydhVCYZg5DwaL.jpg"
+    },
+    {
+     "name": "Asha Aravind",
+     "character": "Sister Aneetta",
+     "slug": "asha-aravind",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xy6Agu48YUyW9H9LdyHpN3bSAIe.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vishnu Bharathan",
+       "slug": "vishnu-bharathan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Midhun Manuel Thomas",
+       "slug": "midhun-manuel-thomas"
+      },
+      {
+       "name": "Vishnu Bharathan",
+       "slug": "vishnu-bharathan"
+      },
+      {
+       "name": "Bigil Balakrishnan",
+       "slug": "bigil-balakrishnan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Alby",
+       "slug": "alby"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nithish K.T.R",
+       "slug": "nithish-k-t-r"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Rinish K.N",
+       "slug": "rinish-k-n"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "The Front Row Productions",
+     "slug": "the-front-row-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2708,
+      "name": " AP International South Cinema Amazon Channel",
+      "logoPath": "/qe5IxHppN6JWNGf8xqSo2dgAbR4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 15581949.270000001,
+    "totalShows": 3186,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 4748452,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4748452,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-11-17"
+   }
+  }
+ }
+}

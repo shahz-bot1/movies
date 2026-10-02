@@ -1,0 +1,41 @@
+{
+ "slug": "r-ramar",
+ "name": "R. Ramar",
+ "source_url": "https://fridaymatinee.in/people/r-ramar",
+ "captured_at": "2026-10-02T06:35:15.259878+00:00",
+ "person": {
+  "name": "R. Ramar",
+  "photo": null,
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 316,
+   "movie_slug": "viduthalai-part-1",
+   "title": "Viduthalai Part 1",
+   "year": 2023,
+   "kerala_gross": "₹86.9L"
+  },
+  {
+   "movie_id": 618,
+   "movie_slug": "viduthalai-part-2",
+   "title": "Viduthalai Part - 2",
+   "year": 2024,
+   "kerala_gross": "₹66.7L"
+  },
+  {
+   "movie_id": 921,
+   "movie_slug": "mask",
+   "title": "Mask",
+   "year": 2025,
+   "kerala_gross": "₹3.6L"
+  }
+ ]
+}

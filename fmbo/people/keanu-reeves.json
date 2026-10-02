@@ -1,0 +1,48 @@
+{
+ "slug": "keanu-reeves",
+ "name": "Keanu Reeves",
+ "source_url": "https://fridaymatinee.in/people/keanu-reeves",
+ "captured_at": "2026-10-01T23:44:13.999283+00:00",
+ "person": {
+  "name": "Keanu Reeves",
+  "photo": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 310,
+   "movie_slug": "john-wick-chapter-4",
+   "title": "John Wick Chapter 4",
+   "year": 2023,
+   "kerala_gross": "₹3.7 Cr"
+  },
+  {
+   "movie_id": 603,
+   "movie_slug": "sonic-the-hedgehog-3",
+   "title": "Sonic the Hedgehog 3",
+   "year": 2025,
+   "kerala_gross": "₹30.5L"
+  },
+  {
+   "movie_id": 727,
+   "movie_slug": "from-the-world-of-john-wick-ballerina",
+   "title": "From The World Of John Wick Ballerina",
+   "year": 2025,
+   "kerala_gross": "₹66.8L"
+  },
+  {
+   "movie_id": 870,
+   "movie_slug": "good-fortune",
+   "title": "Good Fortune",
+   "year": 2025,
+   "kerala_gross": "₹47K"
+  }
+ ]
+}

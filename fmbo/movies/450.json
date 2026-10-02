@@ -1,0 +1,320 @@
+{
+ "id": 450,
+ "slug": "bandra",
+ "source_url": "https://fridaymatinee.in/boxoffice/bandra-450",
+ "captured_at": "2026-10-01T18:12:18.352090+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 450,
+    "title": "Bandra",
+    "img": "https://image.tmdb.org/t/p/original/k5gnPQBFThLWRr4SzOzgl6mXSWz.jpg",
+    "released": "2023-11-10",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21990434",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "155 min",
+    "genre": "Action, Drama, Thriller",
+    "plot": "A woman uncovers a dark tale when she investigates the mysterious death of a famous actress.",
+    "released": "2023-11-10",
+    "director": "Arun Gopy",
+    "directorSlug": "arun-gopy",
+    "actors": [
+     "Dileep",
+     "Tamannaah Bhatia",
+     "Mamta Mohandas",
+     "R. Sarathkumar",
+     "Dino Morea",
+     "Lenaa"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.3",
+      "votes": 962,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dileep",
+     "character": "Aalan / Alexander Dominic",
+     "slug": "dileep",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5DirIZGTvLfBJOt2zOfBlb0bIsz.jpg"
+    },
+    {
+     "name": "Tamannaah Bhatia",
+     "character": "Tara Janaki",
+     "slug": "tamannaah-bhatia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/t4WYoKiFAyO1Rhjv7O03EKmJHp4.jpg"
+    },
+    {
+     "name": "Mamta Mohandas",
+     "character": "Sakshi",
+     "slug": "mamta-mohandas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ce9B8AG0IN77F9GR3b8gj13CP1q.jpg"
+    },
+    {
+     "name": "R. Sarathkumar",
+     "character": "Veera Raghavan IPS",
+     "slug": "r-sarathkumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x2Bx2mxOvgvRzaLFlpKNGmKYkK2.jpg"
+    },
+    {
+     "name": "Dino Morea",
+     "character": "Raghavendra Desai",
+     "slug": "dino-morea",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/76sUAgf1NYDEPNqED647RgkcsQX.jpg"
+    },
+    {
+     "name": "Lenaa",
+     "character": "Hemaji",
+     "slug": "lenaa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1qugxYSQRahuBfk8Nh6g3Qq2MAS.jpg"
+    },
+    {
+     "name": "Easwari Rao",
+     "character": "Rosamma",
+     "slug": "easwari-rao",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fjyvQ45YZcovy2Egj2eux8UiuHU.jpg"
+    },
+    {
+     "name": "Rajveer Ankur Singh",
+     "character": "Bala",
+     "slug": "rajveer-ankur-singh",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Arun Gopy",
+       "slug": "arun-gopy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Uday Krishna",
+       "slug": "uday-krishna"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shaji Kumar",
+       "slug": "shaji-kumar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vivek Harshan",
+       "slug": "vivek-harshan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ajith Vinayaka",
+       "slug": "ajith-vinayaka"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ajith Vinayaka Films Pvt Ltd",
+     "slug": "ajith-vinayaka-films-pvt-ltd",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 28667962.909999996,
+    "totalShows": 4540,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 9680489.019999998,
+     "date": "2023-11-10"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 9680489.019999998,
+     "date": "2023-11-10"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 76,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-11-10"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 450,
+    "title": "Bandra",
+    "img": "https://image.tmdb.org/t/p/original/k5gnPQBFThLWRr4SzOzgl6mXSWz.jpg",
+    "released": "2023-11-10",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21990434",
+    "isRerelease": false
+   },
+   "omdb": "$e:1:props:allViews:date:omdb",
+   "cast": "$e:1:props:allViews:date:cast",
+   "crew": "$e:1:props:allViews:date:crew",
+   "companies": "$e:1:props:allViews:date:companies",
+   "ott": "$e:1:props:allViews:date:ott",
+   "boxoffice": [
+    {
+     "label": "2023-11-10",
+     "gross": 27086408.43,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3727,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-11-17",
+     "gross": 1572624.4800000002,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 806,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-11-24",
+     "gross": 8930,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 7,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 28667962.91,
+    "totalShows": 4540,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 27086408.43,
+     "date": "$undefined"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 27086408.43,
+     "date": "$undefined"
+    },
+    "chartPosition": "$e:1:props:allViews:date:summary:chartPosition"
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-11-10"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 450,
+    "title": "Bandra",
+    "img": "https://image.tmdb.org/t/p/original/k5gnPQBFThLWRr4SzOzgl6mXSWz.jpg",
+    "released": "2023-11-10",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21990434",
+    "isRerelease": false
+   },
+   "omdb": "$e:1:props:allViews:date:omdb",
+   "cast": "$e:1:props:allViews:date:cast",
+   "crew": "$e:1:props:allViews:date:crew",
+   "companies": "$e:1:props:allViews:date:companies",
+   "ott": "$e:1:props:allViews:date:ott",
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 28667962.91,
+    "totalShows": 4540,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 6530245,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 6530245,
+     "date": "Ernakulam"
+    },
+    "chartPosition": "$e:1:props:allViews:date:summary:chartPosition"
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-11-10"
+   }
+  }
+ }
+}

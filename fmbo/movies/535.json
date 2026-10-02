@@ -1,0 +1,631 @@
+{
+ "id": 535,
+ "slug": "indian-2",
+ "source_url": "https://fridaymatinee.in/boxoffice/indian-2-535",
+ "captured_at": "2026-10-01T18:14:46.058438+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 535,
+    "title": "Indian 2",
+    "img": "https://image.tmdb.org/t/p/original/yHjeWoUcnWpnMDuNXOpVQP7cep1.jpg",
+    "released": "2024-07-12",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt8066940",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "178 min",
+    "genre": "Drama, Action, Thriller",
+    "plot": "As corruption becomes rampant in the country, a group of idealistic youngsters attract attention of freedom fighter-turned-vigilante Senapathy through social media, who returns to his homeland to finish what he started.",
+    "released": "2024-07-12",
+    "director": "Shankar",
+    "directorSlug": "shankar",
+    "actors": [
+     "Kamal Haasan",
+     "Siddharth",
+     "Priya Bhavani Shankar",
+     "Jagan",
+     "Rishikanth",
+     "Bobby Simha"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.7",
+      "votes": 17156,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "15%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kamal Haasan",
+     "character": "Veerasekaran Senapathy",
+     "slug": "kamal-haasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lKzmFToG07dhOZpb5inh0nUsRUZ.jpg"
+    },
+    {
+     "name": "Siddharth",
+     "character": "Chitra Aravindhan",
+     "slug": "siddharth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9XrTuJp9lnB1rsBPzTaoXdp1ig8.jpg"
+    },
+    {
+     "name": "Priya Bhavani Shankar",
+     "character": "Aarthi Thangavel",
+     "slug": "priya-bhavani-shankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sX5Ue02f5kzOzVCa0R3dV2yPRmO.jpg"
+    },
+    {
+     "name": "Jagan",
+     "character": "Thambesh",
+     "slug": "jagan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wAZ9meXcyG0dBQFEshgspUIRNIH.jpg"
+    },
+    {
+     "name": "Rishikanth",
+     "character": "Harish",
+     "slug": "rishikanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/psIJLUWAZ106KsWnpa4oqJjSuzu.jpg"
+    },
+    {
+     "name": "Bobby Simha",
+     "character": "Pramod Krishnaswamy",
+     "slug": "bobby-simha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4luN7NwlKvenAkSDwjzZeWpWuoP.jpg"
+    },
+    {
+     "name": "Vivek",
+     "character": "Elango",
+     "slug": "vivek",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z4fZ22hnBz6W8mBNDvhtFbJErmK.jpg"
+    },
+    {
+     "name": "Nedumudi Venu",
+     "character": "Krishnasamy",
+     "slug": "nedumudi-venu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d1MdSwIWnTNwk4qSxQ001GqZaaB.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Shankar",
+       "slug": "shankar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shankar",
+       "slug": "shankar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ravi Varman",
+       "slug": "ravi-varman"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreekar Prasad",
+       "slug": "sreekar-prasad"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Allirajah Subaskaran",
+       "slug": "allirajah-subaskaran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lyca Productions",
+     "slug": "lyca-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/clz3r0SYNudiGRB10yjvU9ZSgP8.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-08-10",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 44670547.00000001,
+    "totalShows": 7645,
+    "totalDays": 16,
+    "openingDay": {
+     "day": 1,
+     "gross": 20106745.4,
+     "date": "2024-07-12"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 20106745.4,
+     "date": "2024-07-12"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 78,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-07-12"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 535,
+    "title": "Indian 2",
+    "img": "https://image.tmdb.org/t/p/original/yHjeWoUcnWpnMDuNXOpVQP7cep1.jpg",
+    "released": "2024-07-12",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt8066940",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "178 min",
+    "genre": "Drama, Action, Thriller",
+    "plot": "As corruption becomes rampant in the country, a group of idealistic youngsters attract attention of freedom fighter-turned-vigilante Senapathy through social media, who returns to his homeland to finish what he started.",
+    "released": "2024-07-12",
+    "director": "Shankar",
+    "directorSlug": "shankar",
+    "actors": [
+     "Kamal Haasan",
+     "Siddharth",
+     "Priya Bhavani Shankar",
+     "Jagan",
+     "Rishikanth",
+     "Bobby Simha"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.7",
+      "votes": 17156,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "15%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kamal Haasan",
+     "character": "Veerasekaran Senapathy",
+     "slug": "kamal-haasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lKzmFToG07dhOZpb5inh0nUsRUZ.jpg"
+    },
+    {
+     "name": "Siddharth",
+     "character": "Chitra Aravindhan",
+     "slug": "siddharth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9XrTuJp9lnB1rsBPzTaoXdp1ig8.jpg"
+    },
+    {
+     "name": "Priya Bhavani Shankar",
+     "character": "Aarthi Thangavel",
+     "slug": "priya-bhavani-shankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sX5Ue02f5kzOzVCa0R3dV2yPRmO.jpg"
+    },
+    {
+     "name": "Jagan",
+     "character": "Thambesh",
+     "slug": "jagan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wAZ9meXcyG0dBQFEshgspUIRNIH.jpg"
+    },
+    {
+     "name": "Rishikanth",
+     "character": "Harish",
+     "slug": "rishikanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/psIJLUWAZ106KsWnpa4oqJjSuzu.jpg"
+    },
+    {
+     "name": "Bobby Simha",
+     "character": "Pramod Krishnaswamy",
+     "slug": "bobby-simha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4luN7NwlKvenAkSDwjzZeWpWuoP.jpg"
+    },
+    {
+     "name": "Vivek",
+     "character": "Elango",
+     "slug": "vivek",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z4fZ22hnBz6W8mBNDvhtFbJErmK.jpg"
+    },
+    {
+     "name": "Nedumudi Venu",
+     "character": "Krishnasamy",
+     "slug": "nedumudi-venu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d1MdSwIWnTNwk4qSxQ001GqZaaB.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Shankar",
+       "slug": "shankar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shankar",
+       "slug": "shankar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ravi Varman",
+       "slug": "ravi-varman"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreekar Prasad",
+       "slug": "sreekar-prasad"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Allirajah Subaskaran",
+       "slug": "allirajah-subaskaran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lyca Productions",
+     "slug": "lyca-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/clz3r0SYNudiGRB10yjvU9ZSgP8.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-08-10",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-07-12",
+     "gross": 41872229.4,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 6617,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-07-19",
+     "gross": 2780277.6,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1026,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-07-26",
+     "gross": 18040,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 44670547,
+    "totalShows": 7645,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 41872229.4
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 41872229.4
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 78,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-07-12"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 535,
+    "title": "Indian 2",
+    "img": "https://image.tmdb.org/t/p/original/yHjeWoUcnWpnMDuNXOpVQP7cep1.jpg",
+    "released": "2024-07-12",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt8066940",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "178 min",
+    "genre": "Drama, Action, Thriller",
+    "plot": "As corruption becomes rampant in the country, a group of idealistic youngsters attract attention of freedom fighter-turned-vigilante Senapathy through social media, who returns to his homeland to finish what he started.",
+    "released": "2024-07-12",
+    "director": "Shankar",
+    "directorSlug": "shankar",
+    "actors": [
+     "Kamal Haasan",
+     "Siddharth",
+     "Priya Bhavani Shankar",
+     "Jagan",
+     "Rishikanth",
+     "Bobby Simha"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.7",
+      "votes": 17156,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "15%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kamal Haasan",
+     "character": "Veerasekaran Senapathy",
+     "slug": "kamal-haasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lKzmFToG07dhOZpb5inh0nUsRUZ.jpg"
+    },
+    {
+     "name": "Siddharth",
+     "character": "Chitra Aravindhan",
+     "slug": "siddharth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9XrTuJp9lnB1rsBPzTaoXdp1ig8.jpg"
+    },
+    {
+     "name": "Priya Bhavani Shankar",
+     "character": "Aarthi Thangavel",
+     "slug": "priya-bhavani-shankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sX5Ue02f5kzOzVCa0R3dV2yPRmO.jpg"
+    },
+    {
+     "name": "Jagan",
+     "character": "Thambesh",
+     "slug": "jagan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wAZ9meXcyG0dBQFEshgspUIRNIH.jpg"
+    },
+    {
+     "name": "Rishikanth",
+     "character": "Harish",
+     "slug": "rishikanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/psIJLUWAZ106KsWnpa4oqJjSuzu.jpg"
+    },
+    {
+     "name": "Bobby Simha",
+     "character": "Pramod Krishnaswamy",
+     "slug": "bobby-simha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4luN7NwlKvenAkSDwjzZeWpWuoP.jpg"
+    },
+    {
+     "name": "Vivek",
+     "character": "Elango",
+     "slug": "vivek",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z4fZ22hnBz6W8mBNDvhtFbJErmK.jpg"
+    },
+    {
+     "name": "Nedumudi Venu",
+     "character": "Krishnasamy",
+     "slug": "nedumudi-venu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d1MdSwIWnTNwk4qSxQ001GqZaaB.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Shankar",
+       "slug": "shankar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shankar",
+       "slug": "shankar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ravi Varman",
+       "slug": "ravi-varman"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreekar Prasad",
+       "slug": "sreekar-prasad"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Allirajah Subaskaran",
+       "slug": "allirajah-subaskaran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lyca Productions",
+     "slug": "lyca-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/clz3r0SYNudiGRB10yjvU9ZSgP8.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-08-10",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 44670547,
+    "totalShows": 7645,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 11879871,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 11879871,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 78,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-07-12"
+   }
+  }
+ }
+}

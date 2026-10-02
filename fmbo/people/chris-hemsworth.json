@@ -1,0 +1,60 @@
+{
+ "slug": "chris-hemsworth",
+ "name": "Chris Hemsworth",
+ "source_url": "https://fridaymatinee.in/people/chris-hemsworth",
+ "captured_at": "2026-10-01T21:36:04.442734+00:00",
+ "person": {
+  "name": "Chris Hemsworth",
+  "photo": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 158,
+   "movie_slug": "thor-love-and-thunder",
+   "title": "Thor Love and Thunder",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 520,
+   "movie_slug": "furiosa-a-mad-max-saga",
+   "title": "Furiosa: A Mad Max Saga",
+   "year": 2024,
+   "kerala_gross": "₹49.4L"
+  },
+  {
+   "movie_id": 1007,
+   "movie_slug": "crime-101",
+   "title": "Crime 101",
+   "year": 2026,
+   "kerala_gross": "₹9.7L"
+  },
+  {
+   "movie_id": 1288,
+   "movie_slug": "avengers-endgame-encore",
+   "title": "Avengers Endgame: Encore",
+   "year": 2026,
+   "kerala_gross": "₹2.3 Cr"
+  },
+  {
+   "movie_id": 794,
+   "movie_slug": "avengers-doomsday",
+   "title": "Avengers: Doomsday",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

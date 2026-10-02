@@ -1,0 +1,41 @@
+{
+ "slug": "kalyan-kumar",
+ "name": "Kalyan Kumar",
+ "source_url": "https://fridaymatinee.in/people/kalyan-kumar",
+ "captured_at": "2026-10-01T23:37:48.701438+00:00",
+ "person": {
+  "name": "Kalyan Kumar",
+  "photo": "https://image.tmdb.org/t/p/w185/nCUClpez9E3FnqwevCn9r3VZvJK.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 800,
+   "movie_slug": "indra",
+   "title": "Indra",
+   "year": 2025,
+   "kerala_gross": "₹6.0L"
+  },
+  {
+   "movie_id": 826,
+   "movie_slug": "kiss",
+   "title": "Kiss",
+   "year": 2025,
+   "kerala_gross": "₹1.3L"
+  },
+  {
+   "movie_id": 928,
+   "movie_slug": "revolver-rita",
+   "title": "Revolver Rita",
+   "year": 2025,
+   "kerala_gross": "₹6.0L"
+  }
+ ]
+}

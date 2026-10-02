@@ -1,0 +1,555 @@
+{
+ "id": 26,
+ "slug": "under-world",
+ "source_url": "https://fridaymatinee.in/boxoffice/under-world-26",
+ "captured_at": "2026-10-01T17:57:22.007597+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 26,
+    "title": "Under World",
+    "img": "https://image.tmdb.org/t/p/original/caKoHzZpuqy2f4Am52nRsnLwvr1.jpg",
+    "released": "2019-11-01",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt9274994",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "160 min",
+    "genre": "Crime",
+    "plot": "Stalin and Majeed want to earn quick money through any means possible. However, things take a turn when they cross paths with Padmanabhan and Solomon.",
+    "released": "2019-11-01",
+    "director": "Arun Kumar Aravind",
+    "directorSlug": "arun-kumar-aravind",
+    "actors": [
+     "Asif Ali",
+     "Farhaan Faasil",
+     "Mukesh",
+     "Samyuktha",
+     "Lal Jr.",
+     "Nishanth Sagar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.6",
+      "votes": 467,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:11:03.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Asif Ali",
+     "character": "Stalin John",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Farhaan Faasil",
+     "character": "Majeed Abdul Rahim",
+     "slug": "farhaan-faasil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sXdUWl3P07h3LbvguzORYuSkyZ2.jpg"
+    },
+    {
+     "name": "Mukesh",
+     "character": "Padmanabhan Nair",
+     "slug": "mukesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zFdvuL90ek2U32lJdGM9ePZA8jC.jpg"
+    },
+    {
+     "name": "Samyuktha",
+     "character": "Aishwarya",
+     "slug": "samyuktha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lyH5eDTwTTRzqaBaDd5qdUrlAmO.jpg"
+    },
+    {
+     "name": "Lal Jr.",
+     "character": "Solomon",
+     "slug": "lal-jr",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2QoAFcXlCwZNlYy6gTr3S2GY39o.jpg"
+    },
+    {
+     "name": "Nishanth Sagar",
+     "character": "Mani",
+     "slug": "nishanth-sagar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s8uiq88RmHzQ73n0noDCdMCZGyj.jpg"
+    },
+    {
+     "name": "Meghanathan",
+     "character": "Shahul Hameed",
+     "slug": "meghanathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dHN1gtw6XjsB9XZ5m91xbVQ5Mku.jpg"
+    },
+    {
+     "name": "Arun",
+     "character": "Sadasivan",
+     "slug": "arun",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eCeMZszcSFwCvyacaB6Stfj6gZZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Arun Kumar Aravind",
+       "slug": "arun-kumar-aravind"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shibin Francis",
+       "slug": "shibin-francis"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Neha Nair",
+       "slug": "neha-nair"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3593689,
+    "totalShows": 870,
+    "totalDays": 13,
+    "openingDay": {
+     "day": 1,
+     "gross": 1013876,
+     "date": "2019-11-01"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1013876,
+     "date": "2019-11-01"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 2,
+     "peak_position": 9,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-01"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 26,
+    "title": "Under World",
+    "img": "https://image.tmdb.org/t/p/original/caKoHzZpuqy2f4Am52nRsnLwvr1.jpg",
+    "released": "2019-11-01",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt9274994",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "160 min",
+    "genre": "Crime",
+    "plot": "Stalin and Majeed want to earn quick money through any means possible. However, things take a turn when they cross paths with Padmanabhan and Solomon.",
+    "released": "2019-11-01",
+    "director": "Arun Kumar Aravind",
+    "directorSlug": "arun-kumar-aravind",
+    "actors": [
+     "Asif Ali",
+     "Farhaan Faasil",
+     "Mukesh",
+     "Samyuktha",
+     "Lal Jr.",
+     "Nishanth Sagar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.6",
+      "votes": 467,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:11:03.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Asif Ali",
+     "character": "Stalin John",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Farhaan Faasil",
+     "character": "Majeed Abdul Rahim",
+     "slug": "farhaan-faasil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sXdUWl3P07h3LbvguzORYuSkyZ2.jpg"
+    },
+    {
+     "name": "Mukesh",
+     "character": "Padmanabhan Nair",
+     "slug": "mukesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zFdvuL90ek2U32lJdGM9ePZA8jC.jpg"
+    },
+    {
+     "name": "Samyuktha",
+     "character": "Aishwarya",
+     "slug": "samyuktha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lyH5eDTwTTRzqaBaDd5qdUrlAmO.jpg"
+    },
+    {
+     "name": "Lal Jr.",
+     "character": "Solomon",
+     "slug": "lal-jr",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2QoAFcXlCwZNlYy6gTr3S2GY39o.jpg"
+    },
+    {
+     "name": "Nishanth Sagar",
+     "character": "Mani",
+     "slug": "nishanth-sagar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s8uiq88RmHzQ73n0noDCdMCZGyj.jpg"
+    },
+    {
+     "name": "Meghanathan",
+     "character": "Shahul Hameed",
+     "slug": "meghanathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dHN1gtw6XjsB9XZ5m91xbVQ5Mku.jpg"
+    },
+    {
+     "name": "Arun",
+     "character": "Sadasivan",
+     "slug": "arun",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eCeMZszcSFwCvyacaB6Stfj6gZZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Arun Kumar Aravind",
+       "slug": "arun-kumar-aravind"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shibin Francis",
+       "slug": "shibin-francis"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Neha Nair",
+       "slug": "neha-nair"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2019-11-01",
+     "gross": 3506542,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 833,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-11-08",
+     "gross": 87147,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 37,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3593689,
+    "totalShows": 870,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 3506542
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3506542
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 2,
+     "peak_position": 9,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-01"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 26,
+    "title": "Under World",
+    "img": "https://image.tmdb.org/t/p/original/caKoHzZpuqy2f4Am52nRsnLwvr1.jpg",
+    "released": "2019-11-01",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt9274994",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "160 min",
+    "genre": "Crime",
+    "plot": "Stalin and Majeed want to earn quick money through any means possible. However, things take a turn when they cross paths with Padmanabhan and Solomon.",
+    "released": "2019-11-01",
+    "director": "Arun Kumar Aravind",
+    "directorSlug": "arun-kumar-aravind",
+    "actors": [
+     "Asif Ali",
+     "Farhaan Faasil",
+     "Mukesh",
+     "Samyuktha",
+     "Lal Jr.",
+     "Nishanth Sagar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.6",
+      "votes": 467,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:11:03.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Asif Ali",
+     "character": "Stalin John",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Farhaan Faasil",
+     "character": "Majeed Abdul Rahim",
+     "slug": "farhaan-faasil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sXdUWl3P07h3LbvguzORYuSkyZ2.jpg"
+    },
+    {
+     "name": "Mukesh",
+     "character": "Padmanabhan Nair",
+     "slug": "mukesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zFdvuL90ek2U32lJdGM9ePZA8jC.jpg"
+    },
+    {
+     "name": "Samyuktha",
+     "character": "Aishwarya",
+     "slug": "samyuktha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lyH5eDTwTTRzqaBaDd5qdUrlAmO.jpg"
+    },
+    {
+     "name": "Lal Jr.",
+     "character": "Solomon",
+     "slug": "lal-jr",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2QoAFcXlCwZNlYy6gTr3S2GY39o.jpg"
+    },
+    {
+     "name": "Nishanth Sagar",
+     "character": "Mani",
+     "slug": "nishanth-sagar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s8uiq88RmHzQ73n0noDCdMCZGyj.jpg"
+    },
+    {
+     "name": "Meghanathan",
+     "character": "Shahul Hameed",
+     "slug": "meghanathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dHN1gtw6XjsB9XZ5m91xbVQ5Mku.jpg"
+    },
+    {
+     "name": "Arun",
+     "character": "Sadasivan",
+     "slug": "arun",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eCeMZszcSFwCvyacaB6Stfj6gZZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Arun Kumar Aravind",
+       "slug": "arun-kumar-aravind"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shibin Francis",
+       "slug": "shibin-francis"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Neha Nair",
+       "slug": "neha-nair"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3593689,
+    "totalShows": 870,
+    "totalDays": 10,
+    "openingDay": {
+     "day": 1,
+     "gross": 1347235,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1347235,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 2,
+     "peak_position": 9,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-01"
+   }
+  }
+ }
+}

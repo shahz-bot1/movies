@@ -1,0 +1,55 @@
+{
+ "slug": "kotagiri-venkateswara-rao",
+ "name": "Kotagiri Venkateswara Rao",
+ "source_url": "https://fridaymatinee.in/people/kotagiri-venkateswara-rao",
+ "captured_at": "2026-10-01T23:50:54.704497+00:00",
+ "person": {
+  "name": "Kotagiri Venkateswara Rao",
+  "photo": "https://image.tmdb.org/t/p/w185/3oTREXmvPlgnEO9vvMxRLIItSbn.jpg",
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 173,
+   "movie_slug": "sita-ramam",
+   "title": "Sita Ramam",
+   "year": 2022,
+   "kerala_gross": "₹5.0 Cr"
+  },
+  {
+   "movie_id": 527,
+   "movie_slug": "kalki-2898-ad",
+   "title": "Kalki 2898 AD",
+   "year": 2024,
+   "kerala_gross": "₹26.7 Cr"
+  },
+  {
+   "movie_id": 892,
+   "movie_slug": "baahubali-the-epic",
+   "title": "Baahubali: The Epic",
+   "year": 2025,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 957,
+   "movie_slug": "the-rajasaab",
+   "title": "The Rajasaab",
+   "year": 2026,
+   "kerala_gross": "₹61K"
+  },
+  {
+   "movie_id": 1075,
+   "movie_slug": "bad-boy-karthik",
+   "title": "Bad Boy Karthik",
+   "year": 2026,
+   "kerala_gross": "₹3K"
+  }
+ ]
+}

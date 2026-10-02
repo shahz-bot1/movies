@@ -1,0 +1,578 @@
+{
+ "id": 155,
+ "slug": "ullasam",
+ "source_url": "https://fridaymatinee.in/boxoffice/ullasam-155",
+ "captured_at": "2026-10-01T18:02:34.143822+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 155,
+    "title": "Ullasam",
+    "img": "https://image.tmdb.org/t/p/original/x0CLQ9BJKwnLYRUPN4TgXM11HWX.jpg",
+    "released": "2022-07-01",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10673868",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "137 min",
+    "genre": "Comedy, Romance",
+    "plot": "Two youngsters meet on a train journey from Ooty to Mettupalayam, but they don't exchange names or anything about themselves. Will they learn more about each other?",
+    "released": "2022-07-01",
+    "director": "Jeevan Jojo",
+    "directorSlug": "jeevan-jojo",
+    "actors": [
+     "Shane Nigam",
+     "Pavithra Lakshmi",
+     "Renji Panicker",
+     "Deepak Parambol",
+     "Aju Varghese",
+     "Basil Joseph"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.7",
+      "votes": 400,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:21.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shane Nigam",
+     "character": "Harry",
+     "slug": "shane-nigam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9KJqx2V9aRwcTuMh2FQmWj5HrAO.jpg"
+    },
+    {
+     "name": "Pavithra Lakshmi",
+     "character": "Nima",
+     "slug": "pavithra-lakshmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fJSM66TAiKHEwrwMy851ON32I1r.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "Richard Menon",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5MGztWs1yxlptGDzeofC2jG7cAm.jpg"
+    },
+    {
+     "name": "Deepak Parambol",
+     "character": null,
+     "slug": "deepak-parambol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ri2gQM9o9MmcZQZjjq6pQmdbIxb.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Sam",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Basil Joseph",
+     "character": null,
+     "slug": "basil-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u4I4GJRgYtWWrkhYH9aeawjfKeO.jpg"
+    },
+    {
+     "name": "Ambika",
+     "character": "Mary Teacher",
+     "slug": "ambika",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ef3yqRwHpMcsdA9eygCRjjK72f6.jpg"
+    },
+    {
+     "name": "Vinod Thomas",
+     "character": null,
+     "slug": "vinod-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hMtEqdmjkcsVDyWsQZfuzgqqWvA.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jeevan Jojo",
+       "slug": "jeevan-jojo"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Praveen Balakrishnan",
+       "slug": "praveen-balakrishnan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Shaan Rahman",
+       "slug": "shaan-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Swaroop Philip",
+       "slug": "swaroop-philip"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "John Kutty",
+       "slug": "john-kutty"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Joe Kaithamattom",
+       "slug": "joe-kaithamattom"
+      },
+      {
+       "name": "Christi Kaithamattom",
+       "slug": "christi-kaithamattom"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4423752,
+    "totalShows": 2025,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 1073171.5999999999,
+     "date": "2022-07-01"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1073171.5999999999,
+     "date": "2022-07-01"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 80,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-07-01"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 155,
+    "title": "Ullasam",
+    "img": "https://image.tmdb.org/t/p/original/x0CLQ9BJKwnLYRUPN4TgXM11HWX.jpg",
+    "released": "2022-07-01",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10673868",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "137 min",
+    "genre": "Comedy, Romance",
+    "plot": "Two youngsters meet on a train journey from Ooty to Mettupalayam, but they don't exchange names or anything about themselves. Will they learn more about each other?",
+    "released": "2022-07-01",
+    "director": "Jeevan Jojo",
+    "directorSlug": "jeevan-jojo",
+    "actors": [
+     "Shane Nigam",
+     "Pavithra Lakshmi",
+     "Renji Panicker",
+     "Deepak Parambol",
+     "Aju Varghese",
+     "Basil Joseph"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.7",
+      "votes": 400,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:21.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shane Nigam",
+     "character": "Harry",
+     "slug": "shane-nigam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9KJqx2V9aRwcTuMh2FQmWj5HrAO.jpg"
+    },
+    {
+     "name": "Pavithra Lakshmi",
+     "character": "Nima",
+     "slug": "pavithra-lakshmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fJSM66TAiKHEwrwMy851ON32I1r.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "Richard Menon",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5MGztWs1yxlptGDzeofC2jG7cAm.jpg"
+    },
+    {
+     "name": "Deepak Parambol",
+     "character": null,
+     "slug": "deepak-parambol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ri2gQM9o9MmcZQZjjq6pQmdbIxb.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Sam",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Basil Joseph",
+     "character": null,
+     "slug": "basil-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u4I4GJRgYtWWrkhYH9aeawjfKeO.jpg"
+    },
+    {
+     "name": "Ambika",
+     "character": "Mary Teacher",
+     "slug": "ambika",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ef3yqRwHpMcsdA9eygCRjjK72f6.jpg"
+    },
+    {
+     "name": "Vinod Thomas",
+     "character": null,
+     "slug": "vinod-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hMtEqdmjkcsVDyWsQZfuzgqqWvA.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jeevan Jojo",
+       "slug": "jeevan-jojo"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Praveen Balakrishnan",
+       "slug": "praveen-balakrishnan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Shaan Rahman",
+       "slug": "shaan-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Swaroop Philip",
+       "slug": "swaroop-philip"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "John Kutty",
+       "slug": "john-kutty"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Joe Kaithamattom",
+       "slug": "joe-kaithamattom"
+      },
+      {
+       "name": "Christi Kaithamattom",
+       "slug": "christi-kaithamattom"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2022-07-01",
+     "gross": 4423751.999999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2025,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4423751.999999999,
+    "totalShows": 2025,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 4423751.999999999
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4423751.999999999
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 80,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-07-01"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 155,
+    "title": "Ullasam",
+    "img": "https://image.tmdb.org/t/p/original/x0CLQ9BJKwnLYRUPN4TgXM11HWX.jpg",
+    "released": "2022-07-01",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10673868",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "137 min",
+    "genre": "Comedy, Romance",
+    "plot": "Two youngsters meet on a train journey from Ooty to Mettupalayam, but they don't exchange names or anything about themselves. Will they learn more about each other?",
+    "released": "2022-07-01",
+    "director": "Jeevan Jojo",
+    "directorSlug": "jeevan-jojo",
+    "actors": [
+     "Shane Nigam",
+     "Pavithra Lakshmi",
+     "Renji Panicker",
+     "Deepak Parambol",
+     "Aju Varghese",
+     "Basil Joseph"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.7",
+      "votes": 400,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:21.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shane Nigam",
+     "character": "Harry",
+     "slug": "shane-nigam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9KJqx2V9aRwcTuMh2FQmWj5HrAO.jpg"
+    },
+    {
+     "name": "Pavithra Lakshmi",
+     "character": "Nima",
+     "slug": "pavithra-lakshmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fJSM66TAiKHEwrwMy851ON32I1r.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "Richard Menon",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5MGztWs1yxlptGDzeofC2jG7cAm.jpg"
+    },
+    {
+     "name": "Deepak Parambol",
+     "character": null,
+     "slug": "deepak-parambol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ri2gQM9o9MmcZQZjjq6pQmdbIxb.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Sam",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Basil Joseph",
+     "character": null,
+     "slug": "basil-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u4I4GJRgYtWWrkhYH9aeawjfKeO.jpg"
+    },
+    {
+     "name": "Ambika",
+     "character": "Mary Teacher",
+     "slug": "ambika",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ef3yqRwHpMcsdA9eygCRjjK72f6.jpg"
+    },
+    {
+     "name": "Vinod Thomas",
+     "character": null,
+     "slug": "vinod-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hMtEqdmjkcsVDyWsQZfuzgqqWvA.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jeevan Jojo",
+       "slug": "jeevan-jojo"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Praveen Balakrishnan",
+       "slug": "praveen-balakrishnan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Shaan Rahman",
+       "slug": "shaan-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Swaroop Philip",
+       "slug": "swaroop-philip"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "John Kutty",
+       "slug": "john-kutty"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Joe Kaithamattom",
+       "slug": "joe-kaithamattom"
+      },
+      {
+       "name": "Christi Kaithamattom",
+       "slug": "christi-kaithamattom"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4423752,
+    "totalShows": 2025,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 855989,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 855989,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 80,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-07-01"
+   }
+  }
+ }
+}

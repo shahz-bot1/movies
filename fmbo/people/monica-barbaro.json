@@ -1,0 +1,41 @@
+{
+ "slug": "monica-barbaro",
+ "name": "Monica Barbaro",
+ "source_url": "https://fridaymatinee.in/people/monica-barbaro",
+ "captured_at": "2026-10-02T00:44:08.652430+00:00",
+ "person": {
+  "name": "Monica Barbaro",
+  "photo": "https://image.tmdb.org/t/p/w185/fcujBTiKyZgJzaDenhv5ryo9SyB.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 141,
+   "movie_slug": "top-gun-maverick",
+   "title": "Top Gun Maverick",
+   "year": 2022,
+   "kerala_gross": "₹93.9L"
+  },
+  {
+   "movie_id": 1007,
+   "movie_slug": "crime-101",
+   "title": "Crime 101",
+   "year": 2026,
+   "kerala_gross": "₹9.7L"
+  },
+  {
+   "movie_id": 1242,
+   "movie_slug": "one-night-only",
+   "title": "One Night Only",
+   "year": 2026,
+   "kerala_gross": "₹1.1L"
+  }
+ ]
+}

@@ -1,0 +1,594 @@
+{
+ "id": 242,
+ "slug": "1744-white-alto",
+ "source_url": "https://fridaymatinee.in/boxoffice/1744-white-alto-242",
+ "captured_at": "2026-10-01T18:07:40.226085+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 242,
+    "title": "1744 White Alto",
+    "img": "https://image.tmdb.org/t/p/original/5dDniQcwkvyvLNsqpQp4GRG5KGJ.jpg",
+    "released": "2022-11-18",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt18306232",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "110 min",
+    "genre": "Comedy, Drama, Crime",
+    "plot": "Set in an unspecified place in Northern Kerala. Vijayan, a lowlife, gets himself involved in a case of mistaken identity. His car gets swapped with that of two small-time crooks Ebi and Kannan. With the local police, Mahesh and his team hot on their tails, a fun-filled cat-and-mouse chase ensues. What happens next is a series of comedy of errors. The story is flush with satire, suspense, and violence on the way to an unexpected climax.",
+    "released": "2022-11-18",
+    "director": "Senna Hegde",
+    "directorSlug": "senna-hegde",
+    "actors": [
+     "Sharafudheen",
+     "Vincy Aloshious",
+     "Rajesh Madhavan",
+     "Navas Vallikkunnu",
+     "Arya Salim",
+     "Anand Manmadhan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 456,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:52.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sharafudheen",
+     "character": "Mahesh Varghese",
+     "slug": "sharafudheen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+    },
+    {
+     "name": "Vincy Aloshious",
+     "character": "Rini",
+     "slug": "vincy-aloshious",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rbDwslFpGWtaQFXd2R6grYc6Nxv.jpg"
+    },
+    {
+     "name": "Rajesh Madhavan",
+     "character": "Ebi",
+     "slug": "rajesh-madhavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nHeWOa2pDeEhoo4Z730iMuTSeCl.jpg"
+    },
+    {
+     "name": "Navas Vallikkunnu",
+     "character": "Vijayan",
+     "slug": "navas-vallikkunnu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u94P7HiF3zvMcoyRhSgATlXT96h.jpg"
+    },
+    {
+     "name": "Arya Salim",
+     "character": null,
+     "slug": "arya-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/upKUfyU0xYsGmNsqRtri1Xuf7nh.jpg"
+    },
+    {
+     "name": "Anand Manmadhan",
+     "character": "Kannan",
+     "slug": "anand-manmadhan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xlx9Rmb3NGHNX7VFGD55kskCM04.jpg"
+    },
+    {
+     "name": "Sajin Cherukayil",
+     "character": null,
+     "slug": "sajin-cherukayil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fuwZ6g0GMgfKJnaZ6kJljwM277x.jpg"
+    },
+    {
+     "name": "Nilja K. Baby",
+     "character": null,
+     "slug": "nilja-k-baby",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/otlxmUL1bthUNpbo0JZ1MZ6402c.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Senna Hegde",
+       "slug": "senna-hegde"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Arjun B",
+       "slug": "arjun-b"
+      },
+      {
+       "name": "Senna Hegde",
+       "slug": "senna-hegde"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Mujeeb Majeed",
+       "slug": "mujeeb-majeed"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sreeraj Raveendran",
+       "slug": "sreeraj-raveendran"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Harilal K Rajeev",
+       "slug": "harilal-k-rajeev"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Mrinal Mukundan",
+       "slug": "mrinal-mukundan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Kabinii Films",
+     "slug": "kabinii-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4490529.8,
+    "totalShows": 1719,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 1407304,
+     "date": "2022-11-18"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1407304,
+     "date": "2022-11-18"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-11-18"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 242,
+    "title": "1744 White Alto",
+    "img": "https://image.tmdb.org/t/p/original/5dDniQcwkvyvLNsqpQp4GRG5KGJ.jpg",
+    "released": "2022-11-18",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt18306232",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "110 min",
+    "genre": "Comedy, Drama, Crime",
+    "plot": "Set in an unspecified place in Northern Kerala. Vijayan, a lowlife, gets himself involved in a case of mistaken identity. His car gets swapped with that of two small-time crooks Ebi and Kannan. With the local police, Mahesh and his team hot on their tails, a fun-filled cat-and-mouse chase ensues. What happens next is a series of comedy of errors. The story is flush with satire, suspense, and violence on the way to an unexpected climax.",
+    "released": "2022-11-18",
+    "director": "Senna Hegde",
+    "directorSlug": "senna-hegde",
+    "actors": [
+     "Sharafudheen",
+     "Vincy Aloshious",
+     "Rajesh Madhavan",
+     "Navas Vallikkunnu",
+     "Arya Salim",
+     "Anand Manmadhan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 456,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:52.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sharafudheen",
+     "character": "Mahesh Varghese",
+     "slug": "sharafudheen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+    },
+    {
+     "name": "Vincy Aloshious",
+     "character": "Rini",
+     "slug": "vincy-aloshious",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rbDwslFpGWtaQFXd2R6grYc6Nxv.jpg"
+    },
+    {
+     "name": "Rajesh Madhavan",
+     "character": "Ebi",
+     "slug": "rajesh-madhavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nHeWOa2pDeEhoo4Z730iMuTSeCl.jpg"
+    },
+    {
+     "name": "Navas Vallikkunnu",
+     "character": "Vijayan",
+     "slug": "navas-vallikkunnu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u94P7HiF3zvMcoyRhSgATlXT96h.jpg"
+    },
+    {
+     "name": "Arya Salim",
+     "character": null,
+     "slug": "arya-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/upKUfyU0xYsGmNsqRtri1Xuf7nh.jpg"
+    },
+    {
+     "name": "Anand Manmadhan",
+     "character": "Kannan",
+     "slug": "anand-manmadhan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xlx9Rmb3NGHNX7VFGD55kskCM04.jpg"
+    },
+    {
+     "name": "Sajin Cherukayil",
+     "character": null,
+     "slug": "sajin-cherukayil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fuwZ6g0GMgfKJnaZ6kJljwM277x.jpg"
+    },
+    {
+     "name": "Nilja K. Baby",
+     "character": null,
+     "slug": "nilja-k-baby",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/otlxmUL1bthUNpbo0JZ1MZ6402c.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Senna Hegde",
+       "slug": "senna-hegde"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Arjun B",
+       "slug": "arjun-b"
+      },
+      {
+       "name": "Senna Hegde",
+       "slug": "senna-hegde"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Mujeeb Majeed",
+       "slug": "mujeeb-majeed"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sreeraj Raveendran",
+       "slug": "sreeraj-raveendran"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Harilal K Rajeev",
+       "slug": "harilal-k-rajeev"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Mrinal Mukundan",
+       "slug": "mrinal-mukundan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Kabinii Films",
+     "slug": "kabinii-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2022-11-18",
+     "gross": 4477549.8,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1716,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-11-25",
+     "gross": 12980,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4490529.8,
+    "totalShows": 1719,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 4477549.8
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4477549.8
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-11-18"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 242,
+    "title": "1744 White Alto",
+    "img": "https://image.tmdb.org/t/p/original/5dDniQcwkvyvLNsqpQp4GRG5KGJ.jpg",
+    "released": "2022-11-18",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt18306232",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "110 min",
+    "genre": "Comedy, Drama, Crime",
+    "plot": "Set in an unspecified place in Northern Kerala. Vijayan, a lowlife, gets himself involved in a case of mistaken identity. His car gets swapped with that of two small-time crooks Ebi and Kannan. With the local police, Mahesh and his team hot on their tails, a fun-filled cat-and-mouse chase ensues. What happens next is a series of comedy of errors. The story is flush with satire, suspense, and violence on the way to an unexpected climax.",
+    "released": "2022-11-18",
+    "director": "Senna Hegde",
+    "directorSlug": "senna-hegde",
+    "actors": [
+     "Sharafudheen",
+     "Vincy Aloshious",
+     "Rajesh Madhavan",
+     "Navas Vallikkunnu",
+     "Arya Salim",
+     "Anand Manmadhan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 456,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:52.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sharafudheen",
+     "character": "Mahesh Varghese",
+     "slug": "sharafudheen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+    },
+    {
+     "name": "Vincy Aloshious",
+     "character": "Rini",
+     "slug": "vincy-aloshious",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rbDwslFpGWtaQFXd2R6grYc6Nxv.jpg"
+    },
+    {
+     "name": "Rajesh Madhavan",
+     "character": "Ebi",
+     "slug": "rajesh-madhavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nHeWOa2pDeEhoo4Z730iMuTSeCl.jpg"
+    },
+    {
+     "name": "Navas Vallikkunnu",
+     "character": "Vijayan",
+     "slug": "navas-vallikkunnu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u94P7HiF3zvMcoyRhSgATlXT96h.jpg"
+    },
+    {
+     "name": "Arya Salim",
+     "character": null,
+     "slug": "arya-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/upKUfyU0xYsGmNsqRtri1Xuf7nh.jpg"
+    },
+    {
+     "name": "Anand Manmadhan",
+     "character": "Kannan",
+     "slug": "anand-manmadhan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xlx9Rmb3NGHNX7VFGD55kskCM04.jpg"
+    },
+    {
+     "name": "Sajin Cherukayil",
+     "character": null,
+     "slug": "sajin-cherukayil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fuwZ6g0GMgfKJnaZ6kJljwM277x.jpg"
+    },
+    {
+     "name": "Nilja K. Baby",
+     "character": null,
+     "slug": "nilja-k-baby",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/otlxmUL1bthUNpbo0JZ1MZ6402c.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Senna Hegde",
+       "slug": "senna-hegde"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Arjun B",
+       "slug": "arjun-b"
+      },
+      {
+       "name": "Senna Hegde",
+       "slug": "senna-hegde"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Mujeeb Majeed",
+       "slug": "mujeeb-majeed"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sreeraj Raveendran",
+       "slug": "sreeraj-raveendran"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Harilal K Rajeev",
+       "slug": "harilal-k-rajeev"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Mrinal Mukundan",
+       "slug": "mrinal-mukundan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Kabinii Films",
+     "slug": "kabinii-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4490529.8,
+    "totalShows": 1719,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 915188,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 915188,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-11-18"
+   }
+  }
+ }
+}

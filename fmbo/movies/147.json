@@ -1,0 +1,668 @@
+{
+ "id": 147,
+ "slug": "dear-friend",
+ "source_url": "https://fridaymatinee.in/boxoffice/dear-friend-147",
+ "captured_at": "2026-10-01T18:02:16.338425+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 147,
+    "title": "Dear Friend",
+    "img": "https://image.tmdb.org/t/p/original/sdAUrGwJQwlUVAI4eXDwQZd40h8.jpg",
+    "released": "2022-06-10",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt15373558",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "117 min",
+    "genre": "Drama, Romance, Comedy, Mystery",
+    "plot": "Vinod, Shyam, Arjun, Sajith and Jannath are friends residing in Bengaluru. They live, eat and party together and share a beautiful bond. At times, they pull brutal pranks on their besties like that of making one wear a funny superhero costume on their birthday night and taking him to the pub. Will these pranks become serious or will it remain laugh it out loud?",
+    "released": "2022-06-10",
+    "director": "Vineeth Kumar",
+    "directorSlug": "vineeth-kumar",
+    "actors": [
+     "Tovino Thomas",
+     "Darshana Rajendran",
+     "Sanchana Natarajan",
+     "Basil Joseph",
+     "Arjun Lal",
+     "Hakkim Shajahan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.9",
+      "votes": 1291,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tovino Thomas",
+     "character": "Vinod Viswanathan",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Darshana Rajendran",
+     "character": "Jannat Ali",
+     "slug": "darshana-rajendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qhsKLCi4J0Zq22R6HPXffrVT7Lg.jpg"
+    },
+    {
+     "name": "Sanchana Natarajan",
+     "character": "Amudha",
+     "slug": "sanchana-natarajan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dZVzX9gBlqR6QqBc6AaXcRyEnpd.jpg"
+    },
+    {
+     "name": "Basil Joseph",
+     "character": "Sajith",
+     "slug": "basil-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u4I4GJRgYtWWrkhYH9aeawjfKeO.jpg"
+    },
+    {
+     "name": "Arjun Lal",
+     "character": "Arjun",
+     "slug": "arjun-lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5IfBGN1r3cJmYQgC9vQIWmfqJ9t.jpg"
+    },
+    {
+     "name": "Hakkim Shajahan",
+     "character": "Sreenath",
+     "slug": "hakkim-shajahan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/reEowrr3Gw4vKFfVUOhIT4EM4Es.jpg"
+    },
+    {
+     "name": "Rekha",
+     "character": "Vinod's Mother",
+     "slug": "rekha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uDjm90jaCkeoTNRHakMh1liLKwj.jpg"
+    },
+    {
+     "name": "Arjun Radhakrishnan",
+     "character": "Shyam",
+     "slug": "arjun-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xcxu1R28Hl7bzLQagFdeUsTiHjg.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vineeth Kumar",
+       "slug": "vineeth-kumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sharfuddeen",
+       "slug": "sharfuddeen"
+      },
+      {
+       "name": "Suhas",
+       "slug": "suhas-11000"
+      },
+      {
+       "name": "Arjun Lal",
+       "slug": "arjun-lal"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Justin Varghese",
+       "slug": "justin-varghese"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shyju Khalid",
+       "slug": "shyju-khalid"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Deepu Joseph",
+       "slug": "deepu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shyju Khalid",
+       "slug": "shyju-khalid"
+      },
+      {
+       "name": "Ashiq Usman",
+       "slug": "ashiq-usman"
+      },
+      {
+       "name": "Sameer Thahir",
+       "slug": "sameer-thahir"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ashiq Usman Productions",
+     "slug": "ashiq-usman-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/viOe7LjhByej4jThVYcwp9SVNfM.png"
+    },
+    {
+     "name": "Happy Hours Entertainments",
+     "slug": "happy-hours-entertainments",
+     "logo": "https://image.tmdb.org/t/p/w185/qJHoVHKHU9kHIxvzGonK9Bz9iEN.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3419050.2,
+    "totalShows": 1523,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 1084738.4,
+     "date": "2022-06-10"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1084738.4,
+     "date": "2022-06-10"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 84,
+     "last_week_position": 97
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-06-10"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 147,
+    "title": "Dear Friend",
+    "img": "https://image.tmdb.org/t/p/original/sdAUrGwJQwlUVAI4eXDwQZd40h8.jpg",
+    "released": "2022-06-10",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt15373558",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "117 min",
+    "genre": "Drama, Romance, Comedy, Mystery",
+    "plot": "Vinod, Shyam, Arjun, Sajith and Jannath are friends residing in Bengaluru. They live, eat and party together and share a beautiful bond. At times, they pull brutal pranks on their besties like that of making one wear a funny superhero costume on their birthday night and taking him to the pub. Will these pranks become serious or will it remain laugh it out loud?",
+    "released": "2022-06-10",
+    "director": "Vineeth Kumar",
+    "directorSlug": "vineeth-kumar",
+    "actors": [
+     "Tovino Thomas",
+     "Darshana Rajendran",
+     "Sanchana Natarajan",
+     "Basil Joseph",
+     "Arjun Lal",
+     "Hakkim Shajahan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.9",
+      "votes": 1291,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tovino Thomas",
+     "character": "Vinod Viswanathan",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Darshana Rajendran",
+     "character": "Jannat Ali",
+     "slug": "darshana-rajendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qhsKLCi4J0Zq22R6HPXffrVT7Lg.jpg"
+    },
+    {
+     "name": "Sanchana Natarajan",
+     "character": "Amudha",
+     "slug": "sanchana-natarajan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dZVzX9gBlqR6QqBc6AaXcRyEnpd.jpg"
+    },
+    {
+     "name": "Basil Joseph",
+     "character": "Sajith",
+     "slug": "basil-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u4I4GJRgYtWWrkhYH9aeawjfKeO.jpg"
+    },
+    {
+     "name": "Arjun Lal",
+     "character": "Arjun",
+     "slug": "arjun-lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5IfBGN1r3cJmYQgC9vQIWmfqJ9t.jpg"
+    },
+    {
+     "name": "Hakkim Shajahan",
+     "character": "Sreenath",
+     "slug": "hakkim-shajahan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/reEowrr3Gw4vKFfVUOhIT4EM4Es.jpg"
+    },
+    {
+     "name": "Rekha",
+     "character": "Vinod's Mother",
+     "slug": "rekha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uDjm90jaCkeoTNRHakMh1liLKwj.jpg"
+    },
+    {
+     "name": "Arjun Radhakrishnan",
+     "character": "Shyam",
+     "slug": "arjun-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xcxu1R28Hl7bzLQagFdeUsTiHjg.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vineeth Kumar",
+       "slug": "vineeth-kumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sharfuddeen",
+       "slug": "sharfuddeen"
+      },
+      {
+       "name": "Suhas",
+       "slug": "suhas-11000"
+      },
+      {
+       "name": "Arjun Lal",
+       "slug": "arjun-lal"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Justin Varghese",
+       "slug": "justin-varghese"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shyju Khalid",
+       "slug": "shyju-khalid"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Deepu Joseph",
+       "slug": "deepu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shyju Khalid",
+       "slug": "shyju-khalid"
+      },
+      {
+       "name": "Ashiq Usman",
+       "slug": "ashiq-usman"
+      },
+      {
+       "name": "Sameer Thahir",
+       "slug": "sameer-thahir"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ashiq Usman Productions",
+     "slug": "ashiq-usman-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/viOe7LjhByej4jThVYcwp9SVNfM.png"
+    },
+    {
+     "name": "Happy Hours Entertainments",
+     "slug": "happy-hours-entertainments",
+     "logo": "https://image.tmdb.org/t/p/w185/qJHoVHKHU9kHIxvzGonK9Bz9iEN.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-06-10",
+     "gross": 3419050.1999999997,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1523,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3419050.1999999997,
+    "totalShows": 1523,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 3419050.1999999997
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3419050.1999999997
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 84,
+     "last_week_position": 97
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-06-10"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 147,
+    "title": "Dear Friend",
+    "img": "https://image.tmdb.org/t/p/original/sdAUrGwJQwlUVAI4eXDwQZd40h8.jpg",
+    "released": "2022-06-10",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt15373558",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "117 min",
+    "genre": "Drama, Romance, Comedy, Mystery",
+    "plot": "Vinod, Shyam, Arjun, Sajith and Jannath are friends residing in Bengaluru. They live, eat and party together and share a beautiful bond. At times, they pull brutal pranks on their besties like that of making one wear a funny superhero costume on their birthday night and taking him to the pub. Will these pranks become serious or will it remain laugh it out loud?",
+    "released": "2022-06-10",
+    "director": "Vineeth Kumar",
+    "directorSlug": "vineeth-kumar",
+    "actors": [
+     "Tovino Thomas",
+     "Darshana Rajendran",
+     "Sanchana Natarajan",
+     "Basil Joseph",
+     "Arjun Lal",
+     "Hakkim Shajahan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.9",
+      "votes": 1291,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tovino Thomas",
+     "character": "Vinod Viswanathan",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Darshana Rajendran",
+     "character": "Jannat Ali",
+     "slug": "darshana-rajendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qhsKLCi4J0Zq22R6HPXffrVT7Lg.jpg"
+    },
+    {
+     "name": "Sanchana Natarajan",
+     "character": "Amudha",
+     "slug": "sanchana-natarajan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dZVzX9gBlqR6QqBc6AaXcRyEnpd.jpg"
+    },
+    {
+     "name": "Basil Joseph",
+     "character": "Sajith",
+     "slug": "basil-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u4I4GJRgYtWWrkhYH9aeawjfKeO.jpg"
+    },
+    {
+     "name": "Arjun Lal",
+     "character": "Arjun",
+     "slug": "arjun-lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5IfBGN1r3cJmYQgC9vQIWmfqJ9t.jpg"
+    },
+    {
+     "name": "Hakkim Shajahan",
+     "character": "Sreenath",
+     "slug": "hakkim-shajahan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/reEowrr3Gw4vKFfVUOhIT4EM4Es.jpg"
+    },
+    {
+     "name": "Rekha",
+     "character": "Vinod's Mother",
+     "slug": "rekha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uDjm90jaCkeoTNRHakMh1liLKwj.jpg"
+    },
+    {
+     "name": "Arjun Radhakrishnan",
+     "character": "Shyam",
+     "slug": "arjun-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xcxu1R28Hl7bzLQagFdeUsTiHjg.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vineeth Kumar",
+       "slug": "vineeth-kumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sharfuddeen",
+       "slug": "sharfuddeen"
+      },
+      {
+       "name": "Suhas",
+       "slug": "suhas-11000"
+      },
+      {
+       "name": "Arjun Lal",
+       "slug": "arjun-lal"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Justin Varghese",
+       "slug": "justin-varghese"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shyju Khalid",
+       "slug": "shyju-khalid"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Deepu Joseph",
+       "slug": "deepu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shyju Khalid",
+       "slug": "shyju-khalid"
+      },
+      {
+       "name": "Ashiq Usman",
+       "slug": "ashiq-usman"
+      },
+      {
+       "name": "Sameer Thahir",
+       "slug": "sameer-thahir"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ashiq Usman Productions",
+     "slug": "ashiq-usman-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/viOe7LjhByej4jThVYcwp9SVNfM.png"
+    },
+    {
+     "name": "Happy Hours Entertainments",
+     "slug": "happy-hours-entertainments",
+     "logo": "https://image.tmdb.org/t/p/w185/qJHoVHKHU9kHIxvzGonK9Bz9iEN.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3419050.2,
+    "totalShows": 1523,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1072100,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1072100,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 84,
+     "last_week_position": 97
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-06-10"
+   }
+  }
+ }
+}

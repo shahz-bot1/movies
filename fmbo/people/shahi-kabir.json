@@ -1,0 +1,58 @@
+{
+ "slug": "shahi-kabir",
+ "name": "Shahi Kabir",
+ "source_url": "https://fridaymatinee.in/people/shahi-kabir",
+ "captured_at": "2026-10-02T10:23:48.559387+00:00",
+ "person": {
+  "name": "Shahi Kabir",
+  "photo": "https://image.tmdb.org/t/p/w185/gzf4rvlRjKpH5k4dw8fRwV3e96F.jpg",
+  "role": "Writer, actor and director"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 4
+  },
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 1
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 81,
+   "movie_slug": "nayattu",
+   "title": "Nayattu",
+   "year": 2021,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 654,
+   "movie_slug": "officer-on-duty",
+   "title": "Officer On Duty",
+   "year": 2025,
+   "kerala_gross": "₹23.6 Cr"
+  },
+  {
+   "movie_id": 705,
+   "movie_slug": "ronth",
+   "title": "Ronth",
+   "year": 2025,
+   "kerala_gross": "₹5.3 Cr"
+  },
+  {
+   "movie_id": 1214,
+   "movie_slug": "unmadham",
+   "title": "Unmadham",
+   "year": 2026,
+   "kerala_gross": "₹3.6 Cr"
+  }
+ ]
+}

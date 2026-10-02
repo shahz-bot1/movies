@@ -1,0 +1,41 @@
+{
+ "slug": "vysakh",
+ "name": "Vysakh",
+ "source_url": "https://fridaymatinee.in/people/vysakh",
+ "captured_at": "2026-10-02T11:55:35.179397+00:00",
+ "person": {
+  "name": "Vysakh",
+  "photo": "https://image.tmdb.org/t/p/w185/7kJYWmo9yVPXESnO7W4hD1kL9Vf.jpg",
+  "role": "Director"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 226,
+   "movie_slug": "monster",
+   "title": "Monster",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 474,
+   "movie_slug": "turbo",
+   "title": "Turbo",
+   "year": 2024,
+   "kerala_gross": "₹30.1 Cr"
+  },
+  {
+   "movie_id": 1233,
+   "movie_slug": "khalifa",
+   "title": "Khalifa",
+   "year": 2026,
+   "kerala_gross": "₹20.0 Cr"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "meena",
+ "name": "Meena",
+ "source_url": "https://fridaymatinee.in/people/meena",
+ "captured_at": "2026-10-02T00:31:28.223539+00:00",
+ "person": {
+  "name": "Meena",
+  "photo": "https://image.tmdb.org/t/p/w185/vMawuuT7VCeeJuBqpkm5siuWPij.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 56,
+   "movie_slug": "shylock",
+   "title": "Shylock",
+   "year": 2020,
+   "kerala_gross": "₹7.1 Cr"
+  },
+  {
+   "movie_id": 86,
+   "movie_slug": "annaatthe",
+   "title": "Annaatthe",
+   "year": 2021,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 1067,
+   "movie_slug": "drishyam-2",
+   "title": "Drishyam 2",
+   "year": 2026,
+   "kerala_gross": "₹3.6L"
+  },
+  {
+   "movie_id": 1012,
+   "movie_slug": "drishyam-3",
+   "title": "Drishyam 3",
+   "year": 2026,
+   "kerala_gross": "₹82.0 Cr"
+  }
+ ]
+}

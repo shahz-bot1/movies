@@ -1,0 +1,55 @@
+{
+ "slug": "shyamaprasad",
+ "name": "Shyamaprasad",
+ "source_url": "https://fridaymatinee.in/people/shyamaprasad",
+ "captured_at": "2026-10-02T10:38:06.483930+00:00",
+ "person": {
+  "name": "Shyamaprasad",
+  "photo": "https://image.tmdb.org/t/p/w185/7XmS8tF5OGt7y9YdpyySIWBECkH.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 82,
+   "movie_slug": "chathur-mukham",
+   "title": "Chathur Mukham",
+   "year": 2021,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 99,
+   "movie_slug": "meow",
+   "title": "Meow",
+   "year": 2021,
+   "kerala_gross": "₹74.0L"
+  },
+  {
+   "movie_id": 306,
+   "movie_slug": "maheshum-marutiyum",
+   "title": "Maheshum Marutiyum",
+   "year": 2023,
+   "kerala_gross": "₹55.7L"
+  },
+  {
+   "movie_id": 589,
+   "movie_slug": "amaran",
+   "title": "Amaran",
+   "year": 2024,
+   "kerala_gross": "₹9.7 Cr"
+  },
+  {
+   "movie_id": 886,
+   "movie_slug": "valathu-vashathe-kallan",
+   "title": "Valathu Vashathe Kallan",
+   "year": 2026,
+   "kerala_gross": "₹4.3 Cr"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "slug": "vishal-mishra",
+ "name": "Vishal Mishra",
+ "source_url": "https://fridaymatinee.in/people/vishal-mishra",
+ "captured_at": "2026-10-02T11:51:17.738764+00:00",
+ "person": {
+  "name": "Vishal Mishra",
+  "photo": "https://image.tmdb.org/t/p/w185/rgTiKOQ016nV05FxiWpvjqurWAC.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 468,
+   "movie_slug": "animal",
+   "title": "Animal",
+   "year": 2023,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 391,
+   "movie_slug": "deva",
+   "title": "Deva",
+   "year": 2025,
+   "kerala_gross": "₹11.6L"
+  },
+  {
+   "movie_id": 732,
+   "movie_slug": "saiyaara",
+   "title": "Saiyaara",
+   "year": 2025,
+   "kerala_gross": "₹2.3 Cr"
+  },
+  {
+   "movie_id": 909,
+   "movie_slug": "haq",
+   "title": "Haq",
+   "year": 2025,
+   "kerala_gross": "₹4.1L"
+  },
+  {
+   "movie_id": 669,
+   "movie_slug": "toxic",
+   "title": "Toxic",
+   "year": 2026,
+   "kerala_gross": "₹3.5 Cr"
+  },
+  {
+   "movie_id": 1320,
+   "movie_slug": "the-vvaan",
+   "title": "The Vvaan",
+   "year": 2026,
+   "kerala_gross": "₹7.6L"
+  }
+ ]
+}

@@ -1,0 +1,569 @@
+{
+ "id": 545,
+ "slug": "secret",
+ "source_url": "https://fridaymatinee.in/boxoffice/secret-545",
+ "captured_at": "2026-10-01T18:14:58.256983+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 545,
+    "title": "Secret",
+    "img": "https://image.tmdb.org/t/p/original/eYPozDNCjySTEs4hhhGTXReLpu1.jpg",
+    "released": "2024-07-26",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27494298",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "117 min",
+    "genre": "Thriller, Mystery, Drama",
+    "plot": "A man tries desperately to change his fate after an astrology reading predicts the death of his fiancé.",
+    "released": "2024-07-26",
+    "director": "S. N. Swamy",
+    "directorSlug": "s-n-swamy",
+    "actors": [
+     "Dhyan Sreenivasan",
+     "Aparna Das",
+     "Jacob Gregory",
+     "Kalesh Ramanand",
+     "Ardra Mohan",
+     "Renji Panicker"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.8",
+      "votes": 806,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:51.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dhyan Sreenivasan",
+     "character": "Mithun",
+     "slug": "dhyan-sreenivasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5osJr8O74M3dq5GqbOfDGuSAIJx.jpg"
+    },
+    {
+     "name": "Aparna Das",
+     "character": "Amaya",
+     "slug": "aparna-das",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eLcg4bZfNVOW0h0T7AWonpSpu3g.jpg"
+    },
+    {
+     "name": "Jacob Gregory",
+     "character": "Prince",
+     "slug": "jacob-gregory",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1wfvMQTUM2OjZwoOoa0TlPfOvMC.jpg"
+    },
+    {
+     "name": "Kalesh Ramanand",
+     "character": "Moorthy",
+     "slug": "kalesh-ramanand",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/865gFRupfBT3zPRNNl7AHnjcFwT.jpg"
+    },
+    {
+     "name": "Ardra Mohan",
+     "character": "Shreya",
+     "slug": "ardra-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cZaCOyZpA8G7AHIqHM7uOMbXPwN.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "MLA",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5MGztWs1yxlptGDzeofC2jG7cAm.jpg"
+    },
+    {
+     "name": "Jayakrishnan",
+     "character": "Madhu",
+     "slug": "jayakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rp8IoqKBxQk9i8GYaHqqX824aVL.jpg"
+    },
+    {
+     "name": "Abhiram Radhakrishnan",
+     "character": "Faizi",
+     "slug": "abhiram-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AjTvCsrPkiOLYblggiMlUAketU.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "S. N. Swamy",
+       "slug": "s-n-swamy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "S. N. Swamy",
+       "slug": "s-n-swamy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jackson Johnson",
+       "slug": "jackson-johnson"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Basodh T Baburaj",
+       "slug": "basodh-t-baburaj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Rajendra Prasad",
+       "slug": "rajendra-prasad-13172"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lakshmi Parvathy Vision",
+     "slug": "lakshmi-parvathy-vision",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1560670.6,
+    "totalShows": 654,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 568899.4,
+     "date": "2024-07-26"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 568899.4,
+     "date": "2024-07-26"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-07-26"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 545,
+    "title": "Secret",
+    "img": "https://image.tmdb.org/t/p/original/eYPozDNCjySTEs4hhhGTXReLpu1.jpg",
+    "released": "2024-07-26",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27494298",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "117 min",
+    "genre": "Thriller, Mystery, Drama",
+    "plot": "A man tries desperately to change his fate after an astrology reading predicts the death of his fiancé.",
+    "released": "2024-07-26",
+    "director": "S. N. Swamy",
+    "directorSlug": "s-n-swamy",
+    "actors": [
+     "Dhyan Sreenivasan",
+     "Aparna Das",
+     "Jacob Gregory",
+     "Kalesh Ramanand",
+     "Ardra Mohan",
+     "Renji Panicker"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.8",
+      "votes": 806,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:51.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dhyan Sreenivasan",
+     "character": "Mithun",
+     "slug": "dhyan-sreenivasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5osJr8O74M3dq5GqbOfDGuSAIJx.jpg"
+    },
+    {
+     "name": "Aparna Das",
+     "character": "Amaya",
+     "slug": "aparna-das",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eLcg4bZfNVOW0h0T7AWonpSpu3g.jpg"
+    },
+    {
+     "name": "Jacob Gregory",
+     "character": "Prince",
+     "slug": "jacob-gregory",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1wfvMQTUM2OjZwoOoa0TlPfOvMC.jpg"
+    },
+    {
+     "name": "Kalesh Ramanand",
+     "character": "Moorthy",
+     "slug": "kalesh-ramanand",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/865gFRupfBT3zPRNNl7AHnjcFwT.jpg"
+    },
+    {
+     "name": "Ardra Mohan",
+     "character": "Shreya",
+     "slug": "ardra-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cZaCOyZpA8G7AHIqHM7uOMbXPwN.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "MLA",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5MGztWs1yxlptGDzeofC2jG7cAm.jpg"
+    },
+    {
+     "name": "Jayakrishnan",
+     "character": "Madhu",
+     "slug": "jayakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rp8IoqKBxQk9i8GYaHqqX824aVL.jpg"
+    },
+    {
+     "name": "Abhiram Radhakrishnan",
+     "character": "Faizi",
+     "slug": "abhiram-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AjTvCsrPkiOLYblggiMlUAketU.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "S. N. Swamy",
+       "slug": "s-n-swamy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "S. N. Swamy",
+       "slug": "s-n-swamy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jackson Johnson",
+       "slug": "jackson-johnson"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Basodh T Baburaj",
+       "slug": "basodh-t-baburaj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Rajendra Prasad",
+       "slug": "rajendra-prasad-13172"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lakshmi Parvathy Vision",
+     "slug": "lakshmi-parvathy-vision",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2024-07-26",
+     "gross": 1560670.6,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 654,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1560670.6,
+    "totalShows": 654,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 1560670.6
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1560670.6
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-07-26"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 545,
+    "title": "Secret",
+    "img": "https://image.tmdb.org/t/p/original/eYPozDNCjySTEs4hhhGTXReLpu1.jpg",
+    "released": "2024-07-26",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27494298",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "117 min",
+    "genre": "Thriller, Mystery, Drama",
+    "plot": "A man tries desperately to change his fate after an astrology reading predicts the death of his fiancé.",
+    "released": "2024-07-26",
+    "director": "S. N. Swamy",
+    "directorSlug": "s-n-swamy",
+    "actors": [
+     "Dhyan Sreenivasan",
+     "Aparna Das",
+     "Jacob Gregory",
+     "Kalesh Ramanand",
+     "Ardra Mohan",
+     "Renji Panicker"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.8",
+      "votes": 806,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:51.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dhyan Sreenivasan",
+     "character": "Mithun",
+     "slug": "dhyan-sreenivasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5osJr8O74M3dq5GqbOfDGuSAIJx.jpg"
+    },
+    {
+     "name": "Aparna Das",
+     "character": "Amaya",
+     "slug": "aparna-das",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eLcg4bZfNVOW0h0T7AWonpSpu3g.jpg"
+    },
+    {
+     "name": "Jacob Gregory",
+     "character": "Prince",
+     "slug": "jacob-gregory",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1wfvMQTUM2OjZwoOoa0TlPfOvMC.jpg"
+    },
+    {
+     "name": "Kalesh Ramanand",
+     "character": "Moorthy",
+     "slug": "kalesh-ramanand",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/865gFRupfBT3zPRNNl7AHnjcFwT.jpg"
+    },
+    {
+     "name": "Ardra Mohan",
+     "character": "Shreya",
+     "slug": "ardra-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cZaCOyZpA8G7AHIqHM7uOMbXPwN.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "MLA",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5MGztWs1yxlptGDzeofC2jG7cAm.jpg"
+    },
+    {
+     "name": "Jayakrishnan",
+     "character": "Madhu",
+     "slug": "jayakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rp8IoqKBxQk9i8GYaHqqX824aVL.jpg"
+    },
+    {
+     "name": "Abhiram Radhakrishnan",
+     "character": "Faizi",
+     "slug": "abhiram-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AjTvCsrPkiOLYblggiMlUAketU.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "S. N. Swamy",
+       "slug": "s-n-swamy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "S. N. Swamy",
+       "slug": "s-n-swamy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jackson Johnson",
+       "slug": "jackson-johnson"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Basodh T Baburaj",
+       "slug": "basodh-t-baburaj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Rajendra Prasad",
+       "slug": "rajendra-prasad-13172"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lakshmi Parvathy Vision",
+     "slug": "lakshmi-parvathy-vision",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1560670.6,
+    "totalShows": 654,
+    "totalDays": 13,
+    "openingDay": {
+     "day": 1,
+     "gross": 549389,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 549389,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-07-26"
+   }
+  }
+ }
+}

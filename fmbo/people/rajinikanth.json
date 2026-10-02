@@ -1,0 +1,62 @@
+{
+ "slug": "rajinikanth",
+ "name": "Rajinikanth",
+ "source_url": "https://fridaymatinee.in/people/rajinikanth",
+ "captured_at": "2026-10-02T08:34:10.076590+00:00",
+ "person": {
+  "name": "Rajinikanth",
+  "photo": "https://image.tmdb.org/t/p/w185/cQBcrXqcQPfXOQfNfgO3slJM2xi.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 50,
+   "movie_slug": "darbar",
+   "title": "Darbar",
+   "year": 2020,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 86,
+   "movie_slug": "annaatthe",
+   "title": "Annaatthe",
+   "year": 2021,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 414,
+   "movie_slug": "jailer",
+   "title": "Jailer",
+   "year": 2023,
+   "kerala_gross": "₹42.4 Cr"
+  },
+  {
+   "movie_id": 582,
+   "movie_slug": "vettaiyan",
+   "title": "Vettaiyan",
+   "year": 2024,
+   "kerala_gross": "₹13.1 Cr"
+  },
+  {
+   "movie_id": 765,
+   "movie_slug": "coolie",
+   "title": "Coolie",
+   "year": 2025,
+   "kerala_gross": "₹22.9 Cr"
+  },
+  {
+   "movie_id": 1271,
+   "movie_slug": "jailer-2",
+   "title": "Jailer 2",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

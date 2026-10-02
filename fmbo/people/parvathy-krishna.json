@@ -1,0 +1,41 @@
+{
+ "slug": "parvathy-krishna",
+ "name": "Parvathy Krishna",
+ "source_url": "https://fridaymatinee.in/people/parvathy-krishna",
+ "captured_at": "2026-10-02T01:14:00.246255+00:00",
+ "person": {
+  "name": "Parvathy Krishna",
+  "photo": "https://image.tmdb.org/t/p/w185/69Y1vWqHkDFlYe92kGNb7fmIMeG.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 355,
+   "movie_slug": "kadina-kadoramee-andakadaham",
+   "title": "Kadina Kadoramee Andakadaham",
+   "year": 2023,
+   "kerala_gross": "₹42.7L"
+  },
+  {
+   "movie_id": 523,
+   "movie_slug": "grrr",
+   "title": "Grrr..",
+   "year": 2024,
+   "kerala_gross": "₹2.9 Cr"
+  },
+  {
+   "movie_id": 1259,
+   "movie_slug": "it-s-a-medical-miracle",
+   "title": "It's A Medical Miracle",
+   "year": 2026,
+   "kerala_gross": "₹2.2 Cr"
+  }
+ ]
+}

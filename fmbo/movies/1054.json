@@ -1,0 +1,740 @@
+{
+ "id": 1054,
+ "slug": "pagida-kali",
+ "source_url": "https://fridaymatinee.in/boxoffice/pagida-kali-1054",
+ "captured_at": "2026-10-01T18:59:25.321126+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1054,
+    "title": "Pagida Kali",
+    "img": null,
+    "released": "2026-04-03",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt40620387",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": null,
+    "plot": "A Kerala murder sparks fear and confusion. Then a child vanishes mysteriously. The investigation intensifies and spreads beyond state borders in this suspenseful thriller.",
+    "released": "2026-04-03",
+    "director": "Nishad Hassan",
+    "directorSlug": "nishad-hassan",
+    "actors": [
+     "Devasurya",
+     "Tryambaka Rana Dive",
+     "Tito Wilson",
+     "Amal Suresh",
+     "Prince John",
+     "Akshara"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T13:10:18.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Devasurya",
+     "character": null,
+     "slug": "devasurya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sRalW1Pu2m0O7aa1YF1L7TxiLgN.jpg"
+    },
+    {
+     "name": "Tryambaka Rana Dive",
+     "character": null,
+     "slug": "tryambaka-rana-dive",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Tito Wilson",
+     "character": null,
+     "slug": "tito-wilson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pynJaNvKviTTnzfQDJc6GyANyaF.jpg"
+    },
+    {
+     "name": "Amal Suresh",
+     "character": null,
+     "slug": "amal-suresh",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Prince John",
+     "character": null,
+     "slug": "prince-john",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Akshara",
+     "character": null,
+     "slug": "akshara",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Ranjitha Mukund",
+     "character": null,
+     "slug": "ranjitha-mukund",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Anna Mariya",
+     "character": null,
+     "slug": "anna-mariya",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nishad Hassan",
+       "slug": "nishad-hassan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Nishad Hassan",
+       "slug": "nishad-hassan"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-04-03": [
+     {
+      "id": 1035,
+      "title": "Ready or Not 2: Here I Come",
+      "img": "https://image.tmdb.org/t/p/original/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
+     },
+     {
+      "id": 1049,
+      "title": "The Super Mario Galaxy Movie",
+      "img": "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+     },
+     {
+      "id": 1051,
+      "title": "The Drama",
+      "img": "https://image.tmdb.org/t/p/original/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-04-03",
+     "gross": 124869,
+     "sold": 678,
+     "unsold": 5162,
+     "shows": 34,
+     "occ": 11.61,
+     "hf": "2",
+     "almost": "3",
+     "ff": "1",
+     "cumul": 124869,
+     "lastUpdatedAt": "2026-04-03 21:53:00"
+    },
+    {
+     "label": "2026-04-04",
+     "gross": 78254,
+     "sold": 499,
+     "unsold": 5117,
+     "shows": 33,
+     "occ": 8.89,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 203123,
+     "lastUpdatedAt": "2026-04-04 21:53:00"
+    },
+    {
+     "label": "2026-04-05",
+     "gross": 79754,
+     "sold": 489,
+     "unsold": 4696,
+     "shows": 29,
+     "occ": 9.43,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 282877,
+     "lastUpdatedAt": "2026-04-05 21:53:00"
+    },
+    {
+     "label": "2026-04-06",
+     "gross": 82734,
+     "sold": 571,
+     "unsold": 2521,
+     "shows": 18,
+     "occ": 18.47,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 365611,
+     "lastUpdatedAt": "2026-04-06 21:53:00"
+    },
+    {
+     "label": "2026-04-07",
+     "gross": 21295,
+     "sold": 104,
+     "unsold": 1867,
+     "shows": 11,
+     "occ": 5.28,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 386906,
+     "lastUpdatedAt": "2026-04-07 18:13:00"
+    },
+    {
+     "label": "2026-04-08",
+     "gross": 9020,
+     "sold": 44,
+     "unsold": 1495,
+     "shows": 8,
+     "occ": 2.86,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 395926,
+     "lastUpdatedAt": "2026-04-08 17:53:00"
+    },
+    {
+     "label": "2026-04-09",
+     "gross": 10105,
+     "sold": 45,
+     "unsold": 1089,
+     "shows": 4,
+     "occ": 3.97,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 406031,
+     "lastUpdatedAt": "2026-04-09 17:53:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 406031,
+    "totalShows": 137,
+    "totalSeats": 24377,
+    "totalSold": 2430,
+    "avgOcc": "10.0",
+    "totalDays": 7,
+    "totalHousefull": 4,
+    "totalAlmost": 5,
+    "totalFastFilling": 1,
+    "peakDay": {
+     "day": 1,
+     "gross": 124869,
+     "date": "2026-04-03"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 124869,
+     "date": "2026-04-03"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "7:10105:406031"
+  },
+  "week": {
+   "movie": {
+    "id": 1054,
+    "title": "Pagida Kali",
+    "img": null,
+    "released": "2026-04-03",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt40620387",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": null,
+    "plot": "A Kerala murder sparks fear and confusion. Then a child vanishes mysteriously. The investigation intensifies and spreads beyond state borders in this suspenseful thriller.",
+    "released": "2026-04-03",
+    "director": "Nishad Hassan",
+    "directorSlug": "nishad-hassan",
+    "actors": [
+     "Devasurya",
+     "Tryambaka Rana Dive",
+     "Tito Wilson",
+     "Amal Suresh",
+     "Prince John",
+     "Akshara"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T13:10:18.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Devasurya",
+     "character": null,
+     "slug": "devasurya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sRalW1Pu2m0O7aa1YF1L7TxiLgN.jpg"
+    },
+    {
+     "name": "Tryambaka Rana Dive",
+     "character": null,
+     "slug": "tryambaka-rana-dive",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Tito Wilson",
+     "character": null,
+     "slug": "tito-wilson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pynJaNvKviTTnzfQDJc6GyANyaF.jpg"
+    },
+    {
+     "name": "Amal Suresh",
+     "character": null,
+     "slug": "amal-suresh",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Prince John",
+     "character": null,
+     "slug": "prince-john",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Akshara",
+     "character": null,
+     "slug": "akshara",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Ranjitha Mukund",
+     "character": null,
+     "slug": "ranjitha-mukund",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Anna Mariya",
+     "character": null,
+     "slug": "anna-mariya",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nishad Hassan",
+       "slug": "nishad-hassan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Nishad Hassan",
+       "slug": "nishad-hassan"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-04-03": [
+     {
+      "id": 1035,
+      "title": "Ready or Not 2: Here I Come",
+      "img": "https://image.tmdb.org/t/p/original/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
+     },
+     {
+      "id": 1049,
+      "title": "The Super Mario Galaxy Movie",
+      "img": "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+     },
+     {
+      "id": 1051,
+      "title": "The Drama",
+      "img": "https://image.tmdb.org/t/p/original/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-04-03",
+     "gross": 406031,
+     "sold": 2430,
+     "unsold": 21947,
+     "shows": 137,
+     "occ": 9.97,
+     "hf": "4",
+     "almost": "5",
+     "ff": "1",
+     "cumul": 406031,
+     "lastUpdatedAt": "2026-04-09 17:53:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 406031,
+    "totalShows": 137,
+    "totalSeats": 24377,
+    "totalSold": 2430,
+    "avgOcc": "10.0",
+    "totalDays": 1,
+    "totalHousefull": 4,
+    "totalAlmost": 5,
+    "totalFastFilling": 1,
+    "peakDay": {
+     "day": 1,
+     "gross": 406031
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 406031
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:406031:406031"
+  },
+  "district": {
+   "movie": {
+    "id": 1054,
+    "title": "Pagida Kali",
+    "img": null,
+    "released": "2026-04-03",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt40620387",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": null,
+    "plot": "A Kerala murder sparks fear and confusion. Then a child vanishes mysteriously. The investigation intensifies and spreads beyond state borders in this suspenseful thriller.",
+    "released": "2026-04-03",
+    "director": "Nishad Hassan",
+    "directorSlug": "nishad-hassan",
+    "actors": [
+     "Devasurya",
+     "Tryambaka Rana Dive",
+     "Tito Wilson",
+     "Amal Suresh",
+     "Prince John",
+     "Akshara"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T13:10:18.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Devasurya",
+     "character": null,
+     "slug": "devasurya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sRalW1Pu2m0O7aa1YF1L7TxiLgN.jpg"
+    },
+    {
+     "name": "Tryambaka Rana Dive",
+     "character": null,
+     "slug": "tryambaka-rana-dive",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Tito Wilson",
+     "character": null,
+     "slug": "tito-wilson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pynJaNvKviTTnzfQDJc6GyANyaF.jpg"
+    },
+    {
+     "name": "Amal Suresh",
+     "character": null,
+     "slug": "amal-suresh",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Prince John",
+     "character": null,
+     "slug": "prince-john",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Akshara",
+     "character": null,
+     "slug": "akshara",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Ranjitha Mukund",
+     "character": null,
+     "slug": "ranjitha-mukund",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Anna Mariya",
+     "character": null,
+     "slug": "anna-mariya",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nishad Hassan",
+       "slug": "nishad-hassan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Nishad Hassan",
+       "slug": "nishad-hassan"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-04-03": [
+     {
+      "id": 1035,
+      "title": "Ready or Not 2: Here I Come",
+      "img": "https://image.tmdb.org/t/p/original/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
+     },
+     {
+      "id": 1049,
+      "title": "The Super Mario Galaxy Movie",
+      "img": "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+     },
+     {
+      "id": 1051,
+      "title": "The Drama",
+      "img": "https://image.tmdb.org/t/p/original/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Thrissur",
+     "gross": 99750,
+     "sold": 488,
+     "unsold": 900,
+     "shows": 10,
+     "occ": 35.16,
+     "hf": "0",
+     "almost": "1",
+     "ff": "1",
+     "cumul": 99750,
+     "lastUpdatedAt": "2026-04-09 13:28:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 70101,
+     "sold": 396,
+     "unsold": 3657,
+     "shows": 23,
+     "occ": 9.77,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 169851,
+     "lastUpdatedAt": "2026-04-09 17:53:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 63328,
+     "sold": 460,
+     "unsold": 2655,
+     "shows": 13,
+     "occ": 14.77,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 233179,
+     "lastUpdatedAt": "2026-04-08 11:14:00"
+    },
+    {
+     "label": "Ernakulam",
+     "gross": 49120,
+     "sold": 246,
+     "unsold": 2041,
+     "shows": 20,
+     "occ": 10.76,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 282299,
+     "lastUpdatedAt": "2026-04-08 10:28:00"
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 48070,
+     "sold": 289,
+     "unsold": 1507,
+     "shows": 11,
+     "occ": 16.09,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 330369,
+     "lastUpdatedAt": "2026-04-07 09:23:00"
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 21788,
+     "sold": 168,
+     "unsold": 558,
+     "shows": 6,
+     "occ": 23.14,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 352157,
+     "lastUpdatedAt": "2026-04-06 13:28:00"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 16800,
+     "sold": 140,
+     "unsold": 5967,
+     "shows": 17,
+     "occ": 2.29,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 368957,
+     "lastUpdatedAt": "2026-04-09 14:23:00"
+    },
+    {
+     "label": "Pathanamthitta",
+     "gross": 15765,
+     "sold": 105,
+     "unsold": 1173,
+     "shows": 9,
+     "occ": 8.22,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 384722,
+     "lastUpdatedAt": "2026-04-08 10:53:00"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 10350,
+     "sold": 69,
+     "unsold": 227,
+     "shows": 4,
+     "occ": 23.31,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 395072,
+     "lastUpdatedAt": "2026-04-06 16:28:00"
+    },
+    {
+     "label": "Idukki",
+     "gross": 10089,
+     "sold": 66,
+     "unsold": 1378,
+     "shows": 14,
+     "occ": 4.57,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 405161,
+     "lastUpdatedAt": "2026-04-08 11:53:00"
+    },
+    {
+     "label": "Kollam",
+     "gross": 870,
+     "sold": 3,
+     "unsold": 1212,
+     "shows": 7,
+     "occ": 0.25,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 406031,
+     "lastUpdatedAt": "2026-04-05 10:23:00"
+    },
+    {
+     "label": "Wayanad",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 672,
+     "shows": 3,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 406031,
+     "lastUpdatedAt": "2026-04-05 11:23:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 406031,
+    "totalShows": 137,
+    "totalSeats": 24377,
+    "totalSold": 2430,
+    "avgOcc": "10.0",
+    "totalDays": 12,
+    "totalHousefull": 4,
+    "totalAlmost": 5,
+    "totalFastFilling": 1,
+    "peakDay": {
+     "day": 1,
+     "gross": 99750,
+     "date": "Thrissur"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 99750,
+     "date": "Thrissur"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "12:0:406031"
+  }
+ }
+}

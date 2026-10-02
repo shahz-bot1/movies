@@ -1,0 +1,633 @@
+{
+ "id": 698,
+ "slug": "azadi",
+ "source_url": "https://fridaymatinee.in/boxoffice/azadi-698",
+ "captured_at": "2026-10-01T18:19:40.054542+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 698,
+    "title": "Azadi",
+    "img": "https://image.tmdb.org/t/p/original/tFpHKVB9xdRJXE1nN3k0x0k4LfV.jpg",
+    "released": "2025-05-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27494358",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "129 min",
+    "genre": "Drama, Thriller",
+    "plot": "An elaborate plan is made to break a pregnant woman out of prison.",
+    "released": "2025-05-23",
+    "director": "Joe George",
+    "directorSlug": "joe-george",
+    "actors": [
+     "Sreenath Bhasi",
+     "Raveena Ravi",
+     "Vani Viswanath",
+     "Lal",
+     "Saiju Kurup",
+     "Rajesh Sharma"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 875,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:11:06.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sreenath Bhasi",
+     "character": "Raghu",
+     "slug": "sreenath-bhasi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oPsXUtaE0ZslhaGRdtww0ZpMRe7.jpg"
+    },
+    {
+     "name": "Raveena Ravi",
+     "character": "Ganga",
+     "slug": "raveena-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xFBHKFjcMp1ujk5UJeiuhf2vGwO.jpg"
+    },
+    {
+     "name": "Vani Viswanath",
+     "character": "Rani IPS",
+     "slug": "vani-viswanath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gQ6u4Wlw3auhgHVJ5I9cYDvGy9n.jpg"
+    },
+    {
+     "name": "Lal",
+     "character": "Shivan",
+     "slug": "lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Sam",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Rajesh Sharma",
+     "character": "Paapan",
+     "slug": "rajesh-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AsYcBF5qQhSP7cQvhndLtz1aSrK.jpg"
+    },
+    {
+     "name": "Anwyn Wayne",
+     "character": "Bystander",
+     "slug": "anwyn-wayne",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aRoEFvbpXPvIApa0aSIjAP3vDyC.jpg"
+    },
+    {
+     "name": "Abhiram Radhakrishnan",
+     "character": "Sathyan",
+     "slug": "abhiram-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AjTvCsrPkiOLYblggiMlUAketU.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Joe George",
+       "slug": "joe-george"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sagar Hari",
+       "slug": "sagar-hari"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Varun Unni",
+       "slug": "varun-unni"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Saneesh Stanly",
+       "slug": "saneesh-stanly"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Noufal Abdulla",
+       "slug": "noufal-abdulla"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Faizal Raja",
+       "slug": "faizal-raja"
+      },
+      {
+       "name": "Ramees Raja",
+       "slug": "ramees-raja"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Little Crew Productions",
+     "slug": "little-crew-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5691893,
+    "totalShows": 2319,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1122138.4,
+     "date": "2025-05-23"
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 1234028.6,
+     "date": "2025-05-24"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-05-23"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 698,
+    "title": "Azadi",
+    "img": "https://image.tmdb.org/t/p/original/tFpHKVB9xdRJXE1nN3k0x0k4LfV.jpg",
+    "released": "2025-05-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27494358",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "129 min",
+    "genre": "Drama, Thriller",
+    "plot": "An elaborate plan is made to break a pregnant woman out of prison.",
+    "released": "2025-05-23",
+    "director": "Joe George",
+    "directorSlug": "joe-george",
+    "actors": [
+     "Sreenath Bhasi",
+     "Raveena Ravi",
+     "Vani Viswanath",
+     "Lal",
+     "Saiju Kurup",
+     "Rajesh Sharma"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 875,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:11:06.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sreenath Bhasi",
+     "character": "Raghu",
+     "slug": "sreenath-bhasi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oPsXUtaE0ZslhaGRdtww0ZpMRe7.jpg"
+    },
+    {
+     "name": "Raveena Ravi",
+     "character": "Ganga",
+     "slug": "raveena-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xFBHKFjcMp1ujk5UJeiuhf2vGwO.jpg"
+    },
+    {
+     "name": "Vani Viswanath",
+     "character": "Rani IPS",
+     "slug": "vani-viswanath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gQ6u4Wlw3auhgHVJ5I9cYDvGy9n.jpg"
+    },
+    {
+     "name": "Lal",
+     "character": "Shivan",
+     "slug": "lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Sam",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Rajesh Sharma",
+     "character": "Paapan",
+     "slug": "rajesh-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AsYcBF5qQhSP7cQvhndLtz1aSrK.jpg"
+    },
+    {
+     "name": "Anwyn Wayne",
+     "character": "Bystander",
+     "slug": "anwyn-wayne",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aRoEFvbpXPvIApa0aSIjAP3vDyC.jpg"
+    },
+    {
+     "name": "Abhiram Radhakrishnan",
+     "character": "Sathyan",
+     "slug": "abhiram-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AjTvCsrPkiOLYblggiMlUAketU.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Joe George",
+       "slug": "joe-george"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sagar Hari",
+       "slug": "sagar-hari"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Varun Unni",
+       "slug": "varun-unni"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Saneesh Stanly",
+       "slug": "saneesh-stanly"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Noufal Abdulla",
+       "slug": "noufal-abdulla"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Faizal Raja",
+       "slug": "faizal-raja"
+      },
+      {
+       "name": "Ramees Raja",
+       "slug": "ramees-raja"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Little Crew Productions",
+     "slug": "little-crew-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-05-23",
+     "gross": 5040784,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1946,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-05-30",
+     "gross": 651109,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 373,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5691893,
+    "totalShows": 2319,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 5040784
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5040784
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-05-23"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 698,
+    "title": "Azadi",
+    "img": "https://image.tmdb.org/t/p/original/tFpHKVB9xdRJXE1nN3k0x0k4LfV.jpg",
+    "released": "2025-05-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27494358",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "129 min",
+    "genre": "Drama, Thriller",
+    "plot": "An elaborate plan is made to break a pregnant woman out of prison.",
+    "released": "2025-05-23",
+    "director": "Joe George",
+    "directorSlug": "joe-george",
+    "actors": [
+     "Sreenath Bhasi",
+     "Raveena Ravi",
+     "Vani Viswanath",
+     "Lal",
+     "Saiju Kurup",
+     "Rajesh Sharma"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 875,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:11:06.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sreenath Bhasi",
+     "character": "Raghu",
+     "slug": "sreenath-bhasi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oPsXUtaE0ZslhaGRdtww0ZpMRe7.jpg"
+    },
+    {
+     "name": "Raveena Ravi",
+     "character": "Ganga",
+     "slug": "raveena-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xFBHKFjcMp1ujk5UJeiuhf2vGwO.jpg"
+    },
+    {
+     "name": "Vani Viswanath",
+     "character": "Rani IPS",
+     "slug": "vani-viswanath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gQ6u4Wlw3auhgHVJ5I9cYDvGy9n.jpg"
+    },
+    {
+     "name": "Lal",
+     "character": "Shivan",
+     "slug": "lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Sam",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Rajesh Sharma",
+     "character": "Paapan",
+     "slug": "rajesh-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AsYcBF5qQhSP7cQvhndLtz1aSrK.jpg"
+    },
+    {
+     "name": "Anwyn Wayne",
+     "character": "Bystander",
+     "slug": "anwyn-wayne",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aRoEFvbpXPvIApa0aSIjAP3vDyC.jpg"
+    },
+    {
+     "name": "Abhiram Radhakrishnan",
+     "character": "Sathyan",
+     "slug": "abhiram-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AjTvCsrPkiOLYblggiMlUAketU.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Joe George",
+       "slug": "joe-george"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sagar Hari",
+       "slug": "sagar-hari"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Varun Unni",
+       "slug": "varun-unni"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Saneesh Stanly",
+       "slug": "saneesh-stanly"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Noufal Abdulla",
+       "slug": "noufal-abdulla"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Faizal Raja",
+       "slug": "faizal-raja"
+      },
+      {
+       "name": "Ramees Raja",
+       "slug": "ramees-raja"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Little Crew Productions",
+     "slug": "little-crew-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5691893,
+    "totalShows": 2319,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 1971519,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1971519,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-05-23"
+   }
+  }
+ }
+}

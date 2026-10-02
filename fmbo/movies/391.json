@@ -1,0 +1,714 @@
+{
+ "id": 391,
+ "slug": "deva",
+ "source_url": "https://fridaymatinee.in/boxoffice/deva-391",
+ "captured_at": "2026-10-01T18:11:01.230806+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 391,
+    "title": "Deva",
+    "img": "https://image.tmdb.org/t/p/original/gHIyRuVTs3sbvyDaH6kOHeDCEeD.jpg",
+    "released": "2025-01-31",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27852049",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "155 min",
+    "genre": "Action, Thriller, Mystery, Crime",
+    "plot": "Dev Ambre, a ruthless cop, loses his memory in an accident just after he has finished solving a murder case and now has to reinvestigate it while keeping his memory loss a secret from everyone except DCP Farhan Khan.",
+    "released": "2025-01-31",
+    "director": "Rosshan Andrrews",
+    "directorSlug": "rosshan-andrrews",
+    "actors": [
+     "Shahid Kapoor",
+     "Pooja Hegde",
+     "Pavail Gulati",
+     "Pravessh Rana",
+     "Girish Kulkarni",
+     "Kubbra Sait"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 30336,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.2",
+      "votes": 68,
+      "updatedAt": "2026-09-24T22:10:20.000Z"
+     },
+     "rt": "46%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shahid Kapoor",
+     "character": "Dev Ambre",
+     "slug": "shahid-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/q5jqLRioZgIVjXpKS8XHx27ScDQ.jpg"
+    },
+    {
+     "name": "Pooja Hegde",
+     "character": "Diya Sathaye",
+     "slug": "pooja-hegde",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2ZxrR6DVIWtDDtmIhJ6i64wwWSU.jpg"
+    },
+    {
+     "name": "Pavail Gulati",
+     "character": "ACP Rohan D'Silva",
+     "slug": "pavail-gulati",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xXvbAiEJoshH6SX8AycDpangjrX.jpg"
+    },
+    {
+     "name": "Pravessh Rana",
+     "character": "DCP Farhan Khan",
+     "slug": "pravessh-rana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3Ob2Fz0643Yir4tSC2t0B7Sf46r.jpg"
+    },
+    {
+     "name": "Girish Kulkarni",
+     "character": "Jairaj Apte",
+     "slug": "girish-kulkarni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mMqLm0Y42cVDvTvGZzSgYW1aYA7.jpg"
+    },
+    {
+     "name": "Kubbra Sait",
+     "character": "Dipti Singh",
+     "slug": "kubbra-sait",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/r10S8LU2HB2zTQx9KHeo8isufs6.jpg"
+    },
+    {
+     "name": "Sahidur Rahaman",
+     "character": "Sumer",
+     "slug": "sahidur-rahaman",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Meenal Sahu",
+     "character": "Rebecca",
+     "slug": "meenal-sahu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/twKE7uMLMWOv3KR4bRZgv7WsNKc.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rosshan Andrrews",
+       "slug": "rosshan-andrrews"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Bobby",
+       "slug": "bobby"
+      },
+      {
+       "name": "Sanjay",
+       "slug": "sanjay"
+      },
+      {
+       "name": "Sumit Arora",
+       "slug": "sumit-arora"
+      },
+      {
+       "name": "Arshad Syed",
+       "slug": "arshad-syed"
+      },
+      {
+       "name": "Hussain Dalal",
+       "slug": "hussain-dalal"
+      },
+      {
+       "name": "Abbas Dalal",
+       "slug": "abbas-dalal"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishal Mishra",
+       "slug": "vishal-mishra"
+      },
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Amit Roy",
+       "slug": "amit-roy"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreekar Prasad",
+       "slug": "sreekar-prasad"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Siddharth Roy Kapur",
+       "slug": "siddharth-roy-kapur"
+      },
+      {
+       "name": "Umesh Bansal",
+       "slug": "umesh-bansal"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Zee Studios",
+     "slug": "zee-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png"
+    },
+    {
+     "name": "Roy Kapur Films",
+     "slug": "roy-kapur-films",
+     "logo": "https://image.tmdb.org/t/p/w185/yAphiXGgomJpDZfHYpjw3FX975R.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-03-28",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1155502,
+    "totalShows": 233,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 274865,
+     "date": "2025-01-31"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 274865,
+     "date": "2025-01-31"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-31"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 391,
+    "title": "Deva",
+    "img": "https://image.tmdb.org/t/p/original/gHIyRuVTs3sbvyDaH6kOHeDCEeD.jpg",
+    "released": "2025-01-31",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27852049",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "155 min",
+    "genre": "Action, Thriller, Mystery, Crime",
+    "plot": "Dev Ambre, a ruthless cop, loses his memory in an accident just after he has finished solving a murder case and now has to reinvestigate it while keeping his memory loss a secret from everyone except DCP Farhan Khan.",
+    "released": "2025-01-31",
+    "director": "Rosshan Andrrews",
+    "directorSlug": "rosshan-andrrews",
+    "actors": [
+     "Shahid Kapoor",
+     "Pooja Hegde",
+     "Pavail Gulati",
+     "Pravessh Rana",
+     "Girish Kulkarni",
+     "Kubbra Sait"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 30336,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.2",
+      "votes": 68,
+      "updatedAt": "2026-09-24T22:10:20.000Z"
+     },
+     "rt": "46%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shahid Kapoor",
+     "character": "Dev Ambre",
+     "slug": "shahid-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/q5jqLRioZgIVjXpKS8XHx27ScDQ.jpg"
+    },
+    {
+     "name": "Pooja Hegde",
+     "character": "Diya Sathaye",
+     "slug": "pooja-hegde",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2ZxrR6DVIWtDDtmIhJ6i64wwWSU.jpg"
+    },
+    {
+     "name": "Pavail Gulati",
+     "character": "ACP Rohan D'Silva",
+     "slug": "pavail-gulati",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xXvbAiEJoshH6SX8AycDpangjrX.jpg"
+    },
+    {
+     "name": "Pravessh Rana",
+     "character": "DCP Farhan Khan",
+     "slug": "pravessh-rana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3Ob2Fz0643Yir4tSC2t0B7Sf46r.jpg"
+    },
+    {
+     "name": "Girish Kulkarni",
+     "character": "Jairaj Apte",
+     "slug": "girish-kulkarni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mMqLm0Y42cVDvTvGZzSgYW1aYA7.jpg"
+    },
+    {
+     "name": "Kubbra Sait",
+     "character": "Dipti Singh",
+     "slug": "kubbra-sait",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/r10S8LU2HB2zTQx9KHeo8isufs6.jpg"
+    },
+    {
+     "name": "Sahidur Rahaman",
+     "character": "Sumer",
+     "slug": "sahidur-rahaman",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Meenal Sahu",
+     "character": "Rebecca",
+     "slug": "meenal-sahu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/twKE7uMLMWOv3KR4bRZgv7WsNKc.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rosshan Andrrews",
+       "slug": "rosshan-andrrews"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Bobby",
+       "slug": "bobby"
+      },
+      {
+       "name": "Sanjay",
+       "slug": "sanjay"
+      },
+      {
+       "name": "Sumit Arora",
+       "slug": "sumit-arora"
+      },
+      {
+       "name": "Arshad Syed",
+       "slug": "arshad-syed"
+      },
+      {
+       "name": "Hussain Dalal",
+       "slug": "hussain-dalal"
+      },
+      {
+       "name": "Abbas Dalal",
+       "slug": "abbas-dalal"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishal Mishra",
+       "slug": "vishal-mishra"
+      },
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Amit Roy",
+       "slug": "amit-roy"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreekar Prasad",
+       "slug": "sreekar-prasad"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Siddharth Roy Kapur",
+       "slug": "siddharth-roy-kapur"
+      },
+      {
+       "name": "Umesh Bansal",
+       "slug": "umesh-bansal"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Zee Studios",
+     "slug": "zee-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png"
+    },
+    {
+     "name": "Roy Kapur Films",
+     "slug": "roy-kapur-films",
+     "logo": "https://image.tmdb.org/t/p/w185/yAphiXGgomJpDZfHYpjw3FX975R.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-03-28",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-01-31",
+     "gross": 1052203,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 223,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-07",
+     "gross": 103299,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 10,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1155502,
+    "totalShows": 233,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 1052203
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1052203
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-31"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 391,
+    "title": "Deva",
+    "img": "https://image.tmdb.org/t/p/original/gHIyRuVTs3sbvyDaH6kOHeDCEeD.jpg",
+    "released": "2025-01-31",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27852049",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "155 min",
+    "genre": "Action, Thriller, Mystery, Crime",
+    "plot": "Dev Ambre, a ruthless cop, loses his memory in an accident just after he has finished solving a murder case and now has to reinvestigate it while keeping his memory loss a secret from everyone except DCP Farhan Khan.",
+    "released": "2025-01-31",
+    "director": "Rosshan Andrrews",
+    "directorSlug": "rosshan-andrrews",
+    "actors": [
+     "Shahid Kapoor",
+     "Pooja Hegde",
+     "Pavail Gulati",
+     "Pravessh Rana",
+     "Girish Kulkarni",
+     "Kubbra Sait"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 30336,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.2",
+      "votes": 68,
+      "updatedAt": "2026-09-24T22:10:20.000Z"
+     },
+     "rt": "46%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shahid Kapoor",
+     "character": "Dev Ambre",
+     "slug": "shahid-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/q5jqLRioZgIVjXpKS8XHx27ScDQ.jpg"
+    },
+    {
+     "name": "Pooja Hegde",
+     "character": "Diya Sathaye",
+     "slug": "pooja-hegde",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2ZxrR6DVIWtDDtmIhJ6i64wwWSU.jpg"
+    },
+    {
+     "name": "Pavail Gulati",
+     "character": "ACP Rohan D'Silva",
+     "slug": "pavail-gulati",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xXvbAiEJoshH6SX8AycDpangjrX.jpg"
+    },
+    {
+     "name": "Pravessh Rana",
+     "character": "DCP Farhan Khan",
+     "slug": "pravessh-rana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3Ob2Fz0643Yir4tSC2t0B7Sf46r.jpg"
+    },
+    {
+     "name": "Girish Kulkarni",
+     "character": "Jairaj Apte",
+     "slug": "girish-kulkarni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mMqLm0Y42cVDvTvGZzSgYW1aYA7.jpg"
+    },
+    {
+     "name": "Kubbra Sait",
+     "character": "Dipti Singh",
+     "slug": "kubbra-sait",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/r10S8LU2HB2zTQx9KHeo8isufs6.jpg"
+    },
+    {
+     "name": "Sahidur Rahaman",
+     "character": "Sumer",
+     "slug": "sahidur-rahaman",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Meenal Sahu",
+     "character": "Rebecca",
+     "slug": "meenal-sahu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/twKE7uMLMWOv3KR4bRZgv7WsNKc.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rosshan Andrrews",
+       "slug": "rosshan-andrrews"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Bobby",
+       "slug": "bobby"
+      },
+      {
+       "name": "Sanjay",
+       "slug": "sanjay"
+      },
+      {
+       "name": "Sumit Arora",
+       "slug": "sumit-arora"
+      },
+      {
+       "name": "Arshad Syed",
+       "slug": "arshad-syed"
+      },
+      {
+       "name": "Hussain Dalal",
+       "slug": "hussain-dalal"
+      },
+      {
+       "name": "Abbas Dalal",
+       "slug": "abbas-dalal"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishal Mishra",
+       "slug": "vishal-mishra"
+      },
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Amit Roy",
+       "slug": "amit-roy"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreekar Prasad",
+       "slug": "sreekar-prasad"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Siddharth Roy Kapur",
+       "slug": "siddharth-roy-kapur"
+      },
+      {
+       "name": "Umesh Bansal",
+       "slug": "umesh-bansal"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Zee Studios",
+     "slug": "zee-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png"
+    },
+    {
+     "name": "Roy Kapur Films",
+     "slug": "roy-kapur-films",
+     "logo": "https://image.tmdb.org/t/p/w185/yAphiXGgomJpDZfHYpjw3FX975R.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-03-28",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1155502,
+    "totalShows": 233,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 719399,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 719399,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-31"
+   }
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "dil-raju",
+ "name": "Dil Raju",
+ "source_url": "https://fridaymatinee.in/people/dil-raju",
+ "captured_at": "2026-10-01T22:01:04.639746+00:00",
+ "person": {
+  "name": "Dil Raju",
+  "photo": "https://image.tmdb.org/t/p/w185/rKATd51tomVLWw7EjjNgM7uAQCW.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 53,
+   "movie_slug": "sarileru-neekevvaru",
+   "title": "Sarileru Neekevvaru",
+   "year": 2020,
+   "kerala_gross": "₹7.9L"
+  },
+  {
+   "movie_id": 276,
+   "movie_slug": "varisu",
+   "title": "Varisu",
+   "year": 2023,
+   "kerala_gross": "₹7.8 Cr"
+  },
+  {
+   "movie_id": 350,
+   "movie_slug": "shaakuntalam",
+   "title": "Shaakuntalam",
+   "year": 2023,
+   "kerala_gross": "₹4.2L"
+  },
+  {
+   "movie_id": 636,
+   "movie_slug": "game-changer",
+   "title": "Game Changer",
+   "year": 2025,
+   "kerala_gross": "₹62.3L"
+  }
+ ]
+}

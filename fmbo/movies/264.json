@@ -1,0 +1,621 @@
+{
+ "id": 264,
+ "slug": "naalam-mura",
+ "source_url": "https://fridaymatinee.in/boxoffice/naalam-mura-264",
+ "captured_at": "2026-10-01T18:08:07.622451+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 264,
+    "title": "Naalam Mura",
+    "img": "https://image.tmdb.org/t/p/original/p6vcJLB9GmSEzPeHpND79hrRwlu.jpg",
+    "released": "2022-12-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21855564",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "108 min",
+    "genre": "Drama, Thriller",
+    "plot": "Jayesh, an expatriate, is picked up by a bunch of crime-branch officers as soon as he lands at the airport. They take him to an isolated facility to interrogate him for a murder case that has not been solved for years now. Is Jayesh the culprit or are the cops trying to pin the murder on him?",
+    "released": "2022-12-23",
+    "director": "Deepu Anthikkad",
+    "directorSlug": "deepu-anthikkad",
+    "actors": [
+     "Biju Menon",
+     "Guru Somasundaram",
+     "Divya Pillai",
+     "Shanthi Krishna",
+     "Alencier Ley Lopez",
+     "Sheelu Abraham"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.4",
+      "votes": 840,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:48.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Biju Menon",
+     "character": null,
+     "slug": "biju-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kSnzfoZphQGrnOBH7MfU3HMTKGJ.jpg"
+    },
+    {
+     "name": "Guru Somasundaram",
+     "character": "Jayesh",
+     "slug": "guru-somasundaram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eqjEcc6LnZI5teGwOrrArAr5vko.jpg"
+    },
+    {
+     "name": "Divya Pillai",
+     "character": null,
+     "slug": "divya-pillai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n0BfTrgMiF0pAHvwl4Q3xvjHWlL.jpg"
+    },
+    {
+     "name": "Shanthi Krishna",
+     "character": null,
+     "slug": "shanthi-krishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/im8Gxoa5CbCas5H2CMwdOHXOAnV.jpg"
+    },
+    {
+     "name": "Alencier Ley Lopez",
+     "character": null,
+     "slug": "alencier-ley-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWammRTzSJiyK9TROHWkoM9AqzS.jpg"
+    },
+    {
+     "name": "Sheelu Abraham",
+     "character": null,
+     "slug": "sheelu-abraham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ktO9xxA6rzNcfBCVQ6twvSyXYK7.jpg"
+    },
+    {
+     "name": "Dilina Ramakrishnan",
+     "character": null,
+     "slug": "dilina-ramakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/48tj0YFFYsD3ILhKYdGVRur4xS0.jpg"
+    },
+    {
+     "name": "Santhi Mayadevi",
+     "character": "Reema John IPS",
+     "slug": "santhi-mayadevi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pGnYtrkP2Duj7LPMvNMXCCMtilR.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Deepu Anthikkad",
+       "slug": "deepu-anthikkad"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sooraj V Dev",
+       "slug": "sooraj-v-dev"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Kailas Menon",
+       "slug": "kailas-menon"
+      },
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Loganathan Srinivasan",
+       "slug": "loganathan-srinivasan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kishore Varieth",
+       "slug": "kishore-varieth"
+      },
+      {
+       "name": "Sudheesh Pillai",
+       "slug": "sudheesh-pillai"
+      },
+      {
+       "name": "Shibu Anthikad",
+       "slug": "shibu-anthikad"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4893655.6,
+    "totalShows": 1836,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 677674.3999999999,
+     "date": "2022-12-23"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 984803.2,
+     "date": "2022-12-25"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-12-23"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 264,
+    "title": "Naalam Mura",
+    "img": "https://image.tmdb.org/t/p/original/p6vcJLB9GmSEzPeHpND79hrRwlu.jpg",
+    "released": "2022-12-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21855564",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "108 min",
+    "genre": "Drama, Thriller",
+    "plot": "Jayesh, an expatriate, is picked up by a bunch of crime-branch officers as soon as he lands at the airport. They take him to an isolated facility to interrogate him for a murder case that has not been solved for years now. Is Jayesh the culprit or are the cops trying to pin the murder on him?",
+    "released": "2022-12-23",
+    "director": "Deepu Anthikkad",
+    "directorSlug": "deepu-anthikkad",
+    "actors": [
+     "Biju Menon",
+     "Guru Somasundaram",
+     "Divya Pillai",
+     "Shanthi Krishna",
+     "Alencier Ley Lopez",
+     "Sheelu Abraham"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.4",
+      "votes": 840,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:48.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Biju Menon",
+     "character": null,
+     "slug": "biju-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kSnzfoZphQGrnOBH7MfU3HMTKGJ.jpg"
+    },
+    {
+     "name": "Guru Somasundaram",
+     "character": "Jayesh",
+     "slug": "guru-somasundaram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eqjEcc6LnZI5teGwOrrArAr5vko.jpg"
+    },
+    {
+     "name": "Divya Pillai",
+     "character": null,
+     "slug": "divya-pillai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n0BfTrgMiF0pAHvwl4Q3xvjHWlL.jpg"
+    },
+    {
+     "name": "Shanthi Krishna",
+     "character": null,
+     "slug": "shanthi-krishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/im8Gxoa5CbCas5H2CMwdOHXOAnV.jpg"
+    },
+    {
+     "name": "Alencier Ley Lopez",
+     "character": null,
+     "slug": "alencier-ley-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWammRTzSJiyK9TROHWkoM9AqzS.jpg"
+    },
+    {
+     "name": "Sheelu Abraham",
+     "character": null,
+     "slug": "sheelu-abraham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ktO9xxA6rzNcfBCVQ6twvSyXYK7.jpg"
+    },
+    {
+     "name": "Dilina Ramakrishnan",
+     "character": null,
+     "slug": "dilina-ramakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/48tj0YFFYsD3ILhKYdGVRur4xS0.jpg"
+    },
+    {
+     "name": "Santhi Mayadevi",
+     "character": "Reema John IPS",
+     "slug": "santhi-mayadevi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pGnYtrkP2Duj7LPMvNMXCCMtilR.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Deepu Anthikkad",
+       "slug": "deepu-anthikkad"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sooraj V Dev",
+       "slug": "sooraj-v-dev"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Kailas Menon",
+       "slug": "kailas-menon"
+      },
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Loganathan Srinivasan",
+       "slug": "loganathan-srinivasan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kishore Varieth",
+       "slug": "kishore-varieth"
+      },
+      {
+       "name": "Sudheesh Pillai",
+       "slug": "sudheesh-pillai"
+      },
+      {
+       "name": "Shibu Anthikad",
+       "slug": "shibu-anthikad"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-12-23",
+     "gross": 4883175.6,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1835,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-12-30",
+     "gross": 10480,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4893655.6,
+    "totalShows": 1836,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 4883175.6
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4883175.6
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-12-23"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 264,
+    "title": "Naalam Mura",
+    "img": "https://image.tmdb.org/t/p/original/p6vcJLB9GmSEzPeHpND79hrRwlu.jpg",
+    "released": "2022-12-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21855564",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "108 min",
+    "genre": "Drama, Thriller",
+    "plot": "Jayesh, an expatriate, is picked up by a bunch of crime-branch officers as soon as he lands at the airport. They take him to an isolated facility to interrogate him for a murder case that has not been solved for years now. Is Jayesh the culprit or are the cops trying to pin the murder on him?",
+    "released": "2022-12-23",
+    "director": "Deepu Anthikkad",
+    "directorSlug": "deepu-anthikkad",
+    "actors": [
+     "Biju Menon",
+     "Guru Somasundaram",
+     "Divya Pillai",
+     "Shanthi Krishna",
+     "Alencier Ley Lopez",
+     "Sheelu Abraham"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.4",
+      "votes": 840,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:48.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Biju Menon",
+     "character": null,
+     "slug": "biju-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kSnzfoZphQGrnOBH7MfU3HMTKGJ.jpg"
+    },
+    {
+     "name": "Guru Somasundaram",
+     "character": "Jayesh",
+     "slug": "guru-somasundaram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eqjEcc6LnZI5teGwOrrArAr5vko.jpg"
+    },
+    {
+     "name": "Divya Pillai",
+     "character": null,
+     "slug": "divya-pillai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n0BfTrgMiF0pAHvwl4Q3xvjHWlL.jpg"
+    },
+    {
+     "name": "Shanthi Krishna",
+     "character": null,
+     "slug": "shanthi-krishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/im8Gxoa5CbCas5H2CMwdOHXOAnV.jpg"
+    },
+    {
+     "name": "Alencier Ley Lopez",
+     "character": null,
+     "slug": "alencier-ley-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWammRTzSJiyK9TROHWkoM9AqzS.jpg"
+    },
+    {
+     "name": "Sheelu Abraham",
+     "character": null,
+     "slug": "sheelu-abraham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ktO9xxA6rzNcfBCVQ6twvSyXYK7.jpg"
+    },
+    {
+     "name": "Dilina Ramakrishnan",
+     "character": null,
+     "slug": "dilina-ramakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/48tj0YFFYsD3ILhKYdGVRur4xS0.jpg"
+    },
+    {
+     "name": "Santhi Mayadevi",
+     "character": "Reema John IPS",
+     "slug": "santhi-mayadevi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pGnYtrkP2Duj7LPMvNMXCCMtilR.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Deepu Anthikkad",
+       "slug": "deepu-anthikkad"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sooraj V Dev",
+       "slug": "sooraj-v-dev"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Kailas Menon",
+       "slug": "kailas-menon"
+      },
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Loganathan Srinivasan",
+       "slug": "loganathan-srinivasan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kishore Varieth",
+       "slug": "kishore-varieth"
+      },
+      {
+       "name": "Sudheesh Pillai",
+       "slug": "sudheesh-pillai"
+      },
+      {
+       "name": "Shibu Anthikad",
+       "slug": "shibu-anthikad"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4893655.6,
+    "totalShows": 1836,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1175380,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1175380,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-12-23"
+   }
+  }
+ }
+}

@@ -1,0 +1,651 @@
+{
+ "id": 207,
+ "slug": "naane-varuven",
+ "source_url": "https://fridaymatinee.in/boxoffice/naane-varuven-207",
+ "captured_at": "2026-10-01T18:06:38.317348+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 207,
+    "title": "Naane Varuven",
+    "img": "https://image.tmdb.org/t/p/original/pfiAftin05Rw8XhIdxG9wkAwJIU.jpg",
+    "released": "2022-09-29",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt13845438",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Action, Thriller, Horror",
+    "plot": "A father finds out that his teenager daughter is possessed, and the only way he can save her is by doing the ghost's bidding, which will mean an encounter with his long-separated twin - who happens to be a psycho killer.",
+    "released": "2022-09-29",
+    "director": "Selvaraghavan",
+    "directorSlug": "selvaraghavan",
+    "actors": [
+     "Dhanush",
+     "Indhuja Ravichandran",
+     "Elli Avram",
+     "Yogi Babu",
+     "Prabhu",
+     "Hiya Davey"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 5952,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "40%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dhanush",
+     "character": "Prabhu/Kadhir",
+     "slug": "dhanush",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7bI9oy1BXIk58hsOK8WfN5g0i1P.jpg"
+    },
+    {
+     "name": "Indhuja Ravichandran",
+     "character": "Bhuvana",
+     "slug": "indhuja-ravichandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hVUBrieEE83ZfVZSbnfO3CyfcDi.jpg"
+    },
+    {
+     "name": "Elli Avram",
+     "character": "Madhuri",
+     "slug": "elli-avram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d2NMNiZHvDtsNH8NZTxAMis8OtU.jpg"
+    },
+    {
+     "name": "Yogi Babu",
+     "character": "Guna",
+     "slug": "yogi-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+    },
+    {
+     "name": "Prabhu",
+     "character": "Psychiatrist",
+     "slug": "prabhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1ZG65sdJaLrHjTAme5ETZMyqgnM.jpg"
+    },
+    {
+     "name": "Hiya Davey",
+     "character": "Sathya",
+     "slug": "hiya-davey",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Prabhav",
+     "character": null,
+     "slug": "prabhav",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Pranav",
+     "character": null,
+     "slug": "pranav",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Selvaraghavan",
+       "slug": "selvaraghavan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Dhanush",
+       "slug": "dhanush"
+      },
+      {
+       "name": "Selvaraghavan",
+       "slug": "selvaraghavan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Yuvan Shankar Raja",
+       "slug": "yuvan-shankar-raja"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Om Prakash",
+       "slug": "om-prakash"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Bhuvan Srinivasan",
+       "slug": "bhuvan-srinivasan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "S. Thanu",
+       "slug": "s-thanu"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "V Creations",
+     "slug": "v-creations",
+     "logo": "https://image.tmdb.org/t/p/w185/oKvkv0vBwF3U6FxJJV5CMQvPQOL.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-09-29",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3181592.8,
+    "totalShows": 1798,
+    "totalDays": 9,
+    "openingDay": {
+     "day": 1,
+     "gross": 1375132.2,
+     "date": "2022-09-29"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1375132.2,
+     "date": "2022-09-29"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-09-29"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 207,
+    "title": "Naane Varuven",
+    "img": "https://image.tmdb.org/t/p/original/pfiAftin05Rw8XhIdxG9wkAwJIU.jpg",
+    "released": "2022-09-29",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt13845438",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Action, Thriller, Horror",
+    "plot": "A father finds out that his teenager daughter is possessed, and the only way he can save her is by doing the ghost's bidding, which will mean an encounter with his long-separated twin - who happens to be a psycho killer.",
+    "released": "2022-09-29",
+    "director": "Selvaraghavan",
+    "directorSlug": "selvaraghavan",
+    "actors": [
+     "Dhanush",
+     "Indhuja Ravichandran",
+     "Elli Avram",
+     "Yogi Babu",
+     "Prabhu",
+     "Hiya Davey"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 5952,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "40%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dhanush",
+     "character": "Prabhu/Kadhir",
+     "slug": "dhanush",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7bI9oy1BXIk58hsOK8WfN5g0i1P.jpg"
+    },
+    {
+     "name": "Indhuja Ravichandran",
+     "character": "Bhuvana",
+     "slug": "indhuja-ravichandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hVUBrieEE83ZfVZSbnfO3CyfcDi.jpg"
+    },
+    {
+     "name": "Elli Avram",
+     "character": "Madhuri",
+     "slug": "elli-avram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d2NMNiZHvDtsNH8NZTxAMis8OtU.jpg"
+    },
+    {
+     "name": "Yogi Babu",
+     "character": "Guna",
+     "slug": "yogi-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+    },
+    {
+     "name": "Prabhu",
+     "character": "Psychiatrist",
+     "slug": "prabhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1ZG65sdJaLrHjTAme5ETZMyqgnM.jpg"
+    },
+    {
+     "name": "Hiya Davey",
+     "character": "Sathya",
+     "slug": "hiya-davey",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Prabhav",
+     "character": null,
+     "slug": "prabhav",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Pranav",
+     "character": null,
+     "slug": "pranav",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Selvaraghavan",
+       "slug": "selvaraghavan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Dhanush",
+       "slug": "dhanush"
+      },
+      {
+       "name": "Selvaraghavan",
+       "slug": "selvaraghavan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Yuvan Shankar Raja",
+       "slug": "yuvan-shankar-raja"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Om Prakash",
+       "slug": "om-prakash"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Bhuvan Srinivasan",
+       "slug": "bhuvan-srinivasan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "S. Thanu",
+       "slug": "s-thanu"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "V Creations",
+     "slug": "v-creations",
+     "logo": "https://image.tmdb.org/t/p/w185/oKvkv0vBwF3U6FxJJV5CMQvPQOL.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-09-29",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-09-29",
+     "gross": 3047574.8,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1728,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-10-06",
+     "gross": 134018,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 70,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3181592.8,
+    "totalShows": 1798,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 3047574.8
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3047574.8
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-09-29"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 207,
+    "title": "Naane Varuven",
+    "img": "https://image.tmdb.org/t/p/original/pfiAftin05Rw8XhIdxG9wkAwJIU.jpg",
+    "released": "2022-09-29",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt13845438",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Action, Thriller, Horror",
+    "plot": "A father finds out that his teenager daughter is possessed, and the only way he can save her is by doing the ghost's bidding, which will mean an encounter with his long-separated twin - who happens to be a psycho killer.",
+    "released": "2022-09-29",
+    "director": "Selvaraghavan",
+    "directorSlug": "selvaraghavan",
+    "actors": [
+     "Dhanush",
+     "Indhuja Ravichandran",
+     "Elli Avram",
+     "Yogi Babu",
+     "Prabhu",
+     "Hiya Davey"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 5952,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "40%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dhanush",
+     "character": "Prabhu/Kadhir",
+     "slug": "dhanush",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7bI9oy1BXIk58hsOK8WfN5g0i1P.jpg"
+    },
+    {
+     "name": "Indhuja Ravichandran",
+     "character": "Bhuvana",
+     "slug": "indhuja-ravichandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hVUBrieEE83ZfVZSbnfO3CyfcDi.jpg"
+    },
+    {
+     "name": "Elli Avram",
+     "character": "Madhuri",
+     "slug": "elli-avram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d2NMNiZHvDtsNH8NZTxAMis8OtU.jpg"
+    },
+    {
+     "name": "Yogi Babu",
+     "character": "Guna",
+     "slug": "yogi-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+    },
+    {
+     "name": "Prabhu",
+     "character": "Psychiatrist",
+     "slug": "prabhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1ZG65sdJaLrHjTAme5ETZMyqgnM.jpg"
+    },
+    {
+     "name": "Hiya Davey",
+     "character": "Sathya",
+     "slug": "hiya-davey",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Prabhav",
+     "character": null,
+     "slug": "prabhav",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Pranav",
+     "character": null,
+     "slug": "pranav",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Selvaraghavan",
+       "slug": "selvaraghavan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Dhanush",
+       "slug": "dhanush"
+      },
+      {
+       "name": "Selvaraghavan",
+       "slug": "selvaraghavan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Yuvan Shankar Raja",
+       "slug": "yuvan-shankar-raja"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Om Prakash",
+       "slug": "om-prakash"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Bhuvan Srinivasan",
+       "slug": "bhuvan-srinivasan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "S. Thanu",
+       "slug": "s-thanu"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "V Creations",
+     "slug": "v-creations",
+     "logo": "https://image.tmdb.org/t/p/w185/oKvkv0vBwF3U6FxJJV5CMQvPQOL.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-09-29",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3181592.8,
+    "totalShows": 1798,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 913655,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 913655,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-09-29"
+   }
+  }
+ }
+}

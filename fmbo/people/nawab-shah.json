@@ -1,0 +1,48 @@
+{
+ "slug": "nawab-shah",
+ "name": "Nawab Shah",
+ "source_url": "https://fridaymatinee.in/people/nawab-shah",
+ "captured_at": "2026-10-02T00:55:16.476490+00:00",
+ "person": {
+  "name": "Nawab Shah",
+  "photo": "https://image.tmdb.org/t/p/w185/mx168p9eqjrGyaAc3TM6viLIG4L.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 44,
+   "movie_slug": "dabangg-3",
+   "title": "Dabangg 3",
+   "year": 2019,
+   "kerala_gross": "₹28.7L"
+  },
+  {
+   "movie_id": 50,
+   "movie_slug": "darbar",
+   "title": "Darbar",
+   "year": 2020,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 308,
+   "movie_slug": "kabzaa",
+   "title": "Kabzaa",
+   "year": 2023,
+   "kerala_gross": "₹40.7L"
+  },
+  {
+   "movie_id": 673,
+   "movie_slug": "sikandar",
+   "title": "Sikandar",
+   "year": 2025,
+   "kerala_gross": "₹55.7L"
+  }
+ ]
+}

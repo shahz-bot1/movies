@@ -1,0 +1,83 @@
+{
+ "slug": "anthony",
+ "name": "Anthony",
+ "source_url": "https://fridaymatinee.in/people/anthony",
+ "captured_at": "2026-10-01T20:44:18.786243+00:00",
+ "person": {
+  "name": "Anthony",
+  "photo": "https://image.tmdb.org/t/p/w185/zNKpopeEnQUqmHBdqqAYRfkcBhZ.jpg",
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 9
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 42,
+   "movie_slug": "enai-noki-paayum-thota",
+   "title": "Enai Noki Paayum Thota",
+   "year": 2019,
+   "kerala_gross": "₹11.3L"
+  },
+  {
+   "movie_id": 65,
+   "movie_slug": "eeswaran",
+   "title": "Eeswaran",
+   "year": 2021,
+   "kerala_gross": "₹1.4L"
+  },
+  {
+   "movie_id": 157,
+   "movie_slug": "yaanai",
+   "title": "Yaanai",
+   "year": 2022,
+   "kerala_gross": "₹16.6L"
+  },
+  {
+   "movie_id": 204,
+   "movie_slug": "vendhu-thanindhathu-kaadu",
+   "title": "Vendhu Thanindhathu Kaadu",
+   "year": 2022,
+   "kerala_gross": "₹40.9L"
+  },
+  {
+   "movie_id": 565,
+   "movie_slug": "dominic-and-the-ladies-purse",
+   "title": "Dominic And The Ladies Purse",
+   "year": 2025,
+   "kerala_gross": "₹7.7 Cr"
+  },
+  {
+   "movie_id": 709,
+   "movie_slug": "kannappa",
+   "title": "Kannappa",
+   "year": 2025,
+   "kerala_gross": "₹64.0L"
+  },
+  {
+   "movie_id": 663,
+   "movie_slug": "kaantha",
+   "title": "Kaantha",
+   "year": 2025,
+   "kerala_gross": "₹3.6 Cr"
+  },
+  {
+   "movie_id": 955,
+   "movie_slug": "retta-thala",
+   "title": "Retta Thala",
+   "year": 2025,
+   "kerala_gross": "₹3.0L"
+  },
+  {
+   "movie_id": 1149,
+   "movie_slug": "happy-be-happy",
+   "title": "Happy Be Happy",
+   "year": 2026,
+   "kerala_gross": "₹1.1 Cr"
+  }
+ ]
+}

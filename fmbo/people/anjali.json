@@ -1,0 +1,55 @@
+{
+ "slug": "anjali",
+ "name": "Anjali",
+ "source_url": "https://fridaymatinee.in/people/anjali",
+ "captured_at": "2026-10-01T20:40:02.243000+00:00",
+ "person": {
+  "name": "Anjali",
+  "photo": "https://image.tmdb.org/t/p/w185/aTLJCkl6mBXnb5ekKQytd7zTfne.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 285,
+   "movie_slug": "iratta",
+   "title": "Iratta",
+   "year": 2023,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 636,
+   "movie_slug": "game-changer",
+   "title": "Game Changer",
+   "year": 2025,
+   "kerala_gross": "₹62.3L"
+  },
+  {
+   "movie_id": 986,
+   "movie_slug": "mankatha",
+   "title": "Mankatha",
+   "year": 2026,
+   "kerala_gross": "₹12.9L"
+  },
+  {
+   "movie_id": 1231,
+   "movie_slug": "magudam",
+   "title": "Magudam",
+   "year": 2026,
+   "kerala_gross": "₹7.0L"
+  },
+  {
+   "movie_id": 1331,
+   "movie_slug": "yezhu-kadal-yezhu-malai",
+   "title": "Yezhu Kadal Yezhu Malai",
+   "year": 2026,
+   "kerala_gross": "₹10.4L"
+  }
+ ]
+}

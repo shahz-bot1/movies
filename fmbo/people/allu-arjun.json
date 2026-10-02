@@ -1,0 +1,62 @@
+{
+ "slug": "allu-arjun",
+ "name": "Allu Arjun",
+ "source_url": "https://fridaymatinee.in/people/allu-arjun",
+ "captured_at": "2026-10-01T20:26:36.285273+00:00",
+ "person": {
+  "name": "Allu Arjun",
+  "photo": "https://image.tmdb.org/t/p/w185/wHr3bKhYpiDiYVMZLZqebeauEVw.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 54,
+   "movie_slug": "angu-vaikuntapurathu",
+   "title": "Angu Vaikuntapurathu",
+   "year": 2020,
+   "kerala_gross": "₹36.2L"
+  },
+  {
+   "movie_id": 94,
+   "movie_slug": "pushpa-the-rise-part-01",
+   "title": "Pushpa The Rise Part 01",
+   "year": 2021,
+   "kerala_gross": "₹7.7 Cr"
+  },
+  {
+   "movie_id": 338,
+   "movie_slug": "desamuduru",
+   "title": "Desamuduru",
+   "year": 2023,
+   "kerala_gross": "₹94K"
+  },
+  {
+   "movie_id": 607,
+   "movie_slug": "pushpa-2-the-rule",
+   "title": "Pushpa 2 - The Rule",
+   "year": 2024,
+   "kerala_gross": "₹15.1 Cr"
+  },
+  {
+   "movie_id": 1149,
+   "movie_slug": "happy-be-happy",
+   "title": "Happy Be Happy",
+   "year": 2026,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 1317,
+   "movie_slug": "raaka",
+   "title": "Raaka",
+   "year": 2027,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

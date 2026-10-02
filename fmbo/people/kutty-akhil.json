@@ -1,0 +1,41 @@
+{
+ "slug": "kutty-akhil",
+ "name": "Kutty Akhil",
+ "source_url": "https://fridaymatinee.in/people/kutty-akhil",
+ "captured_at": "2026-10-01T23:56:04.467942+00:00",
+ "person": {
+  "name": "Kutty Akhil",
+  "photo": "https://image.tmdb.org/t/p/w185/3VBM6XLenWPnqeMIhcf8aVg4gu9.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 521,
+   "movie_slug": "mandakini",
+   "title": "Mandakini",
+   "year": 2024,
+   "kerala_gross": "₹3.2 Cr"
+  },
+  {
+   "movie_id": 1102,
+   "movie_slug": "angam-attahasam",
+   "title": "Angam Attahasam",
+   "year": 2026,
+   "kerala_gross": "₹15.5L"
+  },
+  {
+   "movie_id": 1257,
+   "movie_slug": "ottam-thullal",
+   "title": "Ottam Thullal",
+   "year": 2026,
+   "kerala_gross": "₹17.5L"
+  }
+ ]
+}

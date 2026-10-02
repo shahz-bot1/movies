@@ -1,0 +1,48 @@
+{
+ "slug": "dev-mohan",
+ "name": "Dev Mohan",
+ "source_url": "https://fridaymatinee.in/people/dev-mohan",
+ "captured_at": "2026-10-01T21:56:28.619447+00:00",
+ "person": {
+  "name": "Dev Mohan",
+  "photo": "https://image.tmdb.org/t/p/w185/e9F4UCwxJ85cIVty2nLJxUIKSyn.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 350,
+   "movie_slug": "shaakuntalam",
+   "title": "Shaakuntalam",
+   "year": 2023,
+   "kerala_gross": "₹4.2L"
+  },
+  {
+   "movie_id": 398,
+   "movie_slug": "dhoomam",
+   "title": "Dhoomam",
+   "year": 2023,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 606,
+   "movie_slug": "parakramam",
+   "title": "Parakramam",
+   "year": 2024,
+   "kerala_gross": "₹22.4L"
+  },
+  {
+   "movie_id": 1180,
+   "movie_slug": "ananthan-kaadu",
+   "title": "Ananthan Kaadu",
+   "year": 2026,
+   "kerala_gross": "₹2.2 Cr"
+  }
+ ]
+}

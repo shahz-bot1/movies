@@ -1,0 +1,708 @@
+{
+ "id": 481,
+ "slug": "neru",
+ "source_url": "https://fridaymatinee.in/boxoffice/neru-481",
+ "captured_at": "2026-10-01T18:13:09.763375+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 481,
+    "title": "Neru",
+    "img": "https://www.themoviedb.org/t/p/w1280/ydO8pogXaMeKb5GCQdVg1JESqvg.jpg",
+    "released": "2023-12-21",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28358950",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "152 min",
+    "genre": "Drama, Thriller",
+    "plot": "'Neru' is an enthralling legal and emotional drama that delves into the life of Sara, a blind sculpture artist on a quest for justice following a harrowing incident.  Against the backdrop of the Indian legal system, this gripping story takes viewers through a rollercoaster of emotions, unveiling layers of deceit and ultimately exploring themes of redemption.",
+    "released": "2023-12-21",
+    "director": "Jeethu Joseph",
+    "directorSlug": "jeethu-joseph",
+    "actors": [
+     "Mohanlal",
+     "Priyamani",
+     "Anaswara Rajan",
+     "Siddique",
+     "K. B. Ganesh Kumar",
+     "Jagadish"
+    ],
+    "awards": "3 wins u0026 7 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 11430,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Vijay Mohan",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Priyamani",
+     "character": "Poornima",
+     "slug": "priyamani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zB365nF9wec5KBczviUTAX9MwHj.jpg"
+    },
+    {
+     "name": "Anaswara Rajan",
+     "character": "Sara Mohammed",
+     "slug": "anaswara-rajan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zWy5AjnXf7sm60X5PVa0mWDaFsp.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Adv. Rajasekharan",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "K. B. Ganesh Kumar",
+     "character": "CI Paul Varghese",
+     "slug": "k-b-ganesh-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Ac0j3lfrkft9Xsbt4BZqOeVPkG8.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Mohammed",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Santhi Mayadevi",
+     "character": "Ahaana",
+     "slug": "santhi-mayadevi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pGnYtrkP2Duj7LPMvNMXCCMtilR.jpg"
+    },
+    {
+     "name": "Nandhu",
+     "character": null,
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Santhi Mayadevi",
+       "slug": "santhi-mayadevi"
+      },
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Shyam",
+       "slug": "vishnu-shyam"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Satheesh Kurup",
+       "slug": "satheesh-kurup"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "V S Vinayak",
+       "slug": "v-s-vinayak"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Antony Perumbavoor",
+       "slug": "antony-perumbavoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aashirvad Cinemas",
+     "slug": "aashirvad-cinemas",
+     "logo": "https://image.tmdb.org/t/p/w185/khS7G0KzBoCYcLs4xuNjpuZjntR.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 359473669.37000006,
+    "totalShows": 23629,
+    "totalDays": 50,
+    "openingDay": {
+     "day": 1,
+     "gross": 20710782.65,
+     "date": "2023-12-21"
+    },
+    "peakDay": {
+     "day": 5,
+     "gross": 32372365.090000004,
+     "date": "2023-12-25"
+    },
+    "chartPosition": {
+     "current_position": 22,
+     "weeks_on_chart": 21,
+     "peak_position": 6,
+     "last_week_position": 22
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-12-21"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 481,
+    "title": "Neru",
+    "img": "https://www.themoviedb.org/t/p/w1280/ydO8pogXaMeKb5GCQdVg1JESqvg.jpg",
+    "released": "2023-12-21",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28358950",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "152 min",
+    "genre": "Drama, Thriller",
+    "plot": "'Neru' is an enthralling legal and emotional drama that delves into the life of Sara, a blind sculpture artist on a quest for justice following a harrowing incident.  Against the backdrop of the Indian legal system, this gripping story takes viewers through a rollercoaster of emotions, unveiling layers of deceit and ultimately exploring themes of redemption.",
+    "released": "2023-12-21",
+    "director": "Jeethu Joseph",
+    "directorSlug": "jeethu-joseph",
+    "actors": [
+     "Mohanlal",
+     "Priyamani",
+     "Anaswara Rajan",
+     "Siddique",
+     "K. B. Ganesh Kumar",
+     "Jagadish"
+    ],
+    "awards": "3 wins u0026 7 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 11430,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Vijay Mohan",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Priyamani",
+     "character": "Poornima",
+     "slug": "priyamani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zB365nF9wec5KBczviUTAX9MwHj.jpg"
+    },
+    {
+     "name": "Anaswara Rajan",
+     "character": "Sara Mohammed",
+     "slug": "anaswara-rajan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zWy5AjnXf7sm60X5PVa0mWDaFsp.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Adv. Rajasekharan",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "K. B. Ganesh Kumar",
+     "character": "CI Paul Varghese",
+     "slug": "k-b-ganesh-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Ac0j3lfrkft9Xsbt4BZqOeVPkG8.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Mohammed",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Santhi Mayadevi",
+     "character": "Ahaana",
+     "slug": "santhi-mayadevi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pGnYtrkP2Duj7LPMvNMXCCMtilR.jpg"
+    },
+    {
+     "name": "Nandhu",
+     "character": null,
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Santhi Mayadevi",
+       "slug": "santhi-mayadevi"
+      },
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Shyam",
+       "slug": "vishnu-shyam"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Satheesh Kurup",
+       "slug": "satheesh-kurup"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "V S Vinayak",
+       "slug": "v-s-vinayak"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Antony Perumbavoor",
+       "slug": "antony-perumbavoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aashirvad Cinemas",
+     "slug": "aashirvad-cinemas",
+     "logo": "https://image.tmdb.org/t/p/w185/khS7G0KzBoCYcLs4xuNjpuZjntR.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-12-21",
+     "gross": 168717671.32999995,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 6397,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-12-28",
+     "gross": 132362629.41000006,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 7510,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-01-04",
+     "gross": 40571525.25,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5992,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-01-11",
+     "gross": 12995200.78,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2380,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-01-18",
+     "gross": 4307846.6,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1211,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-01-25",
+     "gross": 430997,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 101,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-02-01",
+     "gross": 79724,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 35,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-02-08",
+     "gross": 8075,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 359473669.37,
+    "totalShows": 23629,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 168717671.32999995
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 168717671.32999995
+    },
+    "chartPosition": {
+     "current_position": 22,
+     "weeks_on_chart": 21,
+     "peak_position": 6,
+     "last_week_position": 22
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-12-21"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 481,
+    "title": "Neru",
+    "img": "https://www.themoviedb.org/t/p/w1280/ydO8pogXaMeKb5GCQdVg1JESqvg.jpg",
+    "released": "2023-12-21",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28358950",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "152 min",
+    "genre": "Drama, Thriller",
+    "plot": "'Neru' is an enthralling legal and emotional drama that delves into the life of Sara, a blind sculpture artist on a quest for justice following a harrowing incident.  Against the backdrop of the Indian legal system, this gripping story takes viewers through a rollercoaster of emotions, unveiling layers of deceit and ultimately exploring themes of redemption.",
+    "released": "2023-12-21",
+    "director": "Jeethu Joseph",
+    "directorSlug": "jeethu-joseph",
+    "actors": [
+     "Mohanlal",
+     "Priyamani",
+     "Anaswara Rajan",
+     "Siddique",
+     "K. B. Ganesh Kumar",
+     "Jagadish"
+    ],
+    "awards": "3 wins u0026 7 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 11430,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Vijay Mohan",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Priyamani",
+     "character": "Poornima",
+     "slug": "priyamani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zB365nF9wec5KBczviUTAX9MwHj.jpg"
+    },
+    {
+     "name": "Anaswara Rajan",
+     "character": "Sara Mohammed",
+     "slug": "anaswara-rajan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zWy5AjnXf7sm60X5PVa0mWDaFsp.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Adv. Rajasekharan",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "K. B. Ganesh Kumar",
+     "character": "CI Paul Varghese",
+     "slug": "k-b-ganesh-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Ac0j3lfrkft9Xsbt4BZqOeVPkG8.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Mohammed",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Santhi Mayadevi",
+     "character": "Ahaana",
+     "slug": "santhi-mayadevi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pGnYtrkP2Duj7LPMvNMXCCMtilR.jpg"
+    },
+    {
+     "name": "Nandhu",
+     "character": null,
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Santhi Mayadevi",
+       "slug": "santhi-mayadevi"
+      },
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Shyam",
+       "slug": "vishnu-shyam"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Satheesh Kurup",
+       "slug": "satheesh-kurup"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "V S Vinayak",
+       "slug": "v-s-vinayak"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Antony Perumbavoor",
+       "slug": "antony-perumbavoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aashirvad Cinemas",
+     "slug": "aashirvad-cinemas",
+     "logo": "https://image.tmdb.org/t/p/w185/khS7G0KzBoCYcLs4xuNjpuZjntR.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 359473669.37,
+    "totalShows": 23629,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 75063420,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 75063420,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 22,
+     "weeks_on_chart": 21,
+     "peak_position": 6,
+     "last_week_position": 22
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-12-21"
+   }
+  }
+ }
+}

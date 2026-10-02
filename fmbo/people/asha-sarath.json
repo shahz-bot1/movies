@@ -1,0 +1,69 @@
+{
+ "slug": "asha-sarath",
+ "name": "Asha Sarath",
+ "source_url": "https://fridaymatinee.in/people/asha-sarath",
+ "captured_at": "2026-10-01T20:59:05.718737+00:00",
+ "person": {
+  "name": "Asha Sarath",
+  "photo": "https://image.tmdb.org/t/p/w185/1Bun1cGDrA14XOr7iHPk3w5bzAX.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 7
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 130,
+   "movie_slug": "cbi-5-the-brain",
+   "title": "CBI 5 The Brain",
+   "year": 2022,
+   "kerala_gross": "₹11.7 Cr"
+  },
+  {
+   "movie_id": 166,
+   "movie_slug": "paappan",
+   "title": "Paappan",
+   "year": 2022,
+   "kerala_gross": "₹13.4 Cr"
+  },
+  {
+   "movie_id": 470,
+   "movie_slug": "antony",
+   "title": "Antony",
+   "year": 2023,
+   "kerala_gross": "₹5.5 Cr"
+  },
+  {
+   "movie_id": 994,
+   "movie_slug": "ashakal-aayiram",
+   "title": "Ashakal Aayiram",
+   "year": 2026,
+   "kerala_gross": "₹5.8 Cr"
+  },
+  {
+   "movie_id": 1009,
+   "movie_slug": "my-lord",
+   "title": "My Lord",
+   "year": 2026,
+   "kerala_gross": "₹4.5L"
+  },
+  {
+   "movie_id": 1067,
+   "movie_slug": "drishyam-2",
+   "title": "Drishyam 2",
+   "year": 2026,
+   "kerala_gross": "₹3.6L"
+  },
+  {
+   "movie_id": 1012,
+   "movie_slug": "drishyam-3",
+   "title": "Drishyam 3",
+   "year": 2026,
+   "kerala_gross": "₹82.0 Cr"
+  }
+ ]
+}

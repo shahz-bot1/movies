@@ -1,0 +1,41 @@
+{
+ "slug": "paul-walter-hauser",
+ "name": "Paul Walter Hauser",
+ "source_url": "https://fridaymatinee.in/people/paul-walter-hauser",
+ "captured_at": "2026-10-02T01:16:02.433285+00:00",
+ "person": {
+  "name": "Paul Walter Hauser",
+  "photo": "https://image.tmdb.org/t/p/w185/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 734,
+   "movie_slug": "the-fantastic-four-first-steps",
+   "title": "The Fantastic Four: First Steps",
+   "year": 2025,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 781,
+   "movie_slug": "the-naked-gun",
+   "title": "The Naked Gun",
+   "year": 2025,
+   "kerala_gross": "₹1.3L"
+  },
+  {
+   "movie_id": 1289,
+   "movie_slug": "resident-evil",
+   "title": "Resident Evil",
+   "year": 2026,
+   "kerala_gross": "₹86.6L"
+  }
+ ]
+}

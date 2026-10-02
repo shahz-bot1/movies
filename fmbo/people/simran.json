@@ -1,0 +1,41 @@
+{
+ "slug": "simran",
+ "name": "Simran",
+ "source_url": "https://fridaymatinee.in/people/simran",
+ "captured_at": "2026-10-02T10:46:44.377554+00:00",
+ "person": {
+  "name": "Simran",
+  "photo": "https://image.tmdb.org/t/p/w185/BRsVC78sFbFy0NQhaUkGkuUUOL.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 459,
+   "movie_slug": "tiger-3",
+   "title": "Tiger 3",
+   "year": 2023,
+   "kerala_gross": "₹1.9 Cr"
+  },
+  {
+   "movie_id": 664,
+   "movie_slug": "good-bad-ugly",
+   "title": "Good Bad Ugly",
+   "year": 2025,
+   "kerala_gross": "₹3.9 Cr"
+  },
+  {
+   "movie_id": 679,
+   "movie_slug": "tourist-family",
+   "title": "Tourist Family",
+   "year": 2025,
+   "kerala_gross": "₹1.3 Cr"
+  }
+ ]
+}

@@ -1,0 +1,763 @@
+{
+ "id": 29,
+ "slug": "moothon",
+ "source_url": "https://fridaymatinee.in/boxoffice/moothon-29",
+ "captured_at": "2026-10-01T17:57:29.297353+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 29,
+    "title": "Moothon",
+    "img": "https://image.tmdb.org/t/p/original/wyyHGE5uHgUFDUKDHzO6TGq6EJs.jpg",
+    "released": "2019-11-08",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt6409416",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "110 min",
+    "genre": "Crime, Drama",
+    "plot": "A child from Lakshadweep sets off to Mumbai in pursuit of Akbar, an elder brother who left the island due to his sexual orientation.",
+    "released": "2019-10-18",
+    "director": "Geethu Mohandas",
+    "directorSlug": "geethu-mohandas",
+    "actors": [
+     "Sanjana Dipu",
+     "Nivin Pauly",
+     "Dileesh Pothan",
+     "Roshan Mathew",
+     "Shashank Arora",
+     "Sujith Sankar"
+    ],
+    "awards": "5 wins u0026 2 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 2458,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sanjana Dipu",
+     "character": "Mulla",
+     "slug": "sanjana-dipu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k4H5sVg1PvuZp5or15HtnYnLBRC.jpg"
+    },
+    {
+     "name": "Nivin Pauly",
+     "character": "Akbar / Bhai",
+     "slug": "nivin-pauly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6W4nGeMkRWZ5Wj0HAAntu9FWP4f.jpg"
+    },
+    {
+     "name": "Dileesh Pothan",
+     "character": "Moosa",
+     "slug": "dileesh-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg"
+    },
+    {
+     "name": "Roshan Mathew",
+     "character": "Ameer",
+     "slug": "roshan-mathew",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9BzqaEdErGxF1EDELQEXpnRsqQu.jpg"
+    },
+    {
+     "name": "Shashank Arora",
+     "character": "Salim",
+     "slug": "shashank-arora",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/q5S5TlJabJz13E8CK6nZzkv6kOu.jpg"
+    },
+    {
+     "name": "Sujith Sankar",
+     "character": "Latheef",
+     "slug": "sujith-sankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n7Z4ezEpDvhG3NyeYN9K1ULjVdW.jpg"
+    },
+    {
+     "name": "Sobhita Dhulipala",
+     "character": "Rosy",
+     "slug": "sobhita-dhulipala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yL8E8ShjuOachUWRUu2MjcmKOQR.jpg"
+    },
+    {
+     "name": "Harish Khanna",
+     "character": "Karim",
+     "slug": "harish-khanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uUp5UH7SpPvCBidrAIa3mMaLZIu.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Geetu Mohandas",
+       "slug": "geethu-mohandas"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Geetu Mohandas",
+       "slug": "geethu-mohandas"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sagar Desai",
+       "slug": "sagar-desai"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Rajeev Ravi",
+       "slug": "rajeev-ravi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rameshwar S. Bhagat",
+       "slug": "rameshwar-s-bhagat"
+      },
+      {
+       "name": "B. Ajithkumar",
+       "slug": "b-ajithkumar"
+      },
+      {
+       "name": "Kiran Das",
+       "slug": "kiran-das"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ajay Rai",
+       "slug": "ajay-rai"
+      },
+      {
+       "name": "Alan McAlex",
+       "slug": "alan-mcalex"
+      },
+      {
+       "name": "Anurag Kashyap",
+       "slug": "anurag-kashyap"
+      },
+      {
+       "name": "S. Vinoth Kumar",
+       "slug": "s-vinoth-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mini Studios",
+     "slug": "mini-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/9OTmYAzW2URLSE76T7y8OVLqqBT.png"
+    },
+    {
+     "name": "Jar Pictures",
+     "slug": "jar-pictures",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 6350866,
+    "totalShows": 912,
+    "totalDays": 41,
+    "openingDay": {
+     "day": 1,
+     "gross": 1257860,
+     "date": "2019-11-08"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1257860,
+     "date": "2019-11-08"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 11,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-08"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 29,
+    "title": "Moothon",
+    "img": "https://image.tmdb.org/t/p/original/wyyHGE5uHgUFDUKDHzO6TGq6EJs.jpg",
+    "released": "2019-11-08",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt6409416",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "110 min",
+    "genre": "Crime, Drama",
+    "plot": "A child from Lakshadweep sets off to Mumbai in pursuit of Akbar, an elder brother who left the island due to his sexual orientation.",
+    "released": "2019-10-18",
+    "director": "Geethu Mohandas",
+    "directorSlug": "geethu-mohandas",
+    "actors": [
+     "Sanjana Dipu",
+     "Nivin Pauly",
+     "Dileesh Pothan",
+     "Roshan Mathew",
+     "Shashank Arora",
+     "Sujith Sankar"
+    ],
+    "awards": "5 wins u0026 2 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 2458,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sanjana Dipu",
+     "character": "Mulla",
+     "slug": "sanjana-dipu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k4H5sVg1PvuZp5or15HtnYnLBRC.jpg"
+    },
+    {
+     "name": "Nivin Pauly",
+     "character": "Akbar / Bhai",
+     "slug": "nivin-pauly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6W4nGeMkRWZ5Wj0HAAntu9FWP4f.jpg"
+    },
+    {
+     "name": "Dileesh Pothan",
+     "character": "Moosa",
+     "slug": "dileesh-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg"
+    },
+    {
+     "name": "Roshan Mathew",
+     "character": "Ameer",
+     "slug": "roshan-mathew",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9BzqaEdErGxF1EDELQEXpnRsqQu.jpg"
+    },
+    {
+     "name": "Shashank Arora",
+     "character": "Salim",
+     "slug": "shashank-arora",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/q5S5TlJabJz13E8CK6nZzkv6kOu.jpg"
+    },
+    {
+     "name": "Sujith Sankar",
+     "character": "Latheef",
+     "slug": "sujith-sankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n7Z4ezEpDvhG3NyeYN9K1ULjVdW.jpg"
+    },
+    {
+     "name": "Sobhita Dhulipala",
+     "character": "Rosy",
+     "slug": "sobhita-dhulipala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yL8E8ShjuOachUWRUu2MjcmKOQR.jpg"
+    },
+    {
+     "name": "Harish Khanna",
+     "character": "Karim",
+     "slug": "harish-khanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uUp5UH7SpPvCBidrAIa3mMaLZIu.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Geetu Mohandas",
+       "slug": "geethu-mohandas"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Geetu Mohandas",
+       "slug": "geethu-mohandas"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sagar Desai",
+       "slug": "sagar-desai"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Rajeev Ravi",
+       "slug": "rajeev-ravi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rameshwar S. Bhagat",
+       "slug": "rameshwar-s-bhagat"
+      },
+      {
+       "name": "B. Ajithkumar",
+       "slug": "b-ajithkumar"
+      },
+      {
+       "name": "Kiran Das",
+       "slug": "kiran-das"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ajay Rai",
+       "slug": "ajay-rai"
+      },
+      {
+       "name": "Alan McAlex",
+       "slug": "alan-mcalex"
+      },
+      {
+       "name": "Anurag Kashyap",
+       "slug": "anurag-kashyap"
+      },
+      {
+       "name": "S. Vinoth Kumar",
+       "slug": "s-vinoth-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mini Studios",
+     "slug": "mini-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/9OTmYAzW2URLSE76T7y8OVLqqBT.png"
+    },
+    {
+     "name": "Jar Pictures",
+     "slug": "jar-pictures",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2019-11-08",
+     "gross": 4771402,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 743,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-11-15",
+     "gross": 847634,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 98,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-11-22",
+     "gross": 414010,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 40,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-11-29",
+     "gross": 144710,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 13,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-12-06",
+     "gross": 99360,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 11,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-12-13",
+     "gross": 73750,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 7,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 6350866,
+    "totalShows": 912,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 4771402
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4771402
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 11,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-08"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 29,
+    "title": "Moothon",
+    "img": "https://image.tmdb.org/t/p/original/wyyHGE5uHgUFDUKDHzO6TGq6EJs.jpg",
+    "released": "2019-11-08",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt6409416",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "110 min",
+    "genre": "Crime, Drama",
+    "plot": "A child from Lakshadweep sets off to Mumbai in pursuit of Akbar, an elder brother who left the island due to his sexual orientation.",
+    "released": "2019-10-18",
+    "director": "Geethu Mohandas",
+    "directorSlug": "geethu-mohandas",
+    "actors": [
+     "Sanjana Dipu",
+     "Nivin Pauly",
+     "Dileesh Pothan",
+     "Roshan Mathew",
+     "Shashank Arora",
+     "Sujith Sankar"
+    ],
+    "awards": "5 wins u0026 2 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 2458,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sanjana Dipu",
+     "character": "Mulla",
+     "slug": "sanjana-dipu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k4H5sVg1PvuZp5or15HtnYnLBRC.jpg"
+    },
+    {
+     "name": "Nivin Pauly",
+     "character": "Akbar / Bhai",
+     "slug": "nivin-pauly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6W4nGeMkRWZ5Wj0HAAntu9FWP4f.jpg"
+    },
+    {
+     "name": "Dileesh Pothan",
+     "character": "Moosa",
+     "slug": "dileesh-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg"
+    },
+    {
+     "name": "Roshan Mathew",
+     "character": "Ameer",
+     "slug": "roshan-mathew",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9BzqaEdErGxF1EDELQEXpnRsqQu.jpg"
+    },
+    {
+     "name": "Shashank Arora",
+     "character": "Salim",
+     "slug": "shashank-arora",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/q5S5TlJabJz13E8CK6nZzkv6kOu.jpg"
+    },
+    {
+     "name": "Sujith Sankar",
+     "character": "Latheef",
+     "slug": "sujith-sankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n7Z4ezEpDvhG3NyeYN9K1ULjVdW.jpg"
+    },
+    {
+     "name": "Sobhita Dhulipala",
+     "character": "Rosy",
+     "slug": "sobhita-dhulipala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yL8E8ShjuOachUWRUu2MjcmKOQR.jpg"
+    },
+    {
+     "name": "Harish Khanna",
+     "character": "Karim",
+     "slug": "harish-khanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uUp5UH7SpPvCBidrAIa3mMaLZIu.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Geetu Mohandas",
+       "slug": "geethu-mohandas"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Geetu Mohandas",
+       "slug": "geethu-mohandas"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sagar Desai",
+       "slug": "sagar-desai"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Rajeev Ravi",
+       "slug": "rajeev-ravi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rameshwar S. Bhagat",
+       "slug": "rameshwar-s-bhagat"
+      },
+      {
+       "name": "B. Ajithkumar",
+       "slug": "b-ajithkumar"
+      },
+      {
+       "name": "Kiran Das",
+       "slug": "kiran-das"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ajay Rai",
+       "slug": "ajay-rai"
+      },
+      {
+       "name": "Alan McAlex",
+       "slug": "alan-mcalex"
+      },
+      {
+       "name": "Anurag Kashyap",
+       "slug": "anurag-kashyap"
+      },
+      {
+       "name": "S. Vinoth Kumar",
+       "slug": "s-vinoth-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mini Studios",
+     "slug": "mini-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/9OTmYAzW2URLSE76T7y8OVLqqBT.png"
+    },
+    {
+     "name": "Jar Pictures",
+     "slug": "jar-pictures",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 6350866,
+    "totalShows": 912,
+    "totalDays": 11,
+    "openingDay": {
+     "day": 1,
+     "gross": 3194678,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3194678,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 11,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-08"
+   }
+  }
+ }
+}

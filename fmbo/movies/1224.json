@@ -1,0 +1,913 @@
+{
+ "id": 1224,
+ "slug": "primetime",
+ "source_url": "https://fridaymatinee.in/boxoffice/primetime-1224",
+ "captured_at": "2026-10-01T19:52:49.949484+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1224,
+    "title": "Primetime",
+    "img": "https://image.tmdb.org/t/p/original/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+    "released": "2026-09-25",
+    "language": "English",
+    "live": "on",
+    "pretrack": "on",
+    "imdbId": "tt34206385",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "110 min",
+    "genre": "Crime, Drama, Thriller",
+    "plot": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
+    "released": "2026-09-23",
+    "director": "Lance Oppenheim",
+    "directorSlug": "lance-oppenheim",
+    "actors": [
+     "Robert Pattinson",
+     "Skyler Gisondo",
+     "Merritt Wever",
+     "Phoebe Bridgers",
+     "Matthew Maher",
+     "Bokeem Woodbine"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 8343,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.1",
+      "votes": 69,
+      "updatedAt": "2026-10-01T13:10:17.000Z"
+     },
+     "rt": "95%",
+     "metascore": 75,
+     "updatedAt": "2026-10-01T13:10:17.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Robert Pattinson",
+     "character": "Chris Hansen",
+     "slug": "robert-pattinson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
+    },
+    {
+     "name": "Skyler Gisondo",
+     "character": "Dan Plumb",
+     "slug": "skyler-gisondo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vyalCuJUUP7Ht1vMWZQzhOrscXV.jpg"
+    },
+    {
+     "name": "Merritt Wever",
+     "character": "Andie Bender",
+     "slug": "merritt-wever",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ldd1WntzQ72DVuNLoko8yMFHH7j.jpg"
+    },
+    {
+     "name": "Phoebe Bridgers",
+     "character": "Del",
+     "slug": "phoebe-bridgers",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9dbTNTH0fBYE1aDAHdhwDSPureF.jpg"
+    },
+    {
+     "name": "Matthew Maher",
+     "character": "Xavier Von Erck",
+     "slug": "matthew-maher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3RPEUaliXJ9lcoL5R5IbcAOwd5D.jpg"
+    },
+    {
+     "name": "Bokeem Woodbine",
+     "character": "Cortland Gunn",
+     "slug": "bokeem-woodbine",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pnPyA5pJn94zUzuLWTNkGBNZxza.jpg"
+    },
+    {
+     "name": "Alex Winter",
+     "character": "Bill Conradt",
+     "slug": "alex-winter",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2GM34tP0VZegydEXgCj541udTP9.jpg"
+    },
+    {
+     "name": "Anna Faris",
+     "character": "Mary Hansen",
+     "slug": "anna-faris",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tptTb0BQwCpKWETNqzkZzzf5qSZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Lance Oppenheim",
+       "slug": "lance-oppenheim"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ajon Singh",
+       "slug": "ajon-singh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ari Balouzian",
+       "slug": "ari-balouzian"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "David Bolen",
+       "slug": "david-bolen"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Daniel Garber",
+       "slug": "daniel-garber"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Robert Pattinson",
+       "slug": "robert-pattinson"
+      },
+      {
+       "name": "Brighton McCloskey",
+       "slug": "brighton-mccloskey"
+      },
+      {
+       "name": "Brian Kavanaugh-Jones",
+       "slug": "brian-kavanaugh-jones"
+      },
+      {
+       "name": "Ari Aster",
+       "slug": "ari-aster"
+      },
+      {
+       "name": "Fred Berger",
+       "slug": "fred-berger"
+      },
+      {
+       "name": "Lars Knudsen",
+       "slug": "lars-knudsen"
+      },
+      {
+       "name": "William Iannaccone",
+       "slug": "william-iannaccone"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "A24",
+     "slug": "a24",
+     "logo": "https://image.tmdb.org/t/p/w185/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png"
+    },
+    {
+     "name": "Icki Eneo Arlo",
+     "slug": "icki-eneo-arlo",
+     "logo": "https://image.tmdb.org/t/p/w185/kTi6RsM6NUmtprzpIFg3NiPPQzq.png"
+    },
+    {
+     "name": "Square Peg",
+     "slug": "square-peg",
+     "logo": "https://image.tmdb.org/t/p/w185/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png"
+    },
+    {
+     "name": "Range Media Partners",
+     "slug": "range-media-partners",
+     "logo": "https://image.tmdb.org/t/p/w185/kzQwU2H6woBFti9cqjr9BrVXrst.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-25": [
+     {
+      "id": 1258,
+      "title": "Dhoomakethu",
+      "img": "https://image.tmdb.org/t/p/original/sxXFjKj3tFKcSJ9VtxRaDc3cbiw.jpg"
+     },
+     {
+      "id": 1288,
+      "title": "Avengers Endgame: Encore",
+      "img": "https://image.tmdb.org/t/p/original/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+     },
+     {
+      "id": 1302,
+      "title": "Heart of the Beast",
+      "img": "https://image.tmdb.org/t/p/original/1ApfSA8JTqeha3GTFEY8syV4auq.jpg"
+     }
+    ],
+    "2026-10-01": [
+     {
+      "id": 1330,
+      "title": "Baththa",
+      "img": "https://m.media-amazon.com/images/M/MV5BNjRmZGFjMDctMzRiNS00MmIwLTliYmMtODY5ZGFkOTE5YmFkXkEyXkFqcGc@._V1_.jpg"
+     },
+     {
+      "id": 1331,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "img": "https://image.tmdb.org/t/p/original/wdWQA1IVCYiTTEZMSnWl1tzhBd3.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-09-25",
+     "gross": 55835,
+     "sold": 255,
+     "unsold": 185,
+     "shows": 3,
+     "occ": 57.95,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 55835,
+     "lastUpdatedAt": "2026-09-25 23:18:01"
+    },
+    {
+     "label": "2026-09-26",
+     "gross": 60860,
+     "sold": 280,
+     "unsold": 161,
+     "shows": 3,
+     "occ": 63.49,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 116695,
+     "lastUpdatedAt": "2026-09-26 23:18:01"
+    },
+    {
+     "label": "2026-09-27",
+     "gross": 44065,
+     "sold": 219,
+     "unsold": 220,
+     "shows": 3,
+     "occ": 49.89,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 160760,
+     "lastUpdatedAt": "2026-09-27 23:18:01"
+    },
+    {
+     "label": "2026-09-28",
+     "gross": 27270,
+     "sold": 135,
+     "unsold": 304,
+     "shows": 3,
+     "occ": 30.75,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 188030,
+     "lastUpdatedAt": "2026-09-28 23:18:02"
+    },
+    {
+     "label": "2026-09-29",
+     "gross": 25450,
+     "sold": 131,
+     "unsold": 308,
+     "shows": 3,
+     "occ": 29.84,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 213480,
+     "lastUpdatedAt": "2026-09-29 23:18:01"
+    },
+    {
+     "label": "2026-09-30",
+     "gross": 20650,
+     "sold": 104,
+     "unsold": 220,
+     "shows": 2,
+     "occ": 32.1,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 234130,
+     "lastUpdatedAt": "2026-09-30 23:18:01"
+    },
+    {
+     "label": "2026-10-01",
+     "gross": 25006,
+     "sold": 127,
+     "unsold": 313,
+     "shows": 3,
+     "occ": 28.86,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 259136,
+     "lastUpdatedAt": "2026-10-01 23:18:02"
+    }
+   ],
+   "summary": {
+    "totalGross": 259136,
+    "totalShows": 20,
+    "totalSeats": 2962,
+    "totalSold": 1251,
+    "avgOcc": "42.2",
+    "totalDays": 7,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 2,
+     "gross": 60860,
+     "date": "2026-09-26"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 55835,
+     "date": "2026-09-25"
+    },
+    "chartPosition": null
+   },
+   "_tier": "hot",
+   "_hash": "7:25006:259136"
+  },
+  "week": {
+   "movie": {
+    "id": 1224,
+    "title": "Primetime",
+    "img": "https://image.tmdb.org/t/p/original/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+    "released": "2026-09-25",
+    "language": "English",
+    "live": "on",
+    "pretrack": "on",
+    "imdbId": "tt34206385",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "110 min",
+    "genre": "Crime, Drama, Thriller",
+    "plot": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
+    "released": "2026-09-23",
+    "director": "Lance Oppenheim",
+    "directorSlug": "lance-oppenheim",
+    "actors": [
+     "Robert Pattinson",
+     "Skyler Gisondo",
+     "Merritt Wever",
+     "Phoebe Bridgers",
+     "Matthew Maher",
+     "Bokeem Woodbine"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 8343,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.1",
+      "votes": 69,
+      "updatedAt": "2026-10-01T13:10:17.000Z"
+     },
+     "rt": "95%",
+     "metascore": 75,
+     "updatedAt": "2026-10-01T13:10:17.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Robert Pattinson",
+     "character": "Chris Hansen",
+     "slug": "robert-pattinson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
+    },
+    {
+     "name": "Skyler Gisondo",
+     "character": "Dan Plumb",
+     "slug": "skyler-gisondo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vyalCuJUUP7Ht1vMWZQzhOrscXV.jpg"
+    },
+    {
+     "name": "Merritt Wever",
+     "character": "Andie Bender",
+     "slug": "merritt-wever",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ldd1WntzQ72DVuNLoko8yMFHH7j.jpg"
+    },
+    {
+     "name": "Phoebe Bridgers",
+     "character": "Del",
+     "slug": "phoebe-bridgers",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9dbTNTH0fBYE1aDAHdhwDSPureF.jpg"
+    },
+    {
+     "name": "Matthew Maher",
+     "character": "Xavier Von Erck",
+     "slug": "matthew-maher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3RPEUaliXJ9lcoL5R5IbcAOwd5D.jpg"
+    },
+    {
+     "name": "Bokeem Woodbine",
+     "character": "Cortland Gunn",
+     "slug": "bokeem-woodbine",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pnPyA5pJn94zUzuLWTNkGBNZxza.jpg"
+    },
+    {
+     "name": "Alex Winter",
+     "character": "Bill Conradt",
+     "slug": "alex-winter",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2GM34tP0VZegydEXgCj541udTP9.jpg"
+    },
+    {
+     "name": "Anna Faris",
+     "character": "Mary Hansen",
+     "slug": "anna-faris",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tptTb0BQwCpKWETNqzkZzzf5qSZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Lance Oppenheim",
+       "slug": "lance-oppenheim"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ajon Singh",
+       "slug": "ajon-singh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ari Balouzian",
+       "slug": "ari-balouzian"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "David Bolen",
+       "slug": "david-bolen"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Daniel Garber",
+       "slug": "daniel-garber"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Robert Pattinson",
+       "slug": "robert-pattinson"
+      },
+      {
+       "name": "Brighton McCloskey",
+       "slug": "brighton-mccloskey"
+      },
+      {
+       "name": "Brian Kavanaugh-Jones",
+       "slug": "brian-kavanaugh-jones"
+      },
+      {
+       "name": "Ari Aster",
+       "slug": "ari-aster"
+      },
+      {
+       "name": "Fred Berger",
+       "slug": "fred-berger"
+      },
+      {
+       "name": "Lars Knudsen",
+       "slug": "lars-knudsen"
+      },
+      {
+       "name": "William Iannaccone",
+       "slug": "william-iannaccone"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "A24",
+     "slug": "a24",
+     "logo": "https://image.tmdb.org/t/p/w185/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png"
+    },
+    {
+     "name": "Icki Eneo Arlo",
+     "slug": "icki-eneo-arlo",
+     "logo": "https://image.tmdb.org/t/p/w185/kTi6RsM6NUmtprzpIFg3NiPPQzq.png"
+    },
+    {
+     "name": "Square Peg",
+     "slug": "square-peg",
+     "logo": "https://image.tmdb.org/t/p/w185/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png"
+    },
+    {
+     "name": "Range Media Partners",
+     "slug": "range-media-partners",
+     "logo": "https://image.tmdb.org/t/p/w185/kzQwU2H6woBFti9cqjr9BrVXrst.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-25": [
+     {
+      "id": 1258,
+      "title": "Dhoomakethu",
+      "img": "https://image.tmdb.org/t/p/original/sxXFjKj3tFKcSJ9VtxRaDc3cbiw.jpg"
+     },
+     {
+      "id": 1288,
+      "title": "Avengers Endgame: Encore",
+      "img": "https://image.tmdb.org/t/p/original/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+     },
+     {
+      "id": 1302,
+      "title": "Heart of the Beast",
+      "img": "https://image.tmdb.org/t/p/original/1ApfSA8JTqeha3GTFEY8syV4auq.jpg"
+     }
+    ],
+    "2026-10-01": [
+     {
+      "id": 1330,
+      "title": "Baththa",
+      "img": "https://m.media-amazon.com/images/M/MV5BNjRmZGFjMDctMzRiNS00MmIwLTliYmMtODY5ZGFkOTE5YmFkXkEyXkFqcGc@._V1_.jpg"
+     },
+     {
+      "id": 1331,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "img": "https://image.tmdb.org/t/p/original/wdWQA1IVCYiTTEZMSnWl1tzhBd3.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-09-25",
+     "gross": 259136,
+     "sold": 1251,
+     "unsold": 1711,
+     "shows": 20,
+     "occ": 42.23,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 259136,
+     "lastUpdatedAt": "2026-10-01 23:18:02"
+    }
+   ],
+   "summary": {
+    "totalGross": 259136,
+    "totalShows": 20,
+    "totalSeats": 2962,
+    "totalSold": 1251,
+    "avgOcc": "42.2",
+    "totalDays": 1,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 259136
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 259136
+    },
+    "chartPosition": null
+   },
+   "_tier": "hot",
+   "_hash": "1:259136:259136"
+  },
+  "district": {
+   "movie": {
+    "id": 1224,
+    "title": "Primetime",
+    "img": "https://image.tmdb.org/t/p/original/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+    "released": "2026-09-25",
+    "language": "English",
+    "live": "on",
+    "pretrack": "on",
+    "imdbId": "tt34206385",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "110 min",
+    "genre": "Crime, Drama, Thriller",
+    "plot": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
+    "released": "2026-09-23",
+    "director": "Lance Oppenheim",
+    "directorSlug": "lance-oppenheim",
+    "actors": [
+     "Robert Pattinson",
+     "Skyler Gisondo",
+     "Merritt Wever",
+     "Phoebe Bridgers",
+     "Matthew Maher",
+     "Bokeem Woodbine"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 8343,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.1",
+      "votes": 69,
+      "updatedAt": "2026-10-01T13:10:17.000Z"
+     },
+     "rt": "95%",
+     "metascore": 75,
+     "updatedAt": "2026-10-01T13:10:17.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Robert Pattinson",
+     "character": "Chris Hansen",
+     "slug": "robert-pattinson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
+    },
+    {
+     "name": "Skyler Gisondo",
+     "character": "Dan Plumb",
+     "slug": "skyler-gisondo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vyalCuJUUP7Ht1vMWZQzhOrscXV.jpg"
+    },
+    {
+     "name": "Merritt Wever",
+     "character": "Andie Bender",
+     "slug": "merritt-wever",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ldd1WntzQ72DVuNLoko8yMFHH7j.jpg"
+    },
+    {
+     "name": "Phoebe Bridgers",
+     "character": "Del",
+     "slug": "phoebe-bridgers",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9dbTNTH0fBYE1aDAHdhwDSPureF.jpg"
+    },
+    {
+     "name": "Matthew Maher",
+     "character": "Xavier Von Erck",
+     "slug": "matthew-maher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3RPEUaliXJ9lcoL5R5IbcAOwd5D.jpg"
+    },
+    {
+     "name": "Bokeem Woodbine",
+     "character": "Cortland Gunn",
+     "slug": "bokeem-woodbine",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pnPyA5pJn94zUzuLWTNkGBNZxza.jpg"
+    },
+    {
+     "name": "Alex Winter",
+     "character": "Bill Conradt",
+     "slug": "alex-winter",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2GM34tP0VZegydEXgCj541udTP9.jpg"
+    },
+    {
+     "name": "Anna Faris",
+     "character": "Mary Hansen",
+     "slug": "anna-faris",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tptTb0BQwCpKWETNqzkZzzf5qSZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Lance Oppenheim",
+       "slug": "lance-oppenheim"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ajon Singh",
+       "slug": "ajon-singh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ari Balouzian",
+       "slug": "ari-balouzian"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "David Bolen",
+       "slug": "david-bolen"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Daniel Garber",
+       "slug": "daniel-garber"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Robert Pattinson",
+       "slug": "robert-pattinson"
+      },
+      {
+       "name": "Brighton McCloskey",
+       "slug": "brighton-mccloskey"
+      },
+      {
+       "name": "Brian Kavanaugh-Jones",
+       "slug": "brian-kavanaugh-jones"
+      },
+      {
+       "name": "Ari Aster",
+       "slug": "ari-aster"
+      },
+      {
+       "name": "Fred Berger",
+       "slug": "fred-berger"
+      },
+      {
+       "name": "Lars Knudsen",
+       "slug": "lars-knudsen"
+      },
+      {
+       "name": "William Iannaccone",
+       "slug": "william-iannaccone"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "A24",
+     "slug": "a24",
+     "logo": "https://image.tmdb.org/t/p/w185/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png"
+    },
+    {
+     "name": "Icki Eneo Arlo",
+     "slug": "icki-eneo-arlo",
+     "logo": "https://image.tmdb.org/t/p/w185/kTi6RsM6NUmtprzpIFg3NiPPQzq.png"
+    },
+    {
+     "name": "Square Peg",
+     "slug": "square-peg",
+     "logo": "https://image.tmdb.org/t/p/w185/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png"
+    },
+    {
+     "name": "Range Media Partners",
+     "slug": "range-media-partners",
+     "logo": "https://image.tmdb.org/t/p/w185/kzQwU2H6woBFti9cqjr9BrVXrst.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-25": [
+     {
+      "id": 1258,
+      "title": "Dhoomakethu",
+      "img": "https://image.tmdb.org/t/p/original/sxXFjKj3tFKcSJ9VtxRaDc3cbiw.jpg"
+     },
+     {
+      "id": 1288,
+      "title": "Avengers Endgame: Encore",
+      "img": "https://image.tmdb.org/t/p/original/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+     },
+     {
+      "id": 1302,
+      "title": "Heart of the Beast",
+      "img": "https://image.tmdb.org/t/p/original/1ApfSA8JTqeha3GTFEY8syV4auq.jpg"
+     }
+    ],
+    "2026-10-01": [
+     {
+      "id": 1330,
+      "title": "Baththa",
+      "img": "https://m.media-amazon.com/images/M/MV5BNjRmZGFjMDctMzRiNS00MmIwLTliYmMtODY5ZGFkOTE5YmFkXkEyXkFqcGc@._V1_.jpg"
+     },
+     {
+      "id": 1331,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "img": "https://image.tmdb.org/t/p/original/wdWQA1IVCYiTTEZMSnWl1tzhBd3.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 171396,
+     "sold": 855,
+     "unsold": 1256,
+     "shows": 13,
+     "occ": 40.5,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 171396,
+     "lastUpdatedAt": "2026-10-01 20:03:01"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 87740,
+     "sold": 396,
+     "unsold": 455,
+     "shows": 7,
+     "occ": 46.53,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 259136,
+     "lastUpdatedAt": "2026-10-01 23:18:02"
+    }
+   ],
+   "summary": {
+    "totalGross": 259136,
+    "totalShows": 20,
+    "totalSeats": 2962,
+    "totalSold": 1251,
+    "avgOcc": "42.2",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 171396,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 171396,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "hot",
+   "_hash": "2:87740:259136"
+  }
+ }
+}

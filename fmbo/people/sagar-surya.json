@@ -1,0 +1,83 @@
+{
+ "slug": "sagar-surya",
+ "name": "Sagar Surya",
+ "source_url": "https://fridaymatinee.in/people/sagar-surya",
+ "captured_at": "2026-10-02T09:58:07.858241+00:00",
+ "person": {
+  "name": "Sagar Surya",
+  "photo": "https://image.tmdb.org/t/p/w185/eeLS1RiS16W3t3ay5opPYkg0KOF.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 9
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 110,
+   "movie_slug": "upacharapoorvam-gunda-jayan",
+   "title": "Upacharapoorvam Gunda Jayan",
+   "year": 2022,
+   "kerala_gross": "₹36.7L"
+  },
+  {
+   "movie_id": 256,
+   "movie_slug": "kaapa",
+   "title": "Kaapa",
+   "year": 2022,
+   "kerala_gross": "₹8.8 Cr"
+  },
+  {
+   "movie_id": 273,
+   "movie_slug": "ennalum-ente-aliya",
+   "title": "Ennalum Ente Aliya",
+   "year": 2023,
+   "kerala_gross": "₹59.8L"
+  },
+  {
+   "movie_id": 422,
+   "movie_slug": "kasargold",
+   "title": "Kasargold",
+   "year": 2023,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 584,
+   "movie_slug": "pani",
+   "title": "Pani",
+   "year": 2024,
+   "kerala_gross": "₹16.7 Cr"
+  },
+  {
+   "movie_id": 932,
+   "movie_slug": "dheeram",
+   "title": "Dheeram",
+   "year": 2025,
+   "kerala_gross": "₹85.6L"
+  },
+  {
+   "movie_id": 987,
+   "movie_slug": "prakambanam",
+   "title": "Prakambanam",
+   "year": 2026,
+   "kerala_gross": "₹12.1 Cr"
+  },
+  {
+   "movie_id": 1047,
+   "movie_slug": "derby",
+   "title": "Derby",
+   "year": 2026,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 1180,
+   "movie_slug": "ananthan-kaadu",
+   "title": "Ananthan Kaadu",
+   "year": 2026,
+   "kerala_gross": "₹2.2 Cr"
+  }
+ ]
+}

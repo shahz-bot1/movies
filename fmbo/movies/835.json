@@ -1,0 +1,704 @@
+{
+ "id": 835,
+ "slug": "afterburn",
+ "source_url": "https://fridaymatinee.in/boxoffice/afterburn-835",
+ "captured_at": "2026-10-01T18:23:56.199975+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 835,
+    "title": "Afterburn",
+    "img": "https://image.tmdb.org/t/p/original/o56GXr0H888NJjN3E6auc04MWTC.jpg",
+    "released": "2025-09-19",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt1210027",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "105 min",
+    "genre": "Action, Science Fiction, Comedy",
+    "plot": "Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was destroyed by a massive solar flare, leaving what life remains mutated from radiation and fallout. The story revolves around a group of treasure hunters who extract such objects as the Mona Lisa, the Rosetta Stone and the Crown Jewels while facing rival hunters, mutants and pirates.",
+    "released": "2025-08-20",
+    "director": "J.J. Perry",
+    "directorSlug": "j-j-perry",
+    "actors": [
+     "Dave Bautista",
+     "Olga Kurylenko",
+     "Kristofer Hivju",
+     "Samuel L. Jackson",
+     "Daniel Bernhardt",
+     "Eden Epstein"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.6",
+      "votes": 9108,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.2",
+      "votes": 345,
+      "updatedAt": "2026-09-24T16:10:22.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dave Bautista",
+     "character": "Jake",
+     "slug": "dave-bautista",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+    },
+    {
+     "name": "Olga Kurylenko",
+     "character": "Drea",
+     "slug": "olga-kurylenko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ei6eYUhQFw2AaV6U5fyPptBaPF0.jpg"
+    },
+    {
+     "name": "Kristofer Hivju",
+     "character": "General Volkov",
+     "slug": "kristofer-hivju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bACL39GihNmBnFRay78rS3PUHsH.jpg"
+    },
+    {
+     "name": "Samuel L. Jackson",
+     "character": "Valentine",
+     "slug": "samuel-l-jackson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+    },
+    {
+     "name": "Daniel Bernhardt",
+     "character": "Gorynych",
+     "slug": "daniel-bernhardt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3BLz32inDr1jznU6pKQmh20zfhK.jpg"
+    },
+    {
+     "name": "Eden Epstein",
+     "character": "Fuentes",
+     "slug": "eden-epstein",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6ZYbrwHUR3VyGeWx7obPKDASGCJ.jpg"
+    },
+    {
+     "name": "George Somner",
+     "character": "Pilot",
+     "slug": "george-somner",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9FocanO4wogWLjxxNiLk3dP84Aa.jpg"
+    },
+    {
+     "name": "Sergio Freijo",
+     "character": "Occupied City Megaphone Officer",
+     "slug": "sergio-freijo",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "J.J. Perry",
+       "slug": "j-j-perry"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Matt Johnson",
+       "slug": "matt-johnson-11742"
+      },
+      {
+       "name": "Nimród Antal",
+       "slug": "nimrod-antal"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Roque Baños",
+       "slug": "roque-banos"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "José David Montero",
+       "slug": "jose-david-montero"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dave Bautista",
+       "slug": "dave-bautista"
+      },
+      {
+       "name": "Neal H. Moritz",
+       "slug": "neal-h-moritz"
+      },
+      {
+       "name": "Toby Jaffe",
+       "slug": "toby-jaffe"
+      },
+      {
+       "name": "Steve Richards",
+       "slug": "steve-richards"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Endurance Media",
+     "slug": "endurance-media",
+     "logo": "https://image.tmdb.org/t/p/w185/c3ttVfx0itQzk2vOR0053qzzd3B.png"
+    },
+    {
+     "name": "Original Film",
+     "slug": "original-film",
+     "logo": "https://image.tmdb.org/t/p/w185/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png"
+    },
+    {
+     "name": "Dogbone Entertainment",
+     "slug": "dogbone-entertainment",
+     "logo": null
+    },
+    {
+     "name": "Lipsync Productions",
+     "slug": "lipsync-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/o5OTKAw7Acl5fTZYPyl8M8D9570.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-22",
+    "platforms": [
+     {
+      "id": 561,
+      "name": "Lionsgate Play",
+      "logoPath": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2053,
+      "name": "Lionsgate Play Apple TV Channel",
+      "logoPath": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2074,
+      "name": "Lionsgate Play Amazon Channel",
+      "logoPath": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 89310,
+    "totalShows": 8,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 29920,
+     "date": "2025-09-19"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 29920,
+     "date": "2025-09-19"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-19"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 835,
+    "title": "Afterburn",
+    "img": "https://image.tmdb.org/t/p/original/o56GXr0H888NJjN3E6auc04MWTC.jpg",
+    "released": "2025-09-19",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt1210027",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "105 min",
+    "genre": "Action, Science Fiction, Comedy",
+    "plot": "Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was destroyed by a massive solar flare, leaving what life remains mutated from radiation and fallout. The story revolves around a group of treasure hunters who extract such objects as the Mona Lisa, the Rosetta Stone and the Crown Jewels while facing rival hunters, mutants and pirates.",
+    "released": "2025-08-20",
+    "director": "J.J. Perry",
+    "directorSlug": "j-j-perry",
+    "actors": [
+     "Dave Bautista",
+     "Olga Kurylenko",
+     "Kristofer Hivju",
+     "Samuel L. Jackson",
+     "Daniel Bernhardt",
+     "Eden Epstein"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.6",
+      "votes": 9108,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.2",
+      "votes": 345,
+      "updatedAt": "2026-09-24T16:10:22.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dave Bautista",
+     "character": "Jake",
+     "slug": "dave-bautista",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+    },
+    {
+     "name": "Olga Kurylenko",
+     "character": "Drea",
+     "slug": "olga-kurylenko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ei6eYUhQFw2AaV6U5fyPptBaPF0.jpg"
+    },
+    {
+     "name": "Kristofer Hivju",
+     "character": "General Volkov",
+     "slug": "kristofer-hivju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bACL39GihNmBnFRay78rS3PUHsH.jpg"
+    },
+    {
+     "name": "Samuel L. Jackson",
+     "character": "Valentine",
+     "slug": "samuel-l-jackson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+    },
+    {
+     "name": "Daniel Bernhardt",
+     "character": "Gorynych",
+     "slug": "daniel-bernhardt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3BLz32inDr1jznU6pKQmh20zfhK.jpg"
+    },
+    {
+     "name": "Eden Epstein",
+     "character": "Fuentes",
+     "slug": "eden-epstein",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6ZYbrwHUR3VyGeWx7obPKDASGCJ.jpg"
+    },
+    {
+     "name": "George Somner",
+     "character": "Pilot",
+     "slug": "george-somner",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9FocanO4wogWLjxxNiLk3dP84Aa.jpg"
+    },
+    {
+     "name": "Sergio Freijo",
+     "character": "Occupied City Megaphone Officer",
+     "slug": "sergio-freijo",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "J.J. Perry",
+       "slug": "j-j-perry"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Matt Johnson",
+       "slug": "matt-johnson-11742"
+      },
+      {
+       "name": "Nimród Antal",
+       "slug": "nimrod-antal"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Roque Baños",
+       "slug": "roque-banos"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "José David Montero",
+       "slug": "jose-david-montero"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dave Bautista",
+       "slug": "dave-bautista"
+      },
+      {
+       "name": "Neal H. Moritz",
+       "slug": "neal-h-moritz"
+      },
+      {
+       "name": "Toby Jaffe",
+       "slug": "toby-jaffe"
+      },
+      {
+       "name": "Steve Richards",
+       "slug": "steve-richards"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Endurance Media",
+     "slug": "endurance-media",
+     "logo": "https://image.tmdb.org/t/p/w185/c3ttVfx0itQzk2vOR0053qzzd3B.png"
+    },
+    {
+     "name": "Original Film",
+     "slug": "original-film",
+     "logo": "https://image.tmdb.org/t/p/w185/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png"
+    },
+    {
+     "name": "Dogbone Entertainment",
+     "slug": "dogbone-entertainment",
+     "logo": null
+    },
+    {
+     "name": "Lipsync Productions",
+     "slug": "lipsync-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/o5OTKAw7Acl5fTZYPyl8M8D9570.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-22",
+    "platforms": [
+     {
+      "id": 561,
+      "name": "Lionsgate Play",
+      "logoPath": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2053,
+      "name": "Lionsgate Play Apple TV Channel",
+      "logoPath": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2074,
+      "name": "Lionsgate Play Amazon Channel",
+      "logoPath": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-09-19",
+     "gross": 89310,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 8,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 89310,
+    "totalShows": 8,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 89310
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 89310
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-19"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 835,
+    "title": "Afterburn",
+    "img": "https://image.tmdb.org/t/p/original/o56GXr0H888NJjN3E6auc04MWTC.jpg",
+    "released": "2025-09-19",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt1210027",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "105 min",
+    "genre": "Action, Science Fiction, Comedy",
+    "plot": "Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was destroyed by a massive solar flare, leaving what life remains mutated from radiation and fallout. The story revolves around a group of treasure hunters who extract such objects as the Mona Lisa, the Rosetta Stone and the Crown Jewels while facing rival hunters, mutants and pirates.",
+    "released": "2025-08-20",
+    "director": "J.J. Perry",
+    "directorSlug": "j-j-perry",
+    "actors": [
+     "Dave Bautista",
+     "Olga Kurylenko",
+     "Kristofer Hivju",
+     "Samuel L. Jackson",
+     "Daniel Bernhardt",
+     "Eden Epstein"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.6",
+      "votes": 9108,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.2",
+      "votes": 345,
+      "updatedAt": "2026-09-24T16:10:22.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dave Bautista",
+     "character": "Jake",
+     "slug": "dave-bautista",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+    },
+    {
+     "name": "Olga Kurylenko",
+     "character": "Drea",
+     "slug": "olga-kurylenko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ei6eYUhQFw2AaV6U5fyPptBaPF0.jpg"
+    },
+    {
+     "name": "Kristofer Hivju",
+     "character": "General Volkov",
+     "slug": "kristofer-hivju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bACL39GihNmBnFRay78rS3PUHsH.jpg"
+    },
+    {
+     "name": "Samuel L. Jackson",
+     "character": "Valentine",
+     "slug": "samuel-l-jackson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+    },
+    {
+     "name": "Daniel Bernhardt",
+     "character": "Gorynych",
+     "slug": "daniel-bernhardt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3BLz32inDr1jznU6pKQmh20zfhK.jpg"
+    },
+    {
+     "name": "Eden Epstein",
+     "character": "Fuentes",
+     "slug": "eden-epstein",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6ZYbrwHUR3VyGeWx7obPKDASGCJ.jpg"
+    },
+    {
+     "name": "George Somner",
+     "character": "Pilot",
+     "slug": "george-somner",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9FocanO4wogWLjxxNiLk3dP84Aa.jpg"
+    },
+    {
+     "name": "Sergio Freijo",
+     "character": "Occupied City Megaphone Officer",
+     "slug": "sergio-freijo",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "J.J. Perry",
+       "slug": "j-j-perry"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Matt Johnson",
+       "slug": "matt-johnson-11742"
+      },
+      {
+       "name": "Nimród Antal",
+       "slug": "nimrod-antal"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Roque Baños",
+       "slug": "roque-banos"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "José David Montero",
+       "slug": "jose-david-montero"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dave Bautista",
+       "slug": "dave-bautista"
+      },
+      {
+       "name": "Neal H. Moritz",
+       "slug": "neal-h-moritz"
+      },
+      {
+       "name": "Toby Jaffe",
+       "slug": "toby-jaffe"
+      },
+      {
+       "name": "Steve Richards",
+       "slug": "steve-richards"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Endurance Media",
+     "slug": "endurance-media",
+     "logo": "https://image.tmdb.org/t/p/w185/c3ttVfx0itQzk2vOR0053qzzd3B.png"
+    },
+    {
+     "name": "Original Film",
+     "slug": "original-film",
+     "logo": "https://image.tmdb.org/t/p/w185/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png"
+    },
+    {
+     "name": "Dogbone Entertainment",
+     "slug": "dogbone-entertainment",
+     "logo": null
+    },
+    {
+     "name": "Lipsync Productions",
+     "slug": "lipsync-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/o5OTKAw7Acl5fTZYPyl8M8D9570.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-22",
+    "platforms": [
+     {
+      "id": 561,
+      "name": "Lionsgate Play",
+      "logoPath": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2053,
+      "name": "Lionsgate Play Apple TV Channel",
+      "logoPath": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2074,
+      "name": "Lionsgate Play Amazon Channel",
+      "logoPath": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 89310,
+    "totalShows": 8,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 85540,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 85540,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-19"
+   }
+  }
+ }
+}

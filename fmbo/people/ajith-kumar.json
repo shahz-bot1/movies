@@ -1,0 +1,55 @@
+{
+ "slug": "ajith-kumar",
+ "name": "Ajith Kumar",
+ "source_url": "https://fridaymatinee.in/people/ajith-kumar",
+ "captured_at": "2026-10-01T20:17:59.844388+00:00",
+ "person": {
+  "name": "Ajith Kumar",
+  "photo": "https://image.tmdb.org/t/p/w185/bCS0pp7YNHoXJvHObBLoOJRUUYs.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 109,
+   "movie_slug": "valimai",
+   "title": "Valimai",
+   "year": 2022,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 271,
+   "movie_slug": "thunivu",
+   "title": "Thunivu",
+   "year": 2023,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 647,
+   "movie_slug": "vidaamuyarchi",
+   "title": "Vidaamuyarchi",
+   "year": 2025,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 664,
+   "movie_slug": "good-bad-ugly",
+   "title": "Good Bad Ugly",
+   "year": 2025,
+   "kerala_gross": "₹3.9 Cr"
+  },
+  {
+   "movie_id": 986,
+   "movie_slug": "mankatha",
+   "title": "Mankatha",
+   "year": 2026,
+   "kerala_gross": "₹12.9L"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "johny-lever",
+ "name": "Johny Lever",
+ "source_url": "https://fridaymatinee.in/people/johny-lever",
+ "captured_at": "2026-10-01T23:23:40.182590+00:00",
+ "person": {
+  "name": "Johny Lever",
+  "photo": "https://image.tmdb.org/t/p/w185/kohAOhKr4HBln8b9P4i1kmMONyi.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 20,
+   "movie_slug": "housefull-4",
+   "title": "Housefull 4",
+   "year": 2019,
+   "kerala_gross": "₹23.7L"
+  },
+  {
+   "movie_id": 62,
+   "movie_slug": "kannum-kannum-kollaiyadithaal",
+   "title": "Kannum Kannum Kollaiyadithaal",
+   "year": 2020,
+   "kerala_gross": "₹97.6L"
+  },
+  {
+   "movie_id": 1181,
+   "movie_slug": "welcome-to-the-jungle",
+   "title": "Welcome to the Jungle",
+   "year": 2026,
+   "kerala_gross": "₹12.9L"
+  },
+  {
+   "movie_id": 1209,
+   "movie_slug": "tera-yaar-hoon-main",
+   "title": "Tera Yaar Hoon Main",
+   "year": 2026,
+   "kerala_gross": "₹1.2L"
+  }
+ ]
+}

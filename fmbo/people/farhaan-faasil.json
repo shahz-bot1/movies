@@ -1,0 +1,41 @@
+{
+ "slug": "farhaan-faasil",
+ "name": "Farhaan Faasil",
+ "source_url": "https://fridaymatinee.in/people/farhaan-faasil",
+ "captured_at": "2026-10-01T22:19:13.362192+00:00",
+ "person": {
+  "name": "Farhaan Faasil",
+  "photo": "https://image.tmdb.org/t/p/w185/sXdUWl3P07h3LbvguzORYuSkyZ2.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 26,
+   "movie_slug": "under-world",
+   "title": "Under World",
+   "year": 2019,
+   "kerala_gross": "₹35.9L"
+  },
+  {
+   "movie_id": 111,
+   "movie_slug": "bheeshma-parvam",
+   "title": "Bheeshma Parvam",
+   "year": 2022,
+   "kerala_gross": "₹29.6 Cr"
+  },
+  {
+   "movie_id": 593,
+   "movie_slug": "thudarum",
+   "title": "Thudarum",
+   "year": 2025,
+   "kerala_gross": "₹107.2 Cr"
+  }
+ ]
+}

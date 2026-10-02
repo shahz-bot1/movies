@@ -1,0 +1,41 @@
+{
+ "slug": "sriman",
+ "name": "Sriman",
+ "source_url": "https://fridaymatinee.in/people/sriman",
+ "captured_at": "2026-10-02T10:55:55.334429+00:00",
+ "person": {
+  "name": "Sriman",
+  "photo": "https://image.tmdb.org/t/p/w185/81liscP15XwpOUmcEid32dcBWyT.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 31,
+   "movie_slug": "sangathamizhan",
+   "title": "Sangathamizhan",
+   "year": 2019,
+   "kerala_gross": "₹4.6L"
+  },
+  {
+   "movie_id": 50,
+   "movie_slug": "darbar",
+   "title": "Darbar",
+   "year": 2020,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 276,
+   "movie_slug": "varisu",
+   "title": "Varisu",
+   "year": 2023,
+   "kerala_gross": "₹7.8 Cr"
+  }
+ ]
+}

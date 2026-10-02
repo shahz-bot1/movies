@@ -1,0 +1,41 @@
+{
+ "slug": "abdool-lee",
+ "name": "Abdool Lee",
+ "source_url": "https://fridaymatinee.in/people/abdool-lee",
+ "captured_at": "2026-10-01T20:04:52.174110+00:00",
+ "person": {
+  "name": "Abdool Lee",
+  "photo": "https://image.tmdb.org/t/p/w185/j23g1EIvFNGB3hlbEUbxV2GZwpj.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 228,
+   "movie_slug": "sardar",
+   "title": "Sardar",
+   "year": 2022,
+   "kerala_gross": "₹94.9L"
+  },
+  {
+   "movie_id": 762,
+   "movie_slug": "house-mates",
+   "title": "House Mates",
+   "year": 2025,
+   "kerala_gross": "₹1.1L"
+  },
+  {
+   "movie_id": 1222,
+   "movie_slug": "g-d-n",
+   "title": "G.D.N",
+   "year": 2026,
+   "kerala_gross": "₹18.2L"
+  }
+ ]
+}

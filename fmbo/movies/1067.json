@@ -1,0 +1,1027 @@
+{
+ "id": 1067,
+ "slug": "drishyam-2",
+ "source_url": "https://fridaymatinee.in/boxoffice/drishyam-2-1067",
+ "captured_at": "2026-10-01T19:06:24.944139+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1067,
+    "title": "Drishyam 2",
+    "img": "https://image.tmdb.org/t/p/original/8RJBCUGE27LX06tAES4jTELN0KA.jpg",
+    "released": "2026-04-10",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt12361178",
+    "isRerelease": true
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "153 min",
+    "genre": "Thriller, Crime, Drama",
+    "plot": "7 years after the events of Drishyam, the family lives with the trauma from that fateful night. A gripping tale of an investigation and a family threatened by it. Will Georgekutty be able to protect his family this time?",
+    "released": "2021-02-19",
+    "director": "Jeethu Joseph",
+    "directorSlug": "jeethu-joseph",
+    "actors": [
+     "Mohanlal",
+     "Meena",
+     "Murali Gopy",
+     "Asha Sarath",
+     "Siddique",
+     "Anjali Aneesh Upasana"
+    ],
+    "awards": "10 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.4",
+      "votes": 46053,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 149,
+      "updatedAt": "2026-09-24T13:10:12.000Z"
+     },
+     "rt": "88%",
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Georgekutty",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Meena",
+     "character": "Rani",
+     "slug": "meena",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vMawuuT7VCeeJuBqpkm5siuWPij.jpg"
+    },
+    {
+     "name": "Murali Gopy",
+     "character": "IG Thomas Bastin",
+     "slug": "murali-gopy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nFt7DQiktygqPVyDupKSLmuBomU.jpg"
+    },
+    {
+     "name": "Asha Sarath",
+     "character": "IG Geetha Prabhakar",
+     "slug": "asha-sarath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1Bun1cGDrA14XOr7iHPk3w5bzAX.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Prabhakar",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Anjali Aneesh Upasana",
+     "character": "Saritha",
+     "slug": "anjali-aneesh-upasana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mTwTjMQz0PtIrRyRtH0baIWuS30.jpg"
+    },
+    {
+     "name": "Esther Anil",
+     "character": "Anumol",
+     "slug": "esther-anil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nXsLQHAtGT9GnScga3Aju5ObgR3.jpg"
+    },
+    {
+     "name": "Ansiba Hassan",
+     "character": "Anju",
+     "slug": "ansiba-hassan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dh55iMR1ablDwrowT9UaKxEgNHZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anil Johnson",
+       "slug": "anil-johnson"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Satheesh Kurup",
+       "slug": "satheesh-kurup"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "V S Vinayak",
+       "slug": "v-s-vinayak"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Antony Perumbavoor",
+       "slug": "antony-perumbavoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aashirvad Cinemas",
+     "slug": "aashirvad-cinemas",
+     "logo": "https://image.tmdb.org/t/p/w185/khS7G0KzBoCYcLs4xuNjpuZjntR.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2021-02-19",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-04-10": [
+     {
+      "id": 1064,
+      "title": "Bharathanatyam 2 Mohiniyattam",
+      "img": "https://image.tmdb.org/t/p/original/oLV3TgBCYoT6aSOvQCDYPCWPzwd.jpg"
+     },
+     {
+      "id": 1065,
+      "title": "Love Insurance Kompany",
+      "img": "https://image.tmdb.org/t/p/original/dHEuGKZBkEx4RcaVV8rYahORNPA.jpg"
+     },
+     {
+      "id": 1066,
+      "title": "Dacoit",
+      "img": "https://image.tmdb.org/t/p/original/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg"
+     }
+    ],
+    "2026-04-15": [
+     {
+      "id": 1068,
+      "title": "Pallichattambi",
+      "img": "https://image.tmdb.org/t/p/original/71J40hphFNXNQKk0aBdAEcSgEqT.jpg"
+     },
+     {
+      "id": 1069,
+      "title": "Oru Durooha Saahacharyathil",
+      "img": "https://image.tmdb.org/t/p/original/m5QAeVHpqSedMEvIpbUle6aUn5q.jpg"
+     }
+    ],
+    "2026-04-16": [
+     {
+      "id": 1070,
+      "title": "Bhooth Bangla",
+      "img": "https://image.tmdb.org/t/p/original/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg"
+     },
+     {
+      "id": 1073,
+      "title": "Lee Cronin's The Mummy",
+      "img": "https://image.tmdb.org/t/p/original/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-04-10",
+     "gross": 129027.59999999992,
+     "sold": 865,
+     "unsold": 16393,
+     "shows": 85,
+     "occ": 5.01,
+     "hf": "0",
+     "almost": "1",
+     "ff": "1",
+     "cumul": 129027.59999999992,
+     "lastUpdatedAt": "2026-04-10 22:28:00"
+    },
+    {
+     "label": "2026-04-11",
+     "gross": 85188.59999999996,
+     "sold": 603,
+     "unsold": 10713,
+     "shows": 51,
+     "occ": 5.33,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 214216.1999999999,
+     "lastUpdatedAt": "2026-04-11 22:28:00"
+    },
+    {
+     "label": "2026-04-12",
+     "gross": 108588,
+     "sold": 699,
+     "unsold": 7459,
+     "shows": 37,
+     "occ": 8.57,
+     "hf": "0",
+     "almost": "1",
+     "ff": "2",
+     "cumul": 322804.1999999999,
+     "lastUpdatedAt": "2026-04-12 21:14:00"
+    },
+    {
+     "label": "2026-04-13",
+     "gross": 9693,
+     "sold": 70,
+     "unsold": 4634,
+     "shows": 24,
+     "occ": 1.49,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 332497.1999999999,
+     "lastUpdatedAt": "2026-04-13 21:14:00"
+    },
+    {
+     "label": "2026-04-14",
+     "gross": 29137,
+     "sold": 174,
+     "unsold": 3973,
+     "shows": 21,
+     "occ": 4.2,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 361634.1999999999,
+     "lastUpdatedAt": "2026-04-14 21:14:00"
+    },
+    {
+     "label": "2026-04-15",
+     "gross": 1180,
+     "sold": 3,
+     "unsold": 117,
+     "shows": 1,
+     "occ": 2.5,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 362814.1999999999,
+     "lastUpdatedAt": "2026-04-15 10:42:00"
+    },
+    {
+     "label": "2026-04-16",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 120,
+     "shows": 1,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 362814.1999999999,
+     "lastUpdatedAt": "2026-04-16 10:28:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 362814.1999999999,
+    "totalShows": 220,
+    "totalSeats": 45823,
+    "totalSold": 2414,
+    "avgOcc": "5.3",
+    "totalDays": 7,
+    "totalHousefull": 1,
+    "totalAlmost": 3,
+    "totalFastFilling": 3,
+    "peakDay": {
+     "day": 1,
+     "gross": 129027.59999999992,
+     "date": "2026-04-10"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 129027.59999999992,
+     "date": "2026-04-10"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "7:0:362814.1999999999"
+  },
+  "week": {
+   "movie": {
+    "id": 1067,
+    "title": "Drishyam 2",
+    "img": "https://image.tmdb.org/t/p/original/8RJBCUGE27LX06tAES4jTELN0KA.jpg",
+    "released": "2026-04-10",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt12361178",
+    "isRerelease": true
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "153 min",
+    "genre": "Thriller, Crime, Drama",
+    "plot": "7 years after the events of Drishyam, the family lives with the trauma from that fateful night. A gripping tale of an investigation and a family threatened by it. Will Georgekutty be able to protect his family this time?",
+    "released": "2021-02-19",
+    "director": "Jeethu Joseph",
+    "directorSlug": "jeethu-joseph",
+    "actors": [
+     "Mohanlal",
+     "Meena",
+     "Murali Gopy",
+     "Asha Sarath",
+     "Siddique",
+     "Anjali Aneesh Upasana"
+    ],
+    "awards": "10 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.4",
+      "votes": 46053,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 149,
+      "updatedAt": "2026-09-24T13:10:12.000Z"
+     },
+     "rt": "88%",
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Georgekutty",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Meena",
+     "character": "Rani",
+     "slug": "meena",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vMawuuT7VCeeJuBqpkm5siuWPij.jpg"
+    },
+    {
+     "name": "Murali Gopy",
+     "character": "IG Thomas Bastin",
+     "slug": "murali-gopy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nFt7DQiktygqPVyDupKSLmuBomU.jpg"
+    },
+    {
+     "name": "Asha Sarath",
+     "character": "IG Geetha Prabhakar",
+     "slug": "asha-sarath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1Bun1cGDrA14XOr7iHPk3w5bzAX.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Prabhakar",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Anjali Aneesh Upasana",
+     "character": "Saritha",
+     "slug": "anjali-aneesh-upasana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mTwTjMQz0PtIrRyRtH0baIWuS30.jpg"
+    },
+    {
+     "name": "Esther Anil",
+     "character": "Anumol",
+     "slug": "esther-anil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nXsLQHAtGT9GnScga3Aju5ObgR3.jpg"
+    },
+    {
+     "name": "Ansiba Hassan",
+     "character": "Anju",
+     "slug": "ansiba-hassan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dh55iMR1ablDwrowT9UaKxEgNHZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anil Johnson",
+       "slug": "anil-johnson"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Satheesh Kurup",
+       "slug": "satheesh-kurup"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "V S Vinayak",
+       "slug": "v-s-vinayak"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Antony Perumbavoor",
+       "slug": "antony-perumbavoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aashirvad Cinemas",
+     "slug": "aashirvad-cinemas",
+     "logo": "https://image.tmdb.org/t/p/w185/khS7G0KzBoCYcLs4xuNjpuZjntR.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2021-02-19",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-04-10": [
+     {
+      "id": 1064,
+      "title": "Bharathanatyam 2 Mohiniyattam",
+      "img": "https://image.tmdb.org/t/p/original/oLV3TgBCYoT6aSOvQCDYPCWPzwd.jpg"
+     },
+     {
+      "id": 1065,
+      "title": "Love Insurance Kompany",
+      "img": "https://image.tmdb.org/t/p/original/dHEuGKZBkEx4RcaVV8rYahORNPA.jpg"
+     },
+     {
+      "id": 1066,
+      "title": "Dacoit",
+      "img": "https://image.tmdb.org/t/p/original/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg"
+     }
+    ],
+    "2026-04-15": [
+     {
+      "id": 1068,
+      "title": "Pallichattambi",
+      "img": "https://image.tmdb.org/t/p/original/71J40hphFNXNQKk0aBdAEcSgEqT.jpg"
+     },
+     {
+      "id": 1069,
+      "title": "Oru Durooha Saahacharyathil",
+      "img": "https://image.tmdb.org/t/p/original/m5QAeVHpqSedMEvIpbUle6aUn5q.jpg"
+     }
+    ],
+    "2026-04-16": [
+     {
+      "id": 1070,
+      "title": "Bhooth Bangla",
+      "img": "https://image.tmdb.org/t/p/original/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg"
+     },
+     {
+      "id": 1073,
+      "title": "Lee Cronin's The Mummy",
+      "img": "https://image.tmdb.org/t/p/original/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-04-10",
+     "gross": 362814.19999999995,
+     "sold": 2414,
+     "unsold": 43409,
+     "shows": 220,
+     "occ": 5.27,
+     "hf": "1",
+     "almost": "3",
+     "ff": "3",
+     "cumul": 362814.19999999995,
+     "lastUpdatedAt": "2026-04-16 10:28:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 362814.19999999995,
+    "totalShows": 220,
+    "totalSeats": 45823,
+    "totalSold": 2414,
+    "avgOcc": "5.3",
+    "totalDays": 1,
+    "totalHousefull": 1,
+    "totalAlmost": 3,
+    "totalFastFilling": 3,
+    "peakDay": {
+     "day": 1,
+     "gross": 362814.19999999995
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 362814.19999999995
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "1:362814.19999999995:362814.19999999995"
+  },
+  "district": {
+   "movie": {
+    "id": 1067,
+    "title": "Drishyam 2",
+    "img": "https://image.tmdb.org/t/p/original/8RJBCUGE27LX06tAES4jTELN0KA.jpg",
+    "released": "2026-04-10",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt12361178",
+    "isRerelease": true
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "153 min",
+    "genre": "Thriller, Crime, Drama",
+    "plot": "7 years after the events of Drishyam, the family lives with the trauma from that fateful night. A gripping tale of an investigation and a family threatened by it. Will Georgekutty be able to protect his family this time?",
+    "released": "2021-02-19",
+    "director": "Jeethu Joseph",
+    "directorSlug": "jeethu-joseph",
+    "actors": [
+     "Mohanlal",
+     "Meena",
+     "Murali Gopy",
+     "Asha Sarath",
+     "Siddique",
+     "Anjali Aneesh Upasana"
+    ],
+    "awards": "10 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.4",
+      "votes": 46053,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 149,
+      "updatedAt": "2026-09-24T13:10:12.000Z"
+     },
+     "rt": "88%",
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Georgekutty",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Meena",
+     "character": "Rani",
+     "slug": "meena",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vMawuuT7VCeeJuBqpkm5siuWPij.jpg"
+    },
+    {
+     "name": "Murali Gopy",
+     "character": "IG Thomas Bastin",
+     "slug": "murali-gopy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nFt7DQiktygqPVyDupKSLmuBomU.jpg"
+    },
+    {
+     "name": "Asha Sarath",
+     "character": "IG Geetha Prabhakar",
+     "slug": "asha-sarath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1Bun1cGDrA14XOr7iHPk3w5bzAX.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Prabhakar",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Anjali Aneesh Upasana",
+     "character": "Saritha",
+     "slug": "anjali-aneesh-upasana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mTwTjMQz0PtIrRyRtH0baIWuS30.jpg"
+    },
+    {
+     "name": "Esther Anil",
+     "character": "Anumol",
+     "slug": "esther-anil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nXsLQHAtGT9GnScga3Aju5ObgR3.jpg"
+    },
+    {
+     "name": "Ansiba Hassan",
+     "character": "Anju",
+     "slug": "ansiba-hassan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dh55iMR1ablDwrowT9UaKxEgNHZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anil Johnson",
+       "slug": "anil-johnson"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Satheesh Kurup",
+       "slug": "satheesh-kurup"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "V S Vinayak",
+       "slug": "v-s-vinayak"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Antony Perumbavoor",
+       "slug": "antony-perumbavoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aashirvad Cinemas",
+     "slug": "aashirvad-cinemas",
+     "logo": "https://image.tmdb.org/t/p/w185/khS7G0KzBoCYcLs4xuNjpuZjntR.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2021-02-19",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-04-10": [
+     {
+      "id": 1064,
+      "title": "Bharathanatyam 2 Mohiniyattam",
+      "img": "https://image.tmdb.org/t/p/original/oLV3TgBCYoT6aSOvQCDYPCWPzwd.jpg"
+     },
+     {
+      "id": 1065,
+      "title": "Love Insurance Kompany",
+      "img": "https://image.tmdb.org/t/p/original/dHEuGKZBkEx4RcaVV8rYahORNPA.jpg"
+     },
+     {
+      "id": 1066,
+      "title": "Dacoit",
+      "img": "https://image.tmdb.org/t/p/original/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg"
+     }
+    ],
+    "2026-04-15": [
+     {
+      "id": 1068,
+      "title": "Pallichattambi",
+      "img": "https://image.tmdb.org/t/p/original/71J40hphFNXNQKk0aBdAEcSgEqT.jpg"
+     },
+     {
+      "id": 1069,
+      "title": "Oru Durooha Saahacharyathil",
+      "img": "https://image.tmdb.org/t/p/original/m5QAeVHpqSedMEvIpbUle6aUn5q.jpg"
+     }
+    ],
+    "2026-04-16": [
+     {
+      "id": 1070,
+      "title": "Bhooth Bangla",
+      "img": "https://image.tmdb.org/t/p/original/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg"
+     },
+     {
+      "id": 1073,
+      "title": "Lee Cronin's The Mummy",
+      "img": "https://image.tmdb.org/t/p/original/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Alappuzha",
+     "gross": 82850,
+     "sold": 481,
+     "unsold": 883,
+     "shows": 7,
+     "occ": 35.26,
+     "hf": "0",
+     "almost": "1",
+     "ff": "1",
+     "cumul": 82850,
+     "lastUpdatedAt": "2026-04-14 12:53:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 72167,
+     "sold": 470,
+     "unsold": 4360,
+     "shows": 30,
+     "occ": 9.73,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 155017,
+     "lastUpdatedAt": "2026-04-16 10:28:00"
+    },
+    {
+     "label": "Kottayam",
+     "gross": 46390,
+     "sold": 374,
+     "unsold": 5723,
+     "shows": 17,
+     "occ": 6.13,
+     "hf": "1",
+     "almost": "1",
+     "ff": "1",
+     "cumul": 201407,
+     "lastUpdatedAt": "2026-04-13 11:08:00"
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 29093,
+     "sold": 202,
+     "unsold": 1613,
+     "shows": 9,
+     "occ": 11.13,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 230500,
+     "lastUpdatedAt": "2026-04-14 13:28:00"
+    },
+    {
+     "label": "Ernakulam",
+     "gross": 24665,
+     "sold": 150,
+     "unsold": 2539,
+     "shows": 17,
+     "occ": 5.58,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 255165,
+     "lastUpdatedAt": "2026-04-14 10:13:00"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 19525,
+     "sold": 150,
+     "unsold": 4427,
+     "shows": 24,
+     "occ": 3.28,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 274690,
+     "lastUpdatedAt": "2026-04-14 19:08:00"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 18625,
+     "sold": 140,
+     "unsold": 7095,
+     "shows": 35,
+     "occ": 1.94,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 293315,
+     "lastUpdatedAt": "2026-04-14 21:14:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 16824,
+     "sold": 107,
+     "unsold": 4717,
+     "shows": 17,
+     "occ": 2.22,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 310139,
+     "lastUpdatedAt": "2026-04-14 17:53:00"
+    },
+    {
+     "label": "Kannur",
+     "gross": 14601.199999999879,
+     "sold": 106,
+     "unsold": 1432,
+     "shows": 10,
+     "occ": 6.89,
+     "hf": "0",
+     "almost": "1",
+     "ff": "1",
+     "cumul": 324740.1999999999,
+     "lastUpdatedAt": "2026-04-11 10:43:00"
+    },
+    {
+     "label": "Kollam",
+     "gross": 13754,
+     "sold": 83,
+     "unsold": 4015,
+     "shows": 27,
+     "occ": 2.03,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 338494.1999999999,
+     "lastUpdatedAt": "2026-04-14 16:08:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 9690,
+     "sold": 69,
+     "unsold": 2075,
+     "shows": 8,
+     "occ": 3.22,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 348184.1999999999,
+     "lastUpdatedAt": "2026-04-14 13:28:00"
+    },
+    {
+     "label": "Idukki",
+     "gross": 7275,
+     "sold": 39,
+     "unsold": 2679,
+     "shows": 9,
+     "occ": 1.43,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 355459.1999999999,
+     "lastUpdatedAt": "2026-04-14 10:53:00"
+    },
+    {
+     "label": "Pathanamthitta",
+     "gross": 7055,
+     "sold": 41,
+     "unsold": 1607,
+     "shows": 8,
+     "occ": 2.49,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 362514.1999999999,
+     "lastUpdatedAt": "2026-04-14 09:53:00"
+    },
+    {
+     "label": "Wayanad",
+     "gross": 300,
+     "sold": 2,
+     "unsold": 244,
+     "shows": 2,
+     "occ": 0.81,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 362814.1999999999,
+     "lastUpdatedAt": "2026-04-10 21:03:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 362814.1999999999,
+    "totalShows": 220,
+    "totalSeats": 45823,
+    "totalSold": 2414,
+    "avgOcc": "5.3",
+    "totalDays": 14,
+    "totalHousefull": 1,
+    "totalAlmost": 3,
+    "totalFastFilling": 3,
+    "peakDay": {
+     "day": 1,
+     "gross": 82850,
+     "date": "Alappuzha"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 82850,
+     "date": "Alappuzha"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "14:300:362814.1999999999"
+  }
+ }
+}

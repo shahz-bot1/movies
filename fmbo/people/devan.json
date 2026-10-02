@@ -1,0 +1,62 @@
+{
+ "slug": "devan",
+ "name": "Devan",
+ "source_url": "https://fridaymatinee.in/people/devan",
+ "captured_at": "2026-10-01T21:57:11.726903+00:00",
+ "person": {
+  "name": "Devan",
+  "photo": "https://image.tmdb.org/t/p/w185/TSAMYfaw3yWAXWO3cuqehIkYbO.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 12,
+   "movie_slug": "ganagandharvan",
+   "title": "Ganagandharvan",
+   "year": 2019,
+   "kerala_gross": "₹24.3L"
+  },
+  {
+   "movie_id": 33,
+   "movie_slug": "jack-daniel",
+   "title": "Jack Daniel ",
+   "year": 2019,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 55,
+   "movie_slug": "big-brother",
+   "title": "Big Brother ",
+   "year": 2020,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 338,
+   "movie_slug": "desamuduru",
+   "title": "Desamuduru",
+   "year": 2023,
+   "kerala_gross": "₹94K"
+  },
+  {
+   "movie_id": 566,
+   "movie_slug": "bad-boyz",
+   "title": "Bad Boyz",
+   "year": 2024,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 883,
+   "movie_slug": "bha-bha-ba",
+   "title": "Bha. Bha. Ba.",
+   "year": 2025,
+   "kerala_gross": "₹22.3 Cr"
+  }
+ ]
+}

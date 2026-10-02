@@ -1,0 +1,41 @@
+{
+ "slug": "deepti-sati",
+ "name": "Deepti Sati",
+ "source_url": "https://fridaymatinee.in/people/deepti-sati",
+ "captured_at": "2026-10-01T21:54:47.852513+00:00",
+ "person": {
+  "name": "Deepti Sati",
+  "photo": "https://image.tmdb.org/t/p/w185/fJxyokBySxWusZceV3G3arnv0bY.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 48,
+   "movie_slug": "driving-licence",
+   "title": "Driving Licence",
+   "year": 2019,
+   "kerala_gross": "₹7.6 Cr"
+  },
+  {
+   "movie_id": 197,
+   "movie_slug": "pathombatham-noottandu",
+   "title": "Pathombatham Noottandu",
+   "year": 2022,
+   "kerala_gross": "₹7.7 Cr"
+  },
+  {
+   "movie_id": 198,
+   "movie_slug": "ottu",
+   "title": "Ottu",
+   "year": 2022,
+   "kerala_gross": "₹1.4 Cr"
+  }
+ ]
+}

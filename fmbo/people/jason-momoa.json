@@ -1,0 +1,65 @@
+{
+ "slug": "jason-momoa",
+ "name": "Jason Momoa",
+ "source_url": "https://fridaymatinee.in/people/jason-momoa",
+ "captured_at": "2026-10-01T23:03:28.454412+00:00",
+ "person": {
+  "name": "Jason Momoa",
+  "photo": "https://image.tmdb.org/t/p/w185/3troAR6QbSb6nUFMDu61YCCWLKa.jpg",
+  "role": "Actor, producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 377,
+   "movie_slug": "fast-x",
+   "title": "Fast X",
+   "year": 2023,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 480,
+   "movie_slug": "aquaman-and-the-lost-kingdom",
+   "title": "Aquaman and the Lost Kingdom",
+   "year": 2023,
+   "kerala_gross": "₹79.2L"
+  },
+  {
+   "movie_id": 670,
+   "movie_slug": "a-minecraft-movie",
+   "title": "A Minecraft Movie",
+   "year": 2025,
+   "kerala_gross": "₹52.7L"
+  },
+  {
+   "movie_id": 795,
+   "movie_slug": "supergirl",
+   "title": "Supergirl",
+   "year": 2026,
+   "kerala_gross": "₹52.7L"
+  },
+  {
+   "movie_id": 778,
+   "movie_slug": "dune-part-three",
+   "title": "Dune: Part Three",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

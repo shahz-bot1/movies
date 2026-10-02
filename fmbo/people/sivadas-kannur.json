@@ -1,0 +1,48 @@
+{
+ "slug": "sivadas-kannur",
+ "name": "Sivadas Kannur",
+ "source_url": "https://fridaymatinee.in/people/sivadas-kannur",
+ "captured_at": "2026-10-02T10:47:35.096315+00:00",
+ "person": {
+  "name": "Sivadas Kannur",
+  "photo": "https://image.tmdb.org/t/p/w185/6ir9Vhin8jsd4cvamsMwS4lmTBp.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 27,
+   "movie_slug": "android-kunjappan",
+   "title": "Android Kunjappan",
+   "year": 2019,
+   "kerala_gross": "₹4.3 Cr"
+  },
+  {
+   "movie_id": 73,
+   "movie_slug": "the-priest",
+   "title": "The Priest",
+   "year": 2021,
+   "kerala_gross": "₹5.8 Cr"
+  },
+  {
+   "movie_id": 143,
+   "movie_slug": "john-luther",
+   "title": "John Luther",
+   "year": 2022,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 1215,
+   "movie_slug": "thudakkam",
+   "title": "Thudakkam",
+   "year": 2026,
+   "kerala_gross": "₹22.3 Cr"
+  }
+ ]
+}

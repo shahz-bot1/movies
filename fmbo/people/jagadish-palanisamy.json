@@ -1,0 +1,41 @@
+{
+ "slug": "jagadish-palanisamy",
+ "name": "Jagadish Palanisamy",
+ "source_url": "https://fridaymatinee.in/people/jagadish-palanisamy",
+ "captured_at": "2026-10-01T22:58:27.865117+00:00",
+ "person": {
+  "name": "Jagadish Palanisamy",
+  "photo": null,
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 432,
+   "movie_slug": "sesham-mike-il-fathima",
+   "title": "Sesham Mike-il Fathima",
+   "year": 2023,
+   "kerala_gross": "₹31.9L"
+  },
+  {
+   "movie_id": 524,
+   "movie_slug": "maharaja",
+   "title": "Maharaja",
+   "year": 2024,
+   "kerala_gross": "₹5.7 Cr"
+  },
+  {
+   "movie_id": 928,
+   "movie_slug": "revolver-rita",
+   "title": "Revolver Rita",
+   "year": 2025,
+   "kerala_gross": "₹6.0L"
+  }
+ ]
+}

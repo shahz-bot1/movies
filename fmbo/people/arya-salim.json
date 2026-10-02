@@ -1,0 +1,55 @@
+{
+ "slug": "arya-salim",
+ "name": "Arya Salim",
+ "source_url": "https://fridaymatinee.in/people/arya-salim",
+ "captured_at": "2026-10-01T20:58:30.994972+00:00",
+ "person": {
+  "name": "Arya Salim",
+  "photo": "https://image.tmdb.org/t/p/w185/upKUfyU0xYsGmNsqRtri1Xuf7nh.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 79,
+   "movie_slug": "aarkkariyam",
+   "title": "Aarkkariyam",
+   "year": 2021,
+   "kerala_gross": "₹7.4L"
+  },
+  {
+   "movie_id": 242,
+   "movie_slug": "1744-white-alto",
+   "title": "1744 White Alto",
+   "year": 2022,
+   "kerala_gross": "₹44.9L"
+  },
+  {
+   "movie_id": 285,
+   "movie_slug": "iratta",
+   "title": "Iratta",
+   "year": 2023,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 477,
+   "movie_slug": "abraham-ozler",
+   "title": "Abraham Ozler",
+   "year": 2024,
+   "kerala_gross": "₹17.2 Cr"
+  },
+  {
+   "movie_id": 677,
+   "movie_slug": "narivetta",
+   "title": "Narivetta",
+   "year": 2025,
+   "kerala_gross": "₹14.9 Cr"
+  }
+ ]
+}

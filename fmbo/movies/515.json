@@ -1,0 +1,879 @@
+{
+ "id": 515,
+ "slug": "deadpool-wolverine",
+ "source_url": "https://fridaymatinee.in/boxoffice/deadpool-wolverine-515",
+ "captured_at": "2026-10-01T18:14:06.864841+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 515,
+    "title": "Deadpool u0026 Wolverine",
+    "img": "https://image.tmdb.org/t/p/original/ajnzOECvXpa7VcVx0RSlq39XgHe.jpg",
+    "released": "2024-07-26",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt6263850",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "128 min",
+    "genre": "Action, Comedy, Science Fiction",
+    "plot": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+    "released": "2024-07-24",
+    "director": "Shawn Levy",
+    "directorSlug": "shawn-levy",
+    "actors": [
+     "Ryan Reynolds",
+     "Hugh Jackman",
+     "Emma Corrin",
+     "Matthew Macfadyen",
+     "Dafne Keen",
+     "Jon Favreau"
+    ],
+    "awards": "31 wins u0026 71 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 595738,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 9493,
+      "updatedAt": "2026-09-24T19:10:59.000Z"
+     },
+     "rt": "78%",
+     "metascore": 56,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ryan Reynolds",
+     "character": "Wade Wilson / Deadpool / Nicepool",
+     "slug": "ryan-reynolds",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+    },
+    {
+     "name": "Hugh Jackman",
+     "character": "Logan / Wolverine",
+     "slug": "hugh-jackman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg"
+    },
+    {
+     "name": "Emma Corrin",
+     "character": "Cassandra Nova",
+     "slug": "emma-corrin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wqGOVOsHzZaHeHymIS40elGCnY0.jpg"
+    },
+    {
+     "name": "Matthew Macfadyen",
+     "character": "Mr. Paradox",
+     "slug": "matthew-macfadyen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sFaIfkykJdftwrc3BdEfpdg2mYW.jpg"
+    },
+    {
+     "name": "Dafne Keen",
+     "character": "Laura / X-23",
+     "slug": "dafne-keen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/34BhddK5z2YHjfppOleezVrQ7Jt.jpg"
+    },
+    {
+     "name": "Jon Favreau",
+     "character": "Happy Hogan",
+     "slug": "jon-favreau",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+    },
+    {
+     "name": "Morena Baccarin",
+     "character": "Vanessa",
+     "slug": "morena-baccarin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kBSKKaOtsqIzZPhtEeHfCBmhWl9.jpg"
+    },
+    {
+     "name": "Rob Delaney",
+     "character": "Peter",
+     "slug": "rob-delaney",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xirfT1znRkkughLiPemKu3NhkKQ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Shawn Levy",
+       "slug": "shawn-levy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rhett Reese",
+       "slug": "rhett-reese"
+      },
+      {
+       "name": "Paul Wernick",
+       "slug": "paul-wernick"
+      },
+      {
+       "name": "Ryan Reynolds",
+       "slug": "ryan-reynolds"
+      },
+      {
+       "name": "Shawn Levy",
+       "slug": "shawn-levy"
+      },
+      {
+       "name": "Zeb Wells",
+       "slug": "zeb-wells"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rob Simonsen",
+       "slug": "rob-simonsen"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "George Richmond",
+       "slug": "george-richmond"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shane Reid",
+       "slug": "shane-reid"
+      },
+      {
+       "name": "Dean Zimmerman",
+       "slug": "dean-zimmerman"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ryan Reynolds",
+       "slug": "ryan-reynolds"
+      },
+      {
+       "name": "Lauren Shuler Donner",
+       "slug": "lauren-shuler-donner"
+      },
+      {
+       "name": "Shawn Levy",
+       "slug": "shawn-levy"
+      },
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Maximum Effort",
+     "slug": "maximum-effort",
+     "logo": "https://image.tmdb.org/t/p/w185/hx0C1XcSxGgat8N62GpxoJGTkCk.png"
+    },
+    {
+     "name": "21 Laps Entertainment",
+     "slug": "21-laps-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/9YJrHYlcfHtwtulkFMAies3aFEl.png"
+    },
+    {
+     "name": "20th Century Studios",
+     "slug": "20th-century-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/h0rjX5vjW5r8yEnUBStFarjcLT4.png"
+    },
+    {
+     "name": "Kevin Feige Productions",
+     "slug": "kevin-feige-productions",
+     "logo": null
+    },
+    {
+     "name": "TSG Entertainment",
+     "slug": "tsg-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/qx9K6bFWJupwde0xQDwOvXkOaL8.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-10-01",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 67164119.19999999,
+    "totalShows": 7470,
+    "totalDays": 56,
+    "openingDay": {
+     "day": 1,
+     "gross": 11511058.6,
+     "date": "2024-07-26"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 11511058.6,
+     "date": "2024-07-26"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 67,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-07-26"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 515,
+    "title": "Deadpool u0026 Wolverine",
+    "img": "https://image.tmdb.org/t/p/original/ajnzOECvXpa7VcVx0RSlq39XgHe.jpg",
+    "released": "2024-07-26",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt6263850",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "128 min",
+    "genre": "Action, Comedy, Science Fiction",
+    "plot": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+    "released": "2024-07-24",
+    "director": "Shawn Levy",
+    "directorSlug": "shawn-levy",
+    "actors": [
+     "Ryan Reynolds",
+     "Hugh Jackman",
+     "Emma Corrin",
+     "Matthew Macfadyen",
+     "Dafne Keen",
+     "Jon Favreau"
+    ],
+    "awards": "31 wins u0026 71 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 595738,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 9493,
+      "updatedAt": "2026-09-24T19:10:59.000Z"
+     },
+     "rt": "78%",
+     "metascore": 56,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ryan Reynolds",
+     "character": "Wade Wilson / Deadpool / Nicepool",
+     "slug": "ryan-reynolds",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+    },
+    {
+     "name": "Hugh Jackman",
+     "character": "Logan / Wolverine",
+     "slug": "hugh-jackman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg"
+    },
+    {
+     "name": "Emma Corrin",
+     "character": "Cassandra Nova",
+     "slug": "emma-corrin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wqGOVOsHzZaHeHymIS40elGCnY0.jpg"
+    },
+    {
+     "name": "Matthew Macfadyen",
+     "character": "Mr. Paradox",
+     "slug": "matthew-macfadyen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sFaIfkykJdftwrc3BdEfpdg2mYW.jpg"
+    },
+    {
+     "name": "Dafne Keen",
+     "character": "Laura / X-23",
+     "slug": "dafne-keen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/34BhddK5z2YHjfppOleezVrQ7Jt.jpg"
+    },
+    {
+     "name": "Jon Favreau",
+     "character": "Happy Hogan",
+     "slug": "jon-favreau",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+    },
+    {
+     "name": "Morena Baccarin",
+     "character": "Vanessa",
+     "slug": "morena-baccarin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kBSKKaOtsqIzZPhtEeHfCBmhWl9.jpg"
+    },
+    {
+     "name": "Rob Delaney",
+     "character": "Peter",
+     "slug": "rob-delaney",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xirfT1znRkkughLiPemKu3NhkKQ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Shawn Levy",
+       "slug": "shawn-levy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rhett Reese",
+       "slug": "rhett-reese"
+      },
+      {
+       "name": "Paul Wernick",
+       "slug": "paul-wernick"
+      },
+      {
+       "name": "Ryan Reynolds",
+       "slug": "ryan-reynolds"
+      },
+      {
+       "name": "Shawn Levy",
+       "slug": "shawn-levy"
+      },
+      {
+       "name": "Zeb Wells",
+       "slug": "zeb-wells"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rob Simonsen",
+       "slug": "rob-simonsen"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "George Richmond",
+       "slug": "george-richmond"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shane Reid",
+       "slug": "shane-reid"
+      },
+      {
+       "name": "Dean Zimmerman",
+       "slug": "dean-zimmerman"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ryan Reynolds",
+       "slug": "ryan-reynolds"
+      },
+      {
+       "name": "Lauren Shuler Donner",
+       "slug": "lauren-shuler-donner"
+      },
+      {
+       "name": "Shawn Levy",
+       "slug": "shawn-levy"
+      },
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Maximum Effort",
+     "slug": "maximum-effort",
+     "logo": "https://image.tmdb.org/t/p/w185/hx0C1XcSxGgat8N62GpxoJGTkCk.png"
+    },
+    {
+     "name": "21 Laps Entertainment",
+     "slug": "21-laps-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/9YJrHYlcfHtwtulkFMAies3aFEl.png"
+    },
+    {
+     "name": "20th Century Studios",
+     "slug": "20th-century-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/h0rjX5vjW5r8yEnUBStFarjcLT4.png"
+    },
+    {
+     "name": "Kevin Feige Productions",
+     "slug": "kevin-feige-productions",
+     "logo": null
+    },
+    {
+     "name": "TSG Entertainment",
+     "slug": "tsg-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/qx9K6bFWJupwde0xQDwOvXkOaL8.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-10-01",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-07-26",
+     "gross": 44917563.6,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3984,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-08-02",
+     "gross": 14750314.599999998,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2394,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-08-09",
+     "gross": 4974207,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 812,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-08-16",
+     "gross": 1237920,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 131,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-08-23",
+     "gross": 542824,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 50,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-08-30",
+     "gross": 267500,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 35,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-09-06",
+     "gross": 213620,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 25,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-09-13",
+     "gross": 260170,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 39,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 67164119.2,
+    "totalShows": 7470,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 44917563.6
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 44917563.6
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 67,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-07-26"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 515,
+    "title": "Deadpool u0026 Wolverine",
+    "img": "https://image.tmdb.org/t/p/original/ajnzOECvXpa7VcVx0RSlq39XgHe.jpg",
+    "released": "2024-07-26",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt6263850",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "128 min",
+    "genre": "Action, Comedy, Science Fiction",
+    "plot": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+    "released": "2024-07-24",
+    "director": "Shawn Levy",
+    "directorSlug": "shawn-levy",
+    "actors": [
+     "Ryan Reynolds",
+     "Hugh Jackman",
+     "Emma Corrin",
+     "Matthew Macfadyen",
+     "Dafne Keen",
+     "Jon Favreau"
+    ],
+    "awards": "31 wins u0026 71 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 595738,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 9493,
+      "updatedAt": "2026-09-24T19:10:59.000Z"
+     },
+     "rt": "78%",
+     "metascore": 56,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ryan Reynolds",
+     "character": "Wade Wilson / Deadpool / Nicepool",
+     "slug": "ryan-reynolds",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+    },
+    {
+     "name": "Hugh Jackman",
+     "character": "Logan / Wolverine",
+     "slug": "hugh-jackman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg"
+    },
+    {
+     "name": "Emma Corrin",
+     "character": "Cassandra Nova",
+     "slug": "emma-corrin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wqGOVOsHzZaHeHymIS40elGCnY0.jpg"
+    },
+    {
+     "name": "Matthew Macfadyen",
+     "character": "Mr. Paradox",
+     "slug": "matthew-macfadyen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sFaIfkykJdftwrc3BdEfpdg2mYW.jpg"
+    },
+    {
+     "name": "Dafne Keen",
+     "character": "Laura / X-23",
+     "slug": "dafne-keen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/34BhddK5z2YHjfppOleezVrQ7Jt.jpg"
+    },
+    {
+     "name": "Jon Favreau",
+     "character": "Happy Hogan",
+     "slug": "jon-favreau",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+    },
+    {
+     "name": "Morena Baccarin",
+     "character": "Vanessa",
+     "slug": "morena-baccarin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kBSKKaOtsqIzZPhtEeHfCBmhWl9.jpg"
+    },
+    {
+     "name": "Rob Delaney",
+     "character": "Peter",
+     "slug": "rob-delaney",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xirfT1znRkkughLiPemKu3NhkKQ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Shawn Levy",
+       "slug": "shawn-levy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rhett Reese",
+       "slug": "rhett-reese"
+      },
+      {
+       "name": "Paul Wernick",
+       "slug": "paul-wernick"
+      },
+      {
+       "name": "Ryan Reynolds",
+       "slug": "ryan-reynolds"
+      },
+      {
+       "name": "Shawn Levy",
+       "slug": "shawn-levy"
+      },
+      {
+       "name": "Zeb Wells",
+       "slug": "zeb-wells"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rob Simonsen",
+       "slug": "rob-simonsen"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "George Richmond",
+       "slug": "george-richmond"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shane Reid",
+       "slug": "shane-reid"
+      },
+      {
+       "name": "Dean Zimmerman",
+       "slug": "dean-zimmerman"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ryan Reynolds",
+       "slug": "ryan-reynolds"
+      },
+      {
+       "name": "Lauren Shuler Donner",
+       "slug": "lauren-shuler-donner"
+      },
+      {
+       "name": "Shawn Levy",
+       "slug": "shawn-levy"
+      },
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Maximum Effort",
+     "slug": "maximum-effort",
+     "logo": "https://image.tmdb.org/t/p/w185/hx0C1XcSxGgat8N62GpxoJGTkCk.png"
+    },
+    {
+     "name": "21 Laps Entertainment",
+     "slug": "21-laps-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/9YJrHYlcfHtwtulkFMAies3aFEl.png"
+    },
+    {
+     "name": "20th Century Studios",
+     "slug": "20th-century-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/h0rjX5vjW5r8yEnUBStFarjcLT4.png"
+    },
+    {
+     "name": "Kevin Feige Productions",
+     "slug": "kevin-feige-productions",
+     "logo": null
+    },
+    {
+     "name": "TSG Entertainment",
+     "slug": "tsg-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/qx9K6bFWJupwde0xQDwOvXkOaL8.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-10-01",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 67164119.2,
+    "totalShows": 7470,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 25328350,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 25328350,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 67,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-07-26"
+   }
+  }
+ }
+}

@@ -1,0 +1,2026 @@
+{
+ "id": 653,
+ "slug": "kalamkaval",
+ "source_url": "https://fridaymatinee.in/boxoffice/kalamkaval-653",
+ "captured_at": "2026-10-01T18:18:09.304278+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 653,
+    "title": "Kalamkaval",
+    "img": "https://image.tmdb.org/t/p/original/cTZt3Kmbvp0zZ5za1rTVZvn8AlW.jpg",
+    "released": "2025-12-05",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33500164",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "144 min",
+    "genre": "Crime, Drama",
+    "plot": "Early 2010s. A routine Kerala Police inquiry in the quiet village of Kottayikonam takes an unexpected turn when a trail of seemingly minor clues unravels into a string of disturbing cases. The investigation soon crosses into Tamil Nadu, revealing unsolved mysteries that have lingered for years.",
+    "released": "2025-12-05",
+    "director": "Jithin K Jose",
+    "directorSlug": "jithin-k-jose",
+    "actors": [
+     "Vinayakan",
+     "Mammootty",
+     "Rajisha Vijayan",
+     "Shruti Ramachandran",
+     "Kunchan",
+     "Gibin Gopinath"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 4880,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:20.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vinayakan",
+     "character": "Jayakrishnan",
+     "slug": "vinayakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rUjCPYP3BtgO6MKNquikzLHLzym.jpg"
+    },
+    {
+     "name": "Mammootty",
+     "character": "Stanley Das",
+     "slug": "mammootty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
+    },
+    {
+     "name": "Rajisha Vijayan",
+     "character": "Divya",
+     "slug": "rajisha-vijayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u5Oq0XHQeHeZLg0NbPZCyCo3Uc6.jpg"
+    },
+    {
+     "name": "Shruti Ramachandran",
+     "character": "Deepa",
+     "slug": "shruti-ramachandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mIl7WUFRUY5MO3mrwC53ePoAsVT.jpg"
+    },
+    {
+     "name": "Kunchan",
+     "character": "George",
+     "slug": "kunchan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oQlqtWhBt2Bj6vqGwGxHqhOfpdv.jpg"
+    },
+    {
+     "name": "Gibin Gopinath",
+     "character": "Anand",
+     "slug": "gibin-gopinath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/je8EsU7Y41kserdqGKKS4daDN8C.jpg"
+    },
+    {
+     "name": "Biju Pappan",
+     "character": "Thomas K.",
+     "slug": "biju-pappan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dBzVXaveajtD7tuzaJM376Cv7HC.jpg"
+    },
+    {
+     "name": "Megha Thomas",
+     "character": "Sindhu",
+     "slug": "megha-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/988aqppAKOfOgYZZ3lMEdLKf31h.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jithin K Jose",
+       "slug": "jithin-k-jose"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jithin K Jose",
+       "slug": "jithin-k-jose"
+      },
+      {
+       "name": "Jishnu Sreekumar",
+       "slug": "jishnu-sreekumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Mujeeb Majeed",
+       "slug": "mujeeb-majeed"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Faisal Ali",
+       "slug": "faisal-ali"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen Prabhakar",
+       "slug": "praveen-prabhakar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Mammootty",
+       "slug": "mammootty"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mammootty Kampany",
+     "slug": "mammootty-kampany",
+     "logo": "https://image.tmdb.org/t/p/w185/2Z9qU90XOHAp5DsbH3eEnawlDm4.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-12-19": [
+     {
+      "id": 793,
+      "title": "Avatar: Fire and Ash",
+      "img": "https://image.tmdb.org/t/p/original/g96wHxU7EnoIFwemb2RgohIXrgW.jpg"
+     }
+    ],
+    "2025-12-25": [
+     {
+      "id": 829,
+      "title": "Vrusshabha",
+      "img": "https://image.tmdb.org/t/p/original/hRKxGHeQBdwKswKgkmDrrMCDqoQ.jpg"
+     },
+     {
+      "id": 884,
+      "title": "Sarvam Maya",
+      "img": "https://image.tmdb.org/t/p/original/5c5FRas3ySsaQ97uVdeFKIl83TT.jpg"
+     },
+     {
+      "id": 885,
+      "title": "Anaconda",
+      "img": "https://image.tmdb.org/t/p/original/3LCrJNlAcrRBDsGGADYTWjuI7Rw.jpg"
+     }
+    ],
+    "2025-12-18": [
+     {
+      "id": 883,
+      "title": "Bha. Bha. Ba.",
+      "img": "https://image.tmdb.org/t/p/original/fMDt3o7CVXDc84WIbOskya8XkSN.jpg"
+     }
+    ],
+    "2025-12-05": [
+     {
+      "id": 914,
+      "title": "Five Nights at Freddys 2",
+      "img": "https://image.tmdb.org/t/p/original/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg"
+     },
+     {
+      "id": 930,
+      "title": "Dhurandhar",
+      "img": "https://image.tmdb.org/t/p/original/q7gD37kEOmzOeGXwhbYvfpwl9kU.jpg"
+     },
+     {
+      "id": 932,
+      "title": "Dheeram",
+      "img": "https://image.tmdb.org/t/p/original/wilAY8QRL1tZNcRjnfNKrFRqblD.jpg"
+     }
+    ],
+    "2025-12-12": [
+     {
+      "id": 936,
+      "title": "Akhanda 2 Thaandavam",
+      "img": "https://image.tmdb.org/t/p/original/jo9efbQSGDZNQ6xMocyD1prFjdF.jpg"
+     },
+     {
+      "id": 937,
+      "title": "Kis Kisko Pyaar Karoon 2",
+      "img": "https://image.tmdb.org/t/p/original/sqCgEMxOKvb949xbxn35Wcfn50S.jpg"
+     },
+     {
+      "id": 939,
+      "title": "Sholay The Final Cut",
+      "img": "https://image.tmdb.org/t/p/original/9wcES7d0Zz3r6579zLXYBHiJdzk.jpg"
+     }
+    ],
+    "2025-12-13": [
+     {
+      "id": 938,
+      "title": "Mowgli 2025",
+      "img": "https://image.tmdb.org/t/p/original/fwyXKqVffOOoES5HhJutqivYEVi.jpg"
+     }
+    ],
+    "2026-01-09": [
+     {
+      "id": 957,
+      "title": "The Rajasaab",
+      "img": "https://image.tmdb.org/t/p/original/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg"
+     }
+    ],
+    "2026-01-10": [
+     {
+      "id": 961,
+      "title": "Pennu Case",
+      "img": "https://image.tmdb.org/t/p/original/4AFDuFFENy2qCKqCc9Uv3SIF3Kt.jpg"
+     },
+     {
+      "id": 962,
+      "title": "Parasakthi",
+      "img": "https://image.tmdb.org/t/p/original/cpKJGYU8Z1iSXzkgDl8vhazk5EQ.jpg"
+     }
+    ],
+    "2026-01-14": [
+     {
+      "id": 963,
+      "title": "Vaa Vaathiyaar",
+      "img": "https://image.tmdb.org/t/p/original/2CO8y3nlDcPRHqXuOQarl8X9GZT.jpg"
+     }
+    ],
+    "2026-01-11": [
+     {
+      "id": 964,
+      "title": "Mana Shankara Vara Prasad Garu",
+      "img": "https://image.tmdb.org/t/p/original/sfj6SLSzbzHN2633HcqabHFJz5y.jpg"
+     }
+    ],
+    "2026-01-15": [
+     {
+      "id": 967,
+      "title": "Thalaivar Thambi Thalaimaiyil",
+      "img": "https://image.tmdb.org/t/p/original/wqofJvDrFv65QgyVmNI4loi9jZZ.jpg"
+     }
+    ],
+    "2026-01-22": [
+     {
+      "id": 968,
+      "title": "Chatha Pacha: The Ring of Rowdies",
+      "img": "https://image.tmdb.org/t/p/original/a41fqMDWRcZcDqidGcq10xmRoh.jpg"
+     }
+    ],
+    "2026-01-01": [
+     {
+      "id": 970,
+      "title": "Jujutsu Kaisen: Hidden Inventory / Premature Death",
+      "img": "https://image.tmdb.org/t/p/original/kZkyr1sRzarENrxjtltPvmHRrTk.jpg"
+     },
+     {
+      "id": 971,
+      "title": "The Housemaid",
+      "img": "https://image.tmdb.org/t/p/original/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
+     },
+     {
+      "id": 972,
+      "title": "Ikkis",
+      "img": "https://image.tmdb.org/t/p/original/8PWu0V10nMqG5SrA13wLRXTD2fH.jpg"
+     }
+    ],
+    "2026-01-02": [
+     {
+      "id": 973,
+      "title": "The Spongebob Movie Search For Squarepants",
+      "img": "https://image.tmdb.org/t/p/original/v95hpkfgPVbtvpYP6dagG49tT2l.jpg"
+     }
+    ],
+    "2026-01-13": [
+     {
+      "id": 974,
+      "title": "Bhartha Mahasayulaku Wignyapthi",
+      "img": "https://image.tmdb.org/t/p/original/8YFFbBiX8EMUCUHEewc4hxJ7Xyg.jpg"
+     }
+    ],
+    "2026-01-16": [
+     {
+      "id": 975,
+      "title": "Greenland 2 Migration",
+      "img": "https://image.tmdb.org/t/p/original/oEGnHmRkpNfUsxnh0gOKuTqNeQk.jpg"
+     },
+     {
+      "id": 976,
+      "title": "Rahu Ketu",
+      "img": "https://image.tmdb.org/t/p/original/zjgWWOIsEqYNSa1fGRr82mBo3gv.jpg"
+     },
+     {
+      "id": 977,
+      "title": "Happy Patel Khatarnak Jasoos",
+      "img": "https://image.tmdb.org/t/p/original/vsCkxiY2c26C6y4RyTVkpdXIfCW.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-12-05",
+     "gross": 44135027.80000002,
+     "sold": 276247,
+     "unsold": 172316,
+     "shows": 1520,
+     "occ": 61.58,
+     "hf": "124",
+     "almost": "366",
+     "ff": "539",
+     "cumul": 44135027.80000002,
+     "lastUpdatedAt": "2025-12-05 23:58:00"
+    },
+    {
+     "label": "2025-12-06",
+     "gross": 44568662.8,
+     "sold": 276090,
+     "unsold": 182468,
+     "shows": 1633,
+     "occ": 60.21,
+     "hf": "72",
+     "almost": "331",
+     "ff": "547",
+     "cumul": 88703690.60000002,
+     "lastUpdatedAt": "2025-12-06 23:58:00"
+    },
+    {
+     "label": "2025-12-07",
+     "gross": 51329132.2,
+     "sold": 318020,
+     "unsold": 151288,
+     "shows": 1712,
+     "occ": 67.76,
+     "hf": "81",
+     "almost": "401",
+     "ff": "729",
+     "cumul": 140032822.8,
+     "lastUpdatedAt": "2025-12-07 23:57:00"
+    },
+    {
+     "label": "2025-12-08",
+     "gross": 27277332.79999999,
+     "sold": 168450,
+     "unsold": 247383,
+     "shows": 1481,
+     "occ": 40.51,
+     "hf": "7",
+     "almost": "91",
+     "ff": "216",
+     "cumul": 167310155.6,
+     "lastUpdatedAt": "2025-12-08 23:57:00"
+    },
+    {
+     "label": "2025-12-09",
+     "gross": 25370391.800000016,
+     "sold": 155810,
+     "unsold": 242497,
+     "shows": 1416,
+     "occ": 39.12,
+     "hf": "7",
+     "almost": "64",
+     "ff": "173",
+     "cumul": 192680547.4,
+     "lastUpdatedAt": "2025-12-09 23:58:00"
+    },
+    {
+     "label": "2025-12-10",
+     "gross": 18296531.4,
+     "sold": 114149,
+     "unsold": 270716,
+     "shows": 1366,
+     "occ": 29.66,
+     "hf": "5",
+     "almost": "28",
+     "ff": "60",
+     "cumul": 210977078.8,
+     "lastUpdatedAt": "2025-12-10 23:57:00"
+    },
+    {
+     "label": "2025-12-11",
+     "gross": 17938837.4,
+     "sold": 113440,
+     "unsold": 255717,
+     "shows": 1307,
+     "occ": 30.73,
+     "hf": "6",
+     "almost": "31",
+     "ff": "72",
+     "cumul": 228915916.20000002,
+     "lastUpdatedAt": "2025-12-11 23:58:00"
+    },
+    {
+     "label": "2025-12-12",
+     "gross": 13907909.799999999,
+     "sold": 85346,
+     "unsold": 262886,
+     "shows": 1210,
+     "occ": 24.51,
+     "hf": "7",
+     "almost": "20",
+     "ff": "38",
+     "cumul": 242823826.00000003,
+     "lastUpdatedAt": "2025-12-12 23:57:00"
+    },
+    {
+     "label": "2025-12-13",
+     "gross": 16255677.200000001,
+     "sold": 97512,
+     "unsold": 252648,
+     "shows": 1222,
+     "occ": 27.85,
+     "hf": "4",
+     "almost": "28",
+     "ff": "68",
+     "cumul": 259079503.20000002,
+     "lastUpdatedAt": "2025-12-13 23:57:00"
+    },
+    {
+     "label": "2025-12-14",
+     "gross": 17098458.999999996,
+     "sold": 104059,
+     "unsold": 250381,
+     "shows": 1238,
+     "occ": 29.36,
+     "hf": "7",
+     "almost": "25",
+     "ff": "57",
+     "cumul": 276177962.2,
+     "lastUpdatedAt": "2025-12-14 23:56:00"
+    },
+    {
+     "label": "2025-12-15",
+     "gross": 5802567.6,
+     "sold": 35761,
+     "unsold": 280977,
+     "shows": 1097,
+     "occ": 11.29,
+     "hf": "3",
+     "almost": "10",
+     "ff": "3",
+     "cumul": 281980529.8,
+     "lastUpdatedAt": "2025-12-15 23:56:00"
+    },
+    {
+     "label": "2025-12-16",
+     "gross": 5244895.399999999,
+     "sold": 32602,
+     "unsold": 276931,
+     "shows": 1080,
+     "occ": 10.53,
+     "hf": "3",
+     "almost": "4",
+     "ff": "1",
+     "cumul": 287225425.2,
+     "lastUpdatedAt": "2025-12-16 23:58:00"
+    },
+    {
+     "label": "2025-12-17",
+     "gross": 4440190.799999999,
+     "sold": 26948,
+     "unsold": 277054,
+     "shows": 1061,
+     "occ": 8.86,
+     "hf": "3",
+     "almost": "7",
+     "ff": "3",
+     "cumul": 291665616,
+     "lastUpdatedAt": "2025-12-17 23:58:00"
+    },
+    {
+     "label": "2025-12-18",
+     "gross": 2308081.4,
+     "sold": 14445,
+     "unsold": 103785,
+     "shows": 561,
+     "occ": 12.22,
+     "hf": "3",
+     "almost": "6",
+     "ff": "2",
+     "cumul": 293973697.4,
+     "lastUpdatedAt": "2025-12-18 23:56:00"
+    },
+    {
+     "label": "2025-12-19",
+     "gross": 2104430.7999999993,
+     "sold": 12981,
+     "unsold": 73791,
+     "shows": 464,
+     "occ": 14.96,
+     "hf": "3",
+     "almost": "7",
+     "ff": "7",
+     "cumul": 296078128.2,
+     "lastUpdatedAt": "2025-12-19 23:56:00"
+    },
+    {
+     "label": "2025-12-20",
+     "gross": 2883496.4,
+     "sold": 17666,
+     "unsold": 76715,
+     "shows": 499,
+     "occ": 18.72,
+     "hf": "2",
+     "almost": "11",
+     "ff": "13",
+     "cumul": 298961624.59999996,
+     "lastUpdatedAt": "2025-12-20 23:56:00"
+    },
+    {
+     "label": "2025-12-21",
+     "gross": 3992285.0000000005,
+     "sold": 24785,
+     "unsold": 74025,
+     "shows": 524,
+     "occ": 25.08,
+     "hf": "1",
+     "almost": "19",
+     "ff": "23",
+     "cumul": 302953909.59999996,
+     "lastUpdatedAt": "2025-12-21 23:56:00"
+    },
+    {
+     "label": "2025-12-22",
+     "gross": 1693252.8000000003,
+     "sold": 10479,
+     "unsold": 86325,
+     "shows": 507,
+     "occ": 10.82,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 304647162.4,
+     "lastUpdatedAt": "2025-12-22 23:58:00"
+    },
+    {
+     "label": "2025-12-23",
+     "gross": 1923850.4000000001,
+     "sold": 13207,
+     "unsold": 79974,
+     "shows": 489,
+     "occ": 14.17,
+     "hf": "0",
+     "almost": "6",
+     "ff": "8",
+     "cumul": 306571012.79999995,
+     "lastUpdatedAt": "2025-12-23 23:43:00"
+    },
+    {
+     "label": "2025-12-24",
+     "gross": 2401138.4,
+     "sold": 14915,
+     "unsold": 80622,
+     "shows": 503,
+     "occ": 15.61,
+     "hf": "0",
+     "almost": "4",
+     "ff": "3",
+     "cumul": 308972151.1999999,
+     "lastUpdatedAt": "2025-12-24 23:33:00"
+    },
+    {
+     "label": "2025-12-25",
+     "gross": 1546055.1999999997,
+     "sold": 9760,
+     "unsold": 7792,
+     "shows": 105,
+     "occ": 55.61,
+     "hf": "5",
+     "almost": "23",
+     "ff": "29",
+     "cumul": 310518206.3999999,
+     "lastUpdatedAt": "2025-12-25 23:38:00"
+    },
+    {
+     "label": "2025-12-26",
+     "gross": 1037808.4,
+     "sold": 6160,
+     "unsold": 13149,
+     "shows": 112,
+     "occ": 31.9,
+     "hf": "0",
+     "almost": "7",
+     "ff": "9",
+     "cumul": 311556014.7999999,
+     "lastUpdatedAt": "2025-12-26 23:43:00"
+    },
+    {
+     "label": "2025-12-27",
+     "gross": 987709,
+     "sold": 5844,
+     "unsold": 20655,
+     "shows": 135,
+     "occ": 22.05,
+     "hf": "1",
+     "almost": "4",
+     "ff": "8",
+     "cumul": 312543723.7999999,
+     "lastUpdatedAt": "2025-12-27 22:43:00"
+    },
+    {
+     "label": "2025-12-28",
+     "gross": 1265303.0000000002,
+     "sold": 7635,
+     "unsold": 20595,
+     "shows": 142,
+     "occ": 27.05,
+     "hf": "1",
+     "almost": "10",
+     "ff": "13",
+     "cumul": 313809026.7999999,
+     "lastUpdatedAt": "2025-12-28 22:43:00"
+    },
+    {
+     "label": "2025-12-29",
+     "gross": 686614,
+     "sold": 3991,
+     "unsold": 26882,
+     "shows": 153,
+     "occ": 12.93,
+     "hf": "0",
+     "almost": "2",
+     "ff": "3",
+     "cumul": 314495640.7999999,
+     "lastUpdatedAt": "2025-12-29 23:13:00"
+    },
+    {
+     "label": "2025-12-30",
+     "gross": 637426.6,
+     "sold": 3844,
+     "unsold": 20896,
+     "shows": 132,
+     "occ": 15.54,
+     "hf": "1",
+     "almost": "4",
+     "ff": "1",
+     "cumul": 315133067.3999999,
+     "lastUpdatedAt": "2025-12-30 22:38:00"
+    },
+    {
+     "label": "2025-12-31",
+     "gross": 409614.6000000001,
+     "sold": 2419,
+     "unsold": 22902,
+     "shows": 134,
+     "occ": 9.55,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 315542681.99999994,
+     "lastUpdatedAt": "2025-12-31 23:14:00"
+    },
+    {
+     "label": "2026-01-01",
+     "gross": 612861.2000000001,
+     "sold": 3686,
+     "unsold": 19875,
+     "shows": 109,
+     "occ": 15.64,
+     "hf": "0",
+     "almost": "1",
+     "ff": "1",
+     "cumul": 316155543.1999999,
+     "lastUpdatedAt": "2026-01-01 22:42:00"
+    },
+    {
+     "label": "2026-01-02",
+     "gross": 370132.6000000001,
+     "sold": 2124,
+     "unsold": 15551,
+     "shows": 92,
+     "occ": 12.02,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 316525675.79999995,
+     "lastUpdatedAt": "2026-01-02 23:03:00"
+    },
+    {
+     "label": "2026-01-03",
+     "gross": 368311.60000000003,
+     "sold": 2087,
+     "unsold": 15756,
+     "shows": 95,
+     "occ": 11.7,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 316893987.4,
+     "lastUpdatedAt": "2026-01-03 22:48:00"
+    },
+    {
+     "label": "2026-01-04",
+     "gross": 479589.4000000001,
+     "sold": 2748,
+     "unsold": 16025,
+     "shows": 107,
+     "occ": 14.64,
+     "hf": "0",
+     "almost": "1",
+     "ff": "1",
+     "cumul": 317373576.79999995,
+     "lastUpdatedAt": "2026-01-04 22:58:00"
+    },
+    {
+     "label": "2026-01-05",
+     "gross": 192409.20000000007,
+     "sold": 1167,
+     "unsold": 18706,
+     "shows": 107,
+     "occ": 5.87,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 317565985.99999994,
+     "lastUpdatedAt": "2026-01-05 23:03:00"
+    },
+    {
+     "label": "2026-01-06",
+     "gross": 184111.60000000006,
+     "sold": 1325,
+     "unsold": 17868,
+     "shows": 103,
+     "occ": 6.9,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 317750097.59999996,
+     "lastUpdatedAt": "2026-01-06 23:03:00"
+    },
+    {
+     "label": "2026-01-07",
+     "gross": 183297.00000000006,
+     "sold": 1092,
+     "unsold": 14696,
+     "shows": 88,
+     "occ": 6.92,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 317933394.59999996,
+     "lastUpdatedAt": "2026-01-07 23:03:00"
+    },
+    {
+     "label": "2026-01-08",
+     "gross": 167348.20000000007,
+     "sold": 962,
+     "unsold": 14852,
+     "shows": 86,
+     "occ": 6.08,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 318100742.79999995,
+     "lastUpdatedAt": "2026-01-08 23:03:00"
+    },
+    {
+     "label": "2026-01-09",
+     "gross": 61493,
+     "sold": 353,
+     "unsold": 8012,
+     "shows": 34,
+     "occ": 4.22,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 318162235.79999995,
+     "lastUpdatedAt": "2026-01-09 23:23:00"
+    },
+    {
+     "label": "2026-01-10",
+     "gross": 73902,
+     "sold": 376,
+     "unsold": 5063,
+     "shows": 20,
+     "occ": 6.91,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 318236137.79999995,
+     "lastUpdatedAt": "2026-01-10 23:53:00"
+    },
+    {
+     "label": "2026-01-11",
+     "gross": 139277,
+     "sold": 778,
+     "unsold": 3904,
+     "shows": 21,
+     "occ": 16.62,
+     "hf": "1",
+     "almost": "3",
+     "ff": "2",
+     "cumul": 318375414.79999995,
+     "lastUpdatedAt": "2026-01-11 23:53:00"
+    },
+    {
+     "label": "2026-01-12",
+     "gross": 76134,
+     "sold": 483,
+     "unsold": 4581,
+     "shows": 25,
+     "occ": 9.54,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 318451548.79999995,
+     "lastUpdatedAt": "2026-01-12 23:33:00"
+    },
+    {
+     "label": "2026-01-13",
+     "gross": 95855,
+     "sold": 643,
+     "unsold": 4570,
+     "shows": 26,
+     "occ": 12.33,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 318547403.79999995,
+     "lastUpdatedAt": "2026-01-13 22:33:00"
+    },
+    {
+     "label": "2026-01-14",
+     "gross": 90707,
+     "sold": 571,
+     "unsold": 4126,
+     "shows": 26,
+     "occ": 12.16,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 318638110.79999995,
+     "lastUpdatedAt": "2026-01-14 23:03:00"
+    },
+    {
+     "label": "2026-01-15",
+     "gross": 52699,
+     "sold": 363,
+     "unsold": 3878,
+     "shows": 22,
+     "occ": 8.56,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 318690809.79999995,
+     "lastUpdatedAt": "2026-01-15 22:48:00"
+    },
+    {
+     "label": "2026-01-16",
+     "gross": 29749,
+     "sold": 146,
+     "unsold": 850,
+     "shows": 7,
+     "occ": 14.66,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 318720558.79999995,
+     "lastUpdatedAt": "2026-01-16 22:28:00"
+    },
+    {
+     "label": "2026-01-17",
+     "gross": 29470,
+     "sold": 136,
+     "unsold": 731,
+     "shows": 6,
+     "occ": 15.69,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 318750028.79999995,
+     "lastUpdatedAt": "2026-01-17 17:18:00"
+    },
+    {
+     "label": "2026-01-18",
+     "gross": 28169,
+     "sold": 153,
+     "unsold": 715,
+     "shows": 6,
+     "occ": 17.63,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 318778197.79999995,
+     "lastUpdatedAt": "2026-01-18 17:18:00"
+    },
+    {
+     "label": "2026-01-19",
+     "gross": 15977,
+     "sold": 84,
+     "unsold": 782,
+     "shows": 6,
+     "occ": 9.7,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 318794174.79999995,
+     "lastUpdatedAt": "2026-01-19 17:18:00"
+    },
+    {
+     "label": "2026-01-20",
+     "gross": 11923,
+     "sold": 90,
+     "unsold": 575,
+     "shows": 5,
+     "occ": 13.53,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 318806097.79999995,
+     "lastUpdatedAt": "2026-01-20 17:18:00"
+    },
+    {
+     "label": "2026-01-21",
+     "gross": 16748,
+     "sold": 96,
+     "unsold": 490,
+     "shows": 4,
+     "occ": 16.38,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 318822845.79999995,
+     "lastUpdatedAt": "2026-01-21 22:33:00"
+    },
+    {
+     "label": "2026-01-22",
+     "gross": 8339,
+     "sold": 46,
+     "unsold": 307,
+     "shows": 3,
+     "occ": 13.03,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 318831184.79999995,
+     "lastUpdatedAt": "2026-01-22 16:28:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 318831184.79999995,
+    "totalShows": 22801,
+    "totalSeats": 5975357,
+    "totalSold": 1972074,
+    "avgOcc": "33.0",
+    "totalDays": 49,
+    "totalHousefull": 356,
+    "totalAlmost": 1523,
+    "totalFastFilling": 2629,
+    "peakDay": {
+     "day": 3,
+     "gross": 51329132.2,
+     "date": "2025-12-07"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 44135027.80000002,
+     "date": "2025-12-05"
+    },
+    "chartPosition": {
+     "current_position": 31,
+     "weeks_on_chart": 0,
+     "peak_position": 24,
+     "last_week_position": 31
+    }
+   },
+   "_tier": "cold",
+   "_hash": "49:8339:318831184.79999995"
+  },
+  "week": {
+   "movie": {
+    "id": 653,
+    "title": "Kalamkaval",
+    "img": "https://image.tmdb.org/t/p/original/cTZt3Kmbvp0zZ5za1rTVZvn8AlW.jpg",
+    "released": "2025-12-05",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33500164",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "144 min",
+    "genre": "Crime, Drama",
+    "plot": "Early 2010s. A routine Kerala Police inquiry in the quiet village of Kottayikonam takes an unexpected turn when a trail of seemingly minor clues unravels into a string of disturbing cases. The investigation soon crosses into Tamil Nadu, revealing unsolved mysteries that have lingered for years.",
+    "released": "2025-12-05",
+    "director": "Jithin K Jose",
+    "directorSlug": "jithin-k-jose",
+    "actors": [
+     "Vinayakan",
+     "Mammootty",
+     "Rajisha Vijayan",
+     "Shruti Ramachandran",
+     "Kunchan",
+     "Gibin Gopinath"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 4880,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:20.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vinayakan",
+     "character": "Jayakrishnan",
+     "slug": "vinayakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rUjCPYP3BtgO6MKNquikzLHLzym.jpg"
+    },
+    {
+     "name": "Mammootty",
+     "character": "Stanley Das",
+     "slug": "mammootty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
+    },
+    {
+     "name": "Rajisha Vijayan",
+     "character": "Divya",
+     "slug": "rajisha-vijayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u5Oq0XHQeHeZLg0NbPZCyCo3Uc6.jpg"
+    },
+    {
+     "name": "Shruti Ramachandran",
+     "character": "Deepa",
+     "slug": "shruti-ramachandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mIl7WUFRUY5MO3mrwC53ePoAsVT.jpg"
+    },
+    {
+     "name": "Kunchan",
+     "character": "George",
+     "slug": "kunchan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oQlqtWhBt2Bj6vqGwGxHqhOfpdv.jpg"
+    },
+    {
+     "name": "Gibin Gopinath",
+     "character": "Anand",
+     "slug": "gibin-gopinath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/je8EsU7Y41kserdqGKKS4daDN8C.jpg"
+    },
+    {
+     "name": "Biju Pappan",
+     "character": "Thomas K.",
+     "slug": "biju-pappan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dBzVXaveajtD7tuzaJM376Cv7HC.jpg"
+    },
+    {
+     "name": "Megha Thomas",
+     "character": "Sindhu",
+     "slug": "megha-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/988aqppAKOfOgYZZ3lMEdLKf31h.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jithin K Jose",
+       "slug": "jithin-k-jose"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jithin K Jose",
+       "slug": "jithin-k-jose"
+      },
+      {
+       "name": "Jishnu Sreekumar",
+       "slug": "jishnu-sreekumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Mujeeb Majeed",
+       "slug": "mujeeb-majeed"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Faisal Ali",
+       "slug": "faisal-ali"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen Prabhakar",
+       "slug": "praveen-prabhakar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Mammootty",
+       "slug": "mammootty"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mammootty Kampany",
+     "slug": "mammootty-kampany",
+     "logo": "https://image.tmdb.org/t/p/w185/2Z9qU90XOHAp5DsbH3eEnawlDm4.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-12-19": [
+     {
+      "id": 793,
+      "title": "Avatar: Fire and Ash",
+      "img": "https://image.tmdb.org/t/p/original/g96wHxU7EnoIFwemb2RgohIXrgW.jpg"
+     }
+    ],
+    "2025-12-25": [
+     {
+      "id": 829,
+      "title": "Vrusshabha",
+      "img": "https://image.tmdb.org/t/p/original/hRKxGHeQBdwKswKgkmDrrMCDqoQ.jpg"
+     },
+     {
+      "id": 884,
+      "title": "Sarvam Maya",
+      "img": "https://image.tmdb.org/t/p/original/5c5FRas3ySsaQ97uVdeFKIl83TT.jpg"
+     },
+     {
+      "id": 885,
+      "title": "Anaconda",
+      "img": "https://image.tmdb.org/t/p/original/3LCrJNlAcrRBDsGGADYTWjuI7Rw.jpg"
+     }
+    ],
+    "2025-12-18": [
+     {
+      "id": 883,
+      "title": "Bha. Bha. Ba.",
+      "img": "https://image.tmdb.org/t/p/original/fMDt3o7CVXDc84WIbOskya8XkSN.jpg"
+     }
+    ],
+    "2025-12-05": [
+     {
+      "id": 914,
+      "title": "Five Nights at Freddys 2",
+      "img": "https://image.tmdb.org/t/p/original/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg"
+     },
+     {
+      "id": 930,
+      "title": "Dhurandhar",
+      "img": "https://image.tmdb.org/t/p/original/q7gD37kEOmzOeGXwhbYvfpwl9kU.jpg"
+     },
+     {
+      "id": 932,
+      "title": "Dheeram",
+      "img": "https://image.tmdb.org/t/p/original/wilAY8QRL1tZNcRjnfNKrFRqblD.jpg"
+     }
+    ],
+    "2025-12-12": [
+     {
+      "id": 936,
+      "title": "Akhanda 2 Thaandavam",
+      "img": "https://image.tmdb.org/t/p/original/jo9efbQSGDZNQ6xMocyD1prFjdF.jpg"
+     },
+     {
+      "id": 937,
+      "title": "Kis Kisko Pyaar Karoon 2",
+      "img": "https://image.tmdb.org/t/p/original/sqCgEMxOKvb949xbxn35Wcfn50S.jpg"
+     },
+     {
+      "id": 939,
+      "title": "Sholay The Final Cut",
+      "img": "https://image.tmdb.org/t/p/original/9wcES7d0Zz3r6579zLXYBHiJdzk.jpg"
+     }
+    ],
+    "2025-12-13": [
+     {
+      "id": 938,
+      "title": "Mowgli 2025",
+      "img": "https://image.tmdb.org/t/p/original/fwyXKqVffOOoES5HhJutqivYEVi.jpg"
+     }
+    ],
+    "2026-01-09": [
+     {
+      "id": 957,
+      "title": "The Rajasaab",
+      "img": "https://image.tmdb.org/t/p/original/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg"
+     }
+    ],
+    "2026-01-10": [
+     {
+      "id": 961,
+      "title": "Pennu Case",
+      "img": "https://image.tmdb.org/t/p/original/4AFDuFFENy2qCKqCc9Uv3SIF3Kt.jpg"
+     },
+     {
+      "id": 962,
+      "title": "Parasakthi",
+      "img": "https://image.tmdb.org/t/p/original/cpKJGYU8Z1iSXzkgDl8vhazk5EQ.jpg"
+     }
+    ],
+    "2026-01-14": [
+     {
+      "id": 963,
+      "title": "Vaa Vaathiyaar",
+      "img": "https://image.tmdb.org/t/p/original/2CO8y3nlDcPRHqXuOQarl8X9GZT.jpg"
+     }
+    ],
+    "2026-01-11": [
+     {
+      "id": 964,
+      "title": "Mana Shankara Vara Prasad Garu",
+      "img": "https://image.tmdb.org/t/p/original/sfj6SLSzbzHN2633HcqabHFJz5y.jpg"
+     }
+    ],
+    "2026-01-15": [
+     {
+      "id": 967,
+      "title": "Thalaivar Thambi Thalaimaiyil",
+      "img": "https://image.tmdb.org/t/p/original/wqofJvDrFv65QgyVmNI4loi9jZZ.jpg"
+     }
+    ],
+    "2026-01-22": [
+     {
+      "id": 968,
+      "title": "Chatha Pacha: The Ring of Rowdies",
+      "img": "https://image.tmdb.org/t/p/original/a41fqMDWRcZcDqidGcq10xmRoh.jpg"
+     }
+    ],
+    "2026-01-01": [
+     {
+      "id": 970,
+      "title": "Jujutsu Kaisen: Hidden Inventory / Premature Death",
+      "img": "https://image.tmdb.org/t/p/original/kZkyr1sRzarENrxjtltPvmHRrTk.jpg"
+     },
+     {
+      "id": 971,
+      "title": "The Housemaid",
+      "img": "https://image.tmdb.org/t/p/original/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
+     },
+     {
+      "id": 972,
+      "title": "Ikkis",
+      "img": "https://image.tmdb.org/t/p/original/8PWu0V10nMqG5SrA13wLRXTD2fH.jpg"
+     }
+    ],
+    "2026-01-02": [
+     {
+      "id": 973,
+      "title": "The Spongebob Movie Search For Squarepants",
+      "img": "https://image.tmdb.org/t/p/original/v95hpkfgPVbtvpYP6dagG49tT2l.jpg"
+     }
+    ],
+    "2026-01-13": [
+     {
+      "id": 974,
+      "title": "Bhartha Mahasayulaku Wignyapthi",
+      "img": "https://image.tmdb.org/t/p/original/8YFFbBiX8EMUCUHEewc4hxJ7Xyg.jpg"
+     }
+    ],
+    "2026-01-16": [
+     {
+      "id": 975,
+      "title": "Greenland 2 Migration",
+      "img": "https://image.tmdb.org/t/p/original/oEGnHmRkpNfUsxnh0gOKuTqNeQk.jpg"
+     },
+     {
+      "id": 976,
+      "title": "Rahu Ketu",
+      "img": "https://image.tmdb.org/t/p/original/zjgWWOIsEqYNSa1fGRr82mBo3gv.jpg"
+     },
+     {
+      "id": 977,
+      "title": "Happy Patel Khatarnak Jasoos",
+      "img": "https://image.tmdb.org/t/p/original/vsCkxiY2c26C6y4RyTVkpdXIfCW.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-12-05",
+     "gross": 228915916.1999998,
+     "sold": 1422206,
+     "unsold": 1522385,
+     "shows": 10435,
+     "occ": 48.3,
+     "hf": "302",
+     "almost": "1312",
+     "ff": "2336",
+     "cumul": 228915916.1999998,
+     "lastUpdatedAt": "2025-12-11 23:58:00"
+    },
+    {
+     "label": "2025-12-12",
+     "gross": 65057781.200000025,
+     "sold": 396673,
+     "unsold": 1704662,
+     "shows": 7469,
+     "occ": 18.88,
+     "hf": "30",
+     "almost": "100",
+     "ff": "172",
+     "cumul": 293973697.39999986,
+     "lastUpdatedAt": "2025-12-18 23:56:00"
+    },
+    {
+     "label": "2025-12-19",
+     "gross": 16544508.999999998,
+     "sold": 103793,
+     "unsold": 479244,
+     "shows": 3091,
+     "occ": 17.8,
+     "hf": "11",
+     "almost": "70",
+     "ff": "83",
+     "cumul": 310518206.39999986,
+     "lastUpdatedAt": "2025-12-25 23:38:00"
+    },
+    {
+     "label": "2025-12-26",
+     "gross": 5637336.8,
+     "sold": 33579,
+     "unsold": 144954,
+     "shows": 917,
+     "occ": 18.81,
+     "hf": "4",
+     "almost": "29",
+     "ff": "35",
+     "cumul": 316155543.19999987,
+     "lastUpdatedAt": "2026-01-01 22:42:00"
+    },
+    {
+     "label": "2026-01-02",
+     "gross": 1945199.6000000006,
+     "sold": 11505,
+     "unsold": 113454,
+     "shows": 678,
+     "occ": 9.21,
+     "hf": "3",
+     "almost": "4",
+     "ff": "1",
+     "cumul": 318100742.7999999,
+     "lastUpdatedAt": "2026-01-08 23:03:00"
+    },
+    {
+     "label": "2026-01-09",
+     "gross": 590067,
+     "sold": 3567,
+     "unsold": 34134,
+     "shows": 174,
+     "occ": 9.46,
+     "hf": "6",
+     "almost": "8",
+     "ff": "2",
+     "cumul": 318690809.7999999,
+     "lastUpdatedAt": "2026-01-15 22:48:00"
+    },
+    {
+     "label": "2026-01-16",
+     "gross": 140375,
+     "sold": 751,
+     "unsold": 4450,
+     "shows": 37,
+     "occ": 14.44,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 318831184.7999999,
+     "lastUpdatedAt": "2026-01-22 16:28:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 318831184.7999999,
+    "totalShows": 22801,
+    "totalSeats": 5975357,
+    "totalSold": 1972074,
+    "avgOcc": "33.0",
+    "totalDays": 7,
+    "totalHousefull": 356,
+    "totalAlmost": 1523,
+    "totalFastFilling": 2629,
+    "peakDay": {
+     "day": 1,
+     "gross": 228915916.1999998
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 228915916.1999998
+    },
+    "chartPosition": {
+     "current_position": 31,
+     "weeks_on_chart": 0,
+     "peak_position": 24,
+     "last_week_position": 31
+    }
+   },
+   "_tier": "cold",
+   "_hash": "7:140375:318831184.7999999"
+  },
+  "district": {
+   "movie": {
+    "id": 653,
+    "title": "Kalamkaval",
+    "img": "https://image.tmdb.org/t/p/original/cTZt3Kmbvp0zZ5za1rTVZvn8AlW.jpg",
+    "released": "2025-12-05",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33500164",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "144 min",
+    "genre": "Crime, Drama",
+    "plot": "Early 2010s. A routine Kerala Police inquiry in the quiet village of Kottayikonam takes an unexpected turn when a trail of seemingly minor clues unravels into a string of disturbing cases. The investigation soon crosses into Tamil Nadu, revealing unsolved mysteries that have lingered for years.",
+    "released": "2025-12-05",
+    "director": "Jithin K Jose",
+    "directorSlug": "jithin-k-jose",
+    "actors": [
+     "Vinayakan",
+     "Mammootty",
+     "Rajisha Vijayan",
+     "Shruti Ramachandran",
+     "Kunchan",
+     "Gibin Gopinath"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 4880,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:20.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vinayakan",
+     "character": "Jayakrishnan",
+     "slug": "vinayakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rUjCPYP3BtgO6MKNquikzLHLzym.jpg"
+    },
+    {
+     "name": "Mammootty",
+     "character": "Stanley Das",
+     "slug": "mammootty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
+    },
+    {
+     "name": "Rajisha Vijayan",
+     "character": "Divya",
+     "slug": "rajisha-vijayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u5Oq0XHQeHeZLg0NbPZCyCo3Uc6.jpg"
+    },
+    {
+     "name": "Shruti Ramachandran",
+     "character": "Deepa",
+     "slug": "shruti-ramachandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mIl7WUFRUY5MO3mrwC53ePoAsVT.jpg"
+    },
+    {
+     "name": "Kunchan",
+     "character": "George",
+     "slug": "kunchan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oQlqtWhBt2Bj6vqGwGxHqhOfpdv.jpg"
+    },
+    {
+     "name": "Gibin Gopinath",
+     "character": "Anand",
+     "slug": "gibin-gopinath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/je8EsU7Y41kserdqGKKS4daDN8C.jpg"
+    },
+    {
+     "name": "Biju Pappan",
+     "character": "Thomas K.",
+     "slug": "biju-pappan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dBzVXaveajtD7tuzaJM376Cv7HC.jpg"
+    },
+    {
+     "name": "Megha Thomas",
+     "character": "Sindhu",
+     "slug": "megha-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/988aqppAKOfOgYZZ3lMEdLKf31h.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jithin K Jose",
+       "slug": "jithin-k-jose"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jithin K Jose",
+       "slug": "jithin-k-jose"
+      },
+      {
+       "name": "Jishnu Sreekumar",
+       "slug": "jishnu-sreekumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Mujeeb Majeed",
+       "slug": "mujeeb-majeed"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Faisal Ali",
+       "slug": "faisal-ali"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen Prabhakar",
+       "slug": "praveen-prabhakar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Mammootty",
+       "slug": "mammootty"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mammootty Kampany",
+     "slug": "mammootty-kampany",
+     "logo": "https://image.tmdb.org/t/p/w185/2Z9qU90XOHAp5DsbH3eEnawlDm4.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-12-19": [
+     {
+      "id": 793,
+      "title": "Avatar: Fire and Ash",
+      "img": "https://image.tmdb.org/t/p/original/g96wHxU7EnoIFwemb2RgohIXrgW.jpg"
+     }
+    ],
+    "2025-12-25": [
+     {
+      "id": 829,
+      "title": "Vrusshabha",
+      "img": "https://image.tmdb.org/t/p/original/hRKxGHeQBdwKswKgkmDrrMCDqoQ.jpg"
+     },
+     {
+      "id": 884,
+      "title": "Sarvam Maya",
+      "img": "https://image.tmdb.org/t/p/original/5c5FRas3ySsaQ97uVdeFKIl83TT.jpg"
+     },
+     {
+      "id": 885,
+      "title": "Anaconda",
+      "img": "https://image.tmdb.org/t/p/original/3LCrJNlAcrRBDsGGADYTWjuI7Rw.jpg"
+     }
+    ],
+    "2025-12-18": [
+     {
+      "id": 883,
+      "title": "Bha. Bha. Ba.",
+      "img": "https://image.tmdb.org/t/p/original/fMDt3o7CVXDc84WIbOskya8XkSN.jpg"
+     }
+    ],
+    "2025-12-05": [
+     {
+      "id": 914,
+      "title": "Five Nights at Freddys 2",
+      "img": "https://image.tmdb.org/t/p/original/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg"
+     },
+     {
+      "id": 930,
+      "title": "Dhurandhar",
+      "img": "https://image.tmdb.org/t/p/original/q7gD37kEOmzOeGXwhbYvfpwl9kU.jpg"
+     },
+     {
+      "id": 932,
+      "title": "Dheeram",
+      "img": "https://image.tmdb.org/t/p/original/wilAY8QRL1tZNcRjnfNKrFRqblD.jpg"
+     }
+    ],
+    "2025-12-12": [
+     {
+      "id": 936,
+      "title": "Akhanda 2 Thaandavam",
+      "img": "https://image.tmdb.org/t/p/original/jo9efbQSGDZNQ6xMocyD1prFjdF.jpg"
+     },
+     {
+      "id": 937,
+      "title": "Kis Kisko Pyaar Karoon 2",
+      "img": "https://image.tmdb.org/t/p/original/sqCgEMxOKvb949xbxn35Wcfn50S.jpg"
+     },
+     {
+      "id": 939,
+      "title": "Sholay The Final Cut",
+      "img": "https://image.tmdb.org/t/p/original/9wcES7d0Zz3r6579zLXYBHiJdzk.jpg"
+     }
+    ],
+    "2025-12-13": [
+     {
+      "id": 938,
+      "title": "Mowgli 2025",
+      "img": "https://image.tmdb.org/t/p/original/fwyXKqVffOOoES5HhJutqivYEVi.jpg"
+     }
+    ],
+    "2026-01-09": [
+     {
+      "id": 957,
+      "title": "The Rajasaab",
+      "img": "https://image.tmdb.org/t/p/original/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg"
+     }
+    ],
+    "2026-01-10": [
+     {
+      "id": 961,
+      "title": "Pennu Case",
+      "img": "https://image.tmdb.org/t/p/original/4AFDuFFENy2qCKqCc9Uv3SIF3Kt.jpg"
+     },
+     {
+      "id": 962,
+      "title": "Parasakthi",
+      "img": "https://image.tmdb.org/t/p/original/cpKJGYU8Z1iSXzkgDl8vhazk5EQ.jpg"
+     }
+    ],
+    "2026-01-14": [
+     {
+      "id": 963,
+      "title": "Vaa Vaathiyaar",
+      "img": "https://image.tmdb.org/t/p/original/2CO8y3nlDcPRHqXuOQarl8X9GZT.jpg"
+     }
+    ],
+    "2026-01-11": [
+     {
+      "id": 964,
+      "title": "Mana Shankara Vara Prasad Garu",
+      "img": "https://image.tmdb.org/t/p/original/sfj6SLSzbzHN2633HcqabHFJz5y.jpg"
+     }
+    ],
+    "2026-01-15": [
+     {
+      "id": 967,
+      "title": "Thalaivar Thambi Thalaimaiyil",
+      "img": "https://image.tmdb.org/t/p/original/wqofJvDrFv65QgyVmNI4loi9jZZ.jpg"
+     }
+    ],
+    "2026-01-22": [
+     {
+      "id": 968,
+      "title": "Chatha Pacha: The Ring of Rowdies",
+      "img": "https://image.tmdb.org/t/p/original/a41fqMDWRcZcDqidGcq10xmRoh.jpg"
+     }
+    ],
+    "2026-01-01": [
+     {
+      "id": 970,
+      "title": "Jujutsu Kaisen: Hidden Inventory / Premature Death",
+      "img": "https://image.tmdb.org/t/p/original/kZkyr1sRzarENrxjtltPvmHRrTk.jpg"
+     },
+     {
+      "id": 971,
+      "title": "The Housemaid",
+      "img": "https://image.tmdb.org/t/p/original/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
+     },
+     {
+      "id": 972,
+      "title": "Ikkis",
+      "img": "https://image.tmdb.org/t/p/original/8PWu0V10nMqG5SrA13wLRXTD2fH.jpg"
+     }
+    ],
+    "2026-01-02": [
+     {
+      "id": 973,
+      "title": "The Spongebob Movie Search For Squarepants",
+      "img": "https://image.tmdb.org/t/p/original/v95hpkfgPVbtvpYP6dagG49tT2l.jpg"
+     }
+    ],
+    "2026-01-13": [
+     {
+      "id": 974,
+      "title": "Bhartha Mahasayulaku Wignyapthi",
+      "img": "https://image.tmdb.org/t/p/original/8YFFbBiX8EMUCUHEewc4hxJ7Xyg.jpg"
+     }
+    ],
+    "2026-01-16": [
+     {
+      "id": 975,
+      "title": "Greenland 2 Migration",
+      "img": "https://image.tmdb.org/t/p/original/oEGnHmRkpNfUsxnh0gOKuTqNeQk.jpg"
+     },
+     {
+      "id": 976,
+      "title": "Rahu Ketu",
+      "img": "https://image.tmdb.org/t/p/original/zjgWWOIsEqYNSa1fGRr82mBo3gv.jpg"
+     },
+     {
+      "id": 977,
+      "title": "Happy Patel Khatarnak Jasoos",
+      "img": "https://image.tmdb.org/t/p/original/vsCkxiY2c26C6y4RyTVkpdXIfCW.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 70246619,
+     "sold": 364597,
+     "unsold": 467146,
+     "shows": 3327,
+     "occ": 43.84,
+     "hf": "94",
+     "almost": "416",
+     "ff": "614",
+     "cumul": 70246619,
+     "lastUpdatedAt": "2026-01-22 14:28:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 43297754,
+     "sold": 242475,
+     "unsold": 505869,
+     "shows": 2842,
+     "occ": 32.4,
+     "hf": "37",
+     "almost": "217",
+     "ff": "307",
+     "cumul": 113544373,
+     "lastUpdatedAt": "2026-01-22 16:28:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 37419165.20000002,
+     "sold": 215138,
+     "unsold": 355975,
+     "shows": 2502,
+     "occ": 37.67,
+     "hf": "64",
+     "almost": "266",
+     "ff": "359",
+     "cumul": 150963538.20000002,
+     "lastUpdatedAt": "2026-01-19 15:58:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 35952575,
+     "sold": 239193,
+     "unsold": 520228,
+     "shows": 2571,
+     "occ": 31.5,
+     "hf": "34",
+     "almost": "103",
+     "ff": "218",
+     "cumul": 186916113.20000002,
+     "lastUpdatedAt": "2026-01-20 12:58:00"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 23027480.400000013,
+     "sold": 176419,
+     "unsold": 345298,
+     "shows": 1901,
+     "occ": 33.82,
+     "hf": "48",
+     "almost": "151",
+     "ff": "284",
+     "cumul": 209943593.60000002,
+     "lastUpdatedAt": "2026-01-13 21:14:00"
+    },
+    {
+     "label": "Kollam",
+     "gross": 21134683,
+     "sold": 134030,
+     "unsold": 340553,
+     "shows": 1645,
+     "occ": 28.24,
+     "hf": "25",
+     "almost": "109",
+     "ff": "179",
+     "cumul": 231078276.60000002,
+     "lastUpdatedAt": "2026-01-15 20:43:00"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 18243415,
+     "sold": 135185,
+     "unsold": 353192,
+     "shows": 1821,
+     "occ": 27.68,
+     "hf": "20",
+     "almost": "75",
+     "ff": "154",
+     "cumul": 249321691.60000002,
+     "lastUpdatedAt": "2026-01-15 11:28:00"
+    },
+    {
+     "label": "Kannur",
+     "gross": 17474622.79999999,
+     "sold": 115541,
+     "unsold": 238651,
+     "shows": 1706,
+     "occ": 32.62,
+     "hf": "11",
+     "almost": "66",
+     "ff": "158",
+     "cumul": 266796314.4,
+     "lastUpdatedAt": "2026-01-08 20:43:00"
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 16231074,
+     "sold": 106971,
+     "unsold": 204088,
+     "shows": 1171,
+     "occ": 34.39,
+     "hf": "9",
+     "almost": "53",
+     "ff": "112",
+     "cumul": 283027388.4,
+     "lastUpdatedAt": "2026-01-08 21:18:00"
+    },
+    {
+     "label": "Kottayam",
+     "gross": 16138450,
+     "sold": 107333,
+     "unsold": 332088,
+     "shows": 1389,
+     "occ": 24.43,
+     "hf": "1",
+     "almost": "23",
+     "ff": "96",
+     "cumul": 299165838.4,
+     "lastUpdatedAt": "2026-01-15 20:48:00"
+    },
+    {
+     "label": "Idukki",
+     "gross": 6423734,
+     "sold": 40875,
+     "unsold": 91237,
+     "shows": 553,
+     "occ": 30.94,
+     "hf": "7",
+     "almost": "18",
+     "ff": "35",
+     "cumul": 305589572.4,
+     "lastUpdatedAt": "2026-01-15 18:23:00"
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 5613945,
+     "sold": 39760,
+     "unsold": 111247,
+     "shows": 607,
+     "occ": 26.33,
+     "hf": "1",
+     "almost": "11",
+     "ff": "43",
+     "cumul": 311203517.4,
+     "lastUpdatedAt": "2026-01-08 20:03:00"
+    },
+    {
+     "label": "Pathanamthitta",
+     "gross": 4123567,
+     "sold": 27288,
+     "unsold": 82073,
+     "shows": 375,
+     "occ": 24.95,
+     "hf": "5",
+     "almost": "9",
+     "ff": "27",
+     "cumul": 315327084.4,
+     "lastUpdatedAt": "2026-01-15 20:43:00"
+    },
+    {
+     "label": "Wayanad",
+     "gross": 3504100.399999998,
+     "sold": 27269,
+     "unsold": 55638,
+     "shows": 391,
+     "occ": 32.89,
+     "hf": "0",
+     "almost": "6",
+     "ff": "43",
+     "cumul": 318831184.79999995,
+     "lastUpdatedAt": "2026-01-01 20:58:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 318831184.79999995,
+    "totalShows": 22801,
+    "totalSeats": 5975357,
+    "totalSold": 1972074,
+    "avgOcc": "33.0",
+    "totalDays": 14,
+    "totalHousefull": 356,
+    "totalAlmost": 1523,
+    "totalFastFilling": 2629,
+    "peakDay": {
+     "day": 1,
+     "gross": 70246619,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 70246619,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 31,
+     "weeks_on_chart": 0,
+     "peak_position": 24,
+     "last_week_position": 31
+    }
+   },
+   "_tier": "cold",
+   "_hash": "14:3504100.399999998:318831184.79999995"
+  }
+ }
+}

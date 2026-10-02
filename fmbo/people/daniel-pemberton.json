@@ -1,0 +1,55 @@
+{
+ "slug": "daniel-pemberton",
+ "name": "Daniel Pemberton",
+ "source_url": "https://fridaymatinee.in/people/daniel-pemberton",
+ "captured_at": "2026-10-01T21:45:45.698910+00:00",
+ "person": {
+  "name": "Daniel Pemberton",
+  "photo": "https://image.tmdb.org/t/p/w185/dPcjpSoCg1nraqCUD4tvRK3QtHQ.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 726,
+   "movie_slug": "materialists",
+   "title": "Materialists",
+   "year": 2025,
+   "kerala_gross": "₹4.6L"
+  },
+  {
+   "movie_id": 783,
+   "movie_slug": "the-bad-guys-2",
+   "title": "The Bad Guys 2",
+   "year": 2025,
+   "kerala_gross": "₹2.7L"
+  },
+  {
+   "movie_id": 990,
+   "movie_slug": "project-hail-mary",
+   "title": "Project Hail Mary",
+   "year": 2026,
+   "kerala_gross": "₹5.1 Cr"
+  },
+  {
+   "movie_id": 1051,
+   "movie_slug": "the-drama",
+   "title": "The Drama",
+   "year": 2026,
+   "kerala_gross": "₹7.2L"
+  },
+  {
+   "movie_id": 1133,
+   "movie_slug": "masters-of-the-universe",
+   "title": "Masters of the Universe",
+   "year": 2026,
+   "kerala_gross": "₹58.3L"
+  }
+ ]
+}

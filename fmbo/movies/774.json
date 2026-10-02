@@ -1,0 +1,717 @@
+{
+ "id": 774,
+ "slug": "kraven-the-hunter",
+ "source_url": "https://fridaymatinee.in/boxoffice/kraven-the-hunter-774",
+ "captured_at": "2026-10-01T18:22:06.983172+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 774,
+    "title": "Kraven: The Hunter",
+    "img": "https://image.tmdb.org/t/p/original/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg",
+    "released": "2025-01-01",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt8790086",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "127 min",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+    "released": "2024-12-11",
+    "director": "J.C. Chandor",
+    "directorSlug": "j-c-chandor",
+    "actors": [
+     "Aaron Taylor-Johnson",
+     "Ariana DeBose",
+     "Fred Hechinger",
+     "Alessandro Nivola",
+     "Christopher Abbott",
+     "Russell Crowe"
+    ],
+    "awards": "5 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.5",
+      "votes": 87694,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.4",
+      "votes": 2508,
+      "updatedAt": "2026-09-24T16:10:42.000Z"
+     },
+     "rt": "15%",
+     "metascore": 35,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aaron Taylor-Johnson",
+     "character": "Sergei Kravinoff / Kraven the Hunter",
+     "slug": "aaron-taylor-johnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1DtNaGrRwnBhm0jVCtE1xOb61TK.jpg"
+    },
+    {
+     "name": "Ariana DeBose",
+     "character": "Calypso Ezili",
+     "slug": "ariana-debose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nfUaNCqCRe5KWF0XPmdn3eP1kPD.jpg"
+    },
+    {
+     "name": "Fred Hechinger",
+     "character": "Dmitri Kravinoff",
+     "slug": "fred-hechinger",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nxQfwTWev2VzQJDdKHixPvwXiZS.jpg"
+    },
+    {
+     "name": "Alessandro Nivola",
+     "character": "Aleksei Sytsevich",
+     "slug": "alessandro-nivola",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/53wfpjSwPTMwhfuOSdgGgojMI8m.jpg"
+    },
+    {
+     "name": "Christopher Abbott",
+     "character": "The Foreigner",
+     "slug": "christopher-abbott",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qWmlTycQb3yXaGhxPb6LCyaDjqh.jpg"
+    },
+    {
+     "name": "Russell Crowe",
+     "character": "Nikolai Kravinoff",
+     "slug": "russell-crowe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+     "name": "Yuri Kolokolnikov",
+     "character": "Semyon Chorney",
+     "slug": "yuri-kolokolnikov",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/77g4exFoU4FvCWoWVgn6aXR01rA.jpg"
+    },
+    {
+     "name": "Levi Miller",
+     "character": "Young Sergei",
+     "slug": "levi-miller",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5ovVnN2ffAWzwhZQKZWZWUgf6tZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "J.C. Chandor",
+       "slug": "j-c-chandor"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Art Marcum",
+       "slug": "art-marcum"
+      },
+      {
+       "name": "Matt Holloway",
+       "slug": "matt-holloway"
+      },
+      {
+       "name": "Richard Wenk",
+       "slug": "richard-wenk"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Benjamin Wallfisch",
+       "slug": "benjamin-wallfisch"
+      },
+      {
+       "name": "Sacha Galperine",
+       "slug": "sacha-galperine"
+      },
+      {
+       "name": "Evgueni Galperine",
+       "slug": "evgueni-galperine"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ben Davis",
+       "slug": "ben-davis"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Craig Wood",
+       "slug": "craig-wood"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "David B. Householter",
+       "slug": "david-b-householter"
+      },
+      {
+       "name": "Avi Arad",
+       "slug": "avi-arad"
+      },
+      {
+       "name": "Matt Tolmach",
+       "slug": "matt-tolmach"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Columbia Pictures",
+     "slug": "columbia-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+    },
+    {
+     "name": "Matt Tolmach Productions",
+     "slug": "matt-tolmach-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/nx8B3Phlcse02w86RW4CJqzCnfL.png"
+    },
+    {
+     "name": "Arad Productions",
+     "slug": "arad-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-01-13",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": null,
+      "availability": null
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 871128,
+    "totalShows": 213,
+    "totalDays": 9,
+    "openingDay": {
+     "day": 1,
+     "gross": 281770,
+     "date": "2025-01-01"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 281770,
+     "date": "2025-01-01"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-01"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 774,
+    "title": "Kraven: The Hunter",
+    "img": "https://image.tmdb.org/t/p/original/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg",
+    "released": "2025-01-01",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt8790086",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "127 min",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+    "released": "2024-12-11",
+    "director": "J.C. Chandor",
+    "directorSlug": "j-c-chandor",
+    "actors": [
+     "Aaron Taylor-Johnson",
+     "Ariana DeBose",
+     "Fred Hechinger",
+     "Alessandro Nivola",
+     "Christopher Abbott",
+     "Russell Crowe"
+    ],
+    "awards": "5 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.5",
+      "votes": 87694,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.4",
+      "votes": 2508,
+      "updatedAt": "2026-09-24T16:10:42.000Z"
+     },
+     "rt": "15%",
+     "metascore": 35,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aaron Taylor-Johnson",
+     "character": "Sergei Kravinoff / Kraven the Hunter",
+     "slug": "aaron-taylor-johnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1DtNaGrRwnBhm0jVCtE1xOb61TK.jpg"
+    },
+    {
+     "name": "Ariana DeBose",
+     "character": "Calypso Ezili",
+     "slug": "ariana-debose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nfUaNCqCRe5KWF0XPmdn3eP1kPD.jpg"
+    },
+    {
+     "name": "Fred Hechinger",
+     "character": "Dmitri Kravinoff",
+     "slug": "fred-hechinger",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nxQfwTWev2VzQJDdKHixPvwXiZS.jpg"
+    },
+    {
+     "name": "Alessandro Nivola",
+     "character": "Aleksei Sytsevich",
+     "slug": "alessandro-nivola",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/53wfpjSwPTMwhfuOSdgGgojMI8m.jpg"
+    },
+    {
+     "name": "Christopher Abbott",
+     "character": "The Foreigner",
+     "slug": "christopher-abbott",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qWmlTycQb3yXaGhxPb6LCyaDjqh.jpg"
+    },
+    {
+     "name": "Russell Crowe",
+     "character": "Nikolai Kravinoff",
+     "slug": "russell-crowe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+     "name": "Yuri Kolokolnikov",
+     "character": "Semyon Chorney",
+     "slug": "yuri-kolokolnikov",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/77g4exFoU4FvCWoWVgn6aXR01rA.jpg"
+    },
+    {
+     "name": "Levi Miller",
+     "character": "Young Sergei",
+     "slug": "levi-miller",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5ovVnN2ffAWzwhZQKZWZWUgf6tZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "J.C. Chandor",
+       "slug": "j-c-chandor"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Art Marcum",
+       "slug": "art-marcum"
+      },
+      {
+       "name": "Matt Holloway",
+       "slug": "matt-holloway"
+      },
+      {
+       "name": "Richard Wenk",
+       "slug": "richard-wenk"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Benjamin Wallfisch",
+       "slug": "benjamin-wallfisch"
+      },
+      {
+       "name": "Sacha Galperine",
+       "slug": "sacha-galperine"
+      },
+      {
+       "name": "Evgueni Galperine",
+       "slug": "evgueni-galperine"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ben Davis",
+       "slug": "ben-davis"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Craig Wood",
+       "slug": "craig-wood"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "David B. Householter",
+       "slug": "david-b-householter"
+      },
+      {
+       "name": "Avi Arad",
+       "slug": "avi-arad"
+      },
+      {
+       "name": "Matt Tolmach",
+       "slug": "matt-tolmach"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Columbia Pictures",
+     "slug": "columbia-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+    },
+    {
+     "name": "Matt Tolmach Productions",
+     "slug": "matt-tolmach-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/nx8B3Phlcse02w86RW4CJqzCnfL.png"
+    },
+    {
+     "name": "Arad Productions",
+     "slug": "arad-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-01-13",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": null,
+      "availability": null
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-01-01",
+     "gross": 806807,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 196,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-08",
+     "gross": 64321,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 17,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 871128,
+    "totalShows": 213,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 806807
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 806807
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-01"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 774,
+    "title": "Kraven: The Hunter",
+    "img": "https://image.tmdb.org/t/p/original/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg",
+    "released": "2025-01-01",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt8790086",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "127 min",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+    "released": "2024-12-11",
+    "director": "J.C. Chandor",
+    "directorSlug": "j-c-chandor",
+    "actors": [
+     "Aaron Taylor-Johnson",
+     "Ariana DeBose",
+     "Fred Hechinger",
+     "Alessandro Nivola",
+     "Christopher Abbott",
+     "Russell Crowe"
+    ],
+    "awards": "5 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.5",
+      "votes": 87694,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.4",
+      "votes": 2508,
+      "updatedAt": "2026-09-24T16:10:42.000Z"
+     },
+     "rt": "15%",
+     "metascore": 35,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aaron Taylor-Johnson",
+     "character": "Sergei Kravinoff / Kraven the Hunter",
+     "slug": "aaron-taylor-johnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1DtNaGrRwnBhm0jVCtE1xOb61TK.jpg"
+    },
+    {
+     "name": "Ariana DeBose",
+     "character": "Calypso Ezili",
+     "slug": "ariana-debose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nfUaNCqCRe5KWF0XPmdn3eP1kPD.jpg"
+    },
+    {
+     "name": "Fred Hechinger",
+     "character": "Dmitri Kravinoff",
+     "slug": "fred-hechinger",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nxQfwTWev2VzQJDdKHixPvwXiZS.jpg"
+    },
+    {
+     "name": "Alessandro Nivola",
+     "character": "Aleksei Sytsevich",
+     "slug": "alessandro-nivola",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/53wfpjSwPTMwhfuOSdgGgojMI8m.jpg"
+    },
+    {
+     "name": "Christopher Abbott",
+     "character": "The Foreigner",
+     "slug": "christopher-abbott",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qWmlTycQb3yXaGhxPb6LCyaDjqh.jpg"
+    },
+    {
+     "name": "Russell Crowe",
+     "character": "Nikolai Kravinoff",
+     "slug": "russell-crowe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+     "name": "Yuri Kolokolnikov",
+     "character": "Semyon Chorney",
+     "slug": "yuri-kolokolnikov",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/77g4exFoU4FvCWoWVgn6aXR01rA.jpg"
+    },
+    {
+     "name": "Levi Miller",
+     "character": "Young Sergei",
+     "slug": "levi-miller",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5ovVnN2ffAWzwhZQKZWZWUgf6tZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "J.C. Chandor",
+       "slug": "j-c-chandor"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Art Marcum",
+       "slug": "art-marcum"
+      },
+      {
+       "name": "Matt Holloway",
+       "slug": "matt-holloway"
+      },
+      {
+       "name": "Richard Wenk",
+       "slug": "richard-wenk"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Benjamin Wallfisch",
+       "slug": "benjamin-wallfisch"
+      },
+      {
+       "name": "Sacha Galperine",
+       "slug": "sacha-galperine"
+      },
+      {
+       "name": "Evgueni Galperine",
+       "slug": "evgueni-galperine"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ben Davis",
+       "slug": "ben-davis"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Craig Wood",
+       "slug": "craig-wood"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "David B. Householter",
+       "slug": "david-b-householter"
+      },
+      {
+       "name": "Avi Arad",
+       "slug": "avi-arad"
+      },
+      {
+       "name": "Matt Tolmach",
+       "slug": "matt-tolmach"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Columbia Pictures",
+     "slug": "columbia-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+    },
+    {
+     "name": "Matt Tolmach Productions",
+     "slug": "matt-tolmach-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/nx8B3Phlcse02w86RW4CJqzCnfL.png"
+    },
+    {
+     "name": "Arad Productions",
+     "slug": "arad-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-01-13",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": null,
+      "availability": null
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 871128,
+    "totalShows": 213,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 378160,
+     "date": "Trivandrum"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 378160,
+     "date": "Trivandrum"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-01"
+   }
+  }
+ }
+}

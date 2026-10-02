@@ -1,0 +1,1407 @@
+{
+ "id": 1055,
+ "slug": "hoppers",
+ "source_url": "https://fridaymatinee.in/boxoffice/hoppers-1055",
+ "captured_at": "2026-10-01T19:01:33.608987+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1055,
+    "title": "Hoppers",
+    "img": "https://image.tmdb.org/t/p/original/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+    "released": "2026-03-06",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26443616",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG",
+    "runtime": "105 min",
+    "genre": "Animation, Family, Science Fiction, Comedy, Adventure",
+    "plot": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+    "released": "2026-03-04",
+    "director": "Daniel Chong",
+    "directorSlug": "daniel-chong",
+    "actors": [
+     "Piper Curda",
+     "Bobby Moynihan",
+     "Jon Hamm",
+     "Kathy Najimy",
+     "Dave Franco",
+     "Eduardo Franco"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 86224,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.1",
+      "votes": 2362,
+      "updatedAt": "2026-09-24T13:10:17.000Z"
+     },
+     "rt": "94%",
+     "metascore": 73,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Piper Curda",
+     "character": "Mabel (voice)",
+     "slug": "piper-curda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oyitEBcracNWMuF8Frhsqkjgzuc.jpg"
+    },
+    {
+     "name": "Bobby Moynihan",
+     "character": "King George (voice)",
+     "slug": "bobby-moynihan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
+    },
+    {
+     "name": "Jon Hamm",
+     "character": "Mayor Jerry Generazzo (voice)",
+     "slug": "jon-hamm",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+    },
+    {
+     "name": "Kathy Najimy",
+     "character": "Dr. Sam (voice)",
+     "slug": "kathy-najimy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg"
+    },
+    {
+     "name": "Dave Franco",
+     "character": "Insect King (voice)",
+     "slug": "dave-franco",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg"
+    },
+    {
+     "name": "Eduardo Franco",
+     "character": "Loaf (voice)",
+     "slug": "eduardo-franco",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lt8T9FJsgye0pRjwY1Dnk0qi2OB.jpg"
+    },
+    {
+     "name": "Aparna Nancherla",
+     "character": "Nisha (voice)",
+     "slug": "aparna-nancherla",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vwpktqJnQCAGEfq2EKUjB8ZdnhI.jpg"
+    },
+    {
+     "name": "Tom Law",
+     "character": "Tom Lizard (voice)",
+     "slug": "tom-law",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Daniel Chong",
+       "slug": "daniel-chong"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jesse Andrews",
+       "slug": "jesse-andrews"
+      },
+      {
+       "name": "Daniel Chong",
+       "slug": "daniel-chong"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Mark Mothersbaugh",
+       "slug": "mark-mothersbaugh"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jeremy Lasky",
+       "slug": "jeremy-lasky"
+      },
+      {
+       "name": "Ian Megibben",
+       "slug": "ian-megibben"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Axel Geddes",
+       "slug": "axel-geddes"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Nicole Paradis Grindle",
+       "slug": "nicole-paradis-grindle"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Pixar",
+     "slug": "pixar",
+     "logo": "https://image.tmdb.org/t/p/w185/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-03-26": [
+     {
+      "id": 990,
+      "title": "Project Hail Mary",
+      "img": "https://image.tmdb.org/t/p/original/cCx1m530ph5FmtabVVUpUchEmhe.jpg"
+     },
+     {
+      "id": 1044,
+      "title": "Prathichaya",
+      "img": "https://image.tmdb.org/t/p/original/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg"
+     }
+    ],
+    "2026-03-06": [
+     {
+      "id": 1030,
+      "title": "Sambhavam Adhyayam Onnu",
+      "img": "https://image.tmdb.org/t/p/original/tBNSo4T0R8UztkkpjYkzXI4bFAT.jpg"
+     }
+    ],
+    "2026-03-18": [
+     {
+      "id": 1031,
+      "title": "Dhurandhar The Revenge",
+      "img": "https://image.tmdb.org/t/p/original/yfikYFZwy3IAq3qvCW77SNZoYI7.jpg"
+     }
+    ],
+    "2026-04-03": [
+     {
+      "id": 1035,
+      "title": "Ready or Not 2: Here I Come",
+      "img": "https://image.tmdb.org/t/p/original/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
+     },
+     {
+      "id": 1049,
+      "title": "The Super Mario Galaxy Movie",
+      "img": "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+     },
+     {
+      "id": 1051,
+      "title": "The Drama",
+      "img": "https://image.tmdb.org/t/p/original/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+     }
+    ],
+    "2026-03-13": [
+     {
+      "id": 1036,
+      "title": "Iron Lung",
+      "img": "https://image.tmdb.org/t/p/original/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
+     },
+     {
+      "id": 1037,
+      "title": "Aurora: What Happened to the Earth?",
+      "img": "https://image.tmdb.org/t/p/original/fYShYKxsa8ZiMkPkbjiVoKnD9jV.jpg"
+     },
+     {
+      "id": 1039,
+      "title": "Reminders of Him",
+      "img": "https://image.tmdb.org/t/p/original/9ikCZPDyQ7P40bpWJGo3kg2bA9m.jpg"
+     }
+    ],
+    "2026-03-27": [
+     {
+      "id": 1043,
+      "title": "They Will Kill You",
+      "img": "https://image.tmdb.org/t/p/original/2yIakRpFUi0UTWX6fPydxj7WXtR.jpg"
+     },
+     {
+      "id": 1047,
+      "title": "Derby",
+      "img": "https://image.tmdb.org/t/p/original/zaTTuhOJMTzlSRx7kvzVZevc2wQ.jpg"
+     }
+    ],
+    "2026-04-02": [
+     {
+      "id": 1048,
+      "title": "Vaazha II",
+      "img": "https://image.tmdb.org/t/p/original/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-03-06",
+     "gross": 140930,
+     "sold": 594,
+     "unsold": 6087,
+     "shows": 41,
+     "occ": 8.89,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 140930,
+     "lastUpdatedAt": "2026-03-06 22:43:00"
+    },
+    {
+     "label": "2026-03-07",
+     "gross": 244750,
+     "sold": 1186,
+     "unsold": 5026,
+     "shows": 38,
+     "occ": 19.09,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 385680,
+     "lastUpdatedAt": "2026-03-07 22:13:00"
+    },
+    {
+     "label": "2026-03-08",
+     "gross": 142170,
+     "sold": 644,
+     "unsold": 4795,
+     "shows": 35,
+     "occ": 11.84,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 527850,
+     "lastUpdatedAt": "2026-03-08 22:33:00"
+    },
+    {
+     "label": "2026-03-09",
+     "gross": 56008,
+     "sold": 266,
+     "unsold": 3369,
+     "shows": 22,
+     "occ": 7.32,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 583858,
+     "lastUpdatedAt": "2026-03-09 22:13:00"
+    },
+    {
+     "label": "2026-03-10",
+     "gross": 107311,
+     "sold": 509,
+     "unsold": 2765,
+     "shows": 21,
+     "occ": 15.55,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 691169,
+     "lastUpdatedAt": "2026-03-10 22:18:00"
+    },
+    {
+     "label": "2026-03-11",
+     "gross": 73941,
+     "sold": 356,
+     "unsold": 2706,
+     "shows": 20,
+     "occ": 11.63,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 765110,
+     "lastUpdatedAt": "2026-03-11 22:13:00"
+    },
+    {
+     "label": "2026-03-12",
+     "gross": 111879,
+     "sold": 638,
+     "unsold": 3071,
+     "shows": 21,
+     "occ": 17.2,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 876989,
+     "lastUpdatedAt": "2026-03-12 22:13:00"
+    },
+    {
+     "label": "2026-03-13",
+     "gross": 65760,
+     "sold": 383,
+     "unsold": 2080,
+     "shows": 15,
+     "occ": 15.55,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 942749,
+     "lastUpdatedAt": "2026-03-13 21:48:00"
+    },
+    {
+     "label": "2026-03-14",
+     "gross": 102565,
+     "sold": 496,
+     "unsold": 1442,
+     "shows": 12,
+     "occ": 25.59,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1045314,
+     "lastUpdatedAt": "2026-03-14 20:38:00"
+    },
+    {
+     "label": "2026-03-15",
+     "gross": 88085,
+     "sold": 415,
+     "unsold": 1682,
+     "shows": 13,
+     "occ": 19.79,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1133399,
+     "lastUpdatedAt": "2026-03-15 20:38:00"
+    },
+    {
+     "label": "2026-03-16",
+     "gross": 17335,
+     "sold": 84,
+     "unsold": 1464,
+     "shows": 10,
+     "occ": 5.43,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1150734,
+     "lastUpdatedAt": "2026-03-16 20:38:00"
+    },
+    {
+     "label": "2026-03-17",
+     "gross": 21548,
+     "sold": 113,
+     "unsold": 1612,
+     "shows": 11,
+     "occ": 6.55,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1172282,
+     "lastUpdatedAt": "2026-03-17 20:38:00"
+    },
+    {
+     "label": "2026-03-18",
+     "gross": 9640,
+     "sold": 52,
+     "unsold": 169,
+     "shows": 2,
+     "occ": 23.53,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1181922,
+     "lastUpdatedAt": "2026-03-18 17:48:00"
+    },
+    {
+     "label": "2026-03-23",
+     "gross": 11490,
+     "sold": 46,
+     "unsold": 54,
+     "shows": 1,
+     "occ": 46,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1193412,
+     "lastUpdatedAt": "2026-03-23 17:08:00"
+    },
+    {
+     "label": "2026-03-24",
+     "gross": 7210,
+     "sold": 28,
+     "unsold": 72,
+     "shows": 1,
+     "occ": 28,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1200622,
+     "lastUpdatedAt": "2026-03-24 17:08:00"
+    },
+    {
+     "label": "2026-03-25",
+     "gross": 5780,
+     "sold": 25,
+     "unsold": 76,
+     "shows": 1,
+     "occ": 24.75,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1206402,
+     "lastUpdatedAt": "2026-03-25 17:08:00"
+    },
+    {
+     "label": "2026-03-26",
+     "gross": 18450,
+     "sold": 72,
+     "unsold": 232,
+     "shows": 2,
+     "occ": 23.68,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1224852,
+     "lastUpdatedAt": "2026-03-26 14:18:00"
+    },
+    {
+     "label": "2026-03-27",
+     "gross": 18110,
+     "sold": 73,
+     "unsold": 234,
+     "shows": 2,
+     "occ": 23.78,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1242962,
+     "lastUpdatedAt": "2026-03-27 17:18:00"
+    },
+    {
+     "label": "2026-03-28",
+     "gross": 98220,
+     "sold": 400,
+     "unsold": 394,
+     "shows": 5,
+     "occ": 50.38,
+     "hf": "0",
+     "almost": "0",
+     "ff": "1",
+     "cumul": 1341182,
+     "lastUpdatedAt": "2026-03-28 20:53:00"
+    },
+    {
+     "label": "2026-03-29",
+     "gross": 113420,
+     "sold": 462,
+     "unsold": 334,
+     "shows": 5,
+     "occ": 58.04,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1454602,
+     "lastUpdatedAt": "2026-03-29 20:53:00"
+    },
+    {
+     "label": "2026-03-30",
+     "gross": 22910,
+     "sold": 96,
+     "unsold": 308,
+     "shows": 3,
+     "occ": 23.76,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1477512,
+     "lastUpdatedAt": "2026-03-30 20:18:00"
+    },
+    {
+     "label": "2026-03-31",
+     "gross": 31538,
+     "sold": 205,
+     "unsold": 201,
+     "shows": 3,
+     "occ": 50.49,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1509050,
+     "lastUpdatedAt": "2026-03-31 21:08:00"
+    },
+    {
+     "label": "2026-04-01",
+     "gross": 51650,
+     "sold": 196,
+     "unsold": 414,
+     "shows": 4,
+     "occ": 32.13,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1560700,
+     "lastUpdatedAt": "2026-04-01 19:53:00"
+    },
+    {
+     "label": "2026-04-02",
+     "gross": 26940,
+     "sold": 111,
+     "unsold": 195,
+     "shows": 2,
+     "occ": 36.27,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1587640,
+     "lastUpdatedAt": "2026-04-02 17:13:00"
+    },
+    {
+     "label": "2026-04-03",
+     "gross": 40300,
+     "sold": 153,
+     "unsold": 229,
+     "shows": 2,
+     "occ": 40.05,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1627940,
+     "lastUpdatedAt": "2026-04-03 14:23:00"
+    },
+    {
+     "label": "2026-04-04",
+     "gross": 37970,
+     "sold": 150,
+     "unsold": 232,
+     "shows": 2,
+     "occ": 39.27,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1665910,
+     "lastUpdatedAt": "2026-04-04 14:23:00"
+    },
+    {
+     "label": "2026-04-05",
+     "gross": 41330,
+     "sold": 160,
+     "unsold": 223,
+     "shows": 2,
+     "occ": 41.78,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1707240,
+     "lastUpdatedAt": "2026-04-05 14:23:00"
+    },
+    {
+     "label": "2026-04-06",
+     "gross": 2800,
+     "sold": 12,
+     "unsold": 88,
+     "shows": 1,
+     "occ": 12,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1710040,
+     "lastUpdatedAt": "2026-04-06 13:23:00"
+    },
+    {
+     "label": "2026-04-07",
+     "gross": 4571,
+     "sold": 35,
+     "unsold": 65,
+     "shows": 1,
+     "occ": 35,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1714611,
+     "lastUpdatedAt": "2026-04-07 13:23:00"
+    },
+    {
+     "label": "2026-04-08",
+     "gross": 3470,
+     "sold": 16,
+     "unsold": 84,
+     "shows": 1,
+     "occ": 16,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1718081,
+     "lastUpdatedAt": "2026-04-08 13:23:00"
+    },
+    {
+     "label": "2026-04-09",
+     "gross": 21270,
+     "sold": 88,
+     "unsold": 117,
+     "shows": 1,
+     "occ": 42.93,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1739351,
+     "lastUpdatedAt": "2026-04-09 17:53:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 1739351,
+    "totalShows": 300,
+    "totalSeats": 47884,
+    "totalSold": 8064,
+    "avgOcc": "16.8",
+    "totalDays": 31,
+    "totalHousefull": 11,
+    "totalAlmost": 11,
+    "totalFastFilling": 1,
+    "peakDay": {
+     "day": 2,
+     "gross": 244750,
+     "date": "2026-03-07"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 140930,
+     "date": "2026-03-06"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "31:21270:1739351"
+  },
+  "week": {
+   "movie": {
+    "id": 1055,
+    "title": "Hoppers",
+    "img": "https://image.tmdb.org/t/p/original/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+    "released": "2026-03-06",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26443616",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG",
+    "runtime": "105 min",
+    "genre": "Animation, Family, Science Fiction, Comedy, Adventure",
+    "plot": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+    "released": "2026-03-04",
+    "director": "Daniel Chong",
+    "directorSlug": "daniel-chong",
+    "actors": [
+     "Piper Curda",
+     "Bobby Moynihan",
+     "Jon Hamm",
+     "Kathy Najimy",
+     "Dave Franco",
+     "Eduardo Franco"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 86224,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.1",
+      "votes": 2362,
+      "updatedAt": "2026-09-24T13:10:17.000Z"
+     },
+     "rt": "94%",
+     "metascore": 73,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Piper Curda",
+     "character": "Mabel (voice)",
+     "slug": "piper-curda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oyitEBcracNWMuF8Frhsqkjgzuc.jpg"
+    },
+    {
+     "name": "Bobby Moynihan",
+     "character": "King George (voice)",
+     "slug": "bobby-moynihan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
+    },
+    {
+     "name": "Jon Hamm",
+     "character": "Mayor Jerry Generazzo (voice)",
+     "slug": "jon-hamm",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+    },
+    {
+     "name": "Kathy Najimy",
+     "character": "Dr. Sam (voice)",
+     "slug": "kathy-najimy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg"
+    },
+    {
+     "name": "Dave Franco",
+     "character": "Insect King (voice)",
+     "slug": "dave-franco",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg"
+    },
+    {
+     "name": "Eduardo Franco",
+     "character": "Loaf (voice)",
+     "slug": "eduardo-franco",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lt8T9FJsgye0pRjwY1Dnk0qi2OB.jpg"
+    },
+    {
+     "name": "Aparna Nancherla",
+     "character": "Nisha (voice)",
+     "slug": "aparna-nancherla",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vwpktqJnQCAGEfq2EKUjB8ZdnhI.jpg"
+    },
+    {
+     "name": "Tom Law",
+     "character": "Tom Lizard (voice)",
+     "slug": "tom-law",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Daniel Chong",
+       "slug": "daniel-chong"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jesse Andrews",
+       "slug": "jesse-andrews"
+      },
+      {
+       "name": "Daniel Chong",
+       "slug": "daniel-chong"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Mark Mothersbaugh",
+       "slug": "mark-mothersbaugh"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jeremy Lasky",
+       "slug": "jeremy-lasky"
+      },
+      {
+       "name": "Ian Megibben",
+       "slug": "ian-megibben"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Axel Geddes",
+       "slug": "axel-geddes"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Nicole Paradis Grindle",
+       "slug": "nicole-paradis-grindle"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Pixar",
+     "slug": "pixar",
+     "logo": "https://image.tmdb.org/t/p/w185/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-03-26": [
+     {
+      "id": 990,
+      "title": "Project Hail Mary",
+      "img": "https://image.tmdb.org/t/p/original/cCx1m530ph5FmtabVVUpUchEmhe.jpg"
+     },
+     {
+      "id": 1044,
+      "title": "Prathichaya",
+      "img": "https://image.tmdb.org/t/p/original/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg"
+     }
+    ],
+    "2026-03-06": [
+     {
+      "id": 1030,
+      "title": "Sambhavam Adhyayam Onnu",
+      "img": "https://image.tmdb.org/t/p/original/tBNSo4T0R8UztkkpjYkzXI4bFAT.jpg"
+     }
+    ],
+    "2026-03-18": [
+     {
+      "id": 1031,
+      "title": "Dhurandhar The Revenge",
+      "img": "https://image.tmdb.org/t/p/original/yfikYFZwy3IAq3qvCW77SNZoYI7.jpg"
+     }
+    ],
+    "2026-04-03": [
+     {
+      "id": 1035,
+      "title": "Ready or Not 2: Here I Come",
+      "img": "https://image.tmdb.org/t/p/original/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
+     },
+     {
+      "id": 1049,
+      "title": "The Super Mario Galaxy Movie",
+      "img": "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+     },
+     {
+      "id": 1051,
+      "title": "The Drama",
+      "img": "https://image.tmdb.org/t/p/original/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+     }
+    ],
+    "2026-03-13": [
+     {
+      "id": 1036,
+      "title": "Iron Lung",
+      "img": "https://image.tmdb.org/t/p/original/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
+     },
+     {
+      "id": 1037,
+      "title": "Aurora: What Happened to the Earth?",
+      "img": "https://image.tmdb.org/t/p/original/fYShYKxsa8ZiMkPkbjiVoKnD9jV.jpg"
+     },
+     {
+      "id": 1039,
+      "title": "Reminders of Him",
+      "img": "https://image.tmdb.org/t/p/original/9ikCZPDyQ7P40bpWJGo3kg2bA9m.jpg"
+     }
+    ],
+    "2026-03-27": [
+     {
+      "id": 1043,
+      "title": "They Will Kill You",
+      "img": "https://image.tmdb.org/t/p/original/2yIakRpFUi0UTWX6fPydxj7WXtR.jpg"
+     },
+     {
+      "id": 1047,
+      "title": "Derby",
+      "img": "https://image.tmdb.org/t/p/original/zaTTuhOJMTzlSRx7kvzVZevc2wQ.jpg"
+     }
+    ],
+    "2026-04-02": [
+     {
+      "id": 1048,
+      "title": "Vaazha II",
+      "img": "https://image.tmdb.org/t/p/original/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-03-06",
+     "gross": 876989,
+     "sold": 4193,
+     "unsold": 27819,
+     "shows": 198,
+     "occ": 13.1,
+     "hf": "9",
+     "almost": "9",
+     "ff": "0",
+     "cumul": 876989,
+     "lastUpdatedAt": "2026-03-12 22:13:00"
+    },
+    {
+     "label": "2026-03-13",
+     "gross": 304933,
+     "sold": 1543,
+     "unsold": 8449,
+     "shows": 63,
+     "occ": 15.44,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 1181922,
+     "lastUpdatedAt": "2026-03-18 17:48:00"
+    },
+    {
+     "label": "2026-03-20",
+     "gross": 42930,
+     "sold": 171,
+     "unsold": 434,
+     "shows": 5,
+     "occ": 28.26,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1224852,
+     "lastUpdatedAt": "2026-03-26 14:18:00"
+    },
+    {
+     "label": "2026-03-27",
+     "gross": 362788,
+     "sold": 1543,
+     "unsold": 2080,
+     "shows": 24,
+     "occ": 42.59,
+     "hf": "0",
+     "almost": "0",
+     "ff": "1",
+     "cumul": 1587640,
+     "lastUpdatedAt": "2026-04-02 17:13:00"
+    },
+    {
+     "label": "2026-04-03",
+     "gross": 151711,
+     "sold": 614,
+     "unsold": 1038,
+     "shows": 10,
+     "occ": 37.17,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1739351,
+     "lastUpdatedAt": "2026-04-09 17:53:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 1739351,
+    "totalShows": 300,
+    "totalSeats": 47884,
+    "totalSold": 8064,
+    "avgOcc": "16.8",
+    "totalDays": 5,
+    "totalHousefull": 11,
+    "totalAlmost": 11,
+    "totalFastFilling": 1,
+    "peakDay": {
+     "day": 1,
+     "gross": 876989
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 876989
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "5:151711:1739351"
+  },
+  "district": {
+   "movie": {
+    "id": 1055,
+    "title": "Hoppers",
+    "img": "https://image.tmdb.org/t/p/original/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+    "released": "2026-03-06",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26443616",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG",
+    "runtime": "105 min",
+    "genre": "Animation, Family, Science Fiction, Comedy, Adventure",
+    "plot": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+    "released": "2026-03-04",
+    "director": "Daniel Chong",
+    "directorSlug": "daniel-chong",
+    "actors": [
+     "Piper Curda",
+     "Bobby Moynihan",
+     "Jon Hamm",
+     "Kathy Najimy",
+     "Dave Franco",
+     "Eduardo Franco"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 86224,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.1",
+      "votes": 2362,
+      "updatedAt": "2026-09-24T13:10:17.000Z"
+     },
+     "rt": "94%",
+     "metascore": 73,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Piper Curda",
+     "character": "Mabel (voice)",
+     "slug": "piper-curda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oyitEBcracNWMuF8Frhsqkjgzuc.jpg"
+    },
+    {
+     "name": "Bobby Moynihan",
+     "character": "King George (voice)",
+     "slug": "bobby-moynihan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
+    },
+    {
+     "name": "Jon Hamm",
+     "character": "Mayor Jerry Generazzo (voice)",
+     "slug": "jon-hamm",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+    },
+    {
+     "name": "Kathy Najimy",
+     "character": "Dr. Sam (voice)",
+     "slug": "kathy-najimy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg"
+    },
+    {
+     "name": "Dave Franco",
+     "character": "Insect King (voice)",
+     "slug": "dave-franco",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg"
+    },
+    {
+     "name": "Eduardo Franco",
+     "character": "Loaf (voice)",
+     "slug": "eduardo-franco",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lt8T9FJsgye0pRjwY1Dnk0qi2OB.jpg"
+    },
+    {
+     "name": "Aparna Nancherla",
+     "character": "Nisha (voice)",
+     "slug": "aparna-nancherla",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vwpktqJnQCAGEfq2EKUjB8ZdnhI.jpg"
+    },
+    {
+     "name": "Tom Law",
+     "character": "Tom Lizard (voice)",
+     "slug": "tom-law",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Daniel Chong",
+       "slug": "daniel-chong"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jesse Andrews",
+       "slug": "jesse-andrews"
+      },
+      {
+       "name": "Daniel Chong",
+       "slug": "daniel-chong"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Mark Mothersbaugh",
+       "slug": "mark-mothersbaugh"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jeremy Lasky",
+       "slug": "jeremy-lasky"
+      },
+      {
+       "name": "Ian Megibben",
+       "slug": "ian-megibben"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Axel Geddes",
+       "slug": "axel-geddes"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Nicole Paradis Grindle",
+       "slug": "nicole-paradis-grindle"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Pixar",
+     "slug": "pixar",
+     "logo": "https://image.tmdb.org/t/p/w185/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-03-26": [
+     {
+      "id": 990,
+      "title": "Project Hail Mary",
+      "img": "https://image.tmdb.org/t/p/original/cCx1m530ph5FmtabVVUpUchEmhe.jpg"
+     },
+     {
+      "id": 1044,
+      "title": "Prathichaya",
+      "img": "https://image.tmdb.org/t/p/original/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg"
+     }
+    ],
+    "2026-03-06": [
+     {
+      "id": 1030,
+      "title": "Sambhavam Adhyayam Onnu",
+      "img": "https://image.tmdb.org/t/p/original/tBNSo4T0R8UztkkpjYkzXI4bFAT.jpg"
+     }
+    ],
+    "2026-03-18": [
+     {
+      "id": 1031,
+      "title": "Dhurandhar The Revenge",
+      "img": "https://image.tmdb.org/t/p/original/yfikYFZwy3IAq3qvCW77SNZoYI7.jpg"
+     }
+    ],
+    "2026-04-03": [
+     {
+      "id": 1035,
+      "title": "Ready or Not 2: Here I Come",
+      "img": "https://image.tmdb.org/t/p/original/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
+     },
+     {
+      "id": 1049,
+      "title": "The Super Mario Galaxy Movie",
+      "img": "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+     },
+     {
+      "id": 1051,
+      "title": "The Drama",
+      "img": "https://image.tmdb.org/t/p/original/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+     }
+    ],
+    "2026-03-13": [
+     {
+      "id": 1036,
+      "title": "Iron Lung",
+      "img": "https://image.tmdb.org/t/p/original/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
+     },
+     {
+      "id": 1037,
+      "title": "Aurora: What Happened to the Earth?",
+      "img": "https://image.tmdb.org/t/p/original/fYShYKxsa8ZiMkPkbjiVoKnD9jV.jpg"
+     },
+     {
+      "id": 1039,
+      "title": "Reminders of Him",
+      "img": "https://image.tmdb.org/t/p/original/9ikCZPDyQ7P40bpWJGo3kg2bA9m.jpg"
+     }
+    ],
+    "2026-03-27": [
+     {
+      "id": 1043,
+      "title": "They Will Kill You",
+      "img": "https://image.tmdb.org/t/p/original/2yIakRpFUi0UTWX6fPydxj7WXtR.jpg"
+     },
+     {
+      "id": 1047,
+      "title": "Derby",
+      "img": "https://image.tmdb.org/t/p/original/zaTTuhOJMTzlSRx7kvzVZevc2wQ.jpg"
+     }
+    ],
+    "2026-04-02": [
+     {
+      "id": 1048,
+      "title": "Vaazha II",
+      "img": "https://image.tmdb.org/t/p/original/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 738403,
+     "sold": 3310,
+     "unsold": 13162,
+     "shows": 105,
+     "occ": 20.09,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 738403,
+     "lastUpdatedAt": "2026-04-09 17:53:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 518074,
+     "sold": 2571,
+     "unsold": 5850,
+     "shows": 58,
+     "occ": 30.53,
+     "hf": "3",
+     "almost": "3",
+     "ff": "1",
+     "cumul": 1256477,
+     "lastUpdatedAt": "2026-04-08 13:23:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 320460,
+     "sold": 1432,
+     "unsold": 8406,
+     "shows": 66,
+     "occ": 14.56,
+     "hf": "5",
+     "almost": "5",
+     "ff": "0",
+     "cumul": 1576937,
+     "lastUpdatedAt": "2026-03-18 16:42:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 140974,
+     "sold": 636,
+     "unsold": 6843,
+     "shows": 38,
+     "occ": 8.5,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1717911,
+     "lastUpdatedAt": "2026-03-17 19:23:00"
+    },
+    {
+     "label": "Kannur",
+     "gross": 20360,
+     "sold": 109,
+     "unsold": 3421,
+     "shows": 25,
+     "occ": 3.09,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1738271,
+     "lastUpdatedAt": "2026-03-12 15:08:00"
+    },
+    {
+     "label": "Kollam",
+     "gross": 1080,
+     "sold": 6,
+     "unsold": 2138,
+     "shows": 8,
+     "occ": 0.28,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1739351,
+     "lastUpdatedAt": "2026-03-09 18:08:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 1739351,
+    "totalShows": 300,
+    "totalSeats": 47884,
+    "totalSold": 8064,
+    "avgOcc": "16.8",
+    "totalDays": 6,
+    "totalHousefull": 11,
+    "totalAlmost": 11,
+    "totalFastFilling": 1,
+    "peakDay": {
+     "day": 1,
+     "gross": 738403,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 738403,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "6:1080:1739351"
+  }
+ }
+}

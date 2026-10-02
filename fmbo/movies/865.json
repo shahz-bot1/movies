@@ -1,0 +1,958 @@
+{
+ "id": 865,
+ "slug": "private",
+ "source_url": "https://fridaymatinee.in/boxoffice/private-865",
+ "captured_at": "2026-10-01T18:24:29.966853+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 865,
+    "title": "Private",
+    "img": "https://image.tmdb.org/t/p/original/9pRKlkCLO3BKG8xGM1vGvVwfW47.jpg",
+    "released": "2025-10-10",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt37682350",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "136 min",
+    "genre": "Drama",
+    "plot": "When an old man and a teenager from different walks of life are brought together by chance, they form an unlikely connection that transforms them both in unexpected ways.",
+    "released": "2025-08-01",
+    "director": "Deepak Deon",
+    "directorSlug": "deepak-deon",
+    "actors": [
+     "Indrans",
+     "Meenakshi Anoop",
+     "Annu Antony",
+     "Kiran Peethambaran",
+     "Kunhikkannan Cheruvathoor",
+     "Anjana Appukuttan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 1151,
+      "updatedAt": "2026-09-25T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Indrans",
+     "character": "Balan Marar",
+     "slug": "indrans",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vs5Acy2hJ4dWoM3xRGdnFKdVXzw.jpg"
+    },
+    {
+     "name": "Meenakshi Anoop",
+     "character": "Ashitha Beegum",
+     "slug": "meenakshi-anoop",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8KNcrp2XoBXto3l9YZPkfRfOlr6.jpg"
+    },
+    {
+     "name": "Annu Antony",
+     "character": "Kamala",
+     "slug": "annu-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rGO3Zz2RlnGsoYPlf0ThYDS75SV.jpg"
+    },
+    {
+     "name": "Kiran Peethambaran",
+     "character": "Chandran",
+     "slug": "kiran-peethambaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qbfH2hMSspS1PWVNRQP2xa2buWK.jpg"
+    },
+    {
+     "name": "Kunhikkannan Cheruvathoor",
+     "character": "Valyamama",
+     "slug": "kunhikkannan-cheruvathoor",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Anjana Appukuttan",
+     "character": "Basheer's Wife",
+     "slug": "anjana-appukuttan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ufxtwCHmYEy873iwHabXnv9UfAp.jpg"
+    },
+    {
+     "name": "Ramiya P Das",
+     "character": "Latha",
+     "slug": "ramiya-p-das",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Shalini Jayendra Sharma",
+     "character": "Kulsu",
+     "slug": "shalini-jayendra-sharma",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Deepak Deon",
+       "slug": "deepak-deon"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Deepak Deon",
+       "slug": "deepak-deon"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Aswin Sathya",
+       "slug": "aswin-sathya"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Faisal Ali",
+       "slug": "faisal-ali"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jaya Krishna",
+       "slug": "jaya-krishna"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "VK Shabeer",
+       "slug": "vk-shabeer"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": "2025-11-21",
+    "platforms": []
+   },
+   "otherReleases": {
+    "2025-10-10": [
+     {
+      "id": 823,
+      "title": "The Smashing Machine",
+      "img": "https://image.tmdb.org/t/p/original/vMDqKiWCciWsF8Q3RCk3YSrZx0y.jpg"
+     },
+     {
+      "id": 831,
+      "title": "TRON: Ares",
+      "img": "https://image.tmdb.org/t/p/original/5T3cyazcqaecydQubstqsLOLH8Q.jpg"
+     },
+     {
+      "id": 859,
+      "title": "Feminist Fathima",
+      "img": "https://image.tmdb.org/t/p/w1280/gtgBl6G6jUDNFiAzGNdJlXiB5kd.jpg"
+     }
+    ],
+    "2025-10-16": [
+     {
+      "id": 858,
+      "title": "The Pet Detective",
+      "img": "https://image.tmdb.org/t/p/original/ydaAO8A9pIdtLN6K3hSAGVn08rH.jpg"
+     }
+    ],
+    "2025-10-17": [
+     {
+      "id": 866,
+      "title": "Paathirathri",
+      "img": "https://image.tmdb.org/t/p/original/utpxOviVGA0Qum2C4tTt0TTLTHz.jpg"
+     },
+     {
+      "id": 867,
+      "title": "Bison Kaalamaadan",
+      "img": "https://image.tmdb.org/t/p/original/5IPFJ2XFbYjdIw4912ZufCMolX.jpg"
+     },
+     {
+      "id": 868,
+      "title": "Diesel",
+      "img": "https://image.tmdb.org/t/p/original/8wAvlj7nh2sSmj3knqoZEJdJeu1.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-10-10",
+     "gross": 179609.2,
+     "sold": 1189,
+     "unsold": 9685,
+     "shows": 58,
+     "occ": 10.93,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 179609.2,
+     "lastUpdatedAt": "2025-10-10 22:23:00"
+    },
+    {
+     "label": "2025-10-11",
+     "gross": 199330.6,
+     "sold": 1293,
+     "unsold": 7394,
+     "shows": 48,
+     "occ": 14.88,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 378939.80000000005,
+     "lastUpdatedAt": "2025-10-11 22:03:00"
+    },
+    {
+     "label": "2025-10-12",
+     "gross": 200834.80000000002,
+     "sold": 1169,
+     "unsold": 6958,
+     "shows": 47,
+     "occ": 14.38,
+     "hf": "0",
+     "almost": "2",
+     "ff": "1",
+     "cumul": 579774.6000000001,
+     "lastUpdatedAt": "2025-10-12 22:03:00"
+    },
+    {
+     "label": "2025-10-13",
+     "gross": 141548.59999999998,
+     "sold": 881,
+     "unsold": 5968,
+     "shows": 39,
+     "occ": 12.86,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 721323.2000000001,
+     "lastUpdatedAt": "2025-10-13 22:03:00"
+    },
+    {
+     "label": "2025-10-14",
+     "gross": 135007,
+     "sold": 862,
+     "unsold": 5917,
+     "shows": 39,
+     "occ": 12.72,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 856330.2000000001,
+     "lastUpdatedAt": "2025-10-14 22:03:00"
+    },
+    {
+     "label": "2025-10-15",
+     "gross": 67298,
+     "sold": 404,
+     "unsold": 5571,
+     "shows": 35,
+     "occ": 6.76,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 923628.2000000001,
+     "lastUpdatedAt": "2025-10-15 21:29:00"
+    },
+    {
+     "label": "2025-10-16",
+     "gross": 39354.8,
+     "sold": 236,
+     "unsold": 2595,
+     "shows": 17,
+     "occ": 8.34,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 962983.0000000001,
+     "lastUpdatedAt": "2025-10-16 22:58:00"
+    },
+    {
+     "label": "2025-10-17",
+     "gross": 13430,
+     "sold": 62,
+     "unsold": 302,
+     "shows": 3,
+     "occ": 17.03,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 976413.0000000001,
+     "lastUpdatedAt": "2025-10-17 17:33:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 976413.0000000001,
+    "totalShows": 286,
+    "totalSeats": 50486,
+    "totalSold": 6096,
+    "avgOcc": "12.1",
+    "totalDays": 8,
+    "totalHousefull": 1,
+    "totalAlmost": 3,
+    "totalFastFilling": 1,
+    "peakDay": {
+     "day": 3,
+     "gross": 200834.80000000002,
+     "date": "2025-10-12"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 179609.2,
+     "date": "2025-10-10"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "8:13430:976413.0000000001"
+  },
+  "week": {
+   "movie": {
+    "id": 865,
+    "title": "Private",
+    "img": "https://image.tmdb.org/t/p/original/9pRKlkCLO3BKG8xGM1vGvVwfW47.jpg",
+    "released": "2025-10-10",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt37682350",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "136 min",
+    "genre": "Drama",
+    "plot": "When an old man and a teenager from different walks of life are brought together by chance, they form an unlikely connection that transforms them both in unexpected ways.",
+    "released": "2025-08-01",
+    "director": "Deepak Deon",
+    "directorSlug": "deepak-deon",
+    "actors": [
+     "Indrans",
+     "Meenakshi Anoop",
+     "Annu Antony",
+     "Kiran Peethambaran",
+     "Kunhikkannan Cheruvathoor",
+     "Anjana Appukuttan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 1151,
+      "updatedAt": "2026-09-25T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Indrans",
+     "character": "Balan Marar",
+     "slug": "indrans",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vs5Acy2hJ4dWoM3xRGdnFKdVXzw.jpg"
+    },
+    {
+     "name": "Meenakshi Anoop",
+     "character": "Ashitha Beegum",
+     "slug": "meenakshi-anoop",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8KNcrp2XoBXto3l9YZPkfRfOlr6.jpg"
+    },
+    {
+     "name": "Annu Antony",
+     "character": "Kamala",
+     "slug": "annu-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rGO3Zz2RlnGsoYPlf0ThYDS75SV.jpg"
+    },
+    {
+     "name": "Kiran Peethambaran",
+     "character": "Chandran",
+     "slug": "kiran-peethambaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qbfH2hMSspS1PWVNRQP2xa2buWK.jpg"
+    },
+    {
+     "name": "Kunhikkannan Cheruvathoor",
+     "character": "Valyamama",
+     "slug": "kunhikkannan-cheruvathoor",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Anjana Appukuttan",
+     "character": "Basheer's Wife",
+     "slug": "anjana-appukuttan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ufxtwCHmYEy873iwHabXnv9UfAp.jpg"
+    },
+    {
+     "name": "Ramiya P Das",
+     "character": "Latha",
+     "slug": "ramiya-p-das",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Shalini Jayendra Sharma",
+     "character": "Kulsu",
+     "slug": "shalini-jayendra-sharma",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Deepak Deon",
+       "slug": "deepak-deon"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Deepak Deon",
+       "slug": "deepak-deon"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Aswin Sathya",
+       "slug": "aswin-sathya"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Faisal Ali",
+       "slug": "faisal-ali"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jaya Krishna",
+       "slug": "jaya-krishna"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "VK Shabeer",
+       "slug": "vk-shabeer"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": "2025-11-21",
+    "platforms": []
+   },
+   "otherReleases": {
+    "2025-10-10": [
+     {
+      "id": 823,
+      "title": "The Smashing Machine",
+      "img": "https://image.tmdb.org/t/p/original/vMDqKiWCciWsF8Q3RCk3YSrZx0y.jpg"
+     },
+     {
+      "id": 831,
+      "title": "TRON: Ares",
+      "img": "https://image.tmdb.org/t/p/original/5T3cyazcqaecydQubstqsLOLH8Q.jpg"
+     },
+     {
+      "id": 859,
+      "title": "Feminist Fathima",
+      "img": "https://image.tmdb.org/t/p/w1280/gtgBl6G6jUDNFiAzGNdJlXiB5kd.jpg"
+     }
+    ],
+    "2025-10-16": [
+     {
+      "id": 858,
+      "title": "The Pet Detective",
+      "img": "https://image.tmdb.org/t/p/original/ydaAO8A9pIdtLN6K3hSAGVn08rH.jpg"
+     }
+    ],
+    "2025-10-17": [
+     {
+      "id": 866,
+      "title": "Paathirathri",
+      "img": "https://image.tmdb.org/t/p/original/utpxOviVGA0Qum2C4tTt0TTLTHz.jpg"
+     },
+     {
+      "id": 867,
+      "title": "Bison Kaalamaadan",
+      "img": "https://image.tmdb.org/t/p/original/5IPFJ2XFbYjdIw4912ZufCMolX.jpg"
+     },
+     {
+      "id": 868,
+      "title": "Diesel",
+      "img": "https://image.tmdb.org/t/p/original/8wAvlj7nh2sSmj3knqoZEJdJeu1.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-10-10",
+     "gross": 962983,
+     "sold": 6034,
+     "unsold": 44088,
+     "shows": 283,
+     "occ": 12.04,
+     "hf": "1",
+     "almost": "3",
+     "ff": "1",
+     "cumul": 962983,
+     "lastUpdatedAt": "2025-10-16 22:58:00"
+    },
+    {
+     "label": "2025-10-17",
+     "gross": 13430,
+     "sold": 62,
+     "unsold": 302,
+     "shows": 3,
+     "occ": 17.03,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 976413,
+     "lastUpdatedAt": "2025-10-17 17:33:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 976413,
+    "totalShows": 286,
+    "totalSeats": 50486,
+    "totalSold": 6096,
+    "avgOcc": "12.1",
+    "totalDays": 2,
+    "totalHousefull": 1,
+    "totalAlmost": 3,
+    "totalFastFilling": 1,
+    "peakDay": {
+     "day": 1,
+     "gross": 962983
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 962983
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "2:13430:976413"
+  },
+  "district": {
+   "movie": {
+    "id": 865,
+    "title": "Private",
+    "img": "https://image.tmdb.org/t/p/original/9pRKlkCLO3BKG8xGM1vGvVwfW47.jpg",
+    "released": "2025-10-10",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt37682350",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "136 min",
+    "genre": "Drama",
+    "plot": "When an old man and a teenager from different walks of life are brought together by chance, they form an unlikely connection that transforms them both in unexpected ways.",
+    "released": "2025-08-01",
+    "director": "Deepak Deon",
+    "directorSlug": "deepak-deon",
+    "actors": [
+     "Indrans",
+     "Meenakshi Anoop",
+     "Annu Antony",
+     "Kiran Peethambaran",
+     "Kunhikkannan Cheruvathoor",
+     "Anjana Appukuttan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 1151,
+      "updatedAt": "2026-09-25T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Indrans",
+     "character": "Balan Marar",
+     "slug": "indrans",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vs5Acy2hJ4dWoM3xRGdnFKdVXzw.jpg"
+    },
+    {
+     "name": "Meenakshi Anoop",
+     "character": "Ashitha Beegum",
+     "slug": "meenakshi-anoop",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8KNcrp2XoBXto3l9YZPkfRfOlr6.jpg"
+    },
+    {
+     "name": "Annu Antony",
+     "character": "Kamala",
+     "slug": "annu-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rGO3Zz2RlnGsoYPlf0ThYDS75SV.jpg"
+    },
+    {
+     "name": "Kiran Peethambaran",
+     "character": "Chandran",
+     "slug": "kiran-peethambaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qbfH2hMSspS1PWVNRQP2xa2buWK.jpg"
+    },
+    {
+     "name": "Kunhikkannan Cheruvathoor",
+     "character": "Valyamama",
+     "slug": "kunhikkannan-cheruvathoor",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Anjana Appukuttan",
+     "character": "Basheer's Wife",
+     "slug": "anjana-appukuttan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ufxtwCHmYEy873iwHabXnv9UfAp.jpg"
+    },
+    {
+     "name": "Ramiya P Das",
+     "character": "Latha",
+     "slug": "ramiya-p-das",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Shalini Jayendra Sharma",
+     "character": "Kulsu",
+     "slug": "shalini-jayendra-sharma",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Deepak Deon",
+       "slug": "deepak-deon"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Deepak Deon",
+       "slug": "deepak-deon"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Aswin Sathya",
+       "slug": "aswin-sathya"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Faisal Ali",
+       "slug": "faisal-ali"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jaya Krishna",
+       "slug": "jaya-krishna"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "VK Shabeer",
+       "slug": "vk-shabeer"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": "2025-11-21",
+    "platforms": []
+   },
+   "otherReleases": {
+    "2025-10-10": [
+     {
+      "id": 823,
+      "title": "The Smashing Machine",
+      "img": "https://image.tmdb.org/t/p/original/vMDqKiWCciWsF8Q3RCk3YSrZx0y.jpg"
+     },
+     {
+      "id": 831,
+      "title": "TRON: Ares",
+      "img": "https://image.tmdb.org/t/p/original/5T3cyazcqaecydQubstqsLOLH8Q.jpg"
+     },
+     {
+      "id": 859,
+      "title": "Feminist Fathima",
+      "img": "https://image.tmdb.org/t/p/w1280/gtgBl6G6jUDNFiAzGNdJlXiB5kd.jpg"
+     }
+    ],
+    "2025-10-16": [
+     {
+      "id": 858,
+      "title": "The Pet Detective",
+      "img": "https://image.tmdb.org/t/p/original/ydaAO8A9pIdtLN6K3hSAGVn08rH.jpg"
+     }
+    ],
+    "2025-10-17": [
+     {
+      "id": 866,
+      "title": "Paathirathri",
+      "img": "https://image.tmdb.org/t/p/original/utpxOviVGA0Qum2C4tTt0TTLTHz.jpg"
+     },
+     {
+      "id": 867,
+      "title": "Bison Kaalamaadan",
+      "img": "https://image.tmdb.org/t/p/original/5IPFJ2XFbYjdIw4912ZufCMolX.jpg"
+     },
+     {
+      "id": 868,
+      "title": "Diesel",
+      "img": "https://image.tmdb.org/t/p/original/8wAvlj7nh2sSmj3knqoZEJdJeu1.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 270050,
+     "sold": 1482,
+     "unsold": 7387,
+     "shows": 62,
+     "occ": 16.71,
+     "hf": "0",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 270050,
+     "lastUpdatedAt": "2025-10-17 17:33:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 210773,
+     "sold": 1381,
+     "unsold": 13571,
+     "shows": 75,
+     "occ": 9.24,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 480823,
+     "lastUpdatedAt": "2025-10-16 14:58:00"
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 128912,
+     "sold": 986,
+     "unsold": 2347,
+     "shows": 17,
+     "occ": 29.58,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 609735,
+     "lastUpdatedAt": "2025-10-16 16:23:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 122490,
+     "sold": 553,
+     "unsold": 1365,
+     "shows": 14,
+     "occ": 28.83,
+     "hf": "0",
+     "almost": "1",
+     "ff": "1",
+     "cumul": 732225,
+     "lastUpdatedAt": "2025-10-17 16:08:00"
+    },
+    {
+     "label": "Kannur",
+     "gross": 68990,
+     "sold": 517,
+     "unsold": 3411,
+     "shows": 12,
+     "occ": 13.16,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 801215,
+     "lastUpdatedAt": "2025-10-15 16:43:00"
+    },
+    {
+     "label": "Kollam",
+     "gross": 53661,
+     "sold": 369,
+     "unsold": 2133,
+     "shows": 15,
+     "occ": 14.75,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 854876,
+     "lastUpdatedAt": "2025-10-15 14:28:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 51299,
+     "sold": 278,
+     "unsold": 2175,
+     "shows": 16,
+     "occ": 11.33,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 906175,
+     "lastUpdatedAt": "2025-10-17 09:58:00"
+    },
+    {
+     "label": "Wayanad",
+     "gross": 33099.00000000001,
+     "sold": 255,
+     "unsold": 3830,
+     "shows": 19,
+     "occ": 6.24,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 939274,
+     "lastUpdatedAt": "2025-10-16 20:13:00"
+    },
+    {
+     "label": "Kottayam",
+     "gross": 20140,
+     "sold": 139,
+     "unsold": 2729,
+     "shows": 18,
+     "occ": 4.85,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 959414,
+     "lastUpdatedAt": "2025-10-15 21:28:00"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 13370,
+     "sold": 103,
+     "unsold": 905,
+     "shows": 8,
+     "occ": 10.22,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 972784,
+     "lastUpdatedAt": "2025-10-15 17:53:00"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 3629,
+     "sold": 33,
+     "unsold": 4436,
+     "shows": 29,
+     "occ": 0.74,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 976413,
+     "lastUpdatedAt": "2025-10-15 21:29:00"
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 101,
+     "shows": 1,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 976413,
+     "lastUpdatedAt": "2025-10-10 10:48:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 976413,
+    "totalShows": 286,
+    "totalSeats": 50486,
+    "totalSold": 6096,
+    "avgOcc": "12.1",
+    "totalDays": 12,
+    "totalHousefull": 1,
+    "totalAlmost": 3,
+    "totalFastFilling": 1,
+    "peakDay": {
+     "day": 1,
+     "gross": 270050,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 270050,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "12:0:976413"
+  }
+ }
+}

@@ -1,0 +1,743 @@
+{
+ "id": 158,
+ "slug": "thor-love-and-thunder",
+ "source_url": "https://fridaymatinee.in/boxoffice/thor-love-and-thunder-158",
+ "captured_at": "2026-10-01T18:02:41.152215+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 158,
+    "title": "Thor Love and Thunder",
+    "img": "https://image.tmdb.org/t/p/original/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+    "released": "2022-07-07",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10648342",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "119 min",
+    "genre": "Fantasy, Action, Comedy",
+    "plot": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+    "released": "2022-07-06",
+    "director": "Taika Waititi",
+    "directorSlug": "taika-waititi",
+    "actors": [
+     "Chris Hemsworth",
+     "Natalie Portman",
+     "Christian Bale",
+     "Tessa Thompson",
+     "Taika Waititi",
+     "Russell Crowe"
+    ],
+    "awards": "5 wins u0026 21 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 475539,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.4",
+      "votes": 8973,
+      "updatedAt": "2026-09-25T01:10:20.000Z"
+     },
+     "rt": "63%",
+     "metascore": 57,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Chris Hemsworth",
+     "character": "Thor",
+     "slug": "chris-hemsworth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+     "name": "Natalie Portman",
+     "character": "Jane Foster / The Mighty Thor",
+     "slug": "natalie-portman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+    },
+    {
+     "name": "Christian Bale",
+     "character": "Gorr",
+     "slug": "christian-bale",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+    },
+    {
+     "name": "Tessa Thompson",
+     "character": "King Valkyrie",
+     "slug": "tessa-thompson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/19ze60jXlb2j7dXc2UpA3MujXA8.jpg"
+    },
+    {
+     "name": "Taika Waititi",
+     "character": "Korg / Old Kronan God (voice)",
+     "slug": "taika-waititi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ww6L2ksfJNMbuiIdDuvVKndUHsv.jpg"
+    },
+    {
+     "name": "Russell Crowe",
+     "character": "Zeus",
+     "slug": "russell-crowe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+     "name": "Jaimie Alexander",
+     "character": "Sif",
+     "slug": "jaimie-alexander",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/21IQHPAXNUHiqPrpIYr4X8h2wmf.jpg"
+    },
+    {
+     "name": "Idris Elba",
+     "character": "Heimdall",
+     "slug": "idris-elba",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Taika Waititi",
+       "slug": "taika-waititi"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Taika Waititi",
+       "slug": "taika-waititi"
+      },
+      {
+       "name": "Jennifer Kaytin Robinson",
+       "slug": "jennifer-kaytin-robinson"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Nami Melumad",
+       "slug": "nami-melumad"
+      },
+      {
+       "name": "Michael Giacchino",
+       "slug": "michael-giacchino"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Barry Idoine",
+       "slug": "barry-idoine"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Matthew Schmidt",
+       "slug": "matthew-schmidt"
+      },
+      {
+       "name": "Peter S. Elliot",
+       "slug": "peter-s-elliot"
+      },
+      {
+       "name": "Tim Roche",
+       "slug": "tim-roche"
+      },
+      {
+       "name": "Jennifer Vecchiarello",
+       "slug": "jennifer-vecchiarello"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Brad Winderbaum",
+       "slug": "brad-winderbaum"
+      },
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Kevin Feige Productions",
+     "slug": "kevin-feige-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-09-07",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 37978826.400000006,
+    "totalShows": 5007,
+    "totalDays": 24,
+    "openingDay": {
+     "day": 1,
+     "gross": 9470570.4,
+     "date": "2022-07-07"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 9470570.4,
+     "date": "2022-07-07"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 31,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-07-07"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 158,
+    "title": "Thor Love and Thunder",
+    "img": "https://image.tmdb.org/t/p/original/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+    "released": "2022-07-07",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10648342",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "119 min",
+    "genre": "Fantasy, Action, Comedy",
+    "plot": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+    "released": "2022-07-06",
+    "director": "Taika Waititi",
+    "directorSlug": "taika-waititi",
+    "actors": [
+     "Chris Hemsworth",
+     "Natalie Portman",
+     "Christian Bale",
+     "Tessa Thompson",
+     "Taika Waititi",
+     "Russell Crowe"
+    ],
+    "awards": "5 wins u0026 21 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 475539,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.4",
+      "votes": 8973,
+      "updatedAt": "2026-09-25T01:10:20.000Z"
+     },
+     "rt": "63%",
+     "metascore": 57,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Chris Hemsworth",
+     "character": "Thor",
+     "slug": "chris-hemsworth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+     "name": "Natalie Portman",
+     "character": "Jane Foster / The Mighty Thor",
+     "slug": "natalie-portman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+    },
+    {
+     "name": "Christian Bale",
+     "character": "Gorr",
+     "slug": "christian-bale",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+    },
+    {
+     "name": "Tessa Thompson",
+     "character": "King Valkyrie",
+     "slug": "tessa-thompson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/19ze60jXlb2j7dXc2UpA3MujXA8.jpg"
+    },
+    {
+     "name": "Taika Waititi",
+     "character": "Korg / Old Kronan God (voice)",
+     "slug": "taika-waititi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ww6L2ksfJNMbuiIdDuvVKndUHsv.jpg"
+    },
+    {
+     "name": "Russell Crowe",
+     "character": "Zeus",
+     "slug": "russell-crowe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+     "name": "Jaimie Alexander",
+     "character": "Sif",
+     "slug": "jaimie-alexander",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/21IQHPAXNUHiqPrpIYr4X8h2wmf.jpg"
+    },
+    {
+     "name": "Idris Elba",
+     "character": "Heimdall",
+     "slug": "idris-elba",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Taika Waititi",
+       "slug": "taika-waititi"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Taika Waititi",
+       "slug": "taika-waititi"
+      },
+      {
+       "name": "Jennifer Kaytin Robinson",
+       "slug": "jennifer-kaytin-robinson"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Nami Melumad",
+       "slug": "nami-melumad"
+      },
+      {
+       "name": "Michael Giacchino",
+       "slug": "michael-giacchino"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Barry Idoine",
+       "slug": "barry-idoine"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Matthew Schmidt",
+       "slug": "matthew-schmidt"
+      },
+      {
+       "name": "Peter S. Elliot",
+       "slug": "peter-s-elliot"
+      },
+      {
+       "name": "Tim Roche",
+       "slug": "tim-roche"
+      },
+      {
+       "name": "Jennifer Vecchiarello",
+       "slug": "jennifer-vecchiarello"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Brad Winderbaum",
+       "slug": "brad-winderbaum"
+      },
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Kevin Feige Productions",
+     "slug": "kevin-feige-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-09-07",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-07-07",
+     "gross": 31728591.800000016,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3725,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-07-14",
+     "gross": 5041114.6,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1170,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-07-21",
+     "gross": 1097770,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 107,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-07-28",
+     "gross": 111350,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 37978826.40000001,
+    "totalShows": 5007,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 31728591.800000016
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 31728591.800000016
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 31,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-07-07"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 158,
+    "title": "Thor Love and Thunder",
+    "img": "https://image.tmdb.org/t/p/original/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+    "released": "2022-07-07",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10648342",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "119 min",
+    "genre": "Fantasy, Action, Comedy",
+    "plot": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+    "released": "2022-07-06",
+    "director": "Taika Waititi",
+    "directorSlug": "taika-waititi",
+    "actors": [
+     "Chris Hemsworth",
+     "Natalie Portman",
+     "Christian Bale",
+     "Tessa Thompson",
+     "Taika Waititi",
+     "Russell Crowe"
+    ],
+    "awards": "5 wins u0026 21 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 475539,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.4",
+      "votes": 8973,
+      "updatedAt": "2026-09-25T01:10:20.000Z"
+     },
+     "rt": "63%",
+     "metascore": 57,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Chris Hemsworth",
+     "character": "Thor",
+     "slug": "chris-hemsworth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+     "name": "Natalie Portman",
+     "character": "Jane Foster / The Mighty Thor",
+     "slug": "natalie-portman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+    },
+    {
+     "name": "Christian Bale",
+     "character": "Gorr",
+     "slug": "christian-bale",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+    },
+    {
+     "name": "Tessa Thompson",
+     "character": "King Valkyrie",
+     "slug": "tessa-thompson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/19ze60jXlb2j7dXc2UpA3MujXA8.jpg"
+    },
+    {
+     "name": "Taika Waititi",
+     "character": "Korg / Old Kronan God (voice)",
+     "slug": "taika-waititi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ww6L2ksfJNMbuiIdDuvVKndUHsv.jpg"
+    },
+    {
+     "name": "Russell Crowe",
+     "character": "Zeus",
+     "slug": "russell-crowe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+     "name": "Jaimie Alexander",
+     "character": "Sif",
+     "slug": "jaimie-alexander",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/21IQHPAXNUHiqPrpIYr4X8h2wmf.jpg"
+    },
+    {
+     "name": "Idris Elba",
+     "character": "Heimdall",
+     "slug": "idris-elba",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Taika Waititi",
+       "slug": "taika-waititi"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Taika Waititi",
+       "slug": "taika-waititi"
+      },
+      {
+       "name": "Jennifer Kaytin Robinson",
+       "slug": "jennifer-kaytin-robinson"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Nami Melumad",
+       "slug": "nami-melumad"
+      },
+      {
+       "name": "Michael Giacchino",
+       "slug": "michael-giacchino"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Barry Idoine",
+       "slug": "barry-idoine"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Matthew Schmidt",
+       "slug": "matthew-schmidt"
+      },
+      {
+       "name": "Peter S. Elliot",
+       "slug": "peter-s-elliot"
+      },
+      {
+       "name": "Tim Roche",
+       "slug": "tim-roche"
+      },
+      {
+       "name": "Jennifer Vecchiarello",
+       "slug": "jennifer-vecchiarello"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Brad Winderbaum",
+       "slug": "brad-winderbaum"
+      },
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Kevin Feige Productions",
+     "slug": "kevin-feige-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-09-07",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 37978826.4,
+    "totalShows": 5007,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 13327892,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 13327892,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 31,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-07-07"
+   }
+  }
+ }
+}

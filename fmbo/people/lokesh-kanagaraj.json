@@ -1,0 +1,65 @@
+{
+ "slug": "lokesh-kanagaraj",
+ "name": "Lokesh Kanagaraj",
+ "source_url": "https://fridaymatinee.in/people/lokesh-kanagaraj",
+ "captured_at": "2026-10-02T00:04:48.474932+00:00",
+ "person": {
+  "name": "Lokesh Kanagaraj",
+  "photo": "https://image.tmdb.org/t/p/w185/yym15SAcSzIe6xzxOWCgDWiSaZN.jpg",
+  "role": "Director, actor and writer"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 5
+  },
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 21,
+   "movie_slug": "kaithi",
+   "title": "Kaithi",
+   "year": 2019,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 64,
+   "movie_slug": "master",
+   "title": "Master",
+   "year": 2021,
+   "kerala_gross": "₹4.1 Cr"
+  },
+  {
+   "movie_id": 144,
+   "movie_slug": "vikram",
+   "title": "Vikram",
+   "year": 2022,
+   "kerala_gross": "₹29.1 Cr"
+  },
+  {
+   "movie_id": 430,
+   "movie_slug": "leo",
+   "title": "Leo",
+   "year": 2023,
+   "kerala_gross": "₹47.4 Cr"
+  },
+  {
+   "movie_id": 765,
+   "movie_slug": "coolie",
+   "title": "Coolie",
+   "year": 2025,
+   "kerala_gross": "₹22.9 Cr"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "slug": "rahul-madhav",
+ "name": "Rahul Madhav",
+ "source_url": "https://fridaymatinee.in/people/rahul-madhav",
+ "captured_at": "2026-10-02T08:29:20.094592+00:00",
+ "person": {
+  "name": "Rahul Madhav",
+  "photo": "https://image.tmdb.org/t/p/w185/6jW9kQ5LwptZuOUPc2muC5hwgwf.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 160,
+   "movie_slug": "kaduva",
+   "title": "Kaduva",
+   "year": 2022,
+   "kerala_gross": "₹17.0 Cr"
+  },
+  {
+   "movie_id": 233,
+   "movie_slug": "kumari",
+   "title": "Kumari",
+   "year": 2022,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 244,
+   "movie_slug": "shefeekkinte-santhosham",
+   "title": "Shefeekkinte Santhosham",
+   "year": 2022,
+   "kerala_gross": "₹50.1L"
+  },
+  {
+   "movie_id": 494,
+   "movie_slug": "ayalaan",
+   "title": "Ayalaan",
+   "year": 2024,
+   "kerala_gross": "₹50.4L"
+  },
+  {
+   "movie_id": 555,
+   "movie_slug": "hunt",
+   "title": "Hunt",
+   "year": 2024,
+   "kerala_gross": "₹37.6L"
+  },
+  {
+   "movie_id": 802,
+   "movie_slug": "the-case-diary",
+   "title": "The Case Diary",
+   "year": 2025,
+   "kerala_gross": "₹21.5L"
+  }
+ ]
+}

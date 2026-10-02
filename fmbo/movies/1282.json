@@ -1,0 +1,664 @@
+{
+ "id": 1282,
+ "slug": "epic",
+ "source_url": "https://fridaymatinee.in/boxoffice/epic-1282",
+ "captured_at": "2026-10-01T19:56:26.082727+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1282,
+    "title": "Epic",
+    "img": "https://image.tmdb.org/t/p/original/vqt0fIHy8dkSpUtVcrN1NaaANl8.jpg",
+    "released": "2026-09-11",
+    "language": "Telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt35448218",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "150 min",
+    "genre": "Romance, Drama",
+    "plot": "Rohan, a middle-class student studying abroad due to family expectations, explores romance, identity, and growing up with honesty and emotional depth.",
+    "released": "2026-09-10",
+    "director": "Aditya Hasan",
+    "directorSlug": "aditya-hasan",
+    "actors": [
+     "Anand Deverakonda",
+     "Vaishnavi Chaitanya",
+     "Sivaji Sontineni",
+     "Vasuki Anand",
+     "Master Rohan Roy"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.9",
+      "votes": 1639,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T07:10:09.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Anand Deverakonda",
+     "character": "Aditya",
+     "slug": "anand-deverakonda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8mT71CU9VjPOmqvypCu8HFC3YHr.jpg"
+    },
+    {
+     "name": "Vaishnavi Chaitanya",
+     "character": "Kadali",
+     "slug": "vaishnavi-chaitanya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gXN6lkoUHL0sUVJx1Se3lciyJLs.jpg"
+    },
+    {
+     "name": "Sivaji Sontineni",
+     "character": "Chandra Sekhar",
+     "slug": "sivaji-sontineni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rYttVZsngTbaS2ElxDiIiQ32RbL.jpg"
+    },
+    {
+     "name": "Vasuki Anand",
+     "character": "Shobha Rani",
+     "slug": "vasuki-anand",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h9hcPpR6T8K5Ef9pj5FB0eaLdIn.jpg"
+    },
+    {
+     "name": "Master Rohan Roy",
+     "character": "Aditya (Young)",
+     "slug": "master-rohan-roy",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Aditya Hasan",
+       "slug": "aditya-hasan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Aditya Hasan",
+       "slug": "aditya-hasan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hesham Abdul Wahab",
+       "slug": "hesham-abdul-wahab"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Azeem Mohammed",
+       "slug": "azeem-mohammed"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Naveen Nooli",
+       "slug": "naveen-nooli"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Suryadevara Naga Vamsi",
+       "slug": "suryadevara-naga-vamsi"
+      },
+      {
+       "name": "Sai Soujanya",
+       "slug": "sai-soujanya"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sithara Entertainments",
+     "slug": "sithara-entertainments",
+     "logo": "https://image.tmdb.org/t/p/w185/qNLrEbrNigDNR6QgaRtwXtRIwgx.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-11": [
+     {
+      "id": 1260,
+      "title": "Pradhama Dhrishtya Kuttakkar",
+      "img": "https://image.tmdb.org/t/p/original/zcxFgdE2aHOQq3tlKDDn6RYdVWr.jpg"
+     },
+     {
+      "id": 1269,
+      "title": "Aasha",
+      "img": "https://image.tmdb.org/t/p/original/dXxtdHQ1e8Rd7FcMWG8SkMIAXtT.jpg"
+     },
+     {
+      "id": 1278,
+      "title": "Haiwaan",
+      "img": "https://image.tmdb.org/t/p/original/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-09-11",
+     "gross": 22160,
+     "sold": 106,
+     "unsold": 65,
+     "shows": 2,
+     "occ": 61.99,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 22160,
+     "lastUpdatedAt": "2026-09-11 22:58:01"
+    },
+    {
+     "label": "2026-09-12",
+     "gross": 4280,
+     "sold": 20,
+     "unsold": 84,
+     "shows": 1,
+     "occ": 19.23,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 26440,
+     "lastUpdatedAt": "2026-09-12 22:53:01"
+    },
+    {
+     "label": "2026-09-14",
+     "gross": 1680,
+     "sold": 8,
+     "unsold": 96,
+     "shows": 1,
+     "occ": 7.69,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 28120,
+     "lastUpdatedAt": "2026-09-14 22:53:01"
+    },
+    {
+     "label": "2026-09-15",
+     "gross": 22160,
+     "sold": 106,
+     "unsold": 0,
+     "shows": 1,
+     "occ": 100,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 50280,
+     "lastUpdatedAt": "2026-09-15 22:53:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 50280,
+    "totalShows": 5,
+    "totalSeats": 485,
+    "totalSold": 240,
+    "avgOcc": "49.5",
+    "totalDays": 4,
+    "totalHousefull": 2,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 22160,
+     "date": "2026-09-11"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 22160,
+     "date": "2026-09-11"
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "4:22160:50280"
+  },
+  "week": {
+   "movie": {
+    "id": 1282,
+    "title": "Epic",
+    "img": "https://image.tmdb.org/t/p/original/vqt0fIHy8dkSpUtVcrN1NaaANl8.jpg",
+    "released": "2026-09-11",
+    "language": "Telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt35448218",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "150 min",
+    "genre": "Romance, Drama",
+    "plot": "Rohan, a middle-class student studying abroad due to family expectations, explores romance, identity, and growing up with honesty and emotional depth.",
+    "released": "2026-09-10",
+    "director": "Aditya Hasan",
+    "directorSlug": "aditya-hasan",
+    "actors": [
+     "Anand Deverakonda",
+     "Vaishnavi Chaitanya",
+     "Sivaji Sontineni",
+     "Vasuki Anand",
+     "Master Rohan Roy"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.9",
+      "votes": 1639,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T07:10:09.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Anand Deverakonda",
+     "character": "Aditya",
+     "slug": "anand-deverakonda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8mT71CU9VjPOmqvypCu8HFC3YHr.jpg"
+    },
+    {
+     "name": "Vaishnavi Chaitanya",
+     "character": "Kadali",
+     "slug": "vaishnavi-chaitanya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gXN6lkoUHL0sUVJx1Se3lciyJLs.jpg"
+    },
+    {
+     "name": "Sivaji Sontineni",
+     "character": "Chandra Sekhar",
+     "slug": "sivaji-sontineni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rYttVZsngTbaS2ElxDiIiQ32RbL.jpg"
+    },
+    {
+     "name": "Vasuki Anand",
+     "character": "Shobha Rani",
+     "slug": "vasuki-anand",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h9hcPpR6T8K5Ef9pj5FB0eaLdIn.jpg"
+    },
+    {
+     "name": "Master Rohan Roy",
+     "character": "Aditya (Young)",
+     "slug": "master-rohan-roy",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Aditya Hasan",
+       "slug": "aditya-hasan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Aditya Hasan",
+       "slug": "aditya-hasan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hesham Abdul Wahab",
+       "slug": "hesham-abdul-wahab"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Azeem Mohammed",
+       "slug": "azeem-mohammed"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Naveen Nooli",
+       "slug": "naveen-nooli"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Suryadevara Naga Vamsi",
+       "slug": "suryadevara-naga-vamsi"
+      },
+      {
+       "name": "Sai Soujanya",
+       "slug": "sai-soujanya"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sithara Entertainments",
+     "slug": "sithara-entertainments",
+     "logo": "https://image.tmdb.org/t/p/w185/qNLrEbrNigDNR6QgaRtwXtRIwgx.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-11": [
+     {
+      "id": 1260,
+      "title": "Pradhama Dhrishtya Kuttakkar",
+      "img": "https://image.tmdb.org/t/p/original/zcxFgdE2aHOQq3tlKDDn6RYdVWr.jpg"
+     },
+     {
+      "id": 1269,
+      "title": "Aasha",
+      "img": "https://image.tmdb.org/t/p/original/dXxtdHQ1e8Rd7FcMWG8SkMIAXtT.jpg"
+     },
+     {
+      "id": 1278,
+      "title": "Haiwaan",
+      "img": "https://image.tmdb.org/t/p/original/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-09-11",
+     "gross": 50280,
+     "sold": 240,
+     "unsold": 245,
+     "shows": 5,
+     "occ": 49.48,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 50280,
+     "lastUpdatedAt": "2026-09-15 22:53:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 50280,
+    "totalShows": 5,
+    "totalSeats": 485,
+    "totalSold": 240,
+    "avgOcc": "49.5",
+    "totalDays": 1,
+    "totalHousefull": 2,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 50280
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 50280
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "1:50280:50280"
+  },
+  "district": {
+   "movie": {
+    "id": 1282,
+    "title": "Epic",
+    "img": "https://image.tmdb.org/t/p/original/vqt0fIHy8dkSpUtVcrN1NaaANl8.jpg",
+    "released": "2026-09-11",
+    "language": "Telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt35448218",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "150 min",
+    "genre": "Romance, Drama",
+    "plot": "Rohan, a middle-class student studying abroad due to family expectations, explores romance, identity, and growing up with honesty and emotional depth.",
+    "released": "2026-09-10",
+    "director": "Aditya Hasan",
+    "directorSlug": "aditya-hasan",
+    "actors": [
+     "Anand Deverakonda",
+     "Vaishnavi Chaitanya",
+     "Sivaji Sontineni",
+     "Vasuki Anand",
+     "Master Rohan Roy"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.9",
+      "votes": 1639,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T07:10:09.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Anand Deverakonda",
+     "character": "Aditya",
+     "slug": "anand-deverakonda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8mT71CU9VjPOmqvypCu8HFC3YHr.jpg"
+    },
+    {
+     "name": "Vaishnavi Chaitanya",
+     "character": "Kadali",
+     "slug": "vaishnavi-chaitanya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gXN6lkoUHL0sUVJx1Se3lciyJLs.jpg"
+    },
+    {
+     "name": "Sivaji Sontineni",
+     "character": "Chandra Sekhar",
+     "slug": "sivaji-sontineni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rYttVZsngTbaS2ElxDiIiQ32RbL.jpg"
+    },
+    {
+     "name": "Vasuki Anand",
+     "character": "Shobha Rani",
+     "slug": "vasuki-anand",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h9hcPpR6T8K5Ef9pj5FB0eaLdIn.jpg"
+    },
+    {
+     "name": "Master Rohan Roy",
+     "character": "Aditya (Young)",
+     "slug": "master-rohan-roy",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Aditya Hasan",
+       "slug": "aditya-hasan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Aditya Hasan",
+       "slug": "aditya-hasan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hesham Abdul Wahab",
+       "slug": "hesham-abdul-wahab"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Azeem Mohammed",
+       "slug": "azeem-mohammed"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Naveen Nooli",
+       "slug": "naveen-nooli"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Suryadevara Naga Vamsi",
+       "slug": "suryadevara-naga-vamsi"
+      },
+      {
+       "name": "Sai Soujanya",
+       "slug": "sai-soujanya"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sithara Entertainments",
+     "slug": "sithara-entertainments",
+     "logo": "https://image.tmdb.org/t/p/w185/qNLrEbrNigDNR6QgaRtwXtRIwgx.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-11": [
+     {
+      "id": 1260,
+      "title": "Pradhama Dhrishtya Kuttakkar",
+      "img": "https://image.tmdb.org/t/p/original/zcxFgdE2aHOQq3tlKDDn6RYdVWr.jpg"
+     },
+     {
+      "id": 1269,
+      "title": "Aasha",
+      "img": "https://image.tmdb.org/t/p/original/dXxtdHQ1e8Rd7FcMWG8SkMIAXtT.jpg"
+     },
+     {
+      "id": 1278,
+      "title": "Haiwaan",
+      "img": "https://image.tmdb.org/t/p/original/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 50280,
+     "sold": 240,
+     "unsold": 180,
+     "shows": 4,
+     "occ": 57.14,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 50280,
+     "lastUpdatedAt": "2026-09-15 22:53:01"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 65,
+     "shows": 1,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 50280,
+     "lastUpdatedAt": "2026-09-11 22:58:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 50280,
+    "totalShows": 5,
+    "totalSeats": 485,
+    "totalSold": 240,
+    "avgOcc": "49.5",
+    "totalDays": 2,
+    "totalHousefull": 2,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 50280,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 50280,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "2:0:50280"
+  }
+ }
+}

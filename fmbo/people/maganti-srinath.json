@@ -1,0 +1,41 @@
+{
+ "slug": "maganti-srinath",
+ "name": "Maganti Srinath",
+ "source_url": "https://fridaymatinee.in/people/maganti-srinath",
+ "captured_at": "2026-10-02T00:11:46.139119+00:00",
+ "person": {
+  "name": "Maganti Srinath",
+  "photo": "https://image.tmdb.org/t/p/w185/yQMTvHK35dP1vs7NZd9AXTfh7fg.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 468,
+   "movie_slug": "animal",
+   "title": "Animal",
+   "year": 2023,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 537,
+   "movie_slug": "lucky-baskhar",
+   "title": "Lucky Baskhar",
+   "year": 2024,
+   "kerala_gross": "₹17.4 Cr"
+  },
+  {
+   "movie_id": 682,
+   "movie_slug": "hit-the-third-case",
+   "title": "HIT: The Third Case",
+   "year": 2025,
+   "kerala_gross": "₹71.3L"
+  }
+ ]
+}

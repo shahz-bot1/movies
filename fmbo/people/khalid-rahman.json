@@ -1,0 +1,56 @@
+{
+ "slug": "khalid-rahman",
+ "name": "Khalid Rahman",
+ "source_url": "https://fridaymatinee.in/people/khalid-rahman",
+ "captured_at": "2026-10-01T23:47:06.061603+00:00",
+ "person": {
+  "name": "Khalid Rahman",
+  "photo": "https://image.tmdb.org/t/p/w185/xxNeZBAEDCJetrSLQylxqQnhktB.jpg",
+  "role": "Director, actor, producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  },
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 357,
+   "movie_slug": "sulaikha-manzil",
+   "title": "Sulaikha Manzil",
+   "year": 2023,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 501,
+   "movie_slug": "manjummel-boys",
+   "title": "Manjummel Boys",
+   "year": 2024,
+   "kerala_gross": "₹55.0 Cr"
+  },
+  {
+   "movie_id": 1093,
+   "movie_slug": "i-nobody",
+   "title": "I, Nobody",
+   "year": 2026,
+   "kerala_gross": "₹6.6 Cr"
+  }
+ ]
+}

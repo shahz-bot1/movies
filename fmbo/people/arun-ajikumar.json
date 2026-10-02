@@ -1,0 +1,55 @@
+{
+ "slug": "arun-ajikumar",
+ "name": "Arun Ajikumar",
+ "source_url": "https://fridaymatinee.in/people/arun-ajikumar",
+ "captured_at": "2026-10-01T20:55:59.289181+00:00",
+ "person": {
+  "name": "Arun Ajikumar",
+  "photo": "https://image.tmdb.org/t/p/w185/aqLi5v00vZCf6GCqr84ZMYrh94q.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 335,
+   "movie_slug": "pookkaalam",
+   "title": "Pookkaalam",
+   "year": 2023,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 691,
+   "movie_slug": "padakkalam",
+   "title": "Padakkalam",
+   "year": 2025,
+   "kerala_gross": "₹10.6 Cr"
+  },
+  {
+   "movie_id": 693,
+   "movie_slug": "lovely",
+   "title": "Lovely",
+   "year": 2025,
+   "kerala_gross": "₹37.0L"
+  },
+  {
+   "movie_id": 876,
+   "movie_slug": "dies-irae",
+   "title": "Dies Irae",
+   "year": 2025,
+   "kerala_gross": "₹32.8 Cr"
+  },
+  {
+   "movie_id": 884,
+   "movie_slug": "sarvam-maya",
+   "title": "Sarvam Maya",
+   "year": 2025,
+   "kerala_gross": "₹70.3 Cr"
+  }
+ ]
+}

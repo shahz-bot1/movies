@@ -1,0 +1,46 @@
+{
+ "slug": "boban-samuel",
+ "name": "Boban Samuel",
+ "source_url": "https://fridaymatinee.in/people/boban-samuel",
+ "captured_at": "2026-10-01T21:21:00.265364+00:00",
+ "person": {
+  "name": "Boban Samuel",
+  "photo": "https://image.tmdb.org/t/p/w185/8ifY0eQoDpoEwuDbxOCighyLi2o.jpg",
+  "role": "Actor and director"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 244,
+   "movie_slug": "shefeekkinte-santhosham",
+   "title": "Shefeekkinte Santhosham",
+   "year": 2022,
+   "kerala_gross": "₹50.1L"
+  },
+  {
+   "movie_id": 406,
+   "movie_slug": "voice-of-sathyanathan",
+   "title": "Voice Of Sathyanathan",
+   "year": 2023,
+   "kerala_gross": "₹10.1 Cr"
+  },
+  {
+   "movie_id": 698,
+   "movie_slug": "azadi",
+   "title": "Azadi",
+   "year": 2025,
+   "kerala_gross": "₹56.9L"
+  }
+ ]
+}

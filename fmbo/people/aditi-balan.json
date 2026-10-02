@@ -1,0 +1,55 @@
+{
+ "slug": "aditi-balan",
+ "name": "Aditi Balan",
+ "source_url": "https://fridaymatinee.in/people/aditi-balan",
+ "captured_at": "2026-10-01T20:11:59.073328+00:00",
+ "person": {
+  "name": "Aditi Balan",
+  "photo": "https://image.tmdb.org/t/p/w185/1otmSjCB30YL9rFldV3kcnva6DR.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 227,
+   "movie_slug": "padavettu",
+   "title": "Padavettu",
+   "year": 2022,
+   "kerala_gross": "₹2.0 Cr"
+  },
+  {
+   "movie_id": 350,
+   "movie_slug": "shaakuntalam",
+   "title": "Shaakuntalam",
+   "year": 2023,
+   "kerala_gross": "₹4.2L"
+  },
+  {
+   "movie_id": 451,
+   "movie_slug": "vela",
+   "title": "Vela",
+   "year": 2023,
+   "kerala_gross": "₹36.4L"
+  },
+  {
+   "movie_id": 492,
+   "movie_slug": "captain-miller",
+   "title": "Captain Miller",
+   "year": 2024,
+   "kerala_gross": "₹3.3 Cr"
+  },
+  {
+   "movie_id": 1222,
+   "movie_slug": "g-d-n",
+   "title": "G.D.N",
+   "year": 2026,
+   "kerala_gross": "₹18.2L"
+  }
+ ]
+}

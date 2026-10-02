@@ -1,0 +1,48 @@
+{
+ "slug": "lawrence-sher",
+ "name": "Lawrence Sher",
+ "source_url": "https://fridaymatinee.in/people/lawrence-sher",
+ "captured_at": "2026-10-01T23:59:25.881102+00:00",
+ "person": {
+  "name": "Lawrence Sher",
+  "photo": "https://image.tmdb.org/t/p/w185/rcbHwQpmvw848ZvHaithgh7oNuF.jpg",
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 15,
+   "movie_slug": "joker",
+   "title": "Joker",
+   "year": 2019,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 224,
+   "movie_slug": "black-adam",
+   "title": "Black Adam",
+   "year": 2022,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 564,
+   "movie_slug": "joker-folie-a-deux",
+   "title": "Joker: Folie A Deux",
+   "year": 2024,
+   "kerala_gross": "₹59.0L"
+  },
+  {
+   "movie_id": 631,
+   "movie_slug": "the-bride",
+   "title": "The Bride",
+   "year": 2026,
+   "kerala_gross": "₹7.9L"
+  }
+ ]
+}

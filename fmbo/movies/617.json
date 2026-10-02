@@ -1,0 +1,736 @@
+{
+ "id": 617,
+ "slug": "mufasa-the-lion-king",
+ "source_url": "https://fridaymatinee.in/boxoffice/mufasa-the-lion-king-617",
+ "captured_at": "2026-10-01T18:17:00.087455+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 617,
+    "title": "Mufasa: The Lion King",
+    "img": "https://image.tmdb.org/t/p/original/9kNoxoZqpriNLh9OSECyBZc3DZW.jpg",
+    "released": "2024-12-20",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt13186482",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG",
+    "runtime": "118 min",
+    "genre": "Adventure, Family, Animation",
+    "plot": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+    "released": "2024-12-18",
+    "director": "Barry Jenkins",
+    "directorSlug": "barry-jenkins",
+    "actors": [
+     "Aaron Pierre",
+     "Kelvin Harrison Jr.",
+     "Tiffany Boone",
+     "Kagiso Lediga",
+     "Preston Nyman",
+     "Blue Ivy Carter"
+    ],
+    "awards": "1 win u0026 18 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 84907,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 2780,
+      "updatedAt": "2026-09-24T19:10:31.000Z"
+     },
+     "rt": "56%",
+     "metascore": 56,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aaron Pierre",
+     "character": "Mufasa (voice)",
+     "slug": "aaron-pierre",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg"
+    },
+    {
+     "name": "Kelvin Harrison Jr.",
+     "character": "Taka (voice)",
+     "slug": "kelvin-harrison-jr",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uRViX11fZQGmO9p91ZH7QVh2l5y.jpg"
+    },
+    {
+     "name": "Tiffany Boone",
+     "character": "Sarabi (voice)",
+     "slug": "tiffany-boone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9LwqRFdSzxVtnutDUg98YLq0bSz.jpg"
+    },
+    {
+     "name": "Kagiso Lediga",
+     "character": "Young Rafiki (voice)",
+     "slug": "kagiso-lediga",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nfqx3CqFVsAMelk6ry560SuN7Y0.jpg"
+    },
+    {
+     "name": "Preston Nyman",
+     "character": "Zazu (voice)",
+     "slug": "preston-nyman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eidKvLDCRw68tG3CN6fGhvHUnW.jpg"
+    },
+    {
+     "name": "Blue Ivy Carter",
+     "character": "Kiara (voice)",
+     "slug": "blue-ivy-carter",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mnaFedkdW9TFCkky7fiiT5dfXye.jpg"
+    },
+    {
+     "name": "John Kani",
+     "character": "Rafiki (voice)",
+     "slug": "john-kani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/g7tqg3q128a5O2qXMCwVnXsow9I.jpg"
+    },
+    {
+     "name": "Mads Mikkelsen",
+     "character": "Kiros (voice)",
+     "slug": "mads-mikkelsen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AsX4bdvZ8UCayWTmAf9lAqOA8V7.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Barry Jenkins",
+       "slug": "barry-jenkins"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jeff Nathanson",
+       "slug": "jeff-nathanson"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Dave Metzger",
+       "slug": "dave-metzger"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "James Laxton",
+       "slug": "james-laxton"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Joi McMillon",
+       "slug": "joi-mcmillon"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Adele Romanski",
+       "slug": "adele-romanski"
+      },
+      {
+       "name": "Mark Ceryak",
+       "slug": "mark-ceryak"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Walt Disney Pictures",
+     "slug": "walt-disney-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/wdrCwmRnLFJhEoH8GSfymY85KHT.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-12-20",
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 44004147.4,
+    "totalShows": 3414,
+    "totalDays": 83,
+    "openingDay": {
+     "day": 1,
+     "gross": 3024222,
+     "date": "2024-12-20"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 4575777.199999999,
+     "date": "2024-12-22"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-12-20"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 617,
+    "title": "Mufasa: The Lion King",
+    "img": "https://image.tmdb.org/t/p/original/9kNoxoZqpriNLh9OSECyBZc3DZW.jpg",
+    "released": "2024-12-20",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt13186482",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG",
+    "runtime": "118 min",
+    "genre": "Adventure, Family, Animation",
+    "plot": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+    "released": "2024-12-18",
+    "director": "Barry Jenkins",
+    "directorSlug": "barry-jenkins",
+    "actors": [
+     "Aaron Pierre",
+     "Kelvin Harrison Jr.",
+     "Tiffany Boone",
+     "Kagiso Lediga",
+     "Preston Nyman",
+     "Blue Ivy Carter"
+    ],
+    "awards": "1 win u0026 18 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 84907,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 2780,
+      "updatedAt": "2026-09-24T19:10:31.000Z"
+     },
+     "rt": "56%",
+     "metascore": 56,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aaron Pierre",
+     "character": "Mufasa (voice)",
+     "slug": "aaron-pierre",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg"
+    },
+    {
+     "name": "Kelvin Harrison Jr.",
+     "character": "Taka (voice)",
+     "slug": "kelvin-harrison-jr",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uRViX11fZQGmO9p91ZH7QVh2l5y.jpg"
+    },
+    {
+     "name": "Tiffany Boone",
+     "character": "Sarabi (voice)",
+     "slug": "tiffany-boone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9LwqRFdSzxVtnutDUg98YLq0bSz.jpg"
+    },
+    {
+     "name": "Kagiso Lediga",
+     "character": "Young Rafiki (voice)",
+     "slug": "kagiso-lediga",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nfqx3CqFVsAMelk6ry560SuN7Y0.jpg"
+    },
+    {
+     "name": "Preston Nyman",
+     "character": "Zazu (voice)",
+     "slug": "preston-nyman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eidKvLDCRw68tG3CN6fGhvHUnW.jpg"
+    },
+    {
+     "name": "Blue Ivy Carter",
+     "character": "Kiara (voice)",
+     "slug": "blue-ivy-carter",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mnaFedkdW9TFCkky7fiiT5dfXye.jpg"
+    },
+    {
+     "name": "John Kani",
+     "character": "Rafiki (voice)",
+     "slug": "john-kani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/g7tqg3q128a5O2qXMCwVnXsow9I.jpg"
+    },
+    {
+     "name": "Mads Mikkelsen",
+     "character": "Kiros (voice)",
+     "slug": "mads-mikkelsen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AsX4bdvZ8UCayWTmAf9lAqOA8V7.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Barry Jenkins",
+       "slug": "barry-jenkins"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jeff Nathanson",
+       "slug": "jeff-nathanson"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Dave Metzger",
+       "slug": "dave-metzger"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "James Laxton",
+       "slug": "james-laxton"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Joi McMillon",
+       "slug": "joi-mcmillon"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Adele Romanski",
+       "slug": "adele-romanski"
+      },
+      {
+       "name": "Mark Ceryak",
+       "slug": "mark-ceryak"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Walt Disney Pictures",
+     "slug": "walt-disney-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/wdrCwmRnLFJhEoH8GSfymY85KHT.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-12-20",
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2024-12-20",
+     "gross": 21422202.4,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1727,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-12-27",
+     "gross": 12956441,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 869,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-03",
+     "gross": 4142575,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 410,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-10",
+     "gross": 2084987,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 118,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-17",
+     "gross": 1409884,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 101,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-24",
+     "gross": 939044,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 80,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-31",
+     "gross": 498526,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 56,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-07",
+     "gross": 119799,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 10,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-14",
+     "gross": 132454,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 14,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-21",
+     "gross": 157381,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 12,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-28",
+     "gross": 85207,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 10,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-03-07",
+     "gross": 55647,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 7,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 44004147.4,
+    "totalShows": 3414,
+    "totalDays": 12,
+    "openingDay": {
+     "day": 1,
+     "gross": 21422202.4
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 21422202.4
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-12-20"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 617,
+    "title": "Mufasa: The Lion King",
+    "img": "https://image.tmdb.org/t/p/original/9kNoxoZqpriNLh9OSECyBZc3DZW.jpg",
+    "released": "2024-12-20",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt13186482",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG",
+    "runtime": "118 min",
+    "genre": "Adventure, Family, Animation",
+    "plot": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+    "released": "2024-12-18",
+    "director": "Barry Jenkins",
+    "directorSlug": "barry-jenkins",
+    "actors": [
+     "Aaron Pierre",
+     "Kelvin Harrison Jr.",
+     "Tiffany Boone",
+     "Kagiso Lediga",
+     "Preston Nyman",
+     "Blue Ivy Carter"
+    ],
+    "awards": "1 win u0026 18 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 84907,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 2780,
+      "updatedAt": "2026-09-24T19:10:31.000Z"
+     },
+     "rt": "56%",
+     "metascore": 56,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aaron Pierre",
+     "character": "Mufasa (voice)",
+     "slug": "aaron-pierre",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg"
+    },
+    {
+     "name": "Kelvin Harrison Jr.",
+     "character": "Taka (voice)",
+     "slug": "kelvin-harrison-jr",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uRViX11fZQGmO9p91ZH7QVh2l5y.jpg"
+    },
+    {
+     "name": "Tiffany Boone",
+     "character": "Sarabi (voice)",
+     "slug": "tiffany-boone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9LwqRFdSzxVtnutDUg98YLq0bSz.jpg"
+    },
+    {
+     "name": "Kagiso Lediga",
+     "character": "Young Rafiki (voice)",
+     "slug": "kagiso-lediga",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nfqx3CqFVsAMelk6ry560SuN7Y0.jpg"
+    },
+    {
+     "name": "Preston Nyman",
+     "character": "Zazu (voice)",
+     "slug": "preston-nyman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eidKvLDCRw68tG3CN6fGhvHUnW.jpg"
+    },
+    {
+     "name": "Blue Ivy Carter",
+     "character": "Kiara (voice)",
+     "slug": "blue-ivy-carter",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mnaFedkdW9TFCkky7fiiT5dfXye.jpg"
+    },
+    {
+     "name": "John Kani",
+     "character": "Rafiki (voice)",
+     "slug": "john-kani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/g7tqg3q128a5O2qXMCwVnXsow9I.jpg"
+    },
+    {
+     "name": "Mads Mikkelsen",
+     "character": "Kiros (voice)",
+     "slug": "mads-mikkelsen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AsX4bdvZ8UCayWTmAf9lAqOA8V7.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Barry Jenkins",
+       "slug": "barry-jenkins"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jeff Nathanson",
+       "slug": "jeff-nathanson"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Dave Metzger",
+       "slug": "dave-metzger"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "James Laxton",
+       "slug": "james-laxton"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Joi McMillon",
+       "slug": "joi-mcmillon"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Adele Romanski",
+       "slug": "adele-romanski"
+      },
+      {
+       "name": "Mark Ceryak",
+       "slug": "mark-ceryak"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Walt Disney Pictures",
+     "slug": "walt-disney-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/wdrCwmRnLFJhEoH8GSfymY85KHT.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-12-20",
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 44004147.4,
+    "totalShows": 3414,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 19625198,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 19625198,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-12-20"
+   }
+  }
+ }
+}

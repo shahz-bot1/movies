@@ -1,0 +1,1057 @@
+{
+ "id": 985,
+ "slug": "mercy",
+ "source_url": "https://fridaymatinee.in/boxoffice/mercy-985",
+ "captured_at": "2026-10-01T18:54:47.332898+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 985,
+    "title": "Mercy",
+    "img": "https://image.tmdb.org/t/p/original/80feOq4uLz4fVQjbXABELpmloAN.jpg",
+    "released": "2026-01-23",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31050594",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "99 min",
+    "genre": "Science Fiction, Action, Thriller",
+    "plot": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
+    "released": "2026-01-20",
+    "director": "Timur Bekmambetov",
+    "directorSlug": "timur-bekmambetov",
+    "actors": [
+     "Chris Pratt",
+     "Rebecca Ferguson",
+     "Kali Reis",
+     "Kylie Rogers",
+     "Chris Sullivan",
+     "Jeff Pierre"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 82565,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.1",
+      "votes": 1712,
+      "updatedAt": "2026-09-24T13:10:58.000Z"
+     },
+     "rt": null,
+     "metascore": 34,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Chris Pratt",
+     "character": "Chris Raven",
+     "slug": "chris-pratt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/872Hzdq95gsbMRabsColTW3TLrD.jpg"
+    },
+    {
+     "name": "Rebecca Ferguson",
+     "character": "Judge Maddox",
+     "slug": "rebecca-ferguson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lJloTOheuQSirSLXNA3JHsrMNfH.jpg"
+    },
+    {
+     "name": "Kali Reis",
+     "character": "Jacqueline 'Jaq' Diallo",
+     "slug": "kali-reis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qJcXQKgaq11aNNPPok0m4yfP2Og.jpg"
+    },
+    {
+     "name": "Kylie Rogers",
+     "character": "Britt Raven",
+     "slug": "kylie-rogers",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9c9CPWTT8a2GXMab8vuSxCJ0CcW.jpg"
+    },
+    {
+     "name": "Chris Sullivan",
+     "character": "Rob Nelson",
+     "slug": "chris-sullivan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gKZ9xSFrDzUPv27iAkMpH6Qf0Sk.jpg"
+    },
+    {
+     "name": "Jeff Pierre",
+     "character": "Patrick Burke",
+     "slug": "jeff-pierre",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mKaKc7dviX6q0d7EJpzyHgtdBC7.jpg"
+    },
+    {
+     "name": "Annabelle Wallis",
+     "character": "Nicole Raven",
+     "slug": "annabelle-wallis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b6PltW1e18BdmRz3nKZ7ID9uZ24.jpg"
+    },
+    {
+     "name": "Rafi Gavron",
+     "character": "Holt Charles",
+     "slug": "rafi-gavron",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/avCWoO9fLwEhbT6cvu0TJcSj49g.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Timur Bekmambetov",
+       "slug": "timur-bekmambetov"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Marco van Belle",
+       "slug": "marco-van-belle"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ramin Djawadi",
+       "slug": "ramin-djawadi"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Khalid Mohtaseb",
+       "slug": "khalid-mohtaseb"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Austin Keeling",
+       "slug": "austin-keeling"
+      },
+      {
+       "name": "Lam T. Nguyen",
+       "slug": "lam-t-nguyen"
+      },
+      {
+       "name": "Dody Dorn",
+       "slug": "dody-dorn"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Timur Bekmambetov",
+       "slug": "timur-bekmambetov"
+      },
+      {
+       "name": "Charles Roven",
+       "slug": "charles-roven"
+      },
+      {
+       "name": "Majd Nassif",
+       "slug": "majd-nassif"
+      },
+      {
+       "name": "Robert Amidon",
+       "slug": "robert-amidon"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Atlas Entertainment",
+     "slug": "atlas-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/aRmHe6GWxYMRCQljF75rn2B9Gv8.png"
+    },
+    {
+     "name": "Amazon MGM Studios",
+     "slug": "amazon-mgm-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+     "name": "Bazelevs",
+     "slug": "bazelevs",
+     "logo": "https://image.tmdb.org/t/p/w185/4dtmZKPLHzIALpGbdeSNX6Rw1p3.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-02-17",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-01-30": [
+     {
+      "id": 886,
+      "title": "Valathu Vashathe Kallan",
+      "img": "https://image.tmdb.org/t/p/original/p0kze6jxVm5qSulviLtXBniwb3d.jpg"
+     },
+     {
+      "id": 987,
+      "title": "Prakambanam",
+      "img": "https://image.tmdb.org/t/p/original/tTHiAMf4fKB5jL8ZKo6N8Pjm6LN.jpg"
+     },
+     {
+      "id": 988,
+      "title": "Mardaani 3",
+      "img": "https://image.tmdb.org/t/p/original/jLo8qcDOw9CD1COzMLBouOqHtqX.jpg"
+     }
+    ],
+    "2026-01-23": [
+     {
+      "id": 969,
+      "title": "Baby Girl",
+      "img": "https://image.tmdb.org/t/p/original/nEyEFVdlmUdapDl77704aR8o59D.jpg"
+     },
+     {
+      "id": 980,
+      "title": "Magic Mushrooms",
+      "img": "https://image.tmdb.org/t/p/original/pKszcXMCZxAut8lkRanpVEJfZLc.jpg"
+     },
+     {
+      "id": 981,
+      "title": "Border 2",
+      "img": "https://image.tmdb.org/t/p/original/hju9XncHxUxUS1GAJ4YqpdFCa5t.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-01-23",
+     "gross": 65540,
+     "sold": 290,
+     "unsold": 3811,
+     "shows": 26,
+     "occ": 7.07,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 65540,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-01-24",
+     "gross": 108000,
+     "sold": 559,
+     "unsold": 1979,
+     "shows": 19,
+     "occ": 22.03,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 173540,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-01-25",
+     "gross": 44065,
+     "sold": 171,
+     "unsold": 1284,
+     "shows": 12,
+     "occ": 11.75,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 217605,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-01-26",
+     "gross": 17550,
+     "sold": 59,
+     "unsold": 481,
+     "shows": 5,
+     "occ": 10.93,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 235155,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-01-27",
+     "gross": 9938,
+     "sold": 37,
+     "unsold": 798,
+     "shows": 7,
+     "occ": 4.43,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 245093,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-01-28",
+     "gross": 13970,
+     "sold": 60,
+     "unsold": 857,
+     "shows": 8,
+     "occ": 6.54,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 259063,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-01-29",
+     "gross": 15410,
+     "sold": 53,
+     "unsold": 902,
+     "shows": 8,
+     "occ": 5.55,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 274473,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-01-30",
+     "gross": 260,
+     "sold": 2,
+     "unsold": 102,
+     "shows": 1,
+     "occ": 1.92,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 274733,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-01-31",
+     "gross": 3450,
+     "sold": 21,
+     "unsold": 83,
+     "shows": 1,
+     "occ": 20.19,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 278183,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-01",
+     "gross": 3770,
+     "sold": 23,
+     "unsold": 81,
+     "shows": 1,
+     "occ": 22.12,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 281953,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 281953,
+    "totalShows": 88,
+    "totalSeats": 11653,
+    "totalSold": 1275,
+    "avgOcc": "10.9",
+    "totalDays": 10,
+    "totalHousefull": 4,
+    "totalAlmost": 4,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 2,
+     "gross": 108000,
+     "date": "2026-01-24"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 65540,
+     "date": "2026-01-23"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "10:3770:281953"
+  },
+  "week": {
+   "movie": {
+    "id": 985,
+    "title": "Mercy",
+    "img": "https://image.tmdb.org/t/p/original/80feOq4uLz4fVQjbXABELpmloAN.jpg",
+    "released": "2026-01-23",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31050594",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "99 min",
+    "genre": "Science Fiction, Action, Thriller",
+    "plot": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
+    "released": "2026-01-20",
+    "director": "Timur Bekmambetov",
+    "directorSlug": "timur-bekmambetov",
+    "actors": [
+     "Chris Pratt",
+     "Rebecca Ferguson",
+     "Kali Reis",
+     "Kylie Rogers",
+     "Chris Sullivan",
+     "Jeff Pierre"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 82565,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.1",
+      "votes": 1712,
+      "updatedAt": "2026-09-24T13:10:58.000Z"
+     },
+     "rt": null,
+     "metascore": 34,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Chris Pratt",
+     "character": "Chris Raven",
+     "slug": "chris-pratt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/872Hzdq95gsbMRabsColTW3TLrD.jpg"
+    },
+    {
+     "name": "Rebecca Ferguson",
+     "character": "Judge Maddox",
+     "slug": "rebecca-ferguson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lJloTOheuQSirSLXNA3JHsrMNfH.jpg"
+    },
+    {
+     "name": "Kali Reis",
+     "character": "Jacqueline 'Jaq' Diallo",
+     "slug": "kali-reis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qJcXQKgaq11aNNPPok0m4yfP2Og.jpg"
+    },
+    {
+     "name": "Kylie Rogers",
+     "character": "Britt Raven",
+     "slug": "kylie-rogers",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9c9CPWTT8a2GXMab8vuSxCJ0CcW.jpg"
+    },
+    {
+     "name": "Chris Sullivan",
+     "character": "Rob Nelson",
+     "slug": "chris-sullivan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gKZ9xSFrDzUPv27iAkMpH6Qf0Sk.jpg"
+    },
+    {
+     "name": "Jeff Pierre",
+     "character": "Patrick Burke",
+     "slug": "jeff-pierre",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mKaKc7dviX6q0d7EJpzyHgtdBC7.jpg"
+    },
+    {
+     "name": "Annabelle Wallis",
+     "character": "Nicole Raven",
+     "slug": "annabelle-wallis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b6PltW1e18BdmRz3nKZ7ID9uZ24.jpg"
+    },
+    {
+     "name": "Rafi Gavron",
+     "character": "Holt Charles",
+     "slug": "rafi-gavron",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/avCWoO9fLwEhbT6cvu0TJcSj49g.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Timur Bekmambetov",
+       "slug": "timur-bekmambetov"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Marco van Belle",
+       "slug": "marco-van-belle"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ramin Djawadi",
+       "slug": "ramin-djawadi"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Khalid Mohtaseb",
+       "slug": "khalid-mohtaseb"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Austin Keeling",
+       "slug": "austin-keeling"
+      },
+      {
+       "name": "Lam T. Nguyen",
+       "slug": "lam-t-nguyen"
+      },
+      {
+       "name": "Dody Dorn",
+       "slug": "dody-dorn"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Timur Bekmambetov",
+       "slug": "timur-bekmambetov"
+      },
+      {
+       "name": "Charles Roven",
+       "slug": "charles-roven"
+      },
+      {
+       "name": "Majd Nassif",
+       "slug": "majd-nassif"
+      },
+      {
+       "name": "Robert Amidon",
+       "slug": "robert-amidon"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Atlas Entertainment",
+     "slug": "atlas-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/aRmHe6GWxYMRCQljF75rn2B9Gv8.png"
+    },
+    {
+     "name": "Amazon MGM Studios",
+     "slug": "amazon-mgm-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+     "name": "Bazelevs",
+     "slug": "bazelevs",
+     "logo": "https://image.tmdb.org/t/p/w185/4dtmZKPLHzIALpGbdeSNX6Rw1p3.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-02-17",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-01-30": [
+     {
+      "id": 886,
+      "title": "Valathu Vashathe Kallan",
+      "img": "https://image.tmdb.org/t/p/original/p0kze6jxVm5qSulviLtXBniwb3d.jpg"
+     },
+     {
+      "id": 987,
+      "title": "Prakambanam",
+      "img": "https://image.tmdb.org/t/p/original/tTHiAMf4fKB5jL8ZKo6N8Pjm6LN.jpg"
+     },
+     {
+      "id": 988,
+      "title": "Mardaani 3",
+      "img": "https://image.tmdb.org/t/p/original/jLo8qcDOw9CD1COzMLBouOqHtqX.jpg"
+     }
+    ],
+    "2026-01-23": [
+     {
+      "id": 969,
+      "title": "Baby Girl",
+      "img": "https://image.tmdb.org/t/p/original/nEyEFVdlmUdapDl77704aR8o59D.jpg"
+     },
+     {
+      "id": 980,
+      "title": "Magic Mushrooms",
+      "img": "https://image.tmdb.org/t/p/original/pKszcXMCZxAut8lkRanpVEJfZLc.jpg"
+     },
+     {
+      "id": 981,
+      "title": "Border 2",
+      "img": "https://image.tmdb.org/t/p/original/hju9XncHxUxUS1GAJ4YqpdFCa5t.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-01-23",
+     "gross": 274473,
+     "sold": 1229,
+     "unsold": 10112,
+     "shows": 85,
+     "occ": 10.84,
+     "hf": "4",
+     "almost": "4",
+     "ff": "0",
+     "cumul": 274473,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-01-30",
+     "gross": 7480,
+     "sold": 46,
+     "unsold": 266,
+     "shows": 3,
+     "occ": 14.74,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 281953,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 281953,
+    "totalShows": 88,
+    "totalSeats": 11653,
+    "totalSold": 1275,
+    "avgOcc": "10.9",
+    "totalDays": 2,
+    "totalHousefull": 4,
+    "totalAlmost": 4,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 274473
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 274473
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "2:7480:281953"
+  },
+  "district": {
+   "movie": {
+    "id": 985,
+    "title": "Mercy",
+    "img": "https://image.tmdb.org/t/p/original/80feOq4uLz4fVQjbXABELpmloAN.jpg",
+    "released": "2026-01-23",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31050594",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "99 min",
+    "genre": "Science Fiction, Action, Thriller",
+    "plot": "In the near future, a detective stands on trial accused of murdering his wife. He has ninety minutes to prove his innocence to the advanced AI Judge he once championed, before it determines his fate.",
+    "released": "2026-01-20",
+    "director": "Timur Bekmambetov",
+    "directorSlug": "timur-bekmambetov",
+    "actors": [
+     "Chris Pratt",
+     "Rebecca Ferguson",
+     "Kali Reis",
+     "Kylie Rogers",
+     "Chris Sullivan",
+     "Jeff Pierre"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 82565,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.1",
+      "votes": 1712,
+      "updatedAt": "2026-09-24T13:10:58.000Z"
+     },
+     "rt": null,
+     "metascore": 34,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Chris Pratt",
+     "character": "Chris Raven",
+     "slug": "chris-pratt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/872Hzdq95gsbMRabsColTW3TLrD.jpg"
+    },
+    {
+     "name": "Rebecca Ferguson",
+     "character": "Judge Maddox",
+     "slug": "rebecca-ferguson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lJloTOheuQSirSLXNA3JHsrMNfH.jpg"
+    },
+    {
+     "name": "Kali Reis",
+     "character": "Jacqueline 'Jaq' Diallo",
+     "slug": "kali-reis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qJcXQKgaq11aNNPPok0m4yfP2Og.jpg"
+    },
+    {
+     "name": "Kylie Rogers",
+     "character": "Britt Raven",
+     "slug": "kylie-rogers",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9c9CPWTT8a2GXMab8vuSxCJ0CcW.jpg"
+    },
+    {
+     "name": "Chris Sullivan",
+     "character": "Rob Nelson",
+     "slug": "chris-sullivan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gKZ9xSFrDzUPv27iAkMpH6Qf0Sk.jpg"
+    },
+    {
+     "name": "Jeff Pierre",
+     "character": "Patrick Burke",
+     "slug": "jeff-pierre",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mKaKc7dviX6q0d7EJpzyHgtdBC7.jpg"
+    },
+    {
+     "name": "Annabelle Wallis",
+     "character": "Nicole Raven",
+     "slug": "annabelle-wallis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b6PltW1e18BdmRz3nKZ7ID9uZ24.jpg"
+    },
+    {
+     "name": "Rafi Gavron",
+     "character": "Holt Charles",
+     "slug": "rafi-gavron",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/avCWoO9fLwEhbT6cvu0TJcSj49g.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Timur Bekmambetov",
+       "slug": "timur-bekmambetov"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Marco van Belle",
+       "slug": "marco-van-belle"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ramin Djawadi",
+       "slug": "ramin-djawadi"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Khalid Mohtaseb",
+       "slug": "khalid-mohtaseb"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Austin Keeling",
+       "slug": "austin-keeling"
+      },
+      {
+       "name": "Lam T. Nguyen",
+       "slug": "lam-t-nguyen"
+      },
+      {
+       "name": "Dody Dorn",
+       "slug": "dody-dorn"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Timur Bekmambetov",
+       "slug": "timur-bekmambetov"
+      },
+      {
+       "name": "Charles Roven",
+       "slug": "charles-roven"
+      },
+      {
+       "name": "Majd Nassif",
+       "slug": "majd-nassif"
+      },
+      {
+       "name": "Robert Amidon",
+       "slug": "robert-amidon"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Atlas Entertainment",
+     "slug": "atlas-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/aRmHe6GWxYMRCQljF75rn2B9Gv8.png"
+    },
+    {
+     "name": "Amazon MGM Studios",
+     "slug": "amazon-mgm-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+     "name": "Bazelevs",
+     "slug": "bazelevs",
+     "logo": "https://image.tmdb.org/t/p/w185/4dtmZKPLHzIALpGbdeSNX6Rw1p3.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-02-17",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-01-30": [
+     {
+      "id": 886,
+      "title": "Valathu Vashathe Kallan",
+      "img": "https://image.tmdb.org/t/p/original/p0kze6jxVm5qSulviLtXBniwb3d.jpg"
+     },
+     {
+      "id": 987,
+      "title": "Prakambanam",
+      "img": "https://image.tmdb.org/t/p/original/tTHiAMf4fKB5jL8ZKo6N8Pjm6LN.jpg"
+     },
+     {
+      "id": 988,
+      "title": "Mardaani 3",
+      "img": "https://image.tmdb.org/t/p/original/jLo8qcDOw9CD1COzMLBouOqHtqX.jpg"
+     }
+    ],
+    "2026-01-23": [
+     {
+      "id": 969,
+      "title": "Baby Girl",
+      "img": "https://image.tmdb.org/t/p/original/nEyEFVdlmUdapDl77704aR8o59D.jpg"
+     },
+     {
+      "id": 980,
+      "title": "Magic Mushrooms",
+      "img": "https://image.tmdb.org/t/p/original/pKszcXMCZxAut8lkRanpVEJfZLc.jpg"
+     },
+     {
+      "id": 981,
+      "title": "Border 2",
+      "img": "https://image.tmdb.org/t/p/original/hju9XncHxUxUS1GAJ4YqpdFCa5t.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 112004,
+     "sold": 484,
+     "unsold": 3868,
+     "shows": 35,
+     "occ": 11.12,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 112004,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Trivandrum",
+     "gross": 55640,
+     "sold": 174,
+     "unsold": 1223,
+     "shows": 16,
+     "occ": 12.46,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 167644,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 34959,
+     "sold": 158,
+     "unsold": 2028,
+     "shows": 15,
+     "occ": 7.23,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 202603,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Pathanamthitta",
+     "gross": 32505,
+     "sold": 197,
+     "unsold": 394,
+     "shows": 3,
+     "occ": 33.33,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 235108,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kottayam",
+     "gross": 32340,
+     "sold": 196,
+     "unsold": 894,
+     "shows": 5,
+     "occ": 17.98,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 267448,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Thrissur",
+     "gross": 14505,
+     "sold": 66,
+     "unsold": 1371,
+     "shows": 11,
+     "occ": 4.59,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 281953,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kollam",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 600,
+     "shows": 3,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 281953,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 281953,
+    "totalShows": 88,
+    "totalSeats": 11653,
+    "totalSold": 1275,
+    "avgOcc": "10.9",
+    "totalDays": 7,
+    "totalHousefull": 4,
+    "totalAlmost": 4,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 112004,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 112004,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "7:0:281953"
+  }
+ }
+}

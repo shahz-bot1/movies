@@ -1,0 +1,55 @@
+{
+ "slug": "tini-tom",
+ "name": "Tini Tom",
+ "source_url": "https://fridaymatinee.in/people/tini-tom",
+ "captured_at": "2026-10-02T11:23:44.227314+00:00",
+ "person": {
+  "name": "Tini Tom",
+  "photo": "https://image.tmdb.org/t/p/w185/u4O7nKDY5cWN3Fr7INMlVNXPhYU.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 55,
+   "movie_slug": "big-brother",
+   "title": "Big Brother ",
+   "year": 2020,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 166,
+   "movie_slug": "paappan",
+   "title": "Paappan",
+   "year": 2022,
+   "kerala_gross": "₹13.4 Cr"
+  },
+  {
+   "movie_id": 470,
+   "movie_slug": "antony",
+   "title": "Antony",
+   "year": 2023,
+   "kerala_gross": "₹5.5 Cr"
+  },
+  {
+   "movie_id": 566,
+   "movie_slug": "bad-boyz",
+   "title": "Bad Boyz",
+   "year": 2024,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 1257,
+   "movie_slug": "ottam-thullal",
+   "title": "Ottam Thullal",
+   "year": 2026,
+   "kerala_gross": "₹17.5L"
+  }
+ ]
+}

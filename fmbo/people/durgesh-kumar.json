@@ -1,0 +1,48 @@
+{
+ "slug": "durgesh-kumar",
+ "name": "Durgesh Kumar",
+ "source_url": "https://fridaymatinee.in/people/durgesh-kumar",
+ "captured_at": "2026-10-01T22:07:27.466000+00:00",
+ "person": {
+  "name": "Durgesh Kumar",
+  "photo": "https://image.tmdb.org/t/p/w185/nLt1cgrxIapn7fRVwFjqnSFXc1x.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 840,
+   "movie_slug": "nishaanchi",
+   "title": "Nishaanchi",
+   "year": 2025,
+   "kerala_gross": "₹52K"
+  },
+  {
+   "movie_id": 1109,
+   "movie_slug": "pati-patni-aur-woh",
+   "title": "Pati Patni Aur Woh",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 1124,
+   "movie_slug": "the-great-grand-superhero",
+   "title": "The Great Grand Superhero",
+   "year": 2026,
+   "kerala_gross": "₹40K"
+  },
+  {
+   "movie_id": 1320,
+   "movie_slug": "the-vvaan",
+   "title": "The Vvaan",
+   "year": 2026,
+   "kerala_gross": "₹7.4L"
+  }
+ ]
+}

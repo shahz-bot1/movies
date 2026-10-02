@@ -1,0 +1,891 @@
+{
+ "id": 983,
+ "slug": "primate",
+ "source_url": "https://fridaymatinee.in/boxoffice/primate-983",
+ "captured_at": "2026-10-01T18:28:24.598827+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 983,
+    "title": "Primate",
+    "img": "https://image.tmdb.org/t/p/original/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg",
+    "released": "2026-01-23",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33028778",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "89 min",
+    "genre": "Horror, Thriller",
+    "plot": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
+    "released": "2026-01-01",
+    "director": "Johannes Roberts",
+    "directorSlug": "johannes-roberts",
+    "actors": [
+     "Johnny Sequoyah",
+     "Jessica Alexander",
+     "Troy Kotsur",
+     "Victoria Wyant",
+     "Gia Hunter",
+     "Benjamin Cheng"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 37485,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.5",
+      "votes": 900,
+      "updatedAt": "2026-09-24T13:11:00.000Z"
+     },
+     "rt": null,
+     "metascore": 58,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Johnny Sequoyah",
+     "character": "Lucy",
+     "slug": "johnny-sequoyah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/taFfjOB4lPAx75kJo9yFylKT1ek.jpg"
+    },
+    {
+     "name": "Jessica Alexander",
+     "character": "Hannah",
+     "slug": "jessica-alexander",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5PsoZ9aN2cTXkWyhIALluBrbiWy.jpg"
+    },
+    {
+     "name": "Troy Kotsur",
+     "character": "Adam",
+     "slug": "troy-kotsur",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/24K3og12jGBGL9dqH5OYFdjF9wu.jpg"
+    },
+    {
+     "name": "Victoria Wyant",
+     "character": "Kate",
+     "slug": "victoria-wyant",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/et8teE6ZMqdWGWYj3aDIMD6Yhvt.jpg"
+    },
+    {
+     "name": "Gia Hunter",
+     "character": "Erin",
+     "slug": "gia-hunter",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fK7xZRr1qhCjby0njwhsfgLyW0P.jpg"
+    },
+    {
+     "name": "Benjamin Cheng",
+     "character": "Nick",
+     "slug": "benjamin-cheng",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/onxgW3w20YHlNhB8CBQ714zytOL.jpg"
+    },
+    {
+     "name": "Charlie Mann",
+     "character": "Drew",
+     "slug": "charlie-mann",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/t6U480woJ4xFkginrqjUKbDJTqh.jpg"
+    },
+    {
+     "name": "Tienne Simon",
+     "character": "Brad",
+     "slug": "tienne-simon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/964o0kGA0zoj2DVpjX8q188ZDcK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Johannes Roberts",
+       "slug": "johannes-roberts"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ernest Riera",
+       "slug": "ernest-riera"
+      },
+      {
+       "name": "Johannes Roberts",
+       "slug": "johannes-roberts"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Adrian Johnston",
+       "slug": "adrian-johnston"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Stephen Murphy",
+       "slug": "stephen-murphy"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Peter Gvozdas",
+       "slug": "peter-gvozdas"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "John Hodges",
+       "slug": "john-hodges"
+      },
+      {
+       "name": "Bradley Pilz",
+       "slug": "bradley-pilz"
+      },
+      {
+       "name": "Walter Hamada",
+       "slug": "walter-hamada"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "18Hz Productions",
+     "slug": "18hz-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/27MdBWUI30G7TTcKIFRhZo1DvdE.png"
+    },
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-02-10",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-01-23": [
+     {
+      "id": 969,
+      "title": "Baby Girl",
+      "img": "https://image.tmdb.org/t/p/original/nEyEFVdlmUdapDl77704aR8o59D.jpg"
+     },
+     {
+      "id": 980,
+      "title": "Magic Mushrooms",
+      "img": "https://image.tmdb.org/t/p/original/pKszcXMCZxAut8lkRanpVEJfZLc.jpg"
+     },
+     {
+      "id": 981,
+      "title": "Border 2",
+      "img": "https://image.tmdb.org/t/p/original/hju9XncHxUxUS1GAJ4YqpdFCa5t.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-01-23",
+     "gross": 19420,
+     "sold": 83,
+     "unsold": 1605,
+     "shows": 12,
+     "occ": 4.92,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 19420,
+     "lastUpdatedAt": "2026-01-23 22:43:00"
+    },
+    {
+     "label": "2026-01-24",
+     "gross": 25580,
+     "sold": 117,
+     "unsold": 1403,
+     "shows": 11,
+     "occ": 7.7,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 45000,
+     "lastUpdatedAt": "2026-01-24 22:43:00"
+    },
+    {
+     "label": "2026-01-25",
+     "gross": 59480,
+     "sold": 269,
+     "unsold": 1364,
+     "shows": 12,
+     "occ": 16.47,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 104480,
+     "lastUpdatedAt": "2026-01-25 21:03:00"
+    },
+    {
+     "label": "2026-01-26",
+     "gross": 20760,
+     "sold": 94,
+     "unsold": 951,
+     "shows": 7,
+     "occ": 9,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125240,
+     "lastUpdatedAt": "2026-01-26 23:13:00"
+    },
+    {
+     "label": "2026-01-27",
+     "gross": 20799,
+     "sold": 160,
+     "unsold": 960,
+     "shows": 8,
+     "occ": 14.29,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 146039,
+     "lastUpdatedAt": "2026-01-27 23:13:00"
+    },
+    {
+     "label": "2026-01-28",
+     "gross": 15390,
+     "sold": 71,
+     "unsold": 1229,
+     "shows": 9,
+     "occ": 5.46,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 161429,
+     "lastUpdatedAt": "2026-01-28 23:13:00"
+    },
+    {
+     "label": "2026-01-29",
+     "gross": 15528,
+     "sold": 73,
+     "unsold": 1106,
+     "shows": 8,
+     "occ": 6.19,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 176957,
+     "lastUpdatedAt": "2026-01-29 23:13:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 176957,
+    "totalShows": 67,
+    "totalSeats": 9485,
+    "totalSold": 867,
+    "avgOcc": "9.1",
+    "totalDays": 7,
+    "totalHousefull": 1,
+    "totalAlmost": 1,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 3,
+     "gross": 59480,
+     "date": "2026-01-25"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 19420,
+     "date": "2026-01-23"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "7:15528:176957"
+  },
+  "week": {
+   "movie": {
+    "id": 983,
+    "title": "Primate",
+    "img": "https://image.tmdb.org/t/p/original/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg",
+    "released": "2026-01-23",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33028778",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "89 min",
+    "genre": "Horror, Thriller",
+    "plot": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
+    "released": "2026-01-01",
+    "director": "Johannes Roberts",
+    "directorSlug": "johannes-roberts",
+    "actors": [
+     "Johnny Sequoyah",
+     "Jessica Alexander",
+     "Troy Kotsur",
+     "Victoria Wyant",
+     "Gia Hunter",
+     "Benjamin Cheng"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 37485,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.5",
+      "votes": 900,
+      "updatedAt": "2026-09-24T13:11:00.000Z"
+     },
+     "rt": null,
+     "metascore": 58,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Johnny Sequoyah",
+     "character": "Lucy",
+     "slug": "johnny-sequoyah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/taFfjOB4lPAx75kJo9yFylKT1ek.jpg"
+    },
+    {
+     "name": "Jessica Alexander",
+     "character": "Hannah",
+     "slug": "jessica-alexander",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5PsoZ9aN2cTXkWyhIALluBrbiWy.jpg"
+    },
+    {
+     "name": "Troy Kotsur",
+     "character": "Adam",
+     "slug": "troy-kotsur",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/24K3og12jGBGL9dqH5OYFdjF9wu.jpg"
+    },
+    {
+     "name": "Victoria Wyant",
+     "character": "Kate",
+     "slug": "victoria-wyant",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/et8teE6ZMqdWGWYj3aDIMD6Yhvt.jpg"
+    },
+    {
+     "name": "Gia Hunter",
+     "character": "Erin",
+     "slug": "gia-hunter",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fK7xZRr1qhCjby0njwhsfgLyW0P.jpg"
+    },
+    {
+     "name": "Benjamin Cheng",
+     "character": "Nick",
+     "slug": "benjamin-cheng",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/onxgW3w20YHlNhB8CBQ714zytOL.jpg"
+    },
+    {
+     "name": "Charlie Mann",
+     "character": "Drew",
+     "slug": "charlie-mann",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/t6U480woJ4xFkginrqjUKbDJTqh.jpg"
+    },
+    {
+     "name": "Tienne Simon",
+     "character": "Brad",
+     "slug": "tienne-simon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/964o0kGA0zoj2DVpjX8q188ZDcK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Johannes Roberts",
+       "slug": "johannes-roberts"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ernest Riera",
+       "slug": "ernest-riera"
+      },
+      {
+       "name": "Johannes Roberts",
+       "slug": "johannes-roberts"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Adrian Johnston",
+       "slug": "adrian-johnston"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Stephen Murphy",
+       "slug": "stephen-murphy"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Peter Gvozdas",
+       "slug": "peter-gvozdas"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "John Hodges",
+       "slug": "john-hodges"
+      },
+      {
+       "name": "Bradley Pilz",
+       "slug": "bradley-pilz"
+      },
+      {
+       "name": "Walter Hamada",
+       "slug": "walter-hamada"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "18Hz Productions",
+     "slug": "18hz-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/27MdBWUI30G7TTcKIFRhZo1DvdE.png"
+    },
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-02-10",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-01-23": [
+     {
+      "id": 969,
+      "title": "Baby Girl",
+      "img": "https://image.tmdb.org/t/p/original/nEyEFVdlmUdapDl77704aR8o59D.jpg"
+     },
+     {
+      "id": 980,
+      "title": "Magic Mushrooms",
+      "img": "https://image.tmdb.org/t/p/original/pKszcXMCZxAut8lkRanpVEJfZLc.jpg"
+     },
+     {
+      "id": 981,
+      "title": "Border 2",
+      "img": "https://image.tmdb.org/t/p/original/hju9XncHxUxUS1GAJ4YqpdFCa5t.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-01-23",
+     "gross": 176957,
+     "sold": 867,
+     "unsold": 8618,
+     "shows": 67,
+     "occ": 9.14,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 176957,
+     "lastUpdatedAt": "2026-01-29 23:13:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 176957,
+    "totalShows": 67,
+    "totalSeats": 9485,
+    "totalSold": 867,
+    "avgOcc": "9.1",
+    "totalDays": 1,
+    "totalHousefull": 1,
+    "totalAlmost": 1,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 176957
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 176957
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:176957:176957"
+  },
+  "district": {
+   "movie": {
+    "id": 983,
+    "title": "Primate",
+    "img": "https://image.tmdb.org/t/p/original/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg",
+    "released": "2026-01-23",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33028778",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "89 min",
+    "genre": "Horror, Thriller",
+    "plot": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
+    "released": "2026-01-01",
+    "director": "Johannes Roberts",
+    "directorSlug": "johannes-roberts",
+    "actors": [
+     "Johnny Sequoyah",
+     "Jessica Alexander",
+     "Troy Kotsur",
+     "Victoria Wyant",
+     "Gia Hunter",
+     "Benjamin Cheng"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 37485,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.5",
+      "votes": 900,
+      "updatedAt": "2026-09-24T13:11:00.000Z"
+     },
+     "rt": null,
+     "metascore": 58,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Johnny Sequoyah",
+     "character": "Lucy",
+     "slug": "johnny-sequoyah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/taFfjOB4lPAx75kJo9yFylKT1ek.jpg"
+    },
+    {
+     "name": "Jessica Alexander",
+     "character": "Hannah",
+     "slug": "jessica-alexander",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5PsoZ9aN2cTXkWyhIALluBrbiWy.jpg"
+    },
+    {
+     "name": "Troy Kotsur",
+     "character": "Adam",
+     "slug": "troy-kotsur",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/24K3og12jGBGL9dqH5OYFdjF9wu.jpg"
+    },
+    {
+     "name": "Victoria Wyant",
+     "character": "Kate",
+     "slug": "victoria-wyant",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/et8teE6ZMqdWGWYj3aDIMD6Yhvt.jpg"
+    },
+    {
+     "name": "Gia Hunter",
+     "character": "Erin",
+     "slug": "gia-hunter",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fK7xZRr1qhCjby0njwhsfgLyW0P.jpg"
+    },
+    {
+     "name": "Benjamin Cheng",
+     "character": "Nick",
+     "slug": "benjamin-cheng",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/onxgW3w20YHlNhB8CBQ714zytOL.jpg"
+    },
+    {
+     "name": "Charlie Mann",
+     "character": "Drew",
+     "slug": "charlie-mann",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/t6U480woJ4xFkginrqjUKbDJTqh.jpg"
+    },
+    {
+     "name": "Tienne Simon",
+     "character": "Brad",
+     "slug": "tienne-simon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/964o0kGA0zoj2DVpjX8q188ZDcK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Johannes Roberts",
+       "slug": "johannes-roberts"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ernest Riera",
+       "slug": "ernest-riera"
+      },
+      {
+       "name": "Johannes Roberts",
+       "slug": "johannes-roberts"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Adrian Johnston",
+       "slug": "adrian-johnston"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Stephen Murphy",
+       "slug": "stephen-murphy"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Peter Gvozdas",
+       "slug": "peter-gvozdas"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "John Hodges",
+       "slug": "john-hodges"
+      },
+      {
+       "name": "Bradley Pilz",
+       "slug": "bradley-pilz"
+      },
+      {
+       "name": "Walter Hamada",
+       "slug": "walter-hamada"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "18Hz Productions",
+     "slug": "18hz-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/27MdBWUI30G7TTcKIFRhZo1DvdE.png"
+    },
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-02-10",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-01-23": [
+     {
+      "id": 969,
+      "title": "Baby Girl",
+      "img": "https://image.tmdb.org/t/p/original/nEyEFVdlmUdapDl77704aR8o59D.jpg"
+     },
+     {
+      "id": 980,
+      "title": "Magic Mushrooms",
+      "img": "https://image.tmdb.org/t/p/original/pKszcXMCZxAut8lkRanpVEJfZLc.jpg"
+     },
+     {
+      "id": 981,
+      "title": "Border 2",
+      "img": "https://image.tmdb.org/t/p/original/hju9XncHxUxUS1GAJ4YqpdFCa5t.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 87786,
+     "sold": 465,
+     "unsold": 3455,
+     "shows": 26,
+     "occ": 11.86,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 87786,
+     "lastUpdatedAt": "2026-01-29 23:13:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 36103,
+     "sold": 176,
+     "unsold": 1242,
+     "shows": 14,
+     "occ": 12.41,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 123889,
+     "lastUpdatedAt": "2026-01-29 22:38:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 29710,
+     "sold": 114,
+     "unsold": 2596,
+     "shows": 16,
+     "occ": 4.21,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 153599,
+     "lastUpdatedAt": "2026-01-29 15:42:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 23358,
+     "sold": 112,
+     "unsold": 1325,
+     "shows": 11,
+     "occ": 7.79,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 176957,
+     "lastUpdatedAt": "2026-01-29 20:14:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 176957,
+    "totalShows": 67,
+    "totalSeats": 9485,
+    "totalSold": 867,
+    "avgOcc": "9.1",
+    "totalDays": 4,
+    "totalHousefull": 1,
+    "totalAlmost": 1,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 87786,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 87786,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "4:23358:176957"
+  }
+ }
+}

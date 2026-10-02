@@ -1,0 +1,699 @@
+{
+ "id": 97,
+ "slug": "ajagajantharam",
+ "source_url": "https://fridaymatinee.in/boxoffice/ajagajantharam-97",
+ "captured_at": "2026-10-01T18:00:53.679279+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 97,
+    "title": "Ajagajantharam",
+    "img": "https://image.tmdb.org/t/p/original/9SKsMvNArp0ytrjrx5h6rCf1wxN.jpg",
+    "released": "2021-12-23",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11718902",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Action",
+    "plot": "Aranjali is all set to celebrate the annual temple festival. Some unforeseen chain of events involving an elephant, a few young men, a notorious criminal, a drama troop and some trouble-loving villagers brings complete mayhem to the place",
+    "released": "2021-12-23",
+    "director": "Tinu Pappachan",
+    "directorSlug": "tinu-pappachan",
+    "actors": [
+     "Antony Varghese",
+     "Arjun Ashokan",
+     "Chemban Vinod Jose",
+     "Sabumon Abdusamad",
+     "Sudhi Koppa",
+     "Jaffer Idukki"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 2418,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:37.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Antony Varghese",
+     "character": "Lali",
+     "slug": "antony-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dKRa8ghSXw6J1OTcxMziZh3l1jb.jpg"
+    },
+    {
+     "name": "Arjun Ashokan",
+     "character": "Kannan",
+     "slug": "arjun-ashokan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fA9V9ImvGlLGQ9HWB68j8d8eo0J.jpg"
+    },
+    {
+     "name": "Chemban Vinod Jose",
+     "character": "Aliyan",
+     "slug": "chemban-vinod-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4bCAqhHMcPeoI41Emi4BBSXwZaj.jpg"
+    },
+    {
+     "name": "Sabumon Abdusamad",
+     "character": "Kachamber Das",
+     "slug": "sabumon-abdusamad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mI81jD0mykZh84e0k8X0TPb11Sj.jpg"
+    },
+    {
+     "name": "Sudhi Koppa",
+     "character": "Pindy",
+     "slug": "sudhi-koppa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h1Tvm7G2tuSLef3hCNdBZmBc3pe.jpg"
+    },
+    {
+     "name": "Jaffer Idukki",
+     "character": "President",
+     "slug": "jaffer-idukki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6kkv7LDD0NIGFTKZyrgGH5KGZpR.jpg"
+    },
+    {
+     "name": "V. T. Vijilesh",
+     "character": "Eden",
+     "slug": "v-t-vijilesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y96hD1ljwpy7LWP6fp73vbLXQ2i.jpg"
+    },
+    {
+     "name": "Lukman Avaran",
+     "character": null,
+     "slug": "lukman-avaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w1fSOcEP3cezwPtorTLY1dUIkqv.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Tinu Pappachan",
+       "slug": "tinu-pappachan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Kichu Tellus",
+       "slug": "kichu-tellus"
+      },
+      {
+       "name": "Vineeth Vishwam",
+       "slug": "vineeth-vishwam"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Justin Varghese",
+       "slug": "justin-varghese"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jinto George",
+       "slug": "jinto-george"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Emmanuel Joseph",
+       "slug": "emmanuel-joseph"
+      },
+      {
+       "name": "Ajith Thalappilly",
+       "slug": "ajith-thalappilly"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Silver Bay Studios",
+     "slug": "silver-bay-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2760,
+      "name": "Ultraplaybox Amazon Channel",
+      "logoPath": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 74158915,
+    "totalShows": 10460,
+    "totalDays": 31,
+    "openingDay": {
+     "day": 1,
+     "gross": 8209061,
+     "date": "2021-12-23"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 8354740,
+     "date": "2021-12-26"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 14,
+     "peak_position": 7,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-12-23"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 97,
+    "title": "Ajagajantharam",
+    "img": "https://image.tmdb.org/t/p/original/9SKsMvNArp0ytrjrx5h6rCf1wxN.jpg",
+    "released": "2021-12-23",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11718902",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Action",
+    "plot": "Aranjali is all set to celebrate the annual temple festival. Some unforeseen chain of events involving an elephant, a few young men, a notorious criminal, a drama troop and some trouble-loving villagers brings complete mayhem to the place",
+    "released": "2021-12-23",
+    "director": "Tinu Pappachan",
+    "directorSlug": "tinu-pappachan",
+    "actors": [
+     "Antony Varghese",
+     "Arjun Ashokan",
+     "Chemban Vinod Jose",
+     "Sabumon Abdusamad",
+     "Sudhi Koppa",
+     "Jaffer Idukki"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 2418,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:37.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Antony Varghese",
+     "character": "Lali",
+     "slug": "antony-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dKRa8ghSXw6J1OTcxMziZh3l1jb.jpg"
+    },
+    {
+     "name": "Arjun Ashokan",
+     "character": "Kannan",
+     "slug": "arjun-ashokan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fA9V9ImvGlLGQ9HWB68j8d8eo0J.jpg"
+    },
+    {
+     "name": "Chemban Vinod Jose",
+     "character": "Aliyan",
+     "slug": "chemban-vinod-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4bCAqhHMcPeoI41Emi4BBSXwZaj.jpg"
+    },
+    {
+     "name": "Sabumon Abdusamad",
+     "character": "Kachamber Das",
+     "slug": "sabumon-abdusamad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mI81jD0mykZh84e0k8X0TPb11Sj.jpg"
+    },
+    {
+     "name": "Sudhi Koppa",
+     "character": "Pindy",
+     "slug": "sudhi-koppa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h1Tvm7G2tuSLef3hCNdBZmBc3pe.jpg"
+    },
+    {
+     "name": "Jaffer Idukki",
+     "character": "President",
+     "slug": "jaffer-idukki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6kkv7LDD0NIGFTKZyrgGH5KGZpR.jpg"
+    },
+    {
+     "name": "V. T. Vijilesh",
+     "character": "Eden",
+     "slug": "v-t-vijilesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y96hD1ljwpy7LWP6fp73vbLXQ2i.jpg"
+    },
+    {
+     "name": "Lukman Avaran",
+     "character": null,
+     "slug": "lukman-avaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w1fSOcEP3cezwPtorTLY1dUIkqv.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Tinu Pappachan",
+       "slug": "tinu-pappachan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Kichu Tellus",
+       "slug": "kichu-tellus"
+      },
+      {
+       "name": "Vineeth Vishwam",
+       "slug": "vineeth-vishwam"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Justin Varghese",
+       "slug": "justin-varghese"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jinto George",
+       "slug": "jinto-george"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Emmanuel Joseph",
+       "slug": "emmanuel-joseph"
+      },
+      {
+       "name": "Ajith Thalappilly",
+       "slug": "ajith-thalappilly"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Silver Bay Studios",
+     "slug": "silver-bay-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2760,
+      "name": "Ultraplaybox Amazon Channel",
+      "logoPath": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2021-12-23",
+     "gross": 45840300,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3893,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-12-30",
+     "gross": 16270332,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3170,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-01-06",
+     "gross": 7753963,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2156,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-01-13",
+     "gross": 3849456,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1083,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-01-20",
+     "gross": 444864,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 158,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 74158915,
+    "totalShows": 10460,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 45840300
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 45840300
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 14,
+     "peak_position": 7,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-12-23"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 97,
+    "title": "Ajagajantharam",
+    "img": "https://image.tmdb.org/t/p/original/9SKsMvNArp0ytrjrx5h6rCf1wxN.jpg",
+    "released": "2021-12-23",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11718902",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Action",
+    "plot": "Aranjali is all set to celebrate the annual temple festival. Some unforeseen chain of events involving an elephant, a few young men, a notorious criminal, a drama troop and some trouble-loving villagers brings complete mayhem to the place",
+    "released": "2021-12-23",
+    "director": "Tinu Pappachan",
+    "directorSlug": "tinu-pappachan",
+    "actors": [
+     "Antony Varghese",
+     "Arjun Ashokan",
+     "Chemban Vinod Jose",
+     "Sabumon Abdusamad",
+     "Sudhi Koppa",
+     "Jaffer Idukki"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 2418,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:37.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Antony Varghese",
+     "character": "Lali",
+     "slug": "antony-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dKRa8ghSXw6J1OTcxMziZh3l1jb.jpg"
+    },
+    {
+     "name": "Arjun Ashokan",
+     "character": "Kannan",
+     "slug": "arjun-ashokan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fA9V9ImvGlLGQ9HWB68j8d8eo0J.jpg"
+    },
+    {
+     "name": "Chemban Vinod Jose",
+     "character": "Aliyan",
+     "slug": "chemban-vinod-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4bCAqhHMcPeoI41Emi4BBSXwZaj.jpg"
+    },
+    {
+     "name": "Sabumon Abdusamad",
+     "character": "Kachamber Das",
+     "slug": "sabumon-abdusamad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mI81jD0mykZh84e0k8X0TPb11Sj.jpg"
+    },
+    {
+     "name": "Sudhi Koppa",
+     "character": "Pindy",
+     "slug": "sudhi-koppa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h1Tvm7G2tuSLef3hCNdBZmBc3pe.jpg"
+    },
+    {
+     "name": "Jaffer Idukki",
+     "character": "President",
+     "slug": "jaffer-idukki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6kkv7LDD0NIGFTKZyrgGH5KGZpR.jpg"
+    },
+    {
+     "name": "V. T. Vijilesh",
+     "character": "Eden",
+     "slug": "v-t-vijilesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y96hD1ljwpy7LWP6fp73vbLXQ2i.jpg"
+    },
+    {
+     "name": "Lukman Avaran",
+     "character": null,
+     "slug": "lukman-avaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w1fSOcEP3cezwPtorTLY1dUIkqv.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Tinu Pappachan",
+       "slug": "tinu-pappachan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Kichu Tellus",
+       "slug": "kichu-tellus"
+      },
+      {
+       "name": "Vineeth Vishwam",
+       "slug": "vineeth-vishwam"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Justin Varghese",
+       "slug": "justin-varghese"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jinto George",
+       "slug": "jinto-george"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Emmanuel Joseph",
+       "slug": "emmanuel-joseph"
+      },
+      {
+       "name": "Ajith Thalappilly",
+       "slug": "ajith-thalappilly"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Silver Bay Studios",
+     "slug": "silver-bay-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2760,
+      "name": "Ultraplaybox Amazon Channel",
+      "logoPath": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 74158915,
+    "totalShows": 10460,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 13139563,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 13139563,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 14,
+     "peak_position": 7,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-12-23"
+   }
+  }
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "slug": "nayanthara",
+ "name": "Nayanthara",
+ "source_url": "https://fridaymatinee.in/people/nayanthara",
+ "captured_at": "2026-10-02T00:55:42.577358+00:00",
+ "person": {
+  "name": "Nayanthara",
+  "photo": "https://image.tmdb.org/t/p/w185/sYUzvjsSsqeOgBblSzda6ZwwbEa.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 13
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 18,
+   "movie_slug": "bigil",
+   "title": "Bigil",
+   "year": 2019,
+   "kerala_gross": "₹5.4 Cr"
+  },
+  {
+   "movie_id": 50,
+   "movie_slug": "darbar",
+   "title": "Darbar",
+   "year": 2020,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 83,
+   "movie_slug": "nizhal",
+   "title": "Nizhal",
+   "year": 2021,
+   "kerala_gross": "₹54.2L"
+  },
+  {
+   "movie_id": 86,
+   "movie_slug": "annaatthe",
+   "title": "Annaatthe",
+   "year": 2021,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 135,
+   "movie_slug": "kaathuvaakula-rendu-kadhal",
+   "title": "Kaathuvaakula Rendu Kadhal",
+   "year": 2022,
+   "kerala_gross": "₹45.7L"
+  },
+  {
+   "movie_id": 218,
+   "movie_slug": "godfather",
+   "title": "Godfather",
+   "year": 2022,
+   "kerala_gross": "₹8.6L"
+  },
+  {
+   "movie_id": 245,
+   "movie_slug": "gold",
+   "title": "Gold",
+   "year": 2022,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 417,
+   "movie_slug": "jawan",
+   "title": "Jawan",
+   "year": 2023,
+   "kerala_gross": "₹9.9 Cr"
+  },
+  {
+   "movie_id": 428,
+   "movie_slug": "iraivan",
+   "title": "Iraivan",
+   "year": 2023,
+   "kerala_gross": "₹28.0L"
+  },
+  {
+   "movie_id": 964,
+   "movie_slug": "mana-shankara-vara-prasad-garu",
+   "title": "Mana Shankara Vara Prasad Garu",
+   "year": 2026,
+   "kerala_gross": "₹9.9L"
+  },
+  {
+   "movie_id": 1081,
+   "movie_slug": "patriot",
+   "title": "Patriot",
+   "year": 2026,
+   "kerala_gross": "₹24.9 Cr"
+  },
+  {
+   "movie_id": 669,
+   "movie_slug": "toxic",
+   "title": "Toxic",
+   "year": 2026,
+   "kerala_gross": "₹3.5 Cr"
+  },
+  {
+   "movie_id": 1253,
+   "movie_slug": "hi",
+   "title": "Hi!",
+   "year": 2026,
+   "kerala_gross": "₹8.9L"
+  }
+ ]
+}

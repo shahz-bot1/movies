@@ -1,0 +1,48 @@
+{
+ "slug": "vinaya-prasad",
+ "name": "Vinaya Prasad",
+ "source_url": "https://fridaymatinee.in/people/vinaya-prasad",
+ "captured_at": "2026-10-02T11:47:10.882879+00:00",
+ "person": {
+  "name": "Vinaya Prasad",
+  "photo": "https://image.tmdb.org/t/p/w185/cXMOvyjLaOxnx1xWcWicoZTbBS5.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 151,
+   "movie_slug": "heaven",
+   "title": "Heaven",
+   "year": 2022,
+   "kerala_gross": "₹41.3L"
+  },
+  {
+   "movie_id": 551,
+   "movie_slug": "manichitrathazhu",
+   "title": "Manichitrathazhu",
+   "year": 2024,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 619,
+   "movie_slug": "e-d-extra-decent",
+   "title": "E D - Extra Decent",
+   "year": 2024,
+   "kerala_gross": "₹2.1 Cr"
+  },
+  {
+   "movie_id": 1232,
+   "movie_slug": "madhuramee-jeevitham",
+   "title": "Madhuramee Jeevitham",
+   "year": 2026,
+   "kerala_gross": "₹3K"
+  }
+ ]
+}

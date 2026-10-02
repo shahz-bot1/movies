@@ -1,0 +1,41 @@
+{
+ "slug": "maqbool-salmaan",
+ "name": "Maqbool Salmaan",
+ "source_url": "https://fridaymatinee.in/people/maqbool-salmaan",
+ "captured_at": "2026-10-02T00:21:08.018681+00:00",
+ "person": {
+  "name": "Maqbool Salmaan",
+  "photo": "https://image.tmdb.org/t/p/w185/xSdNoPY9kAMPF0b52DtoPY3CIsD.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 579,
+   "movie_slug": "gumasthan",
+   "title": "Gumasthan",
+   "year": 2024,
+   "kerala_gross": "₹54.3L"
+  },
+  {
+   "movie_id": 950,
+   "movie_slug": "aghosham",
+   "title": "Aghosham",
+   "year": 2025,
+   "kerala_gross": "₹38.2L"
+  },
+  {
+   "movie_id": 1102,
+   "movie_slug": "angam-attahasam",
+   "title": "Angam Attahasam",
+   "year": 2026,
+   "kerala_gross": "₹15.5L"
+  }
+ ]
+}

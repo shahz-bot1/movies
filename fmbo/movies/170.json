@@ -1,0 +1,557 @@
+{
+ "id": 170,
+ "slug": "legend",
+ "source_url": "https://fridaymatinee.in/boxoffice/legend-170",
+ "captured_at": "2026-10-01T18:05:41.850751+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 170,
+    "title": "Legend",
+    "img": "https://image.tmdb.org/t/p/original/5FBNGvrUYIhM61XdnY588Vp2oP9.jpg",
+    "released": "2022-07-30",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11497716",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "161 min",
+    "genre": "Comedy, Romance, Action",
+    "plot": "A scientist is spurred by the death of his friend to find a cure for diabetes, but can he take on the might of the pharma mafia and succeed in his mission?",
+    "released": "2022-07-28",
+    "director": "Joseph D. Sami",
+    "directorSlug": "joseph-d-sami",
+    "actors": [
+     "Arul Saravanan",
+     "Urvashi Rautela",
+     "Geethika Tiwary",
+     "Vivek",
+     "Nassar",
+     "Prabhu"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.5",
+      "votes": 29561,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:16.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Arul Saravanan",
+     "character": "Dr. Saravanan",
+     "slug": "arul-saravanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6VXAxTr1h3jSHU36tdbCzkAh74Q.jpg"
+    },
+    {
+     "name": "Urvashi Rautela",
+     "character": null,
+     "slug": "urvashi-rautela",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/50ZbnHN1KvibebYCTtQ6IkBTJLq.jpg"
+    },
+    {
+     "name": "Geethika Tiwary",
+     "character": null,
+     "slug": "geethika-tiwary",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6pI9dly3HufHk4ul7zzkyhpmB6x.jpg"
+    },
+    {
+     "name": "Vivek",
+     "character": "Thangam",
+     "slug": "vivek",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z4fZ22hnBz6W8mBNDvhtFbJErmK.jpg"
+    },
+    {
+     "name": "Nassar",
+     "character": "Dr. Desikan",
+     "slug": "nassar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg"
+    },
+    {
+     "name": "Prabhu",
+     "character": null,
+     "slug": "prabhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1ZG65sdJaLrHjTAme5ETZMyqgnM.jpg"
+    },
+    {
+     "name": "Vijayakumar",
+     "character": null,
+     "slug": "vijayakumar-3148",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vCgyfUV09TyWOq30Yh2xPmQ0zhi.jpg"
+    },
+    {
+     "name": "Yogi Babu",
+     "character": null,
+     "slug": "yogi-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Joseph D. Sami",
+       "slug": "joseph-d-sami"
+      },
+      {
+       "name": "Jerald Arockiam",
+       "slug": "jerald-arockiam"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Joseph D. Sami",
+       "slug": "joseph-d-sami"
+      },
+      {
+       "name": "Jerald Arockiam",
+       "slug": "jerald-arockiam"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Harris Jayaraj",
+       "slug": "harris-jayaraj"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "R. Velraj",
+       "slug": "r-velraj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Antony L. Ruben",
+       "slug": "antony-l-ruben"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Arul Saravanan",
+       "slug": "arul-saravanan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "The Legend Saravana Stores Creations",
+     "slug": "the-legend-saravana-stores-creations",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalDays": 0,
+    "openingDay": null,
+    "peakDay": null,
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-07-30"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 170,
+    "title": "Legend",
+    "img": "https://image.tmdb.org/t/p/original/5FBNGvrUYIhM61XdnY588Vp2oP9.jpg",
+    "released": "2022-07-30",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11497716",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "161 min",
+    "genre": "Comedy, Romance, Action",
+    "plot": "A scientist is spurred by the death of his friend to find a cure for diabetes, but can he take on the might of the pharma mafia and succeed in his mission?",
+    "released": "2022-07-28",
+    "director": "Joseph D. Sami",
+    "directorSlug": "joseph-d-sami",
+    "actors": [
+     "Arul Saravanan",
+     "Urvashi Rautela",
+     "Geethika Tiwary",
+     "Vivek",
+     "Nassar",
+     "Prabhu"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.5",
+      "votes": 29561,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:16.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Arul Saravanan",
+     "character": "Dr. Saravanan",
+     "slug": "arul-saravanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6VXAxTr1h3jSHU36tdbCzkAh74Q.jpg"
+    },
+    {
+     "name": "Urvashi Rautela",
+     "character": null,
+     "slug": "urvashi-rautela",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/50ZbnHN1KvibebYCTtQ6IkBTJLq.jpg"
+    },
+    {
+     "name": "Geethika Tiwary",
+     "character": null,
+     "slug": "geethika-tiwary",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6pI9dly3HufHk4ul7zzkyhpmB6x.jpg"
+    },
+    {
+     "name": "Vivek",
+     "character": "Thangam",
+     "slug": "vivek",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z4fZ22hnBz6W8mBNDvhtFbJErmK.jpg"
+    },
+    {
+     "name": "Nassar",
+     "character": "Dr. Desikan",
+     "slug": "nassar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg"
+    },
+    {
+     "name": "Prabhu",
+     "character": null,
+     "slug": "prabhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1ZG65sdJaLrHjTAme5ETZMyqgnM.jpg"
+    },
+    {
+     "name": "Vijayakumar",
+     "character": null,
+     "slug": "vijayakumar-3148",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vCgyfUV09TyWOq30Yh2xPmQ0zhi.jpg"
+    },
+    {
+     "name": "Yogi Babu",
+     "character": null,
+     "slug": "yogi-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Joseph D. Sami",
+       "slug": "joseph-d-sami"
+      },
+      {
+       "name": "Jerald Arockiam",
+       "slug": "jerald-arockiam"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Joseph D. Sami",
+       "slug": "joseph-d-sami"
+      },
+      {
+       "name": "Jerald Arockiam",
+       "slug": "jerald-arockiam"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Harris Jayaraj",
+       "slug": "harris-jayaraj"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "R. Velraj",
+       "slug": "r-velraj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Antony L. Ruben",
+       "slug": "antony-l-ruben"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Arul Saravanan",
+       "slug": "arul-saravanan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "The Legend Saravana Stores Creations",
+     "slug": "the-legend-saravana-stores-creations",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalDays": 0,
+    "openingDay": null,
+    "peakDay": null,
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-07-30"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 170,
+    "title": "Legend",
+    "img": "https://image.tmdb.org/t/p/original/5FBNGvrUYIhM61XdnY588Vp2oP9.jpg",
+    "released": "2022-07-30",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11497716",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "161 min",
+    "genre": "Comedy, Romance, Action",
+    "plot": "A scientist is spurred by the death of his friend to find a cure for diabetes, but can he take on the might of the pharma mafia and succeed in his mission?",
+    "released": "2022-07-28",
+    "director": "Joseph D. Sami",
+    "directorSlug": "joseph-d-sami",
+    "actors": [
+     "Arul Saravanan",
+     "Urvashi Rautela",
+     "Geethika Tiwary",
+     "Vivek",
+     "Nassar",
+     "Prabhu"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.5",
+      "votes": 29561,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:16.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Arul Saravanan",
+     "character": "Dr. Saravanan",
+     "slug": "arul-saravanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6VXAxTr1h3jSHU36tdbCzkAh74Q.jpg"
+    },
+    {
+     "name": "Urvashi Rautela",
+     "character": null,
+     "slug": "urvashi-rautela",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/50ZbnHN1KvibebYCTtQ6IkBTJLq.jpg"
+    },
+    {
+     "name": "Geethika Tiwary",
+     "character": null,
+     "slug": "geethika-tiwary",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6pI9dly3HufHk4ul7zzkyhpmB6x.jpg"
+    },
+    {
+     "name": "Vivek",
+     "character": "Thangam",
+     "slug": "vivek",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z4fZ22hnBz6W8mBNDvhtFbJErmK.jpg"
+    },
+    {
+     "name": "Nassar",
+     "character": "Dr. Desikan",
+     "slug": "nassar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg"
+    },
+    {
+     "name": "Prabhu",
+     "character": null,
+     "slug": "prabhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1ZG65sdJaLrHjTAme5ETZMyqgnM.jpg"
+    },
+    {
+     "name": "Vijayakumar",
+     "character": null,
+     "slug": "vijayakumar-3148",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vCgyfUV09TyWOq30Yh2xPmQ0zhi.jpg"
+    },
+    {
+     "name": "Yogi Babu",
+     "character": null,
+     "slug": "yogi-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Joseph D. Sami",
+       "slug": "joseph-d-sami"
+      },
+      {
+       "name": "Jerald Arockiam",
+       "slug": "jerald-arockiam"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Joseph D. Sami",
+       "slug": "joseph-d-sami"
+      },
+      {
+       "name": "Jerald Arockiam",
+       "slug": "jerald-arockiam"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Harris Jayaraj",
+       "slug": "harris-jayaraj"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "R. Velraj",
+       "slug": "r-velraj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Antony L. Ruben",
+       "slug": "antony-l-ruben"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Arul Saravanan",
+       "slug": "arul-saravanan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "The Legend Saravana Stores Creations",
+     "slug": "the-legend-saravana-stores-creations",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalDays": 0,
+    "openingDay": null,
+    "peakDay": null,
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-07-30"
+   }
+  }
+ }
+}

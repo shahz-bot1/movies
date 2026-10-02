@@ -1,0 +1,733 @@
+{
+ "id": 1062,
+ "slug": "carmeni-selvam",
+ "source_url": "https://fridaymatinee.in/boxoffice/carmeni-selvam-1062",
+ "captured_at": "2026-10-01T19:03:54.314437+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1062,
+    "title": "Carmeni Selvam",
+    "img": "https://image.tmdb.org/t/p/original/vm0eF76Rq4fVs1nNSBujPJFi40W.jpg",
+    "released": "2026-04-03",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt38111710",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "120 min",
+    "genre": "Drama, Comedy",
+    "plot": "A content man's life turns chaotic when money fever strikes. His newfound greed leads to a series of amusing situations that unfold in this humorous tale.",
+    "released": "2026-04-03",
+    "director": "Ram chakri",
+    "directorSlug": "ram-chakri",
+    "actors": [
+     "Samuthirakani",
+     "Gautham Vasudev Menon",
+     "Lakshmi Priyaa",
+     "Abhinaya",
+     "Badava Gopi",
+     "Arjunan Nandakumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 226,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Samuthirakani",
+     "character": "Selvam",
+     "slug": "samuthirakani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z8mU71yAUfVLgKWHorsTIsyQwnt.jpg"
+    },
+    {
+     "name": "Gautham Vasudev Menon",
+     "character": "Sampath",
+     "slug": "gautham-vasudev-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+     "name": "Lakshmi Priyaa",
+     "character": "Shanthi",
+     "slug": "lakshmi-priyaa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5XkQDgWcQD9v1kPnAwwPvMEPSNM.jpg"
+    },
+    {
+     "name": "Abhinaya",
+     "character": "Devi",
+     "slug": "abhinaya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jZSoiKuWYNWXJgPtTDro009rGiN.jpg"
+    },
+    {
+     "name": "Badava Gopi",
+     "character": "Rideshare Passenger",
+     "slug": "badava-gopi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zs4bovXfxmTfbWaVxANNWpLtrmZ.jpg"
+    },
+    {
+     "name": "Arjunan Nandakumar",
+     "character": "Female Rideshare Passenger's Boyfriend",
+     "slug": "arjunan-nandakumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/o5bnAnP9lxZEaDkvig191JxXLV9.jpg"
+    },
+    {
+     "name": "Haritha Parokod",
+     "character": "Actress",
+     "slug": "haritha-parokod",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/QvJUspCdfBq4Zh6WiklbS2kkxG.jpg"
+    },
+    {
+     "name": "Karthik Kumar",
+     "character": "The Insurance Advisor",
+     "slug": "karthik-kumar",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ram chakri",
+       "slug": "ram-chakri"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ram chakri",
+       "slug": "ram-chakri"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Yuvaraj daksha",
+       "slug": "yuvaraj-daksha"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jagan r v",
+       "slug": "jagan-r-v"
+      },
+      {
+       "name": "Dinesh s",
+       "slug": "dinesh-s"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Arun Rangarajulu",
+       "slug": "arun-rangarajulu"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Pathway production",
+     "slug": "pathway-production",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-06-03",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-04-03": [
+     {
+      "id": 1035,
+      "title": "Ready or Not 2: Here I Come",
+      "img": "https://image.tmdb.org/t/p/original/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
+     },
+     {
+      "id": 1049,
+      "title": "The Super Mario Galaxy Movie",
+      "img": "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+     },
+     {
+      "id": 1051,
+      "title": "The Drama",
+      "img": "https://image.tmdb.org/t/p/original/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-04-03",
+     "gross": 45999,
+     "sold": 185,
+     "unsold": 661,
+     "shows": 7,
+     "occ": 21.87,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 45999,
+     "lastUpdatedAt": "2026-04-03 18:28:00"
+    },
+    {
+     "label": "2026-04-04",
+     "gross": 5200,
+     "sold": 20,
+     "unsold": 247,
+     "shows": 2,
+     "occ": 7.49,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 51199,
+     "lastUpdatedAt": "2026-04-04 16:18:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 51199,
+    "totalShows": 9,
+    "totalSeats": 1113,
+    "totalSold": 205,
+    "avgOcc": "18.4",
+    "totalDays": 2,
+    "totalHousefull": 2,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 45999,
+     "date": "2026-04-03"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 45999,
+     "date": "2026-04-03"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "2:5200:51199"
+  },
+  "week": {
+   "movie": {
+    "id": 1062,
+    "title": "Carmeni Selvam",
+    "img": "https://image.tmdb.org/t/p/original/vm0eF76Rq4fVs1nNSBujPJFi40W.jpg",
+    "released": "2026-04-03",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt38111710",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "120 min",
+    "genre": "Drama, Comedy",
+    "plot": "A content man's life turns chaotic when money fever strikes. His newfound greed leads to a series of amusing situations that unfold in this humorous tale.",
+    "released": "2026-04-03",
+    "director": "Ram chakri",
+    "directorSlug": "ram-chakri",
+    "actors": [
+     "Samuthirakani",
+     "Gautham Vasudev Menon",
+     "Lakshmi Priyaa",
+     "Abhinaya",
+     "Badava Gopi",
+     "Arjunan Nandakumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 226,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Samuthirakani",
+     "character": "Selvam",
+     "slug": "samuthirakani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z8mU71yAUfVLgKWHorsTIsyQwnt.jpg"
+    },
+    {
+     "name": "Gautham Vasudev Menon",
+     "character": "Sampath",
+     "slug": "gautham-vasudev-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+     "name": "Lakshmi Priyaa",
+     "character": "Shanthi",
+     "slug": "lakshmi-priyaa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5XkQDgWcQD9v1kPnAwwPvMEPSNM.jpg"
+    },
+    {
+     "name": "Abhinaya",
+     "character": "Devi",
+     "slug": "abhinaya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jZSoiKuWYNWXJgPtTDro009rGiN.jpg"
+    },
+    {
+     "name": "Badava Gopi",
+     "character": "Rideshare Passenger",
+     "slug": "badava-gopi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zs4bovXfxmTfbWaVxANNWpLtrmZ.jpg"
+    },
+    {
+     "name": "Arjunan Nandakumar",
+     "character": "Female Rideshare Passenger's Boyfriend",
+     "slug": "arjunan-nandakumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/o5bnAnP9lxZEaDkvig191JxXLV9.jpg"
+    },
+    {
+     "name": "Haritha Parokod",
+     "character": "Actress",
+     "slug": "haritha-parokod",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/QvJUspCdfBq4Zh6WiklbS2kkxG.jpg"
+    },
+    {
+     "name": "Karthik Kumar",
+     "character": "The Insurance Advisor",
+     "slug": "karthik-kumar",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ram chakri",
+       "slug": "ram-chakri"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ram chakri",
+       "slug": "ram-chakri"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Yuvaraj daksha",
+       "slug": "yuvaraj-daksha"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jagan r v",
+       "slug": "jagan-r-v"
+      },
+      {
+       "name": "Dinesh s",
+       "slug": "dinesh-s"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Arun Rangarajulu",
+       "slug": "arun-rangarajulu"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Pathway production",
+     "slug": "pathway-production",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-06-03",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-04-03": [
+     {
+      "id": 1035,
+      "title": "Ready or Not 2: Here I Come",
+      "img": "https://image.tmdb.org/t/p/original/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
+     },
+     {
+      "id": 1049,
+      "title": "The Super Mario Galaxy Movie",
+      "img": "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+     },
+     {
+      "id": 1051,
+      "title": "The Drama",
+      "img": "https://image.tmdb.org/t/p/original/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-04-03",
+     "gross": 51199,
+     "sold": 205,
+     "unsold": 908,
+     "shows": 9,
+     "occ": 18.42,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 51199,
+     "lastUpdatedAt": "2026-04-04 16:18:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 51199,
+    "totalShows": 9,
+    "totalSeats": 1113,
+    "totalSold": 205,
+    "avgOcc": "18.4",
+    "totalDays": 1,
+    "totalHousefull": 2,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 51199
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 51199
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:51199:51199"
+  },
+  "district": {
+   "movie": {
+    "id": 1062,
+    "title": "Carmeni Selvam",
+    "img": "https://image.tmdb.org/t/p/original/vm0eF76Rq4fVs1nNSBujPJFi40W.jpg",
+    "released": "2026-04-03",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt38111710",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "120 min",
+    "genre": "Drama, Comedy",
+    "plot": "A content man's life turns chaotic when money fever strikes. His newfound greed leads to a series of amusing situations that unfold in this humorous tale.",
+    "released": "2026-04-03",
+    "director": "Ram chakri",
+    "directorSlug": "ram-chakri",
+    "actors": [
+     "Samuthirakani",
+     "Gautham Vasudev Menon",
+     "Lakshmi Priyaa",
+     "Abhinaya",
+     "Badava Gopi",
+     "Arjunan Nandakumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 226,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Samuthirakani",
+     "character": "Selvam",
+     "slug": "samuthirakani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z8mU71yAUfVLgKWHorsTIsyQwnt.jpg"
+    },
+    {
+     "name": "Gautham Vasudev Menon",
+     "character": "Sampath",
+     "slug": "gautham-vasudev-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+     "name": "Lakshmi Priyaa",
+     "character": "Shanthi",
+     "slug": "lakshmi-priyaa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5XkQDgWcQD9v1kPnAwwPvMEPSNM.jpg"
+    },
+    {
+     "name": "Abhinaya",
+     "character": "Devi",
+     "slug": "abhinaya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jZSoiKuWYNWXJgPtTDro009rGiN.jpg"
+    },
+    {
+     "name": "Badava Gopi",
+     "character": "Rideshare Passenger",
+     "slug": "badava-gopi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zs4bovXfxmTfbWaVxANNWpLtrmZ.jpg"
+    },
+    {
+     "name": "Arjunan Nandakumar",
+     "character": "Female Rideshare Passenger's Boyfriend",
+     "slug": "arjunan-nandakumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/o5bnAnP9lxZEaDkvig191JxXLV9.jpg"
+    },
+    {
+     "name": "Haritha Parokod",
+     "character": "Actress",
+     "slug": "haritha-parokod",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/QvJUspCdfBq4Zh6WiklbS2kkxG.jpg"
+    },
+    {
+     "name": "Karthik Kumar",
+     "character": "The Insurance Advisor",
+     "slug": "karthik-kumar",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ram chakri",
+       "slug": "ram-chakri"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ram chakri",
+       "slug": "ram-chakri"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Yuvaraj daksha",
+       "slug": "yuvaraj-daksha"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jagan r v",
+       "slug": "jagan-r-v"
+      },
+      {
+       "name": "Dinesh s",
+       "slug": "dinesh-s"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Arun Rangarajulu",
+       "slug": "arun-rangarajulu"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Pathway production",
+     "slug": "pathway-production",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-06-03",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-04-03": [
+     {
+      "id": 1035,
+      "title": "Ready or Not 2: Here I Come",
+      "img": "https://image.tmdb.org/t/p/original/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
+     },
+     {
+      "id": 1049,
+      "title": "The Super Mario Galaxy Movie",
+      "img": "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+     },
+     {
+      "id": 1051,
+      "title": "The Drama",
+      "img": "https://image.tmdb.org/t/p/original/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 29480,
+     "sold": 122,
+     "unsold": 274,
+     "shows": 3,
+     "occ": 30.81,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 29480,
+     "lastUpdatedAt": "2026-04-04 16:18:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 15520,
+     "sold": 59,
+     "unsold": 116,
+     "shows": 2,
+     "occ": 33.71,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 45000,
+     "lastUpdatedAt": "2026-04-03 18:28:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 5600,
+     "sold": 23,
+     "unsold": 221,
+     "shows": 2,
+     "occ": 9.43,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 50600,
+     "lastUpdatedAt": "2026-04-04 13:14:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 599,
+     "sold": 1,
+     "unsold": 297,
+     "shows": 2,
+     "occ": 0.34,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 51199,
+     "lastUpdatedAt": "2026-04-03 10:42:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 51199,
+    "totalShows": 9,
+    "totalSeats": 1113,
+    "totalSold": 205,
+    "avgOcc": "18.4",
+    "totalDays": 4,
+    "totalHousefull": 2,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 29480,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 29480,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "4:599:51199"
+  }
+ }
+}

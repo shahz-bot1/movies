@@ -1,0 +1,758 @@
+{
+ "id": 621,
+ "slug": "28-years-later",
+ "source_url": "https://fridaymatinee.in/boxoffice/28-years-later-621",
+ "captured_at": "2026-10-01T18:17:18.469802+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 621,
+    "title": "28 Years Later",
+    "img": "https://image.tmdb.org/t/p/original/hVKHzr4GwSw0FepqhqQ0DDiYHNY.jpg",
+    "released": "2025-06-19",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10548174",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "115 min",
+    "genre": "Horror, Thriller, Science Fiction",
+    "plot": "Twenty-eight years after the Rage virus outbreak, a heavily-defended island survives connected to the mainland by a single causeway. When one of the group leaves the island into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
+    "released": "2025-06-18",
+    "director": "Danny Boyle",
+    "directorSlug": "danny-boyle",
+    "actors": [
+     "Jodie Comer",
+     "Aaron Taylor-Johnson",
+     "Alfie Williams",
+     "Ralph Fiennes",
+     "Jack O'Connell",
+     "Chi Lewis-Parry"
+    ],
+    "awards": "Nominated for 1 BAFTA Award6 wins u0026 56 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 228156,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.6",
+      "votes": 2980,
+      "updatedAt": "2026-09-24T19:10:30.000Z"
+     },
+     "rt": "89%",
+     "metascore": 77,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jodie Comer",
+     "character": "Isla",
+     "slug": "jodie-comer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ye7rdpq4KY7c0OqfRqeWMUZaneb.jpg"
+    },
+    {
+     "name": "Aaron Taylor-Johnson",
+     "character": "Jamie",
+     "slug": "aaron-taylor-johnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1DtNaGrRwnBhm0jVCtE1xOb61TK.jpg"
+    },
+    {
+     "name": "Alfie Williams",
+     "character": "Spike",
+     "slug": "alfie-williams",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3F46vn64Ya20rwtvTFVnqAK2LuI.jpg"
+    },
+    {
+     "name": "Ralph Fiennes",
+     "character": "Dr. Ian Kelson",
+     "slug": "ralph-fiennes",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg"
+    },
+    {
+     "name": "Jack O'Connell",
+     "character": "Jimmy Crystal",
+     "slug": "jack-o-connell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9RrqnB1BRaWWHEjlWVVAna0sdBB.jpg"
+    },
+    {
+     "name": "Chi Lewis-Parry",
+     "character": "Samson",
+     "slug": "chi-lewis-parry",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jAMu6BW9lDBVkawwB7VIi8CLai5.jpg"
+    },
+    {
+     "name": "Edvin Ryding",
+     "character": "Erik Sundqvist",
+     "slug": "edvin-ryding",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d7fcmwBi974TD3soI4VG88c8YN2.jpg"
+    },
+    {
+     "name": "Christopher Fulford",
+     "character": "Sam",
+     "slug": "christopher-fulford",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2n73aEyiU4fJprC2vHIf0M7YJ62.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Danny Boyle",
+       "slug": "danny-boyle"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Alex Garland",
+       "slug": "alex-garland"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Alloysious Massaquoi",
+       "slug": "alloysious-massaquoi"
+      },
+      {
+       "name": "Kayus Bankole",
+       "slug": "kayus-bankole"
+      },
+      {
+       "name": "'G' Hastings",
+       "slug": "g-hastings"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Anthony Dod Mantle",
+       "slug": "anthony-dod-mantle"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jon Harris",
+       "slug": "jon-harris"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Danny Boyle",
+       "slug": "danny-boyle"
+      },
+      {
+       "name": "Alex Garland",
+       "slug": "alex-garland"
+      },
+      {
+       "name": "Andrew Macdonald",
+       "slug": "andrew-macdonald"
+      },
+      {
+       "name": "Peter Rice",
+       "slug": "peter-rice"
+      },
+      {
+       "name": "Bernard Bellew",
+       "slug": "bernard-bellew"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Columbia Pictures",
+     "slug": "columbia-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+    },
+    {
+     "name": "DNA Films",
+     "slug": "dna-films",
+     "logo": "https://image.tmdb.org/t/p/w185/6a26if3IKy7mlrQuGHHVp6ufQtF.png"
+    },
+    {
+     "name": "Decibel Films",
+     "slug": "decibel-films",
+     "logo": null
+    },
+    {
+     "name": "TSG Entertainment",
+     "slug": "tsg-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/qx9K6bFWJupwde0xQDwOvXkOaL8.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-07-28",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1321406,
+    "totalShows": 392,
+    "totalDays": 21,
+    "openingDay": {
+     "day": 1,
+     "gross": 137580,
+     "date": "2025-06-19"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 236483,
+     "date": "2025-06-22"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-06-19"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 621,
+    "title": "28 Years Later",
+    "img": "https://image.tmdb.org/t/p/original/hVKHzr4GwSw0FepqhqQ0DDiYHNY.jpg",
+    "released": "2025-06-19",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10548174",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "115 min",
+    "genre": "Horror, Thriller, Science Fiction",
+    "plot": "Twenty-eight years after the Rage virus outbreak, a heavily-defended island survives connected to the mainland by a single causeway. When one of the group leaves the island into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
+    "released": "2025-06-18",
+    "director": "Danny Boyle",
+    "directorSlug": "danny-boyle",
+    "actors": [
+     "Jodie Comer",
+     "Aaron Taylor-Johnson",
+     "Alfie Williams",
+     "Ralph Fiennes",
+     "Jack O'Connell",
+     "Chi Lewis-Parry"
+    ],
+    "awards": "Nominated for 1 BAFTA Award6 wins u0026 56 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 228156,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.6",
+      "votes": 2980,
+      "updatedAt": "2026-09-24T19:10:30.000Z"
+     },
+     "rt": "89%",
+     "metascore": 77,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jodie Comer",
+     "character": "Isla",
+     "slug": "jodie-comer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ye7rdpq4KY7c0OqfRqeWMUZaneb.jpg"
+    },
+    {
+     "name": "Aaron Taylor-Johnson",
+     "character": "Jamie",
+     "slug": "aaron-taylor-johnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1DtNaGrRwnBhm0jVCtE1xOb61TK.jpg"
+    },
+    {
+     "name": "Alfie Williams",
+     "character": "Spike",
+     "slug": "alfie-williams",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3F46vn64Ya20rwtvTFVnqAK2LuI.jpg"
+    },
+    {
+     "name": "Ralph Fiennes",
+     "character": "Dr. Ian Kelson",
+     "slug": "ralph-fiennes",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg"
+    },
+    {
+     "name": "Jack O'Connell",
+     "character": "Jimmy Crystal",
+     "slug": "jack-o-connell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9RrqnB1BRaWWHEjlWVVAna0sdBB.jpg"
+    },
+    {
+     "name": "Chi Lewis-Parry",
+     "character": "Samson",
+     "slug": "chi-lewis-parry",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jAMu6BW9lDBVkawwB7VIi8CLai5.jpg"
+    },
+    {
+     "name": "Edvin Ryding",
+     "character": "Erik Sundqvist",
+     "slug": "edvin-ryding",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d7fcmwBi974TD3soI4VG88c8YN2.jpg"
+    },
+    {
+     "name": "Christopher Fulford",
+     "character": "Sam",
+     "slug": "christopher-fulford",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2n73aEyiU4fJprC2vHIf0M7YJ62.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Danny Boyle",
+       "slug": "danny-boyle"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Alex Garland",
+       "slug": "alex-garland"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Alloysious Massaquoi",
+       "slug": "alloysious-massaquoi"
+      },
+      {
+       "name": "Kayus Bankole",
+       "slug": "kayus-bankole"
+      },
+      {
+       "name": "'G' Hastings",
+       "slug": "g-hastings"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Anthony Dod Mantle",
+       "slug": "anthony-dod-mantle"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jon Harris",
+       "slug": "jon-harris"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Danny Boyle",
+       "slug": "danny-boyle"
+      },
+      {
+       "name": "Alex Garland",
+       "slug": "alex-garland"
+      },
+      {
+       "name": "Andrew Macdonald",
+       "slug": "andrew-macdonald"
+      },
+      {
+       "name": "Peter Rice",
+       "slug": "peter-rice"
+      },
+      {
+       "name": "Bernard Bellew",
+       "slug": "bernard-bellew"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Columbia Pictures",
+     "slug": "columbia-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+    },
+    {
+     "name": "DNA Films",
+     "slug": "dna-films",
+     "logo": "https://image.tmdb.org/t/p/w185/6a26if3IKy7mlrQuGHHVp6ufQtF.png"
+    },
+    {
+     "name": "Decibel Films",
+     "slug": "decibel-films",
+     "logo": null
+    },
+    {
+     "name": "TSG Entertainment",
+     "slug": "tsg-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/qx9K6bFWJupwde0xQDwOvXkOaL8.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-07-28",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-06-19",
+     "gross": 1052107,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 287,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-06-26",
+     "gross": 224852,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 90,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-07-03",
+     "gross": 42917,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 14,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-07-10",
+     "gross": 1530,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1321406,
+    "totalShows": 392,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 1052107
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1052107
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-06-19"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 621,
+    "title": "28 Years Later",
+    "img": "https://image.tmdb.org/t/p/original/hVKHzr4GwSw0FepqhqQ0DDiYHNY.jpg",
+    "released": "2025-06-19",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10548174",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "115 min",
+    "genre": "Horror, Thriller, Science Fiction",
+    "plot": "Twenty-eight years after the Rage virus outbreak, a heavily-defended island survives connected to the mainland by a single causeway. When one of the group leaves the island into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
+    "released": "2025-06-18",
+    "director": "Danny Boyle",
+    "directorSlug": "danny-boyle",
+    "actors": [
+     "Jodie Comer",
+     "Aaron Taylor-Johnson",
+     "Alfie Williams",
+     "Ralph Fiennes",
+     "Jack O'Connell",
+     "Chi Lewis-Parry"
+    ],
+    "awards": "Nominated for 1 BAFTA Award6 wins u0026 56 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 228156,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.6",
+      "votes": 2980,
+      "updatedAt": "2026-09-24T19:10:30.000Z"
+     },
+     "rt": "89%",
+     "metascore": 77,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jodie Comer",
+     "character": "Isla",
+     "slug": "jodie-comer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ye7rdpq4KY7c0OqfRqeWMUZaneb.jpg"
+    },
+    {
+     "name": "Aaron Taylor-Johnson",
+     "character": "Jamie",
+     "slug": "aaron-taylor-johnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1DtNaGrRwnBhm0jVCtE1xOb61TK.jpg"
+    },
+    {
+     "name": "Alfie Williams",
+     "character": "Spike",
+     "slug": "alfie-williams",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3F46vn64Ya20rwtvTFVnqAK2LuI.jpg"
+    },
+    {
+     "name": "Ralph Fiennes",
+     "character": "Dr. Ian Kelson",
+     "slug": "ralph-fiennes",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg"
+    },
+    {
+     "name": "Jack O'Connell",
+     "character": "Jimmy Crystal",
+     "slug": "jack-o-connell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9RrqnB1BRaWWHEjlWVVAna0sdBB.jpg"
+    },
+    {
+     "name": "Chi Lewis-Parry",
+     "character": "Samson",
+     "slug": "chi-lewis-parry",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jAMu6BW9lDBVkawwB7VIi8CLai5.jpg"
+    },
+    {
+     "name": "Edvin Ryding",
+     "character": "Erik Sundqvist",
+     "slug": "edvin-ryding",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d7fcmwBi974TD3soI4VG88c8YN2.jpg"
+    },
+    {
+     "name": "Christopher Fulford",
+     "character": "Sam",
+     "slug": "christopher-fulford",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2n73aEyiU4fJprC2vHIf0M7YJ62.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Danny Boyle",
+       "slug": "danny-boyle"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Alex Garland",
+       "slug": "alex-garland"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Alloysious Massaquoi",
+       "slug": "alloysious-massaquoi"
+      },
+      {
+       "name": "Kayus Bankole",
+       "slug": "kayus-bankole"
+      },
+      {
+       "name": "'G' Hastings",
+       "slug": "g-hastings"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Anthony Dod Mantle",
+       "slug": "anthony-dod-mantle"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jon Harris",
+       "slug": "jon-harris"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Danny Boyle",
+       "slug": "danny-boyle"
+      },
+      {
+       "name": "Alex Garland",
+       "slug": "alex-garland"
+      },
+      {
+       "name": "Andrew Macdonald",
+       "slug": "andrew-macdonald"
+      },
+      {
+       "name": "Peter Rice",
+       "slug": "peter-rice"
+      },
+      {
+       "name": "Bernard Bellew",
+       "slug": "bernard-bellew"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Columbia Pictures",
+     "slug": "columbia-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+    },
+    {
+     "name": "DNA Films",
+     "slug": "dna-films",
+     "logo": "https://image.tmdb.org/t/p/w185/6a26if3IKy7mlrQuGHHVp6ufQtF.png"
+    },
+    {
+     "name": "Decibel Films",
+     "slug": "decibel-films",
+     "logo": null
+    },
+    {
+     "name": "TSG Entertainment",
+     "slug": "tsg-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/qx9K6bFWJupwde0xQDwOvXkOaL8.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-07-28",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1321406,
+    "totalShows": 392,
+    "totalDays": 12,
+    "openingDay": {
+     "day": 1,
+     "gross": 706312,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 706312,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-06-19"
+   }
+  }
+ }
+}

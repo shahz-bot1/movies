@@ -1,0 +1,1535 @@
+{
+ "id": 1092,
+ "slug": "mollywood-times",
+ "source_url": "https://fridaymatinee.in/boxoffice/mollywood-times-1092",
+ "captured_at": "2026-10-01T19:45:59.185928+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1092,
+    "title": "Mollywood Times",
+    "img": "https://image.tmdb.org/t/p/original/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg",
+    "released": "2026-06-05",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29959401",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": "Comedy, Drama",
+    "plot": "Vineeth Madhavan, a teenager hailing from Kuttikkanam who aspires to direct films. This coming-of-age comedy serves as an antithesis to the umpteen love letters written to cinema since the beginning of time.",
+    "released": "2026-06-05",
+    "director": "Abhinav Sunder Nayak",
+    "directorSlug": "abhinav-sunder-nayak",
+    "actors": [
+     "Naslen",
+     "Roshan Shanavas",
+     "Althaf Salim",
+     "Sangeeth Prathap",
+     "Sharafudheen",
+     "Prasanth Alexander"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 5504,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Naslen",
+     "character": "Vineeth Madhavan",
+     "slug": "naslen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8cAVtELGh2ZL5DhyijYBiAQF2Zt.jpg"
+    },
+    {
+     "name": "Roshan Shanavas",
+     "character": "Sujith Raj (Suji)",
+     "slug": "roshan-shanavas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lotiqK0sfK4rZKV6tHvHrg9Cty3.jpg"
+    },
+    {
+     "name": "Althaf Salim",
+     "character": "Sunil Ettan",
+     "slug": "althaf-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wYFAsF8f4Ak26c4t5J1IfBBxP0W.jpg"
+    },
+    {
+     "name": "Sangeeth Prathap",
+     "character": "Arjun Haridas",
+     "slug": "sangeeth-prathap",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2f7mTmZ1RttbacuADm6vv7xpTAi.jpg"
+    },
+    {
+     "name": "Sharafudheen",
+     "character": "Sachin Vaikom David",
+     "slug": "sharafudheen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+    },
+    {
+     "name": "Prasanth Alexander",
+     "character": "Madhavan",
+     "slug": "prasanth-alexander",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QTEvNPnSxAb7WHDsIOr0hxDNDP.jpg"
+    },
+    {
+     "name": "Gopika Ramesh",
+     "character": "Hana Shajahan",
+     "slug": "gopika-ramesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/neFrocaEugbnJCI0BPIXWY0R6bX.jpg"
+    },
+    {
+     "name": "Sreerang Shine",
+     "character": "Young Sachin Vaikkom David",
+     "slug": "sreerang-shine",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abhinav Sunder Nayak",
+       "slug": "abhinav-sunder-nayak"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ramu Sunil",
+       "slug": "ramu-sunil"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Viswajith Odukkathil",
+       "slug": "viswajith-odukkathil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nidhin Raj Arol",
+       "slug": "nidhin-raj-arol"
+      },
+      {
+       "name": "Abhinav Sunder Nayak",
+       "slug": "abhinav-sunder-nayak"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ashiq Usman",
+       "slug": "ashiq-usman"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ashiq Usman Productions",
+     "slug": "ashiq-usman-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/viOe7LjhByej4jThVYcwp9SVNfM.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-07-03",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-06-26": [
+     {
+      "id": 795,
+      "title": "Supergirl",
+      "img": "https://image.tmdb.org/t/p/original/niSvU02l2BONH9ivubV6K1a5QiK.jpg"
+     },
+     {
+      "id": 1169,
+      "title": "Uyir",
+      "img": "https://image.tmdb.org/t/p/original/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg"
+     },
+     {
+      "id": 1170,
+      "title": "Heartin",
+      "img": "https://image.tmdb.org/t/p/original/7xvMocNLZov64aOU1X3BRWawjD7.jpg"
+     }
+    ],
+    "2026-06-18": [
+     {
+      "id": 1063,
+      "title": "Colony",
+      "img": "https://image.tmdb.org/t/p/original/tzjoWjgro6HllRGei0wb11e6AEt.jpg"
+     },
+     {
+      "id": 1154,
+      "title": "Secret of Kalinga",
+      "img": "https://image.tmdb.org/t/p/original/8VsD78ZxP68dLtYYhKgqXbfSQbR.jpg"
+     }
+    ],
+    "2026-06-19": [
+     {
+      "id": 1079,
+      "title": "Balan",
+      "img": "https://image.tmdb.org/t/p/original/c6mFtfkOWplAUm3rniSBi7h1wsv.jpg"
+     },
+     {
+      "id": 1155,
+      "title": "Chinna Chinna Aasai",
+      "img": "https://image.tmdb.org/t/p/original/9uBqlrtZAoq160hEXyhmCv1NXcX.jpg"
+     },
+     {
+      "id": 1156,
+      "title": "Cocktail 2",
+      "img": "https://image.tmdb.org/t/p/original/hkDo2RN8tDsFl3J8wi4j7jy3sXU.jpg"
+     }
+    ],
+    "2026-06-05": [
+     {
+      "id": 1133,
+      "title": "Masters of the Universe",
+      "img": "https://image.tmdb.org/t/p/original/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg"
+     },
+     {
+      "id": 1138,
+      "title": "Parimala and Co",
+      "img": "https://image.tmdb.org/t/p/original/vN2TOTKin83av7hwYnwAKSd3EG8.jpg"
+     }
+    ],
+    "2026-06-11": [
+     {
+      "id": 1139,
+      "title": "Backrooms",
+      "img": "https://image.tmdb.org/t/p/original/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+     }
+    ],
+    "2026-06-10": [
+     {
+      "id": 1143,
+      "title": "Disclosure Day",
+      "img": "https://image.tmdb.org/t/p/original/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
+     }
+    ],
+    "2026-06-12": [
+     {
+      "id": 1145,
+      "title": "Bharat Bhhagya Viddhaata",
+      "img": "https://image.tmdb.org/t/p/original/bNXFBZYX50ttN0SYdOc0hPyDlpP.jpg"
+     },
+     {
+      "id": 1146,
+      "title": "Governor",
+      "img": "https://image.tmdb.org/t/p/original/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg"
+     },
+     {
+      "id": 1147,
+      "title": "Main Vaapas Aaunga",
+      "img": "https://image.tmdb.org/t/p/original/qVoRgy52uGlvEESuLuSLdlojk74.jpg"
+     }
+    ],
+    "2026-07-02": [
+     {
+      "id": 1177,
+      "title": "Minions u0026 Monsters",
+      "img": "https://image.tmdb.org/t/p/original/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+     }
+    ],
+    "2026-06-25": [
+     {
+      "id": 1180,
+      "title": "Ananthan Kaadu",
+      "img": "https://image.tmdb.org/t/p/original/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-06-05",
+     "gross": 15653556.199999997,
+     "sold": 89794,
+     "unsold": 146134,
+     "shows": 922,
+     "occ": 38.06,
+     "hf": "5",
+     "almost": "65",
+     "ff": "129",
+     "cumul": 15653556.199999997,
+     "lastUpdatedAt": "2026-06-05 23:58:01"
+    },
+    {
+     "label": "2026-06-06",
+     "gross": 15444535.199999997,
+     "sold": 87089,
+     "unsold": 130294,
+     "shows": 870,
+     "occ": 40.06,
+     "hf": "5",
+     "almost": "64",
+     "ff": "125",
+     "cumul": 31098091.399999995,
+     "lastUpdatedAt": "2026-06-06 23:58:01"
+    },
+    {
+     "label": "2026-06-07",
+     "gross": 16020107.2,
+     "sold": 90628,
+     "unsold": 124224,
+     "shows": 867,
+     "occ": 42.18,
+     "hf": "6",
+     "almost": "60",
+     "ff": "131",
+     "cumul": 47118198.599999994,
+     "lastUpdatedAt": "2026-06-07 23:58:01"
+    },
+    {
+     "label": "2026-06-08",
+     "gross": 5503534.999999999,
+     "sold": 31414,
+     "unsold": 175425,
+     "shows": 840,
+     "occ": 15.19,
+     "hf": "5",
+     "almost": "8",
+     "ff": "4",
+     "cumul": 52621733.599999994,
+     "lastUpdatedAt": "2026-06-08 23:56:01"
+    },
+    {
+     "label": "2026-06-09",
+     "gross": 4297815.199999999,
+     "sold": 24359,
+     "unsold": 178185,
+     "shows": 819,
+     "occ": 12.03,
+     "hf": "3",
+     "almost": "3",
+     "ff": "1",
+     "cumul": 56919548.8,
+     "lastUpdatedAt": "2026-06-09 23:57:00"
+    },
+    {
+     "label": "2026-06-10",
+     "gross": 3482988.799999999,
+     "sold": 19145,
+     "unsold": 177514,
+     "shows": 800,
+     "occ": 9.74,
+     "hf": "3",
+     "almost": "4",
+     "ff": "0",
+     "cumul": 60402537.599999994,
+     "lastUpdatedAt": "2026-06-10 23:56:01"
+    },
+    {
+     "label": "2026-06-11",
+     "gross": 2924698.7999999993,
+     "sold": 16189,
+     "unsold": 171256,
+     "shows": 755,
+     "occ": 8.64,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 63327236.39999999,
+     "lastUpdatedAt": "2026-06-11 23:56:02"
+    },
+    {
+     "label": "2026-06-12",
+     "gross": 2939050.1999999993,
+     "sold": 15977,
+     "unsold": 117317,
+     "shows": 600,
+     "occ": 11.99,
+     "hf": "1",
+     "almost": "3",
+     "ff": "2",
+     "cumul": 66266286.599999994,
+     "lastUpdatedAt": "2026-06-12 23:56:02"
+    },
+    {
+     "label": "2026-06-13",
+     "gross": 4967385.6,
+     "sold": 27011,
+     "unsold": 105040,
+     "shows": 596,
+     "occ": 20.45,
+     "hf": "2",
+     "almost": "8",
+     "ff": "12",
+     "cumul": 71233672.19999999,
+     "lastUpdatedAt": "2026-06-13 23:56:01"
+    },
+    {
+     "label": "2026-06-14",
+     "gross": 4453751.799999999,
+     "sold": 24702,
+     "unsold": 106277,
+     "shows": 595,
+     "occ": 18.86,
+     "hf": "1",
+     "almost": "8",
+     "ff": "9",
+     "cumul": 75687423.99999999,
+     "lastUpdatedAt": "2026-06-14 23:56:01"
+    },
+    {
+     "label": "2026-06-15",
+     "gross": 1534308.5999999992,
+     "sold": 8763,
+     "unsold": 113114,
+     "shows": 555,
+     "occ": 7.19,
+     "hf": "4",
+     "almost": "4",
+     "ff": "0",
+     "cumul": 77221732.59999998,
+     "lastUpdatedAt": "2026-06-15 23:56:01"
+    },
+    {
+     "label": "2026-06-16",
+     "gross": 1336412.999999999,
+     "sold": 8402,
+     "unsold": 108379,
+     "shows": 531,
+     "occ": 7.19,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 78558145.59999998,
+     "lastUpdatedAt": "2026-06-16 23:56:01"
+    },
+    {
+     "label": "2026-06-17",
+     "gross": 1164124.799999999,
+     "sold": 6572,
+     "unsold": 105627,
+     "shows": 517,
+     "occ": 5.86,
+     "hf": "4",
+     "almost": "4",
+     "ff": "0",
+     "cumul": 79722270.39999998,
+     "lastUpdatedAt": "2026-06-17 23:56:01"
+    },
+    {
+     "label": "2026-06-18",
+     "gross": 1057385.399999999,
+     "sold": 5811,
+     "unsold": 91060,
+     "shows": 449,
+     "occ": 6,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 80779655.79999998,
+     "lastUpdatedAt": "2026-06-18 23:56:01"
+    },
+    {
+     "label": "2026-06-19",
+     "gross": 474652.4000000001,
+     "sold": 2471,
+     "unsold": 20176,
+     "shows": 95,
+     "occ": 10.91,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 81254308.19999999,
+     "lastUpdatedAt": "2026-06-19 23:18:01"
+    },
+    {
+     "label": "2026-06-20",
+     "gross": 660820.8,
+     "sold": 3276,
+     "unsold": 17438,
+     "shows": 88,
+     "occ": 15.82,
+     "hf": "0",
+     "almost": "1",
+     "ff": "2",
+     "cumul": 81915128.99999999,
+     "lastUpdatedAt": "2026-06-20 23:18:01"
+    },
+    {
+     "label": "2026-06-21",
+     "gross": 711047.4000000001,
+     "sold": 3896,
+     "unsold": 17912,
+     "shows": 94,
+     "occ": 17.87,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 82626176.39999999,
+     "lastUpdatedAt": "2026-06-21 23:18:01"
+    },
+    {
+     "label": "2026-06-22",
+     "gross": 335082.6000000001,
+     "sold": 1947,
+     "unsold": 19535,
+     "shows": 97,
+     "occ": 9.06,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 82961258.99999999,
+     "lastUpdatedAt": "2026-06-22 23:18:01"
+    },
+    {
+     "label": "2026-06-23",
+     "gross": 47343.60000000008,
+     "sold": 345,
+     "unsold": 5220,
+     "shows": 26,
+     "occ": 6.2,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 83008602.59999998,
+     "lastUpdatedAt": "2026-06-23 12:28:01"
+    },
+    {
+     "label": "2026-06-24",
+     "gross": 210122.20000000007,
+     "sold": 1058,
+     "unsold": 15082,
+     "shows": 81,
+     "occ": 6.56,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 83218724.79999998,
+     "lastUpdatedAt": "2026-06-24 23:28:01"
+    },
+    {
+     "label": "2026-06-25",
+     "gross": 125228,
+     "sold": 613,
+     "unsold": 6530,
+     "shows": 38,
+     "occ": 8.58,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 83343952.79999998,
+     "lastUpdatedAt": "2026-06-25 22:23:01"
+    },
+    {
+     "label": "2026-06-26",
+     "gross": 70100,
+     "sold": 290,
+     "unsold": 755,
+     "shows": 7,
+     "occ": 27.75,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 83414052.79999998,
+     "lastUpdatedAt": "2026-06-26 23:14:01"
+    },
+    {
+     "label": "2026-06-27",
+     "gross": 101670,
+     "sold": 370,
+     "unsold": 673,
+     "shows": 7,
+     "occ": 35.47,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 83515722.79999998,
+     "lastUpdatedAt": "2026-06-27 23:14:01"
+    },
+    {
+     "label": "2026-06-28",
+     "gross": 67630,
+     "sold": 309,
+     "unsold": 663,
+     "shows": 6,
+     "occ": 31.79,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 83583352.79999998,
+     "lastUpdatedAt": "2026-06-28 23:14:01"
+    },
+    {
+     "label": "2026-06-29",
+     "gross": 22720,
+     "sold": 93,
+     "unsold": 879,
+     "shows": 5,
+     "occ": 9.57,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 83606072.79999998,
+     "lastUpdatedAt": "2026-06-29 23:14:01"
+    },
+    {
+     "label": "2026-06-30",
+     "gross": 24851,
+     "sold": 172,
+     "unsold": 906,
+     "shows": 6,
+     "occ": 15.96,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 83630923.79999998,
+     "lastUpdatedAt": "2026-06-30 23:14:01"
+    },
+    {
+     "label": "2026-07-01",
+     "gross": 13310,
+     "sold": 59,
+     "unsold": 1019,
+     "shows": 6,
+     "occ": 5.47,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 83644233.79999998,
+     "lastUpdatedAt": "2026-07-01 23:14:01"
+    },
+    {
+     "label": "2026-07-02",
+     "gross": 15910,
+     "sold": 75,
+     "unsold": 1003,
+     "shows": 6,
+     "occ": 6.96,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 83660143.79999998,
+     "lastUpdatedAt": "2026-07-02 19:28:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 83660143.79999998,
+    "totalShows": 10278,
+    "totalSeats": 2428467,
+    "totalSold": 470830,
+    "avgOcc": "19.4",
+    "totalDays": 28,
+    "totalHousefull": 52,
+    "totalAlmost": 245,
+    "totalFastFilling": 415,
+    "peakDay": {
+     "day": 3,
+     "gross": 16020107.2,
+     "date": "2026-06-07"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 15653556.199999997,
+     "date": "2026-06-05"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 100,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "mild",
+   "_hash": "28:15910:83660143.79999998"
+  },
+  "week": {
+   "movie": {
+    "id": 1092,
+    "title": "Mollywood Times",
+    "img": "https://image.tmdb.org/t/p/original/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg",
+    "released": "2026-06-05",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29959401",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": "Comedy, Drama",
+    "plot": "Vineeth Madhavan, a teenager hailing from Kuttikkanam who aspires to direct films. This coming-of-age comedy serves as an antithesis to the umpteen love letters written to cinema since the beginning of time.",
+    "released": "2026-06-05",
+    "director": "Abhinav Sunder Nayak",
+    "directorSlug": "abhinav-sunder-nayak",
+    "actors": [
+     "Naslen",
+     "Roshan Shanavas",
+     "Althaf Salim",
+     "Sangeeth Prathap",
+     "Sharafudheen",
+     "Prasanth Alexander"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 5504,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Naslen",
+     "character": "Vineeth Madhavan",
+     "slug": "naslen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8cAVtELGh2ZL5DhyijYBiAQF2Zt.jpg"
+    },
+    {
+     "name": "Roshan Shanavas",
+     "character": "Sujith Raj (Suji)",
+     "slug": "roshan-shanavas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lotiqK0sfK4rZKV6tHvHrg9Cty3.jpg"
+    },
+    {
+     "name": "Althaf Salim",
+     "character": "Sunil Ettan",
+     "slug": "althaf-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wYFAsF8f4Ak26c4t5J1IfBBxP0W.jpg"
+    },
+    {
+     "name": "Sangeeth Prathap",
+     "character": "Arjun Haridas",
+     "slug": "sangeeth-prathap",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2f7mTmZ1RttbacuADm6vv7xpTAi.jpg"
+    },
+    {
+     "name": "Sharafudheen",
+     "character": "Sachin Vaikom David",
+     "slug": "sharafudheen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+    },
+    {
+     "name": "Prasanth Alexander",
+     "character": "Madhavan",
+     "slug": "prasanth-alexander",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QTEvNPnSxAb7WHDsIOr0hxDNDP.jpg"
+    },
+    {
+     "name": "Gopika Ramesh",
+     "character": "Hana Shajahan",
+     "slug": "gopika-ramesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/neFrocaEugbnJCI0BPIXWY0R6bX.jpg"
+    },
+    {
+     "name": "Sreerang Shine",
+     "character": "Young Sachin Vaikkom David",
+     "slug": "sreerang-shine",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abhinav Sunder Nayak",
+       "slug": "abhinav-sunder-nayak"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ramu Sunil",
+       "slug": "ramu-sunil"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Viswajith Odukkathil",
+       "slug": "viswajith-odukkathil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nidhin Raj Arol",
+       "slug": "nidhin-raj-arol"
+      },
+      {
+       "name": "Abhinav Sunder Nayak",
+       "slug": "abhinav-sunder-nayak"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ashiq Usman",
+       "slug": "ashiq-usman"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ashiq Usman Productions",
+     "slug": "ashiq-usman-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/viOe7LjhByej4jThVYcwp9SVNfM.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-07-03",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-06-26": [
+     {
+      "id": 795,
+      "title": "Supergirl",
+      "img": "https://image.tmdb.org/t/p/original/niSvU02l2BONH9ivubV6K1a5QiK.jpg"
+     },
+     {
+      "id": 1169,
+      "title": "Uyir",
+      "img": "https://image.tmdb.org/t/p/original/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg"
+     },
+     {
+      "id": 1170,
+      "title": "Heartin",
+      "img": "https://image.tmdb.org/t/p/original/7xvMocNLZov64aOU1X3BRWawjD7.jpg"
+     }
+    ],
+    "2026-06-18": [
+     {
+      "id": 1063,
+      "title": "Colony",
+      "img": "https://image.tmdb.org/t/p/original/tzjoWjgro6HllRGei0wb11e6AEt.jpg"
+     },
+     {
+      "id": 1154,
+      "title": "Secret of Kalinga",
+      "img": "https://image.tmdb.org/t/p/original/8VsD78ZxP68dLtYYhKgqXbfSQbR.jpg"
+     }
+    ],
+    "2026-06-19": [
+     {
+      "id": 1079,
+      "title": "Balan",
+      "img": "https://image.tmdb.org/t/p/original/c6mFtfkOWplAUm3rniSBi7h1wsv.jpg"
+     },
+     {
+      "id": 1155,
+      "title": "Chinna Chinna Aasai",
+      "img": "https://image.tmdb.org/t/p/original/9uBqlrtZAoq160hEXyhmCv1NXcX.jpg"
+     },
+     {
+      "id": 1156,
+      "title": "Cocktail 2",
+      "img": "https://image.tmdb.org/t/p/original/hkDo2RN8tDsFl3J8wi4j7jy3sXU.jpg"
+     }
+    ],
+    "2026-06-05": [
+     {
+      "id": 1133,
+      "title": "Masters of the Universe",
+      "img": "https://image.tmdb.org/t/p/original/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg"
+     },
+     {
+      "id": 1138,
+      "title": "Parimala and Co",
+      "img": "https://image.tmdb.org/t/p/original/vN2TOTKin83av7hwYnwAKSd3EG8.jpg"
+     }
+    ],
+    "2026-06-11": [
+     {
+      "id": 1139,
+      "title": "Backrooms",
+      "img": "https://image.tmdb.org/t/p/original/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+     }
+    ],
+    "2026-06-10": [
+     {
+      "id": 1143,
+      "title": "Disclosure Day",
+      "img": "https://image.tmdb.org/t/p/original/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
+     }
+    ],
+    "2026-06-12": [
+     {
+      "id": 1145,
+      "title": "Bharat Bhhagya Viddhaata",
+      "img": "https://image.tmdb.org/t/p/original/bNXFBZYX50ttN0SYdOc0hPyDlpP.jpg"
+     },
+     {
+      "id": 1146,
+      "title": "Governor",
+      "img": "https://image.tmdb.org/t/p/original/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg"
+     },
+     {
+      "id": 1147,
+      "title": "Main Vaapas Aaunga",
+      "img": "https://image.tmdb.org/t/p/original/qVoRgy52uGlvEESuLuSLdlojk74.jpg"
+     }
+    ],
+    "2026-07-02": [
+     {
+      "id": 1177,
+      "title": "Minions u0026 Monsters",
+      "img": "https://image.tmdb.org/t/p/original/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+     }
+    ],
+    "2026-06-25": [
+     {
+      "id": 1180,
+      "title": "Ananthan Kaadu",
+      "img": "https://image.tmdb.org/t/p/original/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-06-05",
+     "gross": 63327236.400000006,
+     "sold": 358618,
+     "unsold": 1103032,
+     "shows": 5873,
+     "occ": 24.54,
+     "hf": "28",
+     "almost": "205",
+     "ff": "390",
+     "cumul": 63327236.400000006,
+     "lastUpdatedAt": "2026-06-11 23:56:02"
+    },
+    {
+     "label": "2026-06-12",
+     "gross": 17452419.39999999,
+     "sold": 97238,
+     "unsold": 746814,
+     "shows": 3843,
+     "occ": 11.52,
+     "hf": "17",
+     "almost": "32",
+     "ff": "23",
+     "cumul": 80779655.8,
+     "lastUpdatedAt": "2026-06-18 23:56:01"
+    },
+    {
+     "label": "2026-06-19",
+     "gross": 2564297.0000000005,
+     "sold": 13606,
+     "unsold": 101893,
+     "shows": 519,
+     "occ": 11.78,
+     "hf": "6",
+     "almost": "7",
+     "ff": "2",
+     "cumul": 83343952.8,
+     "lastUpdatedAt": "2026-06-25 22:23:01"
+    },
+    {
+     "label": "2026-06-26",
+     "gross": 316191,
+     "sold": 1368,
+     "unsold": 5898,
+     "shows": 43,
+     "occ": 18.83,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 83660143.8,
+     "lastUpdatedAt": "2026-07-02 19:28:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 83660143.8,
+    "totalShows": 10278,
+    "totalSeats": 2428467,
+    "totalSold": 470830,
+    "avgOcc": "19.4",
+    "totalDays": 4,
+    "totalHousefull": 52,
+    "totalAlmost": 245,
+    "totalFastFilling": 415,
+    "peakDay": {
+     "day": 1,
+     "gross": 63327236.400000006
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 63327236.400000006
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 100,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "mild",
+   "_hash": "4:316191:83660143.8"
+  },
+  "district": {
+   "movie": {
+    "id": 1092,
+    "title": "Mollywood Times",
+    "img": "https://image.tmdb.org/t/p/original/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg",
+    "released": "2026-06-05",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29959401",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": "Comedy, Drama",
+    "plot": "Vineeth Madhavan, a teenager hailing from Kuttikkanam who aspires to direct films. This coming-of-age comedy serves as an antithesis to the umpteen love letters written to cinema since the beginning of time.",
+    "released": "2026-06-05",
+    "director": "Abhinav Sunder Nayak",
+    "directorSlug": "abhinav-sunder-nayak",
+    "actors": [
+     "Naslen",
+     "Roshan Shanavas",
+     "Althaf Salim",
+     "Sangeeth Prathap",
+     "Sharafudheen",
+     "Prasanth Alexander"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 5504,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Naslen",
+     "character": "Vineeth Madhavan",
+     "slug": "naslen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8cAVtELGh2ZL5DhyijYBiAQF2Zt.jpg"
+    },
+    {
+     "name": "Roshan Shanavas",
+     "character": "Sujith Raj (Suji)",
+     "slug": "roshan-shanavas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lotiqK0sfK4rZKV6tHvHrg9Cty3.jpg"
+    },
+    {
+     "name": "Althaf Salim",
+     "character": "Sunil Ettan",
+     "slug": "althaf-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wYFAsF8f4Ak26c4t5J1IfBBxP0W.jpg"
+    },
+    {
+     "name": "Sangeeth Prathap",
+     "character": "Arjun Haridas",
+     "slug": "sangeeth-prathap",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2f7mTmZ1RttbacuADm6vv7xpTAi.jpg"
+    },
+    {
+     "name": "Sharafudheen",
+     "character": "Sachin Vaikom David",
+     "slug": "sharafudheen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+    },
+    {
+     "name": "Prasanth Alexander",
+     "character": "Madhavan",
+     "slug": "prasanth-alexander",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QTEvNPnSxAb7WHDsIOr0hxDNDP.jpg"
+    },
+    {
+     "name": "Gopika Ramesh",
+     "character": "Hana Shajahan",
+     "slug": "gopika-ramesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/neFrocaEugbnJCI0BPIXWY0R6bX.jpg"
+    },
+    {
+     "name": "Sreerang Shine",
+     "character": "Young Sachin Vaikkom David",
+     "slug": "sreerang-shine",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abhinav Sunder Nayak",
+       "slug": "abhinav-sunder-nayak"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ramu Sunil",
+       "slug": "ramu-sunil"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Viswajith Odukkathil",
+       "slug": "viswajith-odukkathil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nidhin Raj Arol",
+       "slug": "nidhin-raj-arol"
+      },
+      {
+       "name": "Abhinav Sunder Nayak",
+       "slug": "abhinav-sunder-nayak"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ashiq Usman",
+       "slug": "ashiq-usman"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ashiq Usman Productions",
+     "slug": "ashiq-usman-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/viOe7LjhByej4jThVYcwp9SVNfM.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-07-03",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-06-26": [
+     {
+      "id": 795,
+      "title": "Supergirl",
+      "img": "https://image.tmdb.org/t/p/original/niSvU02l2BONH9ivubV6K1a5QiK.jpg"
+     },
+     {
+      "id": 1169,
+      "title": "Uyir",
+      "img": "https://image.tmdb.org/t/p/original/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg"
+     },
+     {
+      "id": 1170,
+      "title": "Heartin",
+      "img": "https://image.tmdb.org/t/p/original/7xvMocNLZov64aOU1X3BRWawjD7.jpg"
+     }
+    ],
+    "2026-06-18": [
+     {
+      "id": 1063,
+      "title": "Colony",
+      "img": "https://image.tmdb.org/t/p/original/tzjoWjgro6HllRGei0wb11e6AEt.jpg"
+     },
+     {
+      "id": 1154,
+      "title": "Secret of Kalinga",
+      "img": "https://image.tmdb.org/t/p/original/8VsD78ZxP68dLtYYhKgqXbfSQbR.jpg"
+     }
+    ],
+    "2026-06-19": [
+     {
+      "id": 1079,
+      "title": "Balan",
+      "img": "https://image.tmdb.org/t/p/original/c6mFtfkOWplAUm3rniSBi7h1wsv.jpg"
+     },
+     {
+      "id": 1155,
+      "title": "Chinna Chinna Aasai",
+      "img": "https://image.tmdb.org/t/p/original/9uBqlrtZAoq160hEXyhmCv1NXcX.jpg"
+     },
+     {
+      "id": 1156,
+      "title": "Cocktail 2",
+      "img": "https://image.tmdb.org/t/p/original/hkDo2RN8tDsFl3J8wi4j7jy3sXU.jpg"
+     }
+    ],
+    "2026-06-05": [
+     {
+      "id": 1133,
+      "title": "Masters of the Universe",
+      "img": "https://image.tmdb.org/t/p/original/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg"
+     },
+     {
+      "id": 1138,
+      "title": "Parimala and Co",
+      "img": "https://image.tmdb.org/t/p/original/vN2TOTKin83av7hwYnwAKSd3EG8.jpg"
+     }
+    ],
+    "2026-06-11": [
+     {
+      "id": 1139,
+      "title": "Backrooms",
+      "img": "https://image.tmdb.org/t/p/original/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+     }
+    ],
+    "2026-06-10": [
+     {
+      "id": 1143,
+      "title": "Disclosure Day",
+      "img": "https://image.tmdb.org/t/p/original/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
+     }
+    ],
+    "2026-06-12": [
+     {
+      "id": 1145,
+      "title": "Bharat Bhhagya Viddhaata",
+      "img": "https://image.tmdb.org/t/p/original/bNXFBZYX50ttN0SYdOc0hPyDlpP.jpg"
+     },
+     {
+      "id": 1146,
+      "title": "Governor",
+      "img": "https://image.tmdb.org/t/p/original/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg"
+     },
+     {
+      "id": 1147,
+      "title": "Main Vaapas Aaunga",
+      "img": "https://image.tmdb.org/t/p/original/qVoRgy52uGlvEESuLuSLdlojk74.jpg"
+     }
+    ],
+    "2026-07-02": [
+     {
+      "id": 1177,
+      "title": "Minions u0026 Monsters",
+      "img": "https://image.tmdb.org/t/p/original/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+     }
+    ],
+    "2026-06-25": [
+     {
+      "id": 1180,
+      "title": "Ananthan Kaadu",
+      "img": "https://image.tmdb.org/t/p/original/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 24110196,
+     "sold": 115136,
+     "unsold": 287268,
+     "shows": 1715,
+     "occ": 28.61,
+     "hf": "11",
+     "almost": "80",
+     "ff": "137",
+     "cumul": 24110196,
+     "lastUpdatedAt": "2026-07-02 16:43:01"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 11490410,
+     "sold": 69253,
+     "unsold": 285462,
+     "shows": 1366,
+     "occ": 19.52,
+     "hf": "4",
+     "almost": "14",
+     "ff": "35",
+     "cumul": 35600606,
+     "lastUpdatedAt": "2026-07-02 19:28:01"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 11322857,
+     "sold": 58207,
+     "unsold": 275140,
+     "shows": 1228,
+     "occ": 17.46,
+     "hf": "10",
+     "almost": "42",
+     "ff": "47",
+     "cumul": 46923463,
+     "lastUpdatedAt": "2026-06-30 13:48:01"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 10150318.399999999,
+     "sold": 54492,
+     "unsold": 158908,
+     "shows": 1103,
+     "occ": 25.54,
+     "hf": "19",
+     "almost": "64",
+     "ff": "83",
+     "cumul": 57073781.4,
+     "lastUpdatedAt": "2026-07-02 13:28:01"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 5594547.000000001,
+     "sold": 39532,
+     "unsold": 133527,
+     "shows": 795,
+     "occ": 22.84,
+     "hf": "2",
+     "almost": "17",
+     "ff": "35",
+     "cumul": 62668328.4,
+     "lastUpdatedAt": "2026-06-25 17:28:01"
+    },
+    {
+     "label": "Kannur",
+     "gross": 3964055.1999999885,
+     "sold": 24447,
+     "unsold": 173475,
+     "shows": 996,
+     "occ": 12.35,
+     "hf": "1",
+     "almost": "5",
+     "ff": "21",
+     "cumul": 66632383.59999999,
+     "lastUpdatedAt": "2026-06-25 17:18:01"
+    },
+    {
+     "label": "Kollam",
+     "gross": 3886508,
+     "sold": 22206,
+     "unsold": 150738,
+     "shows": 703,
+     "occ": 12.84,
+     "hf": "3",
+     "almost": "12",
+     "ff": "15",
+     "cumul": 70518891.6,
+     "lastUpdatedAt": "2026-06-25 21:28:01"
+    },
+    {
+     "label": "Kottayam",
+     "gross": 3309330,
+     "sold": 21596,
+     "unsold": 140138,
+     "shows": 634,
+     "occ": 13.35,
+     "hf": "0",
+     "almost": "0",
+     "ff": "5",
+     "cumul": 73828221.6,
+     "lastUpdatedAt": "2026-06-25 21:13:00"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 2995649,
+     "sold": 22123,
+     "unsold": 111206,
+     "shows": 574,
+     "occ": 16.59,
+     "hf": "0",
+     "almost": "7",
+     "ff": "15",
+     "cumul": 76823870.6,
+     "lastUpdatedAt": "2026-06-25 21:13:00"
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 2881535,
+     "sold": 17764,
+     "unsold": 85719,
+     "shows": 441,
+     "occ": 17.17,
+     "hf": "2",
+     "almost": "4",
+     "ff": "10",
+     "cumul": 79705405.6,
+     "lastUpdatedAt": "2026-06-24 18:08:01"
+    },
+    {
+     "label": "Idukki",
+     "gross": 1277144,
+     "sold": 7921,
+     "unsold": 58396,
+     "shows": 249,
+     "occ": 11.94,
+     "hf": "0",
+     "almost": "0",
+     "ff": "2",
+     "cumul": 80982549.6,
+     "lastUpdatedAt": "2026-06-25 18:28:01"
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 1198118,
+     "sold": 7896,
+     "unsold": 36623,
+     "shows": 141,
+     "occ": 17.74,
+     "hf": "0",
+     "almost": "0",
+     "ff": "6",
+     "cumul": 82180667.6,
+     "lastUpdatedAt": "2026-06-25 13:23:01"
+    },
+    {
+     "label": "Pathanamthitta",
+     "gross": 774540,
+     "sold": 4768,
+     "unsold": 27450,
+     "shows": 151,
+     "occ": 14.8,
+     "hf": "0",
+     "almost": "0",
+     "ff": "3",
+     "cumul": 82955207.6,
+     "lastUpdatedAt": "2026-06-18 21:58:01"
+    },
+    {
+     "label": "Wayanad",
+     "gross": 699296.1999999998,
+     "sold": 5460,
+     "unsold": 33270,
+     "shows": 180,
+     "occ": 14.1,
+     "hf": "0",
+     "almost": "0",
+     "ff": "1",
+     "cumul": 83654503.8,
+     "lastUpdatedAt": "2026-06-18 20:44:01"
+    },
+    {
+     "label": "Thiruvananthapuram (Trivandrum)",
+     "gross": 5640,
+     "sold": 29,
+     "unsold": 317,
+     "shows": 2,
+     "occ": 8.38,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 83660143.8,
+     "lastUpdatedAt": "2026-07-02 13:48:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 83660143.8,
+    "totalShows": 10278,
+    "totalSeats": 2428467,
+    "totalSold": 470830,
+    "avgOcc": "19.4",
+    "totalDays": 15,
+    "totalHousefull": 52,
+    "totalAlmost": 245,
+    "totalFastFilling": 415,
+    "peakDay": {
+     "day": 1,
+     "gross": 24110196,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 24110196,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 100,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "mild",
+   "_hash": "15:5640:83660143.8"
+  }
+ }
+}

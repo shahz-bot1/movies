@@ -1,0 +1,698 @@
+{
+ "id": 221,
+ "slug": "conclave",
+ "source_url": "https://fridaymatinee.in/boxoffice/conclave-221",
+ "captured_at": "2026-10-01T18:06:57.404747+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 221,
+    "title": "Conclave",
+    "img": "https://image.tmdb.org/t/p/original/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+    "released": "2024-10-25",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt20215234",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG",
+    "runtime": "120 min",
+    "genre": "Drama, Thriller",
+    "plot": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+    "released": "2024-10-25",
+    "director": "Edward Berger",
+    "directorSlug": "edward-berger",
+    "actors": [
+     "Ralph Fiennes",
+     "Stanley Tucci",
+     "John Lithgow",
+     "Isabella Rossellini",
+     "Lucian Msamati",
+     "Carlos Diehz"
+    ],
+    "awards": "Won 1 Oscar. 92 wins u0026 328 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.4",
+      "votes": 288674,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.2",
+      "votes": 3632,
+      "updatedAt": "2026-09-24T22:10:58.000Z"
+     },
+     "rt": "93%",
+     "metascore": 79,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ralph Fiennes",
+     "character": "Lawrence",
+     "slug": "ralph-fiennes",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg"
+    },
+    {
+     "name": "Stanley Tucci",
+     "character": "Bellini",
+     "slug": "stanley-tucci",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+    },
+    {
+     "name": "John Lithgow",
+     "character": "Tremblay",
+     "slug": "john-lithgow",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8Y1sjBdnVR483S8PrnAQzlESwhx.jpg"
+    },
+    {
+     "name": "Isabella Rossellini",
+     "character": "Sister Agnes",
+     "slug": "isabella-rossellini",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg"
+    },
+    {
+     "name": "Lucian Msamati",
+     "character": "Adeyemi",
+     "slug": "lucian-msamati",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vGPnCNjSL4JwVQ4yqh0XLK2GpXM.jpg"
+    },
+    {
+     "name": "Carlos Diehz",
+     "character": "Benitez",
+     "slug": "carlos-diehz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nFUIkEhybpBsIIUOWVUOJIgKUh5.jpg"
+    },
+    {
+     "name": "Sergio Castellitto",
+     "character": "Tedesco",
+     "slug": "sergio-castellitto",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uq5xz7kinzgdclGOcechgfPBgYC.jpg"
+    },
+    {
+     "name": "Brían F. O'Byrne",
+     "character": "O'Malley",
+     "slug": "brian-f-o-byrne",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9obqr2sZ0cf4z2ZsZoaHslSx45V.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Edward Berger",
+       "slug": "edward-berger"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Peter Straughan",
+       "slug": "peter-straughan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Volker Bertelmann",
+       "slug": "volker-bertelmann"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Stéphane Fontaine",
+       "slug": "stephane-fontaine"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nick Emerson",
+       "slug": "nick-emerson"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Tessa Ross",
+       "slug": "tessa-ross"
+      },
+      {
+       "name": "Alice Dawson",
+       "slug": "alice-dawson"
+      },
+      {
+       "name": "Juliette Howell",
+       "slug": "juliette-howell"
+      },
+      {
+       "name": "Michael Jackman",
+       "slug": "michael-jackman"
+      },
+      {
+       "name": "Robert Harris",
+       "slug": "robert-harris"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "FilmNation Entertainment",
+     "slug": "filmnation-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/fHitYiGUCkRafgt6VPYQlXWLkdp.png"
+    },
+    {
+     "name": "Indian Paintbrush",
+     "slug": "indian-paintbrush",
+     "logo": "https://image.tmdb.org/t/p/w185/xz60JVoUHpOeg1cJbxzMJiwbuL7.png"
+    },
+    {
+     "name": "House Productions",
+     "slug": "house-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/g95BBJvKyOawT3sGVXTdDG72Qad.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-11-26",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 223430,
+    "totalShows": 32,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 33640,
+     "date": "2025-02-07"
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 58950,
+     "date": "2025-02-08"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-10-25"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 221,
+    "title": "Conclave",
+    "img": "https://image.tmdb.org/t/p/original/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+    "released": "2024-10-25",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt20215234",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG",
+    "runtime": "120 min",
+    "genre": "Drama, Thriller",
+    "plot": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+    "released": "2024-10-25",
+    "director": "Edward Berger",
+    "directorSlug": "edward-berger",
+    "actors": [
+     "Ralph Fiennes",
+     "Stanley Tucci",
+     "John Lithgow",
+     "Isabella Rossellini",
+     "Lucian Msamati",
+     "Carlos Diehz"
+    ],
+    "awards": "Won 1 Oscar. 92 wins u0026 328 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.4",
+      "votes": 288674,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.2",
+      "votes": 3632,
+      "updatedAt": "2026-09-24T22:10:58.000Z"
+     },
+     "rt": "93%",
+     "metascore": 79,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ralph Fiennes",
+     "character": "Lawrence",
+     "slug": "ralph-fiennes",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg"
+    },
+    {
+     "name": "Stanley Tucci",
+     "character": "Bellini",
+     "slug": "stanley-tucci",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+    },
+    {
+     "name": "John Lithgow",
+     "character": "Tremblay",
+     "slug": "john-lithgow",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8Y1sjBdnVR483S8PrnAQzlESwhx.jpg"
+    },
+    {
+     "name": "Isabella Rossellini",
+     "character": "Sister Agnes",
+     "slug": "isabella-rossellini",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg"
+    },
+    {
+     "name": "Lucian Msamati",
+     "character": "Adeyemi",
+     "slug": "lucian-msamati",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vGPnCNjSL4JwVQ4yqh0XLK2GpXM.jpg"
+    },
+    {
+     "name": "Carlos Diehz",
+     "character": "Benitez",
+     "slug": "carlos-diehz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nFUIkEhybpBsIIUOWVUOJIgKUh5.jpg"
+    },
+    {
+     "name": "Sergio Castellitto",
+     "character": "Tedesco",
+     "slug": "sergio-castellitto",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uq5xz7kinzgdclGOcechgfPBgYC.jpg"
+    },
+    {
+     "name": "Brían F. O'Byrne",
+     "character": "O'Malley",
+     "slug": "brian-f-o-byrne",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9obqr2sZ0cf4z2ZsZoaHslSx45V.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Edward Berger",
+       "slug": "edward-berger"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Peter Straughan",
+       "slug": "peter-straughan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Volker Bertelmann",
+       "slug": "volker-bertelmann"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Stéphane Fontaine",
+       "slug": "stephane-fontaine"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nick Emerson",
+       "slug": "nick-emerson"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Tessa Ross",
+       "slug": "tessa-ross"
+      },
+      {
+       "name": "Alice Dawson",
+       "slug": "alice-dawson"
+      },
+      {
+       "name": "Juliette Howell",
+       "slug": "juliette-howell"
+      },
+      {
+       "name": "Michael Jackman",
+       "slug": "michael-jackman"
+      },
+      {
+       "name": "Robert Harris",
+       "slug": "robert-harris"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "FilmNation Entertainment",
+     "slug": "filmnation-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/fHitYiGUCkRafgt6VPYQlXWLkdp.png"
+    },
+    {
+     "name": "Indian Paintbrush",
+     "slug": "indian-paintbrush",
+     "logo": "https://image.tmdb.org/t/p/w185/xz60JVoUHpOeg1cJbxzMJiwbuL7.png"
+    },
+    {
+     "name": "House Productions",
+     "slug": "house-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/g95BBJvKyOawT3sGVXTdDG72Qad.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-11-26",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-02-07",
+     "gross": 223430,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 32,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 223430,
+    "totalShows": 32,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 223430
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 223430
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-10-25"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 221,
+    "title": "Conclave",
+    "img": "https://image.tmdb.org/t/p/original/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+    "released": "2024-10-25",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt20215234",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG",
+    "runtime": "120 min",
+    "genre": "Drama, Thriller",
+    "plot": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+    "released": "2024-10-25",
+    "director": "Edward Berger",
+    "directorSlug": "edward-berger",
+    "actors": [
+     "Ralph Fiennes",
+     "Stanley Tucci",
+     "John Lithgow",
+     "Isabella Rossellini",
+     "Lucian Msamati",
+     "Carlos Diehz"
+    ],
+    "awards": "Won 1 Oscar. 92 wins u0026 328 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.4",
+      "votes": 288674,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.2",
+      "votes": 3632,
+      "updatedAt": "2026-09-24T22:10:58.000Z"
+     },
+     "rt": "93%",
+     "metascore": 79,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ralph Fiennes",
+     "character": "Lawrence",
+     "slug": "ralph-fiennes",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg"
+    },
+    {
+     "name": "Stanley Tucci",
+     "character": "Bellini",
+     "slug": "stanley-tucci",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+    },
+    {
+     "name": "John Lithgow",
+     "character": "Tremblay",
+     "slug": "john-lithgow",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8Y1sjBdnVR483S8PrnAQzlESwhx.jpg"
+    },
+    {
+     "name": "Isabella Rossellini",
+     "character": "Sister Agnes",
+     "slug": "isabella-rossellini",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg"
+    },
+    {
+     "name": "Lucian Msamati",
+     "character": "Adeyemi",
+     "slug": "lucian-msamati",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vGPnCNjSL4JwVQ4yqh0XLK2GpXM.jpg"
+    },
+    {
+     "name": "Carlos Diehz",
+     "character": "Benitez",
+     "slug": "carlos-diehz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nFUIkEhybpBsIIUOWVUOJIgKUh5.jpg"
+    },
+    {
+     "name": "Sergio Castellitto",
+     "character": "Tedesco",
+     "slug": "sergio-castellitto",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uq5xz7kinzgdclGOcechgfPBgYC.jpg"
+    },
+    {
+     "name": "Brían F. O'Byrne",
+     "character": "O'Malley",
+     "slug": "brian-f-o-byrne",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9obqr2sZ0cf4z2ZsZoaHslSx45V.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Edward Berger",
+       "slug": "edward-berger"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Peter Straughan",
+       "slug": "peter-straughan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Volker Bertelmann",
+       "slug": "volker-bertelmann"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Stéphane Fontaine",
+       "slug": "stephane-fontaine"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nick Emerson",
+       "slug": "nick-emerson"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Tessa Ross",
+       "slug": "tessa-ross"
+      },
+      {
+       "name": "Alice Dawson",
+       "slug": "alice-dawson"
+      },
+      {
+       "name": "Juliette Howell",
+       "slug": "juliette-howell"
+      },
+      {
+       "name": "Michael Jackman",
+       "slug": "michael-jackman"
+      },
+      {
+       "name": "Robert Harris",
+       "slug": "robert-harris"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "FilmNation Entertainment",
+     "slug": "filmnation-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/fHitYiGUCkRafgt6VPYQlXWLkdp.png"
+    },
+    {
+     "name": "Indian Paintbrush",
+     "slug": "indian-paintbrush",
+     "logo": "https://image.tmdb.org/t/p/w185/xz60JVoUHpOeg1cJbxzMJiwbuL7.png"
+    },
+    {
+     "name": "House Productions",
+     "slug": "house-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/g95BBJvKyOawT3sGVXTdDG72Qad.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-11-26",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 223430,
+    "totalShows": 32,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 191690,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 191690,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-10-25"
+   }
+  }
+ }
+}

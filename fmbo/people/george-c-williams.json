@@ -1,0 +1,48 @@
+{
+ "slug": "george-c-williams",
+ "name": "George C. Williams",
+ "source_url": "https://fridaymatinee.in/people/george-c-williams",
+ "captured_at": "2026-10-01T22:29:44.212869+00:00",
+ "person": {
+  "name": "George C. Williams",
+  "photo": null,
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 228,
+   "movie_slug": "sardar",
+   "title": "Sardar",
+   "year": 2022,
+   "kerala_gross": "₹94.9L"
+  },
+  {
+   "movie_id": 963,
+   "movie_slug": "vaa-vaathiyaar",
+   "title": "Vaa Vaathiyaar",
+   "year": 2026,
+   "kerala_gross": "₹45.0L"
+  },
+  {
+   "movie_id": 1138,
+   "movie_slug": "parimala-and-co",
+   "title": "Parimala and Co",
+   "year": 2026,
+   "kerala_gross": "₹29.7L"
+  },
+  {
+   "movie_id": 1276,
+   "movie_slug": "sardar-2",
+   "title": "Sardar 2",
+   "year": 2026,
+   "kerala_gross": "₹42.6L"
+  }
+ ]
+}

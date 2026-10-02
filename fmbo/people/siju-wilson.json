@@ -1,0 +1,74 @@
+{
+ "slug": "siju-wilson",
+ "name": "Siju Wilson",
+ "source_url": "https://fridaymatinee.in/people/siju-wilson",
+ "captured_at": "2026-10-02T10:45:24.253138+00:00",
+ "person": {
+  "name": "Siju Wilson",
+  "photo": "https://image.tmdb.org/t/p/w185/nEZVAH6YnHnCHAVBPDkvgfE3cXY.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 7
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 58,
+   "movie_slug": "mariyam-vannu-vilakkoothi",
+   "title": "Mariyam Vannu Vilakkoothi",
+   "year": 2020,
+   "kerala_gross": "₹23.7L"
+  },
+  {
+   "movie_id": 59,
+   "movie_slug": "varane-avashyamund",
+   "title": "Varane Avashyamund",
+   "year": 2020,
+   "kerala_gross": "₹6.3 Cr"
+  },
+  {
+   "movie_id": 110,
+   "movie_slug": "upacharapoorvam-gunda-jayan",
+   "title": "Upacharapoorvam Gunda Jayan",
+   "year": 2022,
+   "kerala_gross": "₹36.7L"
+  },
+  {
+   "movie_id": 197,
+   "movie_slug": "pathombatham-noottandu",
+   "title": "Pathombatham Noottandu",
+   "year": 2022,
+   "kerala_gross": "₹7.7 Cr"
+  },
+  {
+   "movie_id": 235,
+   "movie_slug": "saturday-night",
+   "title": "Saturday Night",
+   "year": 2022,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 676,
+   "movie_slug": "detective-ujjwalan",
+   "title": "Detective Ujjwalan",
+   "year": 2025,
+   "kerala_gross": "₹4.2 Cr"
+  },
+  {
+   "movie_id": 1117,
+   "movie_slug": "dose",
+   "title": "Dose",
+   "year": 2026,
+   "kerala_gross": "₹8.2L"
+  }
+ ]
+}

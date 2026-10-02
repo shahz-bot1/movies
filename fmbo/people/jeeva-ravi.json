@@ -1,0 +1,48 @@
+{
+ "slug": "jeeva-ravi",
+ "name": "Jeeva Ravi",
+ "source_url": "https://fridaymatinee.in/people/jeeva-ravi",
+ "captured_at": "2026-10-01T23:07:42.151731+00:00",
+ "person": {
+  "name": "Jeeva Ravi",
+  "photo": "https://image.tmdb.org/t/p/w185/72blirHJXjubWWoHUvkPpPGIv1Z.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 409,
+   "movie_slug": "maaveeran",
+   "title": "Maaveeran",
+   "year": 2023,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 647,
+   "movie_slug": "vidaamuyarchi",
+   "title": "Vidaamuyarchi",
+   "year": 2025,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 762,
+   "movie_slug": "house-mates",
+   "title": "House Mates",
+   "year": 2025,
+   "kerala_gross": "₹1.1L"
+  },
+  {
+   "movie_id": 800,
+   "movie_slug": "indra",
+   "title": "Indra",
+   "year": 2025,
+   "kerala_gross": "₹6.0L"
+  }
+ ]
+}

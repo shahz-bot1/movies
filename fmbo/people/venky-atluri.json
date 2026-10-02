@@ -1,0 +1,46 @@
+{
+ "slug": "venky-atluri",
+ "name": "Venky Atluri",
+ "source_url": "https://fridaymatinee.in/people/venky-atluri",
+ "captured_at": "2026-10-02T11:40:52.823215+00:00",
+ "person": {
+  "name": "Venky Atluri",
+  "photo": "https://image.tmdb.org/t/p/w185/iT5fIq1duh31r3wzcVfFf3Qom0B.jpg",
+  "role": "Director and writer"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 297,
+   "movie_slug": "vaathi",
+   "title": "Vaathi",
+   "year": 2023,
+   "kerala_gross": "₹50.3L"
+  },
+  {
+   "movie_id": 537,
+   "movie_slug": "lucky-baskhar",
+   "title": "Lucky Baskhar",
+   "year": 2024,
+   "kerala_gross": "₹17.4 Cr"
+  },
+  {
+   "movie_id": 1225,
+   "movie_slug": "vishwanath-and-sons",
+   "title": "Vishwanath and Sons",
+   "year": 2026,
+   "kerala_gross": "₹7.2 Cr"
+  }
+ ]
+}

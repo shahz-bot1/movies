@@ -1,0 +1,55 @@
+{
+ "slug": "vijay-velukutty",
+ "name": "Vijay Velukutty",
+ "source_url": "https://fridaymatinee.in/people/vijay-velukutty",
+ "captured_at": "2026-10-02T11:44:20.471112+00:00",
+ "person": {
+  "name": "Vijay Velukutty",
+  "photo": null,
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 109,
+   "movie_slug": "valimai",
+   "title": "Valimai",
+   "year": 2022,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 271,
+   "movie_slug": "thunivu",
+   "title": "Thunivu",
+   "year": 2023,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 424,
+   "movie_slug": "mark-antony",
+   "title": "Mark Antony",
+   "year": 2023,
+   "kerala_gross": "₹2.5 Cr"
+  },
+  {
+   "movie_id": 664,
+   "movie_slug": "good-bad-ugly",
+   "title": "Good Bad Ugly",
+   "year": 2025,
+   "kerala_gross": "₹3.9 Cr"
+  },
+  {
+   "movie_id": 1276,
+   "movie_slug": "sardar-2",
+   "title": "Sardar 2",
+   "year": 2026,
+   "kerala_gross": "₹42.6L"
+  }
+ ]
+}

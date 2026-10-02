@@ -1,0 +1,62 @@
+{
+ "slug": "bobby-deol",
+ "name": "Bobby Deol",
+ "source_url": "https://fridaymatinee.in/people/bobby-deol",
+ "captured_at": "2026-10-01T21:21:17.806689+00:00",
+ "person": {
+  "name": "Bobby Deol",
+  "photo": "https://image.tmdb.org/t/p/w185/2npVa3PduichY8e7qBiE54m9VVP.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 20,
+   "movie_slug": "housefull-4",
+   "title": "Housefull 4",
+   "year": 2019,
+   "kerala_gross": "₹23.7L"
+  },
+  {
+   "movie_id": 468,
+   "movie_slug": "animal",
+   "title": "Animal",
+   "year": 2023,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 592,
+   "movie_slug": "kanguva",
+   "title": "Kanguva",
+   "year": 2024,
+   "kerala_gross": "₹4.7 Cr"
+  },
+  {
+   "movie_id": 731,
+   "movie_slug": "hari-hara-veera-mallu-part-1-sword-vs-spirit",
+   "title": "Hari Hara Veera Mallu - Part 1 Sword Vs Spirit",
+   "year": 2025,
+   "kerala_gross": "₹20.0L"
+  },
+  {
+   "movie_id": 785,
+   "movie_slug": "war-2",
+   "title": "War 2",
+   "year": 2025,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 956,
+   "movie_slug": "jana-nayagan",
+   "title": "Jana Nayagan",
+   "year": 2026,
+   "kerala_gross": "₹15.5 Cr"
+  }
+ ]
+}

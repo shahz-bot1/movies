@@ -1,0 +1,802 @@
+{
+ "id": 141,
+ "slug": "top-gun-maverick",
+ "source_url": "https://fridaymatinee.in/boxoffice/top-gun-maverick-141",
+ "captured_at": "2026-10-01T18:02:00.281904+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 141,
+    "title": "Top Gun Maverick",
+    "img": "https://image.tmdb.org/t/p/original/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+    "released": "2022-05-26",
+    "language": "english",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt1745960",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "131 min",
+    "genre": "Action, Drama",
+    "plot": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+    "released": "2022-05-21",
+    "director": "Joseph Kosinski",
+    "directorSlug": "joseph-kosinski",
+    "actors": [
+     "Tom Cruise",
+     "Val Kilmer",
+     "Miles Teller",
+     "Jennifer Connelly",
+     "Bashir Salahuddin",
+     "Jon Hamm"
+    ],
+    "awards": "Won 1 Oscar. 111 wins u0026 237 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.2",
+      "votes": 907260,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "8.2",
+      "votes": 11594,
+      "updatedAt": "2026-09-25T01:10:26.000Z"
+     },
+     "rt": "96%",
+     "metascore": 78,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tom Cruise",
+     "character": "Capt. Pete 'Maverick' Mitchell",
+     "slug": "tom-cruise",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+    },
+    {
+     "name": "Val Kilmer",
+     "character": "Adm. Tom 'Iceman' Kazansky",
+     "slug": "val-kilmer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sWH9jTD0bC5gWhhceUlzfNiNup0.jpg"
+    },
+    {
+     "name": "Miles Teller",
+     "character": "Lt. Bradley 'Rooster' Bradshaw",
+     "slug": "miles-teller",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aciu7YM8fD0BzrrA6cJ5wDKZIA6.jpg"
+    },
+    {
+     "name": "Jennifer Connelly",
+     "character": "Penny Benjamin",
+     "slug": "jennifer-connelly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
+    },
+    {
+     "name": "Bashir Salahuddin",
+     "character": "Wo-1. Bernie 'Hondo' Coleman",
+     "slug": "bashir-salahuddin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ZL5MRzjd6kWkvQXqh5mgPY1CKP.jpg"
+    },
+    {
+     "name": "Jon Hamm",
+     "character": "Adm. Beau 'Cyclone' Simpson",
+     "slug": "jon-hamm",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+    },
+    {
+     "name": "Charles Parnell",
+     "character": "Adm. Solomon 'Warlock' Bates",
+     "slug": "charles-parnell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wLywO5xtR97YKtkYb57hXEFpL7j.jpg"
+    },
+    {
+     "name": "Monica Barbaro",
+     "character": "Lt. Natasha 'Phoenix' Trace",
+     "slug": "monica-barbaro",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fcujBTiKyZgJzaDenhv5ryo9SyB.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Joseph Kosinski",
+       "slug": "joseph-kosinski"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Eric Warren Singer",
+       "slug": "eric-warren-singer"
+      },
+      {
+       "name": "Justin Marks",
+       "slug": "justin-marks"
+      },
+      {
+       "name": "Ehren Kruger",
+       "slug": "ehren-kruger"
+      },
+      {
+       "name": "Christopher McQuarrie",
+       "slug": "christopher-mcquarrie"
+      },
+      {
+       "name": "Peter Craig",
+       "slug": "peter-craig"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Lady Gaga",
+       "slug": "lady-gaga"
+      },
+      {
+       "name": "Harold Faltermeyer",
+       "slug": "harold-faltermeyer"
+      },
+      {
+       "name": "Hans Zimmer",
+       "slug": "hans-zimmer"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Claudio Miranda",
+       "slug": "claudio-miranda"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Eddie Hamilton",
+       "slug": "eddie-hamilton"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Christopher McQuarrie",
+       "slug": "christopher-mcquarrie"
+      },
+      {
+       "name": "Jerry Bruckheimer",
+       "slug": "jerry-bruckheimer"
+      },
+      {
+       "name": "David Ellison",
+       "slug": "david-ellison"
+      },
+      {
+       "name": "Tom Cruise",
+       "slug": "tom-cruise"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Skydance Media",
+     "slug": "skydance-media",
+     "logo": "https://image.tmdb.org/t/p/w185/gXfFl9pRPaoaq14jybEn1pHeldr.png"
+    },
+    {
+     "name": "Don Simpson/Jerry Bruckheimer Films",
+     "slug": "don-simpson-jerry-bruckheimer-films",
+     "logo": "https://image.tmdb.org/t/p/w185/Aszf09kIVXR6cwG9lwjZIawbYVS.png"
+    },
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-08-21",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 9393960.4,
+    "totalShows": 1666,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 658443,
+     "date": "2022-05-26"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 1562479,
+     "date": "2022-05-29"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-05-26"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 141,
+    "title": "Top Gun Maverick",
+    "img": "https://image.tmdb.org/t/p/original/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+    "released": "2022-05-26",
+    "language": "english",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt1745960",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "131 min",
+    "genre": "Action, Drama",
+    "plot": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+    "released": "2022-05-21",
+    "director": "Joseph Kosinski",
+    "directorSlug": "joseph-kosinski",
+    "actors": [
+     "Tom Cruise",
+     "Val Kilmer",
+     "Miles Teller",
+     "Jennifer Connelly",
+     "Bashir Salahuddin",
+     "Jon Hamm"
+    ],
+    "awards": "Won 1 Oscar. 111 wins u0026 237 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.2",
+      "votes": 907260,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "8.2",
+      "votes": 11594,
+      "updatedAt": "2026-09-25T01:10:26.000Z"
+     },
+     "rt": "96%",
+     "metascore": 78,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tom Cruise",
+     "character": "Capt. Pete 'Maverick' Mitchell",
+     "slug": "tom-cruise",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+    },
+    {
+     "name": "Val Kilmer",
+     "character": "Adm. Tom 'Iceman' Kazansky",
+     "slug": "val-kilmer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sWH9jTD0bC5gWhhceUlzfNiNup0.jpg"
+    },
+    {
+     "name": "Miles Teller",
+     "character": "Lt. Bradley 'Rooster' Bradshaw",
+     "slug": "miles-teller",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aciu7YM8fD0BzrrA6cJ5wDKZIA6.jpg"
+    },
+    {
+     "name": "Jennifer Connelly",
+     "character": "Penny Benjamin",
+     "slug": "jennifer-connelly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
+    },
+    {
+     "name": "Bashir Salahuddin",
+     "character": "Wo-1. Bernie 'Hondo' Coleman",
+     "slug": "bashir-salahuddin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ZL5MRzjd6kWkvQXqh5mgPY1CKP.jpg"
+    },
+    {
+     "name": "Jon Hamm",
+     "character": "Adm. Beau 'Cyclone' Simpson",
+     "slug": "jon-hamm",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+    },
+    {
+     "name": "Charles Parnell",
+     "character": "Adm. Solomon 'Warlock' Bates",
+     "slug": "charles-parnell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wLywO5xtR97YKtkYb57hXEFpL7j.jpg"
+    },
+    {
+     "name": "Monica Barbaro",
+     "character": "Lt. Natasha 'Phoenix' Trace",
+     "slug": "monica-barbaro",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fcujBTiKyZgJzaDenhv5ryo9SyB.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Joseph Kosinski",
+       "slug": "joseph-kosinski"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Eric Warren Singer",
+       "slug": "eric-warren-singer"
+      },
+      {
+       "name": "Justin Marks",
+       "slug": "justin-marks"
+      },
+      {
+       "name": "Ehren Kruger",
+       "slug": "ehren-kruger"
+      },
+      {
+       "name": "Christopher McQuarrie",
+       "slug": "christopher-mcquarrie"
+      },
+      {
+       "name": "Peter Craig",
+       "slug": "peter-craig"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Lady Gaga",
+       "slug": "lady-gaga"
+      },
+      {
+       "name": "Harold Faltermeyer",
+       "slug": "harold-faltermeyer"
+      },
+      {
+       "name": "Hans Zimmer",
+       "slug": "hans-zimmer"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Claudio Miranda",
+       "slug": "claudio-miranda"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Eddie Hamilton",
+       "slug": "eddie-hamilton"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Christopher McQuarrie",
+       "slug": "christopher-mcquarrie"
+      },
+      {
+       "name": "Jerry Bruckheimer",
+       "slug": "jerry-bruckheimer"
+      },
+      {
+       "name": "David Ellison",
+       "slug": "david-ellison"
+      },
+      {
+       "name": "Tom Cruise",
+       "slug": "tom-cruise"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Skydance Media",
+     "slug": "skydance-media",
+     "logo": "https://image.tmdb.org/t/p/w185/gXfFl9pRPaoaq14jybEn1pHeldr.png"
+    },
+    {
+     "name": "Don Simpson/Jerry Bruckheimer Films",
+     "slug": "don-simpson-jerry-bruckheimer-films",
+     "logo": "https://image.tmdb.org/t/p/w185/Aszf09kIVXR6cwG9lwjZIawbYVS.png"
+    },
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-08-21",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-05-26",
+     "gross": 7203806.4,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1360,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-06-02",
+     "gross": 2039315,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 288,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-06-09",
+     "gross": 150839,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 18,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 9393960.4,
+    "totalShows": 1666,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 7203806.4
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 7203806.4
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-05-26"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 141,
+    "title": "Top Gun Maverick",
+    "img": "https://image.tmdb.org/t/p/original/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+    "released": "2022-05-26",
+    "language": "english",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt1745960",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "131 min",
+    "genre": "Action, Drama",
+    "plot": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+    "released": "2022-05-21",
+    "director": "Joseph Kosinski",
+    "directorSlug": "joseph-kosinski",
+    "actors": [
+     "Tom Cruise",
+     "Val Kilmer",
+     "Miles Teller",
+     "Jennifer Connelly",
+     "Bashir Salahuddin",
+     "Jon Hamm"
+    ],
+    "awards": "Won 1 Oscar. 111 wins u0026 237 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.2",
+      "votes": 907260,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "8.2",
+      "votes": 11594,
+      "updatedAt": "2026-09-25T01:10:26.000Z"
+     },
+     "rt": "96%",
+     "metascore": 78,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tom Cruise",
+     "character": "Capt. Pete 'Maverick' Mitchell",
+     "slug": "tom-cruise",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+    },
+    {
+     "name": "Val Kilmer",
+     "character": "Adm. Tom 'Iceman' Kazansky",
+     "slug": "val-kilmer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sWH9jTD0bC5gWhhceUlzfNiNup0.jpg"
+    },
+    {
+     "name": "Miles Teller",
+     "character": "Lt. Bradley 'Rooster' Bradshaw",
+     "slug": "miles-teller",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aciu7YM8fD0BzrrA6cJ5wDKZIA6.jpg"
+    },
+    {
+     "name": "Jennifer Connelly",
+     "character": "Penny Benjamin",
+     "slug": "jennifer-connelly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
+    },
+    {
+     "name": "Bashir Salahuddin",
+     "character": "Wo-1. Bernie 'Hondo' Coleman",
+     "slug": "bashir-salahuddin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ZL5MRzjd6kWkvQXqh5mgPY1CKP.jpg"
+    },
+    {
+     "name": "Jon Hamm",
+     "character": "Adm. Beau 'Cyclone' Simpson",
+     "slug": "jon-hamm",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+    },
+    {
+     "name": "Charles Parnell",
+     "character": "Adm. Solomon 'Warlock' Bates",
+     "slug": "charles-parnell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wLywO5xtR97YKtkYb57hXEFpL7j.jpg"
+    },
+    {
+     "name": "Monica Barbaro",
+     "character": "Lt. Natasha 'Phoenix' Trace",
+     "slug": "monica-barbaro",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fcujBTiKyZgJzaDenhv5ryo9SyB.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Joseph Kosinski",
+       "slug": "joseph-kosinski"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Eric Warren Singer",
+       "slug": "eric-warren-singer"
+      },
+      {
+       "name": "Justin Marks",
+       "slug": "justin-marks"
+      },
+      {
+       "name": "Ehren Kruger",
+       "slug": "ehren-kruger"
+      },
+      {
+       "name": "Christopher McQuarrie",
+       "slug": "christopher-mcquarrie"
+      },
+      {
+       "name": "Peter Craig",
+       "slug": "peter-craig"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Lady Gaga",
+       "slug": "lady-gaga"
+      },
+      {
+       "name": "Harold Faltermeyer",
+       "slug": "harold-faltermeyer"
+      },
+      {
+       "name": "Hans Zimmer",
+       "slug": "hans-zimmer"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Claudio Miranda",
+       "slug": "claudio-miranda"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Eddie Hamilton",
+       "slug": "eddie-hamilton"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Christopher McQuarrie",
+       "slug": "christopher-mcquarrie"
+      },
+      {
+       "name": "Jerry Bruckheimer",
+       "slug": "jerry-bruckheimer"
+      },
+      {
+       "name": "David Ellison",
+       "slug": "david-ellison"
+      },
+      {
+       "name": "Tom Cruise",
+       "slug": "tom-cruise"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Skydance Media",
+     "slug": "skydance-media",
+     "logo": "https://image.tmdb.org/t/p/w185/gXfFl9pRPaoaq14jybEn1pHeldr.png"
+    },
+    {
+     "name": "Don Simpson/Jerry Bruckheimer Films",
+     "slug": "don-simpson-jerry-bruckheimer-films",
+     "logo": "https://image.tmdb.org/t/p/w185/Aszf09kIVXR6cwG9lwjZIawbYVS.png"
+    },
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-08-21",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 9393960.4,
+    "totalShows": 1666,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 3138805,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3138805,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-05-26"
+   }
+  }
+ }
+}

@@ -1,0 +1,956 @@
+{
+ "id": 1015,
+ "slug": "assi",
+ "source_url": "https://fridaymatinee.in/boxoffice/assi-1015",
+ "captured_at": "2026-10-01T18:38:17.642647+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1015,
+    "title": "Assi",
+    "img": "https://image.tmdb.org/t/p/original/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg",
+    "released": "2026-02-20",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt39392533",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "133 min",
+    "genre": "Crime, Drama, Thriller",
+    "plot": "When Parima, a school teacher in Delhi, is gang-raped on her way home late at night after an office party, Raavi, a prosecution lawyer, fights tooth and nail to help her get justice. But when eighty sexual assault cases are reported in India every single day, regardless of age group, ethnicity, time, or place,  and only four go to trial, what does justice really mean?",
+    "released": "2026-02-20",
+    "director": "Anubhav Sinha",
+    "directorSlug": "anubhav-sinha",
+    "actors": [
+     "Taapsee Pannu",
+     "Kani Kusruti",
+     "Mohammed Zeeshan Ayyub",
+     "Manoj Pahwa",
+     "Kumud Mishra",
+     "Revathi"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 5280,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "90%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Taapsee Pannu",
+     "character": "Raavi",
+     "slug": "taapsee-pannu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/43e24aeOC8AZITo6ShaKKG9aV0Y.jpg"
+    },
+    {
+     "name": "Kani Kusruti",
+     "character": "Parima",
+     "slug": "kani-kusruti",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8WCuR3HcPYBeS2tQusFTEl596hM.jpg"
+    },
+    {
+     "name": "Mohammed Zeeshan Ayyub",
+     "character": "Vinay",
+     "slug": "mohammed-zeeshan-ayyub",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cF1j8Vt9YPlOBjy3lfmhuF11dmD.jpg"
+    },
+    {
+     "name": "Manoj Pahwa",
+     "character": "Deepraj",
+     "slug": "manoj-pahwa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p7sufhnro3CM04au3L4KubTx43B.jpg"
+    },
+    {
+     "name": "Kumud Mishra",
+     "character": "Kartik",
+     "slug": "kumud-mishra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pM4eD7eIEPk2Lx0c5C1K201qnp6.jpg"
+    },
+    {
+     "name": "Revathi",
+     "character": "Vasudha",
+     "slug": "revathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sXS4erG255VJlP7XYAduNBNPyDL.jpg"
+    },
+    {
+     "name": "Naseeruddin Shah",
+     "character": "Basu Sir",
+     "slug": "naseeruddin-shah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aVCigTGfijAnnm7I7TZbceXzPMl.jpg"
+    },
+    {
+     "name": "Supriya Pathak",
+     "character": "Nikka's Mother",
+     "slug": "supriya-pathak",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cDvNa9XL425kBiyT4xqRGM8kK4H.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anubhav Sinha",
+       "slug": "anubhav-sinha"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Gaurav Solanki",
+       "slug": "gaurav-solanki"
+      },
+      {
+       "name": "Anubhav Sinha",
+       "slug": "anubhav-sinha"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ranjit Barot",
+       "slug": "ranjit-barot"
+      },
+      {
+       "name": "Rochak Kohli",
+       "slug": "rochak-kohli"
+      },
+      {
+       "name": "Swanand Kirkire",
+       "slug": "swanand-kirkire"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ewan Mulligan",
+       "slug": "ewan-mulligan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Amarjit Singh",
+       "slug": "amarjit-singh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Anubhav Sinha",
+       "slug": "anubhav-sinha"
+      },
+      {
+       "name": "Bhushan Kumar",
+       "slug": "bhushan-kumar"
+      },
+      {
+       "name": "Krishan Kumar",
+       "slug": "krishan-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Benaras Mediaworks",
+     "slug": "benaras-mediaworks",
+     "logo": null
+    },
+    {
+     "name": "T-Series",
+     "slug": "t-series",
+     "logo": "https://image.tmdb.org/t/p/w185/d3u51JgEP5KwPfxS13ocqvtzZeX.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-04-17",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-03-04": [
+     {
+      "id": 631,
+      "title": "The Bride",
+      "img": "https://image.tmdb.org/t/p/original/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+     }
+    ],
+    "2026-02-27": [
+     {
+      "id": 1019,
+      "title": "Hamnet",
+      "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+     },
+     {
+      "id": 1020,
+      "title": "Masthishka Maranam",
+      "img": "https://image.tmdb.org/t/p/original/tC6dhwbZ7LDCx9RyDNiPOaLvMId.jpg"
+     },
+     {
+      "id": 1022,
+      "title": "The Kerala Story 2 Goes Beyond",
+      "img": "https://image.tmdb.org/t/p/original/5btAk8YTRT3FLsqQBumN5eCk8xO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-02-23",
+     "gross": 31502,
+     "sold": 149,
+     "unsold": 1219,
+     "shows": 11,
+     "occ": 10.89,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 31502,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-24",
+     "gross": 17807,
+     "sold": 182,
+     "unsold": 826,
+     "shows": 8,
+     "occ": 18.06,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 49309,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-25",
+     "gross": 17203,
+     "sold": 88,
+     "unsold": 999,
+     "shows": 8,
+     "occ": 8.1,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 66512,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-26",
+     "gross": 19598,
+     "sold": 100,
+     "unsold": 770,
+     "shows": 6,
+     "occ": 11.49,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 86110,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-27",
+     "gross": 14900,
+     "sold": 75,
+     "unsold": 386,
+     "shows": 3,
+     "occ": 16.27,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 101010,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-28",
+     "gross": 28980,
+     "sold": 103,
+     "unsold": 359,
+     "shows": 3,
+     "occ": 22.29,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 129990,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-01",
+     "gross": 10380,
+     "sold": 49,
+     "unsold": 232,
+     "shows": 1,
+     "occ": 17.44,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 140370,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-02",
+     "gross": 8970,
+     "sold": 38,
+     "unsold": 457,
+     "shows": 4,
+     "occ": 7.68,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 149340,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-03",
+     "gross": 23730,
+     "sold": 112,
+     "unsold": 383,
+     "shows": 4,
+     "occ": 22.63,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 173070,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-04",
+     "gross": 11000,
+     "sold": 55,
+     "unsold": 382,
+     "shows": 3,
+     "occ": 12.59,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 184070,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-05",
+     "gross": 3420,
+     "sold": 15,
+     "unsold": 223,
+     "shows": 2,
+     "occ": 6.3,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 187490,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 187490,
+    "totalShows": 53,
+    "totalSeats": 7202,
+    "totalSold": 966,
+    "avgOcc": "13.4",
+    "totalDays": 11,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 31502,
+     "date": "2026-02-23"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 31502,
+     "date": "2026-02-23"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "11:3420:187490"
+  },
+  "week": {
+   "movie": {
+    "id": 1015,
+    "title": "Assi",
+    "img": "https://image.tmdb.org/t/p/original/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg",
+    "released": "2026-02-20",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt39392533",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "133 min",
+    "genre": "Crime, Drama, Thriller",
+    "plot": "When Parima, a school teacher in Delhi, is gang-raped on her way home late at night after an office party, Raavi, a prosecution lawyer, fights tooth and nail to help her get justice. But when eighty sexual assault cases are reported in India every single day, regardless of age group, ethnicity, time, or place,  and only four go to trial, what does justice really mean?",
+    "released": "2026-02-20",
+    "director": "Anubhav Sinha",
+    "directorSlug": "anubhav-sinha",
+    "actors": [
+     "Taapsee Pannu",
+     "Kani Kusruti",
+     "Mohammed Zeeshan Ayyub",
+     "Manoj Pahwa",
+     "Kumud Mishra",
+     "Revathi"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 5280,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "90%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Taapsee Pannu",
+     "character": "Raavi",
+     "slug": "taapsee-pannu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/43e24aeOC8AZITo6ShaKKG9aV0Y.jpg"
+    },
+    {
+     "name": "Kani Kusruti",
+     "character": "Parima",
+     "slug": "kani-kusruti",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8WCuR3HcPYBeS2tQusFTEl596hM.jpg"
+    },
+    {
+     "name": "Mohammed Zeeshan Ayyub",
+     "character": "Vinay",
+     "slug": "mohammed-zeeshan-ayyub",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cF1j8Vt9YPlOBjy3lfmhuF11dmD.jpg"
+    },
+    {
+     "name": "Manoj Pahwa",
+     "character": "Deepraj",
+     "slug": "manoj-pahwa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p7sufhnro3CM04au3L4KubTx43B.jpg"
+    },
+    {
+     "name": "Kumud Mishra",
+     "character": "Kartik",
+     "slug": "kumud-mishra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pM4eD7eIEPk2Lx0c5C1K201qnp6.jpg"
+    },
+    {
+     "name": "Revathi",
+     "character": "Vasudha",
+     "slug": "revathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sXS4erG255VJlP7XYAduNBNPyDL.jpg"
+    },
+    {
+     "name": "Naseeruddin Shah",
+     "character": "Basu Sir",
+     "slug": "naseeruddin-shah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aVCigTGfijAnnm7I7TZbceXzPMl.jpg"
+    },
+    {
+     "name": "Supriya Pathak",
+     "character": "Nikka's Mother",
+     "slug": "supriya-pathak",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cDvNa9XL425kBiyT4xqRGM8kK4H.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anubhav Sinha",
+       "slug": "anubhav-sinha"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Gaurav Solanki",
+       "slug": "gaurav-solanki"
+      },
+      {
+       "name": "Anubhav Sinha",
+       "slug": "anubhav-sinha"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ranjit Barot",
+       "slug": "ranjit-barot"
+      },
+      {
+       "name": "Rochak Kohli",
+       "slug": "rochak-kohli"
+      },
+      {
+       "name": "Swanand Kirkire",
+       "slug": "swanand-kirkire"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ewan Mulligan",
+       "slug": "ewan-mulligan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Amarjit Singh",
+       "slug": "amarjit-singh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Anubhav Sinha",
+       "slug": "anubhav-sinha"
+      },
+      {
+       "name": "Bhushan Kumar",
+       "slug": "bhushan-kumar"
+      },
+      {
+       "name": "Krishan Kumar",
+       "slug": "krishan-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Benaras Mediaworks",
+     "slug": "benaras-mediaworks",
+     "logo": null
+    },
+    {
+     "name": "T-Series",
+     "slug": "t-series",
+     "logo": "https://image.tmdb.org/t/p/w185/d3u51JgEP5KwPfxS13ocqvtzZeX.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-04-17",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-03-04": [
+     {
+      "id": 631,
+      "title": "The Bride",
+      "img": "https://image.tmdb.org/t/p/original/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+     }
+    ],
+    "2026-02-27": [
+     {
+      "id": 1019,
+      "title": "Hamnet",
+      "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+     },
+     {
+      "id": 1020,
+      "title": "Masthishka Maranam",
+      "img": "https://image.tmdb.org/t/p/original/tC6dhwbZ7LDCx9RyDNiPOaLvMId.jpg"
+     },
+     {
+      "id": 1022,
+      "title": "The Kerala Story 2 Goes Beyond",
+      "img": "https://image.tmdb.org/t/p/original/5btAk8YTRT3FLsqQBumN5eCk8xO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-02-23",
+     "gross": 140370,
+     "sold": 746,
+     "unsold": 4791,
+     "shows": 40,
+     "occ": 13.47,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 140370,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-02",
+     "gross": 47120,
+     "sold": 220,
+     "unsold": 1445,
+     "shows": 13,
+     "occ": 13.21,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 187490,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 187490,
+    "totalShows": 53,
+    "totalSeats": 7202,
+    "totalSold": 966,
+    "avgOcc": "13.4",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 140370
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 140370
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "2:47120:187490"
+  },
+  "district": {
+   "movie": {
+    "id": 1015,
+    "title": "Assi",
+    "img": "https://image.tmdb.org/t/p/original/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg",
+    "released": "2026-02-20",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt39392533",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "133 min",
+    "genre": "Crime, Drama, Thriller",
+    "plot": "When Parima, a school teacher in Delhi, is gang-raped on her way home late at night after an office party, Raavi, a prosecution lawyer, fights tooth and nail to help her get justice. But when eighty sexual assault cases are reported in India every single day, regardless of age group, ethnicity, time, or place,  and only four go to trial, what does justice really mean?",
+    "released": "2026-02-20",
+    "director": "Anubhav Sinha",
+    "directorSlug": "anubhav-sinha",
+    "actors": [
+     "Taapsee Pannu",
+     "Kani Kusruti",
+     "Mohammed Zeeshan Ayyub",
+     "Manoj Pahwa",
+     "Kumud Mishra",
+     "Revathi"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 5280,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "90%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Taapsee Pannu",
+     "character": "Raavi",
+     "slug": "taapsee-pannu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/43e24aeOC8AZITo6ShaKKG9aV0Y.jpg"
+    },
+    {
+     "name": "Kani Kusruti",
+     "character": "Parima",
+     "slug": "kani-kusruti",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8WCuR3HcPYBeS2tQusFTEl596hM.jpg"
+    },
+    {
+     "name": "Mohammed Zeeshan Ayyub",
+     "character": "Vinay",
+     "slug": "mohammed-zeeshan-ayyub",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cF1j8Vt9YPlOBjy3lfmhuF11dmD.jpg"
+    },
+    {
+     "name": "Manoj Pahwa",
+     "character": "Deepraj",
+     "slug": "manoj-pahwa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p7sufhnro3CM04au3L4KubTx43B.jpg"
+    },
+    {
+     "name": "Kumud Mishra",
+     "character": "Kartik",
+     "slug": "kumud-mishra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pM4eD7eIEPk2Lx0c5C1K201qnp6.jpg"
+    },
+    {
+     "name": "Revathi",
+     "character": "Vasudha",
+     "slug": "revathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sXS4erG255VJlP7XYAduNBNPyDL.jpg"
+    },
+    {
+     "name": "Naseeruddin Shah",
+     "character": "Basu Sir",
+     "slug": "naseeruddin-shah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aVCigTGfijAnnm7I7TZbceXzPMl.jpg"
+    },
+    {
+     "name": "Supriya Pathak",
+     "character": "Nikka's Mother",
+     "slug": "supriya-pathak",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cDvNa9XL425kBiyT4xqRGM8kK4H.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anubhav Sinha",
+       "slug": "anubhav-sinha"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Gaurav Solanki",
+       "slug": "gaurav-solanki"
+      },
+      {
+       "name": "Anubhav Sinha",
+       "slug": "anubhav-sinha"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ranjit Barot",
+       "slug": "ranjit-barot"
+      },
+      {
+       "name": "Rochak Kohli",
+       "slug": "rochak-kohli"
+      },
+      {
+       "name": "Swanand Kirkire",
+       "slug": "swanand-kirkire"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ewan Mulligan",
+       "slug": "ewan-mulligan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Amarjit Singh",
+       "slug": "amarjit-singh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Anubhav Sinha",
+       "slug": "anubhav-sinha"
+      },
+      {
+       "name": "Bhushan Kumar",
+       "slug": "bhushan-kumar"
+      },
+      {
+       "name": "Krishan Kumar",
+       "slug": "krishan-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Benaras Mediaworks",
+     "slug": "benaras-mediaworks",
+     "logo": null
+    },
+    {
+     "name": "T-Series",
+     "slug": "t-series",
+     "logo": "https://image.tmdb.org/t/p/w185/d3u51JgEP5KwPfxS13ocqvtzZeX.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-04-17",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-03-04": [
+     {
+      "id": 631,
+      "title": "The Bride",
+      "img": "https://image.tmdb.org/t/p/original/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+     }
+    ],
+    "2026-02-27": [
+     {
+      "id": 1019,
+      "title": "Hamnet",
+      "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+     },
+     {
+      "id": 1020,
+      "title": "Masthishka Maranam",
+      "img": "https://image.tmdb.org/t/p/original/tC6dhwbZ7LDCx9RyDNiPOaLvMId.jpg"
+     },
+     {
+      "id": 1022,
+      "title": "The Kerala Story 2 Goes Beyond",
+      "img": "https://image.tmdb.org/t/p/original/5btAk8YTRT3FLsqQBumN5eCk8xO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 113592,
+     "sold": 581,
+     "unsold": 4041,
+     "shows": 34,
+     "occ": 12.57,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 113592,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Trivandrum",
+     "gross": 60942,
+     "sold": 313,
+     "unsold": 1251,
+     "shows": 14,
+     "occ": 20.01,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 174534,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Thrissur",
+     "gross": 8476,
+     "sold": 52,
+     "unsold": 824,
+     "shows": 4,
+     "occ": 5.94,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 183010,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 4480,
+     "sold": 20,
+     "unsold": 120,
+     "shows": 1,
+     "occ": 14.29,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 187490,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 187490,
+    "totalShows": 53,
+    "totalSeats": 7202,
+    "totalSold": 966,
+    "avgOcc": "13.4",
+    "totalDays": 4,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 113592,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 113592,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "4:4480:187490"
+  }
+ }
+}

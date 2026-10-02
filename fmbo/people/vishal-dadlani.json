@@ -1,0 +1,41 @@
+{
+ "slug": "vishal-dadlani",
+ "name": "Vishal Dadlani",
+ "source_url": "https://fridaymatinee.in/people/vishal-dadlani",
+ "captured_at": "2026-10-02T11:51:05.121120+00:00",
+ "person": {
+  "name": "Vishal Dadlani",
+  "photo": "https://image.tmdb.org/t/p/w185/dJLXCgc4gTHzGtqgQduZ1DJ8ahG.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 216,
+   "movie_slug": "vikram-vedha",
+   "title": "Vikram Vedha",
+   "year": 2022,
+   "kerala_gross": "₹25.8L"
+  },
+  {
+   "movie_id": 278,
+   "movie_slug": "pathaan",
+   "title": "Pathaan",
+   "year": 2023,
+   "kerala_gross": "₹9.5 Cr"
+  },
+  {
+   "movie_id": 951,
+   "movie_slug": "tu-meri-main-tera-main-tera-tu-meri",
+   "title": "Tu Meri Main Tera Main Tera Tu Meri",
+   "year": 2025,
+   "kerala_gross": "₹12.6L"
+  }
+ ]
+}

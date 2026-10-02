@@ -1,0 +1,69 @@
+{
+ "slug": "megha-thomas",
+ "name": "Megha Thomas",
+ "source_url": "https://fridaymatinee.in/people/megha-thomas",
+ "captured_at": "2026-10-02T00:33:05.703760+00:00",
+ "person": {
+  "name": "Megha Thomas",
+  "photo": "https://image.tmdb.org/t/p/w185/988aqppAKOfOgYZZ3lMEdLKf31h.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 7
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 103,
+   "movie_slug": "hridayam",
+   "title": "Hridayam",
+   "year": 2022,
+   "kerala_gross": "₹18.9 Cr"
+  },
+  {
+   "movie_id": 506,
+   "movie_slug": "anchakkallakokkan",
+   "title": "Anchakkallakokkan",
+   "year": 2024,
+   "kerala_gross": "₹2.9 Cr"
+  },
+  {
+   "movie_id": 581,
+   "movie_slug": "rekhachithram",
+   "title": "Rekhachithram",
+   "year": 2025,
+   "kerala_gross": "₹21.8 Cr"
+  },
+  {
+   "movie_id": 653,
+   "movie_slug": "kalamkaval",
+   "title": "Kalamkaval",
+   "year": 2025,
+   "kerala_gross": "₹31.9 Cr"
+  },
+  {
+   "movie_id": 995,
+   "movie_slug": "anomie",
+   "title": "Anomie",
+   "year": 2026,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 1005,
+   "movie_slug": "spa",
+   "title": "Spa",
+   "year": 2026,
+   "kerala_gross": "₹38.6L"
+  },
+  {
+   "movie_id": 1044,
+   "movie_slug": "prathichaya",
+   "title": "Prathichaya",
+   "year": 2026,
+   "kerala_gross": "₹4.4 Cr"
+  }
+ ]
+}

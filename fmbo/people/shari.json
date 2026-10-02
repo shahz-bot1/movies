@@ -1,0 +1,41 @@
+{
+ "slug": "shari",
+ "name": "Shari",
+ "source_url": "https://fridaymatinee.in/people/shari",
+ "captured_at": "2026-10-02T10:28:10.524221+00:00",
+ "person": {
+  "name": "Shari",
+  "photo": "https://image.tmdb.org/t/p/w185/lflcsWwrDSumnPks7FTsaSxNDHo.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 134,
+   "movie_slug": "jana-gana-mana",
+   "title": "Jana Gana Mana",
+   "year": 2022,
+   "kerala_gross": "₹19.6 Cr"
+  },
+  {
+   "movie_id": 235,
+   "movie_slug": "saturday-night",
+   "title": "Saturday Night",
+   "year": 2022,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 1269,
+   "movie_slug": "aasha",
+   "title": "Aasha",
+   "year": 2026,
+   "kerala_gross": "₹5.1 Cr"
+  }
+ ]
+}

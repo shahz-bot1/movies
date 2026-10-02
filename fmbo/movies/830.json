@@ -1,0 +1,697 @@
+{
+ "id": 830,
+ "slug": "karam",
+ "source_url": "https://fridaymatinee.in/boxoffice/karam-830",
+ "captured_at": "2026-10-01T18:23:42.510322+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 830,
+    "title": "Karam",
+    "img": "https://image.tmdb.org/t/p/original/7fSMbrHOZAmuvBfWa8KJJpD9CyZ.jpg",
+    "released": "2025-09-25",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32638279",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "128 min",
+    "genre": "Action, Thriller",
+    "plot": "Former Indian military officer Dev Mahendran and his family find themselves in a perilous situation in a foreign country, Lenarco, during an international conference.",
+    "released": "2025-09-25",
+    "director": "Vineeth Sreenivasan",
+    "directorSlug": "vineeth-sreenivasan",
+    "actors": [
+     "Noble Babu Thomas",
+     "Ivan Vukomanović",
+     "Reshma Sebastian",
+     "Audrey Miriam",
+     "Manoj K Jayan",
+     "Kalabhavan Shajon"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.3",
+      "votes": 279,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:24.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Noble Babu Thomas",
+     "character": "Dev Mahendran",
+     "slug": "noble-babu-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/70pDdvKYLu5XwzkYgJoozHix3xP.jpg"
+    },
+    {
+     "name": "Ivan Vukomanović",
+     "character": "André Nicola",
+     "slug": "ivan-vukomanovic",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Reshma Sebastian",
+     "character": "Thara",
+     "slug": "reshma-sebastian",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mdF59Jn0Tm0kWTLs4pDbRNgjxmc.jpg"
+    },
+    {
+     "name": "Audrey Miriam",
+     "character": "Sana",
+     "slug": "audrey-miriam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vZh0GiOUb39ebJcY63vY1gOqkUP.jpg"
+    },
+    {
+     "name": "Manoj K Jayan",
+     "character": "Mahendran",
+     "slug": "manoj-k-jayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jTKRE7c208lvZLNwrLtMleiV8DS.jpg"
+    },
+    {
+     "name": "Kalabhavan Shajon",
+     "character": "Kamal Muhammed",
+     "slug": "kalabhavan-shajon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AeiCzOHp0lo426jJGpwJ2CWwISy.jpg"
+    },
+    {
+     "name": "Baburaj",
+     "character": "Rosario",
+     "slug": "baburaj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nuJ7GhTfuBrlGBWeMPIYr59O8kP.jpg"
+    },
+    {
+     "name": "Vishnu G. Varrier",
+     "character": "Bato",
+     "slug": "vishnu-g-varrier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/woOsWSnewt8eP05tIt3vFEUDel.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vineeth Sreenivasan",
+       "slug": "vineeth-sreenivasan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Noble Babu Thomas",
+       "slug": "noble-babu-thomas"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Shaan Rahman",
+       "slug": "shaan-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jomon T. John",
+       "slug": "jomon-t-john"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ranjan Abraham",
+       "slug": "ranjan-abraham"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Visakh Subramaniam",
+       "slug": "visakh-subramaniam"
+      },
+      {
+       "name": "Vineeth Sreenivasan",
+       "slug": "vineeth-sreenivasan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Merryland Studios",
+     "slug": "merryland-studios",
+     "logo": null
+    },
+    {
+     "name": "Habit of Life",
+     "slug": "habit-of-life",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 11193688,
+    "totalShows": 3638,
+    "totalDays": 18,
+    "openingDay": {
+     "day": 1,
+     "gross": 4612328.2,
+     "date": "2025-09-25"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4612328.2,
+     "date": "2025-09-25"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-25"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 830,
+    "title": "Karam",
+    "img": "https://image.tmdb.org/t/p/original/7fSMbrHOZAmuvBfWa8KJJpD9CyZ.jpg",
+    "released": "2025-09-25",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32638279",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "128 min",
+    "genre": "Action, Thriller",
+    "plot": "Former Indian military officer Dev Mahendran and his family find themselves in a perilous situation in a foreign country, Lenarco, during an international conference.",
+    "released": "2025-09-25",
+    "director": "Vineeth Sreenivasan",
+    "directorSlug": "vineeth-sreenivasan",
+    "actors": [
+     "Noble Babu Thomas",
+     "Ivan Vukomanović",
+     "Reshma Sebastian",
+     "Audrey Miriam",
+     "Manoj K Jayan",
+     "Kalabhavan Shajon"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.3",
+      "votes": 279,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:24.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Noble Babu Thomas",
+     "character": "Dev Mahendran",
+     "slug": "noble-babu-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/70pDdvKYLu5XwzkYgJoozHix3xP.jpg"
+    },
+    {
+     "name": "Ivan Vukomanović",
+     "character": "André Nicola",
+     "slug": "ivan-vukomanovic",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Reshma Sebastian",
+     "character": "Thara",
+     "slug": "reshma-sebastian",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mdF59Jn0Tm0kWTLs4pDbRNgjxmc.jpg"
+    },
+    {
+     "name": "Audrey Miriam",
+     "character": "Sana",
+     "slug": "audrey-miriam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vZh0GiOUb39ebJcY63vY1gOqkUP.jpg"
+    },
+    {
+     "name": "Manoj K Jayan",
+     "character": "Mahendran",
+     "slug": "manoj-k-jayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jTKRE7c208lvZLNwrLtMleiV8DS.jpg"
+    },
+    {
+     "name": "Kalabhavan Shajon",
+     "character": "Kamal Muhammed",
+     "slug": "kalabhavan-shajon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AeiCzOHp0lo426jJGpwJ2CWwISy.jpg"
+    },
+    {
+     "name": "Baburaj",
+     "character": "Rosario",
+     "slug": "baburaj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nuJ7GhTfuBrlGBWeMPIYr59O8kP.jpg"
+    },
+    {
+     "name": "Vishnu G. Varrier",
+     "character": "Bato",
+     "slug": "vishnu-g-varrier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/woOsWSnewt8eP05tIt3vFEUDel.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vineeth Sreenivasan",
+       "slug": "vineeth-sreenivasan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Noble Babu Thomas",
+       "slug": "noble-babu-thomas"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Shaan Rahman",
+       "slug": "shaan-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jomon T. John",
+       "slug": "jomon-t-john"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ranjan Abraham",
+       "slug": "ranjan-abraham"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Visakh Subramaniam",
+       "slug": "visakh-subramaniam"
+      },
+      {
+       "name": "Vineeth Sreenivasan",
+       "slug": "vineeth-sreenivasan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Merryland Studios",
+     "slug": "merryland-studios",
+     "logo": null
+    },
+    {
+     "name": "Habit of Life",
+     "slug": "habit-of-life",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-09-25",
+     "gross": 10971905.000000002,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3565,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-10-02",
+     "gross": 214833,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 63,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-10-09",
+     "gross": 6950,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 10,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 11193688.000000002,
+    "totalShows": 3638,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 10971905.000000002
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 10971905.000000002
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-25"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 830,
+    "title": "Karam",
+    "img": "https://image.tmdb.org/t/p/original/7fSMbrHOZAmuvBfWa8KJJpD9CyZ.jpg",
+    "released": "2025-09-25",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32638279",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "128 min",
+    "genre": "Action, Thriller",
+    "plot": "Former Indian military officer Dev Mahendran and his family find themselves in a perilous situation in a foreign country, Lenarco, during an international conference.",
+    "released": "2025-09-25",
+    "director": "Vineeth Sreenivasan",
+    "directorSlug": "vineeth-sreenivasan",
+    "actors": [
+     "Noble Babu Thomas",
+     "Ivan Vukomanović",
+     "Reshma Sebastian",
+     "Audrey Miriam",
+     "Manoj K Jayan",
+     "Kalabhavan Shajon"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.3",
+      "votes": 279,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:24.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Noble Babu Thomas",
+     "character": "Dev Mahendran",
+     "slug": "noble-babu-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/70pDdvKYLu5XwzkYgJoozHix3xP.jpg"
+    },
+    {
+     "name": "Ivan Vukomanović",
+     "character": "André Nicola",
+     "slug": "ivan-vukomanovic",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Reshma Sebastian",
+     "character": "Thara",
+     "slug": "reshma-sebastian",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mdF59Jn0Tm0kWTLs4pDbRNgjxmc.jpg"
+    },
+    {
+     "name": "Audrey Miriam",
+     "character": "Sana",
+     "slug": "audrey-miriam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vZh0GiOUb39ebJcY63vY1gOqkUP.jpg"
+    },
+    {
+     "name": "Manoj K Jayan",
+     "character": "Mahendran",
+     "slug": "manoj-k-jayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jTKRE7c208lvZLNwrLtMleiV8DS.jpg"
+    },
+    {
+     "name": "Kalabhavan Shajon",
+     "character": "Kamal Muhammed",
+     "slug": "kalabhavan-shajon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AeiCzOHp0lo426jJGpwJ2CWwISy.jpg"
+    },
+    {
+     "name": "Baburaj",
+     "character": "Rosario",
+     "slug": "baburaj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nuJ7GhTfuBrlGBWeMPIYr59O8kP.jpg"
+    },
+    {
+     "name": "Vishnu G. Varrier",
+     "character": "Bato",
+     "slug": "vishnu-g-varrier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/woOsWSnewt8eP05tIt3vFEUDel.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vineeth Sreenivasan",
+       "slug": "vineeth-sreenivasan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Noble Babu Thomas",
+       "slug": "noble-babu-thomas"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Shaan Rahman",
+       "slug": "shaan-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jomon T. John",
+       "slug": "jomon-t-john"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ranjan Abraham",
+       "slug": "ranjan-abraham"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Visakh Subramaniam",
+       "slug": "visakh-subramaniam"
+      },
+      {
+       "name": "Vineeth Sreenivasan",
+       "slug": "vineeth-sreenivasan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Merryland Studios",
+     "slug": "merryland-studios",
+     "logo": null
+    },
+    {
+     "name": "Habit of Life",
+     "slug": "habit-of-life",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 11193688,
+    "totalShows": 3638,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 2858340,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2858340,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-25"
+   }
+  }
+ }
+}

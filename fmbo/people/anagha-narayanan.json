@@ -1,0 +1,48 @@
+{
+ "slug": "anagha-narayanan",
+ "name": "Anagha Narayanan",
+ "source_url": "https://fridaymatinee.in/people/anagha-narayanan",
+ "captured_at": "2026-10-01T20:32:52.295145+00:00",
+ "person": {
+  "name": "Anagha Narayanan",
+  "photo": "https://image.tmdb.org/t/p/w185/drJKQc62Ezhq5BljdZM1ljoJ9AE.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 149,
+   "movie_slug": "vaashi",
+   "title": "Vaashi",
+   "year": 2022,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 266,
+   "movie_slug": "aanandam-paramanandam",
+   "title": "Aanandam Paramanandam",
+   "year": 2022,
+   "kerala_gross": "₹48.6L"
+  },
+  {
+   "movie_id": 296,
+   "movie_slug": "dear-vaappi",
+   "title": "Dear Vaappi",
+   "year": 2023,
+   "kerala_gross": "₹17.9L"
+  },
+  {
+   "movie_id": 305,
+   "movie_slug": "anpodu-kanmani",
+   "title": "Anpodu Kanmani",
+   "year": 2025,
+   "kerala_gross": "₹73.4L"
+  }
+ ]
+}

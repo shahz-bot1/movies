@@ -1,0 +1,41 @@
+{
+ "slug": "shaam",
+ "name": "Shaam",
+ "source_url": "https://fridaymatinee.in/people/shaam",
+ "captured_at": "2026-10-02T10:22:43.048578+00:00",
+ "person": {
+  "name": "Shaam",
+  "photo": "https://image.tmdb.org/t/p/w185/eqvAJxumDcXuZA0tnJmhSeEde17.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 276,
+   "movie_slug": "varisu",
+   "title": "Varisu",
+   "year": 2023,
+   "kerala_gross": "₹7.8 Cr"
+  },
+  {
+   "movie_id": 827,
+   "movie_slug": "they-call-him-og",
+   "title": "They Call Him OG",
+   "year": 2025,
+   "kerala_gross": "₹36.6L"
+  },
+  {
+   "movie_id": 1052,
+   "movie_slug": "leader",
+   "title": "Leader",
+   "year": 2026,
+   "kerala_gross": "₹2.8L"
+  }
+ ]
+}

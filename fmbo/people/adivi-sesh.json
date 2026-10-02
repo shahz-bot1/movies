@@ -1,0 +1,46 @@
+{
+ "slug": "adivi-sesh",
+ "name": "Adivi Sesh",
+ "source_url": "https://fridaymatinee.in/people/adivi-sesh",
+ "captured_at": "2026-10-01T20:12:58.503455+00:00",
+ "person": {
+  "name": "Adivi Sesh",
+  "photo": "https://image.tmdb.org/t/p/w185/vWvU1qlpGGrCsdox0pAJ6Gns4Bp.jpg",
+  "role": "Actor and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 682,
+   "movie_slug": "hit-the-third-case",
+   "title": "HIT: The Third Case",
+   "year": 2025,
+   "kerala_gross": "₹71.3L"
+  },
+  {
+   "movie_id": 892,
+   "movie_slug": "baahubali-the-epic",
+   "title": "Baahubali: The Epic",
+   "year": 2025,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 1066,
+   "movie_slug": "dacoit",
+   "title": "Dacoit",
+   "year": 2026,
+   "kerala_gross": "₹4.9L"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "kalaiyarasan",
+ "name": "Kalaiyarasan",
+ "source_url": "https://fridaymatinee.in/people/kalaiyarasan",
+ "captured_at": "2026-10-01T23:36:47.693660+00:00",
+ "person": {
+  "name": "Kalaiyarasan",
+  "photo": "https://image.tmdb.org/t/p/w185/4xaAqc7EFfcJXIS23yVJb6vZhLt.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 284,
+   "movie_slug": "thankam",
+   "title": "Thankam",
+   "year": 2023,
+   "kerala_gross": "₹3.0 Cr"
+  },
+  {
+   "movie_id": 313,
+   "movie_slug": "pathu-thala",
+   "title": "Pathu Thala",
+   "year": 2023,
+   "kerala_gross": "₹41.7L"
+  },
+  {
+   "movie_id": 365,
+   "movie_slug": "2018",
+   "title": "2018",
+   "year": 2023,
+   "kerala_gross": "₹66.3 Cr"
+  },
+  {
+   "movie_id": 574,
+   "movie_slug": "devara-part-1",
+   "title": "Devara - Part 1",
+   "year": 2024,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 339,
+   "movie_slug": "madraskaaran",
+   "title": "Madraskaaran",
+   "year": 2025,
+   "kerala_gross": "₹1.5L"
+  }
+ ]
+}

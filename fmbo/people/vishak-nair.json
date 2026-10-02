@@ -1,0 +1,55 @@
+{
+ "slug": "vishak-nair",
+ "name": "Vishak Nair",
+ "source_url": "https://fridaymatinee.in/people/vishak-nair",
+ "captured_at": "2026-10-02T11:50:38.249670+00:00",
+ "person": {
+  "name": "Vishak Nair",
+  "photo": "https://image.tmdb.org/t/p/w185/kIowakbpA9jOvG41sVj4knaIXUS.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 147,
+   "movie_slug": "dear-friend",
+   "title": "Dear Friend",
+   "year": 2022,
+   "kerala_gross": "₹34.2L"
+  },
+  {
+   "movie_id": 556,
+   "movie_slug": "footage",
+   "title": "Footage",
+   "year": 2024,
+   "kerala_gross": "₹31.1L"
+  },
+  {
+   "movie_id": 616,
+   "movie_slug": "identity",
+   "title": "Identity",
+   "year": 2025,
+   "kerala_gross": "₹6.9 Cr"
+  },
+  {
+   "movie_id": 654,
+   "movie_slug": "officer-on-duty",
+   "title": "Officer On Duty",
+   "year": 2025,
+   "kerala_gross": "₹23.6 Cr"
+  },
+  {
+   "movie_id": 968,
+   "movie_slug": "chatha-pacha-the-ring-of-rowdies",
+   "title": "Chatha Pacha: The Ring of Rowdies",
+   "year": 2026,
+   "kerala_gross": "₹13.5 Cr"
+  }
+ ]
+}

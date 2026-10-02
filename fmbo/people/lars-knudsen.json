@@ -1,0 +1,41 @@
+{
+ "slug": "lars-knudsen",
+ "name": "Lars Knudsen",
+ "source_url": "https://fridaymatinee.in/people/lars-knudsen",
+ "captured_at": "2026-10-01T23:58:28.879203+00:00",
+ "person": {
+  "name": "Lars Knudsen",
+  "photo": "https://image.tmdb.org/t/p/w185/cQzlwxBM0UEKcWfoL0cR8PLBLCW.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 888,
+   "movie_slug": "bugonia",
+   "title": "Bugonia",
+   "year": 2025,
+   "kerala_gross": "₹1.2L"
+  },
+  {
+   "movie_id": 1051,
+   "movie_slug": "the-drama",
+   "title": "The Drama",
+   "year": 2026,
+   "kerala_gross": "₹7.2L"
+  },
+  {
+   "movie_id": 1224,
+   "movie_slug": "primetime",
+   "title": "Primetime",
+   "year": 2026,
+   "kerala_gross": "₹2.6L"
+  }
+ ]
+}

@@ -1,0 +1,738 @@
+{
+ "id": 616,
+ "slug": "identity",
+ "source_url": "https://fridaymatinee.in/boxoffice/identity-616",
+ "captured_at": "2026-10-01T18:16:57.746145+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 616,
+    "title": "Identity",
+    "img": "https://image.tmdb.org/t/p/original/hrusjWrcRuClY6PNooSZiKL6gqv.jpg",
+    "released": "2025-01-02",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27436132",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "156 min",
+    "genre": "Action, Thriller, Mystery",
+    "plot": "A sketch artist and a cop work together to unravel the identity of an elusive killer using the descriptions of his face, etched into the memory of an eye-witness to the brutal crime",
+    "released": "2025-01-02",
+    "director": "Anas Khan",
+    "directorSlug": "anas-khan",
+    "actors": [
+     "Tovino Thomas",
+     "Trisha Krishnan",
+     "Vinay Rai",
+     "Mandira Bedi",
+     "Shammi Thilakan",
+     "Aju Varghese"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.0",
+      "votes": 11475,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tovino Thomas",
+     "character": "Haran Sankar",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Trisha Krishnan",
+     "character": "Alisha",
+     "slug": "trisha-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sirse7oOd1ACEEQBVF4PHJHPUup.jpg"
+    },
+    {
+     "name": "Vinay Rai",
+     "character": "Allen Jacob",
+     "slug": "vinay-rai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8xRUq54pt2p6SHc80ezhXnm9nnf.jpg"
+    },
+    {
+     "name": "Mandira Bedi",
+     "character": "Supriya",
+     "slug": "mandira-bedi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l50tq0OwzIxE4Z5JXDUSQvqCltN.jpg"
+    },
+    {
+     "name": "Shammi Thilakan",
+     "character": "Dr. Sudharshan",
+     "slug": "shammi-thilakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7lDFgyfGXbQEFFrbnVA24XaYGW.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "DySP Dinesh",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Dhruvan",
+     "character": "Deepak John",
+     "slug": "dhruvan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gVQfWlQyNuK13pIl1cTFB4QUnNM.jpg"
+    },
+    {
+     "name": "Arjun Radhakrishnan",
+     "character": "Amar Felix",
+     "slug": "arjun-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xcxu1R28Hl7bzLQagFdeUsTiHjg.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anas Khan",
+       "slug": "anas-khan"
+      },
+      {
+       "name": "Akhil Paul",
+       "slug": "akhil-paul"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Anas Khan",
+       "slug": "anas-khan"
+      },
+      {
+       "name": "Akhil Paul",
+       "slug": "akhil-paul"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Akhil George",
+       "slug": "akhil-george"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Chaman Chakko",
+       "slug": "chaman-chakko"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Raju Malliath",
+       "slug": "raju-malliath"
+      },
+      {
+       "name": "Century Kochumon",
+       "slug": "century-kochumon"
+      },
+      {
+       "name": "Dr. C.J. Roy",
+       "slug": "dr-c-j-roy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ragam Movies",
+     "slug": "ragam-movies",
+     "logo": null
+    },
+    {
+     "name": "Confident Group",
+     "slug": "confident-group",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-01-28",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2760,
+      "name": "Ultraplaybox Amazon Channel",
+      "logoPath": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 69138652,
+    "totalShows": 8749,
+    "totalDays": 29,
+    "openingDay": {
+     "day": 1,
+     "gross": 14913103.000000002,
+     "date": "2025-01-02"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 14913103.000000002,
+     "date": "2025-01-02"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 79,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-02"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 616,
+    "title": "Identity",
+    "img": "https://image.tmdb.org/t/p/original/hrusjWrcRuClY6PNooSZiKL6gqv.jpg",
+    "released": "2025-01-02",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27436132",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "156 min",
+    "genre": "Action, Thriller, Mystery",
+    "plot": "A sketch artist and a cop work together to unravel the identity of an elusive killer using the descriptions of his face, etched into the memory of an eye-witness to the brutal crime",
+    "released": "2025-01-02",
+    "director": "Anas Khan",
+    "directorSlug": "anas-khan",
+    "actors": [
+     "Tovino Thomas",
+     "Trisha Krishnan",
+     "Vinay Rai",
+     "Mandira Bedi",
+     "Shammi Thilakan",
+     "Aju Varghese"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.0",
+      "votes": 11475,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tovino Thomas",
+     "character": "Haran Sankar",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Trisha Krishnan",
+     "character": "Alisha",
+     "slug": "trisha-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sirse7oOd1ACEEQBVF4PHJHPUup.jpg"
+    },
+    {
+     "name": "Vinay Rai",
+     "character": "Allen Jacob",
+     "slug": "vinay-rai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8xRUq54pt2p6SHc80ezhXnm9nnf.jpg"
+    },
+    {
+     "name": "Mandira Bedi",
+     "character": "Supriya",
+     "slug": "mandira-bedi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l50tq0OwzIxE4Z5JXDUSQvqCltN.jpg"
+    },
+    {
+     "name": "Shammi Thilakan",
+     "character": "Dr. Sudharshan",
+     "slug": "shammi-thilakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7lDFgyfGXbQEFFrbnVA24XaYGW.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "DySP Dinesh",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Dhruvan",
+     "character": "Deepak John",
+     "slug": "dhruvan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gVQfWlQyNuK13pIl1cTFB4QUnNM.jpg"
+    },
+    {
+     "name": "Arjun Radhakrishnan",
+     "character": "Amar Felix",
+     "slug": "arjun-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xcxu1R28Hl7bzLQagFdeUsTiHjg.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anas Khan",
+       "slug": "anas-khan"
+      },
+      {
+       "name": "Akhil Paul",
+       "slug": "akhil-paul"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Anas Khan",
+       "slug": "anas-khan"
+      },
+      {
+       "name": "Akhil Paul",
+       "slug": "akhil-paul"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Akhil George",
+       "slug": "akhil-george"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Chaman Chakko",
+       "slug": "chaman-chakko"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Raju Malliath",
+       "slug": "raju-malliath"
+      },
+      {
+       "name": "Century Kochumon",
+       "slug": "century-kochumon"
+      },
+      {
+       "name": "Dr. C.J. Roy",
+       "slug": "dr-c-j-roy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ragam Movies",
+     "slug": "ragam-movies",
+     "logo": null
+    },
+    {
+     "name": "Confident Group",
+     "slug": "confident-group",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-01-28",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2760,
+      "name": "Ultraplaybox Amazon Channel",
+      "logoPath": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-01-02",
+     "gross": 58571034.4,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5996,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-09",
+     "gross": 9030487.4,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2288,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-16",
+     "gross": 1344114.1999999997,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 391,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-23",
+     "gross": 182936,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 68,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-30",
+     "gross": 10080,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 6,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 69138652,
+    "totalShows": 8749,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 58571034.4
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 58571034.4
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 79,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-02"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 616,
+    "title": "Identity",
+    "img": "https://image.tmdb.org/t/p/original/hrusjWrcRuClY6PNooSZiKL6gqv.jpg",
+    "released": "2025-01-02",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27436132",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "156 min",
+    "genre": "Action, Thriller, Mystery",
+    "plot": "A sketch artist and a cop work together to unravel the identity of an elusive killer using the descriptions of his face, etched into the memory of an eye-witness to the brutal crime",
+    "released": "2025-01-02",
+    "director": "Anas Khan",
+    "directorSlug": "anas-khan",
+    "actors": [
+     "Tovino Thomas",
+     "Trisha Krishnan",
+     "Vinay Rai",
+     "Mandira Bedi",
+     "Shammi Thilakan",
+     "Aju Varghese"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.0",
+      "votes": 11475,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tovino Thomas",
+     "character": "Haran Sankar",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Trisha Krishnan",
+     "character": "Alisha",
+     "slug": "trisha-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sirse7oOd1ACEEQBVF4PHJHPUup.jpg"
+    },
+    {
+     "name": "Vinay Rai",
+     "character": "Allen Jacob",
+     "slug": "vinay-rai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8xRUq54pt2p6SHc80ezhXnm9nnf.jpg"
+    },
+    {
+     "name": "Mandira Bedi",
+     "character": "Supriya",
+     "slug": "mandira-bedi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l50tq0OwzIxE4Z5JXDUSQvqCltN.jpg"
+    },
+    {
+     "name": "Shammi Thilakan",
+     "character": "Dr. Sudharshan",
+     "slug": "shammi-thilakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7lDFgyfGXbQEFFrbnVA24XaYGW.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "DySP Dinesh",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Dhruvan",
+     "character": "Deepak John",
+     "slug": "dhruvan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gVQfWlQyNuK13pIl1cTFB4QUnNM.jpg"
+    },
+    {
+     "name": "Arjun Radhakrishnan",
+     "character": "Amar Felix",
+     "slug": "arjun-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xcxu1R28Hl7bzLQagFdeUsTiHjg.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anas Khan",
+       "slug": "anas-khan"
+      },
+      {
+       "name": "Akhil Paul",
+       "slug": "akhil-paul"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Anas Khan",
+       "slug": "anas-khan"
+      },
+      {
+       "name": "Akhil Paul",
+       "slug": "akhil-paul"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Akhil George",
+       "slug": "akhil-george"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Chaman Chakko",
+       "slug": "chaman-chakko"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Raju Malliath",
+       "slug": "raju-malliath"
+      },
+      {
+       "name": "Century Kochumon",
+       "slug": "century-kochumon"
+      },
+      {
+       "name": "Dr. C.J. Roy",
+       "slug": "dr-c-j-roy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ragam Movies",
+     "slug": "ragam-movies",
+     "logo": null
+    },
+    {
+     "name": "Confident Group",
+     "slug": "confident-group",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-01-28",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2760,
+      "name": "Ultraplaybox Amazon Channel",
+      "logoPath": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 69138652,
+    "totalShows": 8749,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 19389467,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 19389467,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 79,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-02"
+   }
+  }
+ }
+}

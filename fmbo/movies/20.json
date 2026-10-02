@@ -1,0 +1,734 @@
+{
+ "id": 20,
+ "slug": "housefull-4",
+ "source_url": "https://fridaymatinee.in/boxoffice/housefull-4-20",
+ "captured_at": "2026-10-01T17:57:05.258602+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 20,
+    "title": "Housefull 4",
+    "img": "https://image.tmdb.org/t/p/original/aCJOZzWV6cpZ9p9tmfEzXq4EqN8.jpg",
+    "released": "2019-10-25",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt7721946",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "142 min",
+    "genre": "Comedy, Drama, Romance",
+    "plot": "Three couples who get separated from each other due to an evil ploy, reincarnate after 600 years and meet each other as history repeats itself again and their respective partners get mixed up this time.",
+    "released": "2019-10-25",
+    "director": "Farhad Samji",
+    "directorSlug": "farhad-samji",
+    "actors": [
+     "Akshay Kumar",
+     "Bobby Deol",
+     "Riteish Deshmukh",
+     "Kriti Sanon",
+     "Pooja Hegde",
+     "Kriti Kharbanda"
+    ],
+    "awards": "5 wins u0026 2 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "3.7",
+      "votes": 16607,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "5.5",
+      "votes": 107,
+      "updatedAt": "2026-09-25T01:11:05.000Z"
+     },
+     "rt": "33%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Akshay Kumar",
+     "character": "Rajkumar Bala Dev Singh / Harry",
+     "slug": "akshay-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1d77rFiN8h2JXE6vS8VCuc2k20J.jpg"
+    },
+    {
+     "name": "Bobby Deol",
+     "character": "Dharamputra / Max",
+     "slug": "bobby-deol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2npVa3PduichY8e7qBiE54m9VVP.jpg"
+    },
+    {
+     "name": "Riteish Deshmukh",
+     "character": "Bangdu Maharaj / Roy",
+     "slug": "riteish-deshmukh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b4Mwk9dDgMS82269iBX7V1YsOpu.jpg"
+    },
+    {
+     "name": "Kriti Sanon",
+     "character": "Rajkumari Madhu / Kriti",
+     "slug": "kriti-sanon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/go8GUz7poytTvm9P9HNHQ3T84N1.jpg"
+    },
+    {
+     "name": "Pooja Hegde",
+     "character": "Rajkumari Mala / Pooja",
+     "slug": "pooja-hegde",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2ZxrR6DVIWtDDtmIhJ6i64wwWSU.jpg"
+    },
+    {
+     "name": "Kriti Kharbanda",
+     "character": "Rajkumari Meena / Neha",
+     "slug": "kriti-kharbanda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cVb1hhdu9fw3QRIVBzlHn0oGiwg.jpg"
+    },
+    {
+     "name": "Rana Daggubati",
+     "character": "Raja Gama / Pappu Rangeela",
+     "slug": "rana-daggubati",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dCQE1CoWWc6RoXUTxOKjAXO8KDr.jpg"
+    },
+    {
+     "name": "Chunky Panday",
+     "character": "Pehla Pasta / Akhri Pasta",
+     "slug": "chunky-panday",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2dG7abdDNs3MVmrAa6HEBFKhch4.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Farhad Samji",
+       "slug": "farhad-samji"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sajid Samji",
+       "slug": "sajid-samji"
+      },
+      {
+       "name": "Aakash Kaushik",
+       "slug": "aakash-kaushik"
+      },
+      {
+       "name": "Farhad Samji",
+       "slug": "farhad-samji"
+      },
+      {
+       "name": "Sparsh Khetarpal",
+       "slug": "sparsh-khetarpal"
+      },
+      {
+       "name": "Tasha Bhambra",
+       "slug": "tasha-bhambra"
+      },
+      {
+       "name": "Tushar Hiranandani",
+       "slug": "tushar-hiranandani"
+      },
+      {
+       "name": "Sara Bodinar",
+       "slug": "sara-bodinar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Julius Packiam",
+       "slug": "julius-packiam"
+      },
+      {
+       "name": "Sohail Sen",
+       "slug": "sohail-sen"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sudeep Chatterjee",
+       "slug": "sudeep-chatterjee"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rameshwar S. Bhagat",
+       "slug": "rameshwar-s-bhagat"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sajid Nadiadwala",
+       "slug": "sajid-nadiadwala"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Fox Star Studios",
+     "slug": "fox-star-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/dBjJavlqNxrYlqcbobDYYq9NuOq.png"
+    },
+    {
+     "name": "Nadiadwala Grandson Entertainment",
+     "slug": "nadiadwala-grandson-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/chMIfiURhqvr6eWCrzxIwuaWVeN.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2019-10-25",
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2369110,
+    "totalShows": 364,
+    "totalDays": 24,
+    "openingDay": {
+     "day": 1,
+     "gross": 319175,
+     "date": "2019-10-25"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 584089,
+     "date": "2019-10-27"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 2,
+     "peak_position": 8,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-10-25"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 20,
+    "title": "Housefull 4",
+    "img": "https://image.tmdb.org/t/p/original/aCJOZzWV6cpZ9p9tmfEzXq4EqN8.jpg",
+    "released": "2019-10-25",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt7721946",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "142 min",
+    "genre": "Comedy, Drama, Romance",
+    "plot": "Three couples who get separated from each other due to an evil ploy, reincarnate after 600 years and meet each other as history repeats itself again and their respective partners get mixed up this time.",
+    "released": "2019-10-25",
+    "director": "Farhad Samji",
+    "directorSlug": "farhad-samji",
+    "actors": [
+     "Akshay Kumar",
+     "Bobby Deol",
+     "Riteish Deshmukh",
+     "Kriti Sanon",
+     "Pooja Hegde",
+     "Kriti Kharbanda"
+    ],
+    "awards": "5 wins u0026 2 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "3.7",
+      "votes": 16607,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "5.5",
+      "votes": 107,
+      "updatedAt": "2026-09-25T01:11:05.000Z"
+     },
+     "rt": "33%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Akshay Kumar",
+     "character": "Rajkumar Bala Dev Singh / Harry",
+     "slug": "akshay-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1d77rFiN8h2JXE6vS8VCuc2k20J.jpg"
+    },
+    {
+     "name": "Bobby Deol",
+     "character": "Dharamputra / Max",
+     "slug": "bobby-deol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2npVa3PduichY8e7qBiE54m9VVP.jpg"
+    },
+    {
+     "name": "Riteish Deshmukh",
+     "character": "Bangdu Maharaj / Roy",
+     "slug": "riteish-deshmukh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b4Mwk9dDgMS82269iBX7V1YsOpu.jpg"
+    },
+    {
+     "name": "Kriti Sanon",
+     "character": "Rajkumari Madhu / Kriti",
+     "slug": "kriti-sanon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/go8GUz7poytTvm9P9HNHQ3T84N1.jpg"
+    },
+    {
+     "name": "Pooja Hegde",
+     "character": "Rajkumari Mala / Pooja",
+     "slug": "pooja-hegde",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2ZxrR6DVIWtDDtmIhJ6i64wwWSU.jpg"
+    },
+    {
+     "name": "Kriti Kharbanda",
+     "character": "Rajkumari Meena / Neha",
+     "slug": "kriti-kharbanda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cVb1hhdu9fw3QRIVBzlHn0oGiwg.jpg"
+    },
+    {
+     "name": "Rana Daggubati",
+     "character": "Raja Gama / Pappu Rangeela",
+     "slug": "rana-daggubati",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dCQE1CoWWc6RoXUTxOKjAXO8KDr.jpg"
+    },
+    {
+     "name": "Chunky Panday",
+     "character": "Pehla Pasta / Akhri Pasta",
+     "slug": "chunky-panday",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2dG7abdDNs3MVmrAa6HEBFKhch4.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Farhad Samji",
+       "slug": "farhad-samji"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sajid Samji",
+       "slug": "sajid-samji"
+      },
+      {
+       "name": "Aakash Kaushik",
+       "slug": "aakash-kaushik"
+      },
+      {
+       "name": "Farhad Samji",
+       "slug": "farhad-samji"
+      },
+      {
+       "name": "Sparsh Khetarpal",
+       "slug": "sparsh-khetarpal"
+      },
+      {
+       "name": "Tasha Bhambra",
+       "slug": "tasha-bhambra"
+      },
+      {
+       "name": "Tushar Hiranandani",
+       "slug": "tushar-hiranandani"
+      },
+      {
+       "name": "Sara Bodinar",
+       "slug": "sara-bodinar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Julius Packiam",
+       "slug": "julius-packiam"
+      },
+      {
+       "name": "Sohail Sen",
+       "slug": "sohail-sen"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sudeep Chatterjee",
+       "slug": "sudeep-chatterjee"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rameshwar S. Bhagat",
+       "slug": "rameshwar-s-bhagat"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sajid Nadiadwala",
+       "slug": "sajid-nadiadwala"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Fox Star Studios",
+     "slug": "fox-star-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/dBjJavlqNxrYlqcbobDYYq9NuOq.png"
+    },
+    {
+     "name": "Nadiadwala Grandson Entertainment",
+     "slug": "nadiadwala-grandson-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/chMIfiURhqvr6eWCrzxIwuaWVeN.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2019-10-25",
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2019-10-25",
+     "gross": 1885102,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 303,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-11-01",
+     "gross": 363833,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 44,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-11-08",
+     "gross": 91395,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 12,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-11-15",
+     "gross": 28780,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2369110,
+    "totalShows": 364,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 1885102
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1885102
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 2,
+     "peak_position": 8,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-10-25"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 20,
+    "title": "Housefull 4",
+    "img": "https://image.tmdb.org/t/p/original/aCJOZzWV6cpZ9p9tmfEzXq4EqN8.jpg",
+    "released": "2019-10-25",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt7721946",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "142 min",
+    "genre": "Comedy, Drama, Romance",
+    "plot": "Three couples who get separated from each other due to an evil ploy, reincarnate after 600 years and meet each other as history repeats itself again and their respective partners get mixed up this time.",
+    "released": "2019-10-25",
+    "director": "Farhad Samji",
+    "directorSlug": "farhad-samji",
+    "actors": [
+     "Akshay Kumar",
+     "Bobby Deol",
+     "Riteish Deshmukh",
+     "Kriti Sanon",
+     "Pooja Hegde",
+     "Kriti Kharbanda"
+    ],
+    "awards": "5 wins u0026 2 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "3.7",
+      "votes": 16607,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "5.5",
+      "votes": 107,
+      "updatedAt": "2026-09-25T01:11:05.000Z"
+     },
+     "rt": "33%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Akshay Kumar",
+     "character": "Rajkumar Bala Dev Singh / Harry",
+     "slug": "akshay-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1d77rFiN8h2JXE6vS8VCuc2k20J.jpg"
+    },
+    {
+     "name": "Bobby Deol",
+     "character": "Dharamputra / Max",
+     "slug": "bobby-deol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2npVa3PduichY8e7qBiE54m9VVP.jpg"
+    },
+    {
+     "name": "Riteish Deshmukh",
+     "character": "Bangdu Maharaj / Roy",
+     "slug": "riteish-deshmukh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b4Mwk9dDgMS82269iBX7V1YsOpu.jpg"
+    },
+    {
+     "name": "Kriti Sanon",
+     "character": "Rajkumari Madhu / Kriti",
+     "slug": "kriti-sanon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/go8GUz7poytTvm9P9HNHQ3T84N1.jpg"
+    },
+    {
+     "name": "Pooja Hegde",
+     "character": "Rajkumari Mala / Pooja",
+     "slug": "pooja-hegde",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2ZxrR6DVIWtDDtmIhJ6i64wwWSU.jpg"
+    },
+    {
+     "name": "Kriti Kharbanda",
+     "character": "Rajkumari Meena / Neha",
+     "slug": "kriti-kharbanda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cVb1hhdu9fw3QRIVBzlHn0oGiwg.jpg"
+    },
+    {
+     "name": "Rana Daggubati",
+     "character": "Raja Gama / Pappu Rangeela",
+     "slug": "rana-daggubati",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dCQE1CoWWc6RoXUTxOKjAXO8KDr.jpg"
+    },
+    {
+     "name": "Chunky Panday",
+     "character": "Pehla Pasta / Akhri Pasta",
+     "slug": "chunky-panday",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2dG7abdDNs3MVmrAa6HEBFKhch4.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Farhad Samji",
+       "slug": "farhad-samji"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sajid Samji",
+       "slug": "sajid-samji"
+      },
+      {
+       "name": "Aakash Kaushik",
+       "slug": "aakash-kaushik"
+      },
+      {
+       "name": "Farhad Samji",
+       "slug": "farhad-samji"
+      },
+      {
+       "name": "Sparsh Khetarpal",
+       "slug": "sparsh-khetarpal"
+      },
+      {
+       "name": "Tasha Bhambra",
+       "slug": "tasha-bhambra"
+      },
+      {
+       "name": "Tushar Hiranandani",
+       "slug": "tushar-hiranandani"
+      },
+      {
+       "name": "Sara Bodinar",
+       "slug": "sara-bodinar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Julius Packiam",
+       "slug": "julius-packiam"
+      },
+      {
+       "name": "Sohail Sen",
+       "slug": "sohail-sen"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sudeep Chatterjee",
+       "slug": "sudeep-chatterjee"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rameshwar S. Bhagat",
+       "slug": "rameshwar-s-bhagat"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sajid Nadiadwala",
+       "slug": "sajid-nadiadwala"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Fox Star Studios",
+     "slug": "fox-star-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/dBjJavlqNxrYlqcbobDYYq9NuOq.png"
+    },
+    {
+     "name": "Nadiadwala Grandson Entertainment",
+     "slug": "nadiadwala-grandson-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/chMIfiURhqvr6eWCrzxIwuaWVeN.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2019-10-25",
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2369110,
+    "totalShows": 364,
+    "totalDays": 9,
+    "openingDay": {
+     "day": 1,
+     "gross": 1621214,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1621214,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 2,
+     "peak_position": 8,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-10-25"
+   }
+  }
+ }
+}

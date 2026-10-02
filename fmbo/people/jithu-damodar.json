@@ -1,0 +1,41 @@
+{
+ "slug": "jithu-damodar",
+ "name": "Jithu Damodar",
+ "source_url": "https://fridaymatinee.in/people/jithu-damodar",
+ "captured_at": "2026-10-01T23:17:08.445404+00:00",
+ "person": {
+  "name": "Jithu Damodar",
+  "photo": null,
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 55,
+   "movie_slug": "big-brother",
+   "title": "Big Brother ",
+   "year": 2020,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 336,
+   "movie_slug": "enthada-saji",
+   "title": "Enthada Saji",
+   "year": 2023,
+   "kerala_gross": "₹86.4L"
+  },
+  {
+   "movie_id": 1314,
+   "movie_slug": "aaram",
+   "title": "Aaram",
+   "year": 2026,
+   "kerala_gross": "₹1.0 Cr"
+  }
+ ]
+}

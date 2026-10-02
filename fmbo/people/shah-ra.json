@@ -1,0 +1,48 @@
+{
+ "slug": "shah-ra",
+ "name": "Shah Ra",
+ "source_url": "https://fridaymatinee.in/people/shah-ra",
+ "captured_at": "2026-10-02T10:23:27.732464+00:00",
+ "person": {
+  "name": "Shah Ra",
+  "photo": "https://image.tmdb.org/t/p/w185/ByWszUbMQCeHym9ova9b4q21BL.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 32,
+   "movie_slug": "action",
+   "title": "Action",
+   "year": 2019,
+   "kerala_gross": "₹9.7L"
+  },
+  {
+   "movie_id": 297,
+   "movie_slug": "vaathi",
+   "title": "Vaathi",
+   "year": 2023,
+   "kerala_gross": "₹50.3L"
+  },
+  {
+   "movie_id": 1065,
+   "movie_slug": "love-insurance-kompany",
+   "title": "Love Insurance Kompany",
+   "year": 2026,
+   "kerala_gross": "₹54.0L"
+  },
+  {
+   "movie_id": 1316,
+   "movie_slug": "meesaya-murukku-2",
+   "title": "Meesaya Murukku 2",
+   "year": 2026,
+   "kerala_gross": "₹26.3L"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "slug": "vtv-ganesh",
+ "name": "VTV Ganesh",
+ "source_url": "https://fridaymatinee.in/people/vtv-ganesh",
+ "captured_at": "2026-10-02T11:55:26.120463+00:00",
+ "person": {
+  "name": "VTV Ganesh",
+  "photo": "https://image.tmdb.org/t/p/w185/5JomvpPx6PrExYcZAbHM1MoHjoZ.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 10
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 1196,
+   "movie_slug": "arulvaan",
+   "title": "Arulvaan: ₹58K",
+   "year": null,
+   "kerala_gross": null
+  },
+  {
+   "movie_id": 123,
+   "movie_slug": "beast",
+   "title": "Beast",
+   "year": 2022,
+   "kerala_gross": "₹6.7 Cr"
+  },
+  {
+   "movie_id": 276,
+   "movie_slug": "varisu",
+   "title": "Varisu",
+   "year": 2023,
+   "kerala_gross": "₹7.8 Cr"
+  },
+  {
+   "movie_id": 450,
+   "movie_slug": "bandra",
+   "title": "Bandra",
+   "year": 2023,
+   "kerala_gross": "₹2.9 Cr"
+  },
+  {
+   "movie_id": 560,
+   "movie_slug": "the-greatest-of-all-time",
+   "title": "The Greatest Of All Time",
+   "year": 2024,
+   "kerala_gross": "₹10.6 Cr"
+  },
+  {
+   "movie_id": 826,
+   "movie_slug": "kiss",
+   "title": "Kiss",
+   "year": 2025,
+   "kerala_gross": "₹1.3L"
+  },
+  {
+   "movie_id": 957,
+   "movie_slug": "the-rajasaab",
+   "title": "The Rajasaab",
+   "year": 2026,
+   "kerala_gross": "₹61K"
+  },
+  {
+   "movie_id": 1052,
+   "movie_slug": "leader",
+   "title": "Leader",
+   "year": 2026,
+   "kerala_gross": "₹2.8L"
+  },
+  {
+   "movie_id": 1171,
+   "movie_slug": "con-city",
+   "title": "Con City",
+   "year": 2026,
+   "kerala_gross": "₹3.3L"
+  },
+  {
+   "movie_id": 1253,
+   "movie_slug": "hi",
+   "title": "Hi!",
+   "year": 2026,
+   "kerala_gross": "₹8.9L"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "badusha",
+ "name": "Badusha",
+ "source_url": "https://fridaymatinee.in/people/badusha",
+ "captured_at": "2026-10-01T21:08:26.205361+00:00",
+ "person": {
+  "name": "Badusha",
+  "photo": "https://image.tmdb.org/t/p/w185/uRLkk7qmd1ZOkNzOtaZD11koYSd.jpg",
+  "role": "Producer and actor"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  },
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 83,
+   "movie_slug": "nizhal",
+   "title": "Nizhal",
+   "year": 2021,
+   "kerala_gross": "₹54.2L"
+  },
+  {
+   "movie_id": 289,
+   "movie_slug": "vedikkettu",
+   "title": "Vedikkettu",
+   "year": 2023,
+   "kerala_gross": "₹65.5L"
+  },
+  {
+   "movie_id": 406,
+   "movie_slug": "voice-of-sathyanathan",
+   "title": "Voice Of Sathyanathan",
+   "year": 2023,
+   "kerala_gross": "₹10.1 Cr"
+  }
+ ]
+}

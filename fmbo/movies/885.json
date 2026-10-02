@@ -1,0 +1,1216 @@
+{
+ "id": 885,
+ "slug": "anaconda",
+ "source_url": "https://fridaymatinee.in/boxoffice/anaconda-885",
+ "captured_at": "2026-10-01T18:25:20.052508+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 885,
+    "title": "Anaconda",
+    "img": "https://image.tmdb.org/t/p/original/3LCrJNlAcrRBDsGGADYTWjuI7Rw.jpg",
+    "released": "2025-12-25",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33244668",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "100 min",
+    "genre": "Adventure, Comedy, Horror",
+    "plot": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+    "released": "2025-12-24",
+    "director": "Tom Gormican",
+    "directorSlug": "tom-gormican",
+    "actors": [
+     "Jack Black",
+     "Paul Rudd",
+     "Steve Zahn",
+     "Thandiwe Newton",
+     "Daniela Melchior",
+     "Selton Mello"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.5",
+      "votes": 74186,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.8",
+      "votes": 1462,
+      "updatedAt": "2026-09-24T13:11:45.000Z"
+     },
+     "rt": "48%",
+     "metascore": 43,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jack Black",
+     "character": "Doug McCallister",
+     "slug": "jack-black",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+     "name": "Paul Rudd",
+     "character": "Ronald Griffin Jr.",
+     "slug": "paul-rudd",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+     "name": "Steve Zahn",
+     "character": "Kenny Trent",
+     "slug": "steve-zahn",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+    },
+    {
+     "name": "Thandiwe Newton",
+     "character": "Claire Simons",
+     "slug": "thandiwe-newton",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg"
+    },
+    {
+     "name": "Daniela Melchior",
+     "character": "Ana Almeida",
+     "slug": "daniela-melchior",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tjAEB90Sa7DJtyTlDAkzVhPLQin.jpg"
+    },
+    {
+     "name": "Selton Mello",
+     "character": "Santiago",
+     "slug": "selton-mello",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sBVDTAAEDJuVBTKzVGA0PrqeD17.jpg"
+    },
+    {
+     "name": "Ice Cube",
+     "character": "Ice Cube",
+     "slug": "ice-cube",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9EghwabQ1wIQT4oN69qtPlzqGn4.jpg"
+    },
+    {
+     "name": "Ione Skye",
+     "character": "Malie",
+     "slug": "ione-skye",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ye8qsi6fn51HW93c7065Jogbh9p.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Tom Gormican",
+       "slug": "tom-gormican"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Tom Gormican",
+       "slug": "tom-gormican"
+      },
+      {
+       "name": "Kevin Etten",
+       "slug": "kevin-etten"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "David Fleming",
+       "slug": "david-fleming"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nigel Bluck",
+       "slug": "nigel-bluck"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Craig Alpert",
+       "slug": "craig-alpert"
+      },
+      {
+       "name": "Gregory Plotkin",
+       "slug": "gregory-plotkin"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Brad Fuller",
+       "slug": "brad-fuller"
+      },
+      {
+       "name": "Andrew Form",
+       "slug": "andrew-form"
+      },
+      {
+       "name": "Kevin Etten",
+       "slug": "kevin-etten"
+      },
+      {
+       "name": "Tom Gormican",
+       "slug": "tom-gormican"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Fully Formed Entertainment",
+     "slug": "fully-formed-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/saCxMqh2hFSbDeojykvP2qc6zNX.png"
+    },
+    {
+     "name": "Columbia Pictures",
+     "slug": "columbia-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+    },
+    {
+     "name": "TSG Entertainment",
+     "slug": "tsg-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/qx9K6bFWJupwde0xQDwOvXkOaL8.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-01-27",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-12-25": [
+     {
+      "id": 829,
+      "title": "Vrusshabha",
+      "img": "https://image.tmdb.org/t/p/original/hRKxGHeQBdwKswKgkmDrrMCDqoQ.jpg"
+     },
+     {
+      "id": 884,
+      "title": "Sarvam Maya",
+      "img": "https://image.tmdb.org/t/p/original/5c5FRas3ySsaQ97uVdeFKIl83TT.jpg"
+     },
+     {
+      "id": 947,
+      "title": "Haal",
+      "img": "https://image.tmdb.org/t/p/original/xmDQj0clWvkPiuvsl9LEwkrFjIA.jpg"
+     }
+    ],
+    "2026-01-01": [
+     {
+      "id": 970,
+      "title": "Jujutsu Kaisen: Hidden Inventory / Premature Death",
+      "img": "https://image.tmdb.org/t/p/original/kZkyr1sRzarENrxjtltPvmHRrTk.jpg"
+     },
+     {
+      "id": 971,
+      "title": "The Housemaid",
+      "img": "https://image.tmdb.org/t/p/original/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
+     },
+     {
+      "id": 972,
+      "title": "Ikkis",
+      "img": "https://image.tmdb.org/t/p/original/8PWu0V10nMqG5SrA13wLRXTD2fH.jpg"
+     }
+    ],
+    "2026-01-02": [
+     {
+      "id": 973,
+      "title": "The Spongebob Movie Search For Squarepants",
+      "img": "https://image.tmdb.org/t/p/original/v95hpkfgPVbtvpYP6dagG49tT2l.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-12-25",
+     "gross": 767289,
+     "sold": 3618,
+     "unsold": 29750,
+     "shows": 148,
+     "occ": 10.84,
+     "hf": "0",
+     "almost": "4",
+     "ff": "4",
+     "cumul": 767289,
+     "lastUpdatedAt": "2025-12-25 22:38:00"
+    },
+    {
+     "label": "2025-12-26",
+     "gross": 504014,
+     "sold": 2193,
+     "unsold": 24672,
+     "shows": 129,
+     "occ": 8.16,
+     "hf": "3",
+     "almost": "6",
+     "ff": "2",
+     "cumul": 1271303,
+     "lastUpdatedAt": "2025-12-26 23:49:00"
+    },
+    {
+     "label": "2025-12-27",
+     "gross": 406990,
+     "sold": 1610,
+     "unsold": 19516,
+     "shows": 106,
+     "occ": 7.62,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 1678293,
+     "lastUpdatedAt": "2025-12-27 23:33:00"
+    },
+    {
+     "label": "2025-12-28",
+     "gross": 509698,
+     "sold": 2472,
+     "unsold": 14475,
+     "shows": 90,
+     "occ": 14.59,
+     "hf": "3",
+     "almost": "6",
+     "ff": "2",
+     "cumul": 2187991,
+     "lastUpdatedAt": "2025-12-28 23:49:00"
+    },
+    {
+     "label": "2025-12-29",
+     "gross": 181603,
+     "sold": 763,
+     "unsold": 11130,
+     "shows": 60,
+     "occ": 6.42,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2369594,
+     "lastUpdatedAt": "2025-12-29 23:49:00"
+    },
+    {
+     "label": "2025-12-30",
+     "gross": 196110,
+     "sold": 779,
+     "unsold": 10295,
+     "shows": 53,
+     "occ": 7.03,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2565704,
+     "lastUpdatedAt": "2025-12-30 21:03:00"
+    },
+    {
+     "label": "2025-12-31",
+     "gross": 121620,
+     "sold": 505,
+     "unsold": 8500,
+     "shows": 44,
+     "occ": 5.61,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2687324,
+     "lastUpdatedAt": "2025-12-31 21:03:00"
+    },
+    {
+     "label": "2026-01-01",
+     "gross": 81560,
+     "sold": 306,
+     "unsold": 1611,
+     "shows": 13,
+     "occ": 15.96,
+     "hf": "0",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 2768884,
+     "lastUpdatedAt": "2026-01-01 20:28:00"
+    },
+    {
+     "label": "2026-01-02",
+     "gross": 87400,
+     "sold": 287,
+     "unsold": 2823,
+     "shows": 12,
+     "occ": 9.23,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2856284,
+     "lastUpdatedAt": "2026-01-02 20:44:00"
+    },
+    {
+     "label": "2026-01-03",
+     "gross": 67410,
+     "sold": 217,
+     "unsold": 2673,
+     "shows": 11,
+     "occ": 7.51,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2923694,
+     "lastUpdatedAt": "2026-01-03 20:44:00"
+    },
+    {
+     "label": "2026-01-04",
+     "gross": 97960,
+     "sold": 314,
+     "unsold": 2057,
+     "shows": 10,
+     "occ": 13.24,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3021654,
+     "lastUpdatedAt": "2026-01-04 20:44:00"
+    },
+    {
+     "label": "2026-01-05",
+     "gross": 25970,
+     "sold": 95,
+     "unsold": 2416,
+     "shows": 10,
+     "occ": 3.78,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3047624,
+     "lastUpdatedAt": "2026-01-05 22:53:00"
+    },
+    {
+     "label": "2026-01-06",
+     "gross": 39613,
+     "sold": 243,
+     "unsold": 455,
+     "shows": 6,
+     "occ": 34.81,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 3087237,
+     "lastUpdatedAt": "2026-01-06 22:53:00"
+    },
+    {
+     "label": "2026-01-07",
+     "gross": 44870,
+     "sold": 214,
+     "unsold": 480,
+     "shows": 6,
+     "occ": 30.84,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 3132107,
+     "lastUpdatedAt": "2026-01-07 22:53:00"
+    },
+    {
+     "label": "2026-01-08",
+     "gross": 24990,
+     "sold": 75,
+     "unsold": 739,
+     "shows": 7,
+     "occ": 9.21,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3157097,
+     "lastUpdatedAt": "2026-01-08 22:53:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 3157097,
+    "totalShows": 705,
+    "totalSeats": 145283,
+    "totalSold": 13691,
+    "avgOcc": "9.4",
+    "totalDays": 15,
+    "totalHousefull": 9,
+    "totalAlmost": 20,
+    "totalFastFilling": 8,
+    "peakDay": {
+     "day": 1,
+     "gross": 767289,
+     "date": "2025-12-25"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 767289,
+     "date": "2025-12-25"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "15:24990:3157097"
+  },
+  "week": {
+   "movie": {
+    "id": 885,
+    "title": "Anaconda",
+    "img": "https://image.tmdb.org/t/p/original/3LCrJNlAcrRBDsGGADYTWjuI7Rw.jpg",
+    "released": "2025-12-25",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33244668",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "100 min",
+    "genre": "Adventure, Comedy, Horror",
+    "plot": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+    "released": "2025-12-24",
+    "director": "Tom Gormican",
+    "directorSlug": "tom-gormican",
+    "actors": [
+     "Jack Black",
+     "Paul Rudd",
+     "Steve Zahn",
+     "Thandiwe Newton",
+     "Daniela Melchior",
+     "Selton Mello"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.5",
+      "votes": 74186,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.8",
+      "votes": 1462,
+      "updatedAt": "2026-09-24T13:11:45.000Z"
+     },
+     "rt": "48%",
+     "metascore": 43,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jack Black",
+     "character": "Doug McCallister",
+     "slug": "jack-black",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+     "name": "Paul Rudd",
+     "character": "Ronald Griffin Jr.",
+     "slug": "paul-rudd",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+     "name": "Steve Zahn",
+     "character": "Kenny Trent",
+     "slug": "steve-zahn",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+    },
+    {
+     "name": "Thandiwe Newton",
+     "character": "Claire Simons",
+     "slug": "thandiwe-newton",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg"
+    },
+    {
+     "name": "Daniela Melchior",
+     "character": "Ana Almeida",
+     "slug": "daniela-melchior",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tjAEB90Sa7DJtyTlDAkzVhPLQin.jpg"
+    },
+    {
+     "name": "Selton Mello",
+     "character": "Santiago",
+     "slug": "selton-mello",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sBVDTAAEDJuVBTKzVGA0PrqeD17.jpg"
+    },
+    {
+     "name": "Ice Cube",
+     "character": "Ice Cube",
+     "slug": "ice-cube",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9EghwabQ1wIQT4oN69qtPlzqGn4.jpg"
+    },
+    {
+     "name": "Ione Skye",
+     "character": "Malie",
+     "slug": "ione-skye",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ye8qsi6fn51HW93c7065Jogbh9p.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Tom Gormican",
+       "slug": "tom-gormican"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Tom Gormican",
+       "slug": "tom-gormican"
+      },
+      {
+       "name": "Kevin Etten",
+       "slug": "kevin-etten"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "David Fleming",
+       "slug": "david-fleming"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nigel Bluck",
+       "slug": "nigel-bluck"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Craig Alpert",
+       "slug": "craig-alpert"
+      },
+      {
+       "name": "Gregory Plotkin",
+       "slug": "gregory-plotkin"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Brad Fuller",
+       "slug": "brad-fuller"
+      },
+      {
+       "name": "Andrew Form",
+       "slug": "andrew-form"
+      },
+      {
+       "name": "Kevin Etten",
+       "slug": "kevin-etten"
+      },
+      {
+       "name": "Tom Gormican",
+       "slug": "tom-gormican"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Fully Formed Entertainment",
+     "slug": "fully-formed-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/saCxMqh2hFSbDeojykvP2qc6zNX.png"
+    },
+    {
+     "name": "Columbia Pictures",
+     "slug": "columbia-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+    },
+    {
+     "name": "TSG Entertainment",
+     "slug": "tsg-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/qx9K6bFWJupwde0xQDwOvXkOaL8.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-01-27",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-12-25": [
+     {
+      "id": 829,
+      "title": "Vrusshabha",
+      "img": "https://image.tmdb.org/t/p/original/hRKxGHeQBdwKswKgkmDrrMCDqoQ.jpg"
+     },
+     {
+      "id": 884,
+      "title": "Sarvam Maya",
+      "img": "https://image.tmdb.org/t/p/original/5c5FRas3ySsaQ97uVdeFKIl83TT.jpg"
+     },
+     {
+      "id": 947,
+      "title": "Haal",
+      "img": "https://image.tmdb.org/t/p/original/xmDQj0clWvkPiuvsl9LEwkrFjIA.jpg"
+     }
+    ],
+    "2026-01-01": [
+     {
+      "id": 970,
+      "title": "Jujutsu Kaisen: Hidden Inventory / Premature Death",
+      "img": "https://image.tmdb.org/t/p/original/kZkyr1sRzarENrxjtltPvmHRrTk.jpg"
+     },
+     {
+      "id": 971,
+      "title": "The Housemaid",
+      "img": "https://image.tmdb.org/t/p/original/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
+     },
+     {
+      "id": 972,
+      "title": "Ikkis",
+      "img": "https://image.tmdb.org/t/p/original/8PWu0V10nMqG5SrA13wLRXTD2fH.jpg"
+     }
+    ],
+    "2026-01-02": [
+     {
+      "id": 973,
+      "title": "The Spongebob Movie Search For Squarepants",
+      "img": "https://image.tmdb.org/t/p/original/v95hpkfgPVbtvpYP6dagG49tT2l.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-12-25",
+     "gross": 2687324,
+     "sold": 11940,
+     "unsold": 118338,
+     "shows": 630,
+     "occ": 9.17,
+     "hf": "7",
+     "almost": "17",
+     "ff": "8",
+     "cumul": 2687324,
+     "lastUpdatedAt": "2025-12-31 21:03:00"
+    },
+    {
+     "label": "2026-01-01",
+     "gross": 444783,
+     "sold": 1676,
+     "unsold": 12515,
+     "shows": 68,
+     "occ": 11.81,
+     "hf": "2",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 3132107,
+     "lastUpdatedAt": "2026-01-07 22:53:00"
+    },
+    {
+     "label": "2026-01-08",
+     "gross": 24990,
+     "sold": 75,
+     "unsold": 739,
+     "shows": 7,
+     "occ": 9.21,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3157097,
+     "lastUpdatedAt": "2026-01-08 22:53:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 3157097,
+    "totalShows": 705,
+    "totalSeats": 145283,
+    "totalSold": 13691,
+    "avgOcc": "9.4",
+    "totalDays": 3,
+    "totalHousefull": 9,
+    "totalAlmost": 20,
+    "totalFastFilling": 8,
+    "peakDay": {
+     "day": 1,
+     "gross": 2687324
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 2687324
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "3:24990:3157097"
+  },
+  "district": {
+   "movie": {
+    "id": 885,
+    "title": "Anaconda",
+    "img": "https://image.tmdb.org/t/p/original/3LCrJNlAcrRBDsGGADYTWjuI7Rw.jpg",
+    "released": "2025-12-25",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33244668",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "100 min",
+    "genre": "Adventure, Comedy, Horror",
+    "plot": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+    "released": "2025-12-24",
+    "director": "Tom Gormican",
+    "directorSlug": "tom-gormican",
+    "actors": [
+     "Jack Black",
+     "Paul Rudd",
+     "Steve Zahn",
+     "Thandiwe Newton",
+     "Daniela Melchior",
+     "Selton Mello"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.5",
+      "votes": 74186,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.8",
+      "votes": 1462,
+      "updatedAt": "2026-09-24T13:11:45.000Z"
+     },
+     "rt": "48%",
+     "metascore": 43,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jack Black",
+     "character": "Doug McCallister",
+     "slug": "jack-black",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+     "name": "Paul Rudd",
+     "character": "Ronald Griffin Jr.",
+     "slug": "paul-rudd",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+     "name": "Steve Zahn",
+     "character": "Kenny Trent",
+     "slug": "steve-zahn",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rwrPdKGwXnByxUVMxMf8Y7oswi3.jpg"
+    },
+    {
+     "name": "Thandiwe Newton",
+     "character": "Claire Simons",
+     "slug": "thandiwe-newton",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hZQLvxj7nV7pBrRyWTvWVz1CDi8.jpg"
+    },
+    {
+     "name": "Daniela Melchior",
+     "character": "Ana Almeida",
+     "slug": "daniela-melchior",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tjAEB90Sa7DJtyTlDAkzVhPLQin.jpg"
+    },
+    {
+     "name": "Selton Mello",
+     "character": "Santiago",
+     "slug": "selton-mello",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sBVDTAAEDJuVBTKzVGA0PrqeD17.jpg"
+    },
+    {
+     "name": "Ice Cube",
+     "character": "Ice Cube",
+     "slug": "ice-cube",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9EghwabQ1wIQT4oN69qtPlzqGn4.jpg"
+    },
+    {
+     "name": "Ione Skye",
+     "character": "Malie",
+     "slug": "ione-skye",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ye8qsi6fn51HW93c7065Jogbh9p.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Tom Gormican",
+       "slug": "tom-gormican"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Tom Gormican",
+       "slug": "tom-gormican"
+      },
+      {
+       "name": "Kevin Etten",
+       "slug": "kevin-etten"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "David Fleming",
+       "slug": "david-fleming"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nigel Bluck",
+       "slug": "nigel-bluck"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Craig Alpert",
+       "slug": "craig-alpert"
+      },
+      {
+       "name": "Gregory Plotkin",
+       "slug": "gregory-plotkin"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Brad Fuller",
+       "slug": "brad-fuller"
+      },
+      {
+       "name": "Andrew Form",
+       "slug": "andrew-form"
+      },
+      {
+       "name": "Kevin Etten",
+       "slug": "kevin-etten"
+      },
+      {
+       "name": "Tom Gormican",
+       "slug": "tom-gormican"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Fully Formed Entertainment",
+     "slug": "fully-formed-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/saCxMqh2hFSbDeojykvP2qc6zNX.png"
+    },
+    {
+     "name": "Columbia Pictures",
+     "slug": "columbia-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+    },
+    {
+     "name": "TSG Entertainment",
+     "slug": "tsg-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/qx9K6bFWJupwde0xQDwOvXkOaL8.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-01-27",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-12-25": [
+     {
+      "id": 829,
+      "title": "Vrusshabha",
+      "img": "https://image.tmdb.org/t/p/original/hRKxGHeQBdwKswKgkmDrrMCDqoQ.jpg"
+     },
+     {
+      "id": 884,
+      "title": "Sarvam Maya",
+      "img": "https://image.tmdb.org/t/p/original/5c5FRas3ySsaQ97uVdeFKIl83TT.jpg"
+     },
+     {
+      "id": 947,
+      "title": "Haal",
+      "img": "https://image.tmdb.org/t/p/original/xmDQj0clWvkPiuvsl9LEwkrFjIA.jpg"
+     }
+    ],
+    "2026-01-01": [
+     {
+      "id": 970,
+      "title": "Jujutsu Kaisen: Hidden Inventory / Premature Death",
+      "img": "https://image.tmdb.org/t/p/original/kZkyr1sRzarENrxjtltPvmHRrTk.jpg"
+     },
+     {
+      "id": 971,
+      "title": "The Housemaid",
+      "img": "https://image.tmdb.org/t/p/original/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
+     },
+     {
+      "id": 972,
+      "title": "Ikkis",
+      "img": "https://image.tmdb.org/t/p/original/8PWu0V10nMqG5SrA13wLRXTD2fH.jpg"
+     }
+    ],
+    "2026-01-02": [
+     {
+      "id": 973,
+      "title": "The Spongebob Movie Search For Squarepants",
+      "img": "https://image.tmdb.org/t/p/original/v95hpkfgPVbtvpYP6dagG49tT2l.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 1150774,
+     "sold": 4045,
+     "unsold": 16253,
+     "shows": 149,
+     "occ": 19.93,
+     "hf": "2",
+     "almost": "5",
+     "ff": "2",
+     "cumul": 1150774,
+     "lastUpdatedAt": "2026-01-08 22:53:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 686060,
+     "sold": 2462,
+     "unsold": 16470,
+     "shows": 89,
+     "occ": 13,
+     "hf": "2",
+     "almost": "10",
+     "ff": "6",
+     "cumul": 1836834,
+     "lastUpdatedAt": "2026-01-08 15:43:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 399580,
+     "sold": 1801,
+     "unsold": 14592,
+     "shows": 105,
+     "occ": 10.99,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 2236414,
+     "lastUpdatedAt": "2026-01-08 13:28:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 302780,
+     "sold": 1414,
+     "unsold": 23025,
+     "shows": 89,
+     "occ": 5.79,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2539194,
+     "lastUpdatedAt": "2026-01-08 17:08:00"
+    },
+    {
+     "label": "Kollam",
+     "gross": 152715,
+     "sold": 1005,
+     "unsold": 11606,
+     "shows": 50,
+     "occ": 7.97,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 2691909,
+     "lastUpdatedAt": "2025-12-31 13:43:00"
+    },
+    {
+     "label": "Kannur",
+     "gross": 126708,
+     "sold": 621,
+     "unsold": 2876,
+     "shows": 24,
+     "occ": 17.76,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 2818617,
+     "lastUpdatedAt": "2026-01-07 22:53:00"
+    },
+    {
+     "label": "Pathanamthitta",
+     "gross": 68445,
+     "sold": 507,
+     "unsold": 6245,
+     "shows": 16,
+     "occ": 7.51,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2887062,
+     "lastUpdatedAt": "2025-12-31 17:43:00"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 56550,
+     "sold": 381,
+     "unsold": 7737,
+     "shows": 42,
+     "occ": 4.69,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2943612,
+     "lastUpdatedAt": "2026-01-01 20:28:00"
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 51300,
+     "sold": 270,
+     "unsold": 3104,
+     "shows": 14,
+     "occ": 8,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2994912,
+     "lastUpdatedAt": "2025-12-30 12:23:00"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 51075,
+     "sold": 461,
+     "unsold": 5009,
+     "shows": 38,
+     "occ": 8.43,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3045987,
+     "lastUpdatedAt": "2026-01-01 10:29:00"
+    },
+    {
+     "label": "Kottayam",
+     "gross": 50790,
+     "sold": 372,
+     "unsold": 19194,
+     "shows": 55,
+     "occ": 1.9,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3096777,
+     "lastUpdatedAt": "2026-01-01 16:53:00"
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 39330,
+     "sold": 236,
+     "unsold": 3606,
+     "shows": 23,
+     "occ": 6.14,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 3136107,
+     "lastUpdatedAt": "2025-12-31 11:59:00"
+    },
+    {
+     "label": "Idukki",
+     "gross": 20990,
+     "sold": 116,
+     "unsold": 1875,
+     "shows": 11,
+     "occ": 5.83,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3157097,
+     "lastUpdatedAt": "2026-01-01 16:38:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 3157097,
+    "totalShows": 705,
+    "totalSeats": 145283,
+    "totalSold": 13691,
+    "avgOcc": "9.4",
+    "totalDays": 13,
+    "totalHousefull": 9,
+    "totalAlmost": 20,
+    "totalFastFilling": 8,
+    "peakDay": {
+     "day": 1,
+     "gross": 1150774,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 1150774,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "13:20990:3157097"
+  }
+ }
+}

@@ -1,0 +1,634 @@
+{
+ "id": 491,
+ "slug": "aattam",
+ "source_url": "https://fridaymatinee.in/boxoffice/aattam-491",
+ "captured_at": "2026-10-01T18:13:19.018195+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 491,
+    "title": "Aattam",
+    "img": "https://image.tmdb.org/t/p/original/5D7leH1Dk7doRMAgT3kPGV5icup.jpg",
+    "released": "2024-01-05",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27302079",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "139 min",
+    "genre": "Drama",
+    "plot": "After a party amongst a theatre group, their sole actress, Anjali is subjected to a crime from one of the men in the group. A meeting is called for. In trying to reach a consensus, stories unravel, suspicions surface and clamour ensues.",
+    "released": "2024-01-05",
+    "director": "Anand Ekarshi",
+    "directorSlug": "anand-ekarshi",
+    "actors": [
+     "Zarin Shihab",
+     "Vinay Forrt",
+     "Kalabhavan Shajon",
+     "Selvaraj Raghavan VR",
+     "Sijin Sijeesh",
+     "Aji Thiruvamkulam"
+    ],
+    "awards": "4 wins",
+    "ratings": {
+     "imdb": {
+      "value": "8.1",
+      "votes": 5623,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "100%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Zarin Shihab",
+     "character": "Anjali Balan",
+     "slug": "zarin-shihab",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7skQdxYBE88qHJy2uUGBQ1Tbn8C.jpg"
+    },
+    {
+     "name": "Vinay Forrt",
+     "character": "Vinay",
+     "slug": "vinay-forrt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/26P7CfxRs6Hay7xAkHAghDtvGzO.jpg"
+    },
+    {
+     "name": "Kalabhavan Shajon",
+     "character": "Hari",
+     "slug": "kalabhavan-shajon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AeiCzOHp0lo426jJGpwJ2CWwISy.jpg"
+    },
+    {
+     "name": "Selvaraj Raghavan VR",
+     "character": "Selvan",
+     "slug": "selvaraj-raghavan-vr",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sijin Sijeesh",
+     "character": "Sijin",
+     "slug": "sijin-sijeesh",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Aji Thiruvamkulam",
+     "character": "Aji",
+     "slug": "aji-thiruvamkulam",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Nandan Unni",
+     "character": "Nandan",
+     "slug": "nandan-unni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8h8D6uPFLWZskE5zvoHi8TBcumj.jpg"
+    },
+    {
+     "name": "Madan Babu K.",
+     "character": "Madan",
+     "slug": "madan-babu-k",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anand Ekarshi",
+       "slug": "anand-ekarshi"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Anand Ekarshi",
+       "slug": "anand-ekarshi"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Basil C J",
+       "slug": "basil-c-j"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Anurudh Aneesh",
+       "slug": "anurudh-aneesh"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Mahesh Bhuvananandh",
+       "slug": "mahesh-bhuvananandh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dr. Ajith Joy",
+       "slug": "dr-ajith-joy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Joy Movie Productions",
+     "slug": "joy-movie-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-01-12",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 9510559,
+    "totalShows": 1990,
+    "totalDays": 21,
+    "openingDay": {
+     "day": 1,
+     "gross": 826738,
+     "date": "2024-01-05"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 1620701.8,
+     "date": "2024-01-07"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-01-05"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 491,
+    "title": "Aattam",
+    "img": "https://image.tmdb.org/t/p/original/5D7leH1Dk7doRMAgT3kPGV5icup.jpg",
+    "released": "2024-01-05",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27302079",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "139 min",
+    "genre": "Drama",
+    "plot": "After a party amongst a theatre group, their sole actress, Anjali is subjected to a crime from one of the men in the group. A meeting is called for. In trying to reach a consensus, stories unravel, suspicions surface and clamour ensues.",
+    "released": "2024-01-05",
+    "director": "Anand Ekarshi",
+    "directorSlug": "anand-ekarshi",
+    "actors": [
+     "Zarin Shihab",
+     "Vinay Forrt",
+     "Kalabhavan Shajon",
+     "Selvaraj Raghavan VR",
+     "Sijin Sijeesh",
+     "Aji Thiruvamkulam"
+    ],
+    "awards": "4 wins",
+    "ratings": {
+     "imdb": {
+      "value": "8.1",
+      "votes": 5623,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "100%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Zarin Shihab",
+     "character": "Anjali Balan",
+     "slug": "zarin-shihab",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7skQdxYBE88qHJy2uUGBQ1Tbn8C.jpg"
+    },
+    {
+     "name": "Vinay Forrt",
+     "character": "Vinay",
+     "slug": "vinay-forrt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/26P7CfxRs6Hay7xAkHAghDtvGzO.jpg"
+    },
+    {
+     "name": "Kalabhavan Shajon",
+     "character": "Hari",
+     "slug": "kalabhavan-shajon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AeiCzOHp0lo426jJGpwJ2CWwISy.jpg"
+    },
+    {
+     "name": "Selvaraj Raghavan VR",
+     "character": "Selvan",
+     "slug": "selvaraj-raghavan-vr",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sijin Sijeesh",
+     "character": "Sijin",
+     "slug": "sijin-sijeesh",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Aji Thiruvamkulam",
+     "character": "Aji",
+     "slug": "aji-thiruvamkulam",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Nandan Unni",
+     "character": "Nandan",
+     "slug": "nandan-unni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8h8D6uPFLWZskE5zvoHi8TBcumj.jpg"
+    },
+    {
+     "name": "Madan Babu K.",
+     "character": "Madan",
+     "slug": "madan-babu-k",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anand Ekarshi",
+       "slug": "anand-ekarshi"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Anand Ekarshi",
+       "slug": "anand-ekarshi"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Basil C J",
+       "slug": "basil-c-j"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Anurudh Aneesh",
+       "slug": "anurudh-aneesh"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Mahesh Bhuvananandh",
+       "slug": "mahesh-bhuvananandh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dr. Ajith Joy",
+       "slug": "dr-ajith-joy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Joy Movie Productions",
+     "slug": "joy-movie-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-01-12",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-01-05",
+     "gross": 7224977,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1485,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-01-12",
+     "gross": 1766272,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 398,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-01-19",
+     "gross": 519310,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 107,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 9510559,
+    "totalShows": 1990,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 7224977
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 7224977
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-01-05"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 491,
+    "title": "Aattam",
+    "img": "https://image.tmdb.org/t/p/original/5D7leH1Dk7doRMAgT3kPGV5icup.jpg",
+    "released": "2024-01-05",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27302079",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "139 min",
+    "genre": "Drama",
+    "plot": "After a party amongst a theatre group, their sole actress, Anjali is subjected to a crime from one of the men in the group. A meeting is called for. In trying to reach a consensus, stories unravel, suspicions surface and clamour ensues.",
+    "released": "2024-01-05",
+    "director": "Anand Ekarshi",
+    "directorSlug": "anand-ekarshi",
+    "actors": [
+     "Zarin Shihab",
+     "Vinay Forrt",
+     "Kalabhavan Shajon",
+     "Selvaraj Raghavan VR",
+     "Sijin Sijeesh",
+     "Aji Thiruvamkulam"
+    ],
+    "awards": "4 wins",
+    "ratings": {
+     "imdb": {
+      "value": "8.1",
+      "votes": 5623,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "100%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Zarin Shihab",
+     "character": "Anjali Balan",
+     "slug": "zarin-shihab",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7skQdxYBE88qHJy2uUGBQ1Tbn8C.jpg"
+    },
+    {
+     "name": "Vinay Forrt",
+     "character": "Vinay",
+     "slug": "vinay-forrt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/26P7CfxRs6Hay7xAkHAghDtvGzO.jpg"
+    },
+    {
+     "name": "Kalabhavan Shajon",
+     "character": "Hari",
+     "slug": "kalabhavan-shajon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AeiCzOHp0lo426jJGpwJ2CWwISy.jpg"
+    },
+    {
+     "name": "Selvaraj Raghavan VR",
+     "character": "Selvan",
+     "slug": "selvaraj-raghavan-vr",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sijin Sijeesh",
+     "character": "Sijin",
+     "slug": "sijin-sijeesh",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Aji Thiruvamkulam",
+     "character": "Aji",
+     "slug": "aji-thiruvamkulam",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Nandan Unni",
+     "character": "Nandan",
+     "slug": "nandan-unni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8h8D6uPFLWZskE5zvoHi8TBcumj.jpg"
+    },
+    {
+     "name": "Madan Babu K.",
+     "character": "Madan",
+     "slug": "madan-babu-k",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anand Ekarshi",
+       "slug": "anand-ekarshi"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Anand Ekarshi",
+       "slug": "anand-ekarshi"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Basil C J",
+       "slug": "basil-c-j"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Anurudh Aneesh",
+       "slug": "anurudh-aneesh"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Mahesh Bhuvananandh",
+       "slug": "mahesh-bhuvananandh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dr. Ajith Joy",
+       "slug": "dr-ajith-joy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Joy Movie Productions",
+     "slug": "joy-movie-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-01-12",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 9510559,
+    "totalShows": 1990,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 4084301,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4084301,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-01-05"
+   }
+  }
+ }
+}

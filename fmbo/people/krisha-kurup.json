@@ -1,0 +1,41 @@
+{
+ "slug": "krisha-kurup",
+ "name": "Krisha Kurup",
+ "source_url": "https://fridaymatinee.in/people/krisha-kurup",
+ "captured_at": "2026-10-01T23:51:58.646586+00:00",
+ "person": {
+  "name": "Krisha Kurup",
+  "photo": "https://image.tmdb.org/t/p/w185/3ZMN10LgcdcG4LWJGIyYcSxl4y0.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 705,
+   "movie_slug": "ronth",
+   "title": "Ronth",
+   "year": 2025,
+   "kerala_gross": "₹5.3 Cr"
+  },
+  {
+   "movie_id": 1117,
+   "movie_slug": "dose",
+   "title": "Dose",
+   "year": 2026,
+   "kerala_gross": "₹8.2L"
+  },
+  {
+   "movie_id": 1146,
+   "movie_slug": "governor",
+   "title": "Governor",
+   "year": 2026,
+   "kerala_gross": "₹68K"
+  }
+ ]
+}

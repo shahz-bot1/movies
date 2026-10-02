@@ -1,0 +1,382 @@
+{
+ "id": 15,
+ "slug": "joker",
+ "source_url": "https://fridaymatinee.in/boxoffice/joker-15",
+ "captured_at": "2026-10-01T17:56:52.110424+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 15,
+    "title": "Joker",
+    "img": "https://image.tmdb.org/t/p/original/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "released": "2019-10-08",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt7286456",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "122 min",
+    "genre": "Crime, Thriller, Drama",
+    "plot": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+    "released": "2019-10-01",
+    "director": "Todd Phillips",
+    "directorSlug": "todd-phillips",
+    "actors": [
+     "Joaquin Phoenix",
+     "Robert De Niro",
+     "Zazie Beetz",
+     "Frances Conroy",
+     "Brett Cullen",
+     "Shea Whigham"
+    ],
+    "awards": "Won 2 Oscars. 120 wins u0026 247 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.3",
+      "votes": 1728339,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.1",
+      "votes": 28358,
+      "updatedAt": "2026-09-24T19:33:51.000Z"
+     },
+     "rt": "68%",
+     "metascore": 59,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Joaquin Phoenix",
+     "character": "Arthur Fleck",
+     "slug": "joaquin-phoenix",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+    },
+    {
+     "name": "Robert De Niro",
+     "character": "Murray Franklin",
+     "slug": "robert-de-niro",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+     "name": "Zazie Beetz",
+     "character": "Sophie Dumond",
+     "slug": "zazie-beetz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ijrT4pvALvxU0gphea4YxDnDh6e.jpg"
+    },
+    {
+     "name": "Frances Conroy",
+     "character": "Penny Fleck",
+     "slug": "frances-conroy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
+    },
+    {
+     "name": "Brett Cullen",
+     "character": "Thomas Wayne",
+     "slug": "brett-cullen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4P6TsRcnr9MRbXlCdHitulGM5LT.jpg"
+    },
+    {
+     "name": "Shea Whigham",
+     "character": "Detective Burke",
+     "slug": "shea-whigham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
+    },
+    {
+     "name": "Bill Camp",
+     "character": "Detective Garrity",
+     "slug": "bill-camp",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wxYyJSltCHwU0MTg838SllOlvNT.jpg"
+    },
+    {
+     "name": "Glenn Fleshler",
+     "character": "Randall",
+     "slug": "glenn-fleshler",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x1Cef2yPZS7bJTwxI7DX3q0HNcv.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Todd Phillips",
+       "slug": "todd-phillips"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Todd Phillips",
+       "slug": "todd-phillips"
+      },
+      {
+       "name": "Scott Silver",
+       "slug": "scott-silver"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hildur Guðnadóttir",
+       "slug": "hildur-gu-nadottir"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Lawrence Sher",
+       "slug": "lawrence-sher"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jeff Groth",
+       "slug": "jeff-groth"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Todd Phillips",
+       "slug": "todd-phillips"
+      },
+      {
+       "name": "Bradley Cooper",
+       "slug": "bradley-cooper"
+      },
+      {
+       "name": "Emma Tillinger Koskoff",
+       "slug": "emma-tillinger-koskoff"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "Joint Effort",
+     "slug": "joint-effort",
+     "logo": null
+    },
+    {
+     "name": "Village Roadshow Pictures",
+     "slug": "village-roadshow-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/at4uYdwAAgNRKhZuuFX8ShKSybw.png"
+    },
+    {
+     "name": "Bron Studios",
+     "slug": "bron-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/aTc07YaNHo8WNgkQSnvLmG6w4nW.png"
+    },
+    {
+     "name": "DC Films",
+     "slug": "dc-films",
+     "logo": "https://image.tmdb.org/t/p/w185/13F3Jf7EFAcREU0xzZqJnVnyGXu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 11282494,
+    "totalShows": 1102,
+    "totalDays": 23,
+    "openingDay": {
+     "day": 1,
+     "gross": 1370574,
+     "date": "2019-10-08"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1370574,
+     "date": "2019-10-08"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 9,
+     "peak_position": 2,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-10-08"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 15,
+    "title": "Joker",
+    "img": "https://image.tmdb.org/t/p/original/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "released": "2019-10-08",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt7286456",
+    "isRerelease": false
+   },
+   "omdb": "$e:1:props:allViews:date:omdb",
+   "cast": "$e:1:props:allViews:date:cast",
+   "crew": "$e:1:props:allViews:date:crew",
+   "companies": "$e:1:props:allViews:date:companies",
+   "ott": "$e:1:props:allViews:date:ott",
+   "boxoffice": [
+    {
+     "label": "2019-10-08",
+     "gross": 6855026,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 419,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-10-15",
+     "gross": 3171706,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 464,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-10-22",
+     "gross": 1097748,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 190,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-10-29",
+     "gross": 158014,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 29,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 11282494,
+    "totalShows": 1102,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 6855026,
+     "date": "$undefined"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 6855026,
+     "date": "$undefined"
+    },
+    "chartPosition": "$e:1:props:allViews:date:summary:chartPosition"
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-10-08"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 15,
+    "title": "Joker",
+    "img": "https://image.tmdb.org/t/p/original/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "released": "2019-10-08",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt7286456",
+    "isRerelease": false
+   },
+   "omdb": "$e:1:props:allViews:date:omdb",
+   "cast": "$e:1:props:allViews:date:cast",
+   "crew": "$e:1:props:allViews:date:crew",
+   "companies": "$e:1:props:allViews:date:companies",
+   "ott": "$e:1:props:allViews:date:ott",
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 11282494,
+    "totalShows": 1102,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 6220467,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 6220467,
+     "date": "Ernakulam"
+    },
+    "chartPosition": "$e:1:props:allViews:date:summary:chartPosition"
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-10-08"
+   }
+  }
+ }
+}

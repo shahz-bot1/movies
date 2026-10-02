@@ -1,0 +1,666 @@
+{
+ "id": 494,
+ "slug": "ayalaan",
+ "source_url": "https://fridaymatinee.in/boxoffice/ayalaan-494",
+ "captured_at": "2026-10-01T18:13:28.765612+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 494,
+    "title": "Ayalaan",
+    "img": "https://image.tmdb.org/t/p/original/7uWvtmjD2SmFX2XG4QDXw3U1cOi.jpg",
+    "released": "2024-01-12",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt7892066",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "156 min",
+    "genre": "Science Fiction, Action, Adventure",
+    "plot": "A lost alien seeks help from four friends to get back to his home planet, while a group of hostile scientists tries to capture it.",
+    "released": "2024-01-12",
+    "director": "R. Ravi Kumar",
+    "directorSlug": "r-ravi-kumar",
+    "actors": [
+     "Sivakarthikeyan",
+     "Siddharth",
+     "Venkatesh Senguttuvan",
+     "Sharad Kelkar",
+     "Rakul Preet Singh",
+     "Yogi Babu"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.9",
+      "votes": 4537,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": "33%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sivakarthikeyan",
+     "character": "Tamizh",
+     "slug": "sivakarthikeyan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jgy9y3V8QqZmu5r8sMxrGCzXuyp.jpg"
+    },
+    {
+     "name": "Siddharth",
+     "character": "Tattoo (voice)",
+     "slug": "siddharth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9XrTuJp9lnB1rsBPzTaoXdp1ig8.jpg"
+    },
+    {
+     "name": "Venkatesh Senguttuvan",
+     "character": "Tattoo (Body)",
+     "slug": "venkatesh-senguttuvan",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sharad Kelkar",
+     "character": "Aryan",
+     "slug": "sharad-kelkar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9UWI0fQUW5JRCS4tOb2w4ugmgJ2.jpg"
+    },
+    {
+     "name": "Rakul Preet Singh",
+     "character": "Tara",
+     "slug": "rakul-preet-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tfciRvQoejtOac2j2XICags3pQG.jpg"
+    },
+    {
+     "name": "Yogi Babu",
+     "character": "Tyson",
+     "slug": "yogi-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+    },
+    {
+     "name": "Karunakaran",
+     "character": "Sugirtharaja",
+     "slug": "karunakaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3unnOmeQ0r4GhAY1EDbZaCdt1N.jpg"
+    },
+    {
+     "name": "David Broughton-Davies",
+     "character": "Dexter Williams",
+     "slug": "david-broughton-davies",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cJMOifFhwG3PigQvlxnGlITbWoi.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "R. Ravi Kumar",
+       "slug": "r-ravi-kumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "R. Ravi Kumar",
+       "slug": "r-ravi-kumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "A.R. Rahman",
+       "slug": "a-r-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nirav Shah",
+       "slug": "nirav-shah"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Antony L. Ruben",
+       "slug": "antony-l-ruben"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "R. D. Raja",
+       "slug": "r-d-raja"
+      },
+      {
+       "name": "Kotapadi J Rajesh",
+       "slug": "kotapadi-j-rajesh"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "24AM Studios",
+     "slug": "24am-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/5sswsWiq3VlMeIIYNP56bObE3Lt.png"
+    },
+    {
+     "name": "KJR Studios",
+     "slug": "kjr-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/7yeEWra4nkzELavDkRnprmKQi27.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-30",
+    "platforms": [
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2758,
+      "name": "Goldmines Play Amazon Channel",
+      "logoPath": "/8uXd8H7oaWlLBszABEvF9jIQCYx.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5039152.4,
+    "totalShows": 1629,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 1018967.2,
+     "date": "2024-01-12"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 1136855,
+     "date": "2024-01-14"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-01-12"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 494,
+    "title": "Ayalaan",
+    "img": "https://image.tmdb.org/t/p/original/7uWvtmjD2SmFX2XG4QDXw3U1cOi.jpg",
+    "released": "2024-01-12",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt7892066",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "156 min",
+    "genre": "Science Fiction, Action, Adventure",
+    "plot": "A lost alien seeks help from four friends to get back to his home planet, while a group of hostile scientists tries to capture it.",
+    "released": "2024-01-12",
+    "director": "R. Ravi Kumar",
+    "directorSlug": "r-ravi-kumar",
+    "actors": [
+     "Sivakarthikeyan",
+     "Siddharth",
+     "Venkatesh Senguttuvan",
+     "Sharad Kelkar",
+     "Rakul Preet Singh",
+     "Yogi Babu"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.9",
+      "votes": 4537,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": "33%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sivakarthikeyan",
+     "character": "Tamizh",
+     "slug": "sivakarthikeyan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jgy9y3V8QqZmu5r8sMxrGCzXuyp.jpg"
+    },
+    {
+     "name": "Siddharth",
+     "character": "Tattoo (voice)",
+     "slug": "siddharth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9XrTuJp9lnB1rsBPzTaoXdp1ig8.jpg"
+    },
+    {
+     "name": "Venkatesh Senguttuvan",
+     "character": "Tattoo (Body)",
+     "slug": "venkatesh-senguttuvan",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sharad Kelkar",
+     "character": "Aryan",
+     "slug": "sharad-kelkar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9UWI0fQUW5JRCS4tOb2w4ugmgJ2.jpg"
+    },
+    {
+     "name": "Rakul Preet Singh",
+     "character": "Tara",
+     "slug": "rakul-preet-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tfciRvQoejtOac2j2XICags3pQG.jpg"
+    },
+    {
+     "name": "Yogi Babu",
+     "character": "Tyson",
+     "slug": "yogi-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+    },
+    {
+     "name": "Karunakaran",
+     "character": "Sugirtharaja",
+     "slug": "karunakaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3unnOmeQ0r4GhAY1EDbZaCdt1N.jpg"
+    },
+    {
+     "name": "David Broughton-Davies",
+     "character": "Dexter Williams",
+     "slug": "david-broughton-davies",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cJMOifFhwG3PigQvlxnGlITbWoi.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "R. Ravi Kumar",
+       "slug": "r-ravi-kumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "R. Ravi Kumar",
+       "slug": "r-ravi-kumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "A.R. Rahman",
+       "slug": "a-r-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nirav Shah",
+       "slug": "nirav-shah"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Antony L. Ruben",
+       "slug": "antony-l-ruben"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "R. D. Raja",
+       "slug": "r-d-raja"
+      },
+      {
+       "name": "Kotapadi J Rajesh",
+       "slug": "kotapadi-j-rajesh"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "24AM Studios",
+     "slug": "24am-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/5sswsWiq3VlMeIIYNP56bObE3Lt.png"
+    },
+    {
+     "name": "KJR Studios",
+     "slug": "kjr-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/7yeEWra4nkzELavDkRnprmKQi27.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-30",
+    "platforms": [
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2758,
+      "name": "Goldmines Play Amazon Channel",
+      "logoPath": "/8uXd8H7oaWlLBszABEvF9jIQCYx.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-01-12",
+     "gross": 4873383.399999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1563,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-01-19",
+     "gross": 165769,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 66,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5039152.399999999,
+    "totalShows": 1629,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 4873383.399999999
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4873383.399999999
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-01-12"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 494,
+    "title": "Ayalaan",
+    "img": "https://image.tmdb.org/t/p/original/7uWvtmjD2SmFX2XG4QDXw3U1cOi.jpg",
+    "released": "2024-01-12",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt7892066",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "156 min",
+    "genre": "Science Fiction, Action, Adventure",
+    "plot": "A lost alien seeks help from four friends to get back to his home planet, while a group of hostile scientists tries to capture it.",
+    "released": "2024-01-12",
+    "director": "R. Ravi Kumar",
+    "directorSlug": "r-ravi-kumar",
+    "actors": [
+     "Sivakarthikeyan",
+     "Siddharth",
+     "Venkatesh Senguttuvan",
+     "Sharad Kelkar",
+     "Rakul Preet Singh",
+     "Yogi Babu"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.9",
+      "votes": 4537,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": "33%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sivakarthikeyan",
+     "character": "Tamizh",
+     "slug": "sivakarthikeyan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jgy9y3V8QqZmu5r8sMxrGCzXuyp.jpg"
+    },
+    {
+     "name": "Siddharth",
+     "character": "Tattoo (voice)",
+     "slug": "siddharth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9XrTuJp9lnB1rsBPzTaoXdp1ig8.jpg"
+    },
+    {
+     "name": "Venkatesh Senguttuvan",
+     "character": "Tattoo (Body)",
+     "slug": "venkatesh-senguttuvan",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sharad Kelkar",
+     "character": "Aryan",
+     "slug": "sharad-kelkar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9UWI0fQUW5JRCS4tOb2w4ugmgJ2.jpg"
+    },
+    {
+     "name": "Rakul Preet Singh",
+     "character": "Tara",
+     "slug": "rakul-preet-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tfciRvQoejtOac2j2XICags3pQG.jpg"
+    },
+    {
+     "name": "Yogi Babu",
+     "character": "Tyson",
+     "slug": "yogi-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+    },
+    {
+     "name": "Karunakaran",
+     "character": "Sugirtharaja",
+     "slug": "karunakaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3unnOmeQ0r4GhAY1EDbZaCdt1N.jpg"
+    },
+    {
+     "name": "David Broughton-Davies",
+     "character": "Dexter Williams",
+     "slug": "david-broughton-davies",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cJMOifFhwG3PigQvlxnGlITbWoi.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "R. Ravi Kumar",
+       "slug": "r-ravi-kumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "R. Ravi Kumar",
+       "slug": "r-ravi-kumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "A.R. Rahman",
+       "slug": "a-r-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nirav Shah",
+       "slug": "nirav-shah"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Antony L. Ruben",
+       "slug": "antony-l-ruben"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "R. D. Raja",
+       "slug": "r-d-raja"
+      },
+      {
+       "name": "Kotapadi J Rajesh",
+       "slug": "kotapadi-j-rajesh"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "24AM Studios",
+     "slug": "24am-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/5sswsWiq3VlMeIIYNP56bObE3Lt.png"
+    },
+    {
+     "name": "KJR Studios",
+     "slug": "kjr-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/7yeEWra4nkzELavDkRnprmKQi27.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-30",
+    "platforms": [
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2758,
+      "name": "Goldmines Play Amazon Channel",
+      "logoPath": "/8uXd8H7oaWlLBszABEvF9jIQCYx.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5039152.4,
+    "totalShows": 1629,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1417810,
+     "date": "Thiruvananthapuram"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1417810,
+     "date": "Thiruvananthapuram"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-01-12"
+   }
+  }
+ }
+}

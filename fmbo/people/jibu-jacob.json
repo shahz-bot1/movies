@@ -1,0 +1,41 @@
+{
+ "slug": "jibu-jacob",
+ "name": "Jibu Jacob",
+ "source_url": "https://fridaymatinee.in/people/jibu-jacob",
+ "captured_at": "2026-10-01T23:14:04.229811+00:00",
+ "person": {
+  "name": "Jibu Jacob",
+  "photo": "https://image.tmdb.org/t/p/w185/8pwqHpFYjfVHRdUp0QIUSJ5RsIJ.jpg",
+  "role": "Director"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 16,
+   "movie_slug": "aadya-rathri",
+   "title": "Aadya Rathri",
+   "year": 2019,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 90,
+   "movie_slug": "ellam-sheriyakum",
+   "title": "Ellam Sheriyakum",
+   "year": 2021,
+   "kerala_gross": "₹98.6L"
+  },
+  {
+   "movie_id": 210,
+   "movie_slug": "mei-hoom-moosa",
+   "title": "Mei Hoom Moosa",
+   "year": 2022,
+   "kerala_gross": "₹3.3 Cr"
+  }
+ ]
+}

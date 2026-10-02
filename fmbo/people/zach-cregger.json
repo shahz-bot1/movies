@@ -1,0 +1,61 @@
+{
+ "slug": "zach-cregger",
+ "name": "Zach Cregger",
+ "source_url": "https://fridaymatinee.in/people/zach-cregger",
+ "captured_at": "2026-10-02T12:12:26.094773+00:00",
+ "person": {
+  "name": "Zach Cregger",
+  "photo": "https://image.tmdb.org/t/p/w185/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg",
+  "role": "Producer, actor, director, writer and music"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  },
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 1
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 2
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 2
+  },
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 265,
+   "movie_slug": "companion",
+   "title": "Companion",
+   "year": 2025,
+   "kerala_gross": "₹3.2L"
+  },
+  {
+   "movie_id": 741,
+   "movie_slug": "weapons",
+   "title": "Weapons",
+   "year": 2025,
+   "kerala_gross": "₹27.0L"
+  },
+  {
+   "movie_id": 1289,
+   "movie_slug": "resident-evil",
+   "title": "Resident Evil",
+   "year": 2026,
+   "kerala_gross": "₹88.0L"
+  }
+ ]
+}

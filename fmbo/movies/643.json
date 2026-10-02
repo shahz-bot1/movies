@@ -1,0 +1,708 @@
+{
+ "id": 643,
+ "slug": "ponman",
+ "source_url": "https://fridaymatinee.in/boxoffice/ponman-643",
+ "captured_at": "2026-10-01T18:17:51.198096+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 643,
+    "title": "Ponman",
+    "img": "https://image.tmdb.org/t/p/original/cdXS0DcshLFUpuKQAU5dW7Qk1A2.jpg",
+    "released": "2025-01-30",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt30089457",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "125 min",
+    "genre": "Drama, Comedy, Thriller",
+    "plot": "Ajesh,a jewellery agent lends 25 sovereigns of gold to Bruno for his sister Steffi's wedding, only to recover just half. When he demands the rest, he’s drawn into a tense comeback battle with Steffi's husband Mariano, an infamous prawn farmer in coastal Kollam.",
+    "released": "2025-01-30",
+    "director": "Jyothish Shankar",
+    "directorSlug": "jyothish-shankar",
+    "actors": [
+     "Basil Joseph",
+     "Lijomol Jose",
+     "Anand Manmadhan",
+     "Sajin Gopu",
+     "Deepak Parambol",
+     "Jaya Kurup"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 9969,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Basil Joseph",
+     "character": "PP Ajesh",
+     "slug": "basil-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u4I4GJRgYtWWrkhYH9aeawjfKeO.jpg"
+    },
+    {
+     "name": "Lijomol Jose",
+     "character": "Steffi Graf",
+     "slug": "lijomol-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vXFBgF6NMON7L4RzZ6B35lOVYOu.jpg"
+    },
+    {
+     "name": "Anand Manmadhan",
+     "character": "Terrance Bruno",
+     "slug": "anand-manmadhan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xlx9Rmb3NGHNX7VFGD55kskCM04.jpg"
+    },
+    {
+     "name": "Sajin Gopu",
+     "character": "Mariano",
+     "slug": "sajin-gopu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l8kpWfPvD7Gzp2LgvRSWVRsrxWd.jpg"
+    },
+    {
+     "name": "Deepak Parambol",
+     "character": "Markandeya Sharma",
+     "slug": "deepak-parambol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ri2gQM9o9MmcZQZjjq6pQmdbIxb.jpg"
+    },
+    {
+     "name": "Jaya Kurup",
+     "character": "Lusiyamma",
+     "slug": "jaya-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xLfDVFVXZANPixBPVVGM5Eo4q8B.jpg"
+    },
+    {
+     "name": "Sandhya Rajendran",
+     "character": "Agnes",
+     "slug": "sandhya-rajendran",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rajesh Sharma",
+     "character": "Father Manikuttan",
+     "slug": "rajesh-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AsYcBF5qQhSP7cQvhndLtz1aSrK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jyothish Shankar",
+       "slug": "jyothish-shankar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Justin Mathew",
+       "slug": "justin-mathew"
+      },
+      {
+       "name": "G.R. Indugopan",
+       "slug": "g-r-indugopan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Justin Varghese",
+       "slug": "justin-varghese"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sanu John Varghese",
+       "slug": "sanu-john-varghese"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nidhin Raj Arol",
+       "slug": "nidhin-raj-arol"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ajith Vinayaka",
+       "slug": "ajith-vinayaka"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ajith Vinayaka Films Pvt Ltd",
+     "slug": "ajith-vinayaka-films-pvt-ltd",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-03-13",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 84131615.6,
+    "totalShows": 11154,
+    "totalDays": 56,
+    "openingDay": {
+     "day": 1,
+     "gross": 6732683.6,
+     "date": "2025-01-30"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 10475433.8,
+     "date": "2025-02-02"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 66,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-30"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 643,
+    "title": "Ponman",
+    "img": "https://image.tmdb.org/t/p/original/cdXS0DcshLFUpuKQAU5dW7Qk1A2.jpg",
+    "released": "2025-01-30",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt30089457",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "125 min",
+    "genre": "Drama, Comedy, Thriller",
+    "plot": "Ajesh,a jewellery agent lends 25 sovereigns of gold to Bruno for his sister Steffi's wedding, only to recover just half. When he demands the rest, he’s drawn into a tense comeback battle with Steffi's husband Mariano, an infamous prawn farmer in coastal Kollam.",
+    "released": "2025-01-30",
+    "director": "Jyothish Shankar",
+    "directorSlug": "jyothish-shankar",
+    "actors": [
+     "Basil Joseph",
+     "Lijomol Jose",
+     "Anand Manmadhan",
+     "Sajin Gopu",
+     "Deepak Parambol",
+     "Jaya Kurup"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 9969,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Basil Joseph",
+     "character": "PP Ajesh",
+     "slug": "basil-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u4I4GJRgYtWWrkhYH9aeawjfKeO.jpg"
+    },
+    {
+     "name": "Lijomol Jose",
+     "character": "Steffi Graf",
+     "slug": "lijomol-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vXFBgF6NMON7L4RzZ6B35lOVYOu.jpg"
+    },
+    {
+     "name": "Anand Manmadhan",
+     "character": "Terrance Bruno",
+     "slug": "anand-manmadhan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xlx9Rmb3NGHNX7VFGD55kskCM04.jpg"
+    },
+    {
+     "name": "Sajin Gopu",
+     "character": "Mariano",
+     "slug": "sajin-gopu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l8kpWfPvD7Gzp2LgvRSWVRsrxWd.jpg"
+    },
+    {
+     "name": "Deepak Parambol",
+     "character": "Markandeya Sharma",
+     "slug": "deepak-parambol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ri2gQM9o9MmcZQZjjq6pQmdbIxb.jpg"
+    },
+    {
+     "name": "Jaya Kurup",
+     "character": "Lusiyamma",
+     "slug": "jaya-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xLfDVFVXZANPixBPVVGM5Eo4q8B.jpg"
+    },
+    {
+     "name": "Sandhya Rajendran",
+     "character": "Agnes",
+     "slug": "sandhya-rajendran",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rajesh Sharma",
+     "character": "Father Manikuttan",
+     "slug": "rajesh-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AsYcBF5qQhSP7cQvhndLtz1aSrK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jyothish Shankar",
+       "slug": "jyothish-shankar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Justin Mathew",
+       "slug": "justin-mathew"
+      },
+      {
+       "name": "G.R. Indugopan",
+       "slug": "g-r-indugopan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Justin Varghese",
+       "slug": "justin-varghese"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sanu John Varghese",
+       "slug": "sanu-john-varghese"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nidhin Raj Arol",
+       "slug": "nidhin-raj-arol"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ajith Vinayaka",
+       "slug": "ajith-vinayaka"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ajith Vinayaka Films Pvt Ltd",
+     "slug": "ajith-vinayaka-films-pvt-ltd",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-03-13",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-01-30",
+     "gross": 44191282.80000002,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5326,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-06",
+     "gross": 29492093.599999998,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3768,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-13",
+     "gross": 8180681.2,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1668,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-20",
+     "gross": 1619906,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 286,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-27",
+     "gross": 279385,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 50,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-03-06",
+     "gross": 210041,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 26,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-03-13",
+     "gross": 96777,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 16,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-03-20",
+     "gross": 61449,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 14,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 84131615.60000002,
+    "totalShows": 11154,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 44191282.80000002
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 44191282.80000002
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 66,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-30"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 643,
+    "title": "Ponman",
+    "img": "https://image.tmdb.org/t/p/original/cdXS0DcshLFUpuKQAU5dW7Qk1A2.jpg",
+    "released": "2025-01-30",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt30089457",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "125 min",
+    "genre": "Drama, Comedy, Thriller",
+    "plot": "Ajesh,a jewellery agent lends 25 sovereigns of gold to Bruno for his sister Steffi's wedding, only to recover just half. When he demands the rest, he’s drawn into a tense comeback battle with Steffi's husband Mariano, an infamous prawn farmer in coastal Kollam.",
+    "released": "2025-01-30",
+    "director": "Jyothish Shankar",
+    "directorSlug": "jyothish-shankar",
+    "actors": [
+     "Basil Joseph",
+     "Lijomol Jose",
+     "Anand Manmadhan",
+     "Sajin Gopu",
+     "Deepak Parambol",
+     "Jaya Kurup"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 9969,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Basil Joseph",
+     "character": "PP Ajesh",
+     "slug": "basil-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u4I4GJRgYtWWrkhYH9aeawjfKeO.jpg"
+    },
+    {
+     "name": "Lijomol Jose",
+     "character": "Steffi Graf",
+     "slug": "lijomol-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vXFBgF6NMON7L4RzZ6B35lOVYOu.jpg"
+    },
+    {
+     "name": "Anand Manmadhan",
+     "character": "Terrance Bruno",
+     "slug": "anand-manmadhan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xlx9Rmb3NGHNX7VFGD55kskCM04.jpg"
+    },
+    {
+     "name": "Sajin Gopu",
+     "character": "Mariano",
+     "slug": "sajin-gopu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l8kpWfPvD7Gzp2LgvRSWVRsrxWd.jpg"
+    },
+    {
+     "name": "Deepak Parambol",
+     "character": "Markandeya Sharma",
+     "slug": "deepak-parambol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ri2gQM9o9MmcZQZjjq6pQmdbIxb.jpg"
+    },
+    {
+     "name": "Jaya Kurup",
+     "character": "Lusiyamma",
+     "slug": "jaya-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xLfDVFVXZANPixBPVVGM5Eo4q8B.jpg"
+    },
+    {
+     "name": "Sandhya Rajendran",
+     "character": "Agnes",
+     "slug": "sandhya-rajendran",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rajesh Sharma",
+     "character": "Father Manikuttan",
+     "slug": "rajesh-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AsYcBF5qQhSP7cQvhndLtz1aSrK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jyothish Shankar",
+       "slug": "jyothish-shankar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Justin Mathew",
+       "slug": "justin-mathew"
+      },
+      {
+       "name": "G.R. Indugopan",
+       "slug": "g-r-indugopan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Justin Varghese",
+       "slug": "justin-varghese"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sanu John Varghese",
+       "slug": "sanu-john-varghese"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nidhin Raj Arol",
+       "slug": "nidhin-raj-arol"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ajith Vinayaka",
+       "slug": "ajith-vinayaka"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ajith Vinayaka Films Pvt Ltd",
+     "slug": "ajith-vinayaka-films-pvt-ltd",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-03-13",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 84131615.6,
+    "totalShows": 11154,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 25790754,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 25790754,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 66,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-30"
+   }
+  }
+ }
+}

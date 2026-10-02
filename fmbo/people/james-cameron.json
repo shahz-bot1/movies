@@ -1,0 +1,68 @@
+{
+ "slug": "james-cameron",
+ "name": "James Cameron",
+ "source_url": "https://fridaymatinee.in/people/james-cameron",
+ "captured_at": "2026-10-01T23:00:00.984228+00:00",
+ "person": {
+  "name": "James Cameron",
+  "photo": "https://image.tmdb.org/t/p/w185/2Hh4Jos62luf90CCglP5K32qaWO.jpg",
+  "role": "Producer, actor, director, writer and editor"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  },
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 1
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  },
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 24,
+   "movie_slug": "terminator-dark-fate",
+   "title": "Terminator Dark Fate",
+   "year": 2019,
+   "kerala_gross": "₹22.9L"
+  },
+  {
+   "movie_id": 246,
+   "movie_slug": "avatar-the-way-of-water",
+   "title": "Avatar The Way of Water",
+   "year": 2022,
+   "kerala_gross": "₹33.3 Cr"
+  },
+  {
+   "movie_id": 793,
+   "movie_slug": "avatar-fire-and-ash",
+   "title": "Avatar: Fire and Ash",
+   "year": 2025,
+   "kerala_gross": "₹10.2 Cr"
+  },
+  {
+   "movie_id": 1107,
+   "movie_slug": "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d",
+   "title": "Billie Eilish Hit Me Hard And Soft The Tour Live In 3D",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

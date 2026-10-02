@@ -1,0 +1,41 @@
+{
+ "slug": "seetha",
+ "name": "Seetha",
+ "source_url": "https://fridaymatinee.in/people/seetha",
+ "captured_at": "2026-10-02T10:20:51.985112+00:00",
+ "person": {
+  "name": "Seetha",
+  "photo": "https://image.tmdb.org/t/p/w185/gMIqg8c4gnP9mO40rCW7Sc0ei8D.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 45,
+   "movie_slug": "thambi",
+   "title": "Thambi",
+   "year": 2019,
+   "kerala_gross": "₹16.3L"
+  },
+  {
+   "movie_id": 303,
+   "movie_slug": "pakalum-paathiravum",
+   "title": "Pakalum Paathiravum",
+   "year": 2023,
+   "kerala_gross": "₹60.1L"
+  },
+  {
+   "movie_id": 1149,
+   "movie_slug": "happy-be-happy",
+   "title": "Happy Be Happy",
+   "year": 2026,
+   "kerala_gross": "₹1.1 Cr"
+  }
+ ]
+}

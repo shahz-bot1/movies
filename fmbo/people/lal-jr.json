@@ -1,0 +1,95 @@
+{
+ "slug": "lal-jr",
+ "name": "Lal Jr.",
+ "source_url": "https://fridaymatinee.in/people/lal-jr",
+ "captured_at": "2026-10-01T23:57:43.687911+00:00",
+ "person": {
+  "name": "Lal Jr.",
+  "photo": "https://image.tmdb.org/t/p/w185/2QoAFcXlCwZNlYy6gTr3S2GY39o.jpg",
+  "role": "Actor and director"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 7
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 26,
+   "movie_slug": "under-world",
+   "title": "Under World",
+   "year": 2019,
+   "kerala_gross": "₹35.9L"
+  },
+  {
+   "movie_id": 334,
+   "movie_slug": "corona-papers",
+   "title": "Corona Papers",
+   "year": 2023,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 501,
+   "movie_slug": "manjummel-boys",
+   "title": "Manjummel Boys",
+   "year": 2024,
+   "kerala_gross": "₹55.0 Cr"
+  },
+  {
+   "movie_id": 1121,
+   "movie_slug": "karakkam",
+   "title": "Karakkam",
+   "year": 2026,
+   "kerala_gross": "₹26.9L"
+  },
+  {
+   "movie_id": 48,
+   "movie_slug": "driving-licence",
+   "title": "Driving Licence",
+   "year": 2019,
+   "kerala_gross": "₹7.6 Cr"
+  },
+  {
+   "movie_id": 1079,
+   "movie_slug": "balan",
+   "title": "Balan",
+   "year": 2026,
+   "kerala_gross": "₹15.9 Cr"
+  },
+  {
+   "movie_id": 1276,
+   "movie_slug": "sardar-2",
+   "title": "Sardar 2",
+   "year": 2026,
+   "kerala_gross": "₹42.6L"
+  },
+  {
+   "movie_id": 1267,
+   "movie_slug": "mela",
+   "title": "Mela",
+   "year": 2027,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 72,
+   "movie_slug": "tsunami",
+   "title": "Tsunami",
+   "year": 2021,
+   "kerala_gross": "₹5.0L"
+  },
+  {
+   "movie_id": 517,
+   "movie_slug": "nadikar",
+   "title": "Nadikar",
+   "year": 2024,
+   "kerala_gross": "₹3.0 Cr"
+  }
+ ]
+}

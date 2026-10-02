@@ -1,0 +1,62 @@
+{
+ "slug": "sangita",
+ "name": "Sangita",
+ "source_url": "https://fridaymatinee.in/people/sangita",
+ "captured_at": "2026-10-02T10:08:50.086807+00:00",
+ "person": {
+  "name": "Sangita",
+  "photo": "https://image.tmdb.org/t/p/w185/tO1t4sYTE1X0M9y1o0sx1lhENGj.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 429,
+   "movie_slug": "chaaver",
+   "title": "Chaaver",
+   "year": 2023,
+   "kerala_gross": "₹2.3 Cr"
+  },
+  {
+   "movie_id": 598,
+   "movie_slug": "anand-sreebala",
+   "title": "Anand Sreebala",
+   "year": 2024,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 606,
+   "movie_slug": "parakramam",
+   "title": "Parakramam",
+   "year": 2024,
+   "kerala_gross": "₹22.4L"
+  },
+  {
+   "movie_id": 722,
+   "movie_slug": "hridayapoorvam",
+   "title": "Hridayapoorvam",
+   "year": 2025,
+   "kerala_gross": "₹37.0 Cr"
+  },
+  {
+   "movie_id": 947,
+   "movie_slug": "haal",
+   "title": "Haal",
+   "year": 2025,
+   "kerala_gross": "₹1.3 Cr"
+  },
+  {
+   "movie_id": 1053,
+   "movie_slug": "kaalidas-2",
+   "title": "Kaalidas 2",
+   "year": 2026,
+   "kerala_gross": "₹4.7L"
+  }
+ ]
+}

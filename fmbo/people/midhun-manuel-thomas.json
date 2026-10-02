@@ -1,0 +1,72 @@
+{
+ "slug": "midhun-manuel-thomas",
+ "name": "Midhun Manuel Thomas",
+ "source_url": "https://fridaymatinee.in/people/midhun-manuel-thomas",
+ "captured_at": "2026-10-02T00:38:25.079966+00:00",
+ "person": {
+  "name": "Midhun Manuel Thomas",
+  "photo": "https://image.tmdb.org/t/p/w185/tIB5kKXeTOrn7i3mF8LM273TR5A.jpg",
+  "role": "Writer, director and producer"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 5
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 51,
+   "movie_slug": "anjaam-pathiraa",
+   "title": "Anjaam Pathiraa",
+   "year": 2020,
+   "kerala_gross": "₹11.0 Cr"
+  },
+  {
+   "movie_id": 433,
+   "movie_slug": "garudan",
+   "title": "Garudan",
+   "year": 2023,
+   "kerala_gross": "₹12.3 Cr"
+  },
+  {
+   "movie_id": 463,
+   "movie_slug": "phoenix",
+   "title": "Phoenix",
+   "year": 2023,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 474,
+   "movie_slug": "turbo",
+   "title": "Turbo",
+   "year": 2024,
+   "kerala_gross": "₹30.1 Cr"
+  },
+  {
+   "movie_id": 1026,
+   "movie_slug": "aadu-3",
+   "title": "Aadu 3",
+   "year": 2026,
+   "kerala_gross": "₹47.2 Cr"
+  },
+  {
+   "movie_id": 477,
+   "movie_slug": "abraham-ozler",
+   "title": "Abraham Ozler",
+   "year": 2024,
+   "kerala_gross": "₹17.2 Cr"
+  }
+ ]
+}

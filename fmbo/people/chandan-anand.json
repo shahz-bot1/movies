@@ -1,0 +1,41 @@
+{
+ "slug": "chandan-anand",
+ "name": "Chandan Anand",
+ "source_url": "https://fridaymatinee.in/people/chandan-anand",
+ "captured_at": "2026-10-01T21:30:53.974378+00:00",
+ "person": {
+  "name": "Chandan Anand",
+  "photo": "https://image.tmdb.org/t/p/w185/fyPk0OQAxPbqid2MZEOCtaFoa9Z.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 391,
+   "movie_slug": "deva",
+   "title": "Deva",
+   "year": 2025,
+   "kerala_gross": "₹11.6L"
+  },
+  {
+   "movie_id": 849,
+   "movie_slug": "homebound",
+   "title": "Homebound",
+   "year": 2025,
+   "kerala_gross": "₹1.7L"
+  },
+  {
+   "movie_id": 1219,
+   "movie_slug": "hanuman-ansh",
+   "title": "Hanuman Ansh",
+   "year": 2026,
+   "kerala_gross": "₹23.8L"
+  }
+ ]
+}

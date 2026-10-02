@@ -1,0 +1,732 @@
+{
+ "id": 88,
+ "slug": "kurup",
+ "source_url": "https://fridaymatinee.in/boxoffice/kurup-88",
+ "captured_at": "2026-10-01T18:00:35.369317+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 88,
+    "title": "Kurup",
+    "img": "https://image.tmdb.org/t/p/original/7DUKMFykp7pNpppbf8M6YDWrTYb.jpg",
+    "released": "2021-11-12",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt7026666",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "155 min",
+    "genre": "Thriller, Crime",
+    "plot": "The Film is based on the infamous 'Charlie Murder Case' in the Indian State of Kerala where the main culprit Sukumara Kurup has been on the run for decades and is still not been caught. The story revolves around the perspective of Sukumara Kurup and the Police officers who were investigating the case.",
+    "released": "2021-11-12",
+    "director": "Srinath Rajendran",
+    "directorSlug": "srinath-rajendran",
+    "actors": [
+     "Dulquer Salmaan",
+     "Sobhita Dhulipala",
+     "Indrajith Sukumaran",
+     "Tovino Thomas",
+     "Shine Tom Chacko",
+     "Sunny Wayne"
+    ],
+    "awards": "2 wins u0026 6 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.0",
+      "votes": 18489,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.3",
+      "votes": 62,
+      "updatedAt": "2026-09-25T01:10:39.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dulquer Salmaan",
+     "character": "Sukumara Kuruppu",
+     "slug": "dulquer-salmaan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AT3qDRakZQSZ6HVj7sQFUzN07N.jpg"
+    },
+    {
+     "name": "Sobhita Dhulipala",
+     "character": "Sharada",
+     "slug": "sobhita-dhulipala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yL8E8ShjuOachUWRUu2MjcmKOQR.jpg"
+    },
+    {
+     "name": "Indrajith Sukumaran",
+     "character": "DYSP Krishnadas",
+     "slug": "indrajith-sukumaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/32YxjXVmgkPCVKUQAkNqWUGbBIl.jpg"
+    },
+    {
+     "name": "Tovino Thomas",
+     "character": "Charlie",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Bhasi Pillai",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Sunny Wayne",
+     "character": "Peter",
+     "slug": "sunny-wayne",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hDItNlwPcxDLHzSKDUYoEztp2yo.jpg"
+    },
+    {
+     "name": "P Balachandran",
+     "character": "Gopalakrishna Pillai",
+     "slug": "p-balachandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7kUReJRUoVxPCIDM1T9migmgGhE.jpg"
+    },
+    {
+     "name": "M R Gopakumar",
+     "character": "Charlie's father",
+     "slug": "m-r-gopakumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9T3XHr0kso7u2wxICfW4p50xrlk.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Srinath Rajendran",
+       "slug": "srinath-rajendran"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "K S Aravind",
+       "slug": "k-s-aravind"
+      },
+      {
+       "name": "Daniel Sayooj Nair",
+       "slug": "daniel-sayooj-nair"
+      },
+      {
+       "name": "Jithin K Jose",
+       "slug": "jithin-k-jose"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sushin Shyam",
+       "slug": "sushin-shyam"
+      },
+      {
+       "name": "Sulaiman Kakkodan",
+       "slug": "sulaiman-kakkodan"
+      },
+      {
+       "name": "Leo Tom",
+       "slug": "leo-tom"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nimish Ravi",
+       "slug": "nimish-ravi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vivek Harshan",
+       "slug": "vivek-harshan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dulquer Salmaan",
+       "slug": "dulquer-salmaan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Wayfarer Films",
+     "slug": "wayfarer-films",
+     "logo": "https://image.tmdb.org/t/p/w185/77iHxiuXJYTXKU4PDQmtRQe3DJx.png"
+    },
+    {
+     "name": "M Star Entertainments",
+     "slug": "m-star-entertainments",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2021-12-15",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 179869142,
+    "totalShows": 15405,
+    "totalDays": 35,
+    "openingDay": {
+     "day": 1,
+     "gross": 24490203,
+     "date": "2021-11-12"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 24490203,
+     "date": "2021-11-12"
+    },
+    "chartPosition": {
+     "current_position": 57,
+     "weeks_on_chart": 66,
+     "peak_position": 1,
+     "last_week_position": 56
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-11-12"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 88,
+    "title": "Kurup",
+    "img": "https://image.tmdb.org/t/p/original/7DUKMFykp7pNpppbf8M6YDWrTYb.jpg",
+    "released": "2021-11-12",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt7026666",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "155 min",
+    "genre": "Thriller, Crime",
+    "plot": "The Film is based on the infamous 'Charlie Murder Case' in the Indian State of Kerala where the main culprit Sukumara Kurup has been on the run for decades and is still not been caught. The story revolves around the perspective of Sukumara Kurup and the Police officers who were investigating the case.",
+    "released": "2021-11-12",
+    "director": "Srinath Rajendran",
+    "directorSlug": "srinath-rajendran",
+    "actors": [
+     "Dulquer Salmaan",
+     "Sobhita Dhulipala",
+     "Indrajith Sukumaran",
+     "Tovino Thomas",
+     "Shine Tom Chacko",
+     "Sunny Wayne"
+    ],
+    "awards": "2 wins u0026 6 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.0",
+      "votes": 18489,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.3",
+      "votes": 62,
+      "updatedAt": "2026-09-25T01:10:39.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dulquer Salmaan",
+     "character": "Sukumara Kuruppu",
+     "slug": "dulquer-salmaan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AT3qDRakZQSZ6HVj7sQFUzN07N.jpg"
+    },
+    {
+     "name": "Sobhita Dhulipala",
+     "character": "Sharada",
+     "slug": "sobhita-dhulipala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yL8E8ShjuOachUWRUu2MjcmKOQR.jpg"
+    },
+    {
+     "name": "Indrajith Sukumaran",
+     "character": "DYSP Krishnadas",
+     "slug": "indrajith-sukumaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/32YxjXVmgkPCVKUQAkNqWUGbBIl.jpg"
+    },
+    {
+     "name": "Tovino Thomas",
+     "character": "Charlie",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Bhasi Pillai",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Sunny Wayne",
+     "character": "Peter",
+     "slug": "sunny-wayne",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hDItNlwPcxDLHzSKDUYoEztp2yo.jpg"
+    },
+    {
+     "name": "P Balachandran",
+     "character": "Gopalakrishna Pillai",
+     "slug": "p-balachandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7kUReJRUoVxPCIDM1T9migmgGhE.jpg"
+    },
+    {
+     "name": "M R Gopakumar",
+     "character": "Charlie's father",
+     "slug": "m-r-gopakumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9T3XHr0kso7u2wxICfW4p50xrlk.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Srinath Rajendran",
+       "slug": "srinath-rajendran"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "K S Aravind",
+       "slug": "k-s-aravind"
+      },
+      {
+       "name": "Daniel Sayooj Nair",
+       "slug": "daniel-sayooj-nair"
+      },
+      {
+       "name": "Jithin K Jose",
+       "slug": "jithin-k-jose"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sushin Shyam",
+       "slug": "sushin-shyam"
+      },
+      {
+       "name": "Sulaiman Kakkodan",
+       "slug": "sulaiman-kakkodan"
+      },
+      {
+       "name": "Leo Tom",
+       "slug": "leo-tom"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nimish Ravi",
+       "slug": "nimish-ravi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vivek Harshan",
+       "slug": "vivek-harshan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dulquer Salmaan",
+       "slug": "dulquer-salmaan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Wayfarer Films",
+     "slug": "wayfarer-films",
+     "logo": "https://image.tmdb.org/t/p/w185/77iHxiuXJYTXKU4PDQmtRQe3DJx.png"
+    },
+    {
+     "name": "M Star Entertainments",
+     "slug": "m-star-entertainments",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2021-12-15",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2021-11-12",
+     "gross": 120870897,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 8259,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-11-19",
+     "gross": 39468654,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4111,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-11-26",
+     "gross": 14472434,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2251,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-12-03",
+     "gross": 3376545,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 542,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-12-10",
+     "gross": 1680612,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 242,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 179869142,
+    "totalShows": 15405,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 120870897
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 120870897
+    },
+    "chartPosition": {
+     "current_position": 57,
+     "weeks_on_chart": 66,
+     "peak_position": 1,
+     "last_week_position": 56
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-11-12"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 88,
+    "title": "Kurup",
+    "img": "https://image.tmdb.org/t/p/original/7DUKMFykp7pNpppbf8M6YDWrTYb.jpg",
+    "released": "2021-11-12",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt7026666",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "155 min",
+    "genre": "Thriller, Crime",
+    "plot": "The Film is based on the infamous 'Charlie Murder Case' in the Indian State of Kerala where the main culprit Sukumara Kurup has been on the run for decades and is still not been caught. The story revolves around the perspective of Sukumara Kurup and the Police officers who were investigating the case.",
+    "released": "2021-11-12",
+    "director": "Srinath Rajendran",
+    "directorSlug": "srinath-rajendran",
+    "actors": [
+     "Dulquer Salmaan",
+     "Sobhita Dhulipala",
+     "Indrajith Sukumaran",
+     "Tovino Thomas",
+     "Shine Tom Chacko",
+     "Sunny Wayne"
+    ],
+    "awards": "2 wins u0026 6 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.0",
+      "votes": 18489,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.3",
+      "votes": 62,
+      "updatedAt": "2026-09-25T01:10:39.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dulquer Salmaan",
+     "character": "Sukumara Kuruppu",
+     "slug": "dulquer-salmaan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AT3qDRakZQSZ6HVj7sQFUzN07N.jpg"
+    },
+    {
+     "name": "Sobhita Dhulipala",
+     "character": "Sharada",
+     "slug": "sobhita-dhulipala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yL8E8ShjuOachUWRUu2MjcmKOQR.jpg"
+    },
+    {
+     "name": "Indrajith Sukumaran",
+     "character": "DYSP Krishnadas",
+     "slug": "indrajith-sukumaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/32YxjXVmgkPCVKUQAkNqWUGbBIl.jpg"
+    },
+    {
+     "name": "Tovino Thomas",
+     "character": "Charlie",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Bhasi Pillai",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Sunny Wayne",
+     "character": "Peter",
+     "slug": "sunny-wayne",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hDItNlwPcxDLHzSKDUYoEztp2yo.jpg"
+    },
+    {
+     "name": "P Balachandran",
+     "character": "Gopalakrishna Pillai",
+     "slug": "p-balachandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7kUReJRUoVxPCIDM1T9migmgGhE.jpg"
+    },
+    {
+     "name": "M R Gopakumar",
+     "character": "Charlie's father",
+     "slug": "m-r-gopakumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9T3XHr0kso7u2wxICfW4p50xrlk.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Srinath Rajendran",
+       "slug": "srinath-rajendran"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "K S Aravind",
+       "slug": "k-s-aravind"
+      },
+      {
+       "name": "Daniel Sayooj Nair",
+       "slug": "daniel-sayooj-nair"
+      },
+      {
+       "name": "Jithin K Jose",
+       "slug": "jithin-k-jose"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sushin Shyam",
+       "slug": "sushin-shyam"
+      },
+      {
+       "name": "Sulaiman Kakkodan",
+       "slug": "sulaiman-kakkodan"
+      },
+      {
+       "name": "Leo Tom",
+       "slug": "leo-tom"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nimish Ravi",
+       "slug": "nimish-ravi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vivek Harshan",
+       "slug": "vivek-harshan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dulquer Salmaan",
+       "slug": "dulquer-salmaan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Wayfarer Films",
+     "slug": "wayfarer-films",
+     "logo": "https://image.tmdb.org/t/p/w185/77iHxiuXJYTXKU4PDQmtRQe3DJx.png"
+    },
+    {
+     "name": "M Star Entertainments",
+     "slug": "m-star-entertainments",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2021-12-15",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 179869142,
+    "totalShows": 15405,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 39680545,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 39680545,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 57,
+     "weeks_on_chart": 66,
+     "peak_position": 1,
+     "last_week_position": 56
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-11-12"
+   }
+  }
+ }
+}

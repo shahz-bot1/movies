@@ -1,0 +1,46 @@
+{
+ "slug": "jithu-ashraf",
+ "name": "Jithu Ashraf",
+ "source_url": "https://fridaymatinee.in/people/jithu-ashraf",
+ "captured_at": "2026-10-01T23:17:03.774449+00:00",
+ "person": {
+  "name": "Jithu Ashraf",
+  "photo": "https://image.tmdb.org/t/p/w185/mm35QZkUTbTOziC1a9gSh6YQ1KX.jpg",
+  "role": "Actor and director"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 81,
+   "movie_slug": "nayattu",
+   "title": "Nayattu",
+   "year": 2021,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 161,
+   "movie_slug": "ela-veezha-poonchira",
+   "title": "Ela Veezha Poonchira",
+   "year": 2022,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 285,
+   "movie_slug": "iratta",
+   "title": "Iratta",
+   "year": 2023,
+   "kerala_gross": "₹1.2 Cr"
+  }
+ ]
+}

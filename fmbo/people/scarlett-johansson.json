@@ -1,0 +1,48 @@
+{
+ "slug": "scarlett-johansson",
+ "name": "Scarlett Johansson",
+ "source_url": "https://fridaymatinee.in/people/scarlett-johansson",
+ "captured_at": "2026-10-02T10:19:02.756663+00:00",
+ "person": {
+  "name": "Scarlett Johansson",
+  "photo": "https://image.tmdb.org/t/p/w185/tgxYh3jMs5bY2Ub4d2dcp9iaz1R.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 748,
+   "movie_slug": "the-phoenician-scheme",
+   "title": "The Phoenician Scheme",
+   "year": 2025,
+   "kerala_gross": "₹1.0L"
+  },
+  {
+   "movie_id": 714,
+   "movie_slug": "jurassic-world-rebirth",
+   "title": "Jurassic World Rebirth",
+   "year": 2025,
+   "kerala_gross": "₹5.8 Cr"
+  },
+  {
+   "movie_id": 1288,
+   "movie_slug": "avengers-endgame-encore",
+   "title": "Avengers Endgame: Encore",
+   "year": 2026,
+   "kerala_gross": "₹2.3 Cr"
+  },
+  {
+   "movie_id": 629,
+   "movie_slug": "the-batman-part-ii",
+   "title": "The Batman - Part II",
+   "year": 2027,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

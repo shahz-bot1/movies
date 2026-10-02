@@ -1,0 +1,48 @@
+{
+ "slug": "harikrishnan",
+ "name": "Harikrishnan",
+ "source_url": "https://fridaymatinee.in/people/harikrishnan",
+ "captured_at": "2026-10-01T22:40:58.206975+00:00",
+ "person": {
+  "name": "Harikrishnan",
+  "photo": "https://image.tmdb.org/t/p/w185/uCPow1euEydmZxn5zxagG57e4L1.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 51,
+   "movie_slug": "anjaam-pathiraa",
+   "title": "Anjaam Pathiraa",
+   "year": 2020,
+   "kerala_gross": "₹11.0 Cr"
+  },
+  {
+   "movie_id": 266,
+   "movie_slug": "aanandam-paramanandam",
+   "title": "Aanandam Paramanandam",
+   "year": 2022,
+   "kerala_gross": "₹48.6L"
+  },
+  {
+   "movie_id": 481,
+   "movie_slug": "neru",
+   "title": "Neru",
+   "year": 2023,
+   "kerala_gross": "₹35.9 Cr"
+  },
+  {
+   "movie_id": 1026,
+   "movie_slug": "aadu-3",
+   "title": "Aadu 3",
+   "year": 2026,
+   "kerala_gross": "₹47.2 Cr"
+  }
+ ]
+}

@@ -1,0 +1,677 @@
+{
+ "id": 566,
+ "slug": "bad-boyz",
+ "source_url": "https://fridaymatinee.in/boxoffice/bad-boyz-566",
+ "captured_at": "2026-10-01T18:15:47.963181+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 566,
+    "title": "Bad Boyz",
+    "img": "https://image.tmdb.org/t/p/original/bwVv1ZhaI4yiE1FLd7ZGD7pdzcd.jpg",
+    "released": "2024-09-13",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32440202",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "148 min",
+    "genre": "Action, Comedy, Crime",
+    "plot": "A man turns to violence to win the affection of his childhood crush and unwittingly becomes involved with a criminal gang.",
+    "released": "2024-09-13",
+    "director": "Omar Lulu",
+    "directorSlug": "omar-lulu",
+    "actors": [
+     "Rahman",
+     "Anson Paul",
+     "Senthil Krishna Rajamani",
+     "Bibin George",
+     "Sheelu Abraham",
+     "Shersha Sherief"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.1",
+      "votes": 772,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:43.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Rahman",
+     "character": "Mekkattukulam Antappan",
+     "slug": "rahman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3heEOBLha0ImREOUmzWm5nVKUt.jpg"
+    },
+    {
+     "name": "Anson Paul",
+     "character": "Chakkara",
+     "slug": "anson-paul",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tuuQTQFh4qMY7EOP9rgVlz0Y57y.jpg"
+    },
+    {
+     "name": "Senthil Krishna Rajamani",
+     "character": "Kuttikattil Alosh",
+     "slug": "senthil-krishna-rajamani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wXI4Jo8M01YfE3HtUeL1YpM0eFK.jpg"
+    },
+    {
+     "name": "Bibin George",
+     "character": "Chaprathottil Sintappan",
+     "slug": "bibin-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3vp5ajPUkIUN95ntqcCSfvwoHcb.jpg"
+    },
+    {
+     "name": "Sheelu Abraham",
+     "character": "Mary",
+     "slug": "sheelu-abraham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ktO9xxA6rzNcfBCVQ6twvSyXYK7.jpg"
+    },
+    {
+     "name": "Shersha Sherief",
+     "character": "Henry",
+     "slug": "shersha-sherief",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ausSEfxEXMXTqaE0uxyZaUORBjH.jpg"
+    },
+    {
+     "name": "Dhyan Sreenivasan",
+     "character": "S. I Amjath Khan",
+     "slug": "dhyan-sreenivasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5osJr8O74M3dq5GqbOfDGuSAIJx.jpg"
+    },
+    {
+     "name": "Babu Antony",
+     "character": "Vettukadu Belson",
+     "slug": "babu-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yaT3I5xf8XG806Or6sOMPMPOUVD.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Omar Lulu",
+       "slug": "omar-lulu"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Omar Lulu",
+       "slug": "omar-lulu"
+      },
+      {
+       "name": "Sarang Jayaprakash",
+       "slug": "sarang-jayaprakash"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "William Francis",
+       "slug": "william-francis"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Alby",
+       "slug": "alby"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Dilip Dennis",
+       "slug": "dilip-dennis"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Abraham Mathew",
+       "slug": "abraham-mathew"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Abaam Movies",
+     "slug": "abaam-movies",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 14784523.200000001,
+    "totalShows": 2615,
+    "totalDays": 24,
+    "openingDay": {
+     "day": 1,
+     "gross": 1740720.4,
+     "date": "2024-09-13"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 2651735.4,
+     "date": "2024-09-15"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-09-13"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 566,
+    "title": "Bad Boyz",
+    "img": "https://image.tmdb.org/t/p/original/bwVv1ZhaI4yiE1FLd7ZGD7pdzcd.jpg",
+    "released": "2024-09-13",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32440202",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "148 min",
+    "genre": "Action, Comedy, Crime",
+    "plot": "A man turns to violence to win the affection of his childhood crush and unwittingly becomes involved with a criminal gang.",
+    "released": "2024-09-13",
+    "director": "Omar Lulu",
+    "directorSlug": "omar-lulu",
+    "actors": [
+     "Rahman",
+     "Anson Paul",
+     "Senthil Krishna Rajamani",
+     "Bibin George",
+     "Sheelu Abraham",
+     "Shersha Sherief"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.1",
+      "votes": 772,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:43.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Rahman",
+     "character": "Mekkattukulam Antappan",
+     "slug": "rahman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3heEOBLha0ImREOUmzWm5nVKUt.jpg"
+    },
+    {
+     "name": "Anson Paul",
+     "character": "Chakkara",
+     "slug": "anson-paul",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tuuQTQFh4qMY7EOP9rgVlz0Y57y.jpg"
+    },
+    {
+     "name": "Senthil Krishna Rajamani",
+     "character": "Kuttikattil Alosh",
+     "slug": "senthil-krishna-rajamani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wXI4Jo8M01YfE3HtUeL1YpM0eFK.jpg"
+    },
+    {
+     "name": "Bibin George",
+     "character": "Chaprathottil Sintappan",
+     "slug": "bibin-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3vp5ajPUkIUN95ntqcCSfvwoHcb.jpg"
+    },
+    {
+     "name": "Sheelu Abraham",
+     "character": "Mary",
+     "slug": "sheelu-abraham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ktO9xxA6rzNcfBCVQ6twvSyXYK7.jpg"
+    },
+    {
+     "name": "Shersha Sherief",
+     "character": "Henry",
+     "slug": "shersha-sherief",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ausSEfxEXMXTqaE0uxyZaUORBjH.jpg"
+    },
+    {
+     "name": "Dhyan Sreenivasan",
+     "character": "S. I Amjath Khan",
+     "slug": "dhyan-sreenivasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5osJr8O74M3dq5GqbOfDGuSAIJx.jpg"
+    },
+    {
+     "name": "Babu Antony",
+     "character": "Vettukadu Belson",
+     "slug": "babu-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yaT3I5xf8XG806Or6sOMPMPOUVD.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Omar Lulu",
+       "slug": "omar-lulu"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Omar Lulu",
+       "slug": "omar-lulu"
+      },
+      {
+       "name": "Sarang Jayaprakash",
+       "slug": "sarang-jayaprakash"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "William Francis",
+       "slug": "william-francis"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Alby",
+       "slug": "alby"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Dilip Dennis",
+       "slug": "dilip-dennis"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Abraham Mathew",
+       "slug": "abraham-mathew"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Abaam Movies",
+     "slug": "abaam-movies",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-09-13",
+     "gross": 12793283.2,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2172,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-09-20",
+     "gross": 1705940,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 403,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-09-27",
+     "gross": 143170,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 31,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-10-04",
+     "gross": 142130,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 9,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 14784523.2,
+    "totalShows": 2615,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 12793283.2
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 12793283.2
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-09-13"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 566,
+    "title": "Bad Boyz",
+    "img": "https://image.tmdb.org/t/p/original/bwVv1ZhaI4yiE1FLd7ZGD7pdzcd.jpg",
+    "released": "2024-09-13",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32440202",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "148 min",
+    "genre": "Action, Comedy, Crime",
+    "plot": "A man turns to violence to win the affection of his childhood crush and unwittingly becomes involved with a criminal gang.",
+    "released": "2024-09-13",
+    "director": "Omar Lulu",
+    "directorSlug": "omar-lulu",
+    "actors": [
+     "Rahman",
+     "Anson Paul",
+     "Senthil Krishna Rajamani",
+     "Bibin George",
+     "Sheelu Abraham",
+     "Shersha Sherief"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.1",
+      "votes": 772,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:43.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Rahman",
+     "character": "Mekkattukulam Antappan",
+     "slug": "rahman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3heEOBLha0ImREOUmzWm5nVKUt.jpg"
+    },
+    {
+     "name": "Anson Paul",
+     "character": "Chakkara",
+     "slug": "anson-paul",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tuuQTQFh4qMY7EOP9rgVlz0Y57y.jpg"
+    },
+    {
+     "name": "Senthil Krishna Rajamani",
+     "character": "Kuttikattil Alosh",
+     "slug": "senthil-krishna-rajamani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wXI4Jo8M01YfE3HtUeL1YpM0eFK.jpg"
+    },
+    {
+     "name": "Bibin George",
+     "character": "Chaprathottil Sintappan",
+     "slug": "bibin-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3vp5ajPUkIUN95ntqcCSfvwoHcb.jpg"
+    },
+    {
+     "name": "Sheelu Abraham",
+     "character": "Mary",
+     "slug": "sheelu-abraham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ktO9xxA6rzNcfBCVQ6twvSyXYK7.jpg"
+    },
+    {
+     "name": "Shersha Sherief",
+     "character": "Henry",
+     "slug": "shersha-sherief",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ausSEfxEXMXTqaE0uxyZaUORBjH.jpg"
+    },
+    {
+     "name": "Dhyan Sreenivasan",
+     "character": "S. I Amjath Khan",
+     "slug": "dhyan-sreenivasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5osJr8O74M3dq5GqbOfDGuSAIJx.jpg"
+    },
+    {
+     "name": "Babu Antony",
+     "character": "Vettukadu Belson",
+     "slug": "babu-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yaT3I5xf8XG806Or6sOMPMPOUVD.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Omar Lulu",
+       "slug": "omar-lulu"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Omar Lulu",
+       "slug": "omar-lulu"
+      },
+      {
+       "name": "Sarang Jayaprakash",
+       "slug": "sarang-jayaprakash"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "William Francis",
+       "slug": "william-francis"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Alby",
+       "slug": "alby"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Dilip Dennis",
+       "slug": "dilip-dennis"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Abraham Mathew",
+       "slug": "abraham-mathew"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Abaam Movies",
+     "slug": "abaam-movies",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 14784523.2,
+    "totalShows": 2615,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 5948952,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5948952,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-09-13"
+   }
+  }
+ }
+}

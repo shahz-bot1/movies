@@ -1,0 +1,823 @@
+{
+ "id": 278,
+ "slug": "pathaan",
+ "source_url": "https://fridaymatinee.in/boxoffice/pathaan-278",
+ "captured_at": "2026-10-01T18:08:40.031846+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 278,
+    "title": "Pathaan",
+    "img": "https://image.tmdb.org/t/p/original/arf00BkwvXo0CFKbaD9OpqdE4Nu.jpg",
+    "released": "2023-01-25",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt12844910",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "146 min",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "A soldier caught by enemies and presumed dead comes back to complete his mission, accompanied by old companions and foes.",
+    "released": "2023-01-25",
+    "director": "Siddharth Anand",
+    "directorSlug": "siddharth-anand",
+    "actors": [
+     "Shah Rukh Khan",
+     "Deepika Padukone",
+     "John Abraham",
+     "Dimple Kapadia",
+     "Ashutosh Rana",
+     "Prakash Belawadi"
+    ],
+    "awards": "11 wins u0026 57 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 167382,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.4",
+      "votes": 276,
+      "updatedAt": "2026-09-24T22:10:43.000Z"
+     },
+     "rt": "82%",
+     "metascore": 47,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shah Rukh Khan",
+     "character": "Pathaan",
+     "slug": "shah-rukh-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+     "name": "Deepika Padukone",
+     "character": "Rubina Mohsin",
+     "slug": "deepika-padukone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rzvvBQ0r6oiqDdzcsdTRB7jN4Rx.jpg"
+    },
+    {
+     "name": "John Abraham",
+     "character": "Jim",
+     "slug": "john-abraham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9Ur8Ki6dSEQVS0YgjDzFKxt1WmG.jpg"
+    },
+    {
+     "name": "Dimple Kapadia",
+     "character": "Nandini",
+     "slug": "dimple-kapadia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rrISOX9TnetEAiZ5zCosTkmFdh2.jpg"
+    },
+    {
+     "name": "Ashutosh Rana",
+     "character": "Sunil Luthra",
+     "slug": "ashutosh-rana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg"
+    },
+    {
+     "name": "Prakash Belawadi",
+     "character": "Dr. Sahani",
+     "slug": "prakash-belawadi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bECb7W5XUSFVOgN0z9Ob1ludIha.jpg"
+    },
+    {
+     "name": "Manish Wadhwa",
+     "character": "General Qadir",
+     "slug": "manish-wadhwa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dtYKUHR1kZuOBX2Ud2mEhpnTS3x.jpg"
+    },
+    {
+     "name": "Akash Bhatija",
+     "character": "Amol",
+     "slug": "akash-bhatija",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oB6bkmmbqRKbPzt8gQbT0gqmWnE.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Siddharth Anand",
+       "slug": "siddharth-anand"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Siddharth Anand",
+       "slug": "siddharth-anand"
+      },
+      {
+       "name": "Shridhar Raghavan",
+       "slug": "shridhar-raghavan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sanchit Balhara",
+       "slug": "sanchit-balhara"
+      },
+      {
+       "name": "Ankit Balhara",
+       "slug": "ankit-balhara"
+      },
+      {
+       "name": "Vishal Dadlani",
+       "slug": "vishal-dadlani"
+      },
+      {
+       "name": "Shekhar Ravjiani",
+       "slug": "shekhar-ravjiani"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Satchith Paulose",
+       "slug": "satchith-paulose"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Aarif Sheikh",
+       "slug": "aarif-sheikh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Aditya Chopra",
+       "slug": "aditya-chopra"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Yash Raj Films",
+     "slug": "yash-raj-films",
+     "logo": "https://image.tmdb.org/t/p/w185/lvzN86o3jrP44DIvn4SMBLOl9PF.png"
+    },
+    {
+     "name": "Pathaan Productions",
+     "slug": "pathaan-productions",
+     "logo": null
+    },
+    {
+     "name": "Palma Pictures",
+     "slug": "palma-pictures",
+     "logo": null
+    },
+    {
+     "name": "FPS Productions",
+     "slug": "fps-productions",
+     "logo": null
+    },
+    {
+     "name": "NSA Picture",
+     "slug": "nsa-picture",
+     "logo": null
+    },
+    {
+     "name": "ODU Movies",
+     "slug": "odu-movies",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-03-22",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 95429679.37999998,
+    "totalShows": 6026,
+    "totalDays": 39,
+    "openingDay": {
+     "day": 1,
+     "gross": 13966284.81,
+     "date": "2023-01-25"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 13966284.81,
+     "date": "2023-01-25"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 23,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-25"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 278,
+    "title": "Pathaan",
+    "img": "https://image.tmdb.org/t/p/original/arf00BkwvXo0CFKbaD9OpqdE4Nu.jpg",
+    "released": "2023-01-25",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt12844910",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "146 min",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "A soldier caught by enemies and presumed dead comes back to complete his mission, accompanied by old companions and foes.",
+    "released": "2023-01-25",
+    "director": "Siddharth Anand",
+    "directorSlug": "siddharth-anand",
+    "actors": [
+     "Shah Rukh Khan",
+     "Deepika Padukone",
+     "John Abraham",
+     "Dimple Kapadia",
+     "Ashutosh Rana",
+     "Prakash Belawadi"
+    ],
+    "awards": "11 wins u0026 57 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 167382,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.4",
+      "votes": 276,
+      "updatedAt": "2026-09-24T22:10:43.000Z"
+     },
+     "rt": "82%",
+     "metascore": 47,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shah Rukh Khan",
+     "character": "Pathaan",
+     "slug": "shah-rukh-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+     "name": "Deepika Padukone",
+     "character": "Rubina Mohsin",
+     "slug": "deepika-padukone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rzvvBQ0r6oiqDdzcsdTRB7jN4Rx.jpg"
+    },
+    {
+     "name": "John Abraham",
+     "character": "Jim",
+     "slug": "john-abraham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9Ur8Ki6dSEQVS0YgjDzFKxt1WmG.jpg"
+    },
+    {
+     "name": "Dimple Kapadia",
+     "character": "Nandini",
+     "slug": "dimple-kapadia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rrISOX9TnetEAiZ5zCosTkmFdh2.jpg"
+    },
+    {
+     "name": "Ashutosh Rana",
+     "character": "Sunil Luthra",
+     "slug": "ashutosh-rana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg"
+    },
+    {
+     "name": "Prakash Belawadi",
+     "character": "Dr. Sahani",
+     "slug": "prakash-belawadi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bECb7W5XUSFVOgN0z9Ob1ludIha.jpg"
+    },
+    {
+     "name": "Manish Wadhwa",
+     "character": "General Qadir",
+     "slug": "manish-wadhwa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dtYKUHR1kZuOBX2Ud2mEhpnTS3x.jpg"
+    },
+    {
+     "name": "Akash Bhatija",
+     "character": "Amol",
+     "slug": "akash-bhatija",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oB6bkmmbqRKbPzt8gQbT0gqmWnE.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Siddharth Anand",
+       "slug": "siddharth-anand"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Siddharth Anand",
+       "slug": "siddharth-anand"
+      },
+      {
+       "name": "Shridhar Raghavan",
+       "slug": "shridhar-raghavan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sanchit Balhara",
+       "slug": "sanchit-balhara"
+      },
+      {
+       "name": "Ankit Balhara",
+       "slug": "ankit-balhara"
+      },
+      {
+       "name": "Vishal Dadlani",
+       "slug": "vishal-dadlani"
+      },
+      {
+       "name": "Shekhar Ravjiani",
+       "slug": "shekhar-ravjiani"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Satchith Paulose",
+       "slug": "satchith-paulose"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Aarif Sheikh",
+       "slug": "aarif-sheikh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Aditya Chopra",
+       "slug": "aditya-chopra"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Yash Raj Films",
+     "slug": "yash-raj-films",
+     "logo": "https://image.tmdb.org/t/p/w185/lvzN86o3jrP44DIvn4SMBLOl9PF.png"
+    },
+    {
+     "name": "Pathaan Productions",
+     "slug": "pathaan-productions",
+     "logo": null
+    },
+    {
+     "name": "Palma Pictures",
+     "slug": "palma-pictures",
+     "logo": null
+    },
+    {
+     "name": "FPS Productions",
+     "slug": "fps-productions",
+     "logo": null
+    },
+    {
+     "name": "NSA Picture",
+     "slug": "nsa-picture",
+     "logo": null
+    },
+    {
+     "name": "ODU Movies",
+     "slug": "odu-movies",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-03-22",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-01-25",
+     "gross": 68920101.01000002,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2977,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-02-01",
+     "gross": 19901138.880000006,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2050,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-02-08",
+     "gross": 4195854.49,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 609,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-02-15",
+     "gross": 1566497,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 234,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-02-22",
+     "gross": 696910,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 125,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-03-01",
+     "gross": 149178,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 31,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 95429679.38000003,
+    "totalShows": 6026,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 68920101.01000002
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 68920101.01000002
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 23,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-25"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 278,
+    "title": "Pathaan",
+    "img": "https://image.tmdb.org/t/p/original/arf00BkwvXo0CFKbaD9OpqdE4Nu.jpg",
+    "released": "2023-01-25",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt12844910",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "146 min",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "A soldier caught by enemies and presumed dead comes back to complete his mission, accompanied by old companions and foes.",
+    "released": "2023-01-25",
+    "director": "Siddharth Anand",
+    "directorSlug": "siddharth-anand",
+    "actors": [
+     "Shah Rukh Khan",
+     "Deepika Padukone",
+     "John Abraham",
+     "Dimple Kapadia",
+     "Ashutosh Rana",
+     "Prakash Belawadi"
+    ],
+    "awards": "11 wins u0026 57 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 167382,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.4",
+      "votes": 276,
+      "updatedAt": "2026-09-24T22:10:43.000Z"
+     },
+     "rt": "82%",
+     "metascore": 47,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shah Rukh Khan",
+     "character": "Pathaan",
+     "slug": "shah-rukh-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+     "name": "Deepika Padukone",
+     "character": "Rubina Mohsin",
+     "slug": "deepika-padukone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rzvvBQ0r6oiqDdzcsdTRB7jN4Rx.jpg"
+    },
+    {
+     "name": "John Abraham",
+     "character": "Jim",
+     "slug": "john-abraham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9Ur8Ki6dSEQVS0YgjDzFKxt1WmG.jpg"
+    },
+    {
+     "name": "Dimple Kapadia",
+     "character": "Nandini",
+     "slug": "dimple-kapadia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rrISOX9TnetEAiZ5zCosTkmFdh2.jpg"
+    },
+    {
+     "name": "Ashutosh Rana",
+     "character": "Sunil Luthra",
+     "slug": "ashutosh-rana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg"
+    },
+    {
+     "name": "Prakash Belawadi",
+     "character": "Dr. Sahani",
+     "slug": "prakash-belawadi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bECb7W5XUSFVOgN0z9Ob1ludIha.jpg"
+    },
+    {
+     "name": "Manish Wadhwa",
+     "character": "General Qadir",
+     "slug": "manish-wadhwa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dtYKUHR1kZuOBX2Ud2mEhpnTS3x.jpg"
+    },
+    {
+     "name": "Akash Bhatija",
+     "character": "Amol",
+     "slug": "akash-bhatija",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oB6bkmmbqRKbPzt8gQbT0gqmWnE.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Siddharth Anand",
+       "slug": "siddharth-anand"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Siddharth Anand",
+       "slug": "siddharth-anand"
+      },
+      {
+       "name": "Shridhar Raghavan",
+       "slug": "shridhar-raghavan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sanchit Balhara",
+       "slug": "sanchit-balhara"
+      },
+      {
+       "name": "Ankit Balhara",
+       "slug": "ankit-balhara"
+      },
+      {
+       "name": "Vishal Dadlani",
+       "slug": "vishal-dadlani"
+      },
+      {
+       "name": "Shekhar Ravjiani",
+       "slug": "shekhar-ravjiani"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Satchith Paulose",
+       "slug": "satchith-paulose"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Aarif Sheikh",
+       "slug": "aarif-sheikh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Aditya Chopra",
+       "slug": "aditya-chopra"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Yash Raj Films",
+     "slug": "yash-raj-films",
+     "logo": "https://image.tmdb.org/t/p/w185/lvzN86o3jrP44DIvn4SMBLOl9PF.png"
+    },
+    {
+     "name": "Pathaan Productions",
+     "slug": "pathaan-productions",
+     "logo": null
+    },
+    {
+     "name": "Palma Pictures",
+     "slug": "palma-pictures",
+     "logo": null
+    },
+    {
+     "name": "FPS Productions",
+     "slug": "fps-productions",
+     "logo": null
+    },
+    {
+     "name": "NSA Picture",
+     "slug": "nsa-picture",
+     "logo": null
+    },
+    {
+     "name": "ODU Movies",
+     "slug": "odu-movies",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-03-22",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 95429679.38000001,
+    "totalShows": 6026,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 31530364,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 31530364,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 23,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-25"
+   }
+  }
+ }
+}

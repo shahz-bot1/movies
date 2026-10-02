@@ -1,0 +1,48 @@
+{
+ "slug": "indumathi-manigandan",
+ "name": "Indumathi Manigandan",
+ "source_url": "https://fridaymatinee.in/people/indumathi-manigandan",
+ "captured_at": "2026-10-01T22:52:15.934997+00:00",
+ "person": {
+  "name": "Indumathi Manigandan",
+  "photo": "https://image.tmdb.org/t/p/w185/8ThE7KSZtzzPbdtg42tn0UBoA5V.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 658,
+   "movie_slug": "dragon",
+   "title": "Dragon",
+   "year": 2025,
+   "kerala_gross": "₹3.1 Cr"
+  },
+  {
+   "movie_id": 713,
+   "movie_slug": "dheeran",
+   "title": "Dheeran",
+   "year": 2025,
+   "kerala_gross": "₹2.4 Cr"
+  },
+  {
+   "movie_id": 854,
+   "movie_slug": "idli-kadai",
+   "title": "Idli Kadai",
+   "year": 2025,
+   "kerala_gross": "₹80.6L"
+  },
+  {
+   "movie_id": 1008,
+   "movie_slug": "pookie",
+   "title": "Pookie",
+   "year": 2026,
+   "kerala_gross": "₹4.2L"
+  }
+ ]
+}

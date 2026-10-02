@@ -1,0 +1,41 @@
+{
+ "slug": "lollu-sabha-maaran",
+ "name": "Lollu Sabha Maaran",
+ "source_url": "https://fridaymatinee.in/people/lollu-sabha-maaran",
+ "captured_at": "2026-10-02T00:04:56.391270+00:00",
+ "person": {
+  "name": "Lollu Sabha Maaran",
+  "photo": "https://image.tmdb.org/t/p/w185/uWeSvoMN2rOxHsEj5qENJSTGMDZ.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 135,
+   "movie_slug": "kaathuvaakula-rendu-kadhal",
+   "title": "Kaathuvaakula Rendu Kadhal",
+   "year": 2022,
+   "kerala_gross": "₹45.7L"
+  },
+  {
+   "movie_id": 765,
+   "movie_slug": "coolie",
+   "title": "Coolie",
+   "year": 2025,
+   "kerala_gross": "₹22.9 Cr"
+  },
+  {
+   "movie_id": 1265,
+   "movie_slug": "immortal",
+   "title": "Immortal",
+   "year": 2026,
+   "kerala_gross": "₹8.4L"
+  }
+ ]
+}

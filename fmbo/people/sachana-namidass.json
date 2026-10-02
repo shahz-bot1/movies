@@ -1,0 +1,41 @@
+{
+ "slug": "sachana-namidass",
+ "name": "Sachana Namidass",
+ "source_url": "https://fridaymatinee.in/people/sachana-namidass",
+ "captured_at": "2026-10-02T09:56:22.981846+00:00",
+ "person": {
+  "name": "Sachana Namidass",
+  "photo": "https://image.tmdb.org/t/p/w185/vKAZo6Vs04qO9cUacLJa0FiliuY.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 524,
+   "movie_slug": "maharaja",
+   "title": "Maharaja",
+   "year": 2024,
+   "kerala_gross": "₹5.7 Cr"
+  },
+  {
+   "movie_id": 997,
+   "movie_slug": "with-love",
+   "title": "With Love",
+   "year": 2026,
+   "kerala_gross": "₹27.5L"
+  },
+  {
+   "movie_id": 1274,
+   "movie_slug": "mandaadi",
+   "title": "Mandaadi",
+   "year": 2026,
+   "kerala_gross": "₹2.0 Cr"
+  }
+ ]
+}

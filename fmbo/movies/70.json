@@ -1,0 +1,604 @@
+{
+ "id": 70,
+ "slug": "operation-java",
+ "source_url": "https://fridaymatinee.in/boxoffice/operation-java-70",
+ "captured_at": "2026-10-01T17:59:54.960923+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 70,
+    "title": "Operation Java",
+    "img": "https://image.tmdb.org/t/p/original/ku1gEhoJgFV2vWe2hBENqSKmLna.jpg",
+    "released": "2021-02-12",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11651550",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "146 min",
+    "genre": "Thriller, Crime",
+    "plot": "B. Tech graduates Antony and Vinay Dasan are talented, but unemployed. That changes, however, when they approach the cyber cell with a new perspective to a film piracy case.",
+    "released": "2021-02-12",
+    "director": "Tharun Moorthy",
+    "directorSlug": "tharun-moorthy",
+    "actors": [
+     "Balu Varghese",
+     "Lukman Avaran",
+     "Binu Pappu",
+     "Irshad",
+     "Shine Tom Chacko",
+     "Prasanth Alexander"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "8.0",
+      "votes": 6063,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Balu Varghese",
+     "character": "Antony George",
+     "slug": "balu-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v1Ydyfxe3bFxXiHB4cU5Hmoh5hV.jpg"
+    },
+    {
+     "name": "Lukman Avaran",
+     "character": "Vinay Dasan",
+     "slug": "lukman-avaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w1fSOcEP3cezwPtorTLY1dUIkqv.jpg"
+    },
+    {
+     "name": "Binu Pappu",
+     "character": "ASI Joy Pulimoottil",
+     "slug": "binu-pappu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zDVvCDE3cdxrAqfZ9J0LgqXfJpY.jpg"
+    },
+    {
+     "name": "Irshad",
+     "character": "SI Prathapan",
+     "slug": "irshad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fQNMwd91fjYETkiWe8QDD8wNdV.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Jacob Mani (CI)",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Prasanth Alexander",
+     "character": "Officer Basheer",
+     "slug": "prasanth-alexander",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QTEvNPnSxAb7WHDsIOr0hxDNDP.jpg"
+    },
+    {
+     "name": "Mamitha Baiju",
+     "character": "Alphonsa",
+     "slug": "mamitha-baiju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uQ5PhUbDPSaSzulViEzlWqphDPH.jpg"
+    },
+    {
+     "name": "Vinitha Koshy",
+     "character": "Shruthi",
+     "slug": "vinitha-koshy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2IvJnduvAdfko1iHGgmFVhuLwQS.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Tharun Moorthy",
+       "slug": "tharun-moorthy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Tharun Moorthy",
+       "slug": "tharun-moorthy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Faiz Siddik",
+       "slug": "faiz-siddik"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nishadh Yusuf",
+       "slug": "nishadh-yusuf"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "V Cinemas International",
+     "slug": "v-cinemas-international",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 8601535,
+    "totalShows": 1398,
+    "totalDays": 10,
+    "openingDay": {
+     "day": 1,
+     "gross": 891624,
+     "date": "2021-02-12"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 2128092,
+     "date": "2021-02-14"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 26,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-02-12"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 70,
+    "title": "Operation Java",
+    "img": "https://image.tmdb.org/t/p/original/ku1gEhoJgFV2vWe2hBENqSKmLna.jpg",
+    "released": "2021-02-12",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11651550",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "146 min",
+    "genre": "Thriller, Crime",
+    "plot": "B. Tech graduates Antony and Vinay Dasan are talented, but unemployed. That changes, however, when they approach the cyber cell with a new perspective to a film piracy case.",
+    "released": "2021-02-12",
+    "director": "Tharun Moorthy",
+    "directorSlug": "tharun-moorthy",
+    "actors": [
+     "Balu Varghese",
+     "Lukman Avaran",
+     "Binu Pappu",
+     "Irshad",
+     "Shine Tom Chacko",
+     "Prasanth Alexander"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "8.0",
+      "votes": 6063,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Balu Varghese",
+     "character": "Antony George",
+     "slug": "balu-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v1Ydyfxe3bFxXiHB4cU5Hmoh5hV.jpg"
+    },
+    {
+     "name": "Lukman Avaran",
+     "character": "Vinay Dasan",
+     "slug": "lukman-avaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w1fSOcEP3cezwPtorTLY1dUIkqv.jpg"
+    },
+    {
+     "name": "Binu Pappu",
+     "character": "ASI Joy Pulimoottil",
+     "slug": "binu-pappu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zDVvCDE3cdxrAqfZ9J0LgqXfJpY.jpg"
+    },
+    {
+     "name": "Irshad",
+     "character": "SI Prathapan",
+     "slug": "irshad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fQNMwd91fjYETkiWe8QDD8wNdV.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Jacob Mani (CI)",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Prasanth Alexander",
+     "character": "Officer Basheer",
+     "slug": "prasanth-alexander",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QTEvNPnSxAb7WHDsIOr0hxDNDP.jpg"
+    },
+    {
+     "name": "Mamitha Baiju",
+     "character": "Alphonsa",
+     "slug": "mamitha-baiju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uQ5PhUbDPSaSzulViEzlWqphDPH.jpg"
+    },
+    {
+     "name": "Vinitha Koshy",
+     "character": "Shruthi",
+     "slug": "vinitha-koshy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2IvJnduvAdfko1iHGgmFVhuLwQS.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Tharun Moorthy",
+       "slug": "tharun-moorthy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Tharun Moorthy",
+       "slug": "tharun-moorthy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Faiz Siddik",
+       "slug": "faiz-siddik"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nishadh Yusuf",
+       "slug": "nishadh-yusuf"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "V Cinemas International",
+     "slug": "v-cinemas-international",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2021-02-12",
+     "gross": 7786144,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1124,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-02-19",
+     "gross": 801771,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 271,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-03-05",
+     "gross": 13620,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 8601535,
+    "totalShows": 1398,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 7786144
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 7786144
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 26,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-02-12"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 70,
+    "title": "Operation Java",
+    "img": "https://image.tmdb.org/t/p/original/ku1gEhoJgFV2vWe2hBENqSKmLna.jpg",
+    "released": "2021-02-12",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11651550",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "146 min",
+    "genre": "Thriller, Crime",
+    "plot": "B. Tech graduates Antony and Vinay Dasan are talented, but unemployed. That changes, however, when they approach the cyber cell with a new perspective to a film piracy case.",
+    "released": "2021-02-12",
+    "director": "Tharun Moorthy",
+    "directorSlug": "tharun-moorthy",
+    "actors": [
+     "Balu Varghese",
+     "Lukman Avaran",
+     "Binu Pappu",
+     "Irshad",
+     "Shine Tom Chacko",
+     "Prasanth Alexander"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "8.0",
+      "votes": 6063,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Balu Varghese",
+     "character": "Antony George",
+     "slug": "balu-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v1Ydyfxe3bFxXiHB4cU5Hmoh5hV.jpg"
+    },
+    {
+     "name": "Lukman Avaran",
+     "character": "Vinay Dasan",
+     "slug": "lukman-avaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w1fSOcEP3cezwPtorTLY1dUIkqv.jpg"
+    },
+    {
+     "name": "Binu Pappu",
+     "character": "ASI Joy Pulimoottil",
+     "slug": "binu-pappu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zDVvCDE3cdxrAqfZ9J0LgqXfJpY.jpg"
+    },
+    {
+     "name": "Irshad",
+     "character": "SI Prathapan",
+     "slug": "irshad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fQNMwd91fjYETkiWe8QDD8wNdV.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Jacob Mani (CI)",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Prasanth Alexander",
+     "character": "Officer Basheer",
+     "slug": "prasanth-alexander",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QTEvNPnSxAb7WHDsIOr0hxDNDP.jpg"
+    },
+    {
+     "name": "Mamitha Baiju",
+     "character": "Alphonsa",
+     "slug": "mamitha-baiju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uQ5PhUbDPSaSzulViEzlWqphDPH.jpg"
+    },
+    {
+     "name": "Vinitha Koshy",
+     "character": "Shruthi",
+     "slug": "vinitha-koshy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2IvJnduvAdfko1iHGgmFVhuLwQS.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Tharun Moorthy",
+       "slug": "tharun-moorthy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Tharun Moorthy",
+       "slug": "tharun-moorthy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Faiz Siddik",
+       "slug": "faiz-siddik"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nishadh Yusuf",
+       "slug": "nishadh-yusuf"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "V Cinemas International",
+     "slug": "v-cinemas-international",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 8601535,
+    "totalShows": 1398,
+    "totalDays": 10,
+    "openingDay": {
+     "day": 1,
+     "gross": 3221691,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3221691,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 26,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-02-12"
+   }
+  }
+ }
+}

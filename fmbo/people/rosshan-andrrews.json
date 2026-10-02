@@ -1,0 +1,46 @@
+{
+ "slug": "rosshan-andrrews",
+ "name": "Rosshan Andrrews",
+ "source_url": "https://fridaymatinee.in/people/rosshan-andrrews",
+ "captured_at": "2026-10-02T09:50:50.703398+00:00",
+ "person": {
+  "name": "Rosshan Andrrews",
+  "photo": "https://image.tmdb.org/t/p/w185/qwrfzBIklJ48E7aMgF49E4iqVXO.jpg",
+  "role": "Director and actor"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  },
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 46,
+   "movie_slug": "prathi-poovankozhi",
+   "title": "Prathi Poovankozhi",
+   "year": 2019,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 235,
+   "movie_slug": "saturday-night",
+   "title": "Saturday Night",
+   "year": 2022,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 391,
+   "movie_slug": "deva",
+   "title": "Deva",
+   "year": 2025,
+   "kerala_gross": "₹11.6L"
+  }
+ ]
+}

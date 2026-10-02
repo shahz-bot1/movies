@@ -1,0 +1,65 @@
+{
+ "slug": "kamal-haasan",
+ "name": "Kamal Haasan",
+ "source_url": "https://fridaymatinee.in/people/kamal-haasan",
+ "captured_at": "2026-10-01T23:38:22.001725+00:00",
+ "person": {
+  "name": "Kamal Haasan",
+  "photo": "https://image.tmdb.org/t/p/w185/lKzmFToG07dhOZpb5inh0nUsRUZ.jpg",
+  "role": "Actor, producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 144,
+   "movie_slug": "vikram",
+   "title": "Vikram",
+   "year": 2022,
+   "kerala_gross": "₹29.1 Cr"
+  },
+  {
+   "movie_id": 535,
+   "movie_slug": "indian-2",
+   "title": "Indian 2",
+   "year": 2024,
+   "kerala_gross": "₹4.5 Cr"
+  },
+  {
+   "movie_id": 701,
+   "movie_slug": "thug-life",
+   "title": "Thug Life",
+   "year": 2025,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 527,
+   "movie_slug": "kalki-2898-ad",
+   "title": "Kalki 2898 AD",
+   "year": 2024,
+   "kerala_gross": "₹26.7 Cr"
+  },
+  {
+   "movie_id": 589,
+   "movie_slug": "amaran",
+   "title": "Amaran",
+   "year": 2024,
+   "kerala_gross": "₹9.7 Cr"
+  }
+ ]
+}

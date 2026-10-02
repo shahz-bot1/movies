@@ -1,0 +1,627 @@
+{
+ "id": 275,
+ "slug": "alone",
+ "source_url": "https://fridaymatinee.in/boxoffice/alone-275",
+ "captured_at": "2026-10-01T18:08:29.574416+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 275,
+    "title": "Alone",
+    "img": "https://images2.imgbox.com/45/8b/Tnv6y2Wd_o.jpg",
+    "released": "2023-01-26",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15387128",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Thriller, Mystery",
+    "plot": "During the pandemic lock-down, A motivational speaker named Kalidas moves into the thirteenth floor of an apartment in Kochi. Soon Kalidas begins to observe supernatural elements around him and he decides to investigate.",
+    "released": "2023-01-26",
+    "director": "Shaji Kailas",
+    "directorSlug": "shaji-kailas",
+    "actors": [
+     "Mohanlal",
+     "Manju Warrier",
+     "Renji Panicker",
+     "Siddique",
+     "Nandhu",
+     "Zeenath"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.3",
+      "votes": 1165,
+      "updatedAt": "2026-09-25T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Kalidas",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wvoBULQimwguAGPOHZ8TDoy7jBJ.jpg"
+    },
+    {
+     "name": "Manju Warrier",
+     "character": "Yamuna Krishna (voice)",
+     "slug": "manju-warrier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7u1WgUHnwIW9mtL6aTdo1cRXmCM.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "Colonel (voice)",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ladi1ITpyay8RFpC1eAMZgMPc5e.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "OG Karthaavu (voice)",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Nandhu",
+     "character": "Security (voice)",
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    },
+    {
+     "name": "Zeenath",
+     "character": "Sheela Varkey (voice)",
+     "slug": "zeenath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Am3r7m1j6wbYxUzWl7u8qEvYC1T.jpg"
+    },
+    {
+     "name": "Baiju Santhosh",
+     "character": "Rashid (voice)",
+     "slug": "baiju-santhosh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mAGYsgiYZ5A3B24jx5PZdibN87I.jpg"
+    },
+    {
+     "name": "Shankar Ramakrishnan",
+     "character": "Vinod (voice)",
+     "slug": "shankar-ramakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6FPuMP7IkWL18nXsPlI6IXiL1Gb.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Shaji Kailas",
+       "slug": "shaji-kailas"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rajesh Jayaraman",
+       "slug": "rajesh-jayaraman"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Eldhose Alias",
+       "slug": "eldhose-alias"
+      },
+      {
+       "name": "Biby Mathew",
+       "slug": "biby-mathew"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Abinandhan Ramanujam",
+       "slug": "abinandhan-ramanujam"
+      },
+      {
+       "name": "Pramod K Pillai",
+       "slug": "pramod-k-pillai"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Don Max",
+       "slug": "don-max"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Antony Perumbavoor",
+       "slug": "antony-perumbavoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aashirvad Cinemas",
+     "slug": "aashirvad-cinemas",
+     "logo": "https://image.tmdb.org/t/p/w185/khS7G0KzBoCYcLs4xuNjpuZjntR.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5150771.000000001,
+    "totalShows": 2161,
+    "totalDays": 10,
+    "openingDay": {
+     "day": 1,
+     "gross": 2916353.600000001,
+     "date": "2023-01-26"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2916353.600000001,
+     "date": "2023-01-26"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-26"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 275,
+    "title": "Alone",
+    "img": "https://images2.imgbox.com/45/8b/Tnv6y2Wd_o.jpg",
+    "released": "2023-01-26",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15387128",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Thriller, Mystery",
+    "plot": "During the pandemic lock-down, A motivational speaker named Kalidas moves into the thirteenth floor of an apartment in Kochi. Soon Kalidas begins to observe supernatural elements around him and he decides to investigate.",
+    "released": "2023-01-26",
+    "director": "Shaji Kailas",
+    "directorSlug": "shaji-kailas",
+    "actors": [
+     "Mohanlal",
+     "Manju Warrier",
+     "Renji Panicker",
+     "Siddique",
+     "Nandhu",
+     "Zeenath"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.3",
+      "votes": 1165,
+      "updatedAt": "2026-09-25T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Kalidas",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wvoBULQimwguAGPOHZ8TDoy7jBJ.jpg"
+    },
+    {
+     "name": "Manju Warrier",
+     "character": "Yamuna Krishna (voice)",
+     "slug": "manju-warrier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7u1WgUHnwIW9mtL6aTdo1cRXmCM.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "Colonel (voice)",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ladi1ITpyay8RFpC1eAMZgMPc5e.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "OG Karthaavu (voice)",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Nandhu",
+     "character": "Security (voice)",
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    },
+    {
+     "name": "Zeenath",
+     "character": "Sheela Varkey (voice)",
+     "slug": "zeenath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Am3r7m1j6wbYxUzWl7u8qEvYC1T.jpg"
+    },
+    {
+     "name": "Baiju Santhosh",
+     "character": "Rashid (voice)",
+     "slug": "baiju-santhosh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mAGYsgiYZ5A3B24jx5PZdibN87I.jpg"
+    },
+    {
+     "name": "Shankar Ramakrishnan",
+     "character": "Vinod (voice)",
+     "slug": "shankar-ramakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6FPuMP7IkWL18nXsPlI6IXiL1Gb.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Shaji Kailas",
+       "slug": "shaji-kailas"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rajesh Jayaraman",
+       "slug": "rajesh-jayaraman"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Eldhose Alias",
+       "slug": "eldhose-alias"
+      },
+      {
+       "name": "Biby Mathew",
+       "slug": "biby-mathew"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Abinandhan Ramanujam",
+       "slug": "abinandhan-ramanujam"
+      },
+      {
+       "name": "Pramod K Pillai",
+       "slug": "pramod-k-pillai"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Don Max",
+       "slug": "don-max"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Antony Perumbavoor",
+       "slug": "antony-perumbavoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aashirvad Cinemas",
+     "slug": "aashirvad-cinemas",
+     "logo": "https://image.tmdb.org/t/p/w185/khS7G0KzBoCYcLs4xuNjpuZjntR.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-01-26",
+     "gross": 5085096,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2049,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-02-02",
+     "gross": 65675,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 112,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5150771,
+    "totalShows": 2161,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 5085096
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5085096
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-26"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 275,
+    "title": "Alone",
+    "img": "https://images2.imgbox.com/45/8b/Tnv6y2Wd_o.jpg",
+    "released": "2023-01-26",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15387128",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Thriller, Mystery",
+    "plot": "During the pandemic lock-down, A motivational speaker named Kalidas moves into the thirteenth floor of an apartment in Kochi. Soon Kalidas begins to observe supernatural elements around him and he decides to investigate.",
+    "released": "2023-01-26",
+    "director": "Shaji Kailas",
+    "directorSlug": "shaji-kailas",
+    "actors": [
+     "Mohanlal",
+     "Manju Warrier",
+     "Renji Panicker",
+     "Siddique",
+     "Nandhu",
+     "Zeenath"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.3",
+      "votes": 1165,
+      "updatedAt": "2026-09-25T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Kalidas",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wvoBULQimwguAGPOHZ8TDoy7jBJ.jpg"
+    },
+    {
+     "name": "Manju Warrier",
+     "character": "Yamuna Krishna (voice)",
+     "slug": "manju-warrier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7u1WgUHnwIW9mtL6aTdo1cRXmCM.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "Colonel (voice)",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ladi1ITpyay8RFpC1eAMZgMPc5e.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "OG Karthaavu (voice)",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Nandhu",
+     "character": "Security (voice)",
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    },
+    {
+     "name": "Zeenath",
+     "character": "Sheela Varkey (voice)",
+     "slug": "zeenath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Am3r7m1j6wbYxUzWl7u8qEvYC1T.jpg"
+    },
+    {
+     "name": "Baiju Santhosh",
+     "character": "Rashid (voice)",
+     "slug": "baiju-santhosh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mAGYsgiYZ5A3B24jx5PZdibN87I.jpg"
+    },
+    {
+     "name": "Shankar Ramakrishnan",
+     "character": "Vinod (voice)",
+     "slug": "shankar-ramakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6FPuMP7IkWL18nXsPlI6IXiL1Gb.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Shaji Kailas",
+       "slug": "shaji-kailas"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rajesh Jayaraman",
+       "slug": "rajesh-jayaraman"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Eldhose Alias",
+       "slug": "eldhose-alias"
+      },
+      {
+       "name": "Biby Mathew",
+       "slug": "biby-mathew"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Abinandhan Ramanujam",
+       "slug": "abinandhan-ramanujam"
+      },
+      {
+       "name": "Pramod K Pillai",
+       "slug": "pramod-k-pillai"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Don Max",
+       "slug": "don-max"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Antony Perumbavoor",
+       "slug": "antony-perumbavoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aashirvad Cinemas",
+     "slug": "aashirvad-cinemas",
+     "logo": "https://image.tmdb.org/t/p/w185/khS7G0KzBoCYcLs4xuNjpuZjntR.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5150771,
+    "totalShows": 2161,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1313512,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1313512,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-26"
+   }
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "paul-rudd",
+ "name": "Paul Rudd",
+ "source_url": "https://fridaymatinee.in/people/paul-rudd",
+ "captured_at": "2026-10-02T01:15:54.411752+00:00",
+ "person": {
+  "name": "Paul Rudd",
+  "photo": "https://image.tmdb.org/t/p/w185/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 298,
+   "movie_slug": "ant-man-and-the-wasp-quantumania",
+   "title": "Ant-Man and the Wasp Quantumania",
+   "year": 2023,
+   "kerala_gross": "₹93.4L"
+  },
+  {
+   "movie_id": 885,
+   "movie_slug": "anaconda",
+   "title": "Anaconda",
+   "year": 2025,
+   "kerala_gross": "₹31.6L"
+  },
+  {
+   "movie_id": 1288,
+   "movie_slug": "avengers-endgame-encore",
+   "title": "Avengers Endgame: Encore",
+   "year": 2026,
+   "kerala_gross": "₹2.3 Cr"
+  },
+  {
+   "movie_id": 794,
+   "movie_slug": "avengers-doomsday",
+   "title": "Avengers: Doomsday",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

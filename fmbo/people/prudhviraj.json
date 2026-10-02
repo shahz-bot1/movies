@@ -1,0 +1,48 @@
+{
+ "slug": "prudhviraj",
+ "name": "Prudhviraj",
+ "source_url": "https://fridaymatinee.in/people/prudhviraj",
+ "captured_at": "2026-10-02T06:32:45.545333+00:00",
+ "person": {
+  "name": "Prudhviraj",
+  "photo": "https://image.tmdb.org/t/p/w185/fF5zEdi65qeyClLhjIuCmT5LdFb.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 123,
+   "movie_slug": "beast",
+   "title": "Beast",
+   "year": 2022,
+   "kerala_gross": "₹6.7 Cr"
+  },
+  {
+   "movie_id": 148,
+   "movie_slug": "aha-sundara",
+   "title": "Aha Sundara",
+   "year": 2022,
+   "kerala_gross": "₹6.3L"
+  },
+  {
+   "movie_id": 636,
+   "movie_slug": "game-changer",
+   "title": "Game Changer",
+   "year": 2025,
+   "kerala_gross": "₹62.3L"
+  },
+  {
+   "movie_id": 671,
+   "movie_slug": "veera-dheera-sooran-part-2",
+   "title": "Veera Dheera Sooran: Part 2",
+   "year": 2025,
+   "kerala_gross": "₹3.1 Cr"
+  }
+ ]
+}

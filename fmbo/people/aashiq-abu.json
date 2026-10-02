@@ -1,0 +1,58 @@
+{
+ "slug": "aashiq-abu",
+ "name": "Aashiq Abu",
+ "source_url": "https://fridaymatinee.in/people/aashiq-abu",
+ "captured_at": "2026-10-01T20:04:01.880785+00:00",
+ "person": {
+  "name": "Aashiq Abu",
+  "photo": "https://image.tmdb.org/t/p/w185/7deu0KfQBHoQkpUzl5UZneEvFk4.jpg",
+  "role": "Producer, director and cinematography"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  },
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 79,
+   "movie_slug": "aarkkariyam",
+   "title": "Aarkkariyam",
+   "year": 2021,
+   "kerala_gross": "₹7.4L"
+  },
+  {
+   "movie_id": 113,
+   "movie_slug": "naradan",
+   "title": "Naradan",
+   "year": 2022,
+   "kerala_gross": "₹57.7L"
+  },
+  {
+   "movie_id": 354,
+   "movie_slug": "neelavelicham",
+   "title": "Neelavelicham",
+   "year": 2023,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 620,
+   "movie_slug": "rifle-club",
+   "title": "Rifle Club",
+   "year": 2024,
+   "kerala_gross": "₹13.0 Cr"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "slug": "vijay-babu",
+ "name": "Vijay Babu",
+ "source_url": "https://fridaymatinee.in/people/vijay-babu",
+ "captured_at": "2026-10-02T11:43:18.624586+00:00",
+ "person": {
+  "name": "Vijay Babu",
+  "photo": "https://image.tmdb.org/t/p/w185/8ThAZXd4Sjfopth5QhDpuJg7Z3q.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 9
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 47,
+   "movie_slug": "thrissur-pooram",
+   "title": "Thrissur Pooram",
+   "year": 2019,
+   "kerala_gross": "₹66.6L"
+  },
+  {
+   "movie_id": 57,
+   "movie_slug": "anveshanam",
+   "title": "Anveshanam",
+   "year": 2020,
+   "kerala_gross": "₹52.9L"
+  },
+  {
+   "movie_id": 186,
+   "movie_slug": "theerppu",
+   "title": "Theerppu",
+   "year": 2022,
+   "kerala_gross": "₹84.2L"
+  },
+  {
+   "movie_id": 306,
+   "movie_slug": "maheshum-marutiyum",
+   "title": "Maheshum Marutiyum",
+   "year": 2023,
+   "kerala_gross": "₹55.7L"
+  },
+  {
+   "movie_id": 252,
+   "movie_slug": "oru-anweshanathinte-thudakkam",
+   "title": "Oru Anweshanathinte Thudakkam",
+   "year": 2024,
+   "kerala_gross": "₹30.8L"
+  },
+  {
+   "movie_id": 565,
+   "movie_slug": "dominic-and-the-ladies-purse",
+   "title": "Dominic And The Ladies Purse",
+   "year": 2025,
+   "kerala_gross": "₹7.7 Cr"
+  },
+  {
+   "movie_id": 691,
+   "movie_slug": "padakkalam",
+   "title": "Padakkalam",
+   "year": 2025,
+   "kerala_gross": "₹10.6 Cr"
+  },
+  {
+   "movie_id": 1026,
+   "movie_slug": "aadu-3",
+   "title": "Aadu 3",
+   "year": 2026,
+   "kerala_gross": "₹47.2 Cr"
+  },
+  {
+   "movie_id": 1048,
+   "movie_slug": "vaazha-ii",
+   "title": "Vaazha II",
+   "year": 2026,
+   "kerala_gross": "₹119.7 Cr"
+  },
+  {
+   "movie_id": 294,
+   "movie_slug": "enkilum-chandrike",
+   "title": "Enkilum Chandrike",
+   "year": 2023,
+   "kerala_gross": "₹1.3 Cr"
+  }
+ ]
+}

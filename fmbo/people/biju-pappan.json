@@ -1,0 +1,55 @@
+{
+ "slug": "biju-pappan",
+ "name": "Biju Pappan",
+ "source_url": "https://fridaymatinee.in/people/biju-pappan",
+ "captured_at": "2026-10-01T21:17:33.597234+00:00",
+ "person": {
+  "name": "Biju Pappan",
+  "photo": "https://image.tmdb.org/t/p/w185/dBzVXaveajtD7tuzaJM376Cv7HC.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 226,
+   "movie_slug": "monster",
+   "title": "Monster",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 256,
+   "movie_slug": "kaapa",
+   "title": "Kaapa",
+   "year": 2022,
+   "kerala_gross": "₹8.8 Cr"
+  },
+  {
+   "movie_id": 555,
+   "movie_slug": "hunt",
+   "title": "Hunt",
+   "year": 2024,
+   "kerala_gross": "₹37.6L"
+  },
+  {
+   "movie_id": 653,
+   "movie_slug": "kalamkaval",
+   "title": "Kalamkaval",
+   "year": 2025,
+   "kerala_gross": "₹31.9 Cr"
+  },
+  {
+   "movie_id": 1194,
+   "movie_slug": "varavu",
+   "title": "Varavu",
+   "year": 2026,
+   "kerala_gross": "₹5.0 Cr"
+  }
+ ]
+}

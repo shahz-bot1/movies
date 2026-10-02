@@ -1,0 +1,41 @@
+{
+ "slug": "christian-bale",
+ "name": "Christian Bale",
+ "source_url": "https://fridaymatinee.in/people/christian-bale",
+ "captured_at": "2026-10-01T21:37:11.088471+00:00",
+ "person": {
+  "name": "Christian Bale",
+  "photo": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 34,
+   "movie_slug": "ford-v-ferrari",
+   "title": "Ford v Ferrari",
+   "year": 2019,
+   "kerala_gross": "₹31.7L"
+  },
+  {
+   "movie_id": 158,
+   "movie_slug": "thor-love-and-thunder",
+   "title": "Thor Love and Thunder",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 631,
+   "movie_slug": "the-bride",
+   "title": "The Bride",
+   "year": 2026,
+   "kerala_gross": "₹7.9L"
+  }
+ ]
+}

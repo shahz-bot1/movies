@@ -1,0 +1,41 @@
+{
+ "slug": "prakash-belawadi",
+ "name": "Prakash Belawadi",
+ "source_url": "https://fridaymatinee.in/people/prakash-belawadi",
+ "captured_at": "2026-10-02T06:24:08.388135+00:00",
+ "person": {
+  "name": "Prakash Belawadi",
+  "photo": "https://image.tmdb.org/t/p/w185/bECb7W5XUSFVOgN0z9Ob1ludIha.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 278,
+   "movie_slug": "pathaan",
+   "title": "Pathaan",
+   "year": 2023,
+   "kerala_gross": "₹9.5 Cr"
+  },
+  {
+   "movie_id": 962,
+   "movie_slug": "parasakthi",
+   "title": "Parasakthi",
+   "year": 2026,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 1081,
+   "movie_slug": "patriot",
+   "title": "Patriot",
+   "year": 2026,
+   "kerala_gross": "₹24.9 Cr"
+  }
+ ]
+}

@@ -1,0 +1,674 @@
+{
+ "id": 978,
+ "slug": "one-two-cha-cha-chaa",
+ "source_url": "https://fridaymatinee.in/boxoffice/one-two-cha-cha-chaa-978",
+ "captured_at": "2026-10-01T18:28:12.130869+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 978,
+    "title": "One Two Cha Cha Chaa",
+    "img": "https://image.tmdb.org/t/p/original/cWfX0Pog0ZHgTKY3glhIjvkWxgB.jpg",
+    "released": "2026-01-16",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt38283987",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "160 min",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "So, Fuel Up, Gear Up, Level Up and Fasten your seat belts for the wildest and wackiest road trip of all time.",
+    "released": "2026-01-16",
+    "director": "Abhishek Raj",
+    "directorSlug": "abhishek-raj",
+    "actors": [
+     "Ashutosh Rana",
+     "Lalit Prabhakar",
+     "Anant Joshi",
+     "Harsh Mayar",
+     "Nyrraa M Banerji",
+     "Hemal ingle"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.1",
+      "votes": 2350,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T13:11:03.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ashutosh Rana",
+     "character": null,
+     "slug": "ashutosh-rana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg"
+    },
+    {
+     "name": "Lalit Prabhakar",
+     "character": null,
+     "slug": "lalit-prabhakar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gdjKrQX2ITPhqFGcWRnEaYq0Wci.jpg"
+    },
+    {
+     "name": "Anant Joshi",
+     "character": null,
+     "slug": "anant-joshi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jcYbmTJZolVfFknhulko7i2KHSL.jpg"
+    },
+    {
+     "name": "Harsh Mayar",
+     "character": null,
+     "slug": "harsh-mayar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gDWe45N6que4Ym5aLQSQUqaITpj.jpg"
+    },
+    {
+     "name": "Nyrraa M Banerji",
+     "character": null,
+     "slug": "nyrraa-m-banerji",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Hemal ingle",
+     "character": null,
+     "slug": "hemal-ingle",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4r9NgmyDruBzHwjILV5Yf32CLRE.jpg"
+    },
+    {
+     "name": "Mukesh Tiwari",
+     "character": null,
+     "slug": "mukesh-tiwari",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/37GTjltEJHpi1lQmLmHKJYTpxjj.jpg"
+    },
+    {
+     "name": "Chittaranjan Giri",
+     "character": null,
+     "slug": "chittaranjan-giri",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/guaB9EP5Md4MgX1FUKN5eSLhzvl.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abhishek Raj",
+       "slug": "abhishek-raj"
+      },
+      {
+       "name": "Rajnish Thakur",
+       "slug": "rajnish-thakur"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Amol Gole",
+       "slug": "amol-gole"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ranjeet Bahadur",
+       "slug": "ranjeet-bahadur"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": "2026-06-03",
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-01-16": [
+     {
+      "id": 975,
+      "title": "Greenland 2 Migration",
+      "img": "https://image.tmdb.org/t/p/original/oEGnHmRkpNfUsxnh0gOKuTqNeQk.jpg"
+     },
+     {
+      "id": 976,
+      "title": "Rahu Ketu",
+      "img": "https://image.tmdb.org/t/p/original/zjgWWOIsEqYNSa1fGRr82mBo3gv.jpg"
+     },
+     {
+      "id": 977,
+      "title": "Happy Patel Khatarnak Jasoos",
+      "img": "https://image.tmdb.org/t/p/original/vsCkxiY2c26C6y4RyTVkpdXIfCW.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-01-16",
+     "gross": 34450,
+     "sold": 179,
+     "unsold": 246,
+     "shows": 4,
+     "occ": 42.12,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 34450,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-01-17",
+     "gross": 34200,
+     "sold": 183,
+     "unsold": 248,
+     "shows": 3,
+     "occ": 42.46,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 68650,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-01-18",
+     "gross": 5199,
+     "sold": 29,
+     "unsold": 420,
+     "shows": 3,
+     "occ": 6.46,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 73849,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-01-19",
+     "gross": 2300,
+     "sold": 12,
+     "unsold": 148,
+     "shows": 1,
+     "occ": 7.5,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 76149,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-01-20",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 120,
+     "shows": 1,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 76149,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-01-21",
+     "gross": 940,
+     "sold": 5,
+     "unsold": 275,
+     "shows": 2,
+     "occ": 1.79,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 77089,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 77089,
+    "totalShows": 14,
+    "totalSeats": 1865,
+    "totalSold": 408,
+    "avgOcc": "21.9",
+    "totalDays": 6,
+    "totalHousefull": 2,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 34450,
+     "date": "2026-01-16"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 34450,
+     "date": "2026-01-16"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "6:940:77089"
+  },
+  "week": {
+   "movie": {
+    "id": 978,
+    "title": "One Two Cha Cha Chaa",
+    "img": "https://image.tmdb.org/t/p/original/cWfX0Pog0ZHgTKY3glhIjvkWxgB.jpg",
+    "released": "2026-01-16",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt38283987",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "160 min",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "So, Fuel Up, Gear Up, Level Up and Fasten your seat belts for the wildest and wackiest road trip of all time.",
+    "released": "2026-01-16",
+    "director": "Abhishek Raj",
+    "directorSlug": "abhishek-raj",
+    "actors": [
+     "Ashutosh Rana",
+     "Lalit Prabhakar",
+     "Anant Joshi",
+     "Harsh Mayar",
+     "Nyrraa M Banerji",
+     "Hemal ingle"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.1",
+      "votes": 2350,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T13:11:03.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ashutosh Rana",
+     "character": null,
+     "slug": "ashutosh-rana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg"
+    },
+    {
+     "name": "Lalit Prabhakar",
+     "character": null,
+     "slug": "lalit-prabhakar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gdjKrQX2ITPhqFGcWRnEaYq0Wci.jpg"
+    },
+    {
+     "name": "Anant Joshi",
+     "character": null,
+     "slug": "anant-joshi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jcYbmTJZolVfFknhulko7i2KHSL.jpg"
+    },
+    {
+     "name": "Harsh Mayar",
+     "character": null,
+     "slug": "harsh-mayar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gDWe45N6que4Ym5aLQSQUqaITpj.jpg"
+    },
+    {
+     "name": "Nyrraa M Banerji",
+     "character": null,
+     "slug": "nyrraa-m-banerji",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Hemal ingle",
+     "character": null,
+     "slug": "hemal-ingle",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4r9NgmyDruBzHwjILV5Yf32CLRE.jpg"
+    },
+    {
+     "name": "Mukesh Tiwari",
+     "character": null,
+     "slug": "mukesh-tiwari",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/37GTjltEJHpi1lQmLmHKJYTpxjj.jpg"
+    },
+    {
+     "name": "Chittaranjan Giri",
+     "character": null,
+     "slug": "chittaranjan-giri",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/guaB9EP5Md4MgX1FUKN5eSLhzvl.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abhishek Raj",
+       "slug": "abhishek-raj"
+      },
+      {
+       "name": "Rajnish Thakur",
+       "slug": "rajnish-thakur"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Amol Gole",
+       "slug": "amol-gole"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ranjeet Bahadur",
+       "slug": "ranjeet-bahadur"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": "2026-06-03",
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-01-16": [
+     {
+      "id": 975,
+      "title": "Greenland 2 Migration",
+      "img": "https://image.tmdb.org/t/p/original/oEGnHmRkpNfUsxnh0gOKuTqNeQk.jpg"
+     },
+     {
+      "id": 976,
+      "title": "Rahu Ketu",
+      "img": "https://image.tmdb.org/t/p/original/zjgWWOIsEqYNSa1fGRr82mBo3gv.jpg"
+     },
+     {
+      "id": 977,
+      "title": "Happy Patel Khatarnak Jasoos",
+      "img": "https://image.tmdb.org/t/p/original/vsCkxiY2c26C6y4RyTVkpdXIfCW.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-01-16",
+     "gross": 77089,
+     "sold": 408,
+     "unsold": 1457,
+     "shows": 14,
+     "occ": 21.88,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 77089,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 77089,
+    "totalShows": 14,
+    "totalSeats": 1865,
+    "totalSold": 408,
+    "avgOcc": "21.9",
+    "totalDays": 1,
+    "totalHousefull": 2,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 77089
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 77089
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:77089:77089"
+  },
+  "district": {
+   "movie": {
+    "id": 978,
+    "title": "One Two Cha Cha Chaa",
+    "img": "https://image.tmdb.org/t/p/original/cWfX0Pog0ZHgTKY3glhIjvkWxgB.jpg",
+    "released": "2026-01-16",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt38283987",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "160 min",
+    "genre": "Action, Adventure, Comedy",
+    "plot": "So, Fuel Up, Gear Up, Level Up and Fasten your seat belts for the wildest and wackiest road trip of all time.",
+    "released": "2026-01-16",
+    "director": "Abhishek Raj",
+    "directorSlug": "abhishek-raj",
+    "actors": [
+     "Ashutosh Rana",
+     "Lalit Prabhakar",
+     "Anant Joshi",
+     "Harsh Mayar",
+     "Nyrraa M Banerji",
+     "Hemal ingle"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.1",
+      "votes": 2350,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T13:11:03.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ashutosh Rana",
+     "character": null,
+     "slug": "ashutosh-rana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg"
+    },
+    {
+     "name": "Lalit Prabhakar",
+     "character": null,
+     "slug": "lalit-prabhakar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gdjKrQX2ITPhqFGcWRnEaYq0Wci.jpg"
+    },
+    {
+     "name": "Anant Joshi",
+     "character": null,
+     "slug": "anant-joshi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jcYbmTJZolVfFknhulko7i2KHSL.jpg"
+    },
+    {
+     "name": "Harsh Mayar",
+     "character": null,
+     "slug": "harsh-mayar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gDWe45N6que4Ym5aLQSQUqaITpj.jpg"
+    },
+    {
+     "name": "Nyrraa M Banerji",
+     "character": null,
+     "slug": "nyrraa-m-banerji",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Hemal ingle",
+     "character": null,
+     "slug": "hemal-ingle",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4r9NgmyDruBzHwjILV5Yf32CLRE.jpg"
+    },
+    {
+     "name": "Mukesh Tiwari",
+     "character": null,
+     "slug": "mukesh-tiwari",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/37GTjltEJHpi1lQmLmHKJYTpxjj.jpg"
+    },
+    {
+     "name": "Chittaranjan Giri",
+     "character": null,
+     "slug": "chittaranjan-giri",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/guaB9EP5Md4MgX1FUKN5eSLhzvl.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abhishek Raj",
+       "slug": "abhishek-raj"
+      },
+      {
+       "name": "Rajnish Thakur",
+       "slug": "rajnish-thakur"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Amol Gole",
+       "slug": "amol-gole"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ranjeet Bahadur",
+       "slug": "ranjeet-bahadur"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": "2026-06-03",
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-01-16": [
+     {
+      "id": 975,
+      "title": "Greenland 2 Migration",
+      "img": "https://image.tmdb.org/t/p/original/oEGnHmRkpNfUsxnh0gOKuTqNeQk.jpg"
+     },
+     {
+      "id": 976,
+      "title": "Rahu Ketu",
+      "img": "https://image.tmdb.org/t/p/original/zjgWWOIsEqYNSa1fGRr82mBo3gv.jpg"
+     },
+     {
+      "id": 977,
+      "title": "Happy Patel Khatarnak Jasoos",
+      "img": "https://image.tmdb.org/t/p/original/vsCkxiY2c26C6y4RyTVkpdXIfCW.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 67600,
+     "sold": 361,
+     "unsold": 550,
+     "shows": 6,
+     "occ": 39.63,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 67600,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Trivandrum",
+     "gross": 4890,
+     "sold": 21,
+     "unsold": 115,
+     "shows": 2,
+     "occ": 15.44,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 72490,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 2700,
+     "sold": 15,
+     "unsold": 465,
+     "shows": 4,
+     "occ": 3.12,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 75190,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Thrissur",
+     "gross": 1899,
+     "sold": 11,
+     "unsold": 327,
+     "shows": 2,
+     "occ": 3.25,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 77089,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 77089,
+    "totalShows": 14,
+    "totalSeats": 1865,
+    "totalSold": 408,
+    "avgOcc": "21.9",
+    "totalDays": 4,
+    "totalHousefull": 2,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 67600,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 67600,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "4:1899:77089"
+  }
+ }
+}

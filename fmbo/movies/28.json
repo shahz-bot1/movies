@@ -1,0 +1,310 @@
+{
+ "id": 28,
+ "slug": "nalpathiyonnu",
+ "source_url": "https://fridaymatinee.in/boxoffice/nalpathiyonnu-28",
+ "captured_at": "2026-10-01T17:57:26.600777+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 28,
+    "title": "Nalpathiyonnu",
+    "img": "https://image.tmdb.org/t/p/original/rxRoDCTpVhjYAPIZTLCjEdcaKYs.jpg",
+    "released": "2019-11-08",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt9877340",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "134 min",
+    "genre": "Drama",
+    "plot": "An atheist goes on a pilgrimage to Sabarimala. What will he get out of the experience? The film features Biju Menon and Nimisha Sajayan in the lead roles and was shot in Thalaserry.",
+    "released": "2019-11-08",
+    "director": "Lal Jose",
+    "directorSlug": "lal-jose",
+    "actors": [
+     "Biju Menon",
+     "Sharanjith",
+     "Nimisha Sajayan",
+     "Dhanya Ananya",
+     "Suresh Krishna",
+     "Indrans"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.3",
+      "votes": 278,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:11:02.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Biju Menon",
+     "character": "C. S. Ullas Kumar",
+     "slug": "biju-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kSnzfoZphQGrnOBH7MfU3HMTKGJ.jpg"
+    },
+    {
+     "name": "Sharanjith",
+     "character": "Vavachi Kannan",
+     "slug": "sharanjith",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Nimisha Sajayan",
+     "character": "Bhagyasooyam",
+     "slug": "nimisha-sajayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/r1tiqFWXlWDFlZx966yOeBYs2qY.jpg"
+    },
+    {
+     "name": "Dhanya Ananya",
+     "character": "Suma",
+     "slug": "dhanya-ananya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hIJF85bDu5hi5GENM54S8nWYRWo.jpg"
+    },
+    {
+     "name": "Suresh Krishna",
+     "character": "Ravi Nambiar",
+     "slug": "suresh-krishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hQ4TZgh8IuUh1LJtxCRmUY45fo6.jpg"
+    },
+    {
+     "name": "Indrans",
+     "character": "Kuttan Mesthiry",
+     "slug": "indrans",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vs5Acy2hJ4dWoM3xRGdnFKdVXzw.jpg"
+    },
+    {
+     "name": "Shivaji Guruvayoor",
+     "character": "Sebastian Mash",
+     "slug": "shivaji-guruvayoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFTZ6q7pOEWDywkCaHsDyOUKyfw.jpg"
+    },
+    {
+     "name": "V. T. Vijilesh",
+     "character": "Lijo",
+     "slug": "v-t-vijilesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y96hD1ljwpy7LWP6fp73vbLXQ2i.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Lal Jose",
+       "slug": "lal-jose"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "P.G.Prageesh",
+       "slug": "p-g-prageesh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Bijibal",
+       "slug": "bijibal"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "G. Prajith",
+       "slug": "g-prajith"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Signature Studios",
+     "slug": "signature-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 7841183,
+    "totalShows": 1185,
+    "totalDays": 20,
+    "openingDay": {
+     "day": 1,
+     "gross": 1765040,
+     "date": "2019-11-08"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1765040,
+     "date": "2019-11-08"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-08"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 28,
+    "title": "Nalpathiyonnu",
+    "img": "https://image.tmdb.org/t/p/original/rxRoDCTpVhjYAPIZTLCjEdcaKYs.jpg",
+    "released": "2019-11-08",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt9877340",
+    "isRerelease": false
+   },
+   "omdb": "$e:1:props:allViews:date:omdb",
+   "cast": "$e:1:props:allViews:date:cast",
+   "crew": "$e:1:props:allViews:date:crew",
+   "companies": "$e:1:props:allViews:date:companies",
+   "ott": "$e:1:props:allViews:date:ott",
+   "boxoffice": [
+    {
+     "label": "2019-11-08",
+     "gross": 6941980,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 994,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-11-15",
+     "gross": 874007,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 182,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-11-22",
+     "gross": 25196,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 9,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 7841183,
+    "totalShows": 1185,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 6941980,
+     "date": "$undefined"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 6941980,
+     "date": "$undefined"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-08"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 28,
+    "title": "Nalpathiyonnu",
+    "img": "https://image.tmdb.org/t/p/original/rxRoDCTpVhjYAPIZTLCjEdcaKYs.jpg",
+    "released": "2019-11-08",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt9877340",
+    "isRerelease": false
+   },
+   "omdb": "$e:1:props:allViews:date:omdb",
+   "cast": "$e:1:props:allViews:date:cast",
+   "crew": "$e:1:props:allViews:date:crew",
+   "companies": "$e:1:props:allViews:date:companies",
+   "ott": "$e:1:props:allViews:date:ott",
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 7841183,
+    "totalShows": 1185,
+    "totalDays": 11,
+    "openingDay": {
+     "day": 1,
+     "gross": 2652730,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2652730,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-08"
+   }
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "athulya-chandra",
+ "name": "Athulya Chandra",
+ "source_url": "https://fridaymatinee.in/people/athulya-chandra",
+ "captured_at": "2026-10-01T21:02:46.857699+00:00",
+ "person": {
+  "name": "Athulya Chandra",
+  "photo": "https://image.tmdb.org/t/p/w185/kSCLagjTBp9jEAB2bdrfspTHlxu.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 12,
+   "movie_slug": "ganagandharvan",
+   "title": "Ganagandharvan",
+   "year": 2019,
+   "kerala_gross": "₹24.3L"
+  },
+  {
+   "movie_id": 876,
+   "movie_slug": "dies-irae",
+   "title": "Dies Irae",
+   "year": 2025,
+   "kerala_gross": "₹32.8 Cr"
+  },
+  {
+   "movie_id": 1169,
+   "movie_slug": "uyir",
+   "title": "Uyir",
+   "year": 2026,
+   "kerala_gross": "₹1.6 Cr"
+  }
+ ]
+}

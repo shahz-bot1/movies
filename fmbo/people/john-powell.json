@@ -1,0 +1,41 @@
+{
+ "slug": "john-powell",
+ "name": "John Powell",
+ "source_url": "https://fridaymatinee.in/people/john-powell",
+ "captured_at": "2026-10-01T23:22:29.458685+00:00",
+ "person": {
+  "name": "John Powell",
+  "photo": "https://image.tmdb.org/t/p/w185/trywZMdhKM04PL1lH5OECXRxL1u.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 725,
+   "movie_slug": "how-to-train-your-dragon",
+   "title": "How to Train Your Dragon",
+   "year": 2025,
+   "kerala_gross": "₹87.2L"
+  },
+  {
+   "movie_id": 923,
+   "movie_slug": "wicked-for-good",
+   "title": "Wicked: For Good",
+   "year": 2025,
+   "kerala_gross": "₹9.0L"
+  },
+  {
+   "movie_id": 1177,
+   "movie_slug": "minions-monsters",
+   "title": "Minions u0026 Monsters",
+   "year": 2026,
+   "kerala_gross": "₹38.1L"
+  }
+ ]
+}

@@ -1,0 +1,761 @@
+{
+ "id": 1220,
+ "slug": "ohh-my-dog",
+ "source_url": "https://fridaymatinee.in/boxoffice/ohh-my-dog-1220",
+ "captured_at": "2026-10-01T19:52:33.693716+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1220,
+    "title": "Ohh My Dog",
+    "img": "https://image.tmdb.org/t/p/original/zzHV3rmS07lrFkcHXFx2J9JhZwJ.jpg",
+    "released": "2026-08-07",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt36626888",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "150 min",
+    "genre": "Drama, Family",
+    "plot": "In Assam, 14-year-old Apu embarks on a desperate quest to rescue his beloved dog, Momo, after he is kidnapped. Meanwhile, in Bihar, a devoted dog named Oscar sets out on a perilous journey of his own to find his kidnapped owner, a 15-year old.",
+    "released": "2026-08-06",
+    "director": "Amit Rai",
+    "directorSlug": "amit-rai",
+    "actors": [
+     "Maahi Rai",
+     "Pankaj Tripathi",
+     "Pavan Malhotra",
+     "Geeta Agrawal Sharma",
+     "Rajesh Kumar",
+     "Shreedhar Dubey"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "8.1",
+      "votes": 16984,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T13:10:18.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Maahi Rai",
+     "character": "Apu",
+     "slug": "maahi-rai",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Pankaj Tripathi",
+     "character": "Masterji",
+     "slug": "pankaj-tripathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f3Vxz0QB7PHeyPcXrfJX14Xkxnu.jpg"
+    },
+    {
+     "name": "Pavan Malhotra",
+     "character": "Akaljeet Sodhi",
+     "slug": "pavan-malhotra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aqTzRvGsujDgxoLbVEvVEZVTyNr.jpg"
+    },
+    {
+     "name": "Geeta Agrawal Sharma",
+     "character": "Apu's Mother",
+     "slug": "geeta-agrawal-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5Jrwb9zWG2Hjmf8PQLuDmCKnMHG.jpg"
+    },
+    {
+     "name": "Rajesh Kumar",
+     "character": "Daroga",
+     "slug": "rajesh-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vat8qbqIeumutuToGX0VrtA06M6.jpg"
+    },
+    {
+     "name": "Shreedhar Dubey",
+     "character": "Mukadam",
+     "slug": "shreedhar-dubey",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Jitendra Joshi",
+     "character": "Rajale",
+     "slug": "jitendra-joshi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rUtSbkJXDwk3jmLiO0Zt8oNgIMO.jpg"
+    },
+    {
+     "name": "Bullu Kumar",
+     "character": "Lalua - Goon 1",
+     "slug": "bullu-kumar",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Amit Rai",
+       "slug": "amit-rai"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Amit Rai",
+       "slug": "amit-rai"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Mangesh Dhakade",
+       "slug": "mangesh-dhakade"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Máté Herbai",
+       "slug": "mate-herbai"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Suvir Nath",
+       "slug": "suvir-nath"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Rajesh Bhardwaj",
+       "slug": "rajesh-bhardwaj"
+      },
+      {
+       "name": "Sana Warsi",
+       "slug": "sana-warsi"
+      },
+      {
+       "name": "Amit Rai",
+       "slug": "amit-rai"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Thinking Hats Entertainment",
+     "slug": "thinking-hats-entertainment",
+     "logo": null
+    },
+    {
+     "name": "Babulal Biscope",
+     "slug": "babulal-biscope",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-08-07": [
+     {
+      "id": 1215,
+      "title": "Thudakkam",
+      "img": "https://image.tmdb.org/t/p/original/hMS6YwXo1iw6vVZL53YwSf9MgVo.jpg"
+     },
+     {
+      "id": 1216,
+      "title": "DC",
+      "img": "https://image.tmdb.org/t/p/original/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg"
+     },
+     {
+      "id": 1218,
+      "title": "Vivaah",
+      "img": "https://image.tmdb.org/t/p/original/x0U4ZSi740GBPCBGJvh2k2mA3W8.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-08-07",
+     "gross": 29520,
+     "sold": 129,
+     "unsold": 241,
+     "shows": 3,
+     "occ": 34.86,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 29520,
+     "lastUpdatedAt": "2026-08-07 21:23:01"
+    },
+    {
+     "label": "2026-08-08",
+     "gross": 14480,
+     "sold": 62,
+     "unsold": 185,
+     "shows": 2,
+     "occ": 25.1,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 44000,
+     "lastUpdatedAt": "2026-08-08 21:28:01"
+    },
+    {
+     "label": "2026-08-09",
+     "gross": 11320,
+     "sold": 36,
+     "unsold": 107,
+     "shows": 1,
+     "occ": 25.17,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 55320,
+     "lastUpdatedAt": "2026-08-09 19:58:00"
+    },
+    {
+     "label": "2026-08-10",
+     "gross": 190,
+     "sold": 1,
+     "unsold": 106,
+     "shows": 1,
+     "occ": 0.93,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 55510,
+     "lastUpdatedAt": "2026-08-10 11:53:01"
+    },
+    {
+     "label": "2026-08-11",
+     "gross": 1748,
+     "sold": 19,
+     "unsold": 88,
+     "shows": 1,
+     "occ": 17.76,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 57258,
+     "lastUpdatedAt": "2026-08-11 11:53:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 57258,
+    "totalShows": 8,
+    "totalSeats": 974,
+    "totalSold": 247,
+    "avgOcc": "25.4",
+    "totalDays": 5,
+    "totalHousefull": 1,
+    "totalAlmost": 1,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 29520,
+     "date": "2026-08-07"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 29520,
+     "date": "2026-08-07"
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "5:1748:57258"
+  },
+  "week": {
+   "movie": {
+    "id": 1220,
+    "title": "Ohh My Dog",
+    "img": "https://image.tmdb.org/t/p/original/zzHV3rmS07lrFkcHXFx2J9JhZwJ.jpg",
+    "released": "2026-08-07",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt36626888",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "150 min",
+    "genre": "Drama, Family",
+    "plot": "In Assam, 14-year-old Apu embarks on a desperate quest to rescue his beloved dog, Momo, after he is kidnapped. Meanwhile, in Bihar, a devoted dog named Oscar sets out on a perilous journey of his own to find his kidnapped owner, a 15-year old.",
+    "released": "2026-08-06",
+    "director": "Amit Rai",
+    "directorSlug": "amit-rai",
+    "actors": [
+     "Maahi Rai",
+     "Pankaj Tripathi",
+     "Pavan Malhotra",
+     "Geeta Agrawal Sharma",
+     "Rajesh Kumar",
+     "Shreedhar Dubey"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "8.1",
+      "votes": 16984,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T13:10:18.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Maahi Rai",
+     "character": "Apu",
+     "slug": "maahi-rai",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Pankaj Tripathi",
+     "character": "Masterji",
+     "slug": "pankaj-tripathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f3Vxz0QB7PHeyPcXrfJX14Xkxnu.jpg"
+    },
+    {
+     "name": "Pavan Malhotra",
+     "character": "Akaljeet Sodhi",
+     "slug": "pavan-malhotra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aqTzRvGsujDgxoLbVEvVEZVTyNr.jpg"
+    },
+    {
+     "name": "Geeta Agrawal Sharma",
+     "character": "Apu's Mother",
+     "slug": "geeta-agrawal-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5Jrwb9zWG2Hjmf8PQLuDmCKnMHG.jpg"
+    },
+    {
+     "name": "Rajesh Kumar",
+     "character": "Daroga",
+     "slug": "rajesh-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vat8qbqIeumutuToGX0VrtA06M6.jpg"
+    },
+    {
+     "name": "Shreedhar Dubey",
+     "character": "Mukadam",
+     "slug": "shreedhar-dubey",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Jitendra Joshi",
+     "character": "Rajale",
+     "slug": "jitendra-joshi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rUtSbkJXDwk3jmLiO0Zt8oNgIMO.jpg"
+    },
+    {
+     "name": "Bullu Kumar",
+     "character": "Lalua - Goon 1",
+     "slug": "bullu-kumar",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Amit Rai",
+       "slug": "amit-rai"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Amit Rai",
+       "slug": "amit-rai"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Mangesh Dhakade",
+       "slug": "mangesh-dhakade"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Máté Herbai",
+       "slug": "mate-herbai"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Suvir Nath",
+       "slug": "suvir-nath"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Rajesh Bhardwaj",
+       "slug": "rajesh-bhardwaj"
+      },
+      {
+       "name": "Sana Warsi",
+       "slug": "sana-warsi"
+      },
+      {
+       "name": "Amit Rai",
+       "slug": "amit-rai"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Thinking Hats Entertainment",
+     "slug": "thinking-hats-entertainment",
+     "logo": null
+    },
+    {
+     "name": "Babulal Biscope",
+     "slug": "babulal-biscope",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-08-07": [
+     {
+      "id": 1215,
+      "title": "Thudakkam",
+      "img": "https://image.tmdb.org/t/p/original/hMS6YwXo1iw6vVZL53YwSf9MgVo.jpg"
+     },
+     {
+      "id": 1216,
+      "title": "DC",
+      "img": "https://image.tmdb.org/t/p/original/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg"
+     },
+     {
+      "id": 1218,
+      "title": "Vivaah",
+      "img": "https://image.tmdb.org/t/p/original/x0U4ZSi740GBPCBGJvh2k2mA3W8.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-08-07",
+     "gross": 57258,
+     "sold": 247,
+     "unsold": 727,
+     "shows": 8,
+     "occ": 25.36,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 57258,
+     "lastUpdatedAt": "2026-08-11 11:53:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 57258,
+    "totalShows": 8,
+    "totalSeats": 974,
+    "totalSold": 247,
+    "avgOcc": "25.4",
+    "totalDays": 1,
+    "totalHousefull": 1,
+    "totalAlmost": 1,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 57258
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 57258
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "1:57258:57258"
+  },
+  "district": {
+   "movie": {
+    "id": 1220,
+    "title": "Ohh My Dog",
+    "img": "https://image.tmdb.org/t/p/original/zzHV3rmS07lrFkcHXFx2J9JhZwJ.jpg",
+    "released": "2026-08-07",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt36626888",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "150 min",
+    "genre": "Drama, Family",
+    "plot": "In Assam, 14-year-old Apu embarks on a desperate quest to rescue his beloved dog, Momo, after he is kidnapped. Meanwhile, in Bihar, a devoted dog named Oscar sets out on a perilous journey of his own to find his kidnapped owner, a 15-year old.",
+    "released": "2026-08-06",
+    "director": "Amit Rai",
+    "directorSlug": "amit-rai",
+    "actors": [
+     "Maahi Rai",
+     "Pankaj Tripathi",
+     "Pavan Malhotra",
+     "Geeta Agrawal Sharma",
+     "Rajesh Kumar",
+     "Shreedhar Dubey"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "8.1",
+      "votes": 16984,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T13:10:18.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Maahi Rai",
+     "character": "Apu",
+     "slug": "maahi-rai",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Pankaj Tripathi",
+     "character": "Masterji",
+     "slug": "pankaj-tripathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f3Vxz0QB7PHeyPcXrfJX14Xkxnu.jpg"
+    },
+    {
+     "name": "Pavan Malhotra",
+     "character": "Akaljeet Sodhi",
+     "slug": "pavan-malhotra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aqTzRvGsujDgxoLbVEvVEZVTyNr.jpg"
+    },
+    {
+     "name": "Geeta Agrawal Sharma",
+     "character": "Apu's Mother",
+     "slug": "geeta-agrawal-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5Jrwb9zWG2Hjmf8PQLuDmCKnMHG.jpg"
+    },
+    {
+     "name": "Rajesh Kumar",
+     "character": "Daroga",
+     "slug": "rajesh-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vat8qbqIeumutuToGX0VrtA06M6.jpg"
+    },
+    {
+     "name": "Shreedhar Dubey",
+     "character": "Mukadam",
+     "slug": "shreedhar-dubey",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Jitendra Joshi",
+     "character": "Rajale",
+     "slug": "jitendra-joshi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rUtSbkJXDwk3jmLiO0Zt8oNgIMO.jpg"
+    },
+    {
+     "name": "Bullu Kumar",
+     "character": "Lalua - Goon 1",
+     "slug": "bullu-kumar",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Amit Rai",
+       "slug": "amit-rai"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Amit Rai",
+       "slug": "amit-rai"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Mangesh Dhakade",
+       "slug": "mangesh-dhakade"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Máté Herbai",
+       "slug": "mate-herbai"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Suvir Nath",
+       "slug": "suvir-nath"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Rajesh Bhardwaj",
+       "slug": "rajesh-bhardwaj"
+      },
+      {
+       "name": "Sana Warsi",
+       "slug": "sana-warsi"
+      },
+      {
+       "name": "Amit Rai",
+       "slug": "amit-rai"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Thinking Hats Entertainment",
+     "slug": "thinking-hats-entertainment",
+     "logo": null
+    },
+    {
+     "name": "Babulal Biscope",
+     "slug": "babulal-biscope",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-08-07": [
+     {
+      "id": 1215,
+      "title": "Thudakkam",
+      "img": "https://image.tmdb.org/t/p/original/hMS6YwXo1iw6vVZL53YwSf9MgVo.jpg"
+     },
+     {
+      "id": 1216,
+      "title": "DC",
+      "img": "https://image.tmdb.org/t/p/original/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg"
+     },
+     {
+      "id": 1218,
+      "title": "Vivaah",
+      "img": "https://image.tmdb.org/t/p/original/x0U4ZSi740GBPCBGJvh2k2mA3W8.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 56478,
+     "sold": 243,
+     "unsold": 610,
+     "shows": 7,
+     "occ": 28.49,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 56478,
+     "lastUpdatedAt": "2026-08-11 11:53:01"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 780,
+     "sold": 4,
+     "unsold": 117,
+     "shows": 1,
+     "occ": 3.31,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 57258,
+     "lastUpdatedAt": "2026-08-07 20:28:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 57258,
+    "totalShows": 8,
+    "totalSeats": 974,
+    "totalSold": 247,
+    "avgOcc": "25.4",
+    "totalDays": 2,
+    "totalHousefull": 1,
+    "totalAlmost": 1,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 56478,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 56478,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "2:780:57258"
+  }
+ }
+}

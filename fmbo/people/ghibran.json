@@ -1,0 +1,69 @@
+{
+ "slug": "ghibran",
+ "name": "Ghibran",
+ "source_url": "https://fridaymatinee.in/people/ghibran",
+ "captured_at": "2026-10-01T22:30:57.229469+00:00",
+ "person": {
+  "name": "Ghibran",
+  "photo": "https://image.tmdb.org/t/p/w185/yUg3hEphCxKntybImAANeCdOYKa.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 7
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 109,
+   "movie_slug": "valimai",
+   "title": "Valimai",
+   "year": 2022,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 271,
+   "movie_slug": "thunivu",
+   "title": "Thunivu",
+   "year": 2023,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 750,
+   "movie_slug": "dna",
+   "title": "DNA",
+   "year": 2025,
+   "kerala_gross": "₹8.8L"
+  },
+  {
+   "movie_id": 724,
+   "movie_slug": "jsk-janaki-v-vs-state-of-kerala",
+   "title": "Jsk - Janaki V Vs State Of Kerala",
+   "year": 2025,
+   "kerala_gross": "₹4.6 Cr"
+  },
+  {
+   "movie_id": 887,
+   "movie_slug": "aaryan",
+   "title": "Aaryan",
+   "year": 2025,
+   "kerala_gross": "₹49.7L"
+  },
+  {
+   "movie_id": 1052,
+   "movie_slug": "leader",
+   "title": "Leader",
+   "year": 2026,
+   "kerala_gross": "₹2.8L"
+  },
+  {
+   "movie_id": 1059,
+   "movie_slug": "biker",
+   "title": "Biker",
+   "year": 2026,
+   "kerala_gross": "₹1.3L"
+  }
+ ]
+}

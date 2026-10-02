@@ -1,0 +1,41 @@
+{
+ "slug": "deepu-pradeep",
+ "name": "Deepu Pradeep",
+ "source_url": "https://fridaymatinee.in/people/deepu-pradeep",
+ "captured_at": "2026-10-01T21:55:03.269988+00:00",
+ "person": {
+  "name": "Deepu Pradeep",
+  "photo": "https://image.tmdb.org/t/p/w185/mJzLg6C0j0zRXuAJObi7d5xnxFK.jpg",
+  "role": "Writer"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 73,
+   "movie_slug": "the-priest",
+   "title": "The Priest",
+   "year": 2021,
+   "kerala_gross": "₹5.8 Cr"
+  },
+  {
+   "movie_id": 402,
+   "movie_slug": "padmini",
+   "title": "Padmini",
+   "year": 2023,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 518,
+   "movie_slug": "guruvayoorambala-nadayil",
+   "title": "Guruvayoorambala Nadayil",
+   "year": 2024,
+   "kerala_gross": "₹39.9 Cr"
+  }
+ ]
+}

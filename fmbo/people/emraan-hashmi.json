@@ -1,0 +1,48 @@
+{
+ "slug": "emraan-hashmi",
+ "name": "Emraan Hashmi",
+ "source_url": "https://fridaymatinee.in/people/emraan-hashmi",
+ "captured_at": "2026-10-01T22:14:13.738229+00:00",
+ "person": {
+  "name": "Emraan Hashmi",
+  "photo": "https://image.tmdb.org/t/p/w185/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 459,
+   "movie_slug": "tiger-3",
+   "title": "Tiger 3",
+   "year": 2023,
+   "kerala_gross": "₹1.9 Cr"
+  },
+  {
+   "movie_id": 827,
+   "movie_slug": "they-call-him-og",
+   "title": "They Call Him OG",
+   "year": 2025,
+   "kerala_gross": "₹36.6L"
+  },
+  {
+   "movie_id": 909,
+   "movie_slug": "haq",
+   "title": "Haq",
+   "year": 2025,
+   "kerala_gross": "₹4.1L"
+  },
+  {
+   "movie_id": 1226,
+   "movie_slug": "awarapan-2",
+   "title": "Awarapan 2",
+   "year": 2026,
+   "kerala_gross": "₹25.6L"
+  }
+ ]
+}

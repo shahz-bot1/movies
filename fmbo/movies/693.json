@@ -1,0 +1,606 @@
+{
+ "id": 693,
+ "slug": "lovely",
+ "source_url": "https://fridaymatinee.in/boxoffice/lovely-693",
+ "captured_at": "2026-10-01T18:19:35.110004+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 693,
+    "title": "Lovely",
+    "img": "https://image.tmdb.org/t/p/original/7NERgkk39xP3q0XrP7rik4Cg1d5.jpg",
+    "released": "2025-05-16",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27917202",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "115 min",
+    "genre": "Fantasy, Comedy",
+    "plot": "A young man develops an unexpected friendship with a talking housefly.",
+    "released": "2025-05-16",
+    "director": "Dileesh Nair",
+    "directorSlug": "dileesh-nair",
+    "actors": [
+     "Mathew Thomas",
+     "Manoj K Jayan",
+     "Radhika Radhakrishnan",
+     "Aswathy Manoharan",
+     "Prasant Murali",
+     "Ashlin joseph"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.9",
+      "votes": 359,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:11:07.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mathew Thomas",
+     "character": "Boney Baby",
+     "slug": "mathew-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tynqqZ6LXz6TCDUWMG0xR4pNDkw.jpg"
+    },
+    {
+     "name": "Manoj K Jayan",
+     "character": "Judge",
+     "slug": "manoj-k-jayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jTKRE7c208lvZLNwrLtMleiV8DS.jpg"
+    },
+    {
+     "name": "Radhika Radhakrishnan",
+     "character": "Judge's Wife",
+     "slug": "radhika-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xQYytlP1GkKTjobLSxKI5VF6xcI.jpg"
+    },
+    {
+     "name": "Aswathy Manoharan",
+     "character": "Grace",
+     "slug": "aswathy-manoharan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1ZWHv3WJ3Ci0FjaJbKFvGEH2GGr.jpg"
+    },
+    {
+     "name": "Prasant Murali",
+     "character": "Shine",
+     "slug": "prasant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5RKRsWeZhVpe5KHahb5OI6oYXAg.jpg"
+    },
+    {
+     "name": "Ashlin joseph",
+     "character": "Mottu",
+     "slug": "ashlin-joseph",
+     "profile_picture_url": null
+    },
+    {
+     "name": "K.P.A.C Leela",
+     "character": "Judge's Mother",
+     "slug": "k-p-a-c-leela",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7sg6QKFPNwA3boiAevKu2KhjTim.jpg"
+    },
+    {
+     "name": "Ganga Meera",
+     "character": "Boney's Mother",
+     "slug": "ganga-meera",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wwJWbMN7p1AD42svmBcIFvIoxgb.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Dileesh Nair",
+       "slug": "dileesh-nair"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Dileesh Nair",
+       "slug": "dileesh-nair"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      },
+      {
+       "name": "Bijibal",
+       "slug": "bijibal"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Aashiq Abu",
+       "slug": "aashiq-abu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kiran Das",
+       "slug": "kiran-das"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sharanya Nair",
+       "slug": "sharanya-nair"
+      },
+      {
+       "name": "Dr. Amar Ramachandran",
+       "slug": "dr-amar-ramachandran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Western Ghats Productions",
+     "slug": "western-ghats-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-06-20",
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3704837.8000000003,
+    "totalShows": 1068,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1071947,
+     "date": "2025-05-16"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1071947,
+     "date": "2025-05-16"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-05-16"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 693,
+    "title": "Lovely",
+    "img": "https://image.tmdb.org/t/p/original/7NERgkk39xP3q0XrP7rik4Cg1d5.jpg",
+    "released": "2025-05-16",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27917202",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "115 min",
+    "genre": "Fantasy, Comedy",
+    "plot": "A young man develops an unexpected friendship with a talking housefly.",
+    "released": "2025-05-16",
+    "director": "Dileesh Nair",
+    "directorSlug": "dileesh-nair",
+    "actors": [
+     "Mathew Thomas",
+     "Manoj K Jayan",
+     "Radhika Radhakrishnan",
+     "Aswathy Manoharan",
+     "Prasant Murali",
+     "Ashlin joseph"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.9",
+      "votes": 359,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:11:07.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mathew Thomas",
+     "character": "Boney Baby",
+     "slug": "mathew-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tynqqZ6LXz6TCDUWMG0xR4pNDkw.jpg"
+    },
+    {
+     "name": "Manoj K Jayan",
+     "character": "Judge",
+     "slug": "manoj-k-jayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jTKRE7c208lvZLNwrLtMleiV8DS.jpg"
+    },
+    {
+     "name": "Radhika Radhakrishnan",
+     "character": "Judge's Wife",
+     "slug": "radhika-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xQYytlP1GkKTjobLSxKI5VF6xcI.jpg"
+    },
+    {
+     "name": "Aswathy Manoharan",
+     "character": "Grace",
+     "slug": "aswathy-manoharan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1ZWHv3WJ3Ci0FjaJbKFvGEH2GGr.jpg"
+    },
+    {
+     "name": "Prasant Murali",
+     "character": "Shine",
+     "slug": "prasant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5RKRsWeZhVpe5KHahb5OI6oYXAg.jpg"
+    },
+    {
+     "name": "Ashlin joseph",
+     "character": "Mottu",
+     "slug": "ashlin-joseph",
+     "profile_picture_url": null
+    },
+    {
+     "name": "K.P.A.C Leela",
+     "character": "Judge's Mother",
+     "slug": "k-p-a-c-leela",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7sg6QKFPNwA3boiAevKu2KhjTim.jpg"
+    },
+    {
+     "name": "Ganga Meera",
+     "character": "Boney's Mother",
+     "slug": "ganga-meera",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wwJWbMN7p1AD42svmBcIFvIoxgb.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Dileesh Nair",
+       "slug": "dileesh-nair"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Dileesh Nair",
+       "slug": "dileesh-nair"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      },
+      {
+       "name": "Bijibal",
+       "slug": "bijibal"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Aashiq Abu",
+       "slug": "aashiq-abu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kiran Das",
+       "slug": "kiran-das"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sharanya Nair",
+       "slug": "sharanya-nair"
+      },
+      {
+       "name": "Dr. Amar Ramachandran",
+       "slug": "dr-amar-ramachandran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Western Ghats Productions",
+     "slug": "western-ghats-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-06-20",
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2025-05-16",
+     "gross": 3618043.8000000003,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1049,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-05-23",
+     "gross": 86794,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 19,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3704837.8000000003,
+    "totalShows": 1068,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 3618043.8000000003
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3618043.8000000003
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-05-16"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 693,
+    "title": "Lovely",
+    "img": "https://image.tmdb.org/t/p/original/7NERgkk39xP3q0XrP7rik4Cg1d5.jpg",
+    "released": "2025-05-16",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27917202",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "115 min",
+    "genre": "Fantasy, Comedy",
+    "plot": "A young man develops an unexpected friendship with a talking housefly.",
+    "released": "2025-05-16",
+    "director": "Dileesh Nair",
+    "directorSlug": "dileesh-nair",
+    "actors": [
+     "Mathew Thomas",
+     "Manoj K Jayan",
+     "Radhika Radhakrishnan",
+     "Aswathy Manoharan",
+     "Prasant Murali",
+     "Ashlin joseph"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.9",
+      "votes": 359,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:11:07.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mathew Thomas",
+     "character": "Boney Baby",
+     "slug": "mathew-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tynqqZ6LXz6TCDUWMG0xR4pNDkw.jpg"
+    },
+    {
+     "name": "Manoj K Jayan",
+     "character": "Judge",
+     "slug": "manoj-k-jayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jTKRE7c208lvZLNwrLtMleiV8DS.jpg"
+    },
+    {
+     "name": "Radhika Radhakrishnan",
+     "character": "Judge's Wife",
+     "slug": "radhika-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xQYytlP1GkKTjobLSxKI5VF6xcI.jpg"
+    },
+    {
+     "name": "Aswathy Manoharan",
+     "character": "Grace",
+     "slug": "aswathy-manoharan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1ZWHv3WJ3Ci0FjaJbKFvGEH2GGr.jpg"
+    },
+    {
+     "name": "Prasant Murali",
+     "character": "Shine",
+     "slug": "prasant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5RKRsWeZhVpe5KHahb5OI6oYXAg.jpg"
+    },
+    {
+     "name": "Ashlin joseph",
+     "character": "Mottu",
+     "slug": "ashlin-joseph",
+     "profile_picture_url": null
+    },
+    {
+     "name": "K.P.A.C Leela",
+     "character": "Judge's Mother",
+     "slug": "k-p-a-c-leela",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7sg6QKFPNwA3boiAevKu2KhjTim.jpg"
+    },
+    {
+     "name": "Ganga Meera",
+     "character": "Boney's Mother",
+     "slug": "ganga-meera",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wwJWbMN7p1AD42svmBcIFvIoxgb.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Dileesh Nair",
+       "slug": "dileesh-nair"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Dileesh Nair",
+       "slug": "dileesh-nair"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      },
+      {
+       "name": "Bijibal",
+       "slug": "bijibal"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Aashiq Abu",
+       "slug": "aashiq-abu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kiran Das",
+       "slug": "kiran-das"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sharanya Nair",
+       "slug": "sharanya-nair"
+      },
+      {
+       "name": "Dr. Amar Ramachandran",
+       "slug": "dr-amar-ramachandran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Western Ghats Productions",
+     "slug": "western-ghats-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-06-20",
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3704837.8000000003,
+    "totalShows": 1068,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1014115,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1014115,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-05-16"
+   }
+  }
+ }
+}

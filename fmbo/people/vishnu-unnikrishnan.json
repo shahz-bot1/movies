@@ -1,0 +1,72 @@
+{
+ "slug": "vishnu-unnikrishnan",
+ "name": "Vishnu Unnikrishnan",
+ "source_url": "https://fridaymatinee.in/people/vishnu-unnikrishnan",
+ "captured_at": "2026-10-02T11:53:30.033531+00:00",
+ "person": {
+  "name": "Vishnu Unnikrishnan",
+  "photo": "https://image.tmdb.org/t/p/w185/mISo3eVkptL36FUsHfSgOkcWN3e.jpg",
+  "role": "Actor, director and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 980,
+   "movie_slug": "magic-mushrooms",
+   "title": "Magic Mushrooms",
+   "year": 2026,
+   "kerala_gross": "₹68.6L"
+  },
+  {
+   "movie_id": 1096,
+   "movie_slug": "revolver-rinko",
+   "title": "Revolver Rinko",
+   "year": 2026,
+   "kerala_gross": "₹25.9L"
+  },
+  {
+   "movie_id": 1257,
+   "movie_slug": "ottam-thullal",
+   "title": "Ottam Thullal",
+   "year": 2026,
+   "kerala_gross": "₹17.5L"
+  },
+  {
+   "movie_id": 55,
+   "movie_slug": "big-brother",
+   "title": "Big Brother ",
+   "year": 2020,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 289,
+   "movie_slug": "vedikkettu",
+   "title": "Vedikkettu",
+   "year": 2023,
+   "kerala_gross": "₹65.5L"
+  },
+  {
+   "movie_id": 1041,
+   "movie_slug": "bhishmar",
+   "title": "Bhishmar",
+   "year": 2026,
+   "kerala_gross": "₹35.8L"
+  }
+ ]
+}

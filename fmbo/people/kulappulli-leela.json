@@ -1,0 +1,41 @@
+{
+ "slug": "kulappulli-leela",
+ "name": "Kulappulli Leela",
+ "source_url": "https://fridaymatinee.in/people/kulappulli-leela",
+ "captured_at": "2026-10-01T23:54:30.413228+00:00",
+ "person": {
+  "name": "Kulappulli Leela",
+  "photo": "https://image.tmdb.org/t/p/w185/gLDNxSJVMZa8TuTqpE85SVYr8Zw.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 64,
+   "movie_slug": "master",
+   "title": "Master",
+   "year": 2021,
+   "kerala_gross": "₹4.1 Cr"
+  },
+  {
+   "movie_id": 604,
+   "movie_slug": "hello-mummy",
+   "title": "Hello Mummy",
+   "year": 2024,
+   "kerala_gross": "₹6.6 Cr"
+  },
+  {
+   "movie_id": 962,
+   "movie_slug": "parasakthi",
+   "title": "Parasakthi",
+   "year": 2026,
+   "kerala_gross": "₹1.2 Cr"
+  }
+ ]
+}

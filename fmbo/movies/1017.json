@@ -1,0 +1,950 @@
+{
+ "id": 1017,
+ "slug": "tu-yaa-main",
+ "source_url": "https://fridaymatinee.in/boxoffice/tu-yaa-main-1017",
+ "captured_at": "2026-10-01T18:54:54.426685+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1017,
+    "title": "Tu Yaa Main",
+    "img": "https://image.tmdb.org/t/p/original/nUPnA0I1MTaZRVCsUQc5DS5JA8W.jpg",
+    "released": "2026-02-13",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt36118360",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "145 min",
+    "genre": "Thriller, Romance",
+    "plot": "A wannabe rapper from the outskirts of Mumbai and an affluent influencer elope to a coastal town, only to find themselves trapped in the pool of a derelict resort fighting for survival against the wrath of a ferocious crocodile.",
+    "released": "2026-02-11",
+    "director": "Bejoy Nambiar",
+    "directorSlug": "bejoy-nambiar",
+    "actors": [
+     "Adarsh Gourav",
+     "Shanaya Kapoor",
+     "Kshitee Jog",
+     "Parul Gulati",
+     "Ansh Chopra",
+     "Amrutha Srinivasan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 7435,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.4",
+      "votes": 61,
+      "updatedAt": "2026-09-24T13:10:36.000Z"
+     },
+     "rt": "91%",
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Adarsh Gourav",
+     "character": "Maruti 'Aala Flowpara' Kadam",
+     "slug": "adarsh-gourav",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uVFCZpGPrtmBEZ64rPXwyRnusqV.jpg"
+    },
+    {
+     "name": "Shanaya Kapoor",
+     "character": "Avani 'Ms Vanity' Shah",
+     "slug": "shanaya-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xmjhU64kkNY8snbaad7L3Wx6OT1.jpg"
+    },
+    {
+     "name": "Kshitee Jog",
+     "character": "Mrs. Kadam",
+     "slug": "kshitee-jog",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iUnbW9eujjZXmn9Rd68lylIwjJl.jpg"
+    },
+    {
+     "name": "Parul Gulati",
+     "character": "Lyra",
+     "slug": "parul-gulati",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dfGqZ3SHwosbfILPEs6RiSi4SSf.jpg"
+    },
+    {
+     "name": "Ansh Chopra",
+     "character": "Purushottam 'Fabric' Damdere",
+     "slug": "ansh-chopra",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Amrutha Srinivasan",
+     "character": "Tara Shah",
+     "slug": "amrutha-srinivasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8EZS7YqMnav3FerG5gC1On85SHY.jpg"
+    },
+    {
+     "name": "Rajat Kaul",
+     "character": "Vikram",
+     "slug": "rajat-kaul",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Parvathy Thiruvothu",
+     "character": "Guest in Konkan Bay",
+     "slug": "parvathy-thiruvothu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eh1ObSspGzkA6GbrtRKPCvyFehl.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Bejoy Nambiar",
+       "slug": "bejoy-nambiar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Himanshu Sharma",
+       "slug": "himanshu-sharma-13091"
+      },
+      {
+       "name": "Abhishek Bandekar",
+       "slug": "abhishek-bandekar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Prateek Rajagopal",
+       "slug": "prateek-rajagopal"
+      },
+      {
+       "name": "Rai Harrie",
+       "slug": "rai-harrie"
+      },
+      {
+       "name": "Adarsh Gourav",
+       "slug": "adarsh-gourav"
+      },
+      {
+       "name": "Aditya N.",
+       "slug": "aditya-n"
+      },
+      {
+       "name": "Sajeel Kapoor",
+       "slug": "sajeel-kapoor"
+      },
+      {
+       "name": "Parag Deshmukh",
+       "slug": "parag-deshmukh"
+      },
+      {
+       "name": "Bappi Lahiri",
+       "slug": "bappi-lahiri"
+      },
+      {
+       "name": "Dhruv Visvanath",
+       "slug": "dhruv-visvanath"
+      },
+      {
+       "name": "Chaitanya Pandit",
+       "slug": "chaitanya-pandit"
+      },
+      {
+       "name": "Tushar Kunder",
+       "slug": "tushar-kunder"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Remy Dalai",
+       "slug": "remy-dalai"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Priyank Prem Kumar",
+       "slug": "priyank-prem-kumar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Aanand L. Rai",
+       "slug": "aanand-l-rai"
+      },
+      {
+       "name": "Himanshu Sharma",
+       "slug": "himanshu-sharma"
+      },
+      {
+       "name": "Vinod Bhanushali",
+       "slug": "vinod-bhanushali"
+      },
+      {
+       "name": "Kamlesh Bhanushali",
+       "slug": "kamlesh-bhanushali"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Colour Yellow Productions",
+     "slug": "colour-yellow-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/qFcZA3BpKxAsy8QBGlDVc9X1dDy.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-04-10",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-02-27": [
+     {
+      "id": 1019,
+      "title": "Hamnet",
+      "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+     },
+     {
+      "id": 1020,
+      "title": "Masthishka Maranam",
+      "img": "https://image.tmdb.org/t/p/original/tC6dhwbZ7LDCx9RyDNiPOaLvMId.jpg"
+     },
+     {
+      "id": 1022,
+      "title": "The Kerala Story 2 Goes Beyond",
+      "img": "https://image.tmdb.org/t/p/original/5btAk8YTRT3FLsqQBumN5eCk8xO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-02-23",
+     "gross": 5800,
+     "sold": 12,
+     "unsold": 46,
+     "shows": 1,
+     "occ": 20.69,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5800,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-24",
+     "gross": 4582,
+     "sold": 37,
+     "unsold": 106,
+     "shows": 1,
+     "occ": 25.87,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 10382,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-25",
+     "gross": 6400,
+     "sold": 32,
+     "unsold": 111,
+     "shows": 1,
+     "occ": 22.38,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 16782,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-27",
+     "gross": 2000,
+     "sold": 10,
+     "unsold": 97,
+     "shows": 1,
+     "occ": 9.35,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 18782,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-28",
+     "gross": 2400,
+     "sold": 12,
+     "unsold": 95,
+     "shows": 1,
+     "occ": 11.21,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 21182,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-01",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 107,
+     "shows": 1,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 21182,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-02",
+     "gross": 387,
+     "sold": 3,
+     "unsold": 104,
+     "shows": 1,
+     "occ": 2.8,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 21569,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-03",
+     "gross": 2484,
+     "sold": 27,
+     "unsold": 80,
+     "shows": 1,
+     "occ": 25.23,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 24053,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 24053,
+    "totalShows": 8,
+    "totalSeats": 879,
+    "totalSold": 133,
+    "avgOcc": "15.1",
+    "totalDays": 8,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 3,
+     "gross": 6400,
+     "date": "2026-02-25"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 5800,
+     "date": "2026-02-23"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "8:2484:24053"
+  },
+  "week": {
+   "movie": {
+    "id": 1017,
+    "title": "Tu Yaa Main",
+    "img": "https://image.tmdb.org/t/p/original/nUPnA0I1MTaZRVCsUQc5DS5JA8W.jpg",
+    "released": "2026-02-13",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt36118360",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "145 min",
+    "genre": "Thriller, Romance",
+    "plot": "A wannabe rapper from the outskirts of Mumbai and an affluent influencer elope to a coastal town, only to find themselves trapped in the pool of a derelict resort fighting for survival against the wrath of a ferocious crocodile.",
+    "released": "2026-02-11",
+    "director": "Bejoy Nambiar",
+    "directorSlug": "bejoy-nambiar",
+    "actors": [
+     "Adarsh Gourav",
+     "Shanaya Kapoor",
+     "Kshitee Jog",
+     "Parul Gulati",
+     "Ansh Chopra",
+     "Amrutha Srinivasan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 7435,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.4",
+      "votes": 61,
+      "updatedAt": "2026-09-24T13:10:36.000Z"
+     },
+     "rt": "91%",
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Adarsh Gourav",
+     "character": "Maruti 'Aala Flowpara' Kadam",
+     "slug": "adarsh-gourav",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uVFCZpGPrtmBEZ64rPXwyRnusqV.jpg"
+    },
+    {
+     "name": "Shanaya Kapoor",
+     "character": "Avani 'Ms Vanity' Shah",
+     "slug": "shanaya-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xmjhU64kkNY8snbaad7L3Wx6OT1.jpg"
+    },
+    {
+     "name": "Kshitee Jog",
+     "character": "Mrs. Kadam",
+     "slug": "kshitee-jog",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iUnbW9eujjZXmn9Rd68lylIwjJl.jpg"
+    },
+    {
+     "name": "Parul Gulati",
+     "character": "Lyra",
+     "slug": "parul-gulati",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dfGqZ3SHwosbfILPEs6RiSi4SSf.jpg"
+    },
+    {
+     "name": "Ansh Chopra",
+     "character": "Purushottam 'Fabric' Damdere",
+     "slug": "ansh-chopra",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Amrutha Srinivasan",
+     "character": "Tara Shah",
+     "slug": "amrutha-srinivasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8EZS7YqMnav3FerG5gC1On85SHY.jpg"
+    },
+    {
+     "name": "Rajat Kaul",
+     "character": "Vikram",
+     "slug": "rajat-kaul",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Parvathy Thiruvothu",
+     "character": "Guest in Konkan Bay",
+     "slug": "parvathy-thiruvothu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eh1ObSspGzkA6GbrtRKPCvyFehl.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Bejoy Nambiar",
+       "slug": "bejoy-nambiar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Himanshu Sharma",
+       "slug": "himanshu-sharma-13091"
+      },
+      {
+       "name": "Abhishek Bandekar",
+       "slug": "abhishek-bandekar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Prateek Rajagopal",
+       "slug": "prateek-rajagopal"
+      },
+      {
+       "name": "Rai Harrie",
+       "slug": "rai-harrie"
+      },
+      {
+       "name": "Adarsh Gourav",
+       "slug": "adarsh-gourav"
+      },
+      {
+       "name": "Aditya N.",
+       "slug": "aditya-n"
+      },
+      {
+       "name": "Sajeel Kapoor",
+       "slug": "sajeel-kapoor"
+      },
+      {
+       "name": "Parag Deshmukh",
+       "slug": "parag-deshmukh"
+      },
+      {
+       "name": "Bappi Lahiri",
+       "slug": "bappi-lahiri"
+      },
+      {
+       "name": "Dhruv Visvanath",
+       "slug": "dhruv-visvanath"
+      },
+      {
+       "name": "Chaitanya Pandit",
+       "slug": "chaitanya-pandit"
+      },
+      {
+       "name": "Tushar Kunder",
+       "slug": "tushar-kunder"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Remy Dalai",
+       "slug": "remy-dalai"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Priyank Prem Kumar",
+       "slug": "priyank-prem-kumar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Aanand L. Rai",
+       "slug": "aanand-l-rai"
+      },
+      {
+       "name": "Himanshu Sharma",
+       "slug": "himanshu-sharma"
+      },
+      {
+       "name": "Vinod Bhanushali",
+       "slug": "vinod-bhanushali"
+      },
+      {
+       "name": "Kamlesh Bhanushali",
+       "slug": "kamlesh-bhanushali"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Colour Yellow Productions",
+     "slug": "colour-yellow-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/qFcZA3BpKxAsy8QBGlDVc9X1dDy.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-04-10",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-02-27": [
+     {
+      "id": 1019,
+      "title": "Hamnet",
+      "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+     },
+     {
+      "id": 1020,
+      "title": "Masthishka Maranam",
+      "img": "https://image.tmdb.org/t/p/original/tC6dhwbZ7LDCx9RyDNiPOaLvMId.jpg"
+     },
+     {
+      "id": 1022,
+      "title": "The Kerala Story 2 Goes Beyond",
+      "img": "https://image.tmdb.org/t/p/original/5btAk8YTRT3FLsqQBumN5eCk8xO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-02-23",
+     "gross": 21182,
+     "sold": 103,
+     "unsold": 562,
+     "shows": 6,
+     "occ": 15.49,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 21182,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-02",
+     "gross": 2871,
+     "sold": 30,
+     "unsold": 184,
+     "shows": 2,
+     "occ": 14.02,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 24053,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 24053,
+    "totalShows": 8,
+    "totalSeats": 879,
+    "totalSold": 133,
+    "avgOcc": "15.1",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 21182
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 21182
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "2:2871:24053"
+  },
+  "district": {
+   "movie": {
+    "id": 1017,
+    "title": "Tu Yaa Main",
+    "img": "https://image.tmdb.org/t/p/original/nUPnA0I1MTaZRVCsUQc5DS5JA8W.jpg",
+    "released": "2026-02-13",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt36118360",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "145 min",
+    "genre": "Thriller, Romance",
+    "plot": "A wannabe rapper from the outskirts of Mumbai and an affluent influencer elope to a coastal town, only to find themselves trapped in the pool of a derelict resort fighting for survival against the wrath of a ferocious crocodile.",
+    "released": "2026-02-11",
+    "director": "Bejoy Nambiar",
+    "directorSlug": "bejoy-nambiar",
+    "actors": [
+     "Adarsh Gourav",
+     "Shanaya Kapoor",
+     "Kshitee Jog",
+     "Parul Gulati",
+     "Ansh Chopra",
+     "Amrutha Srinivasan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 7435,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.4",
+      "votes": 61,
+      "updatedAt": "2026-09-24T13:10:36.000Z"
+     },
+     "rt": "91%",
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Adarsh Gourav",
+     "character": "Maruti 'Aala Flowpara' Kadam",
+     "slug": "adarsh-gourav",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uVFCZpGPrtmBEZ64rPXwyRnusqV.jpg"
+    },
+    {
+     "name": "Shanaya Kapoor",
+     "character": "Avani 'Ms Vanity' Shah",
+     "slug": "shanaya-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xmjhU64kkNY8snbaad7L3Wx6OT1.jpg"
+    },
+    {
+     "name": "Kshitee Jog",
+     "character": "Mrs. Kadam",
+     "slug": "kshitee-jog",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iUnbW9eujjZXmn9Rd68lylIwjJl.jpg"
+    },
+    {
+     "name": "Parul Gulati",
+     "character": "Lyra",
+     "slug": "parul-gulati",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dfGqZ3SHwosbfILPEs6RiSi4SSf.jpg"
+    },
+    {
+     "name": "Ansh Chopra",
+     "character": "Purushottam 'Fabric' Damdere",
+     "slug": "ansh-chopra",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Amrutha Srinivasan",
+     "character": "Tara Shah",
+     "slug": "amrutha-srinivasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8EZS7YqMnav3FerG5gC1On85SHY.jpg"
+    },
+    {
+     "name": "Rajat Kaul",
+     "character": "Vikram",
+     "slug": "rajat-kaul",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Parvathy Thiruvothu",
+     "character": "Guest in Konkan Bay",
+     "slug": "parvathy-thiruvothu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eh1ObSspGzkA6GbrtRKPCvyFehl.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Bejoy Nambiar",
+       "slug": "bejoy-nambiar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Himanshu Sharma",
+       "slug": "himanshu-sharma-13091"
+      },
+      {
+       "name": "Abhishek Bandekar",
+       "slug": "abhishek-bandekar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Prateek Rajagopal",
+       "slug": "prateek-rajagopal"
+      },
+      {
+       "name": "Rai Harrie",
+       "slug": "rai-harrie"
+      },
+      {
+       "name": "Adarsh Gourav",
+       "slug": "adarsh-gourav"
+      },
+      {
+       "name": "Aditya N.",
+       "slug": "aditya-n"
+      },
+      {
+       "name": "Sajeel Kapoor",
+       "slug": "sajeel-kapoor"
+      },
+      {
+       "name": "Parag Deshmukh",
+       "slug": "parag-deshmukh"
+      },
+      {
+       "name": "Bappi Lahiri",
+       "slug": "bappi-lahiri"
+      },
+      {
+       "name": "Dhruv Visvanath",
+       "slug": "dhruv-visvanath"
+      },
+      {
+       "name": "Chaitanya Pandit",
+       "slug": "chaitanya-pandit"
+      },
+      {
+       "name": "Tushar Kunder",
+       "slug": "tushar-kunder"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Remy Dalai",
+       "slug": "remy-dalai"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Priyank Prem Kumar",
+       "slug": "priyank-prem-kumar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Aanand L. Rai",
+       "slug": "aanand-l-rai"
+      },
+      {
+       "name": "Himanshu Sharma",
+       "slug": "himanshu-sharma"
+      },
+      {
+       "name": "Vinod Bhanushali",
+       "slug": "vinod-bhanushali"
+      },
+      {
+       "name": "Kamlesh Bhanushali",
+       "slug": "kamlesh-bhanushali"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Colour Yellow Productions",
+     "slug": "colour-yellow-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/qFcZA3BpKxAsy8QBGlDVc9X1dDy.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-04-10",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-02-27": [
+     {
+      "id": 1019,
+      "title": "Hamnet",
+      "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+     },
+     {
+      "id": 1020,
+      "title": "Masthishka Maranam",
+      "img": "https://image.tmdb.org/t/p/original/tC6dhwbZ7LDCx9RyDNiPOaLvMId.jpg"
+     },
+     {
+      "id": 1022,
+      "title": "The Kerala Story 2 Goes Beyond",
+      "img": "https://image.tmdb.org/t/p/original/5btAk8YTRT3FLsqQBumN5eCk8xO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 24053,
+     "sold": 133,
+     "unsold": 746,
+     "shows": 8,
+     "occ": 15.13,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 24053,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 24053,
+    "totalShows": 8,
+    "totalSeats": 879,
+    "totalSold": 133,
+    "avgOcc": "15.1",
+    "totalDays": 1,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 24053,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 24053,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:24053:24053"
+  }
+ }
+}

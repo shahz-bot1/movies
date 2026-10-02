@@ -1,0 +1,629 @@
+{
+ "id": 293,
+ "slug": "spadikam",
+ "source_url": "https://fridaymatinee.in/boxoffice/spadikam-293",
+ "captured_at": "2026-10-01T18:09:07.029430+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 293,
+    "title": "Spadikam",
+    "img": "https://preview.redd.it/spadikam-4k-remastered-with-dolby-atmos-coming-very-soon-on-v0-vwuotdlgsru91.jpg?auto=webpu0026s=f2cd128f5db1ebb614d2f554443cafb6f7e76308",
+    "released": "2023-02-09",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt0292246",
+    "isRerelease": true
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "150 min",
+    "genre": "Action, Drama",
+    "plot": "Chacko master, a school headmaster, is never happy with his son, Thomas, and always degrades him. However, having had enough of him, Thomas runs away from home only to return as a gangster after long.",
+    "released": "1995-03-30",
+    "director": "Bhadran",
+    "directorSlug": "bhadran",
+    "actors": [
+     "Mohanlal",
+     "Thilakan",
+     "KPAC Lalitha",
+     "Rajan P Dev",
+     "Spadikam George",
+     "Urvashi"
+    ],
+    "awards": "4 wins",
+    "ratings": {
+     "imdb": {
+      "value": "8.6",
+      "votes": 7825,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Aadu Thoma / Thomas Chacko",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Thilakan",
+     "character": "Chacko Master",
+     "slug": "thilakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/guNMMzIzJ4L2GsQHXOJxesZTX73.jpg"
+    },
+    {
+     "name": "KPAC Lalitha",
+     "character": "Mary",
+     "slug": "kpac-lalitha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fmGcXMxnk8exC4pnJ76GrmsURdh.jpg"
+    },
+    {
+     "name": "Rajan P Dev",
+     "character": "Manimala Vakkachan",
+     "slug": "rajan-p-dev",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AnxJVFT3LnEOMzNhnR90zzASWVW.jpg"
+    },
+    {
+     "name": "Spadikam George",
+     "character": "Kuttikkadan",
+     "slug": "spadikam-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wbvGPkIAPoqQXHATtYEGIVq0kZZ.jpg"
+    },
+    {
+     "name": "Urvashi",
+     "character": "Thulasi",
+     "slug": "urvashi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s5q8iDWeZ8lVBtr87kBXS0S326H.jpg"
+    },
+    {
+     "name": "Chippy",
+     "character": "Jansy Chacko",
+     "slug": "chippy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hm4faTK2OhOtpryunafUM8H0gT6.jpg"
+    },
+    {
+     "name": "V K Sreeraman",
+     "character": "Pookoya",
+     "slug": "v-k-sreeraman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8MEJqSViAu86G4idARsNnpCU2hq.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Bhadran",
+       "slug": "bhadran"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Bhadran",
+       "slug": "bhadran"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "S.P. Venkatesh",
+       "slug": "s-p-venkatesh"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "S. Kumar",
+       "slug": "s-kumar"
+      },
+      {
+       "name": "J. Williams",
+       "slug": "j-williams"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "M. S. Mani",
+       "slug": "m-s-mani"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Shogun Films",
+     "slug": "shogun-films",
+     "logo": "https://image.tmdb.org/t/p/w185/5b8gXV6V4SpkxWGQxECZ5WZwQAK.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2059,
+      "name": "Eros Now Select Apple TV channel",
+      "logoPath": "/cPCFd2O8QYgEkYYZuhfkyFyv6Gn.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 20050261.64,
+    "totalShows": 2724,
+    "totalDays": 25,
+    "openingDay": {
+     "day": 1,
+     "gross": 5346077.03,
+     "date": "2023-02-09"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5346077.03,
+     "date": "2023-02-09"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 71,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-02-09"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 293,
+    "title": "Spadikam",
+    "img": "https://preview.redd.it/spadikam-4k-remastered-with-dolby-atmos-coming-very-soon-on-v0-vwuotdlgsru91.jpg?auto=webpu0026s=f2cd128f5db1ebb614d2f554443cafb6f7e76308",
+    "released": "2023-02-09",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt0292246",
+    "isRerelease": true
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "150 min",
+    "genre": "Action, Drama",
+    "plot": "Chacko master, a school headmaster, is never happy with his son, Thomas, and always degrades him. However, having had enough of him, Thomas runs away from home only to return as a gangster after long.",
+    "released": "1995-03-30",
+    "director": "Bhadran",
+    "directorSlug": "bhadran",
+    "actors": [
+     "Mohanlal",
+     "Thilakan",
+     "KPAC Lalitha",
+     "Rajan P Dev",
+     "Spadikam George",
+     "Urvashi"
+    ],
+    "awards": "4 wins",
+    "ratings": {
+     "imdb": {
+      "value": "8.6",
+      "votes": 7825,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Aadu Thoma / Thomas Chacko",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Thilakan",
+     "character": "Chacko Master",
+     "slug": "thilakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/guNMMzIzJ4L2GsQHXOJxesZTX73.jpg"
+    },
+    {
+     "name": "KPAC Lalitha",
+     "character": "Mary",
+     "slug": "kpac-lalitha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fmGcXMxnk8exC4pnJ76GrmsURdh.jpg"
+    },
+    {
+     "name": "Rajan P Dev",
+     "character": "Manimala Vakkachan",
+     "slug": "rajan-p-dev",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AnxJVFT3LnEOMzNhnR90zzASWVW.jpg"
+    },
+    {
+     "name": "Spadikam George",
+     "character": "Kuttikkadan",
+     "slug": "spadikam-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wbvGPkIAPoqQXHATtYEGIVq0kZZ.jpg"
+    },
+    {
+     "name": "Urvashi",
+     "character": "Thulasi",
+     "slug": "urvashi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s5q8iDWeZ8lVBtr87kBXS0S326H.jpg"
+    },
+    {
+     "name": "Chippy",
+     "character": "Jansy Chacko",
+     "slug": "chippy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hm4faTK2OhOtpryunafUM8H0gT6.jpg"
+    },
+    {
+     "name": "V K Sreeraman",
+     "character": "Pookoya",
+     "slug": "v-k-sreeraman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8MEJqSViAu86G4idARsNnpCU2hq.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Bhadran",
+       "slug": "bhadran"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Bhadran",
+       "slug": "bhadran"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "S.P. Venkatesh",
+       "slug": "s-p-venkatesh"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "S. Kumar",
+       "slug": "s-kumar"
+      },
+      {
+       "name": "J. Williams",
+       "slug": "j-williams"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "M. S. Mani",
+       "slug": "m-s-mani"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Shogun Films",
+     "slug": "shogun-films",
+     "logo": "https://image.tmdb.org/t/p/w185/5b8gXV6V4SpkxWGQxECZ5WZwQAK.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2059,
+      "name": "Eros Now Select Apple TV channel",
+      "logoPath": "/cPCFd2O8QYgEkYYZuhfkyFyv6Gn.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-02-09",
+     "gross": 17345769.929999996,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2049,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-02-16",
+     "gross": 2475853.71,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 611,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-02-23",
+     "gross": 191088,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 59,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-03-02",
+     "gross": 37550,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 20050261.639999997,
+    "totalShows": 2724,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 17345769.929999996
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 17345769.929999996
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 71,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-02-09"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 293,
+    "title": "Spadikam",
+    "img": "https://preview.redd.it/spadikam-4k-remastered-with-dolby-atmos-coming-very-soon-on-v0-vwuotdlgsru91.jpg?auto=webpu0026s=f2cd128f5db1ebb614d2f554443cafb6f7e76308",
+    "released": "2023-02-09",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt0292246",
+    "isRerelease": true
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "150 min",
+    "genre": "Action, Drama",
+    "plot": "Chacko master, a school headmaster, is never happy with his son, Thomas, and always degrades him. However, having had enough of him, Thomas runs away from home only to return as a gangster after long.",
+    "released": "1995-03-30",
+    "director": "Bhadran",
+    "directorSlug": "bhadran",
+    "actors": [
+     "Mohanlal",
+     "Thilakan",
+     "KPAC Lalitha",
+     "Rajan P Dev",
+     "Spadikam George",
+     "Urvashi"
+    ],
+    "awards": "4 wins",
+    "ratings": {
+     "imdb": {
+      "value": "8.6",
+      "votes": 7825,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Aadu Thoma / Thomas Chacko",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Thilakan",
+     "character": "Chacko Master",
+     "slug": "thilakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/guNMMzIzJ4L2GsQHXOJxesZTX73.jpg"
+    },
+    {
+     "name": "KPAC Lalitha",
+     "character": "Mary",
+     "slug": "kpac-lalitha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fmGcXMxnk8exC4pnJ76GrmsURdh.jpg"
+    },
+    {
+     "name": "Rajan P Dev",
+     "character": "Manimala Vakkachan",
+     "slug": "rajan-p-dev",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AnxJVFT3LnEOMzNhnR90zzASWVW.jpg"
+    },
+    {
+     "name": "Spadikam George",
+     "character": "Kuttikkadan",
+     "slug": "spadikam-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wbvGPkIAPoqQXHATtYEGIVq0kZZ.jpg"
+    },
+    {
+     "name": "Urvashi",
+     "character": "Thulasi",
+     "slug": "urvashi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s5q8iDWeZ8lVBtr87kBXS0S326H.jpg"
+    },
+    {
+     "name": "Chippy",
+     "character": "Jansy Chacko",
+     "slug": "chippy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hm4faTK2OhOtpryunafUM8H0gT6.jpg"
+    },
+    {
+     "name": "V K Sreeraman",
+     "character": "Pookoya",
+     "slug": "v-k-sreeraman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8MEJqSViAu86G4idARsNnpCU2hq.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Bhadran",
+       "slug": "bhadran"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Bhadran",
+       "slug": "bhadran"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "S.P. Venkatesh",
+       "slug": "s-p-venkatesh"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "S. Kumar",
+       "slug": "s-kumar"
+      },
+      {
+       "name": "J. Williams",
+       "slug": "j-williams"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "M. S. Mani",
+       "slug": "m-s-mani"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Shogun Films",
+     "slug": "shogun-films",
+     "logo": "https://image.tmdb.org/t/p/w185/5b8gXV6V4SpkxWGQxECZ5WZwQAK.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2059,
+      "name": "Eros Now Select Apple TV channel",
+      "logoPath": "/cPCFd2O8QYgEkYYZuhfkyFyv6Gn.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 20050261.64,
+    "totalShows": 2724,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 3703195,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3703195,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 71,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-02-09"
+   }
+  }
+ }
+}

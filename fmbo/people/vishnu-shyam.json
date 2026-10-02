@@ -1,0 +1,55 @@
+{
+ "slug": "vishnu-shyam",
+ "name": "Vishnu Shyam",
+ "source_url": "https://fridaymatinee.in/people/vishnu-shyam",
+ "captured_at": "2026-10-02T11:53:17.823267+00:00",
+ "person": {
+  "name": "Vishnu Shyam",
+  "photo": null,
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 236,
+   "movie_slug": "kooman",
+   "title": "Kooman",
+   "year": 2022,
+   "kerala_gross": "₹6.8 Cr"
+  },
+  {
+   "movie_id": 481,
+   "movie_slug": "neru",
+   "title": "Neru",
+   "year": 2023,
+   "kerala_gross": "₹35.9 Cr"
+  },
+  {
+   "movie_id": 550,
+   "movie_slug": "nunakkuzhi",
+   "title": "Nunakkuzhi",
+   "year": 2024,
+   "kerala_gross": "₹11.0 Cr"
+  },
+  {
+   "movie_id": 821,
+   "movie_slug": "mirage",
+   "title": "Mirage",
+   "year": 2025,
+   "kerala_gross": "₹5.2 Cr"
+  },
+  {
+   "movie_id": 886,
+   "movie_slug": "valathu-vashathe-kallan",
+   "title": "Valathu Vashathe Kallan",
+   "year": 2026,
+   "kerala_gross": "₹4.3 Cr"
+  }
+ ]
+}

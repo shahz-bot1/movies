@@ -1,0 +1,58 @@
+{
+ "slug": "vipin-das",
+ "name": "Vipin Das",
+ "source_url": "https://fridaymatinee.in/people/vipin-das",
+ "captured_at": "2026-10-02T11:49:45.338990+00:00",
+ "person": {
+  "name": "Vipin Das",
+  "photo": "https://image.tmdb.org/t/p/w185/nSvwYnZT6DgSJMJBR9qgF3AP4kg.jpg",
+  "role": "Producer, director and writer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 2
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 549,
+   "movie_slug": "vaazha",
+   "title": "Vaazha",
+   "year": 2024,
+   "kerala_gross": "₹24.4 Cr"
+  },
+  {
+   "movie_id": 704,
+   "movie_slug": "vysanasametham-bandhumithradhikal",
+   "title": "Vysanasametham Bandhumithradhikal",
+   "year": 2025,
+   "kerala_gross": "₹5.1 Cr"
+  },
+  {
+   "movie_id": 1048,
+   "movie_slug": "vaazha-ii",
+   "title": "Vaazha II",
+   "year": 2026,
+   "kerala_gross": "₹119.7 Cr"
+  },
+  {
+   "movie_id": 232,
+   "movie_slug": "jaya-jaya-jaya-jaya-hey",
+   "title": "Jaya Jaya Jaya Jaya Hey",
+   "year": 2022,
+   "kerala_gross": "₹21.4 Cr"
+  }
+ ]
+}

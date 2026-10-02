@@ -1,0 +1,48 @@
+{
+ "slug": "vivek-oberoi",
+ "name": "Vivek Oberoi",
+ "source_url": "https://fridaymatinee.in/people/vivek-oberoi",
+ "captured_at": "2026-10-02T11:54:37.912877+00:00",
+ "person": {
+  "name": "Vivek Oberoi",
+  "photo": "https://image.tmdb.org/t/p/w185/60T3Q8CsxF4kF6RIHZ1yis2Q0wA.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 160,
+   "movie_slug": "kaduva",
+   "title": "Kaduva",
+   "year": 2022,
+   "kerala_gross": "₹17.0 Cr"
+  },
+  {
+   "movie_id": 667,
+   "movie_slug": "lucifer",
+   "title": "Lucifer",
+   "year": 2025,
+   "kerala_gross": "₹32.3L"
+  },
+  {
+   "movie_id": 920,
+   "movie_slug": "mastiii-4",
+   "title": "Mastiii 4",
+   "year": 2025,
+   "kerala_gross": "₹4.4L"
+  },
+  {
+   "movie_id": 966,
+   "movie_slug": "spirit",
+   "title": "Spirit",
+   "year": 2027,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

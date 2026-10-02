@@ -1,0 +1,41 @@
+{
+ "slug": "jaani",
+ "name": "Jaani",
+ "source_url": "https://fridaymatinee.in/people/jaani",
+ "captured_at": "2026-10-01T22:56:10.449775+00:00",
+ "person": {
+  "name": "Jaani",
+  "photo": "https://image.tmdb.org/t/p/w185/pdt6M14SdqTuyqwdieKe9vwD4tt.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 468,
+   "movie_slug": "animal",
+   "title": "Animal",
+   "year": 2023,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 782,
+   "movie_slug": "son-of-sardaar-2",
+   "title": "Son of Sardaar 2",
+   "year": 2025,
+   "kerala_gross": "₹6.4L"
+  },
+  {
+   "movie_id": 915,
+   "movie_slug": "de-de-pyaar-de-2",
+   "title": "De De Pyaar De 2",
+   "year": 2025,
+   "kerala_gross": "₹11.5L"
+  }
+ ]
+}

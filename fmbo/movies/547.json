@@ -1,0 +1,680 @@
+{
+ "id": 547,
+ "slug": "raayan",
+ "source_url": "https://fridaymatinee.in/boxoffice/raayan-547",
+ "captured_at": "2026-10-01T18:15:03.274528+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 547,
+    "title": "Raayan",
+    "img": "https://image.tmdb.org/t/p/original/vKqZYDIWJMcnOmu7GjGgsLIeCVt.jpg",
+    "released": "2024-07-26",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26233598",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "143 min",
+    "genre": "Action, Drama, Thriller",
+    "plot": "Raayan, a simpleton patriarch has to protect his family when they inadvertently get muddled in a violent world with whirlpool of murder, debauchery, feud, politics and power, a quagmire that he has repeatedly warned them not to get pulled into.",
+    "released": "2024-07-26",
+    "director": "Dhanush",
+    "directorSlug": "dhanush",
+    "actors": [
+     "Dhanush",
+     "Dushara Vijayan",
+     "Sundeep Kishan",
+     "Kalidas Jayaram",
+     "S. J. Suryah",
+     "Selvaraghavan"
+    ],
+    "awards": "1 win u0026 5 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 14106,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dhanush",
+     "character": "Kathavaraayan 'Raayan'",
+     "slug": "dhanush",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7bI9oy1BXIk58hsOK8WfN5g0i1P.jpg"
+    },
+    {
+     "name": "Dushara Vijayan",
+     "character": "Durga",
+     "slug": "dushara-vijayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5C5V9qdYil7LVCp8LqctZCEsu1n.jpg"
+    },
+    {
+     "name": "Sundeep Kishan",
+     "character": "Muthuvelraayan 'Muthu'",
+     "slug": "sundeep-kishan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qUGN6rvwu9Qef3DGenha2pIEpNY.jpg"
+    },
+    {
+     "name": "Kalidas Jayaram",
+     "character": "Manickavelraayan 'Manickam'",
+     "slug": "kalidas-jayaram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hwGNxY71w6MWmULoHvhPBWtgmVw.jpg"
+    },
+    {
+     "name": "S. J. Suryah",
+     "character": "Sethuraman 'Sethu'",
+     "slug": "s-j-suryah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7Q8510XwxPU1193cteaFQsiq2rv.jpg"
+    },
+    {
+     "name": "Selvaraghavan",
+     "character": "Sekhar",
+     "slug": "selvaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iTEdyvN5XoB0fl6kMg0tChBY4Ml.jpg"
+    },
+    {
+     "name": "Aparna Balamurali",
+     "character": "Mekhala",
+     "slug": "aparna-balamurali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8IdA0YxPHttgDQCi09pE28LWw0E.jpg"
+    },
+    {
+     "name": "Prakash Raj",
+     "character": "R. Sargunam",
+     "slug": "prakash-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Dhanush",
+       "slug": "dhanush"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Dhanush",
+       "slug": "dhanush"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "A.R. Rahman",
+       "slug": "a-r-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Om Prakash",
+       "slug": "om-prakash"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Prasanna GK",
+       "slug": "prasanna-gk"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kalanithi Maran",
+       "slug": "kalanithi-maran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sun Pictures",
+     "slug": "sun-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8KsxNPnM0y9Dk3fOcHqKUDw2XUs.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-08-23",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 43837270.19999999,
+    "totalShows": 8452,
+    "totalDays": 28,
+    "openingDay": {
+     "day": 1,
+     "gross": 7661981.6,
+     "date": "2024-07-26"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 7661981.6,
+     "date": "2024-07-26"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 83,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-07-26"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 547,
+    "title": "Raayan",
+    "img": "https://image.tmdb.org/t/p/original/vKqZYDIWJMcnOmu7GjGgsLIeCVt.jpg",
+    "released": "2024-07-26",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26233598",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "143 min",
+    "genre": "Action, Drama, Thriller",
+    "plot": "Raayan, a simpleton patriarch has to protect his family when they inadvertently get muddled in a violent world with whirlpool of murder, debauchery, feud, politics and power, a quagmire that he has repeatedly warned them not to get pulled into.",
+    "released": "2024-07-26",
+    "director": "Dhanush",
+    "directorSlug": "dhanush",
+    "actors": [
+     "Dhanush",
+     "Dushara Vijayan",
+     "Sundeep Kishan",
+     "Kalidas Jayaram",
+     "S. J. Suryah",
+     "Selvaraghavan"
+    ],
+    "awards": "1 win u0026 5 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 14106,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dhanush",
+     "character": "Kathavaraayan 'Raayan'",
+     "slug": "dhanush",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7bI9oy1BXIk58hsOK8WfN5g0i1P.jpg"
+    },
+    {
+     "name": "Dushara Vijayan",
+     "character": "Durga",
+     "slug": "dushara-vijayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5C5V9qdYil7LVCp8LqctZCEsu1n.jpg"
+    },
+    {
+     "name": "Sundeep Kishan",
+     "character": "Muthuvelraayan 'Muthu'",
+     "slug": "sundeep-kishan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qUGN6rvwu9Qef3DGenha2pIEpNY.jpg"
+    },
+    {
+     "name": "Kalidas Jayaram",
+     "character": "Manickavelraayan 'Manickam'",
+     "slug": "kalidas-jayaram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hwGNxY71w6MWmULoHvhPBWtgmVw.jpg"
+    },
+    {
+     "name": "S. J. Suryah",
+     "character": "Sethuraman 'Sethu'",
+     "slug": "s-j-suryah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7Q8510XwxPU1193cteaFQsiq2rv.jpg"
+    },
+    {
+     "name": "Selvaraghavan",
+     "character": "Sekhar",
+     "slug": "selvaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iTEdyvN5XoB0fl6kMg0tChBY4Ml.jpg"
+    },
+    {
+     "name": "Aparna Balamurali",
+     "character": "Mekhala",
+     "slug": "aparna-balamurali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8IdA0YxPHttgDQCi09pE28LWw0E.jpg"
+    },
+    {
+     "name": "Prakash Raj",
+     "character": "R. Sargunam",
+     "slug": "prakash-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Dhanush",
+       "slug": "dhanush"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Dhanush",
+       "slug": "dhanush"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "A.R. Rahman",
+       "slug": "a-r-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Om Prakash",
+       "slug": "om-prakash"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Prasanna GK",
+       "slug": "prasanna-gk"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kalanithi Maran",
+       "slug": "kalanithi-maran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sun Pictures",
+     "slug": "sun-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8KsxNPnM0y9Dk3fOcHqKUDw2XUs.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-08-23",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-07-26",
+     "gross": 30148481.000000007,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4694,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-08-02",
+     "gross": 10440304.399999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2735,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-08-09",
+     "gross": 3104398.8,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 939,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-08-16",
+     "gross": 144086,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 84,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 43837270.2,
+    "totalShows": 8452,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 30148481.000000007
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 30148481.000000007
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 83,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-07-26"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 547,
+    "title": "Raayan",
+    "img": "https://image.tmdb.org/t/p/original/vKqZYDIWJMcnOmu7GjGgsLIeCVt.jpg",
+    "released": "2024-07-26",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26233598",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "143 min",
+    "genre": "Action, Drama, Thriller",
+    "plot": "Raayan, a simpleton patriarch has to protect his family when they inadvertently get muddled in a violent world with whirlpool of murder, debauchery, feud, politics and power, a quagmire that he has repeatedly warned them not to get pulled into.",
+    "released": "2024-07-26",
+    "director": "Dhanush",
+    "directorSlug": "dhanush",
+    "actors": [
+     "Dhanush",
+     "Dushara Vijayan",
+     "Sundeep Kishan",
+     "Kalidas Jayaram",
+     "S. J. Suryah",
+     "Selvaraghavan"
+    ],
+    "awards": "1 win u0026 5 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 14106,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dhanush",
+     "character": "Kathavaraayan 'Raayan'",
+     "slug": "dhanush",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7bI9oy1BXIk58hsOK8WfN5g0i1P.jpg"
+    },
+    {
+     "name": "Dushara Vijayan",
+     "character": "Durga",
+     "slug": "dushara-vijayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5C5V9qdYil7LVCp8LqctZCEsu1n.jpg"
+    },
+    {
+     "name": "Sundeep Kishan",
+     "character": "Muthuvelraayan 'Muthu'",
+     "slug": "sundeep-kishan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qUGN6rvwu9Qef3DGenha2pIEpNY.jpg"
+    },
+    {
+     "name": "Kalidas Jayaram",
+     "character": "Manickavelraayan 'Manickam'",
+     "slug": "kalidas-jayaram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hwGNxY71w6MWmULoHvhPBWtgmVw.jpg"
+    },
+    {
+     "name": "S. J. Suryah",
+     "character": "Sethuraman 'Sethu'",
+     "slug": "s-j-suryah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7Q8510XwxPU1193cteaFQsiq2rv.jpg"
+    },
+    {
+     "name": "Selvaraghavan",
+     "character": "Sekhar",
+     "slug": "selvaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iTEdyvN5XoB0fl6kMg0tChBY4Ml.jpg"
+    },
+    {
+     "name": "Aparna Balamurali",
+     "character": "Mekhala",
+     "slug": "aparna-balamurali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8IdA0YxPHttgDQCi09pE28LWw0E.jpg"
+    },
+    {
+     "name": "Prakash Raj",
+     "character": "R. Sargunam",
+     "slug": "prakash-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Dhanush",
+       "slug": "dhanush"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Dhanush",
+       "slug": "dhanush"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "A.R. Rahman",
+       "slug": "a-r-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Om Prakash",
+       "slug": "om-prakash"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Prasanna GK",
+       "slug": "prasanna-gk"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kalanithi Maran",
+       "slug": "kalanithi-maran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sun Pictures",
+     "slug": "sun-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8KsxNPnM0y9Dk3fOcHqKUDw2XUs.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-08-23",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 43837270.199999996,
+    "totalShows": 8452,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 11907743,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 11907743,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 83,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-07-26"
+   }
+  }
+ }
+}

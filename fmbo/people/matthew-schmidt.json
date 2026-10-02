@@ -1,0 +1,48 @@
+{
+ "slug": "matthew-schmidt",
+ "name": "Matthew Schmidt",
+ "source_url": "https://fridaymatinee.in/people/matthew-schmidt",
+ "captured_at": "2026-10-02T00:29:51.803498+00:00",
+ "person": {
+  "name": "Matthew Schmidt",
+  "photo": null,
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 158,
+   "movie_slug": "thor-love-and-thunder",
+   "title": "Thor Love and Thunder",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 217,
+   "movie_slug": "captain-america-brave-new-world",
+   "title": "Captain America: Brave New World",
+   "year": 2025,
+   "kerala_gross": "₹49.0L"
+  },
+  {
+   "movie_id": 1288,
+   "movie_slug": "avengers-endgame-encore",
+   "title": "Avengers Endgame: Encore",
+   "year": 2026,
+   "kerala_gross": "₹2.3 Cr"
+  },
+  {
+   "movie_id": 794,
+   "movie_slug": "avengers-doomsday",
+   "title": "Avengers: Doomsday",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

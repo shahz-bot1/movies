@@ -1,0 +1,773 @@
+{
+ "id": 741,
+ "slug": "weapons",
+ "source_url": "https://fridaymatinee.in/boxoffice/weapons-741",
+ "captured_at": "2026-10-01T18:20:51.828007+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 741,
+    "title": "Weapons",
+    "img": "https://image.tmdb.org/t/p/original/yrNqjlabBhEpB5tFCysWtnMx5C5.jpg",
+    "released": "2025-08-08",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26581740",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "129 min",
+    "genre": "Horror, Mystery",
+    "plot": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "released": "2025-08-04",
+    "director": "Zach Cregger",
+    "directorSlug": "zach-cregger",
+    "actors": [
+     "Julia Garner",
+     "Josh Brolin",
+     "Alden Ehrenreich",
+     "Austin Abrams",
+     "Benedict Wong",
+     "Amy Madigan"
+    ],
+    "awards": "Nominated for 1 Oscar. 46 wins u0026 114 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.4",
+      "votes": 403556,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 3970,
+      "updatedAt": "2026-09-24T16:10:54.000Z"
+     },
+     "rt": "93%",
+     "metascore": 81,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Julia Garner",
+     "character": "Justine",
+     "slug": "julia-garner",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ud1RXbvW70J89iqeic7no8olxvb.jpg"
+    },
+    {
+     "name": "Josh Brolin",
+     "character": "Archer",
+     "slug": "josh-brolin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+     "name": "Alden Ehrenreich",
+     "character": "Paul",
+     "slug": "alden-ehrenreich",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2Ed8m1GmrElvtIQwX2K1CaAW7t5.jpg"
+    },
+    {
+     "name": "Austin Abrams",
+     "character": "James",
+     "slug": "austin-abrams",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gG4KsGZDw3tO2R66cn9VdOo8uSu.jpg"
+    },
+    {
+     "name": "Benedict Wong",
+     "character": "Marcus",
+     "slug": "benedict-wong",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+    },
+    {
+     "name": "Amy Madigan",
+     "character": "Gladys",
+     "slug": "amy-madigan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xgtQOuPAmQZXWUO2PXetNpXm08A.jpg"
+    },
+    {
+     "name": "Cary Christopher",
+     "character": "Alex",
+     "slug": "cary-christopher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3ATVXSp6iPM9SaKUvQhI9tfGA5M.jpg"
+    },
+    {
+     "name": "Toby Huss",
+     "character": "Captain Ed",
+     "slug": "toby-huss",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dUqygHlDDnOBZLnE51MPJHkHWvQ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Zach Cregger",
+       "slug": "zach-cregger"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Zach Cregger",
+       "slug": "zach-cregger"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Zach Cregger",
+       "slug": "zach-cregger"
+      },
+      {
+       "name": "Ryan Holladay",
+       "slug": "ryan-holladay"
+      },
+      {
+       "name": "Hays Holladay",
+       "slug": "hays-holladay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Larkin Seiple",
+       "slug": "larkin-seiple"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Joe Murphy",
+       "slug": "joe-murphy"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Zach Cregger",
+       "slug": "zach-cregger"
+      },
+      {
+       "name": "Raphael Margules",
+       "slug": "raphael-margules"
+      },
+      {
+       "name": "J.D. Lifshitz",
+       "slug": "j-d-lifshitz"
+      },
+      {
+       "name": "Roy Lee",
+       "slug": "roy-lee"
+      },
+      {
+       "name": "Miri Yoon",
+       "slug": "miri-yoon"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "New Line Cinema",
+     "slug": "new-line-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/2ycs64eqV5rqKYHyQK0GVoKGvfX.png"
+    },
+    {
+     "name": "Subconscious",
+     "slug": "subconscious",
+     "logo": "https://image.tmdb.org/t/p/w185/qBN0r3EbLfDwANllIHmQtSRTBaP.png"
+    },
+    {
+     "name": "Vertigo Entertainment",
+     "slug": "vertigo-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/iJo9zP5QCKyBsmKSOcvXd6UDNih.png"
+    },
+    {
+     "name": "BoulderLight Pictures",
+     "slug": "boulderlight-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/pxtYCfl1DWzvizqZcYwE4NefOOF.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-08",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2697057,
+    "totalShows": 370,
+    "totalDays": 28,
+    "openingDay": {
+     "day": 1,
+     "gross": 195687,
+     "date": "2025-08-08"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 345834,
+     "date": "2025-08-10"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-08"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 741,
+    "title": "Weapons",
+    "img": "https://image.tmdb.org/t/p/original/yrNqjlabBhEpB5tFCysWtnMx5C5.jpg",
+    "released": "2025-08-08",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26581740",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "129 min",
+    "genre": "Horror, Mystery",
+    "plot": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "released": "2025-08-04",
+    "director": "Zach Cregger",
+    "directorSlug": "zach-cregger",
+    "actors": [
+     "Julia Garner",
+     "Josh Brolin",
+     "Alden Ehrenreich",
+     "Austin Abrams",
+     "Benedict Wong",
+     "Amy Madigan"
+    ],
+    "awards": "Nominated for 1 Oscar. 46 wins u0026 114 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.4",
+      "votes": 403556,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 3970,
+      "updatedAt": "2026-09-24T16:10:54.000Z"
+     },
+     "rt": "93%",
+     "metascore": 81,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Julia Garner",
+     "character": "Justine",
+     "slug": "julia-garner",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ud1RXbvW70J89iqeic7no8olxvb.jpg"
+    },
+    {
+     "name": "Josh Brolin",
+     "character": "Archer",
+     "slug": "josh-brolin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+     "name": "Alden Ehrenreich",
+     "character": "Paul",
+     "slug": "alden-ehrenreich",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2Ed8m1GmrElvtIQwX2K1CaAW7t5.jpg"
+    },
+    {
+     "name": "Austin Abrams",
+     "character": "James",
+     "slug": "austin-abrams",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gG4KsGZDw3tO2R66cn9VdOo8uSu.jpg"
+    },
+    {
+     "name": "Benedict Wong",
+     "character": "Marcus",
+     "slug": "benedict-wong",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+    },
+    {
+     "name": "Amy Madigan",
+     "character": "Gladys",
+     "slug": "amy-madigan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xgtQOuPAmQZXWUO2PXetNpXm08A.jpg"
+    },
+    {
+     "name": "Cary Christopher",
+     "character": "Alex",
+     "slug": "cary-christopher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3ATVXSp6iPM9SaKUvQhI9tfGA5M.jpg"
+    },
+    {
+     "name": "Toby Huss",
+     "character": "Captain Ed",
+     "slug": "toby-huss",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dUqygHlDDnOBZLnE51MPJHkHWvQ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Zach Cregger",
+       "slug": "zach-cregger"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Zach Cregger",
+       "slug": "zach-cregger"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Zach Cregger",
+       "slug": "zach-cregger"
+      },
+      {
+       "name": "Ryan Holladay",
+       "slug": "ryan-holladay"
+      },
+      {
+       "name": "Hays Holladay",
+       "slug": "hays-holladay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Larkin Seiple",
+       "slug": "larkin-seiple"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Joe Murphy",
+       "slug": "joe-murphy"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Zach Cregger",
+       "slug": "zach-cregger"
+      },
+      {
+       "name": "Raphael Margules",
+       "slug": "raphael-margules"
+      },
+      {
+       "name": "J.D. Lifshitz",
+       "slug": "j-d-lifshitz"
+      },
+      {
+       "name": "Roy Lee",
+       "slug": "roy-lee"
+      },
+      {
+       "name": "Miri Yoon",
+       "slug": "miri-yoon"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "New Line Cinema",
+     "slug": "new-line-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/2ycs64eqV5rqKYHyQK0GVoKGvfX.png"
+    },
+    {
+     "name": "Subconscious",
+     "slug": "subconscious",
+     "logo": "https://image.tmdb.org/t/p/w185/qBN0r3EbLfDwANllIHmQtSRTBaP.png"
+    },
+    {
+     "name": "Vertigo Entertainment",
+     "slug": "vertigo-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/iJo9zP5QCKyBsmKSOcvXd6UDNih.png"
+    },
+    {
+     "name": "BoulderLight Pictures",
+     "slug": "boulderlight-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/pxtYCfl1DWzvizqZcYwE4NefOOF.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-08",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-08-08",
+     "gross": 1372617,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 207,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-15",
+     "gross": 783226,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 82,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-22",
+     "gross": 494094,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 74,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-29",
+     "gross": 47120,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 7,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2697057,
+    "totalShows": 370,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 1372617
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1372617
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-08"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 741,
+    "title": "Weapons",
+    "img": "https://image.tmdb.org/t/p/original/yrNqjlabBhEpB5tFCysWtnMx5C5.jpg",
+    "released": "2025-08-08",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26581740",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "129 min",
+    "genre": "Horror, Mystery",
+    "plot": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "released": "2025-08-04",
+    "director": "Zach Cregger",
+    "directorSlug": "zach-cregger",
+    "actors": [
+     "Julia Garner",
+     "Josh Brolin",
+     "Alden Ehrenreich",
+     "Austin Abrams",
+     "Benedict Wong",
+     "Amy Madigan"
+    ],
+    "awards": "Nominated for 1 Oscar. 46 wins u0026 114 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.4",
+      "votes": 403556,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 3970,
+      "updatedAt": "2026-09-24T16:10:54.000Z"
+     },
+     "rt": "93%",
+     "metascore": 81,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Julia Garner",
+     "character": "Justine",
+     "slug": "julia-garner",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ud1RXbvW70J89iqeic7no8olxvb.jpg"
+    },
+    {
+     "name": "Josh Brolin",
+     "character": "Archer",
+     "slug": "josh-brolin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+     "name": "Alden Ehrenreich",
+     "character": "Paul",
+     "slug": "alden-ehrenreich",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2Ed8m1GmrElvtIQwX2K1CaAW7t5.jpg"
+    },
+    {
+     "name": "Austin Abrams",
+     "character": "James",
+     "slug": "austin-abrams",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gG4KsGZDw3tO2R66cn9VdOo8uSu.jpg"
+    },
+    {
+     "name": "Benedict Wong",
+     "character": "Marcus",
+     "slug": "benedict-wong",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+    },
+    {
+     "name": "Amy Madigan",
+     "character": "Gladys",
+     "slug": "amy-madigan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xgtQOuPAmQZXWUO2PXetNpXm08A.jpg"
+    },
+    {
+     "name": "Cary Christopher",
+     "character": "Alex",
+     "slug": "cary-christopher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3ATVXSp6iPM9SaKUvQhI9tfGA5M.jpg"
+    },
+    {
+     "name": "Toby Huss",
+     "character": "Captain Ed",
+     "slug": "toby-huss",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dUqygHlDDnOBZLnE51MPJHkHWvQ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Zach Cregger",
+       "slug": "zach-cregger"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Zach Cregger",
+       "slug": "zach-cregger"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Zach Cregger",
+       "slug": "zach-cregger"
+      },
+      {
+       "name": "Ryan Holladay",
+       "slug": "ryan-holladay"
+      },
+      {
+       "name": "Hays Holladay",
+       "slug": "hays-holladay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Larkin Seiple",
+       "slug": "larkin-seiple"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Joe Murphy",
+       "slug": "joe-murphy"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Zach Cregger",
+       "slug": "zach-cregger"
+      },
+      {
+       "name": "Raphael Margules",
+       "slug": "raphael-margules"
+      },
+      {
+       "name": "J.D. Lifshitz",
+       "slug": "j-d-lifshitz"
+      },
+      {
+       "name": "Roy Lee",
+       "slug": "roy-lee"
+      },
+      {
+       "name": "Miri Yoon",
+       "slug": "miri-yoon"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "New Line Cinema",
+     "slug": "new-line-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/2ycs64eqV5rqKYHyQK0GVoKGvfX.png"
+    },
+    {
+     "name": "Subconscious",
+     "slug": "subconscious",
+     "logo": "https://image.tmdb.org/t/p/w185/qBN0r3EbLfDwANllIHmQtSRTBaP.png"
+    },
+    {
+     "name": "Vertigo Entertainment",
+     "slug": "vertigo-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/iJo9zP5QCKyBsmKSOcvXd6UDNih.png"
+    },
+    {
+     "name": "BoulderLight Pictures",
+     "slug": "boulderlight-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/pxtYCfl1DWzvizqZcYwE4NefOOF.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-08",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2697057,
+    "totalShows": 370,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 1573709,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1573709,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-08"
+   }
+  }
+ }
+}

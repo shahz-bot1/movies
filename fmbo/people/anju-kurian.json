@@ -1,0 +1,55 @@
+{
+ "slug": "anju-kurian",
+ "name": "Anju Kurian",
+ "source_url": "https://fridaymatinee.in/people/anju-kurian",
+ "captured_at": "2026-10-01T20:40:44.359590+00:00",
+ "person": {
+  "name": "Anju Kurian",
+  "photo": "https://image.tmdb.org/t/p/w185/r4VyXgKI5TpspfwEClmWwCS6fQ.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 33,
+   "movie_slug": "jack-daniel",
+   "title": "Jack Daniel ",
+   "year": 2019,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 102,
+   "movie_slug": "meppadiyan",
+   "title": "Meppadiyan",
+   "year": 2022,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 477,
+   "movie_slug": "abraham-ozler",
+   "title": "Abraham Ozler",
+   "year": 2024,
+   "kerala_gross": "₹17.2 Cr"
+  },
+  {
+   "movie_id": 1191,
+   "movie_slug": "idhayam-murali",
+   "title": "Idhayam Murali",
+   "year": 2026,
+   "kerala_gross": "₹25.9L"
+  },
+  {
+   "movie_id": 1314,
+   "movie_slug": "aaram",
+   "title": "Aaram",
+   "year": 2026,
+   "kerala_gross": "₹1.0 Cr"
+  }
+ ]
+}

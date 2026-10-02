@@ -1,0 +1,46 @@
+{
+ "slug": "pandiraj",
+ "name": "Pandiraj",
+ "source_url": "https://fridaymatinee.in/people/pandiraj",
+ "captured_at": "2026-10-02T01:12:09.462069+00:00",
+ "person": {
+  "name": "Pandiraj",
+  "photo": null,
+  "role": "Writer and director"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 114,
+   "movie_slug": "etharkkum-thunindhavan",
+   "title": "Etharkkum Thunindhavan",
+   "year": 2022,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 739,
+   "movie_slug": "thalaivan-thalaivii",
+   "title": "Thalaivan Thalaivii",
+   "year": 2025,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 1138,
+   "movie_slug": "parimala-and-co",
+   "title": "Parimala and Co",
+   "year": 2026,
+   "kerala_gross": "₹29.7L"
+  }
+ ]
+}

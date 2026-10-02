@@ -1,0 +1,41 @@
+{
+ "slug": "arya-babu",
+ "name": "Arya Babu",
+ "source_url": "https://fridaymatinee.in/people/arya-babu",
+ "captured_at": "2026-10-01T20:58:26.888380+00:00",
+ "person": {
+  "name": "Arya Babu",
+  "photo": "https://image.tmdb.org/t/p/w185/44eAHE24evPuGQIVrJI7hRy3sRZ.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 102,
+   "movie_slug": "meppadiyan",
+   "title": "Meppadiyan",
+   "year": 2022,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 336,
+   "movie_slug": "enthada-saji",
+   "title": "Enthada Saji",
+   "year": 2023,
+   "kerala_gross": "₹86.4L"
+  },
+  {
+   "movie_id": 656,
+   "movie_slug": "machante-malakha",
+   "title": "Machante Malakha",
+   "year": 2025,
+   "kerala_gross": "₹69.4L"
+  }
+ ]
+}

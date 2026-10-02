@@ -1,0 +1,746 @@
+{
+ "id": 234,
+ "slug": "novocaine",
+ "source_url": "https://fridaymatinee.in/boxoffice/novocaine-234",
+ "captured_at": "2026-10-01T18:07:22.887804+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 234,
+    "title": "Novocaine",
+    "img": "https://image.tmdb.org/t/p/original/i6b6vS9cbIRF1v29HnpakE3QZV4.jpg",
+    "released": "2025-03-14",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29603959",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "110 min",
+    "genre": "Action, Comedy, Thriller",
+    "plot": "When the girl of his dreams is kidnapped, everyman Nate turns his inability to feel pain into an unexpected strength in his fight to get her back.",
+    "released": "2025-03-12",
+    "director": "Dan Berk",
+    "directorSlug": "dan-berk",
+    "actors": [
+     "Jack Quaid",
+     "Amber Midthunder",
+     "Ray Nicholson",
+     "Jacob Batalon",
+     "Betty Gabriel",
+     "Matt Walsh"
+    ],
+    "awards": "3 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 95386,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.8",
+      "votes": 1772,
+      "updatedAt": "2026-09-24T22:10:54.000Z"
+     },
+     "rt": "81%",
+     "metascore": 58,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jack Quaid",
+     "character": "Nate",
+     "slug": "jack-quaid",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
+    },
+    {
+     "name": "Amber Midthunder",
+     "character": "Sherry",
+     "slug": "amber-midthunder",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f8VWGyaIS38NkDIzQ2hapXKt0N5.jpg"
+    },
+    {
+     "name": "Ray Nicholson",
+     "character": "Simon",
+     "slug": "ray-nicholson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f0MRbGIyTEJLJgHedJS8pRFhGn4.jpg"
+    },
+    {
+     "name": "Jacob Batalon",
+     "character": "Roscoe",
+     "slug": "jacob-batalon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+    },
+    {
+     "name": "Betty Gabriel",
+     "character": "Mincy",
+     "slug": "betty-gabriel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n67i3H3VM5quDQfcS591EbotPby.jpg"
+    },
+    {
+     "name": "Matt Walsh",
+     "character": "Coltraine",
+     "slug": "matt-walsh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fp1JsNbZyhJ3PHpwZJVDYRz1RGF.jpg"
+    },
+    {
+     "name": "Conrad Kemp",
+     "character": "Andre",
+     "slug": "conrad-kemp",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wSTx4pS0KvlR2wq3GvbeMzkLNKK.jpg"
+    },
+    {
+     "name": "Evan Hengst",
+     "character": "Ben",
+     "slug": "evan-hengst",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hHsn9c65hQm5XucB6kFHXeE3jUK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Dan Berk",
+       "slug": "dan-berk"
+      },
+      {
+       "name": "Robert Olsen",
+       "slug": "robert-olsen"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Lars Jacobson",
+       "slug": "lars-jacobson"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Lorne Balfe",
+       "slug": "lorne-balfe"
+      },
+      {
+       "name": "Andrew Kawczynski",
+       "slug": "andrew-kawczynski"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jacques Jouffret",
+       "slug": "jacques-jouffret"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Christian Wagner",
+       "slug": "christian-wagner"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Drew Simon",
+       "slug": "drew-simon"
+      },
+      {
+       "name": "Joby Harold",
+       "slug": "joby-harold"
+      },
+      {
+       "name": "Tory Tunnell",
+       "slug": "tory-tunnell"
+      },
+      {
+       "name": "Julian Rosenberg",
+       "slug": "julian-rosenberg"
+      },
+      {
+       "name": "Sam Speiser",
+       "slug": "sam-speiser"
+      },
+      {
+       "name": "Matt Schwartz",
+       "slug": "matt-schwartz"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Safehouse Pictures",
+     "slug": "safehouse-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/2trboP7Exx3LEQqSHoo1sAmsC1i.png"
+    },
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+     "name": "Infrared Pictures",
+     "slug": "infrared-pictures",
+     "logo": null
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    },
+    {
+     "name": "Circle Management + Production",
+     "slug": "circle-management-production",
+     "logo": "https://image.tmdb.org/t/p/w185/8KZiHGZs20UUS0zmzDbU1nUsIcr.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-04-07",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 215235,
+    "totalShows": 79,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 45689,
+     "date": "2025-03-14"
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 49037,
+     "date": "2025-03-15"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-03-14"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 234,
+    "title": "Novocaine",
+    "img": "https://image.tmdb.org/t/p/original/i6b6vS9cbIRF1v29HnpakE3QZV4.jpg",
+    "released": "2025-03-14",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29603959",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "110 min",
+    "genre": "Action, Comedy, Thriller",
+    "plot": "When the girl of his dreams is kidnapped, everyman Nate turns his inability to feel pain into an unexpected strength in his fight to get her back.",
+    "released": "2025-03-12",
+    "director": "Dan Berk",
+    "directorSlug": "dan-berk",
+    "actors": [
+     "Jack Quaid",
+     "Amber Midthunder",
+     "Ray Nicholson",
+     "Jacob Batalon",
+     "Betty Gabriel",
+     "Matt Walsh"
+    ],
+    "awards": "3 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 95386,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.8",
+      "votes": 1772,
+      "updatedAt": "2026-09-24T22:10:54.000Z"
+     },
+     "rt": "81%",
+     "metascore": 58,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jack Quaid",
+     "character": "Nate",
+     "slug": "jack-quaid",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
+    },
+    {
+     "name": "Amber Midthunder",
+     "character": "Sherry",
+     "slug": "amber-midthunder",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f8VWGyaIS38NkDIzQ2hapXKt0N5.jpg"
+    },
+    {
+     "name": "Ray Nicholson",
+     "character": "Simon",
+     "slug": "ray-nicholson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f0MRbGIyTEJLJgHedJS8pRFhGn4.jpg"
+    },
+    {
+     "name": "Jacob Batalon",
+     "character": "Roscoe",
+     "slug": "jacob-batalon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+    },
+    {
+     "name": "Betty Gabriel",
+     "character": "Mincy",
+     "slug": "betty-gabriel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n67i3H3VM5quDQfcS591EbotPby.jpg"
+    },
+    {
+     "name": "Matt Walsh",
+     "character": "Coltraine",
+     "slug": "matt-walsh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fp1JsNbZyhJ3PHpwZJVDYRz1RGF.jpg"
+    },
+    {
+     "name": "Conrad Kemp",
+     "character": "Andre",
+     "slug": "conrad-kemp",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wSTx4pS0KvlR2wq3GvbeMzkLNKK.jpg"
+    },
+    {
+     "name": "Evan Hengst",
+     "character": "Ben",
+     "slug": "evan-hengst",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hHsn9c65hQm5XucB6kFHXeE3jUK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Dan Berk",
+       "slug": "dan-berk"
+      },
+      {
+       "name": "Robert Olsen",
+       "slug": "robert-olsen"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Lars Jacobson",
+       "slug": "lars-jacobson"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Lorne Balfe",
+       "slug": "lorne-balfe"
+      },
+      {
+       "name": "Andrew Kawczynski",
+       "slug": "andrew-kawczynski"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jacques Jouffret",
+       "slug": "jacques-jouffret"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Christian Wagner",
+       "slug": "christian-wagner"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Drew Simon",
+       "slug": "drew-simon"
+      },
+      {
+       "name": "Joby Harold",
+       "slug": "joby-harold"
+      },
+      {
+       "name": "Tory Tunnell",
+       "slug": "tory-tunnell"
+      },
+      {
+       "name": "Julian Rosenberg",
+       "slug": "julian-rosenberg"
+      },
+      {
+       "name": "Sam Speiser",
+       "slug": "sam-speiser"
+      },
+      {
+       "name": "Matt Schwartz",
+       "slug": "matt-schwartz"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Safehouse Pictures",
+     "slug": "safehouse-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/2trboP7Exx3LEQqSHoo1sAmsC1i.png"
+    },
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+     "name": "Infrared Pictures",
+     "slug": "infrared-pictures",
+     "logo": null
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    },
+    {
+     "name": "Circle Management + Production",
+     "slug": "circle-management-production",
+     "logo": "https://image.tmdb.org/t/p/w185/8KZiHGZs20UUS0zmzDbU1nUsIcr.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-04-07",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-03-14",
+     "gross": 215235,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 79,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 215235,
+    "totalShows": 79,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 215235
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 215235
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-03-14"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 234,
+    "title": "Novocaine",
+    "img": "https://image.tmdb.org/t/p/original/i6b6vS9cbIRF1v29HnpakE3QZV4.jpg",
+    "released": "2025-03-14",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29603959",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "110 min",
+    "genre": "Action, Comedy, Thriller",
+    "plot": "When the girl of his dreams is kidnapped, everyman Nate turns his inability to feel pain into an unexpected strength in his fight to get her back.",
+    "released": "2025-03-12",
+    "director": "Dan Berk",
+    "directorSlug": "dan-berk",
+    "actors": [
+     "Jack Quaid",
+     "Amber Midthunder",
+     "Ray Nicholson",
+     "Jacob Batalon",
+     "Betty Gabriel",
+     "Matt Walsh"
+    ],
+    "awards": "3 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 95386,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.8",
+      "votes": 1772,
+      "updatedAt": "2026-09-24T22:10:54.000Z"
+     },
+     "rt": "81%",
+     "metascore": 58,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jack Quaid",
+     "character": "Nate",
+     "slug": "jack-quaid",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
+    },
+    {
+     "name": "Amber Midthunder",
+     "character": "Sherry",
+     "slug": "amber-midthunder",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f8VWGyaIS38NkDIzQ2hapXKt0N5.jpg"
+    },
+    {
+     "name": "Ray Nicholson",
+     "character": "Simon",
+     "slug": "ray-nicholson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f0MRbGIyTEJLJgHedJS8pRFhGn4.jpg"
+    },
+    {
+     "name": "Jacob Batalon",
+     "character": "Roscoe",
+     "slug": "jacob-batalon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+    },
+    {
+     "name": "Betty Gabriel",
+     "character": "Mincy",
+     "slug": "betty-gabriel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n67i3H3VM5quDQfcS591EbotPby.jpg"
+    },
+    {
+     "name": "Matt Walsh",
+     "character": "Coltraine",
+     "slug": "matt-walsh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fp1JsNbZyhJ3PHpwZJVDYRz1RGF.jpg"
+    },
+    {
+     "name": "Conrad Kemp",
+     "character": "Andre",
+     "slug": "conrad-kemp",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wSTx4pS0KvlR2wq3GvbeMzkLNKK.jpg"
+    },
+    {
+     "name": "Evan Hengst",
+     "character": "Ben",
+     "slug": "evan-hengst",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hHsn9c65hQm5XucB6kFHXeE3jUK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Dan Berk",
+       "slug": "dan-berk"
+      },
+      {
+       "name": "Robert Olsen",
+       "slug": "robert-olsen"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Lars Jacobson",
+       "slug": "lars-jacobson"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Lorne Balfe",
+       "slug": "lorne-balfe"
+      },
+      {
+       "name": "Andrew Kawczynski",
+       "slug": "andrew-kawczynski"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jacques Jouffret",
+       "slug": "jacques-jouffret"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Christian Wagner",
+       "slug": "christian-wagner"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Drew Simon",
+       "slug": "drew-simon"
+      },
+      {
+       "name": "Joby Harold",
+       "slug": "joby-harold"
+      },
+      {
+       "name": "Tory Tunnell",
+       "slug": "tory-tunnell"
+      },
+      {
+       "name": "Julian Rosenberg",
+       "slug": "julian-rosenberg"
+      },
+      {
+       "name": "Sam Speiser",
+       "slug": "sam-speiser"
+      },
+      {
+       "name": "Matt Schwartz",
+       "slug": "matt-schwartz"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Safehouse Pictures",
+     "slug": "safehouse-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/2trboP7Exx3LEQqSHoo1sAmsC1i.png"
+    },
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+     "name": "Infrared Pictures",
+     "slug": "infrared-pictures",
+     "logo": null
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    },
+    {
+     "name": "Circle Management + Production",
+     "slug": "circle-management-production",
+     "logo": "https://image.tmdb.org/t/p/w185/8KZiHGZs20UUS0zmzDbU1nUsIcr.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-04-07",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 215235,
+    "totalShows": 79,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 109102,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 109102,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-03-14"
+   }
+  }
+ }
+}

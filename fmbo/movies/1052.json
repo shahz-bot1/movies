@@ -1,0 +1,885 @@
+{
+ "id": 1052,
+ "slug": "leader",
+ "source_url": "https://fridaymatinee.in/boxoffice/leader-1052",
+ "captured_at": "2026-10-01T18:59:12.558579+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1052,
+    "title": "Leader",
+    "img": "https://image.tmdb.org/t/p/original/eitNeP5lMT67piVVA8h31lb5keN.jpg",
+    "released": "2026-04-03",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32741341",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "136 min",
+    "genre": "Action, Drama",
+    "plot": "An ordinary man becomes trapped between warring criminal factions and law enforcement, forcing him to use his wits to survive while shielding his loved ones from the deadly crossfire that threatens to consume them all.",
+    "released": "2026-04-03",
+    "director": "R. S. Durai Senthilkumar",
+    "directorSlug": "r-s-durai-senthilkumar",
+    "actors": [
+     "Arul Saravanan",
+     "Shaam",
+     "Andrea Jeremiah",
+     "Santhosh Prathap",
+     "Payal Rajput",
+     "Lal"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 7188,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Arul Saravanan",
+     "character": "Sakthivel A.K.A Pon Maaran",
+     "slug": "arul-saravanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6VXAxTr1h3jSHU36tdbCzkAh74Q.jpg"
+    },
+    {
+     "name": "Shaam",
+     "character": "Bakthavachalam",
+     "slug": "shaam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eqvAJxumDcXuZA0tnJmhSeEde17.jpg"
+    },
+    {
+     "name": "Andrea Jeremiah",
+     "character": "Indhra Sathyamoorthy",
+     "slug": "andrea-jeremiah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rYuhyicWBWguymMQ5B02IfENdvI.jpg"
+    },
+    {
+     "name": "Santhosh Prathap",
+     "character": "Robert and Yuvaraj (The Devil)",
+     "slug": "santhosh-prathap",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3Rb6nFHRLZmHSSdlMzd4ZNsZYpM.jpg"
+    },
+    {
+     "name": "Payal Rajput",
+     "character": "Meera",
+     "slug": "payal-rajput",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Dy77qpDnYSqQNPQ0x4Y7ZRDJrw.jpg"
+    },
+    {
+     "name": "Lal",
+     "character": "Sathyamoorthy",
+     "slug": "lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg"
+    },
+    {
+     "name": "Amritha Aiyer",
+     "character": "Renuka",
+     "slug": "amritha-aiyer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sjhXrtTkB9Nh8qyjrH4UwBEL4K7.jpg"
+    },
+    {
+     "name": "VTV Ganesh",
+     "character": "Thangapazham",
+     "slug": "vtv-ganesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5JomvpPx6PrExYcZAbHM1MoHjoZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "R. S. Durai Senthilkumar",
+       "slug": "r-s-durai-senthilkumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "R. S. Durai Senthilkumar",
+       "slug": "r-s-durai-senthilkumar"
+      },
+      {
+       "name": "G. V. Kumar",
+       "slug": "g-v-kumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ghibran",
+       "slug": "ghibran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Venkatesh S",
+       "slug": "venkatesh-s"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Pradeep E. Ragav",
+       "slug": "pradeep-e-ragav"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Arul Saravanan",
+       "slug": "arul-saravanan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "The Legend Saravana Stores Creations",
+     "slug": "the-legend-saravana-stores-creations",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-05-29",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-04-03": [
+     {
+      "id": 1035,
+      "title": "Ready or Not 2: Here I Come",
+      "img": "https://image.tmdb.org/t/p/original/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
+     },
+     {
+      "id": 1049,
+      "title": "The Super Mario Galaxy Movie",
+      "img": "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+     },
+     {
+      "id": 1051,
+      "title": "The Drama",
+      "img": "https://image.tmdb.org/t/p/original/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-04-03",
+     "gross": 86585,
+     "sold": 413,
+     "unsold": 2528,
+     "shows": 22,
+     "occ": 14.04,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 86585,
+     "lastUpdatedAt": "2026-04-03 23:43:00"
+    },
+    {
+     "label": "2026-04-04",
+     "gross": 82570,
+     "sold": 549,
+     "unsold": 1179,
+     "shows": 13,
+     "occ": 31.77,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 169155,
+     "lastUpdatedAt": "2026-04-04 21:08:00"
+    },
+    {
+     "label": "2026-04-05",
+     "gross": 65560,
+     "sold": 417,
+     "unsold": 641,
+     "shows": 8,
+     "occ": 39.41,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 234715,
+     "lastUpdatedAt": "2026-04-05 21:08:00"
+    },
+    {
+     "label": "2026-04-06",
+     "gross": 9992,
+     "sold": 77,
+     "unsold": 667,
+     "shows": 6,
+     "occ": 10.35,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 244707,
+     "lastUpdatedAt": "2026-04-06 21:08:00"
+    },
+    {
+     "label": "2026-04-07",
+     "gross": 4933,
+     "sold": 38,
+     "unsold": 464,
+     "shows": 4,
+     "occ": 7.57,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 249640,
+     "lastUpdatedAt": "2026-04-07 21:08:00"
+    },
+    {
+     "label": "2026-04-08",
+     "gross": 5321,
+     "sold": 41,
+     "unsold": 461,
+     "shows": 4,
+     "occ": 8.17,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 254961,
+     "lastUpdatedAt": "2026-04-08 21:08:00"
+    },
+    {
+     "label": "2026-04-09",
+     "gross": 25311,
+     "sold": 195,
+     "unsold": 307,
+     "shows": 4,
+     "occ": 38.84,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 280272,
+     "lastUpdatedAt": "2026-04-09 21:08:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 280272,
+    "totalShows": 61,
+    "totalSeats": 7977,
+    "totalSold": 1730,
+    "avgOcc": "21.7",
+    "totalDays": 7,
+    "totalHousefull": 7,
+    "totalAlmost": 7,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 86585,
+     "date": "2026-04-03"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 86585,
+     "date": "2026-04-03"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "7:25311:280272"
+  },
+  "week": {
+   "movie": {
+    "id": 1052,
+    "title": "Leader",
+    "img": "https://image.tmdb.org/t/p/original/eitNeP5lMT67piVVA8h31lb5keN.jpg",
+    "released": "2026-04-03",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32741341",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "136 min",
+    "genre": "Action, Drama",
+    "plot": "An ordinary man becomes trapped between warring criminal factions and law enforcement, forcing him to use his wits to survive while shielding his loved ones from the deadly crossfire that threatens to consume them all.",
+    "released": "2026-04-03",
+    "director": "R. S. Durai Senthilkumar",
+    "directorSlug": "r-s-durai-senthilkumar",
+    "actors": [
+     "Arul Saravanan",
+     "Shaam",
+     "Andrea Jeremiah",
+     "Santhosh Prathap",
+     "Payal Rajput",
+     "Lal"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 7188,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Arul Saravanan",
+     "character": "Sakthivel A.K.A Pon Maaran",
+     "slug": "arul-saravanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6VXAxTr1h3jSHU36tdbCzkAh74Q.jpg"
+    },
+    {
+     "name": "Shaam",
+     "character": "Bakthavachalam",
+     "slug": "shaam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eqvAJxumDcXuZA0tnJmhSeEde17.jpg"
+    },
+    {
+     "name": "Andrea Jeremiah",
+     "character": "Indhra Sathyamoorthy",
+     "slug": "andrea-jeremiah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rYuhyicWBWguymMQ5B02IfENdvI.jpg"
+    },
+    {
+     "name": "Santhosh Prathap",
+     "character": "Robert and Yuvaraj (The Devil)",
+     "slug": "santhosh-prathap",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3Rb6nFHRLZmHSSdlMzd4ZNsZYpM.jpg"
+    },
+    {
+     "name": "Payal Rajput",
+     "character": "Meera",
+     "slug": "payal-rajput",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Dy77qpDnYSqQNPQ0x4Y7ZRDJrw.jpg"
+    },
+    {
+     "name": "Lal",
+     "character": "Sathyamoorthy",
+     "slug": "lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg"
+    },
+    {
+     "name": "Amritha Aiyer",
+     "character": "Renuka",
+     "slug": "amritha-aiyer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sjhXrtTkB9Nh8qyjrH4UwBEL4K7.jpg"
+    },
+    {
+     "name": "VTV Ganesh",
+     "character": "Thangapazham",
+     "slug": "vtv-ganesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5JomvpPx6PrExYcZAbHM1MoHjoZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "R. S. Durai Senthilkumar",
+       "slug": "r-s-durai-senthilkumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "R. S. Durai Senthilkumar",
+       "slug": "r-s-durai-senthilkumar"
+      },
+      {
+       "name": "G. V. Kumar",
+       "slug": "g-v-kumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ghibran",
+       "slug": "ghibran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Venkatesh S",
+       "slug": "venkatesh-s"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Pradeep E. Ragav",
+       "slug": "pradeep-e-ragav"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Arul Saravanan",
+       "slug": "arul-saravanan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "The Legend Saravana Stores Creations",
+     "slug": "the-legend-saravana-stores-creations",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-05-29",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-04-03": [
+     {
+      "id": 1035,
+      "title": "Ready or Not 2: Here I Come",
+      "img": "https://image.tmdb.org/t/p/original/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
+     },
+     {
+      "id": 1049,
+      "title": "The Super Mario Galaxy Movie",
+      "img": "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+     },
+     {
+      "id": 1051,
+      "title": "The Drama",
+      "img": "https://image.tmdb.org/t/p/original/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-04-03",
+     "gross": 280272,
+     "sold": 1730,
+     "unsold": 6247,
+     "shows": 61,
+     "occ": 21.69,
+     "hf": "7",
+     "almost": "7",
+     "ff": "0",
+     "cumul": 280272,
+     "lastUpdatedAt": "2026-04-09 21:08:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 280272,
+    "totalShows": 61,
+    "totalSeats": 7977,
+    "totalSold": 1730,
+    "avgOcc": "21.7",
+    "totalDays": 1,
+    "totalHousefull": 7,
+    "totalAlmost": 7,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 280272
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 280272
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:280272:280272"
+  },
+  "district": {
+   "movie": {
+    "id": 1052,
+    "title": "Leader",
+    "img": "https://image.tmdb.org/t/p/original/eitNeP5lMT67piVVA8h31lb5keN.jpg",
+    "released": "2026-04-03",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32741341",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "136 min",
+    "genre": "Action, Drama",
+    "plot": "An ordinary man becomes trapped between warring criminal factions and law enforcement, forcing him to use his wits to survive while shielding his loved ones from the deadly crossfire that threatens to consume them all.",
+    "released": "2026-04-03",
+    "director": "R. S. Durai Senthilkumar",
+    "directorSlug": "r-s-durai-senthilkumar",
+    "actors": [
+     "Arul Saravanan",
+     "Shaam",
+     "Andrea Jeremiah",
+     "Santhosh Prathap",
+     "Payal Rajput",
+     "Lal"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 7188,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Arul Saravanan",
+     "character": "Sakthivel A.K.A Pon Maaran",
+     "slug": "arul-saravanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6VXAxTr1h3jSHU36tdbCzkAh74Q.jpg"
+    },
+    {
+     "name": "Shaam",
+     "character": "Bakthavachalam",
+     "slug": "shaam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eqvAJxumDcXuZA0tnJmhSeEde17.jpg"
+    },
+    {
+     "name": "Andrea Jeremiah",
+     "character": "Indhra Sathyamoorthy",
+     "slug": "andrea-jeremiah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rYuhyicWBWguymMQ5B02IfENdvI.jpg"
+    },
+    {
+     "name": "Santhosh Prathap",
+     "character": "Robert and Yuvaraj (The Devil)",
+     "slug": "santhosh-prathap",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3Rb6nFHRLZmHSSdlMzd4ZNsZYpM.jpg"
+    },
+    {
+     "name": "Payal Rajput",
+     "character": "Meera",
+     "slug": "payal-rajput",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Dy77qpDnYSqQNPQ0x4Y7ZRDJrw.jpg"
+    },
+    {
+     "name": "Lal",
+     "character": "Sathyamoorthy",
+     "slug": "lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg"
+    },
+    {
+     "name": "Amritha Aiyer",
+     "character": "Renuka",
+     "slug": "amritha-aiyer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sjhXrtTkB9Nh8qyjrH4UwBEL4K7.jpg"
+    },
+    {
+     "name": "VTV Ganesh",
+     "character": "Thangapazham",
+     "slug": "vtv-ganesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5JomvpPx6PrExYcZAbHM1MoHjoZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "R. S. Durai Senthilkumar",
+       "slug": "r-s-durai-senthilkumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "R. S. Durai Senthilkumar",
+       "slug": "r-s-durai-senthilkumar"
+      },
+      {
+       "name": "G. V. Kumar",
+       "slug": "g-v-kumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ghibran",
+       "slug": "ghibran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Venkatesh S",
+       "slug": "venkatesh-s"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Pradeep E. Ragav",
+       "slug": "pradeep-e-ragav"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Arul Saravanan",
+       "slug": "arul-saravanan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "The Legend Saravana Stores Creations",
+     "slug": "the-legend-saravana-stores-creations",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-05-29",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-04-03": [
+     {
+      "id": 1035,
+      "title": "Ready or Not 2: Here I Come",
+      "img": "https://image.tmdb.org/t/p/original/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
+     },
+     {
+      "id": 1049,
+      "title": "The Super Mario Galaxy Movie",
+      "img": "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+     },
+     {
+      "id": 1051,
+      "title": "The Drama",
+      "img": "https://image.tmdb.org/t/p/original/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Palakkad",
+     "gross": 113317,
+     "sold": 873,
+     "unsold": 2890,
+     "shows": 30,
+     "occ": 23.2,
+     "hf": "4",
+     "almost": "4",
+     "ff": "0",
+     "cumul": 113317,
+     "lastUpdatedAt": "2026-04-09 21:08:00"
+    },
+    {
+     "label": "Ernakulam",
+     "gross": 97440,
+     "sold": 481,
+     "unsold": 956,
+     "shows": 9,
+     "occ": 33.47,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 210757,
+     "lastUpdatedAt": "2026-04-05 14:23:00"
+    },
+    {
+     "label": "Kannur",
+     "gross": 25320,
+     "sold": 114,
+     "unsold": 110,
+     "shows": 2,
+     "occ": 50.89,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 236077,
+     "lastUpdatedAt": "2026-04-04 15:58:00"
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 18805,
+     "sold": 145,
+     "unsold": 823,
+     "shows": 8,
+     "occ": 14.98,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 254882,
+     "lastUpdatedAt": "2026-04-06 19:28:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 9780,
+     "sold": 40,
+     "unsold": 298,
+     "shows": 2,
+     "occ": 11.83,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 264662,
+     "lastUpdatedAt": "2026-04-03 20:13:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 8750,
+     "sold": 41,
+     "unsold": 162,
+     "shows": 2,
+     "occ": 20.2,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 273412,
+     "lastUpdatedAt": "2026-04-03 23:43:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 4760,
+     "sold": 22,
+     "unsold": 216,
+     "shows": 2,
+     "occ": 9.24,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 278172,
+     "lastUpdatedAt": "2026-04-04 08:58:00"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 2100,
+     "sold": 14,
+     "unsold": 328,
+     "shows": 3,
+     "occ": 4.09,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 280272,
+     "lastUpdatedAt": "2026-04-05 11:28:00"
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 346,
+     "shows": 2,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 280272,
+     "lastUpdatedAt": "2026-04-03 14:24:00"
+    },
+    {
+     "label": "Kollam",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 118,
+     "shows": 1,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 280272,
+     "lastUpdatedAt": "2026-04-03 16:03:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 280272,
+    "totalShows": 61,
+    "totalSeats": 7977,
+    "totalSold": 1730,
+    "avgOcc": "21.7",
+    "totalDays": 10,
+    "totalHousefull": 7,
+    "totalAlmost": 7,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 113317,
+     "date": "Palakkad"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 113317,
+     "date": "Palakkad"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "10:0:280272"
+  }
+ }
+}

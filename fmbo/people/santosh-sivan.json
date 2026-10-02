@@ -1,0 +1,70 @@
+{
+ "slug": "santosh-sivan",
+ "name": "Santosh Sivan",
+ "source_url": "https://fridaymatinee.in/people/santosh-sivan",
+ "captured_at": "2026-10-02T10:12:14.063453+00:00",
+ "person": {
+  "name": "Santosh Sivan",
+  "photo": "https://image.tmdb.org/t/p/w185/7COuX4wHedARjHSsMU51rzXD1GP.jpg",
+  "role": "Cinematography, director, producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 5
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 50,
+   "movie_slug": "darbar",
+   "title": "Darbar",
+   "year": 2020,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 139,
+   "movie_slug": "jack-n-jill",
+   "title": "Jack N Jill",
+   "year": 2022,
+   "kerala_gross": "₹37.5L"
+  },
+  {
+   "movie_id": 538,
+   "movie_slug": "barroz",
+   "title": "Barroz",
+   "year": 2024,
+   "kerala_gross": "₹8.6 Cr"
+  },
+  {
+   "movie_id": 1099,
+   "movie_slug": "raja-shivaji",
+   "title": "Raja Shivaji",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 1230,
+   "movie_slug": "batwara-1947",
+   "title": "Batwara 1947",
+   "year": 2026,
+   "kerala_gross": "₹7.1L"
+  }
+ ]
+}

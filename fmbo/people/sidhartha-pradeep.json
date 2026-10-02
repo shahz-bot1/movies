@@ -1,0 +1,41 @@
+{
+ "slug": "sidhartha-pradeep",
+ "name": "Sidhartha Pradeep",
+ "source_url": "https://fridaymatinee.in/people/sidhartha-pradeep",
+ "captured_at": "2026-10-02T10:44:33.066268+00:00",
+ "person": {
+  "name": "Sidhartha Pradeep",
+  "photo": null,
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 263,
+   "movie_slug": "oh-meri-laila",
+   "title": "Oh Meri Laila",
+   "year": 2022,
+   "kerala_gross": "₹22.0L"
+  },
+  {
+   "movie_id": 588,
+   "movie_slug": "i-am-kathalan",
+   "title": "I Am Kathalan",
+   "year": 2024,
+   "kerala_gross": "₹3.2 Cr"
+  },
+  {
+   "movie_id": 746,
+   "movie_slug": "flask",
+   "title": "Flask",
+   "year": 2025,
+   "kerala_gross": "₹23.2L"
+  }
+ ]
+}

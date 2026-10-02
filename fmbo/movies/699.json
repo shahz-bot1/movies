@@ -1,0 +1,658 @@
+{
+ "id": 699,
+ "slug": "moonwalk",
+ "source_url": "https://fridaymatinee.in/boxoffice/moonwalk-699",
+ "captured_at": "2026-10-01T18:19:42.542513+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 699,
+    "title": "Moonwalk",
+    "img": "https://image.tmdb.org/t/p/original/bcmuVEGwGw3O7PbwXTz7Xeew5bB.jpg",
+    "released": "2025-05-30",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14177202",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "116 min",
+    "genre": "Drama",
+    "plot": "It's the year 1987. Youngsters living in the outskirts of Thiruvananthapuram start exploring breakdancing.",
+    "released": "2025-05-30",
+    "director": "A.K Vinod",
+    "directorSlug": "a-k-vinod",
+    "actors": [
+     "Manoj Moses",
+     "Shersha Sherief",
+     "Meenakshi Raveendran",
+     "Anunath",
+     "Sujith Prabhakar",
+     "Rishi Kainikkara"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 448,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Manoj Moses",
+     "character": "Shaji",
+     "slug": "manoj-moses",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Shersha Sherief",
+     "character": "Venu",
+     "slug": "shersha-sherief",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ausSEfxEXMXTqaE0uxyZaUORBjH.jpg"
+    },
+    {
+     "name": "Meenakshi Raveendran",
+     "character": "Sherly",
+     "slug": "meenakshi-raveendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e8VgGVTJpxxmV5iXmhRgP6ntRFM.jpg"
+    },
+    {
+     "name": "Anunath",
+     "character": "Jake",
+     "slug": "anunath",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sujith Prabhakar",
+     "character": "Arun",
+     "slug": "sujith-prabhakar",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rishi Kainikkara",
+     "character": "Varun",
+     "slug": "rishi-kainikkara",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Srikant Murali",
+     "character": "George",
+     "slug": "srikant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m82xCpAgdCzjG2D1qg1dmcj5Uhx.jpg"
+    },
+    {
+     "name": "Siddharth Babu",
+     "character": "Shibu",
+     "slug": "siddharth-babu",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "A.K Vinod",
+       "slug": "a-k-vinod"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "A.K Vinod",
+       "slug": "a-k-vinod"
+      },
+      {
+       "name": "Mathew Varghis",
+       "slug": "mathew-varghis"
+      },
+      {
+       "name": "Sunil Gopalakrishnan",
+       "slug": "sunil-gopalakrishnan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Prashant Pillai",
+       "slug": "prashant-pillai"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ansar Shah",
+       "slug": "ansar-shah"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kiran Das",
+       "slug": "kiran-das"
+      },
+      {
+       "name": "Deepu Joseph",
+       "slug": "deepu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jasni Ahamad",
+       "slug": "jasni-ahamad"
+      },
+      {
+       "name": "Listin Stephen",
+       "slug": "listin-stephen"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Firewood Creatives",
+     "slug": "firewood-creatives",
+     "logo": null
+    },
+    {
+     "name": "Magic Frames",
+     "slug": "magic-frames",
+     "logo": "https://image.tmdb.org/t/p/w185/ijEKkNlryVxGWEjVPkCAippmURD.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 6563699.600000001,
+    "totalShows": 2289,
+    "totalDays": 21,
+    "openingDay": {
+     "day": 1,
+     "gross": 1106166,
+     "date": "2025-05-30"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 1431502.6,
+     "date": "2025-06-01"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-05-30"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 699,
+    "title": "Moonwalk",
+    "img": "https://image.tmdb.org/t/p/original/bcmuVEGwGw3O7PbwXTz7Xeew5bB.jpg",
+    "released": "2025-05-30",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14177202",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "116 min",
+    "genre": "Drama",
+    "plot": "It's the year 1987. Youngsters living in the outskirts of Thiruvananthapuram start exploring breakdancing.",
+    "released": "2025-05-30",
+    "director": "A.K Vinod",
+    "directorSlug": "a-k-vinod",
+    "actors": [
+     "Manoj Moses",
+     "Shersha Sherief",
+     "Meenakshi Raveendran",
+     "Anunath",
+     "Sujith Prabhakar",
+     "Rishi Kainikkara"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 448,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Manoj Moses",
+     "character": "Shaji",
+     "slug": "manoj-moses",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Shersha Sherief",
+     "character": "Venu",
+     "slug": "shersha-sherief",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ausSEfxEXMXTqaE0uxyZaUORBjH.jpg"
+    },
+    {
+     "name": "Meenakshi Raveendran",
+     "character": "Sherly",
+     "slug": "meenakshi-raveendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e8VgGVTJpxxmV5iXmhRgP6ntRFM.jpg"
+    },
+    {
+     "name": "Anunath",
+     "character": "Jake",
+     "slug": "anunath",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sujith Prabhakar",
+     "character": "Arun",
+     "slug": "sujith-prabhakar",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rishi Kainikkara",
+     "character": "Varun",
+     "slug": "rishi-kainikkara",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Srikant Murali",
+     "character": "George",
+     "slug": "srikant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m82xCpAgdCzjG2D1qg1dmcj5Uhx.jpg"
+    },
+    {
+     "name": "Siddharth Babu",
+     "character": "Shibu",
+     "slug": "siddharth-babu",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "A.K Vinod",
+       "slug": "a-k-vinod"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "A.K Vinod",
+       "slug": "a-k-vinod"
+      },
+      {
+       "name": "Mathew Varghis",
+       "slug": "mathew-varghis"
+      },
+      {
+       "name": "Sunil Gopalakrishnan",
+       "slug": "sunil-gopalakrishnan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Prashant Pillai",
+       "slug": "prashant-pillai"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ansar Shah",
+       "slug": "ansar-shah"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kiran Das",
+       "slug": "kiran-das"
+      },
+      {
+       "name": "Deepu Joseph",
+       "slug": "deepu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jasni Ahamad",
+       "slug": "jasni-ahamad"
+      },
+      {
+       "name": "Listin Stephen",
+       "slug": "listin-stephen"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Firewood Creatives",
+     "slug": "firewood-creatives",
+     "logo": null
+    },
+    {
+     "name": "Magic Frames",
+     "slug": "magic-frames",
+     "logo": "https://image.tmdb.org/t/p/w185/ijEKkNlryVxGWEjVPkCAippmURD.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2025-05-30",
+     "gross": 5957861.6000000015,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2133,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-06-06",
+     "gross": 553797,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 140,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-06-13",
+     "gross": 52041,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 16,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 6563699.6000000015,
+    "totalShows": 2289,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 5957861.6000000015
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5957861.6000000015
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-05-30"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 699,
+    "title": "Moonwalk",
+    "img": "https://image.tmdb.org/t/p/original/bcmuVEGwGw3O7PbwXTz7Xeew5bB.jpg",
+    "released": "2025-05-30",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14177202",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "116 min",
+    "genre": "Drama",
+    "plot": "It's the year 1987. Youngsters living in the outskirts of Thiruvananthapuram start exploring breakdancing.",
+    "released": "2025-05-30",
+    "director": "A.K Vinod",
+    "directorSlug": "a-k-vinod",
+    "actors": [
+     "Manoj Moses",
+     "Shersha Sherief",
+     "Meenakshi Raveendran",
+     "Anunath",
+     "Sujith Prabhakar",
+     "Rishi Kainikkara"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 448,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Manoj Moses",
+     "character": "Shaji",
+     "slug": "manoj-moses",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Shersha Sherief",
+     "character": "Venu",
+     "slug": "shersha-sherief",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ausSEfxEXMXTqaE0uxyZaUORBjH.jpg"
+    },
+    {
+     "name": "Meenakshi Raveendran",
+     "character": "Sherly",
+     "slug": "meenakshi-raveendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e8VgGVTJpxxmV5iXmhRgP6ntRFM.jpg"
+    },
+    {
+     "name": "Anunath",
+     "character": "Jake",
+     "slug": "anunath",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sujith Prabhakar",
+     "character": "Arun",
+     "slug": "sujith-prabhakar",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rishi Kainikkara",
+     "character": "Varun",
+     "slug": "rishi-kainikkara",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Srikant Murali",
+     "character": "George",
+     "slug": "srikant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m82xCpAgdCzjG2D1qg1dmcj5Uhx.jpg"
+    },
+    {
+     "name": "Siddharth Babu",
+     "character": "Shibu",
+     "slug": "siddharth-babu",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "A.K Vinod",
+       "slug": "a-k-vinod"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "A.K Vinod",
+       "slug": "a-k-vinod"
+      },
+      {
+       "name": "Mathew Varghis",
+       "slug": "mathew-varghis"
+      },
+      {
+       "name": "Sunil Gopalakrishnan",
+       "slug": "sunil-gopalakrishnan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Prashant Pillai",
+       "slug": "prashant-pillai"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ansar Shah",
+       "slug": "ansar-shah"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kiran Das",
+       "slug": "kiran-das"
+      },
+      {
+       "name": "Deepu Joseph",
+       "slug": "deepu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jasni Ahamad",
+       "slug": "jasni-ahamad"
+      },
+      {
+       "name": "Listin Stephen",
+       "slug": "listin-stephen"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Firewood Creatives",
+     "slug": "firewood-creatives",
+     "logo": null
+    },
+    {
+     "name": "Magic Frames",
+     "slug": "magic-frames",
+     "logo": "https://image.tmdb.org/t/p/w185/ijEKkNlryVxGWEjVPkCAippmURD.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 6563699.600000001,
+    "totalShows": 2289,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 2059821,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2059821,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-05-30"
+   }
+  }
+ }
+}

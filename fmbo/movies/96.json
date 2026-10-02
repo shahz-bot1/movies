@@ -1,0 +1,784 @@
+{
+ "id": 96,
+ "slug": "spider-man-no-way-home",
+ "source_url": "https://fridaymatinee.in/boxoffice/spider-man-no-way-home-96",
+ "captured_at": "2026-10-01T18:00:49.939092+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 96,
+    "title": "Spider Man No Way Home",
+    "img": "https://image.tmdb.org/t/p/original/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "released": "2021-12-16",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10872600",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "148 min",
+    "genre": "Action, Adventure, Science Fiction",
+    "plot": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+    "released": "2021-12-15",
+    "director": "Jon Watts",
+    "directorSlug": "jon-watts",
+    "actors": [
+     "Tom Holland",
+     "Zendaya",
+     "Benedict Cumberbatch",
+     "Jacob Batalon",
+     "Jon Favreau",
+     "Jamie Foxx"
+    ],
+    "awards": "Nominated for 1 Oscar. 35 wins u0026 72 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.1",
+      "votes": 1077626,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.9",
+      "votes": 23173,
+      "updatedAt": "2026-09-25T01:10:37.000Z"
+     },
+     "rt": "93%",
+     "metascore": 71,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tom Holland",
+     "character": "Peter Parker / Spider-Man",
+     "slug": "tom-holland",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1d67to0U8bx5jhWTanVx37k6Nd0.jpg"
+    },
+    {
+     "name": "Zendaya",
+     "character": "MJ",
+     "slug": "zendaya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+    },
+    {
+     "name": "Benedict Cumberbatch",
+     "character": "Doctor Strange",
+     "slug": "benedict-cumberbatch",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+    },
+    {
+     "name": "Jacob Batalon",
+     "character": "Ned Leeds",
+     "slug": "jacob-batalon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+    },
+    {
+     "name": "Jon Favreau",
+     "character": "Happy Hogan",
+     "slug": "jon-favreau",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+    },
+    {
+     "name": "Jamie Foxx",
+     "character": "Max Dillon / Electro",
+     "slug": "jamie-foxx",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/25zzvFA6yx2Q9BYnugsbd4JWDfu.jpg"
+    },
+    {
+     "name": "Willem Dafoe",
+     "character": "Norman Osborn / Green Goblin",
+     "slug": "willem-dafoe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+     "name": "Alfred Molina",
+     "character": "Dr. Otto Octavius / Doc Ock",
+     "slug": "alfred-molina",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jon Watts",
+       "slug": "jon-watts"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Chris McKenna",
+       "slug": "chris-mckenna"
+      },
+      {
+       "name": "Erik Sommers",
+       "slug": "erik-sommers"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Michael Giacchino",
+       "slug": "michael-giacchino"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mauro Fiore",
+       "slug": "mauro-fiore"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jeffrey Ford",
+       "slug": "jeffrey-ford"
+      },
+      {
+       "name": "Leigh Folsom Boyd",
+       "slug": "leigh-folsom-boyd"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      },
+      {
+       "name": "Amy Pascal",
+       "slug": "amy-pascal"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Pascal Pictures",
+     "slug": "pascal-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/nw4kyc29QRpNtFbdsBHkRSFavvt.png"
+    },
+    {
+     "name": "Columbia Pictures",
+     "slug": "columbia-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-03-14",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2180,
+      "name": "Sony Pictures Amazon Channel",
+      "logoPath": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 115271137,
+    "totalShows": 9953,
+    "totalDays": 37,
+    "openingDay": {
+     "day": 1,
+     "gross": 16241290,
+     "date": "2021-12-16"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 16241290,
+     "date": "2021-12-16"
+    },
+    "chartPosition": {
+     "current_position": 90,
+     "weeks_on_chart": 29,
+     "peak_position": 3,
+     "last_week_position": 90
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-12-16"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 96,
+    "title": "Spider Man No Way Home",
+    "img": "https://image.tmdb.org/t/p/original/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "released": "2021-12-16",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10872600",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "148 min",
+    "genre": "Action, Adventure, Science Fiction",
+    "plot": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+    "released": "2021-12-15",
+    "director": "Jon Watts",
+    "directorSlug": "jon-watts",
+    "actors": [
+     "Tom Holland",
+     "Zendaya",
+     "Benedict Cumberbatch",
+     "Jacob Batalon",
+     "Jon Favreau",
+     "Jamie Foxx"
+    ],
+    "awards": "Nominated for 1 Oscar. 35 wins u0026 72 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.1",
+      "votes": 1077626,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.9",
+      "votes": 23173,
+      "updatedAt": "2026-09-25T01:10:37.000Z"
+     },
+     "rt": "93%",
+     "metascore": 71,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tom Holland",
+     "character": "Peter Parker / Spider-Man",
+     "slug": "tom-holland",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1d67to0U8bx5jhWTanVx37k6Nd0.jpg"
+    },
+    {
+     "name": "Zendaya",
+     "character": "MJ",
+     "slug": "zendaya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+    },
+    {
+     "name": "Benedict Cumberbatch",
+     "character": "Doctor Strange",
+     "slug": "benedict-cumberbatch",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+    },
+    {
+     "name": "Jacob Batalon",
+     "character": "Ned Leeds",
+     "slug": "jacob-batalon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+    },
+    {
+     "name": "Jon Favreau",
+     "character": "Happy Hogan",
+     "slug": "jon-favreau",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+    },
+    {
+     "name": "Jamie Foxx",
+     "character": "Max Dillon / Electro",
+     "slug": "jamie-foxx",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/25zzvFA6yx2Q9BYnugsbd4JWDfu.jpg"
+    },
+    {
+     "name": "Willem Dafoe",
+     "character": "Norman Osborn / Green Goblin",
+     "slug": "willem-dafoe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+     "name": "Alfred Molina",
+     "character": "Dr. Otto Octavius / Doc Ock",
+     "slug": "alfred-molina",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jon Watts",
+       "slug": "jon-watts"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Chris McKenna",
+       "slug": "chris-mckenna"
+      },
+      {
+       "name": "Erik Sommers",
+       "slug": "erik-sommers"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Michael Giacchino",
+       "slug": "michael-giacchino"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mauro Fiore",
+       "slug": "mauro-fiore"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jeffrey Ford",
+       "slug": "jeffrey-ford"
+      },
+      {
+       "name": "Leigh Folsom Boyd",
+       "slug": "leigh-folsom-boyd"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      },
+      {
+       "name": "Amy Pascal",
+       "slug": "amy-pascal"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Pascal Pictures",
+     "slug": "pascal-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/nw4kyc29QRpNtFbdsBHkRSFavvt.png"
+    },
+    {
+     "name": "Columbia Pictures",
+     "slug": "columbia-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-03-14",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2180,
+      "name": "Sony Pictures Amazon Channel",
+      "logoPath": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2021-12-16",
+     "gross": 71917546,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4564,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-12-23",
+     "gross": 29726927,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2589,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-12-30",
+     "gross": 9359781,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1856,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-01-06",
+     "gross": 3206866,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 747,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-01-13",
+     "gross": 944307,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 175,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-01-20",
+     "gross": 115710,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 22,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 115271137,
+    "totalShows": 9953,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 71917546
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 71917546
+    },
+    "chartPosition": {
+     "current_position": 90,
+     "weeks_on_chart": 29,
+     "peak_position": 3,
+     "last_week_position": 90
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-12-16"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 96,
+    "title": "Spider Man No Way Home",
+    "img": "https://image.tmdb.org/t/p/original/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "released": "2021-12-16",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10872600",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "148 min",
+    "genre": "Action, Adventure, Science Fiction",
+    "plot": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+    "released": "2021-12-15",
+    "director": "Jon Watts",
+    "directorSlug": "jon-watts",
+    "actors": [
+     "Tom Holland",
+     "Zendaya",
+     "Benedict Cumberbatch",
+     "Jacob Batalon",
+     "Jon Favreau",
+     "Jamie Foxx"
+    ],
+    "awards": "Nominated for 1 Oscar. 35 wins u0026 72 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.1",
+      "votes": 1077626,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.9",
+      "votes": 23173,
+      "updatedAt": "2026-09-25T01:10:37.000Z"
+     },
+     "rt": "93%",
+     "metascore": 71,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tom Holland",
+     "character": "Peter Parker / Spider-Man",
+     "slug": "tom-holland",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1d67to0U8bx5jhWTanVx37k6Nd0.jpg"
+    },
+    {
+     "name": "Zendaya",
+     "character": "MJ",
+     "slug": "zendaya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+    },
+    {
+     "name": "Benedict Cumberbatch",
+     "character": "Doctor Strange",
+     "slug": "benedict-cumberbatch",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+    },
+    {
+     "name": "Jacob Batalon",
+     "character": "Ned Leeds",
+     "slug": "jacob-batalon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+    },
+    {
+     "name": "Jon Favreau",
+     "character": "Happy Hogan",
+     "slug": "jon-favreau",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tnx7iMVydPQXGOoLsxXl84PXtbA.jpg"
+    },
+    {
+     "name": "Jamie Foxx",
+     "character": "Max Dillon / Electro",
+     "slug": "jamie-foxx",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/25zzvFA6yx2Q9BYnugsbd4JWDfu.jpg"
+    },
+    {
+     "name": "Willem Dafoe",
+     "character": "Norman Osborn / Green Goblin",
+     "slug": "willem-dafoe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+     "name": "Alfred Molina",
+     "character": "Dr. Otto Octavius / Doc Ock",
+     "slug": "alfred-molina",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jon Watts",
+       "slug": "jon-watts"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Chris McKenna",
+       "slug": "chris-mckenna"
+      },
+      {
+       "name": "Erik Sommers",
+       "slug": "erik-sommers"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Michael Giacchino",
+       "slug": "michael-giacchino"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mauro Fiore",
+       "slug": "mauro-fiore"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jeffrey Ford",
+       "slug": "jeffrey-ford"
+      },
+      {
+       "name": "Leigh Folsom Boyd",
+       "slug": "leigh-folsom-boyd"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      },
+      {
+       "name": "Amy Pascal",
+       "slug": "amy-pascal"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Pascal Pictures",
+     "slug": "pascal-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/nw4kyc29QRpNtFbdsBHkRSFavvt.png"
+    },
+    {
+     "name": "Columbia Pictures",
+     "slug": "columbia-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-03-14",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2180,
+      "name": "Sony Pictures Amazon Channel",
+      "logoPath": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 115271137,
+    "totalShows": 9953,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 29254906,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 29254906,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 90,
+     "weeks_on_chart": 29,
+     "peak_position": 3,
+     "last_week_position": 90
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-12-16"
+   }
+  }
+ }
+}

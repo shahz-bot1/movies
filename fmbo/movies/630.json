@@ -1,0 +1,734 @@
+{
+ "id": 630,
+ "slug": "die-my-love",
+ "source_url": "https://fridaymatinee.in/boxoffice/die-my-love-630",
+ "captured_at": "2026-10-01T18:17:28.263757+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 630,
+    "title": "Die, My Love",
+    "img": "https://image.tmdb.org/t/p/original/hatAXEFKhHuOodgP6w9DompdHg4.jpg",
+    "released": "2024-12-27",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt9362736",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "119 min",
+    "genre": "Drama",
+    "plot": "After inheriting a remote Montana house, Jackson moves there from New York with his partner Grace, and the couple soon welcome a child. As Jackson becomes increasingly absent and rural isolation sets in, Grace struggles with loneliness, creative frustration, and unresolved emotional wounds. What begins as an attempt at renewal gradually turns into an intense psychological descent, placing strain on their relationship and exposing the fragile balance between love, identity, and motherhood.",
+    "released": "2025-10-06",
+    "director": "Lynne Ramsay",
+    "directorSlug": "lynne-ramsay",
+    "actors": [
+     "Jennifer Lawrence",
+     "Robert Pattinson",
+     "Sissy Spacek",
+     "LaKeith Stanfield",
+     "Nick Nolte",
+     "Gabrielle Rose"
+    ],
+    "awards": "2 wins u0026 29 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 49553,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.1",
+      "votes": 644,
+      "updatedAt": "2026-09-24T19:10:28.000Z"
+     },
+     "rt": null,
+     "metascore": 72,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jennifer Lawrence",
+     "character": "Grace",
+     "slug": "jennifer-lawrence",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
+    },
+    {
+     "name": "Robert Pattinson",
+     "character": "Jackson",
+     "slug": "robert-pattinson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aQr7LOIBe15krp0SMbtKAEVUGrT.jpg"
+    },
+    {
+     "name": "Sissy Spacek",
+     "character": "Pam",
+     "slug": "sissy-spacek",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xAxenjxjLNQFq4v1ccS2to3Mnoq.jpg"
+    },
+    {
+     "name": "LaKeith Stanfield",
+     "character": "Karl",
+     "slug": "lakeith-stanfield",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg"
+    },
+    {
+     "name": "Nick Nolte",
+     "character": "Harry",
+     "slug": "nick-nolte",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+     "name": "Gabrielle Rose",
+     "character": "Jen",
+     "slug": "gabrielle-rose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/obWfgaR4YBk648USvpLrJC64DVU.jpg"
+    },
+    {
+     "name": "Clare Coulter",
+     "character": "Courtney",
+     "slug": "clare-coulter",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ki6Mxhn92agQRFJ9AN417s4ShhL.jpg"
+    },
+    {
+     "name": "Sarah Lind",
+     "character": "Cheryl",
+     "slug": "sarah-lind",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v4EGfayvyrgq2y53xb9qWwrvqx.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Lynne Ramsay",
+       "slug": "lynne-ramsay"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Enda Walsh",
+       "slug": "enda-walsh"
+      },
+      {
+       "name": "Lynne Ramsay",
+       "slug": "lynne-ramsay"
+      },
+      {
+       "name": "Alice Birch",
+       "slug": "alice-birch"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "George Vjestica",
+       "slug": "george-vjestica"
+      },
+      {
+       "name": "Raife Patrick Burchell",
+       "slug": "raife-patrick-burchell"
+      },
+      {
+       "name": "Lynne Ramsay",
+       "slug": "lynne-ramsay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Seamus McGarvey",
+       "slug": "seamus-mcgarvey"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Toni Froschhammer",
+       "slug": "toni-froschhammer"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Martin Scorsese",
+       "slug": "martin-scorsese"
+      },
+      {
+       "name": "Jennifer Lawrence",
+       "slug": "jennifer-lawrence"
+      },
+      {
+       "name": "Justine Ciarrocchi",
+       "slug": "justine-ciarrocchi"
+      },
+      {
+       "name": "Andrea Calderwood",
+       "slug": "andrea-calderwood"
+      },
+      {
+       "name": "Molly Smith",
+       "slug": "molly-smith"
+      },
+      {
+       "name": "Trent Luckinbill",
+       "slug": "trent-luckinbill"
+      },
+      {
+       "name": "Thad Luckinbill",
+       "slug": "thad-luckinbill"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Excellent Cadaver",
+     "slug": "excellent-cadaver",
+     "logo": null
+    },
+    {
+     "name": "Sikelia Productions",
+     "slug": "sikelia-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/cBPyrhXhGKzxUdL4Fkg801HZ4W.png"
+    },
+    {
+     "name": "Black Label Media",
+     "slug": "black-label-media",
+     "logo": "https://image.tmdb.org/t/p/w185/dHx2nsV9AC7IBlKN2dk1FDImvOz.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-01-23",
+    "platforms": [
+     {
+      "id": 11,
+      "name": "MUBI",
+      "logoPath": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 201,
+      "name": "MUBI Amazon Channel",
+      "logoPath": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalDays": 0,
+    "openingDay": null,
+    "peakDay": null,
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-12-27"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 630,
+    "title": "Die, My Love",
+    "img": "https://image.tmdb.org/t/p/original/hatAXEFKhHuOodgP6w9DompdHg4.jpg",
+    "released": "2024-12-27",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt9362736",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "119 min",
+    "genre": "Drama",
+    "plot": "After inheriting a remote Montana house, Jackson moves there from New York with his partner Grace, and the couple soon welcome a child. As Jackson becomes increasingly absent and rural isolation sets in, Grace struggles with loneliness, creative frustration, and unresolved emotional wounds. What begins as an attempt at renewal gradually turns into an intense psychological descent, placing strain on their relationship and exposing the fragile balance between love, identity, and motherhood.",
+    "released": "2025-10-06",
+    "director": "Lynne Ramsay",
+    "directorSlug": "lynne-ramsay",
+    "actors": [
+     "Jennifer Lawrence",
+     "Robert Pattinson",
+     "Sissy Spacek",
+     "LaKeith Stanfield",
+     "Nick Nolte",
+     "Gabrielle Rose"
+    ],
+    "awards": "2 wins u0026 29 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 49553,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.1",
+      "votes": 644,
+      "updatedAt": "2026-09-24T19:10:28.000Z"
+     },
+     "rt": null,
+     "metascore": 72,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jennifer Lawrence",
+     "character": "Grace",
+     "slug": "jennifer-lawrence",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
+    },
+    {
+     "name": "Robert Pattinson",
+     "character": "Jackson",
+     "slug": "robert-pattinson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aQr7LOIBe15krp0SMbtKAEVUGrT.jpg"
+    },
+    {
+     "name": "Sissy Spacek",
+     "character": "Pam",
+     "slug": "sissy-spacek",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xAxenjxjLNQFq4v1ccS2to3Mnoq.jpg"
+    },
+    {
+     "name": "LaKeith Stanfield",
+     "character": "Karl",
+     "slug": "lakeith-stanfield",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg"
+    },
+    {
+     "name": "Nick Nolte",
+     "character": "Harry",
+     "slug": "nick-nolte",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+     "name": "Gabrielle Rose",
+     "character": "Jen",
+     "slug": "gabrielle-rose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/obWfgaR4YBk648USvpLrJC64DVU.jpg"
+    },
+    {
+     "name": "Clare Coulter",
+     "character": "Courtney",
+     "slug": "clare-coulter",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ki6Mxhn92agQRFJ9AN417s4ShhL.jpg"
+    },
+    {
+     "name": "Sarah Lind",
+     "character": "Cheryl",
+     "slug": "sarah-lind",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v4EGfayvyrgq2y53xb9qWwrvqx.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Lynne Ramsay",
+       "slug": "lynne-ramsay"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Enda Walsh",
+       "slug": "enda-walsh"
+      },
+      {
+       "name": "Lynne Ramsay",
+       "slug": "lynne-ramsay"
+      },
+      {
+       "name": "Alice Birch",
+       "slug": "alice-birch"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "George Vjestica",
+       "slug": "george-vjestica"
+      },
+      {
+       "name": "Raife Patrick Burchell",
+       "slug": "raife-patrick-burchell"
+      },
+      {
+       "name": "Lynne Ramsay",
+       "slug": "lynne-ramsay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Seamus McGarvey",
+       "slug": "seamus-mcgarvey"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Toni Froschhammer",
+       "slug": "toni-froschhammer"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Martin Scorsese",
+       "slug": "martin-scorsese"
+      },
+      {
+       "name": "Jennifer Lawrence",
+       "slug": "jennifer-lawrence"
+      },
+      {
+       "name": "Justine Ciarrocchi",
+       "slug": "justine-ciarrocchi"
+      },
+      {
+       "name": "Andrea Calderwood",
+       "slug": "andrea-calderwood"
+      },
+      {
+       "name": "Molly Smith",
+       "slug": "molly-smith"
+      },
+      {
+       "name": "Trent Luckinbill",
+       "slug": "trent-luckinbill"
+      },
+      {
+       "name": "Thad Luckinbill",
+       "slug": "thad-luckinbill"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Excellent Cadaver",
+     "slug": "excellent-cadaver",
+     "logo": null
+    },
+    {
+     "name": "Sikelia Productions",
+     "slug": "sikelia-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/cBPyrhXhGKzxUdL4Fkg801HZ4W.png"
+    },
+    {
+     "name": "Black Label Media",
+     "slug": "black-label-media",
+     "logo": "https://image.tmdb.org/t/p/w185/dHx2nsV9AC7IBlKN2dk1FDImvOz.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-01-23",
+    "platforms": [
+     {
+      "id": 11,
+      "name": "MUBI",
+      "logoPath": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 201,
+      "name": "MUBI Amazon Channel",
+      "logoPath": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalDays": 0,
+    "openingDay": null,
+    "peakDay": null,
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-12-27"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 630,
+    "title": "Die, My Love",
+    "img": "https://image.tmdb.org/t/p/original/hatAXEFKhHuOodgP6w9DompdHg4.jpg",
+    "released": "2024-12-27",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt9362736",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "119 min",
+    "genre": "Drama",
+    "plot": "After inheriting a remote Montana house, Jackson moves there from New York with his partner Grace, and the couple soon welcome a child. As Jackson becomes increasingly absent and rural isolation sets in, Grace struggles with loneliness, creative frustration, and unresolved emotional wounds. What begins as an attempt at renewal gradually turns into an intense psychological descent, placing strain on their relationship and exposing the fragile balance between love, identity, and motherhood.",
+    "released": "2025-10-06",
+    "director": "Lynne Ramsay",
+    "directorSlug": "lynne-ramsay",
+    "actors": [
+     "Jennifer Lawrence",
+     "Robert Pattinson",
+     "Sissy Spacek",
+     "LaKeith Stanfield",
+     "Nick Nolte",
+     "Gabrielle Rose"
+    ],
+    "awards": "2 wins u0026 29 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 49553,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.1",
+      "votes": 644,
+      "updatedAt": "2026-09-24T19:10:28.000Z"
+     },
+     "rt": null,
+     "metascore": 72,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jennifer Lawrence",
+     "character": "Grace",
+     "slug": "jennifer-lawrence",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
+    },
+    {
+     "name": "Robert Pattinson",
+     "character": "Jackson",
+     "slug": "robert-pattinson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aQr7LOIBe15krp0SMbtKAEVUGrT.jpg"
+    },
+    {
+     "name": "Sissy Spacek",
+     "character": "Pam",
+     "slug": "sissy-spacek",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xAxenjxjLNQFq4v1ccS2to3Mnoq.jpg"
+    },
+    {
+     "name": "LaKeith Stanfield",
+     "character": "Karl",
+     "slug": "lakeith-stanfield",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg"
+    },
+    {
+     "name": "Nick Nolte",
+     "character": "Harry",
+     "slug": "nick-nolte",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+     "name": "Gabrielle Rose",
+     "character": "Jen",
+     "slug": "gabrielle-rose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/obWfgaR4YBk648USvpLrJC64DVU.jpg"
+    },
+    {
+     "name": "Clare Coulter",
+     "character": "Courtney",
+     "slug": "clare-coulter",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ki6Mxhn92agQRFJ9AN417s4ShhL.jpg"
+    },
+    {
+     "name": "Sarah Lind",
+     "character": "Cheryl",
+     "slug": "sarah-lind",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v4EGfayvyrgq2y53xb9qWwrvqx.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Lynne Ramsay",
+       "slug": "lynne-ramsay"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Enda Walsh",
+       "slug": "enda-walsh"
+      },
+      {
+       "name": "Lynne Ramsay",
+       "slug": "lynne-ramsay"
+      },
+      {
+       "name": "Alice Birch",
+       "slug": "alice-birch"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "George Vjestica",
+       "slug": "george-vjestica"
+      },
+      {
+       "name": "Raife Patrick Burchell",
+       "slug": "raife-patrick-burchell"
+      },
+      {
+       "name": "Lynne Ramsay",
+       "slug": "lynne-ramsay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Seamus McGarvey",
+       "slug": "seamus-mcgarvey"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Toni Froschhammer",
+       "slug": "toni-froschhammer"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Martin Scorsese",
+       "slug": "martin-scorsese"
+      },
+      {
+       "name": "Jennifer Lawrence",
+       "slug": "jennifer-lawrence"
+      },
+      {
+       "name": "Justine Ciarrocchi",
+       "slug": "justine-ciarrocchi"
+      },
+      {
+       "name": "Andrea Calderwood",
+       "slug": "andrea-calderwood"
+      },
+      {
+       "name": "Molly Smith",
+       "slug": "molly-smith"
+      },
+      {
+       "name": "Trent Luckinbill",
+       "slug": "trent-luckinbill"
+      },
+      {
+       "name": "Thad Luckinbill",
+       "slug": "thad-luckinbill"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Excellent Cadaver",
+     "slug": "excellent-cadaver",
+     "logo": null
+    },
+    {
+     "name": "Sikelia Productions",
+     "slug": "sikelia-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/cBPyrhXhGKzxUdL4Fkg801HZ4W.png"
+    },
+    {
+     "name": "Black Label Media",
+     "slug": "black-label-media",
+     "logo": "https://image.tmdb.org/t/p/w185/dHx2nsV9AC7IBlKN2dk1FDImvOz.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-01-23",
+    "platforms": [
+     {
+      "id": 11,
+      "name": "MUBI",
+      "logoPath": "/k7iSlvgWzZuO4zU5PcBjhABMuia.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 201,
+      "name": "MUBI Amazon Channel",
+      "logoPath": "/w1hl8HszsPf5aAGT0mVY0O6LYP4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalDays": 0,
+    "openingDay": null,
+    "peakDay": null,
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-12-27"
+   }
+  }
+ }
+}

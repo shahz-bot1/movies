@@ -1,0 +1,76 @@
+{
+ "slug": "karunas",
+ "name": "Karunas",
+ "source_url": "https://fridaymatinee.in/people/karunas",
+ "captured_at": "2026-10-01T23:41:51.704641+00:00",
+ "person": {
+  "name": "Karunas",
+  "photo": "https://image.tmdb.org/t/p/w185/dnh00MeOyiWFQ21l5az3UVJ5rhp.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 8
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 592,
+   "movie_slug": "kanguva",
+   "title": "Kanguva",
+   "year": 2024,
+   "kerala_gross": "₹4.7 Cr"
+  },
+  {
+   "movie_id": 339,
+   "movie_slug": "madraskaaran",
+   "title": "Madraskaaran",
+   "year": 2025,
+   "kerala_gross": "₹1.5L"
+  },
+  {
+   "movie_id": 868,
+   "movie_slug": "diesel",
+   "title": "Diesel",
+   "year": 2025,
+   "kerala_gross": "₹9.5L"
+  },
+  {
+   "movie_id": 1084,
+   "movie_slug": "kara",
+   "title": "Kara",
+   "year": 2026,
+   "kerala_gross": "₹51.6L"
+  },
+  {
+   "movie_id": 1164,
+   "movie_slug": "nooru-sami",
+   "title": "Nooru Sami",
+   "year": 2026,
+   "kerala_gross": "₹5.2L"
+  },
+  {
+   "movie_id": 1192,
+   "movie_slug": "gatta-kusthi-2",
+   "title": "Gatta Kusthi 2",
+   "year": 2026,
+   "kerala_gross": "₹86.8L"
+  },
+  {
+   "movie_id": 1292,
+   "movie_slug": "enna-vilai",
+   "title": "Enna Vilai",
+   "year": 2026,
+   "kerala_gross": "₹5.4L"
+  },
+  {
+   "movie_id": 1316,
+   "movie_slug": "meesaya-murukku-2",
+   "title": "Meesaya Murukku 2",
+   "year": 2026,
+   "kerala_gross": "₹25.6L"
+  }
+ ]
+}

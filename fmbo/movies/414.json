@@ -1,0 +1,736 @@
+{
+ "id": 414,
+ "slug": "jailer",
+ "source_url": "https://fridaymatinee.in/boxoffice/jailer-414",
+ "captured_at": "2026-10-01T18:11:36.034941+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 414,
+    "title": "Jailer",
+    "img": "https://image.tmdb.org/t/p/original/8fakm66O8AFq9T5Pb6XSi8qJhnY.jpg",
+    "released": "2023-08-10",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11663228",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "165 min",
+    "genre": "Action, Crime, Thriller, Comedy, Adventure",
+    "plot": "Muthuvel Pandian, a retired, stern yet compassionate jailer lives a peaceful life with his family, but trouble knocks his door when his cop son’s tryst with an antique mafia gang goes awry and forces Muthu to step back into a dark world he had voluntarily took a break from.",
+    "released": "2023-08-10",
+    "director": "Nelson Dilipkumar",
+    "directorSlug": "nelson-dilipkumar",
+    "actors": [
+     "Rajinikanth",
+     "Vinayakan",
+     "Vasanth Ravi",
+     "Yogi Babu",
+     "Ramya Krishnan",
+     "Mirnaa"
+    ],
+    "awards": "7 wins u0026 10 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 46938,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.5",
+      "votes": 127,
+      "updatedAt": "2026-09-24T22:10:15.000Z"
+     },
+     "rt": "50%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Rajinikanth",
+     "character": "Muthuvel 'Tiger' Pandian",
+     "slug": "rajinikanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cQBcrXqcQPfXOQfNfgO3slJM2xi.jpg"
+    },
+    {
+     "name": "Vinayakan",
+     "character": "Varman",
+     "slug": "vinayakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rUjCPYP3BtgO6MKNquikzLHLzym.jpg"
+    },
+    {
+     "name": "Vasanth Ravi",
+     "character": "Arjun Muthuvel Pandian",
+     "slug": "vasanth-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/90LonpRhF8cgkoERITH9WDKv39x.jpg"
+    },
+    {
+     "name": "Yogi Babu",
+     "character": "Vimal",
+     "slug": "yogi-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+    },
+    {
+     "name": "Ramya Krishnan",
+     "character": "Vijayalakshmi 'Viji' Pandian",
+     "slug": "ramya-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kZvSnBTgsMgTsUE5o1yFQnDR3dl.jpg"
+    },
+    {
+     "name": "Mirnaa",
+     "character": "Shwetha Arjun",
+     "slug": "mirnaa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kUSiqbfOwYtmGYyCShtTY2Sycpo.jpg"
+    },
+    {
+     "name": "Rithvik",
+     "character": "Rithvik 'Rithu' Arjun",
+     "slug": "rithvik",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9j9GPeTCDcqBW5TMDoQwz30usT7.jpg"
+    },
+    {
+     "name": "G. Marimuthu",
+     "character": "Panneeru",
+     "slug": "g-marimuthu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gDBqLLiwYqYtKdhHowX7ppCmko8.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nelson Dilipkumar",
+       "slug": "nelson-dilipkumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Nelson Dilipkumar",
+       "slug": "nelson-dilipkumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vijay Kartik Kannan",
+       "slug": "vijay-kartik-kannan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "R. Nirmal",
+       "slug": "r-nirmal"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kalanithi Maran",
+       "slug": "kalanithi-maran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sun Pictures",
+     "slug": "sun-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8KsxNPnM0y9Dk3fOcHqKUDw2XUs.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-09-07",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 424375385.69000024,
+    "totalShows": 21590,
+    "totalDays": 36,
+    "openingDay": {
+     "day": 1,
+     "gross": 42819307.03999999,
+     "date": "2023-08-10"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 52605803.28,
+     "date": "2023-08-13"
+    },
+    "chartPosition": {
+     "current_position": 18,
+     "weeks_on_chart": 89,
+     "peak_position": 3,
+     "last_week_position": 18
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-08-10"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 414,
+    "title": "Jailer",
+    "img": "https://image.tmdb.org/t/p/original/8fakm66O8AFq9T5Pb6XSi8qJhnY.jpg",
+    "released": "2023-08-10",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11663228",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "165 min",
+    "genre": "Action, Crime, Thriller, Comedy, Adventure",
+    "plot": "Muthuvel Pandian, a retired, stern yet compassionate jailer lives a peaceful life with his family, but trouble knocks his door when his cop son’s tryst with an antique mafia gang goes awry and forces Muthu to step back into a dark world he had voluntarily took a break from.",
+    "released": "2023-08-10",
+    "director": "Nelson Dilipkumar",
+    "directorSlug": "nelson-dilipkumar",
+    "actors": [
+     "Rajinikanth",
+     "Vinayakan",
+     "Vasanth Ravi",
+     "Yogi Babu",
+     "Ramya Krishnan",
+     "Mirnaa"
+    ],
+    "awards": "7 wins u0026 10 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 46938,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.5",
+      "votes": 127,
+      "updatedAt": "2026-09-24T22:10:15.000Z"
+     },
+     "rt": "50%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Rajinikanth",
+     "character": "Muthuvel 'Tiger' Pandian",
+     "slug": "rajinikanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cQBcrXqcQPfXOQfNfgO3slJM2xi.jpg"
+    },
+    {
+     "name": "Vinayakan",
+     "character": "Varman",
+     "slug": "vinayakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rUjCPYP3BtgO6MKNquikzLHLzym.jpg"
+    },
+    {
+     "name": "Vasanth Ravi",
+     "character": "Arjun Muthuvel Pandian",
+     "slug": "vasanth-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/90LonpRhF8cgkoERITH9WDKv39x.jpg"
+    },
+    {
+     "name": "Yogi Babu",
+     "character": "Vimal",
+     "slug": "yogi-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+    },
+    {
+     "name": "Ramya Krishnan",
+     "character": "Vijayalakshmi 'Viji' Pandian",
+     "slug": "ramya-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kZvSnBTgsMgTsUE5o1yFQnDR3dl.jpg"
+    },
+    {
+     "name": "Mirnaa",
+     "character": "Shwetha Arjun",
+     "slug": "mirnaa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kUSiqbfOwYtmGYyCShtTY2Sycpo.jpg"
+    },
+    {
+     "name": "Rithvik",
+     "character": "Rithvik 'Rithu' Arjun",
+     "slug": "rithvik",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9j9GPeTCDcqBW5TMDoQwz30usT7.jpg"
+    },
+    {
+     "name": "G. Marimuthu",
+     "character": "Panneeru",
+     "slug": "g-marimuthu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gDBqLLiwYqYtKdhHowX7ppCmko8.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nelson Dilipkumar",
+       "slug": "nelson-dilipkumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Nelson Dilipkumar",
+       "slug": "nelson-dilipkumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vijay Kartik Kannan",
+       "slug": "vijay-kartik-kannan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "R. Nirmal",
+       "slug": "r-nirmal"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kalanithi Maran",
+       "slug": "kalanithi-maran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sun Pictures",
+     "slug": "sun-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8KsxNPnM0y9Dk3fOcHqKUDw2XUs.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-09-07",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-08-10",
+     "gross": 272114954.75,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 9197,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-08-17",
+     "gross": 88672677.27999991,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 6975,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-08-24",
+     "gross": 40329591.67999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2661,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-08-31",
+     "gross": 22022380.979999997,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2557,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-09-07",
+     "gross": 1168705,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 173,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-09-14",
+     "gross": 67076,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 27,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 424375385.68999994,
+    "totalShows": 21590,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 272114954.75
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 272114954.75
+    },
+    "chartPosition": {
+     "current_position": 18,
+     "weeks_on_chart": 89,
+     "peak_position": 3,
+     "last_week_position": 18
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-08-10"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 414,
+    "title": "Jailer",
+    "img": "https://image.tmdb.org/t/p/original/8fakm66O8AFq9T5Pb6XSi8qJhnY.jpg",
+    "released": "2023-08-10",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11663228",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "165 min",
+    "genre": "Action, Crime, Thriller, Comedy, Adventure",
+    "plot": "Muthuvel Pandian, a retired, stern yet compassionate jailer lives a peaceful life with his family, but trouble knocks his door when his cop son’s tryst with an antique mafia gang goes awry and forces Muthu to step back into a dark world he had voluntarily took a break from.",
+    "released": "2023-08-10",
+    "director": "Nelson Dilipkumar",
+    "directorSlug": "nelson-dilipkumar",
+    "actors": [
+     "Rajinikanth",
+     "Vinayakan",
+     "Vasanth Ravi",
+     "Yogi Babu",
+     "Ramya Krishnan",
+     "Mirnaa"
+    ],
+    "awards": "7 wins u0026 10 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 46938,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.5",
+      "votes": 127,
+      "updatedAt": "2026-09-24T22:10:15.000Z"
+     },
+     "rt": "50%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Rajinikanth",
+     "character": "Muthuvel 'Tiger' Pandian",
+     "slug": "rajinikanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cQBcrXqcQPfXOQfNfgO3slJM2xi.jpg"
+    },
+    {
+     "name": "Vinayakan",
+     "character": "Varman",
+     "slug": "vinayakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rUjCPYP3BtgO6MKNquikzLHLzym.jpg"
+    },
+    {
+     "name": "Vasanth Ravi",
+     "character": "Arjun Muthuvel Pandian",
+     "slug": "vasanth-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/90LonpRhF8cgkoERITH9WDKv39x.jpg"
+    },
+    {
+     "name": "Yogi Babu",
+     "character": "Vimal",
+     "slug": "yogi-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+    },
+    {
+     "name": "Ramya Krishnan",
+     "character": "Vijayalakshmi 'Viji' Pandian",
+     "slug": "ramya-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kZvSnBTgsMgTsUE5o1yFQnDR3dl.jpg"
+    },
+    {
+     "name": "Mirnaa",
+     "character": "Shwetha Arjun",
+     "slug": "mirnaa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kUSiqbfOwYtmGYyCShtTY2Sycpo.jpg"
+    },
+    {
+     "name": "Rithvik",
+     "character": "Rithvik 'Rithu' Arjun",
+     "slug": "rithvik",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9j9GPeTCDcqBW5TMDoQwz30usT7.jpg"
+    },
+    {
+     "name": "G. Marimuthu",
+     "character": "Panneeru",
+     "slug": "g-marimuthu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gDBqLLiwYqYtKdhHowX7ppCmko8.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nelson Dilipkumar",
+       "slug": "nelson-dilipkumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Nelson Dilipkumar",
+       "slug": "nelson-dilipkumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vijay Kartik Kannan",
+       "slug": "vijay-kartik-kannan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "R. Nirmal",
+       "slug": "r-nirmal"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kalanithi Maran",
+       "slug": "kalanithi-maran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sun Pictures",
+     "slug": "sun-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8KsxNPnM0y9Dk3fOcHqKUDw2XUs.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-09-07",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 424375385.69,
+    "totalShows": 21590,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 90448558,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 90448558,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 18,
+     "weeks_on_chart": 89,
+     "peak_position": 3,
+     "last_week_position": 18
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-08-10"
+   }
+  }
+ }
+}

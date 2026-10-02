@@ -1,0 +1,925 @@
+{
+ "id": 823,
+ "slug": "the-smashing-machine",
+ "source_url": "https://fridaymatinee.in/boxoffice/the-smashing-machine-823",
+ "captured_at": "2026-10-01T18:23:27.043777+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 823,
+    "title": "The Smashing Machine",
+    "img": "https://image.tmdb.org/t/p/original/vMDqKiWCciWsF8Q3RCk3YSrZx0y.jpg",
+    "released": "2025-10-10",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11214558",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "123 min",
+    "genre": "Drama, History",
+    "plot": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opioid dependence and a volatile relationship with his girlfriend Dawn.",
+    "released": "2025-10-01",
+    "director": "Benny Safdie",
+    "directorSlug": "benny-safdie",
+    "actors": [
+     "Dwayne Johnson",
+     "Emily Blunt",
+     "Ryan Bader",
+     "Bas Rutten",
+     "Lyndsey Gavin",
+     "Zoe Kosovic"
+    ],
+    "awards": "Nominated for 1 Oscar. 2 wins u0026 25 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 77964,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.4",
+      "votes": 710,
+      "updatedAt": "2026-09-24T16:10:28.000Z"
+     },
+     "rt": "71%",
+     "metascore": 65,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dwayne Johnson",
+     "character": "Mark Kerr",
+     "slug": "dwayne-johnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+    },
+    {
+     "name": "Emily Blunt",
+     "character": "Dawn Staples",
+     "slug": "emily-blunt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+    },
+    {
+     "name": "Ryan Bader",
+     "character": "Mark Coleman",
+     "slug": "ryan-bader",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qHTfat5SYYZWJOiWeoJmru4NwR1.jpg"
+    },
+    {
+     "name": "Bas Rutten",
+     "character": "Bas Rutten",
+     "slug": "bas-rutten",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5Qpf2zUEGLIieIlQQLH50d2wLjm.jpg"
+    },
+    {
+     "name": "Lyndsey Gavin",
+     "character": "Elizabeth Coleman",
+     "slug": "lyndsey-gavin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d6DwK4yVY1jW1hj1hq30LtjZVtd.jpg"
+    },
+    {
+     "name": "Zoe Kosovic",
+     "character": "McKenzie Coleman",
+     "slug": "zoe-kosovic",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/txYng7NF0ypn9RwYuj424RPNFAn.jpg"
+    },
+    {
+     "name": "Oleksandr Usyk",
+     "character": "Igor Vovchanchyn",
+     "slug": "oleksandr-usyk",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qNOkFavDRL3FYnja4mTbyltNoW0.jpg"
+    },
+    {
+     "name": "Satoshi Ishii",
+     "character": "Enson Inoue",
+     "slug": "satoshi-ishii",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mANrQSP5W5NZVK5NICCUWLZ56N0.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Benny Safdie",
+       "slug": "benny-safdie"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Benny Safdie",
+       "slug": "benny-safdie"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Nala Sinephro",
+       "slug": "nala-sinephro"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Maceo Bishop",
+       "slug": "maceo-bishop"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Benny Safdie",
+       "slug": "benny-safdie"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dany Garcia",
+       "slug": "dany-garcia"
+      },
+      {
+       "name": "Dwayne Johnson",
+       "slug": "dwayne-johnson"
+      },
+      {
+       "name": "David Koplan",
+       "slug": "david-koplan"
+      },
+      {
+       "name": "Beau Flynn",
+       "slug": "beau-flynn"
+      },
+      {
+       "name": "Hiram Garcia",
+       "slug": "hiram-garcia-10960"
+      },
+      {
+       "name": "Eli Bush",
+       "slug": "eli-bush"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "A24",
+     "slug": "a24",
+     "logo": "https://image.tmdb.org/t/p/w185/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png"
+    },
+    {
+     "name": "Seven Bucks Productions",
+     "slug": "seven-bucks-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png"
+    },
+    {
+     "name": "Out for the Count",
+     "slug": "out-for-the-count",
+     "logo": null
+    },
+    {
+     "name": "Magnetic Fields Entertainment",
+     "slug": "magnetic-fields-entertainment",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-03",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-10-10": [
+     {
+      "id": 831,
+      "title": "TRON: Ares",
+      "img": "https://image.tmdb.org/t/p/original/5T3cyazcqaecydQubstqsLOLH8Q.jpg"
+     },
+     {
+      "id": 859,
+      "title": "Feminist Fathima",
+      "img": "https://image.tmdb.org/t/p/w1280/gtgBl6G6jUDNFiAzGNdJlXiB5kd.jpg"
+     },
+     {
+      "id": 861,
+      "title": "Avihitham",
+      "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPHdHjoUK2Hft5XpyYQ4s7XqxrE.jpg"
+     }
+    ],
+    "2025-10-16": [
+     {
+      "id": 858,
+      "title": "The Pet Detective",
+      "img": "https://image.tmdb.org/t/p/original/ydaAO8A9pIdtLN6K3hSAGVn08rH.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-10-10",
+     "gross": 27520,
+     "sold": 138,
+     "unsold": 992,
+     "shows": 8,
+     "occ": 12.21,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 27520,
+     "lastUpdatedAt": "2025-10-10 22:33:00"
+    },
+    {
+     "label": "2025-10-11",
+     "gross": 22340,
+     "sold": 113,
+     "unsold": 1020,
+     "shows": 8,
+     "occ": 9.97,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 49860,
+     "lastUpdatedAt": "2025-10-11 22:33:00"
+    },
+    {
+     "label": "2025-10-12",
+     "gross": 20980,
+     "sold": 96,
+     "unsold": 930,
+     "shows": 7,
+     "occ": 9.36,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 70840,
+     "lastUpdatedAt": "2025-10-12 22:33:00"
+    },
+    {
+     "label": "2025-10-13",
+     "gross": 4270,
+     "sold": 21,
+     "unsold": 622,
+     "shows": 4,
+     "occ": 3.27,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 75110,
+     "lastUpdatedAt": "2025-10-13 23:13:00"
+    },
+    {
+     "label": "2025-10-14",
+     "gross": 4410,
+     "sold": 24,
+     "unsold": 618,
+     "shows": 4,
+     "occ": 3.74,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 79520,
+     "lastUpdatedAt": "2025-10-14 23:13:00"
+    },
+    {
+     "label": "2025-10-15",
+     "gross": 5540,
+     "sold": 31,
+     "unsold": 749,
+     "shows": 5,
+     "occ": 3.97,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 85060,
+     "lastUpdatedAt": "2025-10-15 23:13:00"
+    },
+    {
+     "label": "2025-10-16",
+     "gross": 3090,
+     "sold": 17,
+     "unsold": 326,
+     "shows": 2,
+     "occ": 4.96,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 88150,
+     "lastUpdatedAt": "2025-10-16 20:08:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 88150,
+    "totalShows": 38,
+    "totalSeats": 5697,
+    "totalSold": 440,
+    "avgOcc": "7.7",
+    "totalDays": 7,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 27520,
+     "date": "2025-10-10"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 27520,
+     "date": "2025-10-10"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "7:3090:88150"
+  },
+  "week": {
+   "movie": {
+    "id": 823,
+    "title": "The Smashing Machine",
+    "img": "https://image.tmdb.org/t/p/original/vMDqKiWCciWsF8Q3RCk3YSrZx0y.jpg",
+    "released": "2025-10-10",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11214558",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "123 min",
+    "genre": "Drama, History",
+    "plot": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opioid dependence and a volatile relationship with his girlfriend Dawn.",
+    "released": "2025-10-01",
+    "director": "Benny Safdie",
+    "directorSlug": "benny-safdie",
+    "actors": [
+     "Dwayne Johnson",
+     "Emily Blunt",
+     "Ryan Bader",
+     "Bas Rutten",
+     "Lyndsey Gavin",
+     "Zoe Kosovic"
+    ],
+    "awards": "Nominated for 1 Oscar. 2 wins u0026 25 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 77964,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.4",
+      "votes": 710,
+      "updatedAt": "2026-09-24T16:10:28.000Z"
+     },
+     "rt": "71%",
+     "metascore": 65,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dwayne Johnson",
+     "character": "Mark Kerr",
+     "slug": "dwayne-johnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+    },
+    {
+     "name": "Emily Blunt",
+     "character": "Dawn Staples",
+     "slug": "emily-blunt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+    },
+    {
+     "name": "Ryan Bader",
+     "character": "Mark Coleman",
+     "slug": "ryan-bader",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qHTfat5SYYZWJOiWeoJmru4NwR1.jpg"
+    },
+    {
+     "name": "Bas Rutten",
+     "character": "Bas Rutten",
+     "slug": "bas-rutten",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5Qpf2zUEGLIieIlQQLH50d2wLjm.jpg"
+    },
+    {
+     "name": "Lyndsey Gavin",
+     "character": "Elizabeth Coleman",
+     "slug": "lyndsey-gavin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d6DwK4yVY1jW1hj1hq30LtjZVtd.jpg"
+    },
+    {
+     "name": "Zoe Kosovic",
+     "character": "McKenzie Coleman",
+     "slug": "zoe-kosovic",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/txYng7NF0ypn9RwYuj424RPNFAn.jpg"
+    },
+    {
+     "name": "Oleksandr Usyk",
+     "character": "Igor Vovchanchyn",
+     "slug": "oleksandr-usyk",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qNOkFavDRL3FYnja4mTbyltNoW0.jpg"
+    },
+    {
+     "name": "Satoshi Ishii",
+     "character": "Enson Inoue",
+     "slug": "satoshi-ishii",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mANrQSP5W5NZVK5NICCUWLZ56N0.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Benny Safdie",
+       "slug": "benny-safdie"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Benny Safdie",
+       "slug": "benny-safdie"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Nala Sinephro",
+       "slug": "nala-sinephro"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Maceo Bishop",
+       "slug": "maceo-bishop"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Benny Safdie",
+       "slug": "benny-safdie"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dany Garcia",
+       "slug": "dany-garcia"
+      },
+      {
+       "name": "Dwayne Johnson",
+       "slug": "dwayne-johnson"
+      },
+      {
+       "name": "David Koplan",
+       "slug": "david-koplan"
+      },
+      {
+       "name": "Beau Flynn",
+       "slug": "beau-flynn"
+      },
+      {
+       "name": "Hiram Garcia",
+       "slug": "hiram-garcia-10960"
+      },
+      {
+       "name": "Eli Bush",
+       "slug": "eli-bush"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "A24",
+     "slug": "a24",
+     "logo": "https://image.tmdb.org/t/p/w185/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png"
+    },
+    {
+     "name": "Seven Bucks Productions",
+     "slug": "seven-bucks-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png"
+    },
+    {
+     "name": "Out for the Count",
+     "slug": "out-for-the-count",
+     "logo": null
+    },
+    {
+     "name": "Magnetic Fields Entertainment",
+     "slug": "magnetic-fields-entertainment",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-03",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-10-10": [
+     {
+      "id": 831,
+      "title": "TRON: Ares",
+      "img": "https://image.tmdb.org/t/p/original/5T3cyazcqaecydQubstqsLOLH8Q.jpg"
+     },
+     {
+      "id": 859,
+      "title": "Feminist Fathima",
+      "img": "https://image.tmdb.org/t/p/w1280/gtgBl6G6jUDNFiAzGNdJlXiB5kd.jpg"
+     },
+     {
+      "id": 861,
+      "title": "Avihitham",
+      "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPHdHjoUK2Hft5XpyYQ4s7XqxrE.jpg"
+     }
+    ],
+    "2025-10-16": [
+     {
+      "id": 858,
+      "title": "The Pet Detective",
+      "img": "https://image.tmdb.org/t/p/original/ydaAO8A9pIdtLN6K3hSAGVn08rH.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-10-10",
+     "gross": 88150,
+     "sold": 440,
+     "unsold": 5257,
+     "shows": 38,
+     "occ": 7.72,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 88150,
+     "lastUpdatedAt": "2025-10-16 20:08:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 88150,
+    "totalShows": 38,
+    "totalSeats": 5697,
+    "totalSold": 440,
+    "avgOcc": "7.7",
+    "totalDays": 1,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 88150
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 88150
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:88150:88150"
+  },
+  "district": {
+   "movie": {
+    "id": 823,
+    "title": "The Smashing Machine",
+    "img": "https://image.tmdb.org/t/p/original/vMDqKiWCciWsF8Q3RCk3YSrZx0y.jpg",
+    "released": "2025-10-10",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11214558",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "123 min",
+    "genre": "Drama, History",
+    "plot": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opioid dependence and a volatile relationship with his girlfriend Dawn.",
+    "released": "2025-10-01",
+    "director": "Benny Safdie",
+    "directorSlug": "benny-safdie",
+    "actors": [
+     "Dwayne Johnson",
+     "Emily Blunt",
+     "Ryan Bader",
+     "Bas Rutten",
+     "Lyndsey Gavin",
+     "Zoe Kosovic"
+    ],
+    "awards": "Nominated for 1 Oscar. 2 wins u0026 25 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 77964,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.4",
+      "votes": 710,
+      "updatedAt": "2026-09-24T16:10:28.000Z"
+     },
+     "rt": "71%",
+     "metascore": 65,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dwayne Johnson",
+     "character": "Mark Kerr",
+     "slug": "dwayne-johnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+    },
+    {
+     "name": "Emily Blunt",
+     "character": "Dawn Staples",
+     "slug": "emily-blunt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+    },
+    {
+     "name": "Ryan Bader",
+     "character": "Mark Coleman",
+     "slug": "ryan-bader",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qHTfat5SYYZWJOiWeoJmru4NwR1.jpg"
+    },
+    {
+     "name": "Bas Rutten",
+     "character": "Bas Rutten",
+     "slug": "bas-rutten",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5Qpf2zUEGLIieIlQQLH50d2wLjm.jpg"
+    },
+    {
+     "name": "Lyndsey Gavin",
+     "character": "Elizabeth Coleman",
+     "slug": "lyndsey-gavin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d6DwK4yVY1jW1hj1hq30LtjZVtd.jpg"
+    },
+    {
+     "name": "Zoe Kosovic",
+     "character": "McKenzie Coleman",
+     "slug": "zoe-kosovic",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/txYng7NF0ypn9RwYuj424RPNFAn.jpg"
+    },
+    {
+     "name": "Oleksandr Usyk",
+     "character": "Igor Vovchanchyn",
+     "slug": "oleksandr-usyk",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qNOkFavDRL3FYnja4mTbyltNoW0.jpg"
+    },
+    {
+     "name": "Satoshi Ishii",
+     "character": "Enson Inoue",
+     "slug": "satoshi-ishii",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mANrQSP5W5NZVK5NICCUWLZ56N0.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Benny Safdie",
+       "slug": "benny-safdie"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Benny Safdie",
+       "slug": "benny-safdie"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Nala Sinephro",
+       "slug": "nala-sinephro"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Maceo Bishop",
+       "slug": "maceo-bishop"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Benny Safdie",
+       "slug": "benny-safdie"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dany Garcia",
+       "slug": "dany-garcia"
+      },
+      {
+       "name": "Dwayne Johnson",
+       "slug": "dwayne-johnson"
+      },
+      {
+       "name": "David Koplan",
+       "slug": "david-koplan"
+      },
+      {
+       "name": "Beau Flynn",
+       "slug": "beau-flynn"
+      },
+      {
+       "name": "Hiram Garcia",
+       "slug": "hiram-garcia-10960"
+      },
+      {
+       "name": "Eli Bush",
+       "slug": "eli-bush"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "A24",
+     "slug": "a24",
+     "logo": "https://image.tmdb.org/t/p/w185/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png"
+    },
+    {
+     "name": "Seven Bucks Productions",
+     "slug": "seven-bucks-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png"
+    },
+    {
+     "name": "Out for the Count",
+     "slug": "out-for-the-count",
+     "logo": null
+    },
+    {
+     "name": "Magnetic Fields Entertainment",
+     "slug": "magnetic-fields-entertainment",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-03",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-10-10": [
+     {
+      "id": 831,
+      "title": "TRON: Ares",
+      "img": "https://image.tmdb.org/t/p/original/5T3cyazcqaecydQubstqsLOLH8Q.jpg"
+     },
+     {
+      "id": 859,
+      "title": "Feminist Fathima",
+      "img": "https://image.tmdb.org/t/p/w1280/gtgBl6G6jUDNFiAzGNdJlXiB5kd.jpg"
+     },
+     {
+      "id": 861,
+      "title": "Avihitham",
+      "img": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPHdHjoUK2Hft5XpyYQ4s7XqxrE.jpg"
+     }
+    ],
+    "2025-10-16": [
+     {
+      "id": 858,
+      "title": "The Pet Detective",
+      "img": "https://image.tmdb.org/t/p/original/ydaAO8A9pIdtLN6K3hSAGVn08rH.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 59900,
+     "sold": 302,
+     "unsold": 3600,
+     "shows": 25,
+     "occ": 7.74,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 59900,
+     "lastUpdatedAt": "2025-10-16 20:08:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 28250,
+     "sold": 138,
+     "unsold": 1657,
+     "shows": 13,
+     "occ": 7.69,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 88150,
+     "lastUpdatedAt": "2025-10-15 16:58:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 88150,
+    "totalShows": 38,
+    "totalSeats": 5697,
+    "totalSold": 440,
+    "avgOcc": "7.7",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 59900,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 59900,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "2:28250:88150"
+  }
+ }
+}

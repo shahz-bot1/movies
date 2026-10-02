@@ -1,0 +1,41 @@
+{
+ "slug": "abhishek-raveendran",
+ "name": "Abhishek Raveendran",
+ "source_url": "https://fridaymatinee.in/people/abhishek-raveendran",
+ "captured_at": "2026-10-01T20:07:52.773396+00:00",
+ "person": {
+  "name": "Abhishek Raveendran",
+  "photo": "https://image.tmdb.org/t/p/w185/9895dMZFKOaVkmyoqjx5YoaRr0w.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 68,
+   "movie_slug": "yuvam",
+   "title": "Yuvam",
+   "year": 2021,
+   "kerala_gross": "₹10.9L"
+  },
+  {
+   "movie_id": 724,
+   "movie_slug": "jsk-janaki-v-vs-state-of-kerala",
+   "title": "Jsk - Janaki V Vs State Of Kerala",
+   "year": 2025,
+   "kerala_gross": "₹4.6 Cr"
+  },
+  {
+   "movie_id": 1094,
+   "movie_slug": "dridam",
+   "title": "Dridam",
+   "year": 2026,
+   "kerala_gross": "₹3.2 Cr"
+  }
+ ]
+}

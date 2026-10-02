@@ -1,0 +1,46 @@
+{
+ "slug": "nicole-kidman",
+ "name": "Nicole Kidman",
+ "source_url": "https://fridaymatinee.in/people/nicole-kidman",
+ "captured_at": "2026-10-02T01:00:15.636041+00:00",
+ "person": {
+  "name": "Nicole Kidman",
+  "photo": "https://image.tmdb.org/t/p/w185/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 480,
+   "movie_slug": "aquaman-and-the-lost-kingdom",
+   "title": "Aquaman and the Lost Kingdom",
+   "year": 2023,
+   "kerala_gross": "₹79.2L"
+  },
+  {
+   "movie_id": 756,
+   "movie_slug": "babygirl",
+   "title": "Babygirl",
+   "year": 2025,
+   "kerala_gross": "₹34K"
+  },
+  {
+   "movie_id": 1294,
+   "movie_slug": "practical-magic-2",
+   "title": "Practical Magic 2",
+   "year": 2026,
+   "kerala_gross": "₹86K"
+  }
+ ]
+}

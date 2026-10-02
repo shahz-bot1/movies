@@ -1,0 +1,48 @@
+{
+ "slug": "silambarasan-rajendar",
+ "name": "Silambarasan",
+ "source_url": "https://fridaymatinee.in/people/silambarasan-rajendar",
+ "captured_at": "2026-10-02T10:45:32.798225+00:00",
+ "person": {
+  "name": "Silambarasan",
+  "photo": "https://image.tmdb.org/t/p/w185/1T35CiKVldfxElZfQqaoN6GhvuU.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 65,
+   "movie_slug": "eeswaran",
+   "title": "Eeswaran",
+   "year": 2021,
+   "kerala_gross": "₹1.4L"
+  },
+  {
+   "movie_id": 204,
+   "movie_slug": "vendhu-thanindhathu-kaadu",
+   "title": "Vendhu Thanindhathu Kaadu",
+   "year": 2022,
+   "kerala_gross": "₹40.9L"
+  },
+  {
+   "movie_id": 313,
+   "movie_slug": "pathu-thala",
+   "title": "Pathu Thala",
+   "year": 2023,
+   "kerala_gross": "₹41.7L"
+  },
+  {
+   "movie_id": 701,
+   "movie_slug": "thug-life",
+   "title": "Thug Life",
+   "year": 2025,
+   "kerala_gross": "₹2.2 Cr"
+  }
+ ]
+}

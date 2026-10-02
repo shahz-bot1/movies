@@ -1,0 +1,41 @@
+{
+ "slug": "harish-kumar",
+ "name": "Harish Kumar",
+ "source_url": "https://fridaymatinee.in/people/harish-kumar",
+ "captured_at": "2026-10-01T22:41:55.498303+00:00",
+ "person": {
+  "name": "Harish Kumar",
+  "photo": "https://image.tmdb.org/t/p/w185/5F32BNTgYRPQ04obPaYPPu7xo7M.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 390,
+   "movie_slug": "por-thozhil",
+   "title": "Por Thozhil",
+   "year": 2023,
+   "kerala_gross": "₹2.8 Cr"
+  },
+  {
+   "movie_id": 773,
+   "movie_slug": "thalavara",
+   "title": "Thalavara",
+   "year": 2025,
+   "kerala_gross": "₹2.0 Cr"
+  },
+  {
+   "movie_id": 997,
+   "movie_slug": "with-love",
+   "title": "With Love",
+   "year": 2026,
+   "kerala_gross": "₹27.5L"
+  }
+ ]
+}

@@ -1,0 +1,614 @@
+{
+ "id": 1112,
+ "slug": "indian-institute-of-zombies",
+ "source_url": "https://fridaymatinee.in/boxoffice/indian-institute-of-zombies-1112",
+ "captured_at": "2026-10-01T19:47:18.968600+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1112,
+    "title": "Indian Institute of Zombies",
+    "img": "https://image.tmdb.org/t/p/original/PjQ2Aj7MAiBmcIf3oT8lSIhv8P.jpg",
+    "released": "2026-05-15",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt41113860",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "137 min",
+    "genre": "Comedy, Horror",
+    "plot": "At an elite engineering campus, students must survive a sudden zombie outbreak while navigating academic pressures and social hierarchies, blending horror with comedy and biting satire of privilege and competition.",
+    "released": "2026-05-08",
+    "director": "Gaganjeet Singh",
+    "directorSlug": "gaganjeet-singh",
+    "actors": [
+     "Jessey Lever",
+     "Anupriya Goenka",
+     "Mohan Kapur",
+     "Ranjan Raj",
+     "Shivani Paliwal",
+     "Shantanu Anam"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.2",
+      "votes": 1077,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T10:11:26.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jessey Lever",
+     "character": null,
+     "slug": "jessey-lever",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Aa9SuM1J1Wn5JsmVIMe4uQ9OYRk.jpg"
+    },
+    {
+     "name": "Anupriya Goenka",
+     "character": null,
+     "slug": "anupriya-goenka",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yU73MlKR4rTtxWXPqeqIBxsKY3q.jpg"
+    },
+    {
+     "name": "Mohan Kapur",
+     "character": null,
+     "slug": "mohan-kapur",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lL0J5DBOwN1pwLCvuo7uQ0ApjF.jpg"
+    },
+    {
+     "name": "Ranjan Raj",
+     "character": null,
+     "slug": "ranjan-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nqVHCwVLUrARq4DtFKRbzHhvMZq.jpg"
+    },
+    {
+     "name": "Shivani Paliwal",
+     "character": null,
+     "slug": "shivani-paliwal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kyysczRjkCbVQFd5lBKzQy407o.jpg"
+    },
+    {
+     "name": "Shantanu Anam",
+     "character": null,
+     "slug": "shantanu-anam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4wpU6yrjGgTQBaCCn0hRq4TxgdZ.jpg"
+    },
+    {
+     "name": "Rose Sardana",
+     "character": null,
+     "slug": "rose-sardana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d5Ui87qcexhS5lj4FHXJ8VBGYla.jpg"
+    },
+    {
+     "name": "Sachin Kavetham",
+     "character": null,
+     "slug": "sachin-kavetham",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Gaganjeet Singh",
+       "slug": "gaganjeet-singh"
+      },
+      {
+       "name": "Alok Kumar Dwivedi",
+       "slug": "alok-kumar-dwivedi"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Hussain Dalal",
+       "slug": "hussain-dalal"
+      },
+      {
+       "name": "Abbas Dalal",
+       "slug": "abbas-dalal"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Low Gravity",
+     "slug": "low-gravity",
+     "logo": null
+    },
+    {
+     "name": "Kuku TV",
+     "slug": "kuku-tv",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-05-15": [
+     {
+      "id": 1106,
+      "title": "Karuppu",
+      "img": "https://image.tmdb.org/t/p/original/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg"
+     },
+     {
+      "id": 1108,
+      "title": "Hokum",
+      "img": "https://image.tmdb.org/t/p/original/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
+     },
+     {
+      "id": 1109,
+      "title": "Pati Patni Aur Woh",
+      "img": "https://image.tmdb.org/t/p/original/9sAegdBnkfucqhrsocR47zCKcez.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-05-15",
+     "gross": 10810,
+     "sold": 40,
+     "unsold": 247,
+     "shows": 3,
+     "occ": 13.94,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 10810,
+     "lastUpdatedAt": "2026-05-15 20:03:00"
+    },
+    {
+     "label": "2026-05-16",
+     "gross": 24400,
+     "sold": 106,
+     "unsold": 210,
+     "shows": 3,
+     "occ": 33.54,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 35210,
+     "lastUpdatedAt": "2026-05-16 22:28:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 35210,
+    "totalShows": 6,
+    "totalSeats": 603,
+    "totalSold": 146,
+    "avgOcc": "24.2",
+    "totalDays": 2,
+    "totalHousefull": 2,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 2,
+     "gross": 24400,
+     "date": "2026-05-16"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 10810,
+     "date": "2026-05-15"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "2:24400:35210"
+  },
+  "week": {
+   "movie": {
+    "id": 1112,
+    "title": "Indian Institute of Zombies",
+    "img": "https://image.tmdb.org/t/p/original/PjQ2Aj7MAiBmcIf3oT8lSIhv8P.jpg",
+    "released": "2026-05-15",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt41113860",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "137 min",
+    "genre": "Comedy, Horror",
+    "plot": "At an elite engineering campus, students must survive a sudden zombie outbreak while navigating academic pressures and social hierarchies, blending horror with comedy and biting satire of privilege and competition.",
+    "released": "2026-05-08",
+    "director": "Gaganjeet Singh",
+    "directorSlug": "gaganjeet-singh",
+    "actors": [
+     "Jessey Lever",
+     "Anupriya Goenka",
+     "Mohan Kapur",
+     "Ranjan Raj",
+     "Shivani Paliwal",
+     "Shantanu Anam"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.2",
+      "votes": 1077,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T10:11:26.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jessey Lever",
+     "character": null,
+     "slug": "jessey-lever",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Aa9SuM1J1Wn5JsmVIMe4uQ9OYRk.jpg"
+    },
+    {
+     "name": "Anupriya Goenka",
+     "character": null,
+     "slug": "anupriya-goenka",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yU73MlKR4rTtxWXPqeqIBxsKY3q.jpg"
+    },
+    {
+     "name": "Mohan Kapur",
+     "character": null,
+     "slug": "mohan-kapur",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lL0J5DBOwN1pwLCvuo7uQ0ApjF.jpg"
+    },
+    {
+     "name": "Ranjan Raj",
+     "character": null,
+     "slug": "ranjan-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nqVHCwVLUrARq4DtFKRbzHhvMZq.jpg"
+    },
+    {
+     "name": "Shivani Paliwal",
+     "character": null,
+     "slug": "shivani-paliwal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kyysczRjkCbVQFd5lBKzQy407o.jpg"
+    },
+    {
+     "name": "Shantanu Anam",
+     "character": null,
+     "slug": "shantanu-anam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4wpU6yrjGgTQBaCCn0hRq4TxgdZ.jpg"
+    },
+    {
+     "name": "Rose Sardana",
+     "character": null,
+     "slug": "rose-sardana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d5Ui87qcexhS5lj4FHXJ8VBGYla.jpg"
+    },
+    {
+     "name": "Sachin Kavetham",
+     "character": null,
+     "slug": "sachin-kavetham",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Gaganjeet Singh",
+       "slug": "gaganjeet-singh"
+      },
+      {
+       "name": "Alok Kumar Dwivedi",
+       "slug": "alok-kumar-dwivedi"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Hussain Dalal",
+       "slug": "hussain-dalal"
+      },
+      {
+       "name": "Abbas Dalal",
+       "slug": "abbas-dalal"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Low Gravity",
+     "slug": "low-gravity",
+     "logo": null
+    },
+    {
+     "name": "Kuku TV",
+     "slug": "kuku-tv",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-05-15": [
+     {
+      "id": 1106,
+      "title": "Karuppu",
+      "img": "https://image.tmdb.org/t/p/original/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg"
+     },
+     {
+      "id": 1108,
+      "title": "Hokum",
+      "img": "https://image.tmdb.org/t/p/original/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
+     },
+     {
+      "id": 1109,
+      "title": "Pati Patni Aur Woh",
+      "img": "https://image.tmdb.org/t/p/original/9sAegdBnkfucqhrsocR47zCKcez.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-05-15",
+     "gross": 35210,
+     "sold": 146,
+     "unsold": 457,
+     "shows": 6,
+     "occ": 24.21,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 35210,
+     "lastUpdatedAt": "2026-05-16 22:28:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 35210,
+    "totalShows": 6,
+    "totalSeats": 603,
+    "totalSold": 146,
+    "avgOcc": "24.2",
+    "totalDays": 1,
+    "totalHousefull": 2,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 35210
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 35210
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "1:35210:35210"
+  },
+  "district": {
+   "movie": {
+    "id": 1112,
+    "title": "Indian Institute of Zombies",
+    "img": "https://image.tmdb.org/t/p/original/PjQ2Aj7MAiBmcIf3oT8lSIhv8P.jpg",
+    "released": "2026-05-15",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt41113860",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "137 min",
+    "genre": "Comedy, Horror",
+    "plot": "At an elite engineering campus, students must survive a sudden zombie outbreak while navigating academic pressures and social hierarchies, blending horror with comedy and biting satire of privilege and competition.",
+    "released": "2026-05-08",
+    "director": "Gaganjeet Singh",
+    "directorSlug": "gaganjeet-singh",
+    "actors": [
+     "Jessey Lever",
+     "Anupriya Goenka",
+     "Mohan Kapur",
+     "Ranjan Raj",
+     "Shivani Paliwal",
+     "Shantanu Anam"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.2",
+      "votes": 1077,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T10:11:26.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jessey Lever",
+     "character": null,
+     "slug": "jessey-lever",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Aa9SuM1J1Wn5JsmVIMe4uQ9OYRk.jpg"
+    },
+    {
+     "name": "Anupriya Goenka",
+     "character": null,
+     "slug": "anupriya-goenka",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yU73MlKR4rTtxWXPqeqIBxsKY3q.jpg"
+    },
+    {
+     "name": "Mohan Kapur",
+     "character": null,
+     "slug": "mohan-kapur",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lL0J5DBOwN1pwLCvuo7uQ0ApjF.jpg"
+    },
+    {
+     "name": "Ranjan Raj",
+     "character": null,
+     "slug": "ranjan-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nqVHCwVLUrARq4DtFKRbzHhvMZq.jpg"
+    },
+    {
+     "name": "Shivani Paliwal",
+     "character": null,
+     "slug": "shivani-paliwal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kyysczRjkCbVQFd5lBKzQy407o.jpg"
+    },
+    {
+     "name": "Shantanu Anam",
+     "character": null,
+     "slug": "shantanu-anam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4wpU6yrjGgTQBaCCn0hRq4TxgdZ.jpg"
+    },
+    {
+     "name": "Rose Sardana",
+     "character": null,
+     "slug": "rose-sardana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d5Ui87qcexhS5lj4FHXJ8VBGYla.jpg"
+    },
+    {
+     "name": "Sachin Kavetham",
+     "character": null,
+     "slug": "sachin-kavetham",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Gaganjeet Singh",
+       "slug": "gaganjeet-singh"
+      },
+      {
+       "name": "Alok Kumar Dwivedi",
+       "slug": "alok-kumar-dwivedi"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Hussain Dalal",
+       "slug": "hussain-dalal"
+      },
+      {
+       "name": "Abbas Dalal",
+       "slug": "abbas-dalal"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Low Gravity",
+     "slug": "low-gravity",
+     "logo": null
+    },
+    {
+     "name": "Kuku TV",
+     "slug": "kuku-tv",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-05-15": [
+     {
+      "id": 1106,
+      "title": "Karuppu",
+      "img": "https://image.tmdb.org/t/p/original/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg"
+     },
+     {
+      "id": 1108,
+      "title": "Hokum",
+      "img": "https://image.tmdb.org/t/p/original/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg"
+     },
+     {
+      "id": 1109,
+      "title": "Pati Patni Aur Woh",
+      "img": "https://image.tmdb.org/t/p/original/9sAegdBnkfucqhrsocR47zCKcez.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 25310,
+     "sold": 110,
+     "unsold": 392,
+     "shows": 4,
+     "occ": 21.91,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 25310,
+     "lastUpdatedAt": "2026-05-16 20:03:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 9900,
+     "sold": 36,
+     "unsold": 65,
+     "shows": 2,
+     "occ": 35.64,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 35210,
+     "lastUpdatedAt": "2026-05-16 22:28:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 35210,
+    "totalShows": 6,
+    "totalSeats": 603,
+    "totalSold": 146,
+    "avgOcc": "24.2",
+    "totalDays": 2,
+    "totalHousefull": 2,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 25310,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 25310,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "2:9900:35210"
+  }
+ }
+}

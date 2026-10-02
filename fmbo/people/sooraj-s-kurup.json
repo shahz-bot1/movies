@@ -1,0 +1,46 @@
+{
+ "slug": "sooraj-s-kurup",
+ "name": "Sooraj S. Kurup",
+ "source_url": "https://fridaymatinee.in/people/sooraj-s-kurup",
+ "captured_at": "2026-10-02T10:50:41.043899+00:00",
+ "person": {
+  "name": "Sooraj S. Kurup",
+  "photo": "https://image.tmdb.org/t/p/w185/ofI3WPQZkWWCftWdWCYKuiReyRC.jpg",
+  "role": "Music and actor"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 3
+  },
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 83,
+   "movie_slug": "nizhal",
+   "title": "Nizhal",
+   "year": 2021,
+   "kerala_gross": "₹54.2L"
+  },
+  {
+   "movie_id": 766,
+   "movie_slug": "meesha",
+   "title": "Meesha",
+   "year": 2025,
+   "kerala_gross": "₹21.6L"
+  },
+  {
+   "movie_id": 948,
+   "movie_slug": "mindiyum-paranjum",
+   "title": "Mindiyum Paranjum",
+   "year": 2025,
+   "kerala_gross": "₹13.5L"
+  }
+ ]
+}

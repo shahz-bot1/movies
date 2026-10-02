@@ -1,0 +1,67 @@
+{
+ "slug": "jay-vishnu",
+ "name": "Jay Vishnu",
+ "source_url": "https://fridaymatinee.in/people/jay-vishnu",
+ "captured_at": "2026-10-01T23:05:11.146739+00:00",
+ "person": {
+  "name": "Jay Vishnu",
+  "photo": null,
+  "role": "Actor and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 57,
+   "movie_slug": "anveshanam",
+   "title": "Anveshanam",
+   "year": 2020,
+   "kerala_gross": "₹52.9L"
+  },
+  {
+   "movie_id": 69,
+   "movie_slug": "saajan-bakery-since-1962",
+   "title": "Saajan Bakery Since 1962",
+   "year": 2021,
+   "kerala_gross": "₹14.0L"
+  },
+  {
+   "movie_id": 82,
+   "movie_slug": "chathur-mukham",
+   "title": "Chathur Mukham",
+   "year": 2021,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 397,
+   "movie_slug": "madhura-manohara-moham",
+   "title": "Madhura Manohara Moham",
+   "year": 2023,
+   "kerala_gross": "₹4.4 Cr"
+  },
+  {
+   "movie_id": 858,
+   "movie_slug": "the-pet-detective",
+   "title": "The Pet Detective",
+   "year": 2025,
+   "kerala_gross": "₹9.7 Cr"
+  },
+  {
+   "movie_id": 1087,
+   "movie_slug": "madhuvidhu",
+   "title": "Madhuvidhu",
+   "year": 2026,
+   "kerala_gross": "₹4.4 Cr"
+  }
+ ]
+}

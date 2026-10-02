@@ -1,0 +1,41 @@
+{
+ "slug": "jhansi",
+ "name": "Jhansi",
+ "source_url": "https://fridaymatinee.in/people/jhansi",
+ "captured_at": "2026-10-01T23:13:40.650339+00:00",
+ "person": {
+  "name": "Jhansi",
+  "photo": "https://image.tmdb.org/t/p/w185/rOgVPpJWfgrYnkzzD9aZB5TQYus.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 314,
+   "movie_slug": "dasara",
+   "title": "Dasara",
+   "year": 2023,
+   "kerala_gross": "₹41.4L"
+  },
+  {
+   "movie_id": 907,
+   "movie_slug": "jatadhara",
+   "title": "Jatadhara",
+   "year": 2025,
+   "kerala_gross": "₹24K"
+  },
+  {
+   "movie_id": 1309,
+   "movie_slug": "happy-journey",
+   "title": "Happy Journey",
+   "year": 2026,
+   "kerala_gross": "₹17K"
+  }
+ ]
+}

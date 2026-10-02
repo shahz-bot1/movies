@@ -1,0 +1,48 @@
+{
+ "slug": "jayantilal-gada",
+ "name": "Jayantilal Gada",
+ "source_url": "https://fridaymatinee.in/people/jayantilal-gada",
+ "captured_at": "2026-10-01T23:06:02.237275+00:00",
+ "person": {
+  "name": "Jayantilal Gada",
+  "photo": null,
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 205,
+   "movie_slug": "chup",
+   "title": "Chup",
+   "year": 2022,
+   "kerala_gross": "₹49.5L"
+  },
+  {
+   "movie_id": 313,
+   "movie_slug": "pathu-thala",
+   "title": "Pathu Thala",
+   "year": 2023,
+   "kerala_gross": "₹41.7L"
+  },
+  {
+   "movie_id": 1145,
+   "movie_slug": "bharat-bhhagya-viddhaata",
+   "title": "Bharat Bhhagya Viddhaata",
+   "year": 2026,
+   "kerala_gross": "₹1.9L"
+  },
+  {
+   "movie_id": 1272,
+   "movie_slug": "daayra",
+   "title": "Daayra",
+   "year": 2026,
+   "kerala_gross": "₹11.8L"
+  }
+ ]
+}

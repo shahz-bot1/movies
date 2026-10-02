@@ -1,0 +1,51 @@
+{
+ "slug": "akhil-sathyan",
+ "name": "Akhil Sathyan",
+ "source_url": "https://fridaymatinee.in/people/akhil-sathyan",
+ "captured_at": "2026-10-01T20:20:00.903726+00:00",
+ "person": {
+  "name": "Akhil Sathyan",
+  "photo": null,
+  "role": "Writer, director and editor"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 2
+  },
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 362,
+   "movie_slug": "pachuvum-athbhuthavilakkum",
+   "title": "Pachuvum Athbhuthavilakkum",
+   "year": 2023,
+   "kerala_gross": "₹8.2 Cr"
+  },
+  {
+   "movie_id": 722,
+   "movie_slug": "hridayapoorvam",
+   "title": "Hridayapoorvam",
+   "year": 2025,
+   "kerala_gross": "₹37.0 Cr"
+  },
+  {
+   "movie_id": 884,
+   "movie_slug": "sarvam-maya",
+   "title": "Sarvam Maya",
+   "year": 2025,
+   "kerala_gross": "₹70.3 Cr"
+  }
+ ]
+}

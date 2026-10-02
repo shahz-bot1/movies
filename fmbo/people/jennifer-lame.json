@@ -1,0 +1,41 @@
+{
+ "slug": "jennifer-lame",
+ "name": "Jennifer Lame",
+ "source_url": "https://fridaymatinee.in/people/jennifer-lame",
+ "captured_at": "2026-10-01T23:10:22.803304+00:00",
+ "person": {
+  "name": "Jennifer Lame",
+  "photo": "https://image.tmdb.org/t/p/w185/1Jl596RMknK3XgGidLbeFOleLns.jpg",
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 238,
+   "movie_slug": "black-panther-wakanda-forever",
+   "title": "Black Panther Wakanda Forever",
+   "year": 2022,
+   "kerala_gross": "₹2.3 Cr"
+  },
+  {
+   "movie_id": 403,
+   "movie_slug": "oppenheimer",
+   "title": "Oppenheimer",
+   "year": 2023,
+   "kerala_gross": "₹7.1 Cr"
+  },
+  {
+   "movie_id": 777,
+   "movie_slug": "the-odyssey",
+   "title": "The Odyssey",
+   "year": 2026,
+   "kerala_gross": "₹12.6 Cr"
+  }
+ ]
+}

@@ -1,0 +1,695 @@
+{
+ "id": 41,
+ "slug": "puzhikkadakan",
+ "source_url": "https://fridaymatinee.in/boxoffice/puzhikkadakan-41",
+ "captured_at": "2026-10-01T17:58:32.746929+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 41,
+    "title": "Puzhikkadakan",
+    "img": "https://image.tmdb.org/t/p/original/5vgLDnUiq3Pzokxu84ihuKBBESi.jpg",
+    "released": "2019-11-29",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10692590",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Comedy",
+    "plot": "Puzhikkadakan is a 2019 Indian Malayalam-language romantic drama directed by newcomer Gireesh Nair and starring Chemban Vinod Jose and Dhanya Balakrishna.",
+    "released": "2019-11-29",
+    "director": "Gireesh Nair",
+    "directorSlug": "gireesh-nair",
+    "actors": [
+     "Jayasurya",
+     "Chemban Vinod Jose",
+     "Dhanya Balakrishna",
+     "Maala Parvathi",
+     "Alencier Ley Lopez",
+     "Sudhi Koppa"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.4",
+      "votes": 65,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:57.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jayasurya",
+     "character": null,
+     "slug": "jayasurya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m3M0skefVc1wMJBKW5CMjKt4orJ.jpg"
+    },
+    {
+     "name": "Chemban Vinod Jose",
+     "character": "Samuel",
+     "slug": "chemban-vinod-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4bCAqhHMcPeoI41Emi4BBSXwZaj.jpg"
+    },
+    {
+     "name": "Dhanya Balakrishna",
+     "character": "Anna",
+     "slug": "dhanya-balakrishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yPpzzuuF2zSGquN4iqrCIfrwkZx.jpg"
+    },
+    {
+     "name": "Maala Parvathi",
+     "character": "Thresyamma",
+     "slug": "maala-parvathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l0iW1LfapmsXcvJaLPuwb68L5Ll.jpg"
+    },
+    {
+     "name": "Alencier Ley Lopez",
+     "character": null,
+     "slug": "alencier-ley-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWammRTzSJiyK9TROHWkoM9AqzS.jpg"
+    },
+    {
+     "name": "Sudhi Koppa",
+     "character": null,
+     "slug": "sudhi-koppa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h1Tvm7G2tuSLef3hCNdBZmBc3pe.jpg"
+    },
+    {
+     "name": "Balu Varghese",
+     "character": null,
+     "slug": "balu-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v1Ydyfxe3bFxXiHB4cU5Hmoh5hV.jpg"
+    },
+    {
+     "name": "Jayaraj Kozhikode",
+     "character": "Thankappan",
+     "slug": "jayaraj-kozhikode",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/23qHFvZObYsChoitDcJUjy9OqfT.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Gireesh Nair",
+       "slug": "gireesh-nair"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Hari Prasad Koleri",
+       "slug": "hari-prasad-koleri"
+      },
+      {
+       "name": "Gireesh Nair",
+       "slug": "gireesh-nair"
+      },
+      {
+       "name": "Unni Malayil",
+       "slug": "unni-malayil"
+      },
+      {
+       "name": "Shyal Satheesh",
+       "slug": "shyal-satheesh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Bijibal",
+       "slug": "bijibal"
+      },
+      {
+       "name": "Ajay Joseph",
+       "slug": "ajay-joseph"
+      },
+      {
+       "name": "Ranjith Meleppat",
+       "slug": "ranjith-meleppat"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shyal Satheesh",
+       "slug": "shyal-satheesh"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Unni Malayil",
+       "slug": "unni-malayil"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sam",
+       "slug": "sam"
+      },
+      {
+       "name": "Naufal",
+       "slug": "naufal"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Evaab Productions",
+     "slug": "evaab-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1382761,
+    "totalShows": 565,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 400749,
+     "date": "2019-11-29"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 400749,
+     "date": "2019-11-29"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 22,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-29"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 41,
+    "title": "Puzhikkadakan",
+    "img": "https://image.tmdb.org/t/p/original/5vgLDnUiq3Pzokxu84ihuKBBESi.jpg",
+    "released": "2019-11-29",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10692590",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Comedy",
+    "plot": "Puzhikkadakan is a 2019 Indian Malayalam-language romantic drama directed by newcomer Gireesh Nair and starring Chemban Vinod Jose and Dhanya Balakrishna.",
+    "released": "2019-11-29",
+    "director": "Gireesh Nair",
+    "directorSlug": "gireesh-nair",
+    "actors": [
+     "Jayasurya",
+     "Chemban Vinod Jose",
+     "Dhanya Balakrishna",
+     "Maala Parvathi",
+     "Alencier Ley Lopez",
+     "Sudhi Koppa"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.4",
+      "votes": 65,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:57.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jayasurya",
+     "character": null,
+     "slug": "jayasurya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m3M0skefVc1wMJBKW5CMjKt4orJ.jpg"
+    },
+    {
+     "name": "Chemban Vinod Jose",
+     "character": "Samuel",
+     "slug": "chemban-vinod-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4bCAqhHMcPeoI41Emi4BBSXwZaj.jpg"
+    },
+    {
+     "name": "Dhanya Balakrishna",
+     "character": "Anna",
+     "slug": "dhanya-balakrishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yPpzzuuF2zSGquN4iqrCIfrwkZx.jpg"
+    },
+    {
+     "name": "Maala Parvathi",
+     "character": "Thresyamma",
+     "slug": "maala-parvathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l0iW1LfapmsXcvJaLPuwb68L5Ll.jpg"
+    },
+    {
+     "name": "Alencier Ley Lopez",
+     "character": null,
+     "slug": "alencier-ley-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWammRTzSJiyK9TROHWkoM9AqzS.jpg"
+    },
+    {
+     "name": "Sudhi Koppa",
+     "character": null,
+     "slug": "sudhi-koppa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h1Tvm7G2tuSLef3hCNdBZmBc3pe.jpg"
+    },
+    {
+     "name": "Balu Varghese",
+     "character": null,
+     "slug": "balu-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v1Ydyfxe3bFxXiHB4cU5Hmoh5hV.jpg"
+    },
+    {
+     "name": "Jayaraj Kozhikode",
+     "character": "Thankappan",
+     "slug": "jayaraj-kozhikode",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/23qHFvZObYsChoitDcJUjy9OqfT.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Gireesh Nair",
+       "slug": "gireesh-nair"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Hari Prasad Koleri",
+       "slug": "hari-prasad-koleri"
+      },
+      {
+       "name": "Gireesh Nair",
+       "slug": "gireesh-nair"
+      },
+      {
+       "name": "Unni Malayil",
+       "slug": "unni-malayil"
+      },
+      {
+       "name": "Shyal Satheesh",
+       "slug": "shyal-satheesh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Bijibal",
+       "slug": "bijibal"
+      },
+      {
+       "name": "Ajay Joseph",
+       "slug": "ajay-joseph"
+      },
+      {
+       "name": "Ranjith Meleppat",
+       "slug": "ranjith-meleppat"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shyal Satheesh",
+       "slug": "shyal-satheesh"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Unni Malayil",
+       "slug": "unni-malayil"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sam",
+       "slug": "sam"
+      },
+      {
+       "name": "Naufal",
+       "slug": "naufal"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Evaab Productions",
+     "slug": "evaab-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2019-11-29",
+     "gross": 1382761,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 565,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1382761,
+    "totalShows": 565,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 1382761
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1382761
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 22,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-29"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 41,
+    "title": "Puzhikkadakan",
+    "img": "https://image.tmdb.org/t/p/original/5vgLDnUiq3Pzokxu84ihuKBBESi.jpg",
+    "released": "2019-11-29",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10692590",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Comedy",
+    "plot": "Puzhikkadakan is a 2019 Indian Malayalam-language romantic drama directed by newcomer Gireesh Nair and starring Chemban Vinod Jose and Dhanya Balakrishna.",
+    "released": "2019-11-29",
+    "director": "Gireesh Nair",
+    "directorSlug": "gireesh-nair",
+    "actors": [
+     "Jayasurya",
+     "Chemban Vinod Jose",
+     "Dhanya Balakrishna",
+     "Maala Parvathi",
+     "Alencier Ley Lopez",
+     "Sudhi Koppa"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.4",
+      "votes": 65,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:57.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jayasurya",
+     "character": null,
+     "slug": "jayasurya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m3M0skefVc1wMJBKW5CMjKt4orJ.jpg"
+    },
+    {
+     "name": "Chemban Vinod Jose",
+     "character": "Samuel",
+     "slug": "chemban-vinod-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4bCAqhHMcPeoI41Emi4BBSXwZaj.jpg"
+    },
+    {
+     "name": "Dhanya Balakrishna",
+     "character": "Anna",
+     "slug": "dhanya-balakrishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yPpzzuuF2zSGquN4iqrCIfrwkZx.jpg"
+    },
+    {
+     "name": "Maala Parvathi",
+     "character": "Thresyamma",
+     "slug": "maala-parvathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l0iW1LfapmsXcvJaLPuwb68L5Ll.jpg"
+    },
+    {
+     "name": "Alencier Ley Lopez",
+     "character": null,
+     "slug": "alencier-ley-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWammRTzSJiyK9TROHWkoM9AqzS.jpg"
+    },
+    {
+     "name": "Sudhi Koppa",
+     "character": null,
+     "slug": "sudhi-koppa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h1Tvm7G2tuSLef3hCNdBZmBc3pe.jpg"
+    },
+    {
+     "name": "Balu Varghese",
+     "character": null,
+     "slug": "balu-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v1Ydyfxe3bFxXiHB4cU5Hmoh5hV.jpg"
+    },
+    {
+     "name": "Jayaraj Kozhikode",
+     "character": "Thankappan",
+     "slug": "jayaraj-kozhikode",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/23qHFvZObYsChoitDcJUjy9OqfT.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Gireesh Nair",
+       "slug": "gireesh-nair"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Hari Prasad Koleri",
+       "slug": "hari-prasad-koleri"
+      },
+      {
+       "name": "Gireesh Nair",
+       "slug": "gireesh-nair"
+      },
+      {
+       "name": "Unni Malayil",
+       "slug": "unni-malayil"
+      },
+      {
+       "name": "Shyal Satheesh",
+       "slug": "shyal-satheesh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Bijibal",
+       "slug": "bijibal"
+      },
+      {
+       "name": "Ajay Joseph",
+       "slug": "ajay-joseph"
+      },
+      {
+       "name": "Ranjith Meleppat",
+       "slug": "ranjith-meleppat"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shyal Satheesh",
+       "slug": "shyal-satheesh"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Unni Malayil",
+       "slug": "unni-malayil"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sam",
+       "slug": "sam"
+      },
+      {
+       "name": "Naufal",
+       "slug": "naufal"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Evaab Productions",
+     "slug": "evaab-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1382761,
+    "totalShows": 565,
+    "totalDays": 9,
+    "openingDay": {
+     "day": 1,
+     "gross": 327398,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 327398,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 22,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-29"
+   }
+  }
+ }
+}

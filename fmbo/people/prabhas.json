@@ -1,0 +1,76 @@
+{
+ "slug": "prabhas",
+ "name": "Prabhas",
+ "source_url": "https://fridaymatinee.in/people/prabhas",
+ "captured_at": "2026-10-02T06:22:49.807502+00:00",
+ "person": {
+  "name": "Prabhas",
+  "photo": "https://image.tmdb.org/t/p/w185/u6RVP8ukgLaymeoi5VmX0JRAcCn.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 8
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 386,
+   "movie_slug": "adipurush",
+   "title": "Adipurush",
+   "year": 2023,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 478,
+   "movie_slug": "salaar-part-1-ceasefire",
+   "title": "Salaar: Part 1 - Ceasefire",
+   "year": 2023,
+   "kerala_gross": "₹12.5 Cr"
+  },
+  {
+   "movie_id": 527,
+   "movie_slug": "kalki-2898-ad",
+   "title": "Kalki 2898 AD",
+   "year": 2024,
+   "kerala_gross": "₹26.7 Cr"
+  },
+  {
+   "movie_id": 892,
+   "movie_slug": "baahubali-the-epic",
+   "title": "Baahubali: The Epic",
+   "year": 2025,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 957,
+   "movie_slug": "the-rajasaab",
+   "title": "The Rajasaab",
+   "year": 2026,
+   "kerala_gross": "₹61K"
+  },
+  {
+   "movie_id": 966,
+   "movie_slug": "spirit",
+   "title": "Spirit",
+   "year": 2027,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 709,
+   "movie_slug": "kannappa",
+   "title": "Kannappa",
+   "year": 2025,
+   "kerala_gross": "₹64.0L"
+  },
+  {
+   "movie_id": 816,
+   "movie_slug": "mirai",
+   "title": "Mirai",
+   "year": 2025,
+   "kerala_gross": "₹35.9L"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "anasuya-bharadwaj",
+ "name": "Anasuya Bharadwaj",
+ "source_url": "https://fridaymatinee.in/people/anasuya-bharadwaj",
+ "captured_at": "2026-10-01T20:35:16.809325+00:00",
+ "person": {
+  "name": "Anasuya Bharadwaj",
+  "photo": "https://image.tmdb.org/t/p/w185/adfyR0yHuTdj3sMiJQNDtBBXz9Q.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 94,
+   "movie_slug": "pushpa-the-rise-part-01",
+   "title": "Pushpa The Rise Part 01",
+   "year": 2021,
+   "kerala_gross": "₹7.7 Cr"
+  },
+  {
+   "movie_id": 111,
+   "movie_slug": "bheeshma-parvam",
+   "title": "Bheeshma Parvam",
+   "year": 2022,
+   "kerala_gross": "₹29.6 Cr"
+  },
+  {
+   "movie_id": 218,
+   "movie_slug": "godfather",
+   "title": "Godfather",
+   "year": 2022,
+   "kerala_gross": "₹8.6L"
+  },
+  {
+   "movie_id": 607,
+   "movie_slug": "pushpa-2-the-rule",
+   "title": "Pushpa 2 - The Rule",
+   "year": 2024,
+   "kerala_gross": "₹15.1 Cr"
+  }
+ ]
+}

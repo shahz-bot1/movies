@@ -1,0 +1,81 @@
+{
+ "slug": "jeo-baby",
+ "name": "Jeo Baby",
+ "source_url": "https://fridaymatinee.in/people/jeo-baby",
+ "captured_at": "2026-10-01T23:11:05.688155+00:00",
+ "person": {
+  "name": "Jeo Baby",
+  "photo": "https://image.tmdb.org/t/p/w185/rjjuaQped2aUcnXtWWT4TgH8erJ.jpg",
+  "role": "Actor and director"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 8
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 521,
+   "movie_slug": "mandakini",
+   "title": "Mandakini",
+   "year": 2024,
+   "kerala_gross": "₹3.2 Cr"
+  },
+  {
+   "movie_id": 606,
+   "movie_slug": "parakramam",
+   "title": "Parakramam",
+   "year": 2024,
+   "kerala_gross": "₹22.4L"
+  },
+  {
+   "movie_id": 674,
+   "movie_slug": "maranamass",
+   "title": "Maranamass",
+   "year": 2025,
+   "kerala_gross": "₹11.4 Cr"
+  },
+  {
+   "movie_id": 766,
+   "movie_slug": "meesha",
+   "title": "Meesha",
+   "year": 2025,
+   "kerala_gross": "₹21.6L"
+  },
+  {
+   "movie_id": 779,
+   "movie_slug": "maine-pyar-kiya",
+   "title": "Maine Pyar Kiya",
+   "year": 2025,
+   "kerala_gross": "₹37.1L"
+  },
+  {
+   "movie_id": 899,
+   "movie_slug": "ithiri-neram",
+   "title": "Ithiri Neram",
+   "year": 2025,
+   "kerala_gross": "₹33.4L"
+  },
+  {
+   "movie_id": 1105,
+   "movie_slug": "athiradi",
+   "title": "Athiradi",
+   "year": 2026,
+   "kerala_gross": "₹32.6 Cr"
+  },
+  {
+   "movie_id": 1257,
+   "movie_slug": "ottam-thullal",
+   "title": "Ottam Thullal",
+   "year": 2026,
+   "kerala_gross": "₹17.5L"
+  }
+ ]
+}

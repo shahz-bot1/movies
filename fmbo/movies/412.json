@@ -1,0 +1,753 @@
+{
+ "id": 412,
+ "slug": "barbie",
+ "source_url": "https://fridaymatinee.in/boxoffice/barbie-412",
+ "captured_at": "2026-10-01T18:11:33.662100+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 412,
+    "title": "Barbie",
+    "img": "https://image.tmdb.org/t/p/original/xi7jcTWoo9E9ESuUqL8J0KmZQ21.jpg",
+    "released": "2023-07-21",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt1517268",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "114 min",
+    "genre": "Comedy, Adventure",
+    "plot": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+    "released": "2023-07-19",
+    "director": "Greta Gerwig",
+    "directorSlug": "greta-gerwig",
+    "actors": [
+     "Margot Robbie",
+     "Ryan Gosling",
+     "America Ferrera",
+     "Ariana Greenblatt",
+     "Issa Rae",
+     "Kate McKinnon"
+    ],
+    "awards": "Won 1 Oscar. 213 wins u0026 436 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 706885,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 11603,
+      "updatedAt": "2026-09-24T22:10:15.000Z"
+     },
+     "rt": "88%",
+     "metascore": 80,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Margot Robbie",
+     "character": "Barbie",
+     "slug": "margot-robbie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg"
+    },
+    {
+     "name": "Ryan Gosling",
+     "character": "Ken",
+     "slug": "ryan-gosling",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k50021gkK92Lx6m99pBy6FUOvNf.jpg"
+    },
+    {
+     "name": "America Ferrera",
+     "character": "Gloria",
+     "slug": "america-ferrera",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7F84Lh2lKpvkM3EiOvqqvlOmw93.jpg"
+    },
+    {
+     "name": "Ariana Greenblatt",
+     "character": "Sasha",
+     "slug": "ariana-greenblatt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bg9ysIhsdygPpVx2rnKDtzylfRv.jpg"
+    },
+    {
+     "name": "Issa Rae",
+     "character": "Barbie",
+     "slug": "issa-rae",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uFjimuDgBv8kckApr19t8DykxPH.jpg"
+    },
+    {
+     "name": "Kate McKinnon",
+     "character": "Barbie",
+     "slug": "kate-mckinnon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2cNetzianFcxPQbyOQnkAIkKUZE.jpg"
+    },
+    {
+     "name": "Alexandra Shipp",
+     "character": "Barbie",
+     "slug": "alexandra-shipp",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cWA3gBE6ihwONJzoy4ROYX584UW.jpg"
+    },
+    {
+     "name": "Emma Mackey",
+     "character": "Barbie",
+     "slug": "emma-mackey",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l4JOGnGOAeZr3BQvAerFyvakrU0.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Greta Gerwig",
+       "slug": "greta-gerwig"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Noah Baumbach",
+       "slug": "noah-baumbach"
+      },
+      {
+       "name": "Greta Gerwig",
+       "slug": "greta-gerwig"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Andrew Wyatt",
+       "slug": "andrew-wyatt"
+      },
+      {
+       "name": "Mark Ronson",
+       "slug": "mark-ronson"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Rodrigo Prieto",
+       "slug": "rodrigo-prieto"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nick Houy",
+       "slug": "nick-houy"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Robbie Brenner",
+       "slug": "robbie-brenner"
+      },
+      {
+       "name": "David Heyman",
+       "slug": "david-heyman"
+      },
+      {
+       "name": "Tom Ackerley",
+       "slug": "tom-ackerley"
+      },
+      {
+       "name": "Margot Robbie",
+       "slug": "margot-robbie"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "LuckyChap Entertainment",
+     "slug": "luckychap-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/gRROMOG5bpF6TIDMbfaa5gnFFzl.png"
+    },
+    {
+     "name": "Heyday Films",
+     "slug": "heyday-films",
+     "logo": "https://image.tmdb.org/t/p/w185/nu20mtwbEIhUNnQ5NXVhHsNknZj.png"
+    },
+    {
+     "name": "NB/GG Pictures",
+     "slug": "nb-gg-pictures",
+     "logo": null
+    },
+    {
+     "name": "Mattel",
+     "slug": "mattel",
+     "logo": "https://image.tmdb.org/t/p/w185/cAj69EL1zSXmZH6STbMGZrunyMD.png"
+    },
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-09-12",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 7545834.6,
+    "totalShows": 694,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 1376639,
+     "date": "2023-07-21"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 1737975,
+     "date": "2023-07-23"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-07-21"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 412,
+    "title": "Barbie",
+    "img": "https://image.tmdb.org/t/p/original/xi7jcTWoo9E9ESuUqL8J0KmZQ21.jpg",
+    "released": "2023-07-21",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt1517268",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "114 min",
+    "genre": "Comedy, Adventure",
+    "plot": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+    "released": "2023-07-19",
+    "director": "Greta Gerwig",
+    "directorSlug": "greta-gerwig",
+    "actors": [
+     "Margot Robbie",
+     "Ryan Gosling",
+     "America Ferrera",
+     "Ariana Greenblatt",
+     "Issa Rae",
+     "Kate McKinnon"
+    ],
+    "awards": "Won 1 Oscar. 213 wins u0026 436 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 706885,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 11603,
+      "updatedAt": "2026-09-24T22:10:15.000Z"
+     },
+     "rt": "88%",
+     "metascore": 80,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Margot Robbie",
+     "character": "Barbie",
+     "slug": "margot-robbie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg"
+    },
+    {
+     "name": "Ryan Gosling",
+     "character": "Ken",
+     "slug": "ryan-gosling",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k50021gkK92Lx6m99pBy6FUOvNf.jpg"
+    },
+    {
+     "name": "America Ferrera",
+     "character": "Gloria",
+     "slug": "america-ferrera",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7F84Lh2lKpvkM3EiOvqqvlOmw93.jpg"
+    },
+    {
+     "name": "Ariana Greenblatt",
+     "character": "Sasha",
+     "slug": "ariana-greenblatt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bg9ysIhsdygPpVx2rnKDtzylfRv.jpg"
+    },
+    {
+     "name": "Issa Rae",
+     "character": "Barbie",
+     "slug": "issa-rae",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uFjimuDgBv8kckApr19t8DykxPH.jpg"
+    },
+    {
+     "name": "Kate McKinnon",
+     "character": "Barbie",
+     "slug": "kate-mckinnon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2cNetzianFcxPQbyOQnkAIkKUZE.jpg"
+    },
+    {
+     "name": "Alexandra Shipp",
+     "character": "Barbie",
+     "slug": "alexandra-shipp",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cWA3gBE6ihwONJzoy4ROYX584UW.jpg"
+    },
+    {
+     "name": "Emma Mackey",
+     "character": "Barbie",
+     "slug": "emma-mackey",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l4JOGnGOAeZr3BQvAerFyvakrU0.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Greta Gerwig",
+       "slug": "greta-gerwig"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Noah Baumbach",
+       "slug": "noah-baumbach"
+      },
+      {
+       "name": "Greta Gerwig",
+       "slug": "greta-gerwig"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Andrew Wyatt",
+       "slug": "andrew-wyatt"
+      },
+      {
+       "name": "Mark Ronson",
+       "slug": "mark-ronson"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Rodrigo Prieto",
+       "slug": "rodrigo-prieto"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nick Houy",
+       "slug": "nick-houy"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Robbie Brenner",
+       "slug": "robbie-brenner"
+      },
+      {
+       "name": "David Heyman",
+       "slug": "david-heyman"
+      },
+      {
+       "name": "Tom Ackerley",
+       "slug": "tom-ackerley"
+      },
+      {
+       "name": "Margot Robbie",
+       "slug": "margot-robbie"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "LuckyChap Entertainment",
+     "slug": "luckychap-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/gRROMOG5bpF6TIDMbfaa5gnFFzl.png"
+    },
+    {
+     "name": "Heyday Films",
+     "slug": "heyday-films",
+     "logo": "https://image.tmdb.org/t/p/w185/nu20mtwbEIhUNnQ5NXVhHsNknZj.png"
+    },
+    {
+     "name": "NB/GG Pictures",
+     "slug": "nb-gg-pictures",
+     "logo": null
+    },
+    {
+     "name": "Mattel",
+     "slug": "mattel",
+     "logo": "https://image.tmdb.org/t/p/w185/cAj69EL1zSXmZH6STbMGZrunyMD.png"
+    },
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-09-12",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-07-21",
+     "gross": 7534483,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 690,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-07-28",
+     "gross": 11351.6,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 7545834.6,
+    "totalShows": 694,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 7534483
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 7534483
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-07-21"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 412,
+    "title": "Barbie",
+    "img": "https://image.tmdb.org/t/p/original/xi7jcTWoo9E9ESuUqL8J0KmZQ21.jpg",
+    "released": "2023-07-21",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt1517268",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "114 min",
+    "genre": "Comedy, Adventure",
+    "plot": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+    "released": "2023-07-19",
+    "director": "Greta Gerwig",
+    "directorSlug": "greta-gerwig",
+    "actors": [
+     "Margot Robbie",
+     "Ryan Gosling",
+     "America Ferrera",
+     "Ariana Greenblatt",
+     "Issa Rae",
+     "Kate McKinnon"
+    ],
+    "awards": "Won 1 Oscar. 213 wins u0026 436 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 706885,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 11603,
+      "updatedAt": "2026-09-24T22:10:15.000Z"
+     },
+     "rt": "88%",
+     "metascore": 80,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Margot Robbie",
+     "character": "Barbie",
+     "slug": "margot-robbie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg"
+    },
+    {
+     "name": "Ryan Gosling",
+     "character": "Ken",
+     "slug": "ryan-gosling",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k50021gkK92Lx6m99pBy6FUOvNf.jpg"
+    },
+    {
+     "name": "America Ferrera",
+     "character": "Gloria",
+     "slug": "america-ferrera",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7F84Lh2lKpvkM3EiOvqqvlOmw93.jpg"
+    },
+    {
+     "name": "Ariana Greenblatt",
+     "character": "Sasha",
+     "slug": "ariana-greenblatt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bg9ysIhsdygPpVx2rnKDtzylfRv.jpg"
+    },
+    {
+     "name": "Issa Rae",
+     "character": "Barbie",
+     "slug": "issa-rae",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uFjimuDgBv8kckApr19t8DykxPH.jpg"
+    },
+    {
+     "name": "Kate McKinnon",
+     "character": "Barbie",
+     "slug": "kate-mckinnon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2cNetzianFcxPQbyOQnkAIkKUZE.jpg"
+    },
+    {
+     "name": "Alexandra Shipp",
+     "character": "Barbie",
+     "slug": "alexandra-shipp",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cWA3gBE6ihwONJzoy4ROYX584UW.jpg"
+    },
+    {
+     "name": "Emma Mackey",
+     "character": "Barbie",
+     "slug": "emma-mackey",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l4JOGnGOAeZr3BQvAerFyvakrU0.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Greta Gerwig",
+       "slug": "greta-gerwig"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Noah Baumbach",
+       "slug": "noah-baumbach"
+      },
+      {
+       "name": "Greta Gerwig",
+       "slug": "greta-gerwig"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Andrew Wyatt",
+       "slug": "andrew-wyatt"
+      },
+      {
+       "name": "Mark Ronson",
+       "slug": "mark-ronson"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Rodrigo Prieto",
+       "slug": "rodrigo-prieto"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nick Houy",
+       "slug": "nick-houy"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Robbie Brenner",
+       "slug": "robbie-brenner"
+      },
+      {
+       "name": "David Heyman",
+       "slug": "david-heyman"
+      },
+      {
+       "name": "Tom Ackerley",
+       "slug": "tom-ackerley"
+      },
+      {
+       "name": "Margot Robbie",
+       "slug": "margot-robbie"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "LuckyChap Entertainment",
+     "slug": "luckychap-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/gRROMOG5bpF6TIDMbfaa5gnFFzl.png"
+    },
+    {
+     "name": "Heyday Films",
+     "slug": "heyday-films",
+     "logo": "https://image.tmdb.org/t/p/w185/nu20mtwbEIhUNnQ5NXVhHsNknZj.png"
+    },
+    {
+     "name": "NB/GG Pictures",
+     "slug": "nb-gg-pictures",
+     "logo": null
+    },
+    {
+     "name": "Mattel",
+     "slug": "mattel",
+     "logo": "https://image.tmdb.org/t/p/w185/cAj69EL1zSXmZH6STbMGZrunyMD.png"
+    },
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-09-12",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 7545834.6,
+    "totalShows": 694,
+    "totalDays": 13,
+    "openingDay": {
+     "day": 1,
+     "gross": 3307365,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3307365,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-07-21"
+   }
+  }
+ }
+}

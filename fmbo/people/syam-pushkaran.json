@@ -1,0 +1,58 @@
+{
+ "slug": "syam-pushkaran",
+ "name": "Syam Pushkaran",
+ "source_url": "https://fridaymatinee.in/people/syam-pushkaran",
+ "captured_at": "2026-10-02T11:12:13.837554+00:00",
+ "person": {
+  "name": "Syam Pushkaran",
+  "photo": "https://image.tmdb.org/t/p/w185/8OCR2emeKZ51Sj9iJrV1GWyXtnD.jpg",
+  "role": "Producer, actor and writer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  },
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 193,
+   "movie_slug": "palthu-janwar",
+   "title": "Palthu Janwar",
+   "year": 2022,
+   "kerala_gross": "₹6.8 Cr"
+  },
+  {
+   "movie_id": 284,
+   "movie_slug": "thankam",
+   "title": "Thankam",
+   "year": 2023,
+   "kerala_gross": "₹3.0 Cr"
+  },
+  {
+   "movie_id": 500,
+   "movie_slug": "premalu",
+   "title": "Premalu",
+   "year": 2024,
+   "kerala_gross": "₹49.2 Cr"
+  },
+  {
+   "movie_id": 1234,
+   "movie_slug": "bethlehem-kudumba-unit",
+   "title": "Bethlehem Kudumba Unit",
+   "year": 2026,
+   "kerala_gross": "₹145.2 Cr"
+  }
+ ]
+}

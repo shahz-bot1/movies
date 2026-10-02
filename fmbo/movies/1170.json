@@ -1,0 +1,904 @@
+{
+ "id": 1170,
+ "slug": "heartin",
+ "source_url": "https://fridaymatinee.in/boxoffice/heartin-1170",
+ "captured_at": "2026-10-01T19:50:03.193996+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1170,
+    "title": "Heartin",
+    "img": "https://image.tmdb.org/t/p/original/7xvMocNLZov64aOU1X3BRWawjD7.jpg",
+    "released": "2026-06-26",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt35741123",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "119 min",
+    "genre": "Comedy, Romance, Drama",
+    "plot": "Fate tosses a couple into an unexpected situation with an ex-girlfriend in the mix.",
+    "released": "2026-06-26",
+    "director": "Kishore kumar",
+    "directorSlug": "kishore-kumar",
+    "actors": [
+     "Madonna Sebastian",
+     "Sananth",
+     "Emaya T",
+     "Whatsapp Mani",
+     "Debnita Kar",
+     "Pragathi Mahavadi"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 1298,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Madonna Sebastian",
+     "character": "Sahitya",
+     "slug": "madonna-sebastian",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zQuhFAXtJNOkVbW3ZgsdGCi8IUv.jpg"
+    },
+    {
+     "name": "Sananth",
+     "character": "Shiva",
+     "slug": "sananth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ffs9RHdkMB1SuUjk8VEqvIjMf0f.jpg"
+    },
+    {
+     "name": "Emaya T",
+     "character": "Sadhana",
+     "slug": "emaya-t",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jHBFVIfdIYU3OqC90GF5Bvr4Abm.jpg"
+    },
+    {
+     "name": "Whatsapp Mani",
+     "character": "Mani",
+     "slug": "whatsapp-mani",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Debnita Kar",
+     "character": "Ankita",
+     "slug": "debnita-kar",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Pragathi Mahavadi",
+     "character": "Saraswathi",
+     "slug": "pragathi-mahavadi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9v63JB33LMkfR90raHu9O1iHZOQ.jpg"
+    },
+    {
+     "name": "Uma Padmanabhan",
+     "character": "Varalakshmi",
+     "slug": "uma-padmanabhan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3SRptZ5iRBnJhbD6zQho0pYr7ly.jpg"
+    },
+    {
+     "name": "Ajit Koshy",
+     "character": "Padmanabhan",
+     "slug": "ajit-koshy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qR765VN5mOHfosx23NBMTxWuw6h.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Kishore kumar",
+       "slug": "kishore-kumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Kishore kumar",
+       "slug": "kishore-kumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rajesh Murugesan",
+       "slug": "rajesh-murugesan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mukes",
+       "slug": "mukes"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Barath Vikraman",
+       "slug": "barath-vikraman"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "R. Ravindran",
+       "slug": "r-ravindran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Trident Arts",
+     "slug": "trident-arts",
+     "logo": "https://image.tmdb.org/t/p/w185/xryPUTxib0ykcr5bwiLUX8u7b4d.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-08-14",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2708,
+      "name": " AP International South Cinema Amazon Channel",
+      "logoPath": "/qe5IxHppN6JWNGf8xqSo2dgAbR4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-06-26": [
+     {
+      "id": 795,
+      "title": "Supergirl",
+      "img": "https://image.tmdb.org/t/p/original/niSvU02l2BONH9ivubV6K1a5QiK.jpg"
+     },
+     {
+      "id": 1169,
+      "title": "Uyir",
+      "img": "https://image.tmdb.org/t/p/original/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg"
+     },
+     {
+      "id": 1171,
+      "title": "Con City",
+      "img": "https://image.tmdb.org/t/p/original/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg"
+     }
+    ],
+    "2026-07-02": [
+     {
+      "id": 1177,
+      "title": "Minions u0026 Monsters",
+      "img": "https://image.tmdb.org/t/p/original/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-06-26",
+     "gross": 65910,
+     "sold": 284,
+     "unsold": 1950,
+     "shows": 12,
+     "occ": 12.71,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 65910,
+     "lastUpdatedAt": "2026-06-26 21:53:01"
+    },
+    {
+     "label": "2026-06-27",
+     "gross": 34790,
+     "sold": 159,
+     "unsold": 2068,
+     "shows": 12,
+     "occ": 7.14,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 100700,
+     "lastUpdatedAt": "2026-06-27 21:53:01"
+    },
+    {
+     "label": "2026-06-28",
+     "gross": 31040,
+     "sold": 137,
+     "unsold": 753,
+     "shows": 8,
+     "occ": 15.39,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 131740,
+     "lastUpdatedAt": "2026-06-28 21:48:01"
+    },
+    {
+     "label": "2026-06-29",
+     "gross": 470,
+     "sold": 1,
+     "unsold": 119,
+     "shows": 1,
+     "occ": 0.83,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 132210,
+     "lastUpdatedAt": "2026-06-29 09:58:01"
+    },
+    {
+     "label": "2026-06-30",
+     "gross": 996,
+     "sold": 5,
+     "unsold": 222,
+     "shows": 2,
+     "occ": 2.2,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 133206,
+     "lastUpdatedAt": "2026-06-30 17:03:01"
+    },
+    {
+     "label": "2026-07-01",
+     "gross": 599,
+     "sold": 2,
+     "unsold": 258,
+     "shows": 2,
+     "occ": 0.77,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 133805,
+     "lastUpdatedAt": "2026-07-01 14:28:01"
+    },
+    {
+     "label": "2026-07-02",
+     "gross": 1742,
+     "sold": 10,
+     "unsold": 250,
+     "shows": 2,
+     "occ": 3.85,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 135547,
+     "lastUpdatedAt": "2026-07-02 14:28:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 135547,
+    "totalShows": 39,
+    "totalSeats": 6218,
+    "totalSold": 598,
+    "avgOcc": "9.6",
+    "totalDays": 7,
+    "totalHousefull": 4,
+    "totalAlmost": 4,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 65910,
+     "date": "2026-06-26"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 65910,
+     "date": "2026-06-26"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "7:1742:135547"
+  },
+  "week": {
+   "movie": {
+    "id": 1170,
+    "title": "Heartin",
+    "img": "https://image.tmdb.org/t/p/original/7xvMocNLZov64aOU1X3BRWawjD7.jpg",
+    "released": "2026-06-26",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt35741123",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "119 min",
+    "genre": "Comedy, Romance, Drama",
+    "plot": "Fate tosses a couple into an unexpected situation with an ex-girlfriend in the mix.",
+    "released": "2026-06-26",
+    "director": "Kishore kumar",
+    "directorSlug": "kishore-kumar",
+    "actors": [
+     "Madonna Sebastian",
+     "Sananth",
+     "Emaya T",
+     "Whatsapp Mani",
+     "Debnita Kar",
+     "Pragathi Mahavadi"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 1298,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Madonna Sebastian",
+     "character": "Sahitya",
+     "slug": "madonna-sebastian",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zQuhFAXtJNOkVbW3ZgsdGCi8IUv.jpg"
+    },
+    {
+     "name": "Sananth",
+     "character": "Shiva",
+     "slug": "sananth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ffs9RHdkMB1SuUjk8VEqvIjMf0f.jpg"
+    },
+    {
+     "name": "Emaya T",
+     "character": "Sadhana",
+     "slug": "emaya-t",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jHBFVIfdIYU3OqC90GF5Bvr4Abm.jpg"
+    },
+    {
+     "name": "Whatsapp Mani",
+     "character": "Mani",
+     "slug": "whatsapp-mani",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Debnita Kar",
+     "character": "Ankita",
+     "slug": "debnita-kar",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Pragathi Mahavadi",
+     "character": "Saraswathi",
+     "slug": "pragathi-mahavadi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9v63JB33LMkfR90raHu9O1iHZOQ.jpg"
+    },
+    {
+     "name": "Uma Padmanabhan",
+     "character": "Varalakshmi",
+     "slug": "uma-padmanabhan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3SRptZ5iRBnJhbD6zQho0pYr7ly.jpg"
+    },
+    {
+     "name": "Ajit Koshy",
+     "character": "Padmanabhan",
+     "slug": "ajit-koshy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qR765VN5mOHfosx23NBMTxWuw6h.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Kishore kumar",
+       "slug": "kishore-kumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Kishore kumar",
+       "slug": "kishore-kumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rajesh Murugesan",
+       "slug": "rajesh-murugesan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mukes",
+       "slug": "mukes"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Barath Vikraman",
+       "slug": "barath-vikraman"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "R. Ravindran",
+       "slug": "r-ravindran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Trident Arts",
+     "slug": "trident-arts",
+     "logo": "https://image.tmdb.org/t/p/w185/xryPUTxib0ykcr5bwiLUX8u7b4d.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-08-14",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2708,
+      "name": " AP International South Cinema Amazon Channel",
+      "logoPath": "/qe5IxHppN6JWNGf8xqSo2dgAbR4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-06-26": [
+     {
+      "id": 795,
+      "title": "Supergirl",
+      "img": "https://image.tmdb.org/t/p/original/niSvU02l2BONH9ivubV6K1a5QiK.jpg"
+     },
+     {
+      "id": 1169,
+      "title": "Uyir",
+      "img": "https://image.tmdb.org/t/p/original/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg"
+     },
+     {
+      "id": 1171,
+      "title": "Con City",
+      "img": "https://image.tmdb.org/t/p/original/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg"
+     }
+    ],
+    "2026-07-02": [
+     {
+      "id": 1177,
+      "title": "Minions u0026 Monsters",
+      "img": "https://image.tmdb.org/t/p/original/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-06-26",
+     "gross": 135547,
+     "sold": 598,
+     "unsold": 5620,
+     "shows": 39,
+     "occ": 9.62,
+     "hf": "4",
+     "almost": "4",
+     "ff": "0",
+     "cumul": 135547,
+     "lastUpdatedAt": "2026-07-02 14:28:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 135547,
+    "totalShows": 39,
+    "totalSeats": 6218,
+    "totalSold": 598,
+    "avgOcc": "9.6",
+    "totalDays": 1,
+    "totalHousefull": 4,
+    "totalAlmost": 4,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 135547
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 135547
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "1:135547:135547"
+  },
+  "district": {
+   "movie": {
+    "id": 1170,
+    "title": "Heartin",
+    "img": "https://image.tmdb.org/t/p/original/7xvMocNLZov64aOU1X3BRWawjD7.jpg",
+    "released": "2026-06-26",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt35741123",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "119 min",
+    "genre": "Comedy, Romance, Drama",
+    "plot": "Fate tosses a couple into an unexpected situation with an ex-girlfriend in the mix.",
+    "released": "2026-06-26",
+    "director": "Kishore kumar",
+    "directorSlug": "kishore-kumar",
+    "actors": [
+     "Madonna Sebastian",
+     "Sananth",
+     "Emaya T",
+     "Whatsapp Mani",
+     "Debnita Kar",
+     "Pragathi Mahavadi"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 1298,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Madonna Sebastian",
+     "character": "Sahitya",
+     "slug": "madonna-sebastian",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zQuhFAXtJNOkVbW3ZgsdGCi8IUv.jpg"
+    },
+    {
+     "name": "Sananth",
+     "character": "Shiva",
+     "slug": "sananth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ffs9RHdkMB1SuUjk8VEqvIjMf0f.jpg"
+    },
+    {
+     "name": "Emaya T",
+     "character": "Sadhana",
+     "slug": "emaya-t",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jHBFVIfdIYU3OqC90GF5Bvr4Abm.jpg"
+    },
+    {
+     "name": "Whatsapp Mani",
+     "character": "Mani",
+     "slug": "whatsapp-mani",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Debnita Kar",
+     "character": "Ankita",
+     "slug": "debnita-kar",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Pragathi Mahavadi",
+     "character": "Saraswathi",
+     "slug": "pragathi-mahavadi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9v63JB33LMkfR90raHu9O1iHZOQ.jpg"
+    },
+    {
+     "name": "Uma Padmanabhan",
+     "character": "Varalakshmi",
+     "slug": "uma-padmanabhan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3SRptZ5iRBnJhbD6zQho0pYr7ly.jpg"
+    },
+    {
+     "name": "Ajit Koshy",
+     "character": "Padmanabhan",
+     "slug": "ajit-koshy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qR765VN5mOHfosx23NBMTxWuw6h.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Kishore kumar",
+       "slug": "kishore-kumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Kishore kumar",
+       "slug": "kishore-kumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rajesh Murugesan",
+       "slug": "rajesh-murugesan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mukes",
+       "slug": "mukes"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Barath Vikraman",
+       "slug": "barath-vikraman"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "R. Ravindran",
+       "slug": "r-ravindran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Trident Arts",
+     "slug": "trident-arts",
+     "logo": "https://image.tmdb.org/t/p/w185/xryPUTxib0ykcr5bwiLUX8u7b4d.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-08-14",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2708,
+      "name": " AP International South Cinema Amazon Channel",
+      "logoPath": "/qe5IxHppN6JWNGf8xqSo2dgAbR4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-06-26": [
+     {
+      "id": 795,
+      "title": "Supergirl",
+      "img": "https://image.tmdb.org/t/p/original/niSvU02l2BONH9ivubV6K1a5QiK.jpg"
+     },
+     {
+      "id": 1169,
+      "title": "Uyir",
+      "img": "https://image.tmdb.org/t/p/original/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg"
+     },
+     {
+      "id": 1171,
+      "title": "Con City",
+      "img": "https://image.tmdb.org/t/p/original/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg"
+     }
+    ],
+    "2026-07-02": [
+     {
+      "id": 1177,
+      "title": "Minions u0026 Monsters",
+      "img": "https://image.tmdb.org/t/p/original/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Kannur",
+     "gross": 52120,
+     "sold": 226,
+     "unsold": 110,
+     "shows": 3,
+     "occ": 67.26,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 52120,
+     "lastUpdatedAt": "2026-06-28 20:38:01"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 41550,
+     "sold": 159,
+     "unsold": 713,
+     "shows": 7,
+     "occ": 18.23,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 93670,
+     "lastUpdatedAt": "2026-07-02 09:42:01"
+    },
+    {
+     "label": "Ernakulam",
+     "gross": 26766,
+     "sold": 128,
+     "unsold": 684,
+     "shows": 6,
+     "occ": 15.76,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 120436,
+     "lastUpdatedAt": "2026-06-30 17:03:01"
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 12540,
+     "sold": 66,
+     "unsold": 578,
+     "shows": 4,
+     "occ": 10.25,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 132976,
+     "lastUpdatedAt": "2026-06-28 12:23:01"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 1329,
+     "sold": 9,
+     "unsold": 641,
+     "shows": 7,
+     "occ": 1.38,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 134305,
+     "lastUpdatedAt": "2026-07-01 14:28:01"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 1032,
+     "sold": 8,
+     "unsold": 272,
+     "shows": 2,
+     "occ": 2.86,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 135337,
+     "lastUpdatedAt": "2026-07-02 14:28:01"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 210,
+     "sold": 2,
+     "unsold": 418,
+     "shows": 6,
+     "occ": 0.48,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 135547,
+     "lastUpdatedAt": "2026-06-28 21:48:01"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 2204,
+     "shows": 4,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 135547,
+     "lastUpdatedAt": "2026-06-27 20:29:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 135547,
+    "totalShows": 39,
+    "totalSeats": 6218,
+    "totalSold": 598,
+    "avgOcc": "9.6",
+    "totalDays": 8,
+    "totalHousefull": 4,
+    "totalAlmost": 4,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 52120,
+     "date": "Kannur"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 52120,
+     "date": "Kannur"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "8:0:135547"
+  }
+ }
+}

@@ -1,0 +1,525 @@
+{
+ "id": 1328,
+ "slug": "amanushikam",
+ "source_url": "https://fridaymatinee.in/boxoffice/amanushikam-1328",
+ "captured_at": "2026-10-01T19:59:05.707322+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1328,
+    "title": "Amanushikam",
+    "img": "https://m.media-amazon.com/images/M/MV5BMzljMDYwNmUtODUyZS00YTE4LTllODEtYjU4MTRiODcyNzQ5XkEyXkFqcGc@._V1_.jpg",
+    "released": "2026-09-25",
+    "language": "Malayalam",
+    "live": "on",
+    "pretrack": "off",
+    "imdbId": "tt44841119",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": null,
+    "plot": null,
+    "released": null,
+    "director": null,
+    "directorSlug": null,
+    "actors": [],
+    "awards": null,
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T12:30:04.000Z"
+    }
+   },
+   "cast": [],
+   "crew": [],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-25": [
+     {
+      "id": 1224,
+      "title": "Primetime",
+      "img": "https://image.tmdb.org/t/p/original/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
+     },
+     {
+      "id": 1258,
+      "title": "Dhoomakethu",
+      "img": "https://image.tmdb.org/t/p/original/sxXFjKj3tFKcSJ9VtxRaDc3cbiw.jpg"
+     },
+     {
+      "id": 1288,
+      "title": "Avengers Endgame: Encore",
+      "img": "https://image.tmdb.org/t/p/original/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+     }
+    ],
+    "2026-10-01": [
+     {
+      "id": 1330,
+      "title": "Baththa",
+      "img": "https://m.media-amazon.com/images/M/MV5BNjRmZGFjMDctMzRiNS00MmIwLTliYmMtODY5ZGFkOTE5YmFkXkEyXkFqcGc@._V1_.jpg"
+     },
+     {
+      "id": 1331,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "img": "https://image.tmdb.org/t/p/original/wdWQA1IVCYiTTEZMSnWl1tzhBd3.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-09-25",
+     "gross": 101714,
+     "sold": 709,
+     "unsold": 5308,
+     "shows": 30,
+     "occ": 11.78,
+     "hf": "0",
+     "almost": "0",
+     "ff": "1",
+     "cumul": 101714,
+     "lastUpdatedAt": "2026-09-25 23:56:01"
+    },
+    {
+     "label": "2026-09-26",
+     "gross": 50325,
+     "sold": 340,
+     "unsold": 4543,
+     "shows": 24,
+     "occ": 6.96,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 152039,
+     "lastUpdatedAt": "2026-09-26 23:56:01"
+    },
+    {
+     "label": "2026-09-27",
+     "gross": 98750,
+     "sold": 638,
+     "unsold": 3032,
+     "shows": 19,
+     "occ": 17.38,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 250789,
+     "lastUpdatedAt": "2026-09-27 23:56:02"
+    },
+    {
+     "label": "2026-09-28",
+     "gross": 13280,
+     "sold": 95,
+     "unsold": 1315,
+     "shows": 8,
+     "occ": 6.74,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 264069,
+     "lastUpdatedAt": "2026-09-28 23:56:01"
+    },
+    {
+     "label": "2026-09-29",
+     "gross": 7570,
+     "sold": 58,
+     "unsold": 1068,
+     "shows": 6,
+     "occ": 5.15,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 271639,
+     "lastUpdatedAt": "2026-09-29 23:56:01"
+    },
+    {
+     "label": "2026-09-30",
+     "gross": 9990,
+     "sold": 71,
+     "unsold": 852,
+     "shows": 5,
+     "occ": 7.69,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 281629,
+     "lastUpdatedAt": "2026-09-30 23:56:02"
+    },
+    {
+     "label": "2026-10-01",
+     "gross": 16990,
+     "sold": 128,
+     "unsold": 630,
+     "shows": 4,
+     "occ": 16.89,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 298619,
+     "lastUpdatedAt": "2026-10-01 23:56:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 298619,
+    "totalShows": 96,
+    "totalSeats": 18787,
+    "totalSold": 2039,
+    "avgOcc": "10.9",
+    "totalDays": 7,
+    "totalHousefull": 1,
+    "totalAlmost": 1,
+    "totalFastFilling": 1,
+    "peakDay": {
+     "day": 1,
+     "gross": 101714,
+     "date": "2026-09-25"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 101714,
+     "date": "2026-09-25"
+    },
+    "chartPosition": null
+   },
+   "_tier": "hot",
+   "_hash": "7:16990:298619"
+  },
+  "week": {
+   "movie": {
+    "id": 1328,
+    "title": "Amanushikam",
+    "img": "https://m.media-amazon.com/images/M/MV5BMzljMDYwNmUtODUyZS00YTE4LTllODEtYjU4MTRiODcyNzQ5XkEyXkFqcGc@._V1_.jpg",
+    "released": "2026-09-25",
+    "language": "Malayalam",
+    "live": "on",
+    "pretrack": "off",
+    "imdbId": "tt44841119",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": null,
+    "plot": null,
+    "released": null,
+    "director": null,
+    "directorSlug": null,
+    "actors": [],
+    "awards": null,
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T12:30:04.000Z"
+    }
+   },
+   "cast": [],
+   "crew": [],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-25": [
+     {
+      "id": 1224,
+      "title": "Primetime",
+      "img": "https://image.tmdb.org/t/p/original/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
+     },
+     {
+      "id": 1258,
+      "title": "Dhoomakethu",
+      "img": "https://image.tmdb.org/t/p/original/sxXFjKj3tFKcSJ9VtxRaDc3cbiw.jpg"
+     },
+     {
+      "id": 1288,
+      "title": "Avengers Endgame: Encore",
+      "img": "https://image.tmdb.org/t/p/original/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+     }
+    ],
+    "2026-10-01": [
+     {
+      "id": 1330,
+      "title": "Baththa",
+      "img": "https://m.media-amazon.com/images/M/MV5BNjRmZGFjMDctMzRiNS00MmIwLTliYmMtODY5ZGFkOTE5YmFkXkEyXkFqcGc@._V1_.jpg"
+     },
+     {
+      "id": 1331,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "img": "https://image.tmdb.org/t/p/original/wdWQA1IVCYiTTEZMSnWl1tzhBd3.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-09-25",
+     "gross": 298619,
+     "sold": 2039,
+     "unsold": 16748,
+     "shows": 96,
+     "occ": 10.85,
+     "hf": "1",
+     "almost": "1",
+     "ff": "1",
+     "cumul": 298619,
+     "lastUpdatedAt": "2026-10-01 23:56:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 298619,
+    "totalShows": 96,
+    "totalSeats": 18787,
+    "totalSold": 2039,
+    "avgOcc": "10.9",
+    "totalDays": 1,
+    "totalHousefull": 1,
+    "totalAlmost": 1,
+    "totalFastFilling": 1,
+    "peakDay": {
+     "day": 1,
+     "gross": 298619
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 298619
+    },
+    "chartPosition": null
+   },
+   "_tier": "hot",
+   "_hash": "1:298619:298619"
+  },
+  "district": {
+   "movie": {
+    "id": 1328,
+    "title": "Amanushikam",
+    "img": "https://m.media-amazon.com/images/M/MV5BMzljMDYwNmUtODUyZS00YTE4LTllODEtYjU4MTRiODcyNzQ5XkEyXkFqcGc@._V1_.jpg",
+    "released": "2026-09-25",
+    "language": "Malayalam",
+    "live": "on",
+    "pretrack": "off",
+    "imdbId": "tt44841119",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": null,
+    "plot": null,
+    "released": null,
+    "director": null,
+    "directorSlug": null,
+    "actors": [],
+    "awards": null,
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T12:30:04.000Z"
+    }
+   },
+   "cast": [],
+   "crew": [],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-25": [
+     {
+      "id": 1224,
+      "title": "Primetime",
+      "img": "https://image.tmdb.org/t/p/original/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
+     },
+     {
+      "id": 1258,
+      "title": "Dhoomakethu",
+      "img": "https://image.tmdb.org/t/p/original/sxXFjKj3tFKcSJ9VtxRaDc3cbiw.jpg"
+     },
+     {
+      "id": 1288,
+      "title": "Avengers Endgame: Encore",
+      "img": "https://image.tmdb.org/t/p/original/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+     }
+    ],
+    "2026-10-01": [
+     {
+      "id": 1330,
+      "title": "Baththa",
+      "img": "https://m.media-amazon.com/images/M/MV5BNjRmZGFjMDctMzRiNS00MmIwLTliYmMtODY5ZGFkOTE5YmFkXkEyXkFqcGc@._V1_.jpg"
+     },
+     {
+      "id": 1331,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "img": "https://image.tmdb.org/t/p/original/wdWQA1IVCYiTTEZMSnWl1tzhBd3.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Thrissur",
+     "gross": 213895,
+     "sold": 1509,
+     "unsold": 3479,
+     "shows": 26,
+     "occ": 30.25,
+     "hf": "1",
+     "almost": "1",
+     "ff": "1",
+     "cumul": 213895,
+     "lastUpdatedAt": "2026-10-01 23:56:01"
+    },
+    {
+     "label": "Ernakulam",
+     "gross": 46500,
+     "sold": 246,
+     "unsold": 1486,
+     "shows": 10,
+     "occ": 14.2,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 260395,
+     "lastUpdatedAt": "2026-09-28 12:23:01"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 16260,
+     "sold": 110,
+     "unsold": 2764,
+     "shows": 16,
+     "occ": 3.83,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 276655,
+     "lastUpdatedAt": "2026-10-01 17:53:01"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 10366,
+     "sold": 88,
+     "unsold": 2098,
+     "shows": 11,
+     "occ": 4.03,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 287021,
+     "lastUpdatedAt": "2026-09-27 15:38:01"
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 5320,
+     "sold": 38,
+     "unsold": 2223,
+     "shows": 12,
+     "occ": 1.68,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 292341,
+     "lastUpdatedAt": "2026-10-01 17:13:01"
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 5188,
+     "sold": 40,
+     "unsold": 1364,
+     "shows": 4,
+     "occ": 2.85,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 297529,
+     "lastUpdatedAt": "2026-09-27 10:28:01"
+    },
+    {
+     "label": "Pathanamthitta",
+     "gross": 960,
+     "sold": 7,
+     "unsold": 1340,
+     "shows": 3,
+     "occ": 0.52,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 298489,
+     "lastUpdatedAt": "2026-09-27 10:53:01"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 130,
+     "sold": 1,
+     "unsold": 1228,
+     "shows": 7,
+     "occ": 0.08,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 298619,
+     "lastUpdatedAt": "2026-09-27 16:19:01"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 526,
+     "shows": 4,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 298619,
+     "lastUpdatedAt": "2026-09-26 14:14:02"
+    },
+    {
+     "label": "Idukki",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 240,
+     "shows": 3,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 298619,
+     "lastUpdatedAt": "2026-09-27 11:53:02"
+    }
+   ],
+   "summary": {
+    "totalGross": 298619,
+    "totalShows": 96,
+    "totalSeats": 18787,
+    "totalSold": 2039,
+    "avgOcc": "10.9",
+    "totalDays": 10,
+    "totalHousefull": 1,
+    "totalAlmost": 1,
+    "totalFastFilling": 1,
+    "peakDay": {
+     "day": 1,
+     "gross": 213895,
+     "date": "Thrissur"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 213895,
+     "date": "Thrissur"
+    },
+    "chartPosition": null
+   },
+   "_tier": "hot",
+   "_hash": "10:0:298619"
+  }
+ }
+}

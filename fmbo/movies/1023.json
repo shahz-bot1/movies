@@ -1,0 +1,936 @@
+{
+ "id": 1023,
+ "slug": "the-secret-agent",
+ "source_url": "https://fridaymatinee.in/boxoffice/the-secret-agent-1023",
+ "captured_at": "2026-10-01T18:41:41.550678+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1023,
+    "title": "The Secret Agent",
+    "img": "https://image.tmdb.org/t/p/original/t1DQ4XXIqTm5LvUjz8jypN43JjZ.jpg",
+    "released": "2026-02-27",
+    "language": "other",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27847051",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "161 min",
+    "genre": "Crime, Drama, Thriller",
+    "plot": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
+    "released": "2025-07-23",
+    "director": "Kleber Mendonça Filho",
+    "directorSlug": "kleber-mendonca-filho",
+    "actors": [
+     "Wagner Moura",
+     "Tânia Maria",
+     "Alice Carvalho",
+     "Maria Fernanda Cândido",
+     "Gabriel Leone",
+     "Udo Kier"
+    ],
+    "awards": "Nominated for 4 Oscars. 76 wins u0026 149 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 63483,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.1",
+      "votes": 874,
+      "updatedAt": "2026-09-24T13:10:32.000Z"
+     },
+     "rt": "98%",
+     "metascore": 91,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Wagner Moura",
+     "character": "Armando Solimões / Marcelo Alves / Adult Fernando Solimões",
+     "slug": "wagner-moura",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/53IbAed4t1dOWxY3iygbRYZBBnm.jpg"
+    },
+    {
+     "name": "Tânia Maria",
+     "character": "Dona Sebastiana",
+     "slug": "tania-maria",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m6pwRC7Jh9AqrKkGreQqwzasiWC.jpg"
+    },
+    {
+     "name": "Alice Carvalho",
+     "character": "Fátima",
+     "slug": "alice-carvalho",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xj2BDbWC0ECOlT3tBaIG0su74Ea.jpg"
+    },
+    {
+     "name": "Maria Fernanda Cândido",
+     "character": "Elza / Sara Guébert",
+     "slug": "maria-fernanda-candido",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wC2gTlttR4GnUB4YMJscIOY8hWk.jpg"
+    },
+    {
+     "name": "Gabriel Leone",
+     "character": "Bobbi Borba",
+     "slug": "gabriel-leone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wvinAoGZiOGczIEtXWFmXGMl0QC.jpg"
+    },
+    {
+     "name": "Udo Kier",
+     "character": "Hans",
+     "slug": "udo-kier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg"
+    },
+    {
+     "name": "Carlos Francisco",
+     "character": "Seu Alexandre",
+     "slug": "carlos-francisco",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ihf4bN4GuScyA2QwlzVCnPqOuOo.jpg"
+    },
+    {
+     "name": "Thomás Aquino",
+     "character": "Valdemar",
+     "slug": "thomas-aquino",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cTtrEWKpRijXbnSsGzof0E6XBnP.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Kleber Mendonça Filho",
+       "slug": "kleber-mendonca-filho"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Kleber Mendonça Filho",
+       "slug": "kleber-mendonca-filho"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Mateus Alves",
+       "slug": "mateus-alves"
+      },
+      {
+       "name": "Tomaz Alves de Souza",
+       "slug": "tomaz-alves-de-souza"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Evgenia Alexandrova",
+       "slug": "evgenia-alexandrova"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Eduardo Serrano",
+       "slug": "eduardo-serrano"
+      },
+      {
+       "name": "Matheus Farias",
+       "slug": "matheus-farias"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Emilie Lesclaux",
+       "slug": "emilie-lesclaux"
+      },
+      {
+       "name": "Kleber Mendonça Filho",
+       "slug": "kleber-mendonca-filho"
+      },
+      {
+       "name": "Winston Araújo",
+       "slug": "winston-araujo"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lemming Film",
+     "slug": "lemming-film",
+     "logo": "https://image.tmdb.org/t/p/w185/nozBgqHmM9A22IHkghTnLiUrM7Q.png"
+    },
+    {
+     "name": "One Two Films",
+     "slug": "one-two-films",
+     "logo": "https://image.tmdb.org/t/p/w185/ibYDOzRUY7y8PHdM7JGuw5YLlcp.png"
+    },
+    {
+     "name": "CinemaScópio",
+     "slug": "cinemascopio",
+     "logo": "https://image.tmdb.org/t/p/w185/5EGVvPhTETMM9oJYY6TqkZ49MZV.png"
+    },
+    {
+     "name": "ARTE France Cinéma",
+     "slug": "arte-france-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/huC7HqorvUThGIrENrbcHmQVUA0.png"
+    },
+    {
+     "name": "MK Productions",
+     "slug": "mk-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/lsrFxFozZBdbzUPb7DG5OBcmnuC.png"
+    },
+    {
+     "name": "Primo Content",
+     "slug": "primo-content",
+     "logo": "https://image.tmdb.org/t/p/w185/tINT6vMiVhG0LuLbDYxXZlGMm6L.png"
+    },
+    {
+     "name": "Agência Nacional do Cinema - ANCINE",
+     "slug": "agencia-nacional-do-cinema-ancine",
+     "logo": "https://image.tmdb.org/t/p/w185/kyOeH5CwsaILcJItafIMAM4KElB.png"
+    },
+    {
+     "name": "Banco Regional de Desenvolvimento do Extremo Sul",
+     "slug": "banco-regional-de-desenvolvimento-do-extremo-sul",
+     "logo": "https://image.tmdb.org/t/p/w185/poEQXm0Ej4xjSYWDf93xBbo8Gco.png"
+    },
+    {
+     "name": "Fundo Setorial do Audiovisual",
+     "slug": "fundo-setorial-do-audiovisual",
+     "logo": "https://image.tmdb.org/t/p/w185/1doJ1Sg6VVCietnJZC7Da38Uk1e.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-03-04": [
+     {
+      "id": 631,
+      "title": "The Bride",
+      "img": "https://image.tmdb.org/t/p/original/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+     }
+    ],
+    "2026-02-27": [
+     {
+      "id": 1019,
+      "title": "Hamnet",
+      "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+     },
+     {
+      "id": 1020,
+      "title": "Masthishka Maranam",
+      "img": "https://image.tmdb.org/t/p/original/tC6dhwbZ7LDCx9RyDNiPOaLvMId.jpg"
+     },
+     {
+      "id": 1022,
+      "title": "The Kerala Story 2 Goes Beyond",
+      "img": "https://image.tmdb.org/t/p/original/5btAk8YTRT3FLsqQBumN5eCk8xO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-02-27",
+     "gross": 6610,
+     "sold": 26,
+     "unsold": 280,
+     "shows": 2,
+     "occ": 8.5,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 6610,
+     "lastUpdatedAt": "2026-02-27 17:53:00"
+    },
+    {
+     "label": "2026-02-28",
+     "gross": 15980,
+     "sold": 81,
+     "unsold": 223,
+     "shows": 2,
+     "occ": 26.64,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 22590,
+     "lastUpdatedAt": "2026-02-28 17:53:00"
+    },
+    {
+     "label": "2026-03-01",
+     "gross": 9660,
+     "sold": 46,
+     "unsold": 259,
+     "shows": 2,
+     "occ": 15.08,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 32250,
+     "lastUpdatedAt": "2026-03-01 17:53:00"
+    },
+    {
+     "label": "2026-03-02",
+     "gross": 2330,
+     "sold": 12,
+     "unsold": 192,
+     "shows": 1,
+     "occ": 5.88,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 34580,
+     "lastUpdatedAt": "2026-03-02 16:08:00"
+    },
+    {
+     "label": "2026-03-03",
+     "gross": 2420,
+     "sold": 14,
+     "unsold": 190,
+     "shows": 1,
+     "occ": 6.86,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 37000,
+     "lastUpdatedAt": "2026-03-03 16:08:00"
+    },
+    {
+     "label": "2026-03-04",
+     "gross": 1110,
+     "sold": 6,
+     "unsold": 198,
+     "shows": 1,
+     "occ": 2.94,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 38110,
+     "lastUpdatedAt": "2026-03-04 16:08:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 38110,
+    "totalShows": 9,
+    "totalSeats": 1527,
+    "totalSold": 185,
+    "avgOcc": "12.1",
+    "totalDays": 6,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 2,
+     "gross": 15980,
+     "date": "2026-02-28"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 6610,
+     "date": "2026-02-27"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "6:1110:38110"
+  },
+  "week": {
+   "movie": {
+    "id": 1023,
+    "title": "The Secret Agent",
+    "img": "https://image.tmdb.org/t/p/original/t1DQ4XXIqTm5LvUjz8jypN43JjZ.jpg",
+    "released": "2026-02-27",
+    "language": "other",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27847051",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "161 min",
+    "genre": "Crime, Drama, Thriller",
+    "plot": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
+    "released": "2025-07-23",
+    "director": "Kleber Mendonça Filho",
+    "directorSlug": "kleber-mendonca-filho",
+    "actors": [
+     "Wagner Moura",
+     "Tânia Maria",
+     "Alice Carvalho",
+     "Maria Fernanda Cândido",
+     "Gabriel Leone",
+     "Udo Kier"
+    ],
+    "awards": "Nominated for 4 Oscars. 76 wins u0026 149 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 63483,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.1",
+      "votes": 874,
+      "updatedAt": "2026-09-24T13:10:32.000Z"
+     },
+     "rt": "98%",
+     "metascore": 91,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Wagner Moura",
+     "character": "Armando Solimões / Marcelo Alves / Adult Fernando Solimões",
+     "slug": "wagner-moura",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/53IbAed4t1dOWxY3iygbRYZBBnm.jpg"
+    },
+    {
+     "name": "Tânia Maria",
+     "character": "Dona Sebastiana",
+     "slug": "tania-maria",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m6pwRC7Jh9AqrKkGreQqwzasiWC.jpg"
+    },
+    {
+     "name": "Alice Carvalho",
+     "character": "Fátima",
+     "slug": "alice-carvalho",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xj2BDbWC0ECOlT3tBaIG0su74Ea.jpg"
+    },
+    {
+     "name": "Maria Fernanda Cândido",
+     "character": "Elza / Sara Guébert",
+     "slug": "maria-fernanda-candido",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wC2gTlttR4GnUB4YMJscIOY8hWk.jpg"
+    },
+    {
+     "name": "Gabriel Leone",
+     "character": "Bobbi Borba",
+     "slug": "gabriel-leone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wvinAoGZiOGczIEtXWFmXGMl0QC.jpg"
+    },
+    {
+     "name": "Udo Kier",
+     "character": "Hans",
+     "slug": "udo-kier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg"
+    },
+    {
+     "name": "Carlos Francisco",
+     "character": "Seu Alexandre",
+     "slug": "carlos-francisco",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ihf4bN4GuScyA2QwlzVCnPqOuOo.jpg"
+    },
+    {
+     "name": "Thomás Aquino",
+     "character": "Valdemar",
+     "slug": "thomas-aquino",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cTtrEWKpRijXbnSsGzof0E6XBnP.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Kleber Mendonça Filho",
+       "slug": "kleber-mendonca-filho"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Kleber Mendonça Filho",
+       "slug": "kleber-mendonca-filho"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Mateus Alves",
+       "slug": "mateus-alves"
+      },
+      {
+       "name": "Tomaz Alves de Souza",
+       "slug": "tomaz-alves-de-souza"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Evgenia Alexandrova",
+       "slug": "evgenia-alexandrova"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Eduardo Serrano",
+       "slug": "eduardo-serrano"
+      },
+      {
+       "name": "Matheus Farias",
+       "slug": "matheus-farias"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Emilie Lesclaux",
+       "slug": "emilie-lesclaux"
+      },
+      {
+       "name": "Kleber Mendonça Filho",
+       "slug": "kleber-mendonca-filho"
+      },
+      {
+       "name": "Winston Araújo",
+       "slug": "winston-araujo"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lemming Film",
+     "slug": "lemming-film",
+     "logo": "https://image.tmdb.org/t/p/w185/nozBgqHmM9A22IHkghTnLiUrM7Q.png"
+    },
+    {
+     "name": "One Two Films",
+     "slug": "one-two-films",
+     "logo": "https://image.tmdb.org/t/p/w185/ibYDOzRUY7y8PHdM7JGuw5YLlcp.png"
+    },
+    {
+     "name": "CinemaScópio",
+     "slug": "cinemascopio",
+     "logo": "https://image.tmdb.org/t/p/w185/5EGVvPhTETMM9oJYY6TqkZ49MZV.png"
+    },
+    {
+     "name": "ARTE France Cinéma",
+     "slug": "arte-france-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/huC7HqorvUThGIrENrbcHmQVUA0.png"
+    },
+    {
+     "name": "MK Productions",
+     "slug": "mk-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/lsrFxFozZBdbzUPb7DG5OBcmnuC.png"
+    },
+    {
+     "name": "Primo Content",
+     "slug": "primo-content",
+     "logo": "https://image.tmdb.org/t/p/w185/tINT6vMiVhG0LuLbDYxXZlGMm6L.png"
+    },
+    {
+     "name": "Agência Nacional do Cinema - ANCINE",
+     "slug": "agencia-nacional-do-cinema-ancine",
+     "logo": "https://image.tmdb.org/t/p/w185/kyOeH5CwsaILcJItafIMAM4KElB.png"
+    },
+    {
+     "name": "Banco Regional de Desenvolvimento do Extremo Sul",
+     "slug": "banco-regional-de-desenvolvimento-do-extremo-sul",
+     "logo": "https://image.tmdb.org/t/p/w185/poEQXm0Ej4xjSYWDf93xBbo8Gco.png"
+    },
+    {
+     "name": "Fundo Setorial do Audiovisual",
+     "slug": "fundo-setorial-do-audiovisual",
+     "logo": "https://image.tmdb.org/t/p/w185/1doJ1Sg6VVCietnJZC7Da38Uk1e.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-03-04": [
+     {
+      "id": 631,
+      "title": "The Bride",
+      "img": "https://image.tmdb.org/t/p/original/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+     }
+    ],
+    "2026-02-27": [
+     {
+      "id": 1019,
+      "title": "Hamnet",
+      "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+     },
+     {
+      "id": 1020,
+      "title": "Masthishka Maranam",
+      "img": "https://image.tmdb.org/t/p/original/tC6dhwbZ7LDCx9RyDNiPOaLvMId.jpg"
+     },
+     {
+      "id": 1022,
+      "title": "The Kerala Story 2 Goes Beyond",
+      "img": "https://image.tmdb.org/t/p/original/5btAk8YTRT3FLsqQBumN5eCk8xO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-02-27",
+     "gross": 38110,
+     "sold": 185,
+     "unsold": 1342,
+     "shows": 9,
+     "occ": 12.12,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 38110,
+     "lastUpdatedAt": "2026-03-04 16:08:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 38110,
+    "totalShows": 9,
+    "totalSeats": 1527,
+    "totalSold": 185,
+    "avgOcc": "12.1",
+    "totalDays": 1,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 38110
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 38110
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:38110:38110"
+  },
+  "district": {
+   "movie": {
+    "id": 1023,
+    "title": "The Secret Agent",
+    "img": "https://image.tmdb.org/t/p/original/t1DQ4XXIqTm5LvUjz8jypN43JjZ.jpg",
+    "released": "2026-02-27",
+    "language": "other",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27847051",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "161 min",
+    "genre": "Crime, Drama, Thriller",
+    "plot": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
+    "released": "2025-07-23",
+    "director": "Kleber Mendonça Filho",
+    "directorSlug": "kleber-mendonca-filho",
+    "actors": [
+     "Wagner Moura",
+     "Tânia Maria",
+     "Alice Carvalho",
+     "Maria Fernanda Cândido",
+     "Gabriel Leone",
+     "Udo Kier"
+    ],
+    "awards": "Nominated for 4 Oscars. 76 wins u0026 149 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 63483,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.1",
+      "votes": 874,
+      "updatedAt": "2026-09-24T13:10:32.000Z"
+     },
+     "rt": "98%",
+     "metascore": 91,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Wagner Moura",
+     "character": "Armando Solimões / Marcelo Alves / Adult Fernando Solimões",
+     "slug": "wagner-moura",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/53IbAed4t1dOWxY3iygbRYZBBnm.jpg"
+    },
+    {
+     "name": "Tânia Maria",
+     "character": "Dona Sebastiana",
+     "slug": "tania-maria",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m6pwRC7Jh9AqrKkGreQqwzasiWC.jpg"
+    },
+    {
+     "name": "Alice Carvalho",
+     "character": "Fátima",
+     "slug": "alice-carvalho",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xj2BDbWC0ECOlT3tBaIG0su74Ea.jpg"
+    },
+    {
+     "name": "Maria Fernanda Cândido",
+     "character": "Elza / Sara Guébert",
+     "slug": "maria-fernanda-candido",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wC2gTlttR4GnUB4YMJscIOY8hWk.jpg"
+    },
+    {
+     "name": "Gabriel Leone",
+     "character": "Bobbi Borba",
+     "slug": "gabriel-leone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wvinAoGZiOGczIEtXWFmXGMl0QC.jpg"
+    },
+    {
+     "name": "Udo Kier",
+     "character": "Hans",
+     "slug": "udo-kier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg"
+    },
+    {
+     "name": "Carlos Francisco",
+     "character": "Seu Alexandre",
+     "slug": "carlos-francisco",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ihf4bN4GuScyA2QwlzVCnPqOuOo.jpg"
+    },
+    {
+     "name": "Thomás Aquino",
+     "character": "Valdemar",
+     "slug": "thomas-aquino",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cTtrEWKpRijXbnSsGzof0E6XBnP.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Kleber Mendonça Filho",
+       "slug": "kleber-mendonca-filho"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Kleber Mendonça Filho",
+       "slug": "kleber-mendonca-filho"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Mateus Alves",
+       "slug": "mateus-alves"
+      },
+      {
+       "name": "Tomaz Alves de Souza",
+       "slug": "tomaz-alves-de-souza"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Evgenia Alexandrova",
+       "slug": "evgenia-alexandrova"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Eduardo Serrano",
+       "slug": "eduardo-serrano"
+      },
+      {
+       "name": "Matheus Farias",
+       "slug": "matheus-farias"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Emilie Lesclaux",
+       "slug": "emilie-lesclaux"
+      },
+      {
+       "name": "Kleber Mendonça Filho",
+       "slug": "kleber-mendonca-filho"
+      },
+      {
+       "name": "Winston Araújo",
+       "slug": "winston-araujo"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lemming Film",
+     "slug": "lemming-film",
+     "logo": "https://image.tmdb.org/t/p/w185/nozBgqHmM9A22IHkghTnLiUrM7Q.png"
+    },
+    {
+     "name": "One Two Films",
+     "slug": "one-two-films",
+     "logo": "https://image.tmdb.org/t/p/w185/ibYDOzRUY7y8PHdM7JGuw5YLlcp.png"
+    },
+    {
+     "name": "CinemaScópio",
+     "slug": "cinemascopio",
+     "logo": "https://image.tmdb.org/t/p/w185/5EGVvPhTETMM9oJYY6TqkZ49MZV.png"
+    },
+    {
+     "name": "ARTE France Cinéma",
+     "slug": "arte-france-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/huC7HqorvUThGIrENrbcHmQVUA0.png"
+    },
+    {
+     "name": "MK Productions",
+     "slug": "mk-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/lsrFxFozZBdbzUPb7DG5OBcmnuC.png"
+    },
+    {
+     "name": "Primo Content",
+     "slug": "primo-content",
+     "logo": "https://image.tmdb.org/t/p/w185/tINT6vMiVhG0LuLbDYxXZlGMm6L.png"
+    },
+    {
+     "name": "Agência Nacional do Cinema - ANCINE",
+     "slug": "agencia-nacional-do-cinema-ancine",
+     "logo": "https://image.tmdb.org/t/p/w185/kyOeH5CwsaILcJItafIMAM4KElB.png"
+    },
+    {
+     "name": "Banco Regional de Desenvolvimento do Extremo Sul",
+     "slug": "banco-regional-de-desenvolvimento-do-extremo-sul",
+     "logo": "https://image.tmdb.org/t/p/w185/poEQXm0Ej4xjSYWDf93xBbo8Gco.png"
+    },
+    {
+     "name": "Fundo Setorial do Audiovisual",
+     "slug": "fundo-setorial-do-audiovisual",
+     "logo": "https://image.tmdb.org/t/p/w185/1doJ1Sg6VVCietnJZC7Da38Uk1e.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-03-04": [
+     {
+      "id": 631,
+      "title": "The Bride",
+      "img": "https://image.tmdb.org/t/p/original/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+     }
+    ],
+    "2026-02-27": [
+     {
+      "id": 1019,
+      "title": "Hamnet",
+      "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+     },
+     {
+      "id": 1020,
+      "title": "Masthishka Maranam",
+      "img": "https://image.tmdb.org/t/p/original/tC6dhwbZ7LDCx9RyDNiPOaLvMId.jpg"
+     },
+     {
+      "id": 1022,
+      "title": "The Kerala Story 2 Goes Beyond",
+      "img": "https://image.tmdb.org/t/p/original/5btAk8YTRT3FLsqQBumN5eCk8xO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 21920,
+     "sold": 114,
+     "unsold": 1111,
+     "shows": 6,
+     "occ": 9.31,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 21920,
+     "lastUpdatedAt": "2026-03-04 16:08:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 16190,
+     "sold": 71,
+     "unsold": 231,
+     "shows": 3,
+     "occ": 23.51,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 38110,
+     "lastUpdatedAt": "2026-03-01 17:53:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 38110,
+    "totalShows": 9,
+    "totalSeats": 1527,
+    "totalSold": 185,
+    "avgOcc": "12.1",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 21920,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 21920,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "2:16190:38110"
+  }
+ }
+}

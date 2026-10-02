@@ -1,0 +1,53 @@
+{
+ "slug": "anwar-rasheed",
+ "name": "Anwar Rasheed",
+ "source_url": "https://fridaymatinee.in/people/anwar-rasheed",
+ "captured_at": "2026-10-01T20:48:58.808097+00:00",
+ "person": {
+  "name": "Anwar Rasheed",
+  "photo": "https://image.tmdb.org/t/p/w185/670MKLVvf3zQCQ2474T3mGigiBU.jpg",
+  "role": "Producer and director"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 61,
+   "movie_slug": "trance",
+   "title": "Trance",
+   "year": 2020,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 512,
+   "movie_slug": "aavesham",
+   "title": "Aavesham",
+   "year": 2024,
+   "kerala_gross": "₹63.7 Cr"
+  },
+  {
+   "movie_id": 627,
+   "movie_slug": "pravinkoodu-shappu",
+   "title": "Pravinkoodu Shappu",
+   "year": 2025,
+   "kerala_gross": "₹4.3 Cr"
+  },
+  {
+   "movie_id": 1287,
+   "movie_slug": "bachelor-party-d-eux",
+   "title": "Bachelor Party D'eux",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

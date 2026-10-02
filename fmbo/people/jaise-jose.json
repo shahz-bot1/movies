@@ -1,0 +1,41 @@
+{
+ "slug": "jaise-jose",
+ "name": "Jaise Jose",
+ "source_url": "https://fridaymatinee.in/people/jaise-jose",
+ "captured_at": "2026-10-01T22:59:18.574415+00:00",
+ "person": {
+  "name": "Jaise Jose",
+  "photo": "https://image.tmdb.org/t/p/w185/240eal2wPjRa5ZztbOgJBtLsnPe.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 81,
+   "movie_slug": "nayattu",
+   "title": "Nayattu",
+   "year": 2021,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 579,
+   "movie_slug": "gumasthan",
+   "title": "Gumasthan",
+   "year": 2024,
+   "kerala_gross": "₹54.3L"
+  },
+  {
+   "movie_id": 950,
+   "movie_slug": "aghosham",
+   "title": "Aghosham",
+   "year": 2025,
+   "kerala_gross": "₹38.2L"
+  }
+ ]
+}

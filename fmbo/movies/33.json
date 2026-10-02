@@ -1,0 +1,341 @@
+{
+ "id": 33,
+ "slug": "jack-daniel",
+ "source_url": "https://fridaymatinee.in/boxoffice/jack-daniel-33",
+ "captured_at": "2026-10-01T17:57:40.388762+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 33,
+    "title": "Jack Daniel ",
+    "img": "https://image.tmdb.org/t/p/original/tCad25r7nkbjLipOZMpJ1uxYWk0.jpg",
+    "released": "2019-11-15",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10087134",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "156 min",
+    "genre": "Thriller, Action",
+    "plot": "Jack, a thief who hoodwinks the system and steals black money, is chased by Daniel, a cop intent on catching him. This action thriller portrays a game of cat and mouse that will keep you on tenterhooks!",
+    "released": "2019-11-15",
+    "director": "S.L Puram Jayasurya",
+    "directorSlug": "s-l-puram-jayasurya",
+    "actors": [
+     "Dileep",
+     "Arjun Sarja",
+     "Anju Kurian",
+     "Innocent",
+     "Saiju Kurup",
+     "Subbalakshmi"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.6",
+      "votes": 955,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dileep",
+     "character": "Jackson Mathew",
+     "slug": "dileep",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5DirIZGTvLfBJOt2zOfBlb0bIsz.jpg"
+    },
+    {
+     "name": "Arjun Sarja",
+     "character": "Daniel Abraham",
+     "slug": "arjun-sarja",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fQ0yTvyDdykFxfHNYKNfRKzlCyz.jpg"
+    },
+    {
+     "name": "Anju Kurian",
+     "character": "Susmitha",
+     "slug": "anju-kurian",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/r4VyXgKI5TpspfwEClmWwCS6fQ.jpg"
+    },
+    {
+     "name": "Innocent",
+     "character": "Koyapparamban",
+     "slug": "innocent",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zJ4mjbYYo7Z7Gva8pl1Q2czs7a7.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "DSP Philip",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Subbalakshmi",
+     "character": "Mutthassi",
+     "slug": "subbalakshmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXbB0fTpDe5B2Jj74RQp8slcG6b.jpg"
+    },
+    {
+     "name": "Raveena Ravi",
+     "character": "Susmitha (Voice)",
+     "slug": "raveena-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xFBHKFjcMp1ujk5UJeiuhf2vGwO.jpg"
+    },
+    {
+     "name": "Lakshmi Gopalaswamy",
+     "character": "Irine Jerald",
+     "slug": "lakshmi-gopalaswamy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oXICwUgpEuyMVEmrpNGnLRaQAxD.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "S.L Puram Jayasurya",
+       "slug": "s-l-puram-jayasurya"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "S.L Puram Jayasurya",
+       "slug": "s-l-puram-jayasurya"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Shaan Rahman",
+       "slug": "shaan-rahman"
+      },
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "John Kutty",
+       "slug": "john-kutty"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shibu Thameens",
+       "slug": "shibu-thameens"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Thameens Films",
+     "slug": "thameens-films",
+     "logo": "https://image.tmdb.org/t/p/w185/64HTH9aTaaXR3llqkfPZ0ut6eUz.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 15809375,
+    "totalShows": 2207,
+    "totalDays": 28,
+    "openingDay": {
+     "day": 1,
+     "gross": 3466566,
+     "date": "2019-11-15"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3466566,
+     "date": "2019-11-15"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 8,
+     "peak_position": 6,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-15"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 33,
+    "title": "Jack Daniel ",
+    "img": "https://image.tmdb.org/t/p/original/tCad25r7nkbjLipOZMpJ1uxYWk0.jpg",
+    "released": "2019-11-15",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10087134",
+    "isRerelease": false
+   },
+   "omdb": "$e:1:props:allViews:date:omdb",
+   "cast": "$e:1:props:allViews:date:cast",
+   "crew": "$e:1:props:allViews:date:crew",
+   "companies": "$e:1:props:allViews:date:companies",
+   "ott": "$e:1:props:allViews:date:ott",
+   "boxoffice": [
+    {
+     "label": "2019-11-15",
+     "gross": 12055167,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1524,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-11-22",
+     "gross": 3250112,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 624,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-11-29",
+     "gross": 434819,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 47,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-12-06",
+     "gross": 69277,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 12,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 15809375,
+    "totalShows": 2207,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 12055167,
+     "date": "$undefined"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 12055167,
+     "date": "$undefined"
+    },
+    "chartPosition": "$e:1:props:allViews:date:summary:chartPosition"
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-15"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 33,
+    "title": "Jack Daniel ",
+    "img": "https://image.tmdb.org/t/p/original/tCad25r7nkbjLipOZMpJ1uxYWk0.jpg",
+    "released": "2019-11-15",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10087134",
+    "isRerelease": false
+   },
+   "omdb": "$e:1:props:allViews:date:omdb",
+   "cast": "$e:1:props:allViews:date:cast",
+   "crew": "$e:1:props:allViews:date:crew",
+   "companies": "$e:1:props:allViews:date:companies",
+   "ott": "$e:1:props:allViews:date:ott",
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 15809375,
+    "totalShows": 2207,
+    "totalDays": 12,
+    "openingDay": {
+     "day": 1,
+     "gross": 4082838,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4082838,
+     "date": "Ernakulam"
+    },
+    "chartPosition": "$e:1:props:allViews:date:summary:chartPosition"
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-15"
+   }
+  }
+ }
+}

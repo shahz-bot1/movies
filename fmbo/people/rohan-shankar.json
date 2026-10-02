@@ -1,0 +1,41 @@
+{
+ "slug": "rohan-shankar",
+ "name": "Rohan Shankar",
+ "source_url": "https://fridaymatinee.in/people/rohan-shankar",
+ "captured_at": "2026-10-02T09:47:35.598156+00:00",
+ "person": {
+  "name": "Rohan Shankar",
+  "photo": null,
+  "role": "Writer"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 732,
+   "movie_slug": "saiyaara",
+   "title": "Saiyaara",
+   "year": 2025,
+   "kerala_gross": "₹2.3 Cr"
+  },
+  {
+   "movie_id": 1070,
+   "movie_slug": "bhooth-bangla",
+   "title": "Bhooth Bangla",
+   "year": 2026,
+   "kerala_gross": "₹24.0L"
+  },
+  {
+   "movie_id": 1278,
+   "movie_slug": "haiwaan",
+   "title": "Haiwaan",
+   "year": 2026,
+   "kerala_gross": "₹4.2L"
+  }
+ ]
+}

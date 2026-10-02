@@ -1,0 +1,752 @@
+{
+ "id": 635,
+ "slug": "nosferatu",
+ "source_url": "https://fridaymatinee.in/boxoffice/nosferatu-635",
+ "captured_at": "2026-10-01T18:17:43.231354+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 635,
+    "title": "Nosferatu",
+    "img": "https://image.tmdb.org/t/p/original/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+    "released": "2025-01-10",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt5040012",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "133 min",
+    "genre": "Horror, Fantasy",
+    "plot": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+    "released": "2024-12-25",
+    "director": "Robert Eggers",
+    "directorSlug": "robert-eggers",
+    "actors": [
+     "Lily-Rose Depp",
+     "Nicholas Hoult",
+     "Bill Skarsgård",
+     "Aaron Taylor-Johnson",
+     "Willem Dafoe",
+     "Emma Corrin"
+    ],
+    "awards": "Nominated for 4 Oscars. 61 wins u0026 198 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.1",
+      "votes": 277394,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.7",
+      "votes": 3980,
+      "updatedAt": "2026-09-24T19:10:25.000Z"
+     },
+     "rt": "85%",
+     "metascore": 78,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Lily-Rose Depp",
+     "character": "Ellen Hutter",
+     "slug": "lily-rose-depp",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fulxfCO2UjDTVX3lhy4mup4wXqM.jpg"
+    },
+    {
+     "name": "Nicholas Hoult",
+     "character": "Thomas Hutter",
+     "slug": "nicholas-hoult",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xesAPMRC5HmPm4D3Stme7rNoNJ7.jpg"
+    },
+    {
+     "name": "Bill Skarsgård",
+     "character": "Count Orlok",
+     "slug": "bill-skarsgard",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg"
+    },
+    {
+     "name": "Aaron Taylor-Johnson",
+     "character": "Friedrich Harding",
+     "slug": "aaron-taylor-johnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1DtNaGrRwnBhm0jVCtE1xOb61TK.jpg"
+    },
+    {
+     "name": "Willem Dafoe",
+     "character": "Prof. Albin Eberhart von Franz",
+     "slug": "willem-dafoe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+     "name": "Emma Corrin",
+     "character": "Anna Harding",
+     "slug": "emma-corrin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wqGOVOsHzZaHeHymIS40elGCnY0.jpg"
+    },
+    {
+     "name": "Ralph Ineson",
+     "character": "Dr. Wilhelm Sievers",
+     "slug": "ralph-ineson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sn3ONJw2pJxMHiCqPwvkaiWr5mc.jpg"
+    },
+    {
+     "name": "Simon McBurney",
+     "character": "Herr Knock",
+     "slug": "simon-mcburney",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h0J9UH1g1C0c8T8x1mjvfUv5X5f.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Robert Eggers",
+       "slug": "robert-eggers"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Robert Eggers",
+       "slug": "robert-eggers"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Robin Carolan",
+       "slug": "robin-carolan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jarin Blaschke",
+       "slug": "jarin-blaschke"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Louise Ford",
+       "slug": "louise-ford"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jeff Robinov",
+       "slug": "jeff-robinov"
+      },
+      {
+       "name": "John Graham",
+       "slug": "john-graham"
+      },
+      {
+       "name": "Chris Columbus",
+       "slug": "chris-columbus"
+      },
+      {
+       "name": "Eleanor Columbus",
+       "slug": "eleanor-columbus"
+      },
+      {
+       "name": "Robert Eggers",
+       "slug": "robert-eggers"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Focus Features",
+     "slug": "focus-features",
+     "logo": "https://image.tmdb.org/t/p/w185/xnFIOeq5cKw09kCWqV7foWDe4AA.png"
+    },
+    {
+     "name": "Studio 8",
+     "slug": "studio-8",
+     "logo": "https://image.tmdb.org/t/p/w185/7z6YOzvdk70YY8OaRbn5mfxrvbO.png"
+    },
+    {
+     "name": "Maiden Voyage Pictures",
+     "slug": "maiden-voyage-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/rBlfMlCcxulmS25zTQwmXDHZmnB.png"
+    },
+    {
+     "name": "Birch Hill Road Entertainment",
+     "slug": "birch-hill-road-entertainment",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-05-10",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1681126,
+    "totalShows": 148,
+    "totalDays": 28,
+    "openingDay": {
+     "day": 1,
+     "gross": 138600,
+     "date": "2025-01-10"
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 183990,
+     "date": "2025-01-11"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-10"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 635,
+    "title": "Nosferatu",
+    "img": "https://image.tmdb.org/t/p/original/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+    "released": "2025-01-10",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt5040012",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "133 min",
+    "genre": "Horror, Fantasy",
+    "plot": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+    "released": "2024-12-25",
+    "director": "Robert Eggers",
+    "directorSlug": "robert-eggers",
+    "actors": [
+     "Lily-Rose Depp",
+     "Nicholas Hoult",
+     "Bill Skarsgård",
+     "Aaron Taylor-Johnson",
+     "Willem Dafoe",
+     "Emma Corrin"
+    ],
+    "awards": "Nominated for 4 Oscars. 61 wins u0026 198 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.1",
+      "votes": 277394,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.7",
+      "votes": 3980,
+      "updatedAt": "2026-09-24T19:10:25.000Z"
+     },
+     "rt": "85%",
+     "metascore": 78,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Lily-Rose Depp",
+     "character": "Ellen Hutter",
+     "slug": "lily-rose-depp",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fulxfCO2UjDTVX3lhy4mup4wXqM.jpg"
+    },
+    {
+     "name": "Nicholas Hoult",
+     "character": "Thomas Hutter",
+     "slug": "nicholas-hoult",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xesAPMRC5HmPm4D3Stme7rNoNJ7.jpg"
+    },
+    {
+     "name": "Bill Skarsgård",
+     "character": "Count Orlok",
+     "slug": "bill-skarsgard",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg"
+    },
+    {
+     "name": "Aaron Taylor-Johnson",
+     "character": "Friedrich Harding",
+     "slug": "aaron-taylor-johnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1DtNaGrRwnBhm0jVCtE1xOb61TK.jpg"
+    },
+    {
+     "name": "Willem Dafoe",
+     "character": "Prof. Albin Eberhart von Franz",
+     "slug": "willem-dafoe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+     "name": "Emma Corrin",
+     "character": "Anna Harding",
+     "slug": "emma-corrin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wqGOVOsHzZaHeHymIS40elGCnY0.jpg"
+    },
+    {
+     "name": "Ralph Ineson",
+     "character": "Dr. Wilhelm Sievers",
+     "slug": "ralph-ineson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sn3ONJw2pJxMHiCqPwvkaiWr5mc.jpg"
+    },
+    {
+     "name": "Simon McBurney",
+     "character": "Herr Knock",
+     "slug": "simon-mcburney",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h0J9UH1g1C0c8T8x1mjvfUv5X5f.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Robert Eggers",
+       "slug": "robert-eggers"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Robert Eggers",
+       "slug": "robert-eggers"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Robin Carolan",
+       "slug": "robin-carolan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jarin Blaschke",
+       "slug": "jarin-blaschke"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Louise Ford",
+       "slug": "louise-ford"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jeff Robinov",
+       "slug": "jeff-robinov"
+      },
+      {
+       "name": "John Graham",
+       "slug": "john-graham"
+      },
+      {
+       "name": "Chris Columbus",
+       "slug": "chris-columbus"
+      },
+      {
+       "name": "Eleanor Columbus",
+       "slug": "eleanor-columbus"
+      },
+      {
+       "name": "Robert Eggers",
+       "slug": "robert-eggers"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Focus Features",
+     "slug": "focus-features",
+     "logo": "https://image.tmdb.org/t/p/w185/xnFIOeq5cKw09kCWqV7foWDe4AA.png"
+    },
+    {
+     "name": "Studio 8",
+     "slug": "studio-8",
+     "logo": "https://image.tmdb.org/t/p/w185/7z6YOzvdk70YY8OaRbn5mfxrvbO.png"
+    },
+    {
+     "name": "Maiden Voyage Pictures",
+     "slug": "maiden-voyage-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/rBlfMlCcxulmS25zTQwmXDHZmnB.png"
+    },
+    {
+     "name": "Birch Hill Road Entertainment",
+     "slug": "birch-hill-road-entertainment",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-05-10",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-01-10",
+     "gross": 887350,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 69,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-17",
+     "gross": 349707,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 43,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-24",
+     "gross": 280797,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 23,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-31",
+     "gross": 163272,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 13,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1681126,
+    "totalShows": 148,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 887350
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 887350
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-10"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 635,
+    "title": "Nosferatu",
+    "img": "https://image.tmdb.org/t/p/original/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+    "released": "2025-01-10",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt5040012",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "133 min",
+    "genre": "Horror, Fantasy",
+    "plot": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+    "released": "2024-12-25",
+    "director": "Robert Eggers",
+    "directorSlug": "robert-eggers",
+    "actors": [
+     "Lily-Rose Depp",
+     "Nicholas Hoult",
+     "Bill Skarsgård",
+     "Aaron Taylor-Johnson",
+     "Willem Dafoe",
+     "Emma Corrin"
+    ],
+    "awards": "Nominated for 4 Oscars. 61 wins u0026 198 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.1",
+      "votes": 277394,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.7",
+      "votes": 3980,
+      "updatedAt": "2026-09-24T19:10:25.000Z"
+     },
+     "rt": "85%",
+     "metascore": 78,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Lily-Rose Depp",
+     "character": "Ellen Hutter",
+     "slug": "lily-rose-depp",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fulxfCO2UjDTVX3lhy4mup4wXqM.jpg"
+    },
+    {
+     "name": "Nicholas Hoult",
+     "character": "Thomas Hutter",
+     "slug": "nicholas-hoult",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xesAPMRC5HmPm4D3Stme7rNoNJ7.jpg"
+    },
+    {
+     "name": "Bill Skarsgård",
+     "character": "Count Orlok",
+     "slug": "bill-skarsgard",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg"
+    },
+    {
+     "name": "Aaron Taylor-Johnson",
+     "character": "Friedrich Harding",
+     "slug": "aaron-taylor-johnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1DtNaGrRwnBhm0jVCtE1xOb61TK.jpg"
+    },
+    {
+     "name": "Willem Dafoe",
+     "character": "Prof. Albin Eberhart von Franz",
+     "slug": "willem-dafoe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+     "name": "Emma Corrin",
+     "character": "Anna Harding",
+     "slug": "emma-corrin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wqGOVOsHzZaHeHymIS40elGCnY0.jpg"
+    },
+    {
+     "name": "Ralph Ineson",
+     "character": "Dr. Wilhelm Sievers",
+     "slug": "ralph-ineson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sn3ONJw2pJxMHiCqPwvkaiWr5mc.jpg"
+    },
+    {
+     "name": "Simon McBurney",
+     "character": "Herr Knock",
+     "slug": "simon-mcburney",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h0J9UH1g1C0c8T8x1mjvfUv5X5f.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Robert Eggers",
+       "slug": "robert-eggers"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Robert Eggers",
+       "slug": "robert-eggers"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Robin Carolan",
+       "slug": "robin-carolan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jarin Blaschke",
+       "slug": "jarin-blaschke"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Louise Ford",
+       "slug": "louise-ford"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jeff Robinov",
+       "slug": "jeff-robinov"
+      },
+      {
+       "name": "John Graham",
+       "slug": "john-graham"
+      },
+      {
+       "name": "Chris Columbus",
+       "slug": "chris-columbus"
+      },
+      {
+       "name": "Eleanor Columbus",
+       "slug": "eleanor-columbus"
+      },
+      {
+       "name": "Robert Eggers",
+       "slug": "robert-eggers"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Focus Features",
+     "slug": "focus-features",
+     "logo": "https://image.tmdb.org/t/p/w185/xnFIOeq5cKw09kCWqV7foWDe4AA.png"
+    },
+    {
+     "name": "Studio 8",
+     "slug": "studio-8",
+     "logo": "https://image.tmdb.org/t/p/w185/7z6YOzvdk70YY8OaRbn5mfxrvbO.png"
+    },
+    {
+     "name": "Maiden Voyage Pictures",
+     "slug": "maiden-voyage-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/rBlfMlCcxulmS25zTQwmXDHZmnB.png"
+    },
+    {
+     "name": "Birch Hill Road Entertainment",
+     "slug": "birch-hill-road-entertainment",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-05-10",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1681126,
+    "totalShows": 148,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 1174404,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1174404,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-10"
+   }
+  }
+ }
+}

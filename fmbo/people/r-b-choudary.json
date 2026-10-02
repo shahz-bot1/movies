@@ -1,0 +1,48 @@
+{
+ "slug": "r-b-choudary",
+ "name": "R. B. Choudary",
+ "source_url": "https://fridaymatinee.in/people/r-b-choudary",
+ "captured_at": "2026-10-02T06:33:46.097470+00:00",
+ "person": {
+  "name": "R. B. Choudary",
+  "photo": "https://image.tmdb.org/t/p/w185/cbFHtH5DqklViuOt3xlgOis0SND.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 218,
+   "movie_slug": "godfather",
+   "title": "Godfather",
+   "year": 2022,
+   "kerala_gross": "₹8.6L"
+  },
+  {
+   "movie_id": 504,
+   "movie_slug": "thankamani",
+   "title": "Thankamani",
+   "year": 2024,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 733,
+   "movie_slug": "maareesan",
+   "title": "Maareesan",
+   "year": 2025,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 1231,
+   "movie_slug": "magudam",
+   "title": "Magudam",
+   "year": 2026,
+   "kerala_gross": "₹7.0L"
+  }
+ ]
+}

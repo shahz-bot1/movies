@@ -1,0 +1,617 @@
+{
+ "id": 280,
+ "slug": "poovan",
+ "source_url": "https://fridaymatinee.in/boxoffice/poovan-280",
+ "captured_at": "2026-10-01T18:08:45.389129+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 280,
+    "title": "Poovan",
+    "img": "https://image.tmdb.org/t/p/original/g1VUJGIMXWsABYoilUl2seovt50.jpg",
+    "released": "2023-01-20",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21092874",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "138 min",
+    "genre": "Drama, Comedy",
+    "plot": "The day to day life of Hari, who suffers from sleeplessness, takes a turnaround with the arrival of a rooster next door.",
+    "released": "2023-01-20",
+    "director": "Vineeth Vasudevan",
+    "directorSlug": "vineeth-vasudevan",
+    "actors": [
+     "Antony Varghese",
+     "Sajin Cherukayil",
+     "Vineeth Vishwam",
+     "Vineeth Vasudevan",
+     "Varun Dhara",
+     "Girish A. D."
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.8",
+      "votes": 446,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:43.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Antony Varghese",
+     "character": "Hari",
+     "slug": "antony-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dKRa8ghSXw6J1OTcxMziZh3l1jb.jpg"
+    },
+    {
+     "name": "Sajin Cherukayil",
+     "character": "Benny",
+     "slug": "sajin-cherukayil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fuwZ6g0GMgfKJnaZ6kJljwM277x.jpg"
+    },
+    {
+     "name": "Vineeth Vishwam",
+     "character": "Manu",
+     "slug": "vineeth-vishwam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yRcEew2uXur0nv9BmMxnYiRmCZl.jpg"
+    },
+    {
+     "name": "Vineeth Vasudevan",
+     "character": "Kannan",
+     "slug": "vineeth-vasudevan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mgCBBEs2DUDG0870JJQZdiB0kZR.jpg"
+    },
+    {
+     "name": "Varun Dhara",
+     "character": "Febin",
+     "slug": "varun-dhara",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vQncIq5ILapr9ZlhQF32KuIZid7.jpg"
+    },
+    {
+     "name": "Girish A. D.",
+     "character": "Sudheer",
+     "slug": "girish-a-d",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pjRaOmlTs2J7fDqWgHcZWwah0zF.jpg"
+    },
+    {
+     "name": "Maniyanpilla Raju",
+     "character": null,
+     "slug": "maniyanpilla-raju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2G6JRbEXPkhCqZ0rZjzRNjip99D.jpg"
+    },
+    {
+     "name": "Rinku Ranadeer",
+     "character": "Diji Paul",
+     "slug": "rinku-ranadeer",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vineeth Vasudevan",
+       "slug": "vineeth-vasudevan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Varun Dhara",
+       "slug": "varun-dhara"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Midhun Mukundan",
+       "slug": "midhun-mukundan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sajith Purushan",
+       "slug": "sajith-purushan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Akash Joseph Varghese",
+       "slug": "akash-joseph-varghese"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shebin Backer",
+       "slug": "shebin-backer"
+      },
+      {
+       "name": "Girish A. D.",
+       "slug": "girish-a-d"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Shebin Backer Films",
+     "slug": "shebin-backer-films",
+     "logo": "https://image.tmdb.org/t/p/w185/wFRvsC9mXBQctf17eQUFRWI9pOF.png"
+    },
+    {
+     "name": "Stuck Cows",
+     "slug": "stuck-cows",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2985319.17,
+    "totalShows": 1600,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 874156.8199999998,
+     "date": "2023-01-20"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 874156.8199999998,
+     "date": "2023-01-20"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-20"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 280,
+    "title": "Poovan",
+    "img": "https://image.tmdb.org/t/p/original/g1VUJGIMXWsABYoilUl2seovt50.jpg",
+    "released": "2023-01-20",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21092874",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "138 min",
+    "genre": "Drama, Comedy",
+    "plot": "The day to day life of Hari, who suffers from sleeplessness, takes a turnaround with the arrival of a rooster next door.",
+    "released": "2023-01-20",
+    "director": "Vineeth Vasudevan",
+    "directorSlug": "vineeth-vasudevan",
+    "actors": [
+     "Antony Varghese",
+     "Sajin Cherukayil",
+     "Vineeth Vishwam",
+     "Vineeth Vasudevan",
+     "Varun Dhara",
+     "Girish A. D."
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.8",
+      "votes": 446,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:43.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Antony Varghese",
+     "character": "Hari",
+     "slug": "antony-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dKRa8ghSXw6J1OTcxMziZh3l1jb.jpg"
+    },
+    {
+     "name": "Sajin Cherukayil",
+     "character": "Benny",
+     "slug": "sajin-cherukayil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fuwZ6g0GMgfKJnaZ6kJljwM277x.jpg"
+    },
+    {
+     "name": "Vineeth Vishwam",
+     "character": "Manu",
+     "slug": "vineeth-vishwam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yRcEew2uXur0nv9BmMxnYiRmCZl.jpg"
+    },
+    {
+     "name": "Vineeth Vasudevan",
+     "character": "Kannan",
+     "slug": "vineeth-vasudevan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mgCBBEs2DUDG0870JJQZdiB0kZR.jpg"
+    },
+    {
+     "name": "Varun Dhara",
+     "character": "Febin",
+     "slug": "varun-dhara",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vQncIq5ILapr9ZlhQF32KuIZid7.jpg"
+    },
+    {
+     "name": "Girish A. D.",
+     "character": "Sudheer",
+     "slug": "girish-a-d",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pjRaOmlTs2J7fDqWgHcZWwah0zF.jpg"
+    },
+    {
+     "name": "Maniyanpilla Raju",
+     "character": null,
+     "slug": "maniyanpilla-raju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2G6JRbEXPkhCqZ0rZjzRNjip99D.jpg"
+    },
+    {
+     "name": "Rinku Ranadeer",
+     "character": "Diji Paul",
+     "slug": "rinku-ranadeer",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vineeth Vasudevan",
+       "slug": "vineeth-vasudevan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Varun Dhara",
+       "slug": "varun-dhara"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Midhun Mukundan",
+       "slug": "midhun-mukundan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sajith Purushan",
+       "slug": "sajith-purushan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Akash Joseph Varghese",
+       "slug": "akash-joseph-varghese"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shebin Backer",
+       "slug": "shebin-backer"
+      },
+      {
+       "name": "Girish A. D.",
+       "slug": "girish-a-d"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Shebin Backer Films",
+     "slug": "shebin-backer-films",
+     "logo": "https://image.tmdb.org/t/p/w185/wFRvsC9mXBQctf17eQUFRWI9pOF.png"
+    },
+    {
+     "name": "Stuck Cows",
+     "slug": "stuck-cows",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-01-20",
+     "gross": 2985319.1700000004,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1600,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2985319.1700000004,
+    "totalShows": 1600,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 2985319.1700000004
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2985319.1700000004
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-20"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 280,
+    "title": "Poovan",
+    "img": "https://image.tmdb.org/t/p/original/g1VUJGIMXWsABYoilUl2seovt50.jpg",
+    "released": "2023-01-20",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21092874",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "138 min",
+    "genre": "Drama, Comedy",
+    "plot": "The day to day life of Hari, who suffers from sleeplessness, takes a turnaround with the arrival of a rooster next door.",
+    "released": "2023-01-20",
+    "director": "Vineeth Vasudevan",
+    "directorSlug": "vineeth-vasudevan",
+    "actors": [
+     "Antony Varghese",
+     "Sajin Cherukayil",
+     "Vineeth Vishwam",
+     "Vineeth Vasudevan",
+     "Varun Dhara",
+     "Girish A. D."
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.8",
+      "votes": 446,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:43.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Antony Varghese",
+     "character": "Hari",
+     "slug": "antony-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dKRa8ghSXw6J1OTcxMziZh3l1jb.jpg"
+    },
+    {
+     "name": "Sajin Cherukayil",
+     "character": "Benny",
+     "slug": "sajin-cherukayil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fuwZ6g0GMgfKJnaZ6kJljwM277x.jpg"
+    },
+    {
+     "name": "Vineeth Vishwam",
+     "character": "Manu",
+     "slug": "vineeth-vishwam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yRcEew2uXur0nv9BmMxnYiRmCZl.jpg"
+    },
+    {
+     "name": "Vineeth Vasudevan",
+     "character": "Kannan",
+     "slug": "vineeth-vasudevan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mgCBBEs2DUDG0870JJQZdiB0kZR.jpg"
+    },
+    {
+     "name": "Varun Dhara",
+     "character": "Febin",
+     "slug": "varun-dhara",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vQncIq5ILapr9ZlhQF32KuIZid7.jpg"
+    },
+    {
+     "name": "Girish A. D.",
+     "character": "Sudheer",
+     "slug": "girish-a-d",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pjRaOmlTs2J7fDqWgHcZWwah0zF.jpg"
+    },
+    {
+     "name": "Maniyanpilla Raju",
+     "character": null,
+     "slug": "maniyanpilla-raju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2G6JRbEXPkhCqZ0rZjzRNjip99D.jpg"
+    },
+    {
+     "name": "Rinku Ranadeer",
+     "character": "Diji Paul",
+     "slug": "rinku-ranadeer",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vineeth Vasudevan",
+       "slug": "vineeth-vasudevan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Varun Dhara",
+       "slug": "varun-dhara"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Midhun Mukundan",
+       "slug": "midhun-mukundan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sajith Purushan",
+       "slug": "sajith-purushan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Akash Joseph Varghese",
+       "slug": "akash-joseph-varghese"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shebin Backer",
+       "slug": "shebin-backer"
+      },
+      {
+       "name": "Girish A. D.",
+       "slug": "girish-a-d"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Shebin Backer Films",
+     "slug": "shebin-backer-films",
+     "logo": "https://image.tmdb.org/t/p/w185/wFRvsC9mXBQctf17eQUFRWI9pOF.png"
+    },
+    {
+     "name": "Stuck Cows",
+     "slug": "stuck-cows",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2985319.17,
+    "totalShows": 1600,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 767856,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 767856,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-20"
+   }
+  }
+ }
+}

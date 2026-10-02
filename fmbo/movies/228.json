@@ -1,0 +1,720 @@
+{
+ "id": 228,
+ "slug": "sardar",
+ "source_url": "https://fridaymatinee.in/boxoffice/sardar-228",
+ "captured_at": "2026-10-01T18:07:11.488555+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 228,
+    "title": "Sardar",
+    "img": "https://image.tmdb.org/t/p/original/q6wfuQWN9QjUu3j63FAZ3uFL5pO.jpg",
+    "released": "2022-10-21",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14526318",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "167 min",
+    "genre": "Thriller, Action",
+    "plot": "An espionage agent who is branded a traitor returns from exile to take down a dubious water project and safeguard the country.",
+    "released": "2022-10-21",
+    "director": "P. S. Mithran",
+    "directorSlug": "p-s-mithran",
+    "actors": [
+     "Karthi",
+     "Raashii Khanna",
+     "Rajisha Vijayan",
+     "Laila",
+     "Chunky Panday",
+     "Munishkanth"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "7.4",
+      "votes": 9069,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Karthi",
+     "character": "Chandrabose \"Sardar\"/Vijay Prakash",
+     "slug": "karthi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/npZUMAZBru1wgFefkv5kS3Ezl1z.jpg"
+    },
+    {
+     "name": "Raashii Khanna",
+     "character": "Shalini",
+     "slug": "raashii-khanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8nx3hzFdge51Cb5BcocIe4ShumU.jpg"
+    },
+    {
+     "name": "Rajisha Vijayan",
+     "character": "Indhra Rani",
+     "slug": "rajisha-vijayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u5Oq0XHQeHeZLg0NbPZCyCo3Uc6.jpg"
+    },
+    {
+     "name": "Laila",
+     "character": "Sameera Thomas",
+     "slug": "laila",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yYflGhx9UiJ5aHA3k45BeTb5M12.jpg"
+    },
+    {
+     "name": "Chunky Panday",
+     "character": "Maharaj Rathore",
+     "slug": "chunky-panday",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2dG7abdDNs3MVmrAa6HEBFKhch4.jpg"
+    },
+    {
+     "name": "Munishkanth",
+     "character": "Paavadaisami",
+     "slug": "munishkanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n2SjFPNv3EN1ziqfdpyjiEvoqt7.jpg"
+    },
+    {
+     "name": "Ilavarasu",
+     "character": "Politician",
+     "slug": "ilavarasu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWCREhajMvlOE49g79zyvwdpf5E.jpg"
+    },
+    {
+     "name": "Yugi Sethu",
+     "character": "Agent Karapampoochi (Cockroach)",
+     "slug": "yugi-sethu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5iFRZjKuwbr8vFVKeZlFqERvtFk.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "P. S. Mithran",
+       "slug": "p-s-mithran"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "P. S. Mithran",
+       "slug": "p-s-mithran"
+      },
+      {
+       "name": "Geevee",
+       "slug": "geevee"
+      },
+      {
+       "name": "Pon Parthiban",
+       "slug": "pon-parthiban"
+      },
+      {
+       "name": "Bibin Ragu",
+       "slug": "bibin-ragu"
+      },
+      {
+       "name": "Roju",
+       "slug": "roju"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "G. V. Prakash Kumar",
+       "slug": "g-v-prakash-kumar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "George C. Williams",
+       "slug": "george-c-williams"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Antony L. Ruben",
+       "slug": "antony-l-ruben"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "S. Lakshman Kumar",
+       "slug": "s-lakshman-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Prince Pictures",
+     "slug": "prince-pictures",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 9485977.8,
+    "totalShows": 2108,
+    "totalDays": 11,
+    "openingDay": {
+     "day": 1,
+     "gross": 1391861.4,
+     "date": "2022-10-21"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 1901974.4,
+     "date": "2022-10-23"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 86,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-10-21"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 228,
+    "title": "Sardar",
+    "img": "https://image.tmdb.org/t/p/original/q6wfuQWN9QjUu3j63FAZ3uFL5pO.jpg",
+    "released": "2022-10-21",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14526318",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "167 min",
+    "genre": "Thriller, Action",
+    "plot": "An espionage agent who is branded a traitor returns from exile to take down a dubious water project and safeguard the country.",
+    "released": "2022-10-21",
+    "director": "P. S. Mithran",
+    "directorSlug": "p-s-mithran",
+    "actors": [
+     "Karthi",
+     "Raashii Khanna",
+     "Rajisha Vijayan",
+     "Laila",
+     "Chunky Panday",
+     "Munishkanth"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "7.4",
+      "votes": 9069,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Karthi",
+     "character": "Chandrabose \"Sardar\"/Vijay Prakash",
+     "slug": "karthi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/npZUMAZBru1wgFefkv5kS3Ezl1z.jpg"
+    },
+    {
+     "name": "Raashii Khanna",
+     "character": "Shalini",
+     "slug": "raashii-khanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8nx3hzFdge51Cb5BcocIe4ShumU.jpg"
+    },
+    {
+     "name": "Rajisha Vijayan",
+     "character": "Indhra Rani",
+     "slug": "rajisha-vijayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u5Oq0XHQeHeZLg0NbPZCyCo3Uc6.jpg"
+    },
+    {
+     "name": "Laila",
+     "character": "Sameera Thomas",
+     "slug": "laila",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yYflGhx9UiJ5aHA3k45BeTb5M12.jpg"
+    },
+    {
+     "name": "Chunky Panday",
+     "character": "Maharaj Rathore",
+     "slug": "chunky-panday",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2dG7abdDNs3MVmrAa6HEBFKhch4.jpg"
+    },
+    {
+     "name": "Munishkanth",
+     "character": "Paavadaisami",
+     "slug": "munishkanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n2SjFPNv3EN1ziqfdpyjiEvoqt7.jpg"
+    },
+    {
+     "name": "Ilavarasu",
+     "character": "Politician",
+     "slug": "ilavarasu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWCREhajMvlOE49g79zyvwdpf5E.jpg"
+    },
+    {
+     "name": "Yugi Sethu",
+     "character": "Agent Karapampoochi (Cockroach)",
+     "slug": "yugi-sethu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5iFRZjKuwbr8vFVKeZlFqERvtFk.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "P. S. Mithran",
+       "slug": "p-s-mithran"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "P. S. Mithran",
+       "slug": "p-s-mithran"
+      },
+      {
+       "name": "Geevee",
+       "slug": "geevee"
+      },
+      {
+       "name": "Pon Parthiban",
+       "slug": "pon-parthiban"
+      },
+      {
+       "name": "Bibin Ragu",
+       "slug": "bibin-ragu"
+      },
+      {
+       "name": "Roju",
+       "slug": "roju"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "G. V. Prakash Kumar",
+       "slug": "g-v-prakash-kumar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "George C. Williams",
+       "slug": "george-c-williams"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Antony L. Ruben",
+       "slug": "antony-l-ruben"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "S. Lakshman Kumar",
+       "slug": "s-lakshman-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Prince Pictures",
+     "slug": "prince-pictures",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-10-21",
+     "gross": 8441026.8,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1856,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-10-28",
+     "gross": 1044951,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 252,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 9485977.8,
+    "totalShows": 2108,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 8441026.8
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 8441026.8
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 86,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-10-21"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 228,
+    "title": "Sardar",
+    "img": "https://image.tmdb.org/t/p/original/q6wfuQWN9QjUu3j63FAZ3uFL5pO.jpg",
+    "released": "2022-10-21",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14526318",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "167 min",
+    "genre": "Thriller, Action",
+    "plot": "An espionage agent who is branded a traitor returns from exile to take down a dubious water project and safeguard the country.",
+    "released": "2022-10-21",
+    "director": "P. S. Mithran",
+    "directorSlug": "p-s-mithran",
+    "actors": [
+     "Karthi",
+     "Raashii Khanna",
+     "Rajisha Vijayan",
+     "Laila",
+     "Chunky Panday",
+     "Munishkanth"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "7.4",
+      "votes": 9069,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Karthi",
+     "character": "Chandrabose \"Sardar\"/Vijay Prakash",
+     "slug": "karthi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/npZUMAZBru1wgFefkv5kS3Ezl1z.jpg"
+    },
+    {
+     "name": "Raashii Khanna",
+     "character": "Shalini",
+     "slug": "raashii-khanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8nx3hzFdge51Cb5BcocIe4ShumU.jpg"
+    },
+    {
+     "name": "Rajisha Vijayan",
+     "character": "Indhra Rani",
+     "slug": "rajisha-vijayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u5Oq0XHQeHeZLg0NbPZCyCo3Uc6.jpg"
+    },
+    {
+     "name": "Laila",
+     "character": "Sameera Thomas",
+     "slug": "laila",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yYflGhx9UiJ5aHA3k45BeTb5M12.jpg"
+    },
+    {
+     "name": "Chunky Panday",
+     "character": "Maharaj Rathore",
+     "slug": "chunky-panday",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2dG7abdDNs3MVmrAa6HEBFKhch4.jpg"
+    },
+    {
+     "name": "Munishkanth",
+     "character": "Paavadaisami",
+     "slug": "munishkanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n2SjFPNv3EN1ziqfdpyjiEvoqt7.jpg"
+    },
+    {
+     "name": "Ilavarasu",
+     "character": "Politician",
+     "slug": "ilavarasu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWCREhajMvlOE49g79zyvwdpf5E.jpg"
+    },
+    {
+     "name": "Yugi Sethu",
+     "character": "Agent Karapampoochi (Cockroach)",
+     "slug": "yugi-sethu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5iFRZjKuwbr8vFVKeZlFqERvtFk.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "P. S. Mithran",
+       "slug": "p-s-mithran"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "P. S. Mithran",
+       "slug": "p-s-mithran"
+      },
+      {
+       "name": "Geevee",
+       "slug": "geevee"
+      },
+      {
+       "name": "Pon Parthiban",
+       "slug": "pon-parthiban"
+      },
+      {
+       "name": "Bibin Ragu",
+       "slug": "bibin-ragu"
+      },
+      {
+       "name": "Roju",
+       "slug": "roju"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "G. V. Prakash Kumar",
+       "slug": "g-v-prakash-kumar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "George C. Williams",
+       "slug": "george-c-williams"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Antony L. Ruben",
+       "slug": "antony-l-ruben"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "S. Lakshman Kumar",
+       "slug": "s-lakshman-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Prince Pictures",
+     "slug": "prince-pictures",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 9485977.8,
+    "totalShows": 2108,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1727365,
+     "date": "Thiruvananthapuram"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1727365,
+     "date": "Thiruvananthapuram"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 86,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-10-21"
+   }
+  }
+ }
+}

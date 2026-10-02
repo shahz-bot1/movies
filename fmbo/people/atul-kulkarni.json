@@ -1,0 +1,46 @@
+{
+ "slug": "atul-kulkarni",
+ "name": "Atul Kulkarni",
+ "source_url": "https://fridaymatinee.in/people/atul-kulkarni",
+ "captured_at": "2026-10-01T21:03:16.744321+00:00",
+ "person": {
+  "name": "Atul Kulkarni",
+  "photo": "https://image.tmdb.org/t/p/w185/z3mRRjJfYs5C9PR4jzKsbZVKTKy.jpg",
+  "role": "Actor and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 49,
+   "movie_slug": "valiyaperunnal",
+   "title": "Valiyaperunnal",
+   "year": 2019,
+   "kerala_gross": "₹62.1L"
+  },
+  {
+   "movie_id": 1059,
+   "movie_slug": "biker",
+   "title": "Biker",
+   "year": 2026,
+   "kerala_gross": "₹1.3L"
+  },
+  {
+   "movie_id": 1066,
+   "movie_slug": "dacoit",
+   "title": "Dacoit",
+   "year": 2026,
+   "kerala_gross": "₹4.9L"
+  }
+ ]
+}

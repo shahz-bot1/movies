@@ -1,0 +1,41 @@
+{
+ "slug": "shareef-muhammed",
+ "name": "Shareef Muhammed",
+ "source_url": "https://fridaymatinee.in/people/shareef-muhammed",
+ "captured_at": "2026-10-02T10:27:57.763815+00:00",
+ "person": {
+  "name": "Shareef Muhammed",
+  "photo": null,
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 166,
+   "movie_slug": "paappan",
+   "title": "Paappan",
+   "year": 2022,
+   "kerala_gross": "₹13.4 Cr"
+  },
+  {
+   "movie_id": 585,
+   "movie_slug": "marco",
+   "title": "Marco",
+   "year": 2024,
+   "kerala_gross": "₹34.7 Cr"
+  },
+  {
+   "movie_id": 1118,
+   "movie_slug": "kattalan",
+   "title": "Kattalan",
+   "year": 2026,
+   "kerala_gross": "₹4.9 Cr"
+  }
+ ]
+}

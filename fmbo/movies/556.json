@@ -1,0 +1,600 @@
+{
+ "id": 556,
+ "slug": "footage",
+ "source_url": "https://fridaymatinee.in/boxoffice/footage-556",
+ "captured_at": "2026-10-01T18:15:24.871712+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 556,
+    "title": "Footage",
+    "img": "https://image.tmdb.org/t/p/original/vleGjacXbZzgRJJdSXNpONYSU7n.jpg",
+    "released": "2024-08-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27219011",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "124 min",
+    "genre": "Thriller",
+    "plot": "A video blogging couple investigate a woman's strange behaviour and find themselves in grave danger.",
+    "released": "2024-08-23",
+    "director": "Saiju Sreedharan",
+    "directorSlug": "saiju-sreedharan",
+    "actors": [
+     "Manju Warrier",
+     "Vishak Nair",
+     "Gayathri Ashok",
+     "Kiran Peethambaran",
+     "Bhanumathi Payyanur",
+     "Varsha Ramesh"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.2",
+      "votes": 2580,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Manju Warrier",
+     "character": "Mysterious Woman",
+     "slug": "manju-warrier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7u1WgUHnwIW9mtL6aTdo1cRXmCM.jpg"
+    },
+    {
+     "name": "Vishak Nair",
+     "character": "Boy",
+     "slug": "vishak-nair",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kIowakbpA9jOvG41sVj4knaIXUS.jpg"
+    },
+    {
+     "name": "Gayathri Ashok",
+     "character": "Girl",
+     "slug": "gayathri-ashok",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7cYqHPSV4tQlRq08eVF2LDnR0Z1.jpg"
+    },
+    {
+     "name": "Kiran Peethambaran",
+     "character": "Iron Maidan Guy",
+     "slug": "kiran-peethambaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qbfH2hMSspS1PWVNRQP2xa2buWK.jpg"
+    },
+    {
+     "name": "Bhanumathi Payyanur",
+     "character": "Maid",
+     "slug": "bhanumathi-payyanur",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vtRUQSxiCQgUne133G9w0VWOyRk.jpg"
+    },
+    {
+     "name": "Varsha Ramesh",
+     "character": null,
+     "slug": "varsha-ramesh",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Saiju Sreedharan",
+       "slug": "saiju-sreedharan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shabna Mohammed",
+       "slug": "shabna-mohammed"
+      },
+      {
+       "name": "Saiju Sreedharan",
+       "slug": "saiju-sreedharan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Aswekeepsearching",
+       "slug": "aswekeepsearching"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shinoz",
+       "slug": "shinoz"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Saiju Sreedharan",
+       "slug": "saiju-sreedharan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Bineesh Chandran",
+       "slug": "bineesh-chandran"
+      },
+      {
+       "name": "Saiju Sreedharan",
+       "slug": "saiju-sreedharan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Movie Bucket",
+     "slug": "movie-bucket",
+     "logo": null
+    },
+    {
+     "name": "Pale Blue Dot Pictures",
+     "slug": "pale-blue-dot-pictures",
+     "logo": null
+    },
+    {
+     "name": "Cast n' Co Entertainment",
+     "slug": "cast-n-co-entertainment",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3109021.4,
+    "totalShows": 904,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 818596.6,
+     "date": "2024-08-23"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 818596.6,
+     "date": "2024-08-23"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-08-23"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 556,
+    "title": "Footage",
+    "img": "https://image.tmdb.org/t/p/original/vleGjacXbZzgRJJdSXNpONYSU7n.jpg",
+    "released": "2024-08-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27219011",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "124 min",
+    "genre": "Thriller",
+    "plot": "A video blogging couple investigate a woman's strange behaviour and find themselves in grave danger.",
+    "released": "2024-08-23",
+    "director": "Saiju Sreedharan",
+    "directorSlug": "saiju-sreedharan",
+    "actors": [
+     "Manju Warrier",
+     "Vishak Nair",
+     "Gayathri Ashok",
+     "Kiran Peethambaran",
+     "Bhanumathi Payyanur",
+     "Varsha Ramesh"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.2",
+      "votes": 2580,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Manju Warrier",
+     "character": "Mysterious Woman",
+     "slug": "manju-warrier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7u1WgUHnwIW9mtL6aTdo1cRXmCM.jpg"
+    },
+    {
+     "name": "Vishak Nair",
+     "character": "Boy",
+     "slug": "vishak-nair",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kIowakbpA9jOvG41sVj4knaIXUS.jpg"
+    },
+    {
+     "name": "Gayathri Ashok",
+     "character": "Girl",
+     "slug": "gayathri-ashok",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7cYqHPSV4tQlRq08eVF2LDnR0Z1.jpg"
+    },
+    {
+     "name": "Kiran Peethambaran",
+     "character": "Iron Maidan Guy",
+     "slug": "kiran-peethambaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qbfH2hMSspS1PWVNRQP2xa2buWK.jpg"
+    },
+    {
+     "name": "Bhanumathi Payyanur",
+     "character": "Maid",
+     "slug": "bhanumathi-payyanur",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vtRUQSxiCQgUne133G9w0VWOyRk.jpg"
+    },
+    {
+     "name": "Varsha Ramesh",
+     "character": null,
+     "slug": "varsha-ramesh",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Saiju Sreedharan",
+       "slug": "saiju-sreedharan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shabna Mohammed",
+       "slug": "shabna-mohammed"
+      },
+      {
+       "name": "Saiju Sreedharan",
+       "slug": "saiju-sreedharan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Aswekeepsearching",
+       "slug": "aswekeepsearching"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shinoz",
+       "slug": "shinoz"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Saiju Sreedharan",
+       "slug": "saiju-sreedharan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Bineesh Chandran",
+       "slug": "bineesh-chandran"
+      },
+      {
+       "name": "Saiju Sreedharan",
+       "slug": "saiju-sreedharan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Movie Bucket",
+     "slug": "movie-bucket",
+     "logo": null
+    },
+    {
+     "name": "Pale Blue Dot Pictures",
+     "slug": "pale-blue-dot-pictures",
+     "logo": null
+    },
+    {
+     "name": "Cast n' Co Entertainment",
+     "slug": "cast-n-co-entertainment",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2024-08-23",
+     "gross": 2793597.4000000004,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 830,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-08-30",
+     "gross": 315424,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 74,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3109021.4000000004,
+    "totalShows": 904,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 2793597.4000000004
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2793597.4000000004
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-08-23"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 556,
+    "title": "Footage",
+    "img": "https://image.tmdb.org/t/p/original/vleGjacXbZzgRJJdSXNpONYSU7n.jpg",
+    "released": "2024-08-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27219011",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "124 min",
+    "genre": "Thriller",
+    "plot": "A video blogging couple investigate a woman's strange behaviour and find themselves in grave danger.",
+    "released": "2024-08-23",
+    "director": "Saiju Sreedharan",
+    "directorSlug": "saiju-sreedharan",
+    "actors": [
+     "Manju Warrier",
+     "Vishak Nair",
+     "Gayathri Ashok",
+     "Kiran Peethambaran",
+     "Bhanumathi Payyanur",
+     "Varsha Ramesh"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.2",
+      "votes": 2580,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Manju Warrier",
+     "character": "Mysterious Woman",
+     "slug": "manju-warrier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7u1WgUHnwIW9mtL6aTdo1cRXmCM.jpg"
+    },
+    {
+     "name": "Vishak Nair",
+     "character": "Boy",
+     "slug": "vishak-nair",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kIowakbpA9jOvG41sVj4knaIXUS.jpg"
+    },
+    {
+     "name": "Gayathri Ashok",
+     "character": "Girl",
+     "slug": "gayathri-ashok",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7cYqHPSV4tQlRq08eVF2LDnR0Z1.jpg"
+    },
+    {
+     "name": "Kiran Peethambaran",
+     "character": "Iron Maidan Guy",
+     "slug": "kiran-peethambaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qbfH2hMSspS1PWVNRQP2xa2buWK.jpg"
+    },
+    {
+     "name": "Bhanumathi Payyanur",
+     "character": "Maid",
+     "slug": "bhanumathi-payyanur",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vtRUQSxiCQgUne133G9w0VWOyRk.jpg"
+    },
+    {
+     "name": "Varsha Ramesh",
+     "character": null,
+     "slug": "varsha-ramesh",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Saiju Sreedharan",
+       "slug": "saiju-sreedharan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shabna Mohammed",
+       "slug": "shabna-mohammed"
+      },
+      {
+       "name": "Saiju Sreedharan",
+       "slug": "saiju-sreedharan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Aswekeepsearching",
+       "slug": "aswekeepsearching"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shinoz",
+       "slug": "shinoz"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Saiju Sreedharan",
+       "slug": "saiju-sreedharan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Bineesh Chandran",
+       "slug": "bineesh-chandran"
+      },
+      {
+       "name": "Saiju Sreedharan",
+       "slug": "saiju-sreedharan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Movie Bucket",
+     "slug": "movie-bucket",
+     "logo": null
+    },
+    {
+     "name": "Pale Blue Dot Pictures",
+     "slug": "pale-blue-dot-pictures",
+     "logo": null
+    },
+    {
+     "name": "Cast n' Co Entertainment",
+     "slug": "cast-n-co-entertainment",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3109021.4,
+    "totalShows": 904,
+    "totalDays": 13,
+    "openingDay": {
+     "day": 1,
+     "gross": 1371002,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1371002,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-08-23"
+   }
+  }
+ }
+}

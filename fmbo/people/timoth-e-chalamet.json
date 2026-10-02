@@ -1,0 +1,53 @@
+{
+ "slug": "timoth-e-chalamet",
+ "name": "Timothée Chalamet",
+ "source_url": "https://fridaymatinee.in/people/timoth-e-chalamet",
+ "captured_at": "2026-10-02T11:23:21.773989+00:00",
+ "person": {
+  "name": "Timothée Chalamet",
+  "photo": "https://image.tmdb.org/t/p/w185/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 498,
+   "movie_slug": "dune-part-two",
+   "title": "Dune: Part Two",
+   "year": 2024,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 642,
+   "movie_slug": "interstellar",
+   "title": "Interstellar",
+   "year": 2025,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 982,
+   "movie_slug": "marty-supreme",
+   "title": "Marty Supreme",
+   "year": 2026,
+   "kerala_gross": "₹12.0L"
+  },
+  {
+   "movie_id": 778,
+   "movie_slug": "dune-part-three",
+   "title": "Dune: Part Three",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

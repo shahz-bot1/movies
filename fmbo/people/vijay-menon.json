@@ -1,0 +1,55 @@
+{
+ "slug": "vijay-menon",
+ "name": "Vijay Menon",
+ "source_url": "https://fridaymatinee.in/people/vijay-menon",
+ "captured_at": "2026-10-02T11:43:57.025816+00:00",
+ "person": {
+  "name": "Vijay Menon",
+  "photo": "https://image.tmdb.org/t/p/w185/tB9qpkqCzVfu0dyaE7a775EnOnE.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 163,
+   "movie_slug": "mahaveeryar",
+   "title": "Mahaveeryar",
+   "year": 2022,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 235,
+   "movie_slug": "saturday-night",
+   "title": "Saturday Night",
+   "year": 2022,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 1005,
+   "movie_slug": "spa",
+   "title": "Spa",
+   "year": 2026,
+   "kerala_gross": "₹38.6L"
+  },
+  {
+   "movie_id": 1210,
+   "movie_slug": "lurk",
+   "title": "LURK",
+   "year": 2026,
+   "kerala_gross": "₹8.1L"
+  },
+  {
+   "movie_id": 1000,
+   "movie_slug": "lokah-chapter-2-michael",
+   "title": "Lokah Chapter 2: Michael",
+   "year": 2027,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

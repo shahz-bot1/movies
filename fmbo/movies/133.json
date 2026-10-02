@@ -1,0 +1,616 @@
+{
+ "id": 133,
+ "slug": "makal",
+ "source_url": "https://fridaymatinee.in/boxoffice/makal-133",
+ "captured_at": "2026-10-01T18:01:45.922605+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 133,
+    "title": "Makal",
+    "img": "https://image.tmdb.org/t/p/original/uGeJE6AjzDhVDRpi3RYiPFHAa1o.jpg",
+    "released": "2022-04-29",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt15554616",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "142 min",
+    "genre": "Drama, Family",
+    "plot": "Juliet and her daughter Aparna live in Kerala, while Juliet’s husband Nandan works abroad. Nandan decides to move back to Kerala, and it changes the lives of the mom-daughter duo.",
+    "released": "2022-04-29",
+    "director": "Sathyan Anthikad",
+    "directorSlug": "sathyan-anthikad",
+    "actors": [
+     "Jayaram",
+     "Meera Jasmine",
+     "Devika Sanjay",
+     "Innocent",
+     "Sreenivasan",
+     "Siddique"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.3",
+      "votes": 1487,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:28.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jayaram",
+     "character": "Nandan",
+     "slug": "jayaram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cc1SfVFctuYH353NgxXNBoAFX2d.jpg"
+    },
+    {
+     "name": "Meera Jasmine",
+     "character": "Juliet",
+     "slug": "meera-jasmine",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/df5WMEEpEIsCIebDCfnLcP1UHuL.jpg"
+    },
+    {
+     "name": "Devika Sanjay",
+     "character": "Aparna 'Appu'",
+     "slug": "devika-sanjay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ctWxXFauEPTO7auGSktGixUs9WP.jpg"
+    },
+    {
+     "name": "Innocent",
+     "character": "Dr Govindhan",
+     "slug": "innocent",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zJ4mjbYYo7Z7Gva8pl1Q2czs7a7.jpg"
+    },
+    {
+     "name": "Sreenivasan",
+     "character": "Himself",
+     "slug": "sreenivasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nvZ0NcCjNVb6oVsdNB4fNuXCeTa.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Prof. Boby",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Naslen K. Gafoor",
+     "character": "Rohit",
+     "slug": "naslen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8cAVtELGh2ZL5DhyijYBiAQF2Zt.jpg"
+    },
+    {
+     "name": "Althaf Salim",
+     "character": "Solomon",
+     "slug": "althaf-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wYFAsF8f4Ak26c4t5J1IfBBxP0W.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sathyan Anthikad",
+       "slug": "sathyan-anthikad"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Iqbal Kuttippuram",
+       "slug": "iqbal-kuttippuram"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rahul Raj",
+       "slug": "rahul-raj"
+      },
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "S. Kumar",
+       "slug": "s-kumar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "K. Rajagopal",
+       "slug": "k-rajagopal"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 12453574.4,
+    "totalShows": 2775,
+    "totalDays": 16,
+    "openingDay": {
+     "day": 1,
+     "gross": 2131581.5999999996,
+     "date": "2022-04-29"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 2380971.6000000006,
+     "date": "2022-05-01"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 44,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-04-29"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 133,
+    "title": "Makal",
+    "img": "https://image.tmdb.org/t/p/original/uGeJE6AjzDhVDRpi3RYiPFHAa1o.jpg",
+    "released": "2022-04-29",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt15554616",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "142 min",
+    "genre": "Drama, Family",
+    "plot": "Juliet and her daughter Aparna live in Kerala, while Juliet’s husband Nandan works abroad. Nandan decides to move back to Kerala, and it changes the lives of the mom-daughter duo.",
+    "released": "2022-04-29",
+    "director": "Sathyan Anthikad",
+    "directorSlug": "sathyan-anthikad",
+    "actors": [
+     "Jayaram",
+     "Meera Jasmine",
+     "Devika Sanjay",
+     "Innocent",
+     "Sreenivasan",
+     "Siddique"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.3",
+      "votes": 1487,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:28.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jayaram",
+     "character": "Nandan",
+     "slug": "jayaram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cc1SfVFctuYH353NgxXNBoAFX2d.jpg"
+    },
+    {
+     "name": "Meera Jasmine",
+     "character": "Juliet",
+     "slug": "meera-jasmine",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/df5WMEEpEIsCIebDCfnLcP1UHuL.jpg"
+    },
+    {
+     "name": "Devika Sanjay",
+     "character": "Aparna 'Appu'",
+     "slug": "devika-sanjay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ctWxXFauEPTO7auGSktGixUs9WP.jpg"
+    },
+    {
+     "name": "Innocent",
+     "character": "Dr Govindhan",
+     "slug": "innocent",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zJ4mjbYYo7Z7Gva8pl1Q2czs7a7.jpg"
+    },
+    {
+     "name": "Sreenivasan",
+     "character": "Himself",
+     "slug": "sreenivasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nvZ0NcCjNVb6oVsdNB4fNuXCeTa.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Prof. Boby",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Naslen K. Gafoor",
+     "character": "Rohit",
+     "slug": "naslen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8cAVtELGh2ZL5DhyijYBiAQF2Zt.jpg"
+    },
+    {
+     "name": "Althaf Salim",
+     "character": "Solomon",
+     "slug": "althaf-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wYFAsF8f4Ak26c4t5J1IfBBxP0W.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sathyan Anthikad",
+       "slug": "sathyan-anthikad"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Iqbal Kuttippuram",
+       "slug": "iqbal-kuttippuram"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rahul Raj",
+       "slug": "rahul-raj"
+      },
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "S. Kumar",
+       "slug": "s-kumar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "K. Rajagopal",
+       "slug": "k-rajagopal"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-04-29",
+     "gross": 11640644.4,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2612,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-05-06",
+     "gross": 809390,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 158,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-05-13",
+     "gross": 3540,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 12453574.4,
+    "totalShows": 2775,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 11640644.4
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 11640644.4
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 44,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-04-29"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 133,
+    "title": "Makal",
+    "img": "https://image.tmdb.org/t/p/original/uGeJE6AjzDhVDRpi3RYiPFHAa1o.jpg",
+    "released": "2022-04-29",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt15554616",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "142 min",
+    "genre": "Drama, Family",
+    "plot": "Juliet and her daughter Aparna live in Kerala, while Juliet’s husband Nandan works abroad. Nandan decides to move back to Kerala, and it changes the lives of the mom-daughter duo.",
+    "released": "2022-04-29",
+    "director": "Sathyan Anthikad",
+    "directorSlug": "sathyan-anthikad",
+    "actors": [
+     "Jayaram",
+     "Meera Jasmine",
+     "Devika Sanjay",
+     "Innocent",
+     "Sreenivasan",
+     "Siddique"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.3",
+      "votes": 1487,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:28.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jayaram",
+     "character": "Nandan",
+     "slug": "jayaram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cc1SfVFctuYH353NgxXNBoAFX2d.jpg"
+    },
+    {
+     "name": "Meera Jasmine",
+     "character": "Juliet",
+     "slug": "meera-jasmine",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/df5WMEEpEIsCIebDCfnLcP1UHuL.jpg"
+    },
+    {
+     "name": "Devika Sanjay",
+     "character": "Aparna 'Appu'",
+     "slug": "devika-sanjay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ctWxXFauEPTO7auGSktGixUs9WP.jpg"
+    },
+    {
+     "name": "Innocent",
+     "character": "Dr Govindhan",
+     "slug": "innocent",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zJ4mjbYYo7Z7Gva8pl1Q2czs7a7.jpg"
+    },
+    {
+     "name": "Sreenivasan",
+     "character": "Himself",
+     "slug": "sreenivasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nvZ0NcCjNVb6oVsdNB4fNuXCeTa.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Prof. Boby",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Naslen K. Gafoor",
+     "character": "Rohit",
+     "slug": "naslen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8cAVtELGh2ZL5DhyijYBiAQF2Zt.jpg"
+    },
+    {
+     "name": "Althaf Salim",
+     "character": "Solomon",
+     "slug": "althaf-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wYFAsF8f4Ak26c4t5J1IfBBxP0W.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sathyan Anthikad",
+       "slug": "sathyan-anthikad"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Iqbal Kuttippuram",
+       "slug": "iqbal-kuttippuram"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rahul Raj",
+       "slug": "rahul-raj"
+      },
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "S. Kumar",
+       "slug": "s-kumar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "K. Rajagopal",
+       "slug": "k-rajagopal"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 12453574.4,
+    "totalShows": 2775,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 2828035,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2828035,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 44,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-04-29"
+   }
+  }
+ }
+}

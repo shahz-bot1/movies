@@ -1,0 +1,48 @@
+{
+ "slug": "assim-jamal",
+ "name": "Assim Jamal",
+ "source_url": "https://fridaymatinee.in/people/assim-jamal",
+ "captured_at": "2026-10-01T21:01:40.518518+00:00",
+ "person": {
+  "name": "Assim Jamal",
+  "photo": "https://image.tmdb.org/t/p/w185/mZAeMMdEWkcGRMGfCkaPlBMJyas.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 51,
+   "movie_slug": "anjaam-pathiraa",
+   "title": "Anjaam Pathiraa",
+   "year": 2020,
+   "kerala_gross": "₹11.0 Cr"
+  },
+  {
+   "movie_id": 179,
+   "movie_slug": "thallumaala",
+   "title": "Thallumaala",
+   "year": 2022,
+   "kerala_gross": "₹18.9 Cr"
+  },
+  {
+   "movie_id": 290,
+   "movie_slug": "romancham",
+   "title": "Romancham",
+   "year": 2023,
+   "kerala_gross": "₹30.7 Cr"
+  },
+  {
+   "movie_id": 1030,
+   "movie_slug": "sambhavam-adhyayam-onnu",
+   "title": "Sambhavam Adhyayam Onnu",
+   "year": 2026,
+   "kerala_gross": "₹4.5 Cr"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "chris-pratt",
+ "name": "Chris Pratt",
+ "source_url": "https://fridaymatinee.in/people/chris-pratt",
+ "captured_at": "2026-10-01T21:36:39.839175+00:00",
+ "person": {
+  "name": "Chris Pratt",
+  "photo": "https://image.tmdb.org/t/p/w185/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 145,
+   "movie_slug": "jurassic-world-dominion",
+   "title": "Jurassic World Dominion",
+   "year": 2022,
+   "kerala_gross": "₹2.0 Cr"
+  },
+  {
+   "movie_id": 372,
+   "movie_slug": "guardians-of-the-galaxy-volume-3",
+   "title": "Guardians of the Galaxy Volume 3",
+   "year": 2023,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 985,
+   "movie_slug": "mercy",
+   "title": "Mercy",
+   "year": 2026,
+   "kerala_gross": "₹2.8L"
+  },
+  {
+   "movie_id": 1049,
+   "movie_slug": "the-super-mario-galaxy-movie",
+   "title": "The Super Mario Galaxy Movie",
+   "year": 2026,
+   "kerala_gross": "₹31.2L"
+  },
+  {
+   "movie_id": 158,
+   "movie_slug": "thor-love-and-thunder",
+   "title": "Thor Love and Thunder",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  }
+ ]
+}

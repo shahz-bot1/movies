@@ -1,0 +1,55 @@
+{
+ "slug": "jemaine-clement",
+ "name": "Jemaine Clement",
+ "source_url": "https://fridaymatinee.in/people/jemaine-clement",
+ "captured_at": "2026-10-01T23:09:29.377654+00:00",
+ "person": {
+  "name": "Jemaine Clement",
+  "photo": "https://image.tmdb.org/t/p/w185/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 246,
+   "movie_slug": "avatar-the-way-of-water",
+   "title": "Avatar The Way of Water",
+   "year": 2022,
+   "kerala_gross": "₹33.3 Cr"
+  },
+  {
+   "movie_id": 670,
+   "movie_slug": "a-minecraft-movie",
+   "title": "A Minecraft Movie",
+   "year": 2025,
+   "kerala_gross": "₹52.7L"
+  },
+  {
+   "movie_id": 747,
+   "movie_slug": "m3gan-2-0",
+   "title": "M3GAN 2.0",
+   "year": 2025,
+   "kerala_gross": "₹2.0L"
+  },
+  {
+   "movie_id": 793,
+   "movie_slug": "avatar-fire-and-ash",
+   "title": "Avatar: Fire and Ash",
+   "year": 2025,
+   "kerala_gross": "₹10.2 Cr"
+  },
+  {
+   "movie_id": 1185,
+   "movie_slug": "moana",
+   "title": "Moana",
+   "year": 2026,
+   "kerala_gross": "₹21.9L"
+  }
+ ]
+}

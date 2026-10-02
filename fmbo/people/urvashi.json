@@ -1,0 +1,62 @@
+{
+ "slug": "urvashi",
+ "name": "Urvashi",
+ "source_url": "https://fridaymatinee.in/people/urvashi",
+ "captured_at": "2026-10-02T11:34:03.926060+00:00",
+ "person": {
+  "name": "Urvashi",
+  "photo": "https://image.tmdb.org/t/p/w185/A6kHkXIhzL2LHIi78kNROdud7Mw.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 525,
+   "movie_slug": "ullozhukku",
+   "title": "Ullozhukku",
+   "year": 2024,
+   "kerala_gross": "₹3.5 Cr"
+  },
+  {
+   "movie_id": 1138,
+   "movie_slug": "parimala-and-co",
+   "title": "Parimala and Co",
+   "year": 2026,
+   "kerala_gross": "₹29.7L"
+  },
+  {
+   "movie_id": 1269,
+   "movie_slug": "aasha",
+   "title": "Aasha",
+   "year": 2026,
+   "kerala_gross": "₹5.1 Cr"
+  },
+  {
+   "movie_id": 59,
+   "movie_slug": "varane-avashyamund",
+   "title": "Varane Avashyamund",
+   "year": 2020,
+   "kerala_gross": "₹6.3 Cr"
+  },
+  {
+   "movie_id": 293,
+   "movie_slug": "spadikam",
+   "title": "Spadikam",
+   "year": 2023,
+   "kerala_gross": "₹2.0 Cr"
+  },
+  {
+   "movie_id": 681,
+   "movie_slug": "prince-and-family",
+   "title": "Prince And Family",
+   "year": 2025,
+   "kerala_gross": "₹14.8 Cr"
+  }
+ ]
+}

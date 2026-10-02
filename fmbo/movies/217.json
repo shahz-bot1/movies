@@ -1,0 +1,707 @@
+{
+ "id": 217,
+ "slug": "captain-america-brave-new-world",
+ "source_url": "https://fridaymatinee.in/boxoffice/captain-america-brave-new-world-217",
+ "captured_at": "2026-10-01T18:06:49.588725+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 217,
+    "title": "Captain America: Brave New World",
+    "img": "https://image.tmdb.org/t/p/original/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+    "released": "2025-02-14",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14513804",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "119 min",
+    "genre": "Action, Thriller, Science Fiction",
+    "plot": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
+    "released": "2025-02-12",
+    "director": "Julius Onah",
+    "directorSlug": "julius-onah",
+    "actors": [
+     "Anthony Mackie",
+     "Harrison Ford",
+     "Danny Ramirez",
+     "Shira Haas",
+     "Tim Blake Nelson",
+     "Carl Lumbly"
+    ],
+    "awards": "2 wins u0026 17 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.6",
+      "votes": 193741,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.0",
+      "votes": 3424,
+      "updatedAt": "2026-09-24T22:10:59.000Z"
+     },
+     "rt": "46%",
+     "metascore": 42,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Anthony Mackie",
+     "character": "Sam Wilson / Captain America",
+     "slug": "anthony-mackie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kfTwOYr3iUucmYz8kPjhYy07G2Z.jpg"
+    },
+    {
+     "name": "Harrison Ford",
+     "character": "President Thaddeus Ross",
+     "slug": "harrison-ford",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zVnHagUvXkR2StdOtquEwsiwSVt.jpg"
+    },
+    {
+     "name": "Danny Ramirez",
+     "character": "Joaquin Torres",
+     "slug": "danny-ramirez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1CMMfxwMYOme8AOrl4kZS12nJpM.jpg"
+    },
+    {
+     "name": "Shira Haas",
+     "character": "Ruth Bat-Seraph",
+     "slug": "shira-haas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eZRs79ZMoctjDk0SbPhzMNcs34a.jpg"
+    },
+    {
+     "name": "Tim Blake Nelson",
+     "character": "Samuel Sterns",
+     "slug": "tim-blake-nelson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+    },
+    {
+     "name": "Carl Lumbly",
+     "character": "Isaiah Bradley",
+     "slug": "carl-lumbly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ew1URcenWNl1Uclsz9ADiRb0uBD.jpg"
+    },
+    {
+     "name": "Giancarlo Esposito",
+     "character": "Sidewinder",
+     "slug": "giancarlo-esposito",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
+    },
+    {
+     "name": "Liv Tyler",
+     "character": "Betty Ross",
+     "slug": "liv-tyler",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hXFKqlOPVjtfBSPlmQwFnJvhvmU.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Julius Onah",
+       "slug": "julius-onah"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Malcolm Spellman",
+       "slug": "malcolm-spellman"
+      },
+      {
+       "name": "Dalan Musson",
+       "slug": "dalan-musson"
+      },
+      {
+       "name": "Rob Edwards",
+       "slug": "rob-edwards"
+      },
+      {
+       "name": "Julius Onah",
+       "slug": "julius-onah"
+      },
+      {
+       "name": "Peter Glanz",
+       "slug": "peter-glanz"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Laura Karpman",
+       "slug": "laura-karpman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Kramer Morgenthau",
+       "slug": "kramer-morgenthau"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Matthew Schmidt",
+       "slug": "matthew-schmidt"
+      },
+      {
+       "name": "Madeleine Gavin",
+       "slug": "madeleine-gavin"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      },
+      {
+       "name": "Nate Moore",
+       "slug": "nate-moore"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Kevin Feige Productions",
+     "slug": "kevin-feige-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4897271,
+    "totalShows": 1069,
+    "totalDays": 26,
+    "openingDay": {
+     "day": 1,
+     "gross": 1600902,
+     "date": "2025-02-14"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1600902,
+     "date": "2025-02-14"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-02-14"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 217,
+    "title": "Captain America: Brave New World",
+    "img": "https://image.tmdb.org/t/p/original/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+    "released": "2025-02-14",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14513804",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "119 min",
+    "genre": "Action, Thriller, Science Fiction",
+    "plot": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
+    "released": "2025-02-12",
+    "director": "Julius Onah",
+    "directorSlug": "julius-onah",
+    "actors": [
+     "Anthony Mackie",
+     "Harrison Ford",
+     "Danny Ramirez",
+     "Shira Haas",
+     "Tim Blake Nelson",
+     "Carl Lumbly"
+    ],
+    "awards": "2 wins u0026 17 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.6",
+      "votes": 193741,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.0",
+      "votes": 3424,
+      "updatedAt": "2026-09-24T22:10:59.000Z"
+     },
+     "rt": "46%",
+     "metascore": 42,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Anthony Mackie",
+     "character": "Sam Wilson / Captain America",
+     "slug": "anthony-mackie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kfTwOYr3iUucmYz8kPjhYy07G2Z.jpg"
+    },
+    {
+     "name": "Harrison Ford",
+     "character": "President Thaddeus Ross",
+     "slug": "harrison-ford",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zVnHagUvXkR2StdOtquEwsiwSVt.jpg"
+    },
+    {
+     "name": "Danny Ramirez",
+     "character": "Joaquin Torres",
+     "slug": "danny-ramirez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1CMMfxwMYOme8AOrl4kZS12nJpM.jpg"
+    },
+    {
+     "name": "Shira Haas",
+     "character": "Ruth Bat-Seraph",
+     "slug": "shira-haas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eZRs79ZMoctjDk0SbPhzMNcs34a.jpg"
+    },
+    {
+     "name": "Tim Blake Nelson",
+     "character": "Samuel Sterns",
+     "slug": "tim-blake-nelson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+    },
+    {
+     "name": "Carl Lumbly",
+     "character": "Isaiah Bradley",
+     "slug": "carl-lumbly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ew1URcenWNl1Uclsz9ADiRb0uBD.jpg"
+    },
+    {
+     "name": "Giancarlo Esposito",
+     "character": "Sidewinder",
+     "slug": "giancarlo-esposito",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
+    },
+    {
+     "name": "Liv Tyler",
+     "character": "Betty Ross",
+     "slug": "liv-tyler",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hXFKqlOPVjtfBSPlmQwFnJvhvmU.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Julius Onah",
+       "slug": "julius-onah"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Malcolm Spellman",
+       "slug": "malcolm-spellman"
+      },
+      {
+       "name": "Dalan Musson",
+       "slug": "dalan-musson"
+      },
+      {
+       "name": "Rob Edwards",
+       "slug": "rob-edwards"
+      },
+      {
+       "name": "Julius Onah",
+       "slug": "julius-onah"
+      },
+      {
+       "name": "Peter Glanz",
+       "slug": "peter-glanz"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Laura Karpman",
+       "slug": "laura-karpman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Kramer Morgenthau",
+       "slug": "kramer-morgenthau"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Matthew Schmidt",
+       "slug": "matthew-schmidt"
+      },
+      {
+       "name": "Madeleine Gavin",
+       "slug": "madeleine-gavin"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      },
+      {
+       "name": "Nate Moore",
+       "slug": "nate-moore"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Kevin Feige Productions",
+     "slug": "kevin-feige-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2025-02-14",
+     "gross": 4213604,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 991,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-21",
+     "gross": 540975,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 53,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-28",
+     "gross": 116752,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 20,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-03-07",
+     "gross": 25940,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4897271,
+    "totalShows": 1069,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 4213604
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4213604
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-02-14"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 217,
+    "title": "Captain America: Brave New World",
+    "img": "https://image.tmdb.org/t/p/original/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+    "released": "2025-02-14",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14513804",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "119 min",
+    "genre": "Action, Thriller, Science Fiction",
+    "plot": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
+    "released": "2025-02-12",
+    "director": "Julius Onah",
+    "directorSlug": "julius-onah",
+    "actors": [
+     "Anthony Mackie",
+     "Harrison Ford",
+     "Danny Ramirez",
+     "Shira Haas",
+     "Tim Blake Nelson",
+     "Carl Lumbly"
+    ],
+    "awards": "2 wins u0026 17 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.6",
+      "votes": 193741,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.0",
+      "votes": 3424,
+      "updatedAt": "2026-09-24T22:10:59.000Z"
+     },
+     "rt": "46%",
+     "metascore": 42,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Anthony Mackie",
+     "character": "Sam Wilson / Captain America",
+     "slug": "anthony-mackie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kfTwOYr3iUucmYz8kPjhYy07G2Z.jpg"
+    },
+    {
+     "name": "Harrison Ford",
+     "character": "President Thaddeus Ross",
+     "slug": "harrison-ford",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zVnHagUvXkR2StdOtquEwsiwSVt.jpg"
+    },
+    {
+     "name": "Danny Ramirez",
+     "character": "Joaquin Torres",
+     "slug": "danny-ramirez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1CMMfxwMYOme8AOrl4kZS12nJpM.jpg"
+    },
+    {
+     "name": "Shira Haas",
+     "character": "Ruth Bat-Seraph",
+     "slug": "shira-haas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eZRs79ZMoctjDk0SbPhzMNcs34a.jpg"
+    },
+    {
+     "name": "Tim Blake Nelson",
+     "character": "Samuel Sterns",
+     "slug": "tim-blake-nelson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+    },
+    {
+     "name": "Carl Lumbly",
+     "character": "Isaiah Bradley",
+     "slug": "carl-lumbly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ew1URcenWNl1Uclsz9ADiRb0uBD.jpg"
+    },
+    {
+     "name": "Giancarlo Esposito",
+     "character": "Sidewinder",
+     "slug": "giancarlo-esposito",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rcXnr82TwDzU4ZGdBeNXfG0ZQnZ.jpg"
+    },
+    {
+     "name": "Liv Tyler",
+     "character": "Betty Ross",
+     "slug": "liv-tyler",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hXFKqlOPVjtfBSPlmQwFnJvhvmU.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Julius Onah",
+       "slug": "julius-onah"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Malcolm Spellman",
+       "slug": "malcolm-spellman"
+      },
+      {
+       "name": "Dalan Musson",
+       "slug": "dalan-musson"
+      },
+      {
+       "name": "Rob Edwards",
+       "slug": "rob-edwards"
+      },
+      {
+       "name": "Julius Onah",
+       "slug": "julius-onah"
+      },
+      {
+       "name": "Peter Glanz",
+       "slug": "peter-glanz"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Laura Karpman",
+       "slug": "laura-karpman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Kramer Morgenthau",
+       "slug": "kramer-morgenthau"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Matthew Schmidt",
+       "slug": "matthew-schmidt"
+      },
+      {
+       "name": "Madeleine Gavin",
+       "slug": "madeleine-gavin"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      },
+      {
+       "name": "Nate Moore",
+       "slug": "nate-moore"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Kevin Feige Productions",
+     "slug": "kevin-feige-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4897271,
+    "totalShows": 1069,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1791610,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1791610,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-02-14"
+   }
+  }
+ }
+}

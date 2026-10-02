@@ -1,0 +1,41 @@
+{
+ "slug": "glen-powell",
+ "name": "Glen Powell",
+ "source_url": "https://fridaymatinee.in/people/glen-powell",
+ "captured_at": "2026-10-01T22:32:52.844260+00:00",
+ "person": {
+  "name": "Glen Powell",
+  "photo": "https://image.tmdb.org/t/p/w185/fUnIaJkdgvQTztyR1nLeUceSzly.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 141,
+   "movie_slug": "top-gun-maverick",
+   "title": "Top Gun Maverick",
+   "year": 2022,
+   "kerala_gross": "₹93.9L"
+  },
+  {
+   "movie_id": 879,
+   "movie_slug": "the-running-man",
+   "title": "The Running Man",
+   "year": 2025,
+   "kerala_gross": "₹7.5L"
+  },
+  {
+   "movie_id": 1049,
+   "movie_slug": "the-super-mario-galaxy-movie",
+   "title": "The Super Mario Galaxy Movie",
+   "year": 2026,
+   "kerala_gross": "₹31.2L"
+  }
+ ]
+}

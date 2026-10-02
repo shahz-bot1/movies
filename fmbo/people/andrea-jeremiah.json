@@ -1,0 +1,53 @@
+{
+ "slug": "andrea-jeremiah",
+ "name": "Andrea Jeremiah",
+ "source_url": "https://fridaymatinee.in/people/andrea-jeremiah",
+ "captured_at": "2026-10-01T20:35:43.568171+00:00",
+ "person": {
+  "name": "Andrea Jeremiah",
+  "photo": "https://image.tmdb.org/t/p/w185/rYuhyicWBWguymMQ5B02IfENdvI.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 64,
+   "movie_slug": "master",
+   "title": "Master",
+   "year": 2021,
+   "kerala_gross": "₹4.1 Cr"
+  },
+  {
+   "movie_id": 921,
+   "movie_slug": "mask",
+   "title": "Mask",
+   "year": 2025,
+   "kerala_gross": "₹3.6L"
+  },
+  {
+   "movie_id": 986,
+   "movie_slug": "mankatha",
+   "title": "Mankatha",
+   "year": 2026,
+   "kerala_gross": "₹12.9L"
+  },
+  {
+   "movie_id": 1052,
+   "movie_slug": "leader",
+   "title": "Leader",
+   "year": 2026,
+   "kerala_gross": "₹2.8L"
+  }
+ ]
+}

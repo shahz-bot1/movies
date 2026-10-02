@@ -1,0 +1,51 @@
+{
+ "slug": "rahul-ravindran",
+ "name": "Rahul Ravindran",
+ "source_url": "https://fridaymatinee.in/people/rahul-ravindran",
+ "captured_at": "2026-10-02T08:29:39.780273+00:00",
+ "person": {
+  "name": "Rahul Ravindran",
+  "photo": "https://image.tmdb.org/t/p/w185/ejAiUB2QUhiOaGfDPgAM505R5uY.jpg",
+  "role": "Actor, director and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 493,
+   "movie_slug": "guntur-kaaram",
+   "title": "Guntur Kaaram",
+   "year": 2024,
+   "kerala_gross": "₹8.3L"
+  },
+  {
+   "movie_id": 827,
+   "movie_slug": "they-call-him-og",
+   "title": "They Call Him OG",
+   "year": 2025,
+   "kerala_gross": "₹36.6L"
+  },
+  {
+   "movie_id": 906,
+   "movie_slug": "the-girlfriend",
+   "title": "The Girlfriend",
+   "year": 2025,
+   "kerala_gross": "₹3.4L"
+  }
+ ]
+}

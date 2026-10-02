@@ -1,0 +1,41 @@
+{
+ "slug": "gajaraj",
+ "name": "Gajaraj",
+ "source_url": "https://fridaymatinee.in/people/gajaraj",
+ "captured_at": "2026-10-01T22:25:25.411027+00:00",
+ "person": {
+  "name": "Gajaraj",
+  "photo": "https://image.tmdb.org/t/p/w185/gCne3VndSODoFuqAfmW4xxizSty.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 678,
+   "movie_slug": "retro",
+   "title": "Retro",
+   "year": 2025,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 800,
+   "movie_slug": "indra",
+   "title": "Indra",
+   "year": 2025,
+   "kerala_gross": "₹6.0L"
+  },
+  {
+   "movie_id": 1192,
+   "movie_slug": "gatta-kusthi-2",
+   "title": "Gatta Kusthi 2",
+   "year": 2026,
+   "kerala_gross": "₹86.8L"
+  }
+ ]
+}

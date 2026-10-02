@@ -1,0 +1,689 @@
+{
+ "id": 752,
+ "slug": "elio",
+ "source_url": "https://fridaymatinee.in/boxoffice/elio-752",
+ "captured_at": "2026-10-01T18:21:19.478089+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 752,
+    "title": "Elio",
+    "img": "https://image.tmdb.org/t/p/original/ojtDThn3nfePBUGKgE8xPNgLrI3.jpg",
+    "released": "2025-06-20",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt4900148",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG",
+    "runtime": "98 min",
+    "genre": "Family, Comedy, Adventure, Animation, Science Fiction",
+    "plot": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
+    "released": "2025-06-18",
+    "director": "Madeline Sharafian",
+    "directorSlug": "madeline-sharafian",
+    "actors": [
+     "Yonas Kibreab",
+     "Remy Edgerly",
+     "Zoe Saldaña",
+     "Brad Garrett",
+     "Brandon Moon",
+     "Jameela Jamil"
+    ],
+    "awards": "Nominated for 1 Oscar. 43 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 48573,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 1138,
+      "updatedAt": "2026-09-24T16:10:50.000Z"
+     },
+     "rt": "83%",
+     "metascore": 66,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Yonas Kibreab",
+     "character": "Elio / Other Elio (voice)",
+     "slug": "yonas-kibreab",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vp7wBIQ4MkfJJ5KfN8bMOLxdSJE.jpg"
+    },
+    {
+     "name": "Remy Edgerly",
+     "character": "Glordon (voice)",
+     "slug": "remy-edgerly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ik41sbEMHnoAT3LMIv7f0krXRwB.jpg"
+    },
+    {
+     "name": "Zoe Saldaña",
+     "character": "Olga Solís (voice)",
+     "slug": "zoe-saldana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+    },
+    {
+     "name": "Brad Garrett",
+     "character": "Lord Grigon (voice)",
+     "slug": "brad-garrett",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+    },
+    {
+     "name": "Brandon Moon",
+     "character": "Ambassador Helix (voice)",
+     "slug": "brandon-moon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ocSrdXMrKNMLSJZLTrIxMaU53ie.jpg"
+    },
+    {
+     "name": "Jameela Jamil",
+     "character": "Ambassador Questa (voice)",
+     "slug": "jameela-jamil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e9RviCItpPoSwD79y4YYlDbIwM6.jpg"
+    },
+    {
+     "name": "Young Dylan",
+     "character": "Bryce (voice)",
+     "slug": "young-dylan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5o563nn5z5YSLo09oK4bhG2ENxj.jpg"
+    },
+    {
+     "name": "Jake T. Getman",
+     "character": "Caleb (voice)",
+     "slug": "jake-t-getman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aBDawwQUOqKMCyGzrXcU1d0zNzX.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Madeline Sharafian",
+       "slug": "madeline-sharafian"
+      },
+      {
+       "name": "Domee Shi",
+       "slug": "domee-shi"
+      },
+      {
+       "name": "Adrian Molina",
+       "slug": "adrian-molina"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Julia Cho",
+       "slug": "julia-cho"
+      },
+      {
+       "name": "Mark Hammer",
+       "slug": "mark-hammer"
+      },
+      {
+       "name": "Mike Jones",
+       "slug": "mike-jones"
+      },
+      {
+       "name": "Adrian Molina",
+       "slug": "adrian-molina"
+      },
+      {
+       "name": "Madeline Sharafian",
+       "slug": "madeline-sharafian"
+      },
+      {
+       "name": "Domee Shi",
+       "slug": "domee-shi"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rob Simonsen",
+       "slug": "rob-simonsen"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Matt Aspbury",
+       "slug": "matt-aspbury"
+      },
+      {
+       "name": "Danielle Feinberg",
+       "slug": "danielle-feinberg"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Anna Wolitzky",
+       "slug": "anna-wolitzky"
+      },
+      {
+       "name": "Steve Bloom",
+       "slug": "steve-bloom"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Mary Alice Drumm",
+       "slug": "mary-alice-drumm"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Pixar",
+     "slug": "pixar",
+     "logo": "https://image.tmdb.org/t/p/w185/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 501140,
+    "totalShows": 157,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 93100,
+     "date": "2025-06-20"
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 166330,
+     "date": "2025-06-21"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-06-20"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 752,
+    "title": "Elio",
+    "img": "https://image.tmdb.org/t/p/original/ojtDThn3nfePBUGKgE8xPNgLrI3.jpg",
+    "released": "2025-06-20",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt4900148",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG",
+    "runtime": "98 min",
+    "genre": "Family, Comedy, Adventure, Animation, Science Fiction",
+    "plot": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
+    "released": "2025-06-18",
+    "director": "Madeline Sharafian",
+    "directorSlug": "madeline-sharafian",
+    "actors": [
+     "Yonas Kibreab",
+     "Remy Edgerly",
+     "Zoe Saldaña",
+     "Brad Garrett",
+     "Brandon Moon",
+     "Jameela Jamil"
+    ],
+    "awards": "Nominated for 1 Oscar. 43 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 48573,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 1138,
+      "updatedAt": "2026-09-24T16:10:50.000Z"
+     },
+     "rt": "83%",
+     "metascore": 66,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Yonas Kibreab",
+     "character": "Elio / Other Elio (voice)",
+     "slug": "yonas-kibreab",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vp7wBIQ4MkfJJ5KfN8bMOLxdSJE.jpg"
+    },
+    {
+     "name": "Remy Edgerly",
+     "character": "Glordon (voice)",
+     "slug": "remy-edgerly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ik41sbEMHnoAT3LMIv7f0krXRwB.jpg"
+    },
+    {
+     "name": "Zoe Saldaña",
+     "character": "Olga Solís (voice)",
+     "slug": "zoe-saldana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+    },
+    {
+     "name": "Brad Garrett",
+     "character": "Lord Grigon (voice)",
+     "slug": "brad-garrett",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+    },
+    {
+     "name": "Brandon Moon",
+     "character": "Ambassador Helix (voice)",
+     "slug": "brandon-moon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ocSrdXMrKNMLSJZLTrIxMaU53ie.jpg"
+    },
+    {
+     "name": "Jameela Jamil",
+     "character": "Ambassador Questa (voice)",
+     "slug": "jameela-jamil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e9RviCItpPoSwD79y4YYlDbIwM6.jpg"
+    },
+    {
+     "name": "Young Dylan",
+     "character": "Bryce (voice)",
+     "slug": "young-dylan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5o563nn5z5YSLo09oK4bhG2ENxj.jpg"
+    },
+    {
+     "name": "Jake T. Getman",
+     "character": "Caleb (voice)",
+     "slug": "jake-t-getman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aBDawwQUOqKMCyGzrXcU1d0zNzX.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Madeline Sharafian",
+       "slug": "madeline-sharafian"
+      },
+      {
+       "name": "Domee Shi",
+       "slug": "domee-shi"
+      },
+      {
+       "name": "Adrian Molina",
+       "slug": "adrian-molina"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Julia Cho",
+       "slug": "julia-cho"
+      },
+      {
+       "name": "Mark Hammer",
+       "slug": "mark-hammer"
+      },
+      {
+       "name": "Mike Jones",
+       "slug": "mike-jones"
+      },
+      {
+       "name": "Adrian Molina",
+       "slug": "adrian-molina"
+      },
+      {
+       "name": "Madeline Sharafian",
+       "slug": "madeline-sharafian"
+      },
+      {
+       "name": "Domee Shi",
+       "slug": "domee-shi"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rob Simonsen",
+       "slug": "rob-simonsen"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Matt Aspbury",
+       "slug": "matt-aspbury"
+      },
+      {
+       "name": "Danielle Feinberg",
+       "slug": "danielle-feinberg"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Anna Wolitzky",
+       "slug": "anna-wolitzky"
+      },
+      {
+       "name": "Steve Bloom",
+       "slug": "steve-bloom"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Mary Alice Drumm",
+       "slug": "mary-alice-drumm"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Pixar",
+     "slug": "pixar",
+     "logo": "https://image.tmdb.org/t/p/w185/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2025-06-20",
+     "gross": 501140,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 157,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 501140,
+    "totalShows": 157,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 501140
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 501140
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-06-20"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 752,
+    "title": "Elio",
+    "img": "https://image.tmdb.org/t/p/original/ojtDThn3nfePBUGKgE8xPNgLrI3.jpg",
+    "released": "2025-06-20",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt4900148",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG",
+    "runtime": "98 min",
+    "genre": "Family, Comedy, Adventure, Animation, Science Fiction",
+    "plot": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
+    "released": "2025-06-18",
+    "director": "Madeline Sharafian",
+    "directorSlug": "madeline-sharafian",
+    "actors": [
+     "Yonas Kibreab",
+     "Remy Edgerly",
+     "Zoe Saldaña",
+     "Brad Garrett",
+     "Brandon Moon",
+     "Jameela Jamil"
+    ],
+    "awards": "Nominated for 1 Oscar. 43 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 48573,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 1138,
+      "updatedAt": "2026-09-24T16:10:50.000Z"
+     },
+     "rt": "83%",
+     "metascore": 66,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Yonas Kibreab",
+     "character": "Elio / Other Elio (voice)",
+     "slug": "yonas-kibreab",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vp7wBIQ4MkfJJ5KfN8bMOLxdSJE.jpg"
+    },
+    {
+     "name": "Remy Edgerly",
+     "character": "Glordon (voice)",
+     "slug": "remy-edgerly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ik41sbEMHnoAT3LMIv7f0krXRwB.jpg"
+    },
+    {
+     "name": "Zoe Saldaña",
+     "character": "Olga Solís (voice)",
+     "slug": "zoe-saldana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+    },
+    {
+     "name": "Brad Garrett",
+     "character": "Lord Grigon (voice)",
+     "slug": "brad-garrett",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+    },
+    {
+     "name": "Brandon Moon",
+     "character": "Ambassador Helix (voice)",
+     "slug": "brandon-moon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ocSrdXMrKNMLSJZLTrIxMaU53ie.jpg"
+    },
+    {
+     "name": "Jameela Jamil",
+     "character": "Ambassador Questa (voice)",
+     "slug": "jameela-jamil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e9RviCItpPoSwD79y4YYlDbIwM6.jpg"
+    },
+    {
+     "name": "Young Dylan",
+     "character": "Bryce (voice)",
+     "slug": "young-dylan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5o563nn5z5YSLo09oK4bhG2ENxj.jpg"
+    },
+    {
+     "name": "Jake T. Getman",
+     "character": "Caleb (voice)",
+     "slug": "jake-t-getman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aBDawwQUOqKMCyGzrXcU1d0zNzX.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Madeline Sharafian",
+       "slug": "madeline-sharafian"
+      },
+      {
+       "name": "Domee Shi",
+       "slug": "domee-shi"
+      },
+      {
+       "name": "Adrian Molina",
+       "slug": "adrian-molina"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Julia Cho",
+       "slug": "julia-cho"
+      },
+      {
+       "name": "Mark Hammer",
+       "slug": "mark-hammer"
+      },
+      {
+       "name": "Mike Jones",
+       "slug": "mike-jones"
+      },
+      {
+       "name": "Adrian Molina",
+       "slug": "adrian-molina"
+      },
+      {
+       "name": "Madeline Sharafian",
+       "slug": "madeline-sharafian"
+      },
+      {
+       "name": "Domee Shi",
+       "slug": "domee-shi"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rob Simonsen",
+       "slug": "rob-simonsen"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Matt Aspbury",
+       "slug": "matt-aspbury"
+      },
+      {
+       "name": "Danielle Feinberg",
+       "slug": "danielle-feinberg"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Anna Wolitzky",
+       "slug": "anna-wolitzky"
+      },
+      {
+       "name": "Steve Bloom",
+       "slug": "steve-bloom"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Mary Alice Drumm",
+       "slug": "mary-alice-drumm"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Pixar",
+     "slug": "pixar",
+     "logo": "https://image.tmdb.org/t/p/w185/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 501140,
+    "totalShows": 157,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 249060,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 249060,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-06-20"
+   }
+  }
+ }
+}

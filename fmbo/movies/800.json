@@ -1,0 +1,596 @@
+{
+ "id": 800,
+ "slug": "indra",
+ "source_url": "https://fridaymatinee.in/boxoffice/indra-800",
+ "captured_at": "2026-10-01T18:22:49.341323+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 800,
+    "title": "Indra",
+    "img": "https://image.tmdb.org/t/p/original/ha0vIE3iVFAMm3M4i5DNCmwSiO8.jpg",
+    "released": "2025-08-22",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28298511",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "128 min",
+    "genre": "Thriller",
+    "plot": "INDRA is a serial killer investigation film about an ex-cop who lost his eyesight and sets out to find the killer terrorizing the town. What follows is a gripping chase full of twists and turns — but what if the hunter ends up becoming the hunted?",
+    "released": "2025-08-22",
+    "director": "Sabarish Nanda",
+    "directorSlug": "sabarish-nanda",
+    "actors": [
+     "Vasanth Ravi",
+     "Mehreen Pirzada",
+     "Sunil Varma",
+     "Anikha Surendran",
+     "Kalyan Kumar",
+     "Sumesh Moor"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.0",
+      "votes": 2232,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:34.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vasanth Ravi",
+     "character": "Indra",
+     "slug": "vasanth-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/90LonpRhF8cgkoERITH9WDKv39x.jpg"
+    },
+    {
+     "name": "Mehreen Pirzada",
+     "character": "Kayal",
+     "slug": "mehreen-pirzada",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7OipqIxWW831VPTmx6g5g2YoyeO.jpg"
+    },
+    {
+     "name": "Sunil Varma",
+     "character": "Abhimanyu",
+     "slug": "sunil-varma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ifmUCkLgpEzbfnRjIw62otrADpI.jpg"
+    },
+    {
+     "name": "Anikha Surendran",
+     "character": "Mathi",
+     "slug": "anikha-surendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/unw5AO67lKGndi365OnvGxx3IkD.jpg"
+    },
+    {
+     "name": "Kalyan Kumar",
+     "character": "Nagendra",
+     "slug": "kalyan-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nCUClpez9E3FnqwevCn9r3VZvJK.jpg"
+    },
+    {
+     "name": "Sumesh Moor",
+     "character": "Bathra",
+     "slug": "sumesh-moor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pehYNBd8DpKD9C1idJ8lqYiqbLS.jpg"
+    },
+    {
+     "name": "Rajkumar",
+     "character": "Kaali",
+     "slug": "rajkumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/isnBX2GccHsikbhZ7osoqJrHUZA.jpg"
+    },
+    {
+     "name": "Jeeva Ravi",
+     "character": null,
+     "slug": "jeeva-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/72blirHJXjubWWoHUvkPpPGIv1Z.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sabarish Nanda",
+       "slug": "sabarish-nanda"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sabarish Nanda",
+       "slug": "sabarish-nanda"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ajmal Tahseen",
+       "slug": "ajmal-tahseen"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Prabhu Raghav",
+       "slug": "prabhu-raghav"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen K. L.",
+       "slug": "praveen-k-l"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jaffer Sadiq",
+       "slug": "jaffer-sadiq-13161"
+      },
+      {
+       "name": "Irfan Malik",
+       "slug": "irfan-malik"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Emperor Entertainment",
+     "slug": "emperor-entertainment",
+     "logo": null
+    },
+    {
+     "name": "JSM Movie Production",
+     "slug": "jsm-movie-production",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 601374,
+    "totalShows": 383,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 86834,
+     "date": "2025-08-22"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 197450,
+     "date": "2025-08-24"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-22"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 800,
+    "title": "Indra",
+    "img": "https://image.tmdb.org/t/p/original/ha0vIE3iVFAMm3M4i5DNCmwSiO8.jpg",
+    "released": "2025-08-22",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28298511",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "128 min",
+    "genre": "Thriller",
+    "plot": "INDRA is a serial killer investigation film about an ex-cop who lost his eyesight and sets out to find the killer terrorizing the town. What follows is a gripping chase full of twists and turns — but what if the hunter ends up becoming the hunted?",
+    "released": "2025-08-22",
+    "director": "Sabarish Nanda",
+    "directorSlug": "sabarish-nanda",
+    "actors": [
+     "Vasanth Ravi",
+     "Mehreen Pirzada",
+     "Sunil Varma",
+     "Anikha Surendran",
+     "Kalyan Kumar",
+     "Sumesh Moor"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.0",
+      "votes": 2232,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:34.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vasanth Ravi",
+     "character": "Indra",
+     "slug": "vasanth-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/90LonpRhF8cgkoERITH9WDKv39x.jpg"
+    },
+    {
+     "name": "Mehreen Pirzada",
+     "character": "Kayal",
+     "slug": "mehreen-pirzada",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7OipqIxWW831VPTmx6g5g2YoyeO.jpg"
+    },
+    {
+     "name": "Sunil Varma",
+     "character": "Abhimanyu",
+     "slug": "sunil-varma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ifmUCkLgpEzbfnRjIw62otrADpI.jpg"
+    },
+    {
+     "name": "Anikha Surendran",
+     "character": "Mathi",
+     "slug": "anikha-surendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/unw5AO67lKGndi365OnvGxx3IkD.jpg"
+    },
+    {
+     "name": "Kalyan Kumar",
+     "character": "Nagendra",
+     "slug": "kalyan-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nCUClpez9E3FnqwevCn9r3VZvJK.jpg"
+    },
+    {
+     "name": "Sumesh Moor",
+     "character": "Bathra",
+     "slug": "sumesh-moor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pehYNBd8DpKD9C1idJ8lqYiqbLS.jpg"
+    },
+    {
+     "name": "Rajkumar",
+     "character": "Kaali",
+     "slug": "rajkumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/isnBX2GccHsikbhZ7osoqJrHUZA.jpg"
+    },
+    {
+     "name": "Jeeva Ravi",
+     "character": null,
+     "slug": "jeeva-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/72blirHJXjubWWoHUvkPpPGIv1Z.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sabarish Nanda",
+       "slug": "sabarish-nanda"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sabarish Nanda",
+       "slug": "sabarish-nanda"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ajmal Tahseen",
+       "slug": "ajmal-tahseen"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Prabhu Raghav",
+       "slug": "prabhu-raghav"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen K. L.",
+       "slug": "praveen-k-l"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jaffer Sadiq",
+       "slug": "jaffer-sadiq-13161"
+      },
+      {
+       "name": "Irfan Malik",
+       "slug": "irfan-malik"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Emperor Entertainment",
+     "slug": "emperor-entertainment",
+     "logo": null
+    },
+    {
+     "name": "JSM Movie Production",
+     "slug": "jsm-movie-production",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2025-08-22",
+     "gross": 601374,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 383,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 601374,
+    "totalShows": 383,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 601374
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 601374
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-22"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 800,
+    "title": "Indra",
+    "img": "https://image.tmdb.org/t/p/original/ha0vIE3iVFAMm3M4i5DNCmwSiO8.jpg",
+    "released": "2025-08-22",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28298511",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "128 min",
+    "genre": "Thriller",
+    "plot": "INDRA is a serial killer investigation film about an ex-cop who lost his eyesight and sets out to find the killer terrorizing the town. What follows is a gripping chase full of twists and turns — but what if the hunter ends up becoming the hunted?",
+    "released": "2025-08-22",
+    "director": "Sabarish Nanda",
+    "directorSlug": "sabarish-nanda",
+    "actors": [
+     "Vasanth Ravi",
+     "Mehreen Pirzada",
+     "Sunil Varma",
+     "Anikha Surendran",
+     "Kalyan Kumar",
+     "Sumesh Moor"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.0",
+      "votes": 2232,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:34.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vasanth Ravi",
+     "character": "Indra",
+     "slug": "vasanth-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/90LonpRhF8cgkoERITH9WDKv39x.jpg"
+    },
+    {
+     "name": "Mehreen Pirzada",
+     "character": "Kayal",
+     "slug": "mehreen-pirzada",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7OipqIxWW831VPTmx6g5g2YoyeO.jpg"
+    },
+    {
+     "name": "Sunil Varma",
+     "character": "Abhimanyu",
+     "slug": "sunil-varma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ifmUCkLgpEzbfnRjIw62otrADpI.jpg"
+    },
+    {
+     "name": "Anikha Surendran",
+     "character": "Mathi",
+     "slug": "anikha-surendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/unw5AO67lKGndi365OnvGxx3IkD.jpg"
+    },
+    {
+     "name": "Kalyan Kumar",
+     "character": "Nagendra",
+     "slug": "kalyan-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nCUClpez9E3FnqwevCn9r3VZvJK.jpg"
+    },
+    {
+     "name": "Sumesh Moor",
+     "character": "Bathra",
+     "slug": "sumesh-moor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pehYNBd8DpKD9C1idJ8lqYiqbLS.jpg"
+    },
+    {
+     "name": "Rajkumar",
+     "character": "Kaali",
+     "slug": "rajkumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/isnBX2GccHsikbhZ7osoqJrHUZA.jpg"
+    },
+    {
+     "name": "Jeeva Ravi",
+     "character": null,
+     "slug": "jeeva-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/72blirHJXjubWWoHUvkPpPGIv1Z.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sabarish Nanda",
+       "slug": "sabarish-nanda"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sabarish Nanda",
+       "slug": "sabarish-nanda"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ajmal Tahseen",
+       "slug": "ajmal-tahseen"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Prabhu Raghav",
+       "slug": "prabhu-raghav"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen K. L.",
+       "slug": "praveen-k-l"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jaffer Sadiq",
+       "slug": "jaffer-sadiq-13161"
+      },
+      {
+       "name": "Irfan Malik",
+       "slug": "irfan-malik"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Emperor Entertainment",
+     "slug": "emperor-entertainment",
+     "logo": null
+    },
+    {
+     "name": "JSM Movie Production",
+     "slug": "jsm-movie-production",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 601374,
+    "totalShows": 383,
+    "totalDays": 13,
+    "openingDay": {
+     "day": 1,
+     "gross": 464078,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 464078,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-22"
+   }
+  }
+ }
+}

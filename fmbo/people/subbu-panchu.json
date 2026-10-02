@@ -1,0 +1,48 @@
+{
+ "slug": "subbu-panchu",
+ "name": "Subbu Panchu",
+ "source_url": "https://fridaymatinee.in/people/subbu-panchu",
+ "captured_at": "2026-10-02T11:00:40.216596+00:00",
+ "person": {
+  "name": "Subbu Panchu",
+  "photo": "https://image.tmdb.org/t/p/w185/jxGqgwuOoV5ZwvV1vIr4eoKENod.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 114,
+   "movie_slug": "etharkkum-thunindhavan",
+   "title": "Etharkkum Thunindhavan",
+   "year": 2022,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 229,
+   "movie_slug": "prince",
+   "title": "Prince",
+   "year": 2022,
+   "kerala_gross": "₹18.3L"
+  },
+  {
+   "movie_id": 717,
+   "movie_slug": "3bhk",
+   "title": "3BHK",
+   "year": 2025,
+   "kerala_gross": "₹25.2L"
+  },
+  {
+   "movie_id": 986,
+   "movie_slug": "mankatha",
+   "title": "Mankatha",
+   "year": 2026,
+   "kerala_gross": "₹12.9L"
+  }
+ ]
+}

@@ -1,0 +1,668 @@
+{
+ "id": 1019,
+ "slug": "hamnet",
+ "source_url": "https://fridaymatinee.in/boxoffice/hamnet-1019",
+ "captured_at": "2026-10-01T18:41:28.520049+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1019,
+    "title": "Hamnet",
+    "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+    "released": "2026-02-27",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14905854",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "126 min",
+    "genre": "Drama, Romance, History",
+    "plot": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+    "released": "2025-11-26",
+    "director": "Chloé Zhao",
+    "directorSlug": "chloe-zhao",
+    "actors": [
+     "Jessie Buckley",
+     "Paul Mescal",
+     "Emily Watson",
+     "Joe Alwyn",
+     "Jacobi Jupe",
+     "Noah Jupe"
+    ],
+    "awards": "Nominated for 8 Oscars. 60 wins u0026 278 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.8",
+      "votes": 136142,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.7",
+      "votes": 1625,
+      "updatedAt": "2026-09-24T13:10:35.000Z"
+     },
+     "rt": "86%",
+     "metascore": 84,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jessie Buckley",
+     "character": "Agnes",
+     "slug": "jessie-buckley",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
+    },
+    {
+     "name": "Paul Mescal",
+     "character": "Will",
+     "slug": "paul-mescal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
+    },
+    {
+     "name": "Emily Watson",
+     "character": "Mary",
+     "slug": "emily-watson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg"
+    },
+    {
+     "name": "Joe Alwyn",
+     "character": "Bartholomew",
+     "slug": "joe-alwyn",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/elATrWUfYdTmEiTur6SmeNBaqXn.jpg"
+    },
+    {
+     "name": "Jacobi Jupe",
+     "character": "Hamnet",
+     "slug": "jacobi-jupe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wVpax8MOwdelnQILiDNoDkTzebU.jpg"
+    },
+    {
+     "name": "Noah Jupe",
+     "character": "Hamlet",
+     "slug": "noah-jupe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cBhJisZrIsZzamiUCVjOZODcqOK.jpg"
+    },
+    {
+     "name": "Olivia Lynes",
+     "character": "Judith",
+     "slug": "olivia-lynes",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cao5MdKpOR0uCDIymGdIP4kG0rD.jpg"
+    },
+    {
+     "name": "Justine Mitchell",
+     "character": "Joan",
+     "slug": "justine-mitchell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b8dmEYP6RbwLPL3HdKRcBTfEUPw.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Chloé Zhao",
+       "slug": "chloe-zhao"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Chloé Zhao",
+       "slug": "chloe-zhao"
+      },
+      {
+       "name": "Maggie O'Farrell",
+       "slug": "maggie-o-farrell"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Max Richter",
+       "slug": "max-richter"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Łukasz Żal",
+       "slug": "ukasz-zal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Affonso Gonçalves",
+       "slug": "affonso-goncalves"
+      },
+      {
+       "name": "Chloé Zhao",
+       "slug": "chloe-zhao"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Pippa Harris",
+       "slug": "pippa-harris"
+      },
+      {
+       "name": "Liza Marshall",
+       "slug": "liza-marshall"
+      },
+      {
+       "name": "Sam Mendes",
+       "slug": "sam-mendes"
+      },
+      {
+       "name": "Steven Spielberg",
+       "slug": "steven-spielberg"
+      },
+      {
+       "name": "Nicolas Gonda",
+       "slug": "nicolas-gonda"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Hera Pictures",
+     "slug": "hera-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/iVPAyAXjzbHjzRamNcc1R8Ra7sD.png"
+    },
+    {
+     "name": "Neal Street Productions",
+     "slug": "neal-street-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/8uaoEVgNxFH0R94O53gUiByahVr.png"
+    },
+    {
+     "name": "Amblin Entertainment",
+     "slug": "amblin-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/cEaxANEisCqeEoRvODv2dO1I0iI.png"
+    },
+    {
+     "name": "Book of Shadows",
+     "slug": "book-of-shadows",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {},
+   "boxoffice": [],
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalSeats": 0,
+    "totalSold": 0,
+    "avgOcc": 0,
+    "totalDays": 0,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": null,
+    "openingDay": null,
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "0:0:0"
+  },
+  "week": {
+   "movie": {
+    "id": 1019,
+    "title": "Hamnet",
+    "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+    "released": "2026-02-27",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14905854",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "126 min",
+    "genre": "Drama, Romance, History",
+    "plot": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+    "released": "2025-11-26",
+    "director": "Chloé Zhao",
+    "directorSlug": "chloe-zhao",
+    "actors": [
+     "Jessie Buckley",
+     "Paul Mescal",
+     "Emily Watson",
+     "Joe Alwyn",
+     "Jacobi Jupe",
+     "Noah Jupe"
+    ],
+    "awards": "Nominated for 8 Oscars. 60 wins u0026 278 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.8",
+      "votes": 136142,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.7",
+      "votes": 1625,
+      "updatedAt": "2026-09-24T13:10:35.000Z"
+     },
+     "rt": "86%",
+     "metascore": 84,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jessie Buckley",
+     "character": "Agnes",
+     "slug": "jessie-buckley",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
+    },
+    {
+     "name": "Paul Mescal",
+     "character": "Will",
+     "slug": "paul-mescal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
+    },
+    {
+     "name": "Emily Watson",
+     "character": "Mary",
+     "slug": "emily-watson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg"
+    },
+    {
+     "name": "Joe Alwyn",
+     "character": "Bartholomew",
+     "slug": "joe-alwyn",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/elATrWUfYdTmEiTur6SmeNBaqXn.jpg"
+    },
+    {
+     "name": "Jacobi Jupe",
+     "character": "Hamnet",
+     "slug": "jacobi-jupe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wVpax8MOwdelnQILiDNoDkTzebU.jpg"
+    },
+    {
+     "name": "Noah Jupe",
+     "character": "Hamlet",
+     "slug": "noah-jupe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cBhJisZrIsZzamiUCVjOZODcqOK.jpg"
+    },
+    {
+     "name": "Olivia Lynes",
+     "character": "Judith",
+     "slug": "olivia-lynes",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cao5MdKpOR0uCDIymGdIP4kG0rD.jpg"
+    },
+    {
+     "name": "Justine Mitchell",
+     "character": "Joan",
+     "slug": "justine-mitchell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b8dmEYP6RbwLPL3HdKRcBTfEUPw.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Chloé Zhao",
+       "slug": "chloe-zhao"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Chloé Zhao",
+       "slug": "chloe-zhao"
+      },
+      {
+       "name": "Maggie O'Farrell",
+       "slug": "maggie-o-farrell"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Max Richter",
+       "slug": "max-richter"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Łukasz Żal",
+       "slug": "ukasz-zal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Affonso Gonçalves",
+       "slug": "affonso-goncalves"
+      },
+      {
+       "name": "Chloé Zhao",
+       "slug": "chloe-zhao"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Pippa Harris",
+       "slug": "pippa-harris"
+      },
+      {
+       "name": "Liza Marshall",
+       "slug": "liza-marshall"
+      },
+      {
+       "name": "Sam Mendes",
+       "slug": "sam-mendes"
+      },
+      {
+       "name": "Steven Spielberg",
+       "slug": "steven-spielberg"
+      },
+      {
+       "name": "Nicolas Gonda",
+       "slug": "nicolas-gonda"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Hera Pictures",
+     "slug": "hera-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/iVPAyAXjzbHjzRamNcc1R8Ra7sD.png"
+    },
+    {
+     "name": "Neal Street Productions",
+     "slug": "neal-street-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/8uaoEVgNxFH0R94O53gUiByahVr.png"
+    },
+    {
+     "name": "Amblin Entertainment",
+     "slug": "amblin-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/cEaxANEisCqeEoRvODv2dO1I0iI.png"
+    },
+    {
+     "name": "Book of Shadows",
+     "slug": "book-of-shadows",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {},
+   "boxoffice": [],
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalSeats": 0,
+    "totalSold": 0,
+    "avgOcc": 0,
+    "totalDays": 0,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": null,
+    "openingDay": null,
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "0:0:0"
+  },
+  "district": {
+   "movie": {
+    "id": 1019,
+    "title": "Hamnet",
+    "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+    "released": "2026-02-27",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14905854",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "126 min",
+    "genre": "Drama, Romance, History",
+    "plot": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+    "released": "2025-11-26",
+    "director": "Chloé Zhao",
+    "directorSlug": "chloe-zhao",
+    "actors": [
+     "Jessie Buckley",
+     "Paul Mescal",
+     "Emily Watson",
+     "Joe Alwyn",
+     "Jacobi Jupe",
+     "Noah Jupe"
+    ],
+    "awards": "Nominated for 8 Oscars. 60 wins u0026 278 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.8",
+      "votes": 136142,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.7",
+      "votes": 1625,
+      "updatedAt": "2026-09-24T13:10:35.000Z"
+     },
+     "rt": "86%",
+     "metascore": 84,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jessie Buckley",
+     "character": "Agnes",
+     "slug": "jessie-buckley",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
+    },
+    {
+     "name": "Paul Mescal",
+     "character": "Will",
+     "slug": "paul-mescal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
+    },
+    {
+     "name": "Emily Watson",
+     "character": "Mary",
+     "slug": "emily-watson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg"
+    },
+    {
+     "name": "Joe Alwyn",
+     "character": "Bartholomew",
+     "slug": "joe-alwyn",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/elATrWUfYdTmEiTur6SmeNBaqXn.jpg"
+    },
+    {
+     "name": "Jacobi Jupe",
+     "character": "Hamnet",
+     "slug": "jacobi-jupe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wVpax8MOwdelnQILiDNoDkTzebU.jpg"
+    },
+    {
+     "name": "Noah Jupe",
+     "character": "Hamlet",
+     "slug": "noah-jupe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cBhJisZrIsZzamiUCVjOZODcqOK.jpg"
+    },
+    {
+     "name": "Olivia Lynes",
+     "character": "Judith",
+     "slug": "olivia-lynes",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cao5MdKpOR0uCDIymGdIP4kG0rD.jpg"
+    },
+    {
+     "name": "Justine Mitchell",
+     "character": "Joan",
+     "slug": "justine-mitchell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b8dmEYP6RbwLPL3HdKRcBTfEUPw.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Chloé Zhao",
+       "slug": "chloe-zhao"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Chloé Zhao",
+       "slug": "chloe-zhao"
+      },
+      {
+       "name": "Maggie O'Farrell",
+       "slug": "maggie-o-farrell"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Max Richter",
+       "slug": "max-richter"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Łukasz Żal",
+       "slug": "ukasz-zal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Affonso Gonçalves",
+       "slug": "affonso-goncalves"
+      },
+      {
+       "name": "Chloé Zhao",
+       "slug": "chloe-zhao"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Pippa Harris",
+       "slug": "pippa-harris"
+      },
+      {
+       "name": "Liza Marshall",
+       "slug": "liza-marshall"
+      },
+      {
+       "name": "Sam Mendes",
+       "slug": "sam-mendes"
+      },
+      {
+       "name": "Steven Spielberg",
+       "slug": "steven-spielberg"
+      },
+      {
+       "name": "Nicolas Gonda",
+       "slug": "nicolas-gonda"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Hera Pictures",
+     "slug": "hera-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/iVPAyAXjzbHjzRamNcc1R8Ra7sD.png"
+    },
+    {
+     "name": "Neal Street Productions",
+     "slug": "neal-street-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/8uaoEVgNxFH0R94O53gUiByahVr.png"
+    },
+    {
+     "name": "Amblin Entertainment",
+     "slug": "amblin-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/cEaxANEisCqeEoRvODv2dO1I0iI.png"
+    },
+    {
+     "name": "Book of Shadows",
+     "slug": "book-of-shadows",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {},
+   "boxoffice": [],
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalSeats": 0,
+    "totalSold": 0,
+    "avgOcc": 0,
+    "totalDays": 0,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": null,
+    "openingDay": null,
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "0:0:0"
+  }
+ }
+}

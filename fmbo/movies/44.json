@@ -1,0 +1,730 @@
+{
+ "id": 44,
+ "slug": "dabangg-3",
+ "source_url": "https://fridaymatinee.in/boxoffice/dabangg-3-44",
+ "captured_at": "2026-10-01T17:58:40.909394+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 44,
+    "title": "Dabangg 3",
+    "img": "https://image.tmdb.org/t/p/original/ruuZcKbvrHU4lMR7ye59mZLIJkG.jpg",
+    "released": "2019-12-20",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt7059844",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "150 min",
+    "genre": "Action, Comedy, Crime",
+    "plot": "Chulbul Pandey, the playful and fearless inspector, returns once again in a face-to-face with Balli Singh, a criminal whose antics annoy and who disturbed the lives of many victims.",
+    "released": "2019-12-20",
+    "director": "Prabhu Deva",
+    "directorSlug": "prabhu-deva",
+    "actors": [
+     "Salman Khan",
+     "Sonakshi Sinha",
+     "Saiee Manjrekar",
+     "Sudeepa",
+     "Dimple Kapadia",
+     "Arbaaz Khan"
+    ],
+    "awards": "4 wins u0026 6 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "3.0",
+      "votes": 23312,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "4.8",
+      "votes": 66,
+      "updatedAt": "2026-09-25T01:10:56.000Z"
+     },
+     "rt": "18%",
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Salman Khan",
+     "character": "Chulbul Pandey",
+     "slug": "salman-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n7pKtccmf2jVOz8Qn90q2ThqLge.jpg"
+    },
+    {
+     "name": "Sonakshi Sinha",
+     "character": "Rajjo Pandey",
+     "slug": "sonakshi-sinha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7HaI5owaKzOb6Qdtwifp29uhHk2.jpg"
+    },
+    {
+     "name": "Saiee Manjrekar",
+     "character": "Khushi",
+     "slug": "saiee-manjrekar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yYZr9uwGoD5cGZHsYf4Ra9Cumvo.jpg"
+    },
+    {
+     "name": "Sudeepa",
+     "character": "Balli Singh",
+     "slug": "sudeepa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8c5TYgGwbkcQkvC3ZlTU41OfYBN.jpg"
+    },
+    {
+     "name": "Dimple Kapadia",
+     "character": "Naini Devi Pandey",
+     "slug": "dimple-kapadia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rrISOX9TnetEAiZ5zCosTkmFdh2.jpg"
+    },
+    {
+     "name": "Arbaaz Khan",
+     "character": "Makhanchand \"Makkhi\" Pandey",
+     "slug": "arbaaz-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n5iBuvIjx5zuR4DzCfXGtXyv55s.jpg"
+    },
+    {
+     "name": "Pramod Khanna",
+     "character": "Prajapati Pandey",
+     "slug": "pramod-khanna",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Nawab Shah",
+     "character": "Gullu",
+     "slug": "nawab-shah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mx168p9eqjrGyaAc3TM6viLIG4L.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Prabhu Deva",
+       "slug": "prabhu-deva"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Salman Khan",
+       "slug": "salman-khan"
+      },
+      {
+       "name": "Dilip Shukla",
+       "slug": "dilip-shukla"
+      },
+      {
+       "name": "Alok Upadhyay",
+       "slug": "alok-upadhyay"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Wajid Khan",
+       "slug": "wajid-khan"
+      },
+      {
+       "name": "Sajid Ali Khan",
+       "slug": "sajid-ali-khan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mahesh Limaye",
+       "slug": "mahesh-limaye"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ritesh Soni",
+       "slug": "ritesh-soni"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Salma Khan",
+       "slug": "salma-khan"
+      },
+      {
+       "name": "Salman Khan",
+       "slug": "salman-khan"
+      },
+      {
+       "name": "Nikhil Dwivedi",
+       "slug": "nikhil-dwivedi"
+      },
+      {
+       "name": "Arbaaz Khan",
+       "slug": "arbaaz-khan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Arbaaz Khan Productions",
+     "slug": "arbaaz-khan-productions",
+     "logo": null
+    },
+    {
+     "name": "Salman Khan Films",
+     "slug": "salman-khan-films",
+     "logo": "https://image.tmdb.org/t/p/w185/eNG6SYSrJZgXpqo1l7UwvuWio76.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2019-12-20",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2867292,
+    "totalShows": 291,
+    "totalDays": 20,
+    "openingDay": {
+     "day": 1,
+     "gross": 444159,
+     "date": "2019-12-20"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 671107,
+     "date": "2019-12-22"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 24,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-12-20"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 44,
+    "title": "Dabangg 3",
+    "img": "https://image.tmdb.org/t/p/original/ruuZcKbvrHU4lMR7ye59mZLIJkG.jpg",
+    "released": "2019-12-20",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt7059844",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "150 min",
+    "genre": "Action, Comedy, Crime",
+    "plot": "Chulbul Pandey, the playful and fearless inspector, returns once again in a face-to-face with Balli Singh, a criminal whose antics annoy and who disturbed the lives of many victims.",
+    "released": "2019-12-20",
+    "director": "Prabhu Deva",
+    "directorSlug": "prabhu-deva",
+    "actors": [
+     "Salman Khan",
+     "Sonakshi Sinha",
+     "Saiee Manjrekar",
+     "Sudeepa",
+     "Dimple Kapadia",
+     "Arbaaz Khan"
+    ],
+    "awards": "4 wins u0026 6 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "3.0",
+      "votes": 23312,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "4.8",
+      "votes": 66,
+      "updatedAt": "2026-09-25T01:10:56.000Z"
+     },
+     "rt": "18%",
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Salman Khan",
+     "character": "Chulbul Pandey",
+     "slug": "salman-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n7pKtccmf2jVOz8Qn90q2ThqLge.jpg"
+    },
+    {
+     "name": "Sonakshi Sinha",
+     "character": "Rajjo Pandey",
+     "slug": "sonakshi-sinha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7HaI5owaKzOb6Qdtwifp29uhHk2.jpg"
+    },
+    {
+     "name": "Saiee Manjrekar",
+     "character": "Khushi",
+     "slug": "saiee-manjrekar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yYZr9uwGoD5cGZHsYf4Ra9Cumvo.jpg"
+    },
+    {
+     "name": "Sudeepa",
+     "character": "Balli Singh",
+     "slug": "sudeepa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8c5TYgGwbkcQkvC3ZlTU41OfYBN.jpg"
+    },
+    {
+     "name": "Dimple Kapadia",
+     "character": "Naini Devi Pandey",
+     "slug": "dimple-kapadia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rrISOX9TnetEAiZ5zCosTkmFdh2.jpg"
+    },
+    {
+     "name": "Arbaaz Khan",
+     "character": "Makhanchand \"Makkhi\" Pandey",
+     "slug": "arbaaz-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n5iBuvIjx5zuR4DzCfXGtXyv55s.jpg"
+    },
+    {
+     "name": "Pramod Khanna",
+     "character": "Prajapati Pandey",
+     "slug": "pramod-khanna",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Nawab Shah",
+     "character": "Gullu",
+     "slug": "nawab-shah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mx168p9eqjrGyaAc3TM6viLIG4L.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Prabhu Deva",
+       "slug": "prabhu-deva"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Salman Khan",
+       "slug": "salman-khan"
+      },
+      {
+       "name": "Dilip Shukla",
+       "slug": "dilip-shukla"
+      },
+      {
+       "name": "Alok Upadhyay",
+       "slug": "alok-upadhyay"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Wajid Khan",
+       "slug": "wajid-khan"
+      },
+      {
+       "name": "Sajid Ali Khan",
+       "slug": "sajid-ali-khan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mahesh Limaye",
+       "slug": "mahesh-limaye"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ritesh Soni",
+       "slug": "ritesh-soni"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Salma Khan",
+       "slug": "salma-khan"
+      },
+      {
+       "name": "Salman Khan",
+       "slug": "salman-khan"
+      },
+      {
+       "name": "Nikhil Dwivedi",
+       "slug": "nikhil-dwivedi"
+      },
+      {
+       "name": "Arbaaz Khan",
+       "slug": "arbaaz-khan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Arbaaz Khan Productions",
+     "slug": "arbaaz-khan-productions",
+     "logo": null
+    },
+    {
+     "name": "Salman Khan Films",
+     "slug": "salman-khan-films",
+     "logo": "https://image.tmdb.org/t/p/w185/eNG6SYSrJZgXpqo1l7UwvuWio76.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2019-12-20",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2019-12-20",
+     "gross": 2374154,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 214,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-12-27",
+     "gross": 445010,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 70,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2020-01-03",
+     "gross": 48128,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 7,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2867292,
+    "totalShows": 291,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 2374154
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2374154
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 24,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-12-20"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 44,
+    "title": "Dabangg 3",
+    "img": "https://image.tmdb.org/t/p/original/ruuZcKbvrHU4lMR7ye59mZLIJkG.jpg",
+    "released": "2019-12-20",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt7059844",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "150 min",
+    "genre": "Action, Comedy, Crime",
+    "plot": "Chulbul Pandey, the playful and fearless inspector, returns once again in a face-to-face with Balli Singh, a criminal whose antics annoy and who disturbed the lives of many victims.",
+    "released": "2019-12-20",
+    "director": "Prabhu Deva",
+    "directorSlug": "prabhu-deva",
+    "actors": [
+     "Salman Khan",
+     "Sonakshi Sinha",
+     "Saiee Manjrekar",
+     "Sudeepa",
+     "Dimple Kapadia",
+     "Arbaaz Khan"
+    ],
+    "awards": "4 wins u0026 6 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "3.0",
+      "votes": 23312,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "4.8",
+      "votes": 66,
+      "updatedAt": "2026-09-25T01:10:56.000Z"
+     },
+     "rt": "18%",
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Salman Khan",
+     "character": "Chulbul Pandey",
+     "slug": "salman-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n7pKtccmf2jVOz8Qn90q2ThqLge.jpg"
+    },
+    {
+     "name": "Sonakshi Sinha",
+     "character": "Rajjo Pandey",
+     "slug": "sonakshi-sinha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7HaI5owaKzOb6Qdtwifp29uhHk2.jpg"
+    },
+    {
+     "name": "Saiee Manjrekar",
+     "character": "Khushi",
+     "slug": "saiee-manjrekar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yYZr9uwGoD5cGZHsYf4Ra9Cumvo.jpg"
+    },
+    {
+     "name": "Sudeepa",
+     "character": "Balli Singh",
+     "slug": "sudeepa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8c5TYgGwbkcQkvC3ZlTU41OfYBN.jpg"
+    },
+    {
+     "name": "Dimple Kapadia",
+     "character": "Naini Devi Pandey",
+     "slug": "dimple-kapadia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rrISOX9TnetEAiZ5zCosTkmFdh2.jpg"
+    },
+    {
+     "name": "Arbaaz Khan",
+     "character": "Makhanchand \"Makkhi\" Pandey",
+     "slug": "arbaaz-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n5iBuvIjx5zuR4DzCfXGtXyv55s.jpg"
+    },
+    {
+     "name": "Pramod Khanna",
+     "character": "Prajapati Pandey",
+     "slug": "pramod-khanna",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Nawab Shah",
+     "character": "Gullu",
+     "slug": "nawab-shah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mx168p9eqjrGyaAc3TM6viLIG4L.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Prabhu Deva",
+       "slug": "prabhu-deva"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Salman Khan",
+       "slug": "salman-khan"
+      },
+      {
+       "name": "Dilip Shukla",
+       "slug": "dilip-shukla"
+      },
+      {
+       "name": "Alok Upadhyay",
+       "slug": "alok-upadhyay"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Wajid Khan",
+       "slug": "wajid-khan"
+      },
+      {
+       "name": "Sajid Ali Khan",
+       "slug": "sajid-ali-khan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mahesh Limaye",
+       "slug": "mahesh-limaye"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ritesh Soni",
+       "slug": "ritesh-soni"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Salma Khan",
+       "slug": "salma-khan"
+      },
+      {
+       "name": "Salman Khan",
+       "slug": "salman-khan"
+      },
+      {
+       "name": "Nikhil Dwivedi",
+       "slug": "nikhil-dwivedi"
+      },
+      {
+       "name": "Arbaaz Khan",
+       "slug": "arbaaz-khan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Arbaaz Khan Productions",
+     "slug": "arbaaz-khan-productions",
+     "logo": null
+    },
+    {
+     "name": "Salman Khan Films",
+     "slug": "salman-khan-films",
+     "logo": "https://image.tmdb.org/t/p/w185/eNG6SYSrJZgXpqo1l7UwvuWio76.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2019-12-20",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2867292,
+    "totalShows": 291,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 1804696,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1804696,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 24,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-12-20"
+   }
+  }
+ }
+}

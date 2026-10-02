@@ -1,0 +1,48 @@
+{
+ "slug": "sobhita-dhulipala",
+ "name": "Sobhita Dhulipala",
+ "source_url": "https://fridaymatinee.in/people/sobhita-dhulipala",
+ "captured_at": "2026-10-02T10:49:01.903336+00:00",
+ "person": {
+  "name": "Sobhita Dhulipala",
+  "photo": "https://image.tmdb.org/t/p/w185/cV5JtQKtkOyv3SVMhsv0Db7zYGI.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 29,
+   "movie_slug": "moothon",
+   "title": "Moothon",
+   "year": 2019,
+   "kerala_gross": "₹63.5L"
+  },
+  {
+   "movie_id": 88,
+   "movie_slug": "kurup",
+   "title": "Kurup",
+   "year": 2021,
+   "kerala_gross": "₹18.0 Cr"
+  },
+  {
+   "movie_id": 208,
+   "movie_slug": "ponniyin-selvan",
+   "title": "Ponniyin Selvan",
+   "year": 2022,
+   "kerala_gross": "₹17.0 Cr"
+  },
+  {
+   "movie_id": 359,
+   "movie_slug": "ponniyin-selvan-part-2",
+   "title": "Ponniyin Selvan - Part 2",
+   "year": 2023,
+   "kerala_gross": "₹13.2 Cr"
+  }
+ ]
+}

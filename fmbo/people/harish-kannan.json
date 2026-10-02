@@ -1,0 +1,48 @@
+{
+ "slug": "harish-kannan",
+ "name": "Harish Kannan",
+ "source_url": "https://fridaymatinee.in/people/harish-kannan",
+ "captured_at": "2026-10-01T22:41:46.708224+00:00",
+ "person": {
+  "name": "Harish Kannan",
+  "photo": null,
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 187,
+   "movie_slug": "cobra",
+   "title": "Cobra",
+   "year": 2022,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 554,
+   "movie_slug": "demonte-colony-2",
+   "title": "Demonte Colony 2",
+   "year": 2024,
+   "kerala_gross": "₹34.6L"
+  },
+  {
+   "movie_id": 826,
+   "movie_slug": "kiss",
+   "title": "Kiss",
+   "year": 2025,
+   "kerala_gross": "₹1.3L"
+  },
+  {
+   "movie_id": 887,
+   "movie_slug": "aaryan",
+   "title": "Aaryan",
+   "year": 2025,
+   "kerala_gross": "₹49.7L"
+  }
+ ]
+}

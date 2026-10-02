@@ -1,0 +1,62 @@
+{
+ "slug": "innocent",
+ "name": "Innocent",
+ "source_url": "https://fridaymatinee.in/people/innocent",
+ "captured_at": "2026-10-01T22:52:23.969953+00:00",
+ "person": {
+  "name": "Innocent",
+  "photo": "https://image.tmdb.org/t/p/w185/zJ4mjbYYo7Z7Gva8pl1Q2czs7a7.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 33,
+   "movie_slug": "jack-daniel",
+   "title": "Jack Daniel ",
+   "year": 2019,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 72,
+   "movie_slug": "tsunami",
+   "title": "Tsunami",
+   "year": 2021,
+   "kerala_gross": "₹5.0L"
+  },
+  {
+   "movie_id": 133,
+   "movie_slug": "makal",
+   "title": "Makal",
+   "year": 2022,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 160,
+   "movie_slug": "kaduva",
+   "title": "Kaduva",
+   "year": 2022,
+   "kerala_gross": "₹17.0 Cr"
+  },
+  {
+   "movie_id": 362,
+   "movie_slug": "pachuvum-athbhuthavilakkum",
+   "title": "Pachuvum Athbhuthavilakkum",
+   "year": 2023,
+   "kerala_gross": "₹8.2 Cr"
+  },
+  {
+   "movie_id": 551,
+   "movie_slug": "manichitrathazhu",
+   "title": "Manichitrathazhu",
+   "year": 2024,
+   "kerala_gross": "₹2.7 Cr"
+  }
+ ]
+}

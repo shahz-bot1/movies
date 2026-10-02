@@ -1,0 +1,785 @@
+{
+ "id": 1241,
+ "slug": "mutiny",
+ "source_url": "https://fridaymatinee.in/boxoffice/mutiny-1241",
+ "captured_at": "2026-10-01T19:53:51.706459+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1241,
+    "title": "Mutiny",
+    "img": "https://image.tmdb.org/t/p/original/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
+    "released": "2026-08-21",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32338669",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "95 min",
+    "genre": "Action, Thriller",
+    "plot": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+    "released": "2026-08-19",
+    "director": "Jean-François Richet",
+    "directorSlug": "jean-francois-richet",
+    "actors": [
+     "Jason Statham",
+     "Annabelle Wallis",
+     "Roland Møller",
+     "Ramon Tikaram",
+     "Arnas Fedaravičius",
+     "Jason Wong"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 22383,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 715,
+      "updatedAt": "2026-09-30T16:10:13.000Z"
+     },
+     "rt": "50%",
+     "metascore": 52,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jason Statham",
+     "character": "Cole Reed",
+     "slug": "jason-statham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg"
+    },
+    {
+     "name": "Annabelle Wallis",
+     "character": "Angie Ellis",
+     "slug": "annabelle-wallis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2ZmO2Zz9TcR0rmSJHOkivcu0heR.jpg"
+    },
+    {
+     "name": "Roland Møller",
+     "character": "Captain Marko Madsen",
+     "slug": "roland-m-ller",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bF7wrJ5mrIhSwyi6ylhyQWj9BoN.jpg"
+    },
+    {
+     "name": "Ramon Tikaram",
+     "character": "Tibu Campallo",
+     "slug": "ramon-tikaram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wtBLiI8tzeqPLMB9uswkyFhChva.jpg"
+    },
+    {
+     "name": "Arnas Fedaravičius",
+     "character": "Mateo Pineda",
+     "slug": "arnas-fedaravicius",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7WfcGugvkuPqEzu0cUJBeJPt1lD.jpg"
+    },
+    {
+     "name": "Jason Wong",
+     "character": "Taran",
+     "slug": "jason-wong",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tt3D1PAoB8Yf4jPCovnhlP4pvL3.jpg"
+    },
+    {
+     "name": "Adrian Lester",
+     "character": "Captain Adam Spencer",
+     "slug": "adrian-lester",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xyRB9aykTFtI42Ce8xFKZDCsHYd.jpg"
+    },
+    {
+     "name": "Chaneil Kular",
+     "character": "Kameron Campallo",
+     "slug": "chaneil-kular",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b6TmM2wcVntDMJGZWQM3ftshhIi.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jean-François Richet",
+       "slug": "jean-francois-richet"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Lindsay Michel",
+       "slug": "lindsay-michel"
+      },
+      {
+       "name": "J.P. Davis",
+       "slug": "j-p-davis"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Marcus Trumpp",
+       "slug": "marcus-trumpp"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Brendan Galvin",
+       "slug": "brendan-galvin"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "David Rosenbloom",
+       "slug": "david-rosenbloom"
+      },
+      {
+       "name": "Joe Rosenbloom",
+       "slug": "joe-rosenbloom"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jason Statham",
+       "slug": "jason-statham"
+      },
+      {
+       "name": "Marc Butan",
+       "slug": "marc-butan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Punch Palace Productions",
+     "slug": "punch-palace-productions",
+     "logo": null
+    },
+    {
+     "name": "MadRiver Pictures",
+     "slug": "madriver-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/bQzrYnomE5hIRJMxEy7e2SCYew3.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-08-21": [
+     {
+      "id": 1234,
+      "title": "Bethlehem Kudumba Unit",
+      "img": "https://image.tmdb.org/t/p/original/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg"
+     },
+     {
+      "id": 1235,
+      "title": "Insidious: Out of the Further",
+      "img": "https://image.tmdb.org/t/p/original/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
+     },
+     {
+      "id": 1237,
+      "title": "PAW Patrol: The Dino Movie",
+      "img": "https://image.tmdb.org/t/p/original/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-08-21",
+     "gross": 26930,
+     "sold": 103,
+     "unsold": 310,
+     "shows": 3,
+     "occ": 24.94,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 26930,
+     "lastUpdatedAt": "2026-08-21 23:28:01"
+    },
+    {
+     "label": "2026-08-22",
+     "gross": 17780,
+     "sold": 72,
+     "unsold": 339,
+     "shows": 3,
+     "occ": 17.52,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 44710,
+     "lastUpdatedAt": "2026-08-22 23:28:01"
+    },
+    {
+     "label": "2026-08-23",
+     "gross": 33570,
+     "sold": 135,
+     "unsold": 280,
+     "shows": 3,
+     "occ": 32.53,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 78280,
+     "lastUpdatedAt": "2026-08-23 23:28:01"
+    },
+    {
+     "label": "2026-08-24",
+     "gross": 447,
+     "sold": 3,
+     "unsold": 104,
+     "shows": 1,
+     "occ": 2.8,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 78727,
+     "lastUpdatedAt": "2026-08-24 10:58:02"
+    },
+    {
+     "label": "2026-08-25",
+     "gross": 1937,
+     "sold": 13,
+     "unsold": 94,
+     "shows": 1,
+     "occ": 12.15,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 80664,
+     "lastUpdatedAt": "2026-08-25 10:58:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 80664,
+    "totalShows": 11,
+    "totalSeats": 1453,
+    "totalSold": 326,
+    "avgOcc": "22.4",
+    "totalDays": 5,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 3,
+     "gross": 33570,
+     "date": "2026-08-23"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 26930,
+     "date": "2026-08-21"
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "5:1937:80664"
+  },
+  "week": {
+   "movie": {
+    "id": 1241,
+    "title": "Mutiny",
+    "img": "https://image.tmdb.org/t/p/original/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
+    "released": "2026-08-21",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32338669",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "95 min",
+    "genre": "Action, Thriller",
+    "plot": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+    "released": "2026-08-19",
+    "director": "Jean-François Richet",
+    "directorSlug": "jean-francois-richet",
+    "actors": [
+     "Jason Statham",
+     "Annabelle Wallis",
+     "Roland Møller",
+     "Ramon Tikaram",
+     "Arnas Fedaravičius",
+     "Jason Wong"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 22383,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 715,
+      "updatedAt": "2026-09-30T16:10:13.000Z"
+     },
+     "rt": "50%",
+     "metascore": 52,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jason Statham",
+     "character": "Cole Reed",
+     "slug": "jason-statham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg"
+    },
+    {
+     "name": "Annabelle Wallis",
+     "character": "Angie Ellis",
+     "slug": "annabelle-wallis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2ZmO2Zz9TcR0rmSJHOkivcu0heR.jpg"
+    },
+    {
+     "name": "Roland Møller",
+     "character": "Captain Marko Madsen",
+     "slug": "roland-m-ller",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bF7wrJ5mrIhSwyi6ylhyQWj9BoN.jpg"
+    },
+    {
+     "name": "Ramon Tikaram",
+     "character": "Tibu Campallo",
+     "slug": "ramon-tikaram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wtBLiI8tzeqPLMB9uswkyFhChva.jpg"
+    },
+    {
+     "name": "Arnas Fedaravičius",
+     "character": "Mateo Pineda",
+     "slug": "arnas-fedaravicius",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7WfcGugvkuPqEzu0cUJBeJPt1lD.jpg"
+    },
+    {
+     "name": "Jason Wong",
+     "character": "Taran",
+     "slug": "jason-wong",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tt3D1PAoB8Yf4jPCovnhlP4pvL3.jpg"
+    },
+    {
+     "name": "Adrian Lester",
+     "character": "Captain Adam Spencer",
+     "slug": "adrian-lester",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xyRB9aykTFtI42Ce8xFKZDCsHYd.jpg"
+    },
+    {
+     "name": "Chaneil Kular",
+     "character": "Kameron Campallo",
+     "slug": "chaneil-kular",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b6TmM2wcVntDMJGZWQM3ftshhIi.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jean-François Richet",
+       "slug": "jean-francois-richet"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Lindsay Michel",
+       "slug": "lindsay-michel"
+      },
+      {
+       "name": "J.P. Davis",
+       "slug": "j-p-davis"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Marcus Trumpp",
+       "slug": "marcus-trumpp"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Brendan Galvin",
+       "slug": "brendan-galvin"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "David Rosenbloom",
+       "slug": "david-rosenbloom"
+      },
+      {
+       "name": "Joe Rosenbloom",
+       "slug": "joe-rosenbloom"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jason Statham",
+       "slug": "jason-statham"
+      },
+      {
+       "name": "Marc Butan",
+       "slug": "marc-butan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Punch Palace Productions",
+     "slug": "punch-palace-productions",
+     "logo": null
+    },
+    {
+     "name": "MadRiver Pictures",
+     "slug": "madriver-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/bQzrYnomE5hIRJMxEy7e2SCYew3.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-08-21": [
+     {
+      "id": 1234,
+      "title": "Bethlehem Kudumba Unit",
+      "img": "https://image.tmdb.org/t/p/original/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg"
+     },
+     {
+      "id": 1235,
+      "title": "Insidious: Out of the Further",
+      "img": "https://image.tmdb.org/t/p/original/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
+     },
+     {
+      "id": 1237,
+      "title": "PAW Patrol: The Dino Movie",
+      "img": "https://image.tmdb.org/t/p/original/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-08-21",
+     "gross": 80664,
+     "sold": 326,
+     "unsold": 1127,
+     "shows": 11,
+     "occ": 22.44,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 80664,
+     "lastUpdatedAt": "2026-08-25 10:58:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 80664,
+    "totalShows": 11,
+    "totalSeats": 1453,
+    "totalSold": 326,
+    "avgOcc": "22.4",
+    "totalDays": 1,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 80664
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 80664
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "1:80664:80664"
+  },
+  "district": {
+   "movie": {
+    "id": 1241,
+    "title": "Mutiny",
+    "img": "https://image.tmdb.org/t/p/original/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
+    "released": "2026-08-21",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32338669",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "95 min",
+    "genre": "Action, Thriller",
+    "plot": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+    "released": "2026-08-19",
+    "director": "Jean-François Richet",
+    "directorSlug": "jean-francois-richet",
+    "actors": [
+     "Jason Statham",
+     "Annabelle Wallis",
+     "Roland Møller",
+     "Ramon Tikaram",
+     "Arnas Fedaravičius",
+     "Jason Wong"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 22383,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 715,
+      "updatedAt": "2026-09-30T16:10:13.000Z"
+     },
+     "rt": "50%",
+     "metascore": 52,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jason Statham",
+     "character": "Cole Reed",
+     "slug": "jason-statham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg"
+    },
+    {
+     "name": "Annabelle Wallis",
+     "character": "Angie Ellis",
+     "slug": "annabelle-wallis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2ZmO2Zz9TcR0rmSJHOkivcu0heR.jpg"
+    },
+    {
+     "name": "Roland Møller",
+     "character": "Captain Marko Madsen",
+     "slug": "roland-m-ller",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bF7wrJ5mrIhSwyi6ylhyQWj9BoN.jpg"
+    },
+    {
+     "name": "Ramon Tikaram",
+     "character": "Tibu Campallo",
+     "slug": "ramon-tikaram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wtBLiI8tzeqPLMB9uswkyFhChva.jpg"
+    },
+    {
+     "name": "Arnas Fedaravičius",
+     "character": "Mateo Pineda",
+     "slug": "arnas-fedaravicius",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7WfcGugvkuPqEzu0cUJBeJPt1lD.jpg"
+    },
+    {
+     "name": "Jason Wong",
+     "character": "Taran",
+     "slug": "jason-wong",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tt3D1PAoB8Yf4jPCovnhlP4pvL3.jpg"
+    },
+    {
+     "name": "Adrian Lester",
+     "character": "Captain Adam Spencer",
+     "slug": "adrian-lester",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xyRB9aykTFtI42Ce8xFKZDCsHYd.jpg"
+    },
+    {
+     "name": "Chaneil Kular",
+     "character": "Kameron Campallo",
+     "slug": "chaneil-kular",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b6TmM2wcVntDMJGZWQM3ftshhIi.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jean-François Richet",
+       "slug": "jean-francois-richet"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Lindsay Michel",
+       "slug": "lindsay-michel"
+      },
+      {
+       "name": "J.P. Davis",
+       "slug": "j-p-davis"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Marcus Trumpp",
+       "slug": "marcus-trumpp"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Brendan Galvin",
+       "slug": "brendan-galvin"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "David Rosenbloom",
+       "slug": "david-rosenbloom"
+      },
+      {
+       "name": "Joe Rosenbloom",
+       "slug": "joe-rosenbloom"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jason Statham",
+       "slug": "jason-statham"
+      },
+      {
+       "name": "Marc Butan",
+       "slug": "marc-butan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Punch Palace Productions",
+     "slug": "punch-palace-productions",
+     "logo": null
+    },
+    {
+     "name": "MadRiver Pictures",
+     "slug": "madriver-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/bQzrYnomE5hIRJMxEy7e2SCYew3.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-08-21": [
+     {
+      "id": 1234,
+      "title": "Bethlehem Kudumba Unit",
+      "img": "https://image.tmdb.org/t/p/original/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg"
+     },
+     {
+      "id": 1235,
+      "title": "Insidious: Out of the Further",
+      "img": "https://image.tmdb.org/t/p/original/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
+     },
+     {
+      "id": 1237,
+      "title": "PAW Patrol: The Dino Movie",
+      "img": "https://image.tmdb.org/t/p/original/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 53214,
+     "sold": 220,
+     "unsold": 931,
+     "shows": 8,
+     "occ": 19.11,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 53214,
+     "lastUpdatedAt": "2026-08-25 10:58:01"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 27450,
+     "sold": 106,
+     "unsold": 196,
+     "shows": 3,
+     "occ": 35.1,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 80664,
+     "lastUpdatedAt": "2026-08-23 20:03:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 80664,
+    "totalShows": 11,
+    "totalSeats": 1453,
+    "totalSold": 326,
+    "avgOcc": "22.4",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 53214,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 53214,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "2:27450:80664"
+  }
+ }
+}

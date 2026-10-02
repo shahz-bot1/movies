@@ -1,0 +1,341 @@
+{
+ "id": 45,
+ "slug": "thambi",
+ "source_url": "https://fridaymatinee.in/boxoffice/thambi-45",
+ "captured_at": "2026-10-01T17:58:43.241569+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 45,
+    "title": "Thambi",
+    "img": "https://image.tmdb.org/t/p/original/fAEziBYH3XwLmFwjZC4fDk77wHp.jpg",
+    "released": "2019-12-20",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10468636",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "150 min",
+    "genre": "Thriller, Action",
+    "plot": "Brother and sister who get separated and reunite years later when the brother has grown to be a criminal.",
+    "released": "2019-12-19",
+    "director": "Jeethu Joseph",
+    "directorSlug": "jeethu-joseph",
+    "actors": [
+     "Karthi",
+     "Jyothika",
+     "Sathyaraj",
+     "Nikhila Vimal",
+     "Ammu Abhirami",
+     "Sowcar Janaki"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 3061,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Karthi",
+     "character": "Vicky (Saravanan)",
+     "slug": "karthi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/npZUMAZBru1wgFefkv5kS3Ezl1z.jpg"
+    },
+    {
+     "name": "Jyothika",
+     "character": "Parvathy",
+     "slug": "jyothika",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9rcFS99kwlSiQdY5Iv9YctJKh1F.jpg"
+    },
+    {
+     "name": "Sathyaraj",
+     "character": "Gnanamoorthy",
+     "slug": "sathyaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+    },
+    {
+     "name": "Nikhila Vimal",
+     "character": "Sanjana",
+     "slug": "nikhila-vimal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rhj9mUuZ5yiORTKbampS9LEMShi.jpg"
+    },
+    {
+     "name": "Ammu Abhirami",
+     "character": "Young Parvathy",
+     "slug": "ammu-abhirami",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6PV6Hf4p9urqlzLTmxvaovfhel4.jpg"
+    },
+    {
+     "name": "Sowcar Janaki",
+     "character": "Grandmother",
+     "slug": "sowcar-janaki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7gNfdjAXaksI2ozyvzlVUnqImjf.jpg"
+    },
+    {
+     "name": "Seetha",
+     "character": "Padma",
+     "slug": "seetha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gMIqg8c4gnP9mO40rCW7Sc0ei8D.jpg"
+    },
+    {
+     "name": "Ilavarasu",
+     "character": "Jeevanand",
+     "slug": "ilavarasu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWCREhajMvlOE49g79zyvwdpf5E.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      },
+      {
+       "name": "Manikandan",
+       "slug": "manikandan"
+      },
+      {
+       "name": "Renzil D'Silva",
+       "slug": "renzil-d-silva"
+      },
+      {
+       "name": "Sameer Arora",
+       "slug": "sameer-arora"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Govindh Vasantha",
+       "slug": "govindh-vasantha"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "R. D. Rajasekhar",
+       "slug": "r-d-rajasekhar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "V S Vinayak",
+       "slug": "v-s-vinayak"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Viacom18 Studios",
+     "slug": "viacom18-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/xa1Yz7B5eRC2F9oHA6mDn8NE6ci.png"
+    },
+    {
+     "name": "Parallel Minds Productions",
+     "slug": "parallel-minds-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1632414,
+    "totalShows": 216,
+    "totalDays": 21,
+    "openingDay": {
+     "day": 1,
+     "gross": 192352,
+     "date": "2019-12-20"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 229189,
+     "date": "2019-12-22"
+    },
+    "chartPosition": {
+     "current_position": 98,
+     "weeks_on_chart": 0,
+     "peak_position": 29,
+     "last_week_position": 97
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-12-20"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 45,
+    "title": "Thambi",
+    "img": "https://image.tmdb.org/t/p/original/fAEziBYH3XwLmFwjZC4fDk77wHp.jpg",
+    "released": "2019-12-20",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10468636",
+    "isRerelease": false
+   },
+   "omdb": "$e:1:props:allViews:date:omdb",
+   "cast": "$e:1:props:allViews:date:cast",
+   "crew": "$e:1:props:allViews:date:crew",
+   "companies": "$e:1:props:allViews:date:companies",
+   "ott": "$e:1:props:allViews:date:ott",
+   "boxoffice": [
+    {
+     "label": "2019-12-20",
+     "gross": 1064131,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 150,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-12-27",
+     "gross": 397968,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 37,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2020-01-03",
+     "gross": 170315,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 29,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1632414,
+    "totalShows": 216,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 1064131,
+     "date": "$undefined"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1064131,
+     "date": "$undefined"
+    },
+    "chartPosition": "$e:1:props:allViews:date:summary:chartPosition"
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-12-20"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 45,
+    "title": "Thambi",
+    "img": "https://image.tmdb.org/t/p/original/fAEziBYH3XwLmFwjZC4fDk77wHp.jpg",
+    "released": "2019-12-20",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10468636",
+    "isRerelease": false
+   },
+   "omdb": "$e:1:props:allViews:date:omdb",
+   "cast": "$e:1:props:allViews:date:cast",
+   "crew": "$e:1:props:allViews:date:crew",
+   "companies": "$e:1:props:allViews:date:companies",
+   "ott": "$e:1:props:allViews:date:ott",
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1632414,
+    "totalShows": 216,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 859288,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 859288,
+     "date": "Ernakulam"
+    },
+    "chartPosition": "$e:1:props:allViews:date:summary:chartPosition"
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-12-20"
+   }
+  }
+ }
+}

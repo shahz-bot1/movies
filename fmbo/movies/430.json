@@ -1,0 +1,721 @@
+{
+ "id": 430,
+ "slug": "leo",
+ "source_url": "https://fridaymatinee.in/boxoffice/leo-430",
+ "captured_at": "2026-10-01T18:12:07.262901+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 430,
+    "title": "Leo",
+    "img": "https://image.tmdb.org/t/p/original/qT2xJtJ7Jza5gC4RSiEXWrztZHo.jpg",
+    "released": "2023-10-19",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15654328",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "TV-MA",
+    "runtime": "163 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "Parthiban, a cafe owner, lives with his family in Himachal Pradesh. Things take an absurd turn for him when he gets in the way of a drug cartel.",
+    "released": "2023-10-18",
+    "director": "Lokesh Kanagaraj",
+    "directorSlug": "lokesh-kanagaraj",
+    "actors": [
+     "Vijay",
+     "Sanjay Dutt",
+     "Arjun Sarja",
+     "Trisha Krishnan",
+     "Gautham Vasudev Menon",
+     "Baby Iyal"
+    ],
+    "awards": "1 win u0026 11 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 75117,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 148,
+      "updatedAt": "2026-09-24T22:10:09.000Z"
+     },
+     "rt": "82%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vijay",
+     "character": "Parthiban / Leo Das",
+     "slug": "joseph-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y7UJa3TT9GTe8nXW0rLkNYeLiDu.jpg"
+    },
+    {
+     "name": "Sanjay Dutt",
+     "character": "Antony Das",
+     "slug": "sanjay-dutt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg"
+    },
+    {
+     "name": "Arjun Sarja",
+     "character": "Harold Das",
+     "slug": "arjun-sarja",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fQ0yTvyDdykFxfHNYKNfRKzlCyz.jpg"
+    },
+    {
+     "name": "Trisha Krishnan",
+     "character": "Sathya",
+     "slug": "trisha-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sirse7oOd1ACEEQBVF4PHJHPUup.jpg"
+    },
+    {
+     "name": "Gautham Vasudev Menon",
+     "character": "Joshy Andrews",
+     "slug": "gautham-vasudev-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+     "name": "Baby Iyal",
+     "character": "Mathi \"Chintu\"",
+     "slug": "baby-iyal",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Mathew Thomas",
+     "character": "Siddharth 'Siddhu'",
+     "slug": "mathew-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tynqqZ6LXz6TCDUWMG0xR4pNDkw.jpg"
+    },
+    {
+     "name": "George Mariyan",
+     "character": "Napoleon",
+     "slug": "george-mariyan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/izpHGWpHeMeOV7mXlhF19Hu7IER.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Lokesh Kanagaraj",
+       "slug": "lokesh-kanagaraj"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Lokesh Kanagaraj",
+       "slug": "lokesh-kanagaraj"
+      },
+      {
+       "name": "Rathna Kumar",
+       "slug": "rathna-kumar"
+      },
+      {
+       "name": "Deeraj Vaidy",
+       "slug": "deeraj-vaidy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Manoj Paramahamsa",
+       "slug": "manoj-paramahamsa"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Philomin Raj",
+       "slug": "philomin-raj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Lalit Kumar",
+       "slug": "lalit-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Seven Screen Studios",
+     "slug": "seven-screen-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/f2fgAWy1lj4fXbxUAjVSmW9oLTV.png"
+    },
+    {
+     "name": "The Route",
+     "slug": "the-route",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-11-24",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 474015233.83,
+    "totalShows": 26390,
+    "totalDays": 36,
+    "openingDay": {
+     "day": 1,
+     "gross": 96649446.24000002,
+     "date": "2023-10-19"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 96649446.24000002,
+     "date": "2023-10-19"
+    },
+    "chartPosition": {
+     "current_position": 16,
+     "weeks_on_chart": 97,
+     "peak_position": 3,
+     "last_week_position": 16
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-10-19"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 430,
+    "title": "Leo",
+    "img": "https://image.tmdb.org/t/p/original/qT2xJtJ7Jza5gC4RSiEXWrztZHo.jpg",
+    "released": "2023-10-19",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15654328",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "TV-MA",
+    "runtime": "163 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "Parthiban, a cafe owner, lives with his family in Himachal Pradesh. Things take an absurd turn for him when he gets in the way of a drug cartel.",
+    "released": "2023-10-18",
+    "director": "Lokesh Kanagaraj",
+    "directorSlug": "lokesh-kanagaraj",
+    "actors": [
+     "Vijay",
+     "Sanjay Dutt",
+     "Arjun Sarja",
+     "Trisha Krishnan",
+     "Gautham Vasudev Menon",
+     "Baby Iyal"
+    ],
+    "awards": "1 win u0026 11 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 75117,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 148,
+      "updatedAt": "2026-09-24T22:10:09.000Z"
+     },
+     "rt": "82%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vijay",
+     "character": "Parthiban / Leo Das",
+     "slug": "joseph-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y7UJa3TT9GTe8nXW0rLkNYeLiDu.jpg"
+    },
+    {
+     "name": "Sanjay Dutt",
+     "character": "Antony Das",
+     "slug": "sanjay-dutt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg"
+    },
+    {
+     "name": "Arjun Sarja",
+     "character": "Harold Das",
+     "slug": "arjun-sarja",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fQ0yTvyDdykFxfHNYKNfRKzlCyz.jpg"
+    },
+    {
+     "name": "Trisha Krishnan",
+     "character": "Sathya",
+     "slug": "trisha-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sirse7oOd1ACEEQBVF4PHJHPUup.jpg"
+    },
+    {
+     "name": "Gautham Vasudev Menon",
+     "character": "Joshy Andrews",
+     "slug": "gautham-vasudev-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+     "name": "Baby Iyal",
+     "character": "Mathi \"Chintu\"",
+     "slug": "baby-iyal",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Mathew Thomas",
+     "character": "Siddharth 'Siddhu'",
+     "slug": "mathew-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tynqqZ6LXz6TCDUWMG0xR4pNDkw.jpg"
+    },
+    {
+     "name": "George Mariyan",
+     "character": "Napoleon",
+     "slug": "george-mariyan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/izpHGWpHeMeOV7mXlhF19Hu7IER.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Lokesh Kanagaraj",
+       "slug": "lokesh-kanagaraj"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Lokesh Kanagaraj",
+       "slug": "lokesh-kanagaraj"
+      },
+      {
+       "name": "Rathna Kumar",
+       "slug": "rathna-kumar"
+      },
+      {
+       "name": "Deeraj Vaidy",
+       "slug": "deeraj-vaidy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Manoj Paramahamsa",
+       "slug": "manoj-paramahamsa"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Philomin Raj",
+       "slug": "philomin-raj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Lalit Kumar",
+       "slug": "lalit-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Seven Screen Studios",
+     "slug": "seven-screen-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/f2fgAWy1lj4fXbxUAjVSmW9oLTV.png"
+    },
+    {
+     "name": "The Route",
+     "slug": "the-route",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-11-24",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-10-19",
+     "gross": 386586334.7400001,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 14412,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-10-26",
+     "gross": 67467073.46,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 7189,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-11-02",
+     "gross": 17111147.650000006,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4137,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-11-09",
+     "gross": 2495772.98,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 584,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-11-16",
+     "gross": 337275,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 63,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-11-23",
+     "gross": 17630,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 474015233.83000016,
+    "totalShows": 26390,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 386586334.7400001
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 386586334.7400001
+    },
+    "chartPosition": {
+     "current_position": 16,
+     "weeks_on_chart": 97,
+     "peak_position": 3,
+     "last_week_position": 16
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-10-19"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 430,
+    "title": "Leo",
+    "img": "https://image.tmdb.org/t/p/original/qT2xJtJ7Jza5gC4RSiEXWrztZHo.jpg",
+    "released": "2023-10-19",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15654328",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "TV-MA",
+    "runtime": "163 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "Parthiban, a cafe owner, lives with his family in Himachal Pradesh. Things take an absurd turn for him when he gets in the way of a drug cartel.",
+    "released": "2023-10-18",
+    "director": "Lokesh Kanagaraj",
+    "directorSlug": "lokesh-kanagaraj",
+    "actors": [
+     "Vijay",
+     "Sanjay Dutt",
+     "Arjun Sarja",
+     "Trisha Krishnan",
+     "Gautham Vasudev Menon",
+     "Baby Iyal"
+    ],
+    "awards": "1 win u0026 11 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 75117,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 148,
+      "updatedAt": "2026-09-24T22:10:09.000Z"
+     },
+     "rt": "82%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vijay",
+     "character": "Parthiban / Leo Das",
+     "slug": "joseph-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y7UJa3TT9GTe8nXW0rLkNYeLiDu.jpg"
+    },
+    {
+     "name": "Sanjay Dutt",
+     "character": "Antony Das",
+     "slug": "sanjay-dutt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg"
+    },
+    {
+     "name": "Arjun Sarja",
+     "character": "Harold Das",
+     "slug": "arjun-sarja",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fQ0yTvyDdykFxfHNYKNfRKzlCyz.jpg"
+    },
+    {
+     "name": "Trisha Krishnan",
+     "character": "Sathya",
+     "slug": "trisha-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sirse7oOd1ACEEQBVF4PHJHPUup.jpg"
+    },
+    {
+     "name": "Gautham Vasudev Menon",
+     "character": "Joshy Andrews",
+     "slug": "gautham-vasudev-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+     "name": "Baby Iyal",
+     "character": "Mathi \"Chintu\"",
+     "slug": "baby-iyal",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Mathew Thomas",
+     "character": "Siddharth 'Siddhu'",
+     "slug": "mathew-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tynqqZ6LXz6TCDUWMG0xR4pNDkw.jpg"
+    },
+    {
+     "name": "George Mariyan",
+     "character": "Napoleon",
+     "slug": "george-mariyan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/izpHGWpHeMeOV7mXlhF19Hu7IER.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Lokesh Kanagaraj",
+       "slug": "lokesh-kanagaraj"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Lokesh Kanagaraj",
+       "slug": "lokesh-kanagaraj"
+      },
+      {
+       "name": "Rathna Kumar",
+       "slug": "rathna-kumar"
+      },
+      {
+       "name": "Deeraj Vaidy",
+       "slug": "deeraj-vaidy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Manoj Paramahamsa",
+       "slug": "manoj-paramahamsa"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Philomin Raj",
+       "slug": "philomin-raj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Lalit Kumar",
+       "slug": "lalit-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Seven Screen Studios",
+     "slug": "seven-screen-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/f2fgAWy1lj4fXbxUAjVSmW9oLTV.png"
+    },
+    {
+     "name": "The Route",
+     "slug": "the-route",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-11-24",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 474015233.8299999,
+    "totalShows": 26390,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 91452601,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 91452601,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 16,
+     "weeks_on_chart": 97,
+     "peak_position": 3,
+     "last_week_position": 16
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-10-19"
+   }
+  }
+ }
+}

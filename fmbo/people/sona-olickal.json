@@ -1,0 +1,41 @@
+{
+ "slug": "sona-olickal",
+ "name": "Sona Olickal",
+ "source_url": "https://fridaymatinee.in/people/sona-olickal",
+ "captured_at": "2026-10-02T10:49:48.417609+00:00",
+ "person": {
+  "name": "Sona Olickal",
+  "photo": "https://image.tmdb.org/t/p/w185/mGhYDGxJRPIwjZJrdGQGS7AFA3p.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 263,
+   "movie_slug": "oh-meri-laila",
+   "title": "Oh Meri Laila",
+   "year": 2022,
+   "kerala_gross": "₹22.0L"
+  },
+  {
+   "movie_id": 606,
+   "movie_slug": "parakramam",
+   "title": "Parakramam",
+   "year": 2024,
+   "kerala_gross": "₹22.4L"
+  },
+  {
+   "movie_id": 1255,
+   "movie_slug": "once-more",
+   "title": "Once More",
+   "year": 2026,
+   "kerala_gross": "₹2.8L"
+  }
+ ]
+}

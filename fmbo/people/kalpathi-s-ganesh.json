@@ -1,0 +1,48 @@
+{
+ "slug": "kalpathi-s-ganesh",
+ "name": "Kalpathi S Ganesh",
+ "source_url": "https://fridaymatinee.in/people/kalpathi-s-ganesh",
+ "captured_at": "2026-10-01T23:37:35.508224+00:00",
+ "person": {
+  "name": "Kalpathi S Ganesh",
+  "photo": "https://image.tmdb.org/t/p/w185/gtLkHGHj7omQReR4sBuEsFDgtAc.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 18,
+   "movie_slug": "bigil",
+   "title": "Bigil",
+   "year": 2019,
+   "kerala_gross": "₹5.4 Cr"
+  },
+  {
+   "movie_id": 560,
+   "movie_slug": "the-greatest-of-all-time",
+   "title": "The Greatest Of All Time",
+   "year": 2024,
+   "kerala_gross": "₹10.6 Cr"
+  },
+  {
+   "movie_id": 658,
+   "movie_slug": "dragon",
+   "title": "Dragon",
+   "year": 2025,
+   "kerala_gross": "₹3.1 Cr"
+  },
+  {
+   "movie_id": 1122,
+   "movie_slug": "blast",
+   "title": "Blast",
+   "year": 2026,
+   "kerala_gross": "₹13.0 Cr"
+  }
+ ]
+}

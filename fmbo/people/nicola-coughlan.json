@@ -1,0 +1,41 @@
+{
+ "slug": "nicola-coughlan",
+ "name": "Nicola Coughlan",
+ "source_url": "https://fridaymatinee.in/people/nicola-coughlan",
+ "captured_at": "2026-10-02T00:59:53.362144+00:00",
+ "person": {
+  "name": "Nicola Coughlan",
+  "photo": "https://image.tmdb.org/t/p/w185/bhbFv73vlUM0hXlDdAGDrBBb40x.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 412,
+   "movie_slug": "barbie",
+   "title": "Barbie",
+   "year": 2023,
+   "kerala_gross": "₹75.5L"
+  },
+  {
+   "movie_id": 1013,
+   "movie_slug": "goat",
+   "title": "GOAT",
+   "year": 2026,
+   "kerala_gross": "₹5.9L"
+  },
+  {
+   "movie_id": 1263,
+   "movie_slug": "the-magic-faraway-tree",
+   "title": "The Magic Faraway Tree",
+   "year": 2026,
+   "kerala_gross": "₹1.4L"
+  }
+ ]
+}

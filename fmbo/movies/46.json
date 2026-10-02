@@ -1,0 +1,670 @@
+{
+ "id": 46,
+ "slug": "prathi-poovankozhi",
+ "source_url": "https://fridaymatinee.in/boxoffice/prathi-poovankozhi-46",
+ "captured_at": "2026-10-01T17:58:45.755048+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 46,
+    "title": "Prathi Poovankozhi",
+    "img": "https://image.tmdb.org/t/p/original/d8JgG1TyenE5e02IyQM1AYUmzZi.jpg",
+    "released": "2019-12-20",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11312700",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "102 min",
+    "genre": "Drama",
+    "plot": "Madhuri is assaulted on a bus one day and won't rest till she hits back at the man",
+    "released": "2019-12-20",
+    "director": "Rosshan Andrrews",
+    "directorSlug": "rosshan-andrrews",
+    "actors": [
+     "Manju Warrier",
+     "Anusree Nair",
+     "Rosshan Andrrews",
+     "Saiju Kurup",
+     "Grace Antony",
+     "Alencier Ley Lopez"
+    ],
+    "awards": "3 wins",
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 1587,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Manju Warrier",
+     "character": "Madhuri",
+     "slug": "manju-warrier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7u1WgUHnwIW9mtL6aTdo1cRXmCM.jpg"
+    },
+    {
+     "name": "Anusree Nair",
+     "character": "Rosamma",
+     "slug": "anusree-nair",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gI1mBmAa3IPVqn1CSej0IEiPIws.jpg"
+    },
+    {
+     "name": "Rosshan Andrrews",
+     "character": "Antappan",
+     "slug": "rosshan-andrrews",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qwrfzBIklJ48E7aMgF49E4iqVXO.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Sub-Inspector",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Grace Antony",
+     "character": "Sheeba",
+     "slug": "grace-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1U4oORhpX4gQnjooOBVfwsyVW9g.jpg"
+    },
+    {
+     "name": "Alencier Ley Lopez",
+     "character": "Gopi",
+     "slug": "alencier-ley-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWammRTzSJiyK9TROHWkoM9AqzS.jpg"
+    },
+    {
+     "name": "Boban Alummoodan",
+     "character": null,
+     "slug": "boban-alummoodan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Cj4EVyDQVOgZtcRtqJqtDLMw1Y.jpg"
+    },
+    {
+     "name": "Sekhar Menon",
+     "character": null,
+     "slug": "sekhar-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z7AZ5bYRRoKsAerEIOGcoHuSLPq.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rosshan Andrrews",
+       "slug": "rosshan-andrrews"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Unni R.",
+       "slug": "unni-r"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "G Balamurugan",
+       "slug": "g-balamurugan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreekar Prasad",
+       "slug": "sreekar-prasad"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Gokulam Gopalan",
+       "slug": "gokulam-gopalan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sree Gokulam Movies",
+     "slug": "sree-gokulam-movies",
+     "logo": "https://image.tmdb.org/t/p/w185/aveCRL8JTDHiH8gZWUafwO74WuK.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 27262439,
+    "totalShows": 2827,
+    "totalDays": 42,
+    "openingDay": {
+     "day": 1,
+     "gross": 1180500,
+     "date": "2019-12-20"
+    },
+    "peakDay": {
+     "day": 6,
+     "gross": 2248984,
+     "date": "2019-12-25"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 7,
+     "peak_position": 7,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-12-20"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 46,
+    "title": "Prathi Poovankozhi",
+    "img": "https://image.tmdb.org/t/p/original/d8JgG1TyenE5e02IyQM1AYUmzZi.jpg",
+    "released": "2019-12-20",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11312700",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "102 min",
+    "genre": "Drama",
+    "plot": "Madhuri is assaulted on a bus one day and won't rest till she hits back at the man",
+    "released": "2019-12-20",
+    "director": "Rosshan Andrrews",
+    "directorSlug": "rosshan-andrrews",
+    "actors": [
+     "Manju Warrier",
+     "Anusree Nair",
+     "Rosshan Andrrews",
+     "Saiju Kurup",
+     "Grace Antony",
+     "Alencier Ley Lopez"
+    ],
+    "awards": "3 wins",
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 1587,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Manju Warrier",
+     "character": "Madhuri",
+     "slug": "manju-warrier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7u1WgUHnwIW9mtL6aTdo1cRXmCM.jpg"
+    },
+    {
+     "name": "Anusree Nair",
+     "character": "Rosamma",
+     "slug": "anusree-nair",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gI1mBmAa3IPVqn1CSej0IEiPIws.jpg"
+    },
+    {
+     "name": "Rosshan Andrrews",
+     "character": "Antappan",
+     "slug": "rosshan-andrrews",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qwrfzBIklJ48E7aMgF49E4iqVXO.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Sub-Inspector",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Grace Antony",
+     "character": "Sheeba",
+     "slug": "grace-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1U4oORhpX4gQnjooOBVfwsyVW9g.jpg"
+    },
+    {
+     "name": "Alencier Ley Lopez",
+     "character": "Gopi",
+     "slug": "alencier-ley-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWammRTzSJiyK9TROHWkoM9AqzS.jpg"
+    },
+    {
+     "name": "Boban Alummoodan",
+     "character": null,
+     "slug": "boban-alummoodan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Cj4EVyDQVOgZtcRtqJqtDLMw1Y.jpg"
+    },
+    {
+     "name": "Sekhar Menon",
+     "character": null,
+     "slug": "sekhar-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z7AZ5bYRRoKsAerEIOGcoHuSLPq.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rosshan Andrrews",
+       "slug": "rosshan-andrrews"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Unni R.",
+       "slug": "unni-r"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "G Balamurugan",
+       "slug": "g-balamurugan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreekar Prasad",
+       "slug": "sreekar-prasad"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Gokulam Gopalan",
+       "slug": "gokulam-gopalan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sree Gokulam Movies",
+     "slug": "sree-gokulam-movies",
+     "logo": "https://image.tmdb.org/t/p/w185/aveCRL8JTDHiH8gZWUafwO74WuK.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2019-12-20",
+     "gross": 11826025,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 980,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-12-27",
+     "gross": 9020426,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 912,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2020-01-03",
+     "gross": 4890460,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 687,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2020-01-10",
+     "gross": 1248132,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 220,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2020-01-17",
+     "gross": 177456,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 21,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2020-01-24",
+     "gross": 99940,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 7,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 27262439,
+    "totalShows": 2827,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 11826025
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 11826025
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 7,
+     "peak_position": 7,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-12-20"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 46,
+    "title": "Prathi Poovankozhi",
+    "img": "https://image.tmdb.org/t/p/original/d8JgG1TyenE5e02IyQM1AYUmzZi.jpg",
+    "released": "2019-12-20",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11312700",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "102 min",
+    "genre": "Drama",
+    "plot": "Madhuri is assaulted on a bus one day and won't rest till she hits back at the man",
+    "released": "2019-12-20",
+    "director": "Rosshan Andrrews",
+    "directorSlug": "rosshan-andrrews",
+    "actors": [
+     "Manju Warrier",
+     "Anusree Nair",
+     "Rosshan Andrrews",
+     "Saiju Kurup",
+     "Grace Antony",
+     "Alencier Ley Lopez"
+    ],
+    "awards": "3 wins",
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 1587,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Manju Warrier",
+     "character": "Madhuri",
+     "slug": "manju-warrier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7u1WgUHnwIW9mtL6aTdo1cRXmCM.jpg"
+    },
+    {
+     "name": "Anusree Nair",
+     "character": "Rosamma",
+     "slug": "anusree-nair",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gI1mBmAa3IPVqn1CSej0IEiPIws.jpg"
+    },
+    {
+     "name": "Rosshan Andrrews",
+     "character": "Antappan",
+     "slug": "rosshan-andrrews",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qwrfzBIklJ48E7aMgF49E4iqVXO.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Sub-Inspector",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Grace Antony",
+     "character": "Sheeba",
+     "slug": "grace-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1U4oORhpX4gQnjooOBVfwsyVW9g.jpg"
+    },
+    {
+     "name": "Alencier Ley Lopez",
+     "character": "Gopi",
+     "slug": "alencier-ley-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWammRTzSJiyK9TROHWkoM9AqzS.jpg"
+    },
+    {
+     "name": "Boban Alummoodan",
+     "character": null,
+     "slug": "boban-alummoodan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Cj4EVyDQVOgZtcRtqJqtDLMw1Y.jpg"
+    },
+    {
+     "name": "Sekhar Menon",
+     "character": null,
+     "slug": "sekhar-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z7AZ5bYRRoKsAerEIOGcoHuSLPq.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rosshan Andrrews",
+       "slug": "rosshan-andrrews"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Unni R.",
+       "slug": "unni-r"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "G Balamurugan",
+       "slug": "g-balamurugan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreekar Prasad",
+       "slug": "sreekar-prasad"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Gokulam Gopalan",
+       "slug": "gokulam-gopalan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sree Gokulam Movies",
+     "slug": "sree-gokulam-movies",
+     "logo": "https://image.tmdb.org/t/p/w185/aveCRL8JTDHiH8gZWUafwO74WuK.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 27262439,
+    "totalShows": 2827,
+    "totalDays": 10,
+    "openingDay": {
+     "day": 1,
+     "gross": 13462767,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 13462767,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 7,
+     "peak_position": 7,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-12-20"
+   }
+  }
+ }
+}

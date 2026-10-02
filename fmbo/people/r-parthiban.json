@@ -1,0 +1,48 @@
+{
+ "slug": "r-parthiban",
+ "name": "R. Parthiban",
+ "source_url": "https://fridaymatinee.in/people/r-parthiban",
+ "captured_at": "2026-10-02T06:35:10.895009+00:00",
+ "person": {
+  "name": "R. Parthiban",
+  "photo": "https://image.tmdb.org/t/p/w185/kmghnL3LAQJaBXsA7yoh8cE2gRd.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 208,
+   "movie_slug": "ponniyin-selvan",
+   "title": "Ponniyin Selvan",
+   "year": 2022,
+   "kerala_gross": "₹17.0 Cr"
+  },
+  {
+   "movie_id": 359,
+   "movie_slug": "ponniyin-selvan-part-2",
+   "title": "Ponniyin Selvan - Part 2",
+   "year": 2023,
+   "kerala_gross": "₹13.2 Cr"
+  },
+  {
+   "movie_id": 854,
+   "movie_slug": "idli-kadai",
+   "title": "Idli Kadai",
+   "year": 2025,
+   "kerala_gross": "₹80.6L"
+  },
+  {
+   "movie_id": 1260,
+   "movie_slug": "pradhama-dhrishtya-kuttakkar",
+   "title": "Pradhama Dhrishtya Kuttakkar",
+   "year": 2026,
+   "kerala_gross": "₹21.2 Cr"
+  }
+ ]
+}

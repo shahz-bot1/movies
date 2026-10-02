@@ -1,0 +1,48 @@
+{
+ "slug": "riyaz-khan",
+ "name": "Riyaz Khan",
+ "source_url": "https://fridaymatinee.in/people/riyaz-khan",
+ "captured_at": "2026-10-02T09:44:29.007685+00:00",
+ "person": {
+  "name": "Riyaz Khan",
+  "photo": "https://image.tmdb.org/t/p/w185/pwl6in6HaayAmiSQjx8Hp3eimw9.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 33,
+   "movie_slug": "jack-daniel",
+   "title": "Jack Daniel ",
+   "year": 2019,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 645,
+   "movie_slug": "painkili",
+   "title": "Painkili",
+   "year": 2025,
+   "kerala_gross": "₹2.9 Cr"
+  },
+  {
+   "movie_id": 802,
+   "movie_slug": "the-case-diary",
+   "title": "The Case Diary",
+   "year": 2025,
+   "kerala_gross": "₹21.5L"
+  },
+  {
+   "movie_id": 1154,
+   "movie_slug": "secret-of-kalinga",
+   "title": "Secret of Kalinga",
+   "year": 2026,
+   "kerala_gross": "₹32.1L"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "slug": "vijay-antony",
+ "name": "Vijay Antony",
+ "source_url": "https://fridaymatinee.in/people/vijay-antony",
+ "captured_at": "2026-10-02T11:43:14.618440+00:00",
+ "person": {
+  "name": "Vijay Antony",
+  "photo": "https://image.tmdb.org/t/p/w185/e8iZK9GFjDAHWKOQGCcfHWuZFxD.jpg",
+  "role": "Producer, actor, music and editor"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  },
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 2
+  },
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 2
+  },
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 836,
+   "movie_slug": "shakthi-thirumagan",
+   "title": "Shakthi Thirumagan",
+   "year": 2025,
+   "kerala_gross": "₹8.8L"
+  },
+  {
+   "movie_id": 1008,
+   "movie_slug": "pookie",
+   "title": "Pookie",
+   "year": 2026,
+   "kerala_gross": "₹4.2L"
+  },
+  {
+   "movie_id": 1164,
+   "movie_slug": "nooru-sami",
+   "title": "Nooru Sami",
+   "year": 2026,
+   "kerala_gross": "₹5.2L"
+  }
+ ]
+}

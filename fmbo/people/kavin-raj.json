@@ -1,0 +1,41 @@
+{
+ "slug": "kavin-raj",
+ "name": "Kavin Raj",
+ "source_url": "https://fridaymatinee.in/people/kavin-raj",
+ "captured_at": "2026-10-01T23:43:18.285167+00:00",
+ "person": {
+  "name": "Kavin Raj",
+  "photo": "https://image.tmdb.org/t/p/w185/85YJoi6JZcX1LQoXKRS43oKucYe.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 826,
+   "movie_slug": "kiss",
+   "title": "Kiss",
+   "year": 2025,
+   "kerala_gross": "₹1.3L"
+  },
+  {
+   "movie_id": 921,
+   "movie_slug": "mask",
+   "title": "Mask",
+   "year": 2025,
+   "kerala_gross": "₹3.6L"
+  },
+  {
+   "movie_id": 1253,
+   "movie_slug": "hi",
+   "title": "Hi!",
+   "year": 2026,
+   "kerala_gross": "₹8.9L"
+  }
+ ]
+}

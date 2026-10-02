@@ -1,0 +1,60 @@
+{
+ "slug": "anne-hathaway",
+ "name": "Anne Hathaway",
+ "source_url": "https://fridaymatinee.in/people/anne-hathaway",
+ "captured_at": "2026-10-01T20:42:58.066167+00:00",
+ "person": {
+  "name": "Anne Hathaway",
+  "photo": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 642,
+   "movie_slug": "interstellar",
+   "title": "Interstellar",
+   "year": 2025,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 1090,
+   "movie_slug": "the-devil-wears-prada-2",
+   "title": "The Devil Wears Prada 2",
+   "year": 2026,
+   "kerala_gross": "₹28.9L"
+  },
+  {
+   "movie_id": 777,
+   "movie_slug": "the-odyssey",
+   "title": "The Odyssey",
+   "year": 2026,
+   "kerala_gross": "₹12.6 Cr"
+  },
+  {
+   "movie_id": 1227,
+   "movie_slug": "the-end-of-oak-street",
+   "title": "The End of Oak Street",
+   "year": 2026,
+   "kerala_gross": "₹22.6L"
+  },
+  {
+   "movie_id": 1310,
+   "movie_slug": "verity",
+   "title": "Verity",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

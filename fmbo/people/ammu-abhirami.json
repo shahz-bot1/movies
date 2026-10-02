@@ -1,0 +1,41 @@
+{
+ "slug": "ammu-abhirami",
+ "name": "Ammu Abhirami",
+ "source_url": "https://fridaymatinee.in/people/ammu-abhirami",
+ "captured_at": "2026-10-01T20:31:11.216755+00:00",
+ "person": {
+  "name": "Ammu Abhirami",
+  "photo": "https://image.tmdb.org/t/p/w185/6PV6Hf4p9urqlzLTmxvaovfhel4.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 45,
+   "movie_slug": "thambi",
+   "title": "Thambi",
+   "year": 2019,
+   "kerala_gross": "₹16.3L"
+  },
+  {
+   "movie_id": 157,
+   "movie_slug": "yaanai",
+   "title": "Yaanai",
+   "year": 2022,
+   "kerala_gross": "₹16.6L"
+  },
+  {
+   "movie_id": 957,
+   "movie_slug": "the-rajasaab",
+   "title": "The Rajasaab",
+   "year": 2026,
+   "kerala_gross": "₹61K"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "pandiarajan",
+ "name": "Pandiarajan",
+ "source_url": "https://fridaymatinee.in/people/pandiarajan",
+ "captured_at": "2026-10-02T01:12:05.043447+00:00",
+ "person": {
+  "name": "Pandiarajan",
+  "photo": "https://image.tmdb.org/t/p/w185/3h5prTq5zNecUqr3Z9dcepypxdy.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 86,
+   "movie_slug": "annaatthe",
+   "title": "Annaatthe",
+   "year": 2021,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 339,
+   "movie_slug": "madraskaaran",
+   "title": "Madraskaaran",
+   "year": 2025,
+   "kerala_gross": "₹1.5L"
+  },
+  {
+   "movie_id": 1008,
+   "movie_slug": "pookie",
+   "title": "Pookie",
+   "year": 2026,
+   "kerala_gross": "₹4.2L"
+  }
+ ]
+}

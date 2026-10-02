@@ -1,0 +1,62 @@
+{
+ "slug": "raghu-babu",
+ "name": "Raghu Babu",
+ "source_url": "https://fridaymatinee.in/people/raghu-babu",
+ "captured_at": "2026-10-02T08:28:30.748580+00:00",
+ "person": {
+  "name": "Raghu Babu",
+  "photo": "https://image.tmdb.org/t/p/w185/9aE6s9wqHgRcBY7wiUfkEZMgJNK.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 53,
+   "movie_slug": "sarileru-neekevvaru",
+   "title": "Sarileru Neekevvaru",
+   "year": 2020,
+   "kerala_gross": "₹7.9L"
+  },
+  {
+   "movie_id": 338,
+   "movie_slug": "desamuduru",
+   "title": "Desamuduru",
+   "year": 2023,
+   "kerala_gross": "₹94K"
+  },
+  {
+   "movie_id": 493,
+   "movie_slug": "guntur-kaaram",
+   "title": "Guntur Kaaram",
+   "year": 2024,
+   "kerala_gross": "₹8.3L"
+  },
+  {
+   "movie_id": 636,
+   "movie_slug": "game-changer",
+   "title": "Game Changer",
+   "year": 2025,
+   "kerala_gross": "₹62.3L"
+  },
+  {
+   "movie_id": 731,
+   "movie_slug": "hari-hara-veera-mallu-part-1-sword-vs-spirit",
+   "title": "Hari Hara Veera Mallu - Part 1 Sword Vs Spirit",
+   "year": 2025,
+   "kerala_gross": "₹20.0L"
+  },
+  {
+   "movie_id": 964,
+   "movie_slug": "mana-shankara-vara-prasad-garu",
+   "title": "Mana Shankara Vara Prasad Garu",
+   "year": 2026,
+   "kerala_gross": "₹9.9L"
+  }
+ ]
+}

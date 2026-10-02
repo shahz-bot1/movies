@@ -1,0 +1,41 @@
+{
+ "slug": "ganesh-menon",
+ "name": "Ganesh Menon",
+ "source_url": "https://fridaymatinee.in/people/ganesh-menon",
+ "captured_at": "2026-10-01T22:25:54.059053+00:00",
+ "person": {
+  "name": "Ganesh Menon",
+  "photo": null,
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 232,
+   "movie_slug": "jaya-jaya-jaya-jaya-hey",
+   "title": "Jaya Jaya Jaya Jaya Hey",
+   "year": 2022,
+   "kerala_gross": "₹21.4 Cr"
+  },
+  {
+   "movie_id": 464,
+   "movie_slug": "falimy",
+   "title": "Falimy",
+   "year": 2023,
+   "kerala_gross": "₹7.9 Cr"
+  },
+  {
+   "movie_id": 713,
+   "movie_slug": "dheeran",
+   "title": "Dheeran",
+   "year": 2025,
+   "kerala_gross": "₹2.4 Cr"
+  }
+ ]
+}

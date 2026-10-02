@@ -1,0 +1,667 @@
+{
+ "id": 574,
+ "slug": "devara-part-1",
+ "source_url": "https://fridaymatinee.in/boxoffice/devara-part-1-574",
+ "captured_at": "2026-10-01T18:16:03.508318+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 574,
+    "title": "Devara - Part 1",
+    "img": "https://image.tmdb.org/t/p/original/8FBhil5ZwTT3PP0l15jyWicoxHQ.jpg",
+    "released": "2024-09-27",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11821912",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "TV-MA",
+    "runtime": "175 min",
+    "genre": "Action, Drama",
+    "plot": "Devara, a fearless man from a coastal region, embarks on a perilous journey into the treacherous world of the sea to safeguard the lives of his people. Unbeknownst to him, his brother Bhaira is plotting a conspiracy against him. As events unfold, Devara passes on his legacy to his mild-mannered and timid son, Varada.",
+    "released": "2024-09-26",
+    "director": "Koratala Siva",
+    "directorSlug": "koratala-siva",
+    "actors": [
+     "N.T. Rama Rao Jr.",
+     "Saif Ali Khan",
+     "Prakash Raj",
+     "Srikanth",
+     "Kalaiyarasan",
+     "Shruti Marathe"
+    ],
+    "awards": "8 wins u0026 10 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 23964,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.8",
+      "votes": 225,
+      "updatedAt": "2026-09-24T19:10:40.000Z"
+     },
+     "rt": "33%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "N.T. Rama Rao Jr.",
+     "character": "Devara / Vara",
+     "slug": "n-t-rama-rao-jr",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5ycQgZ3SPUa12bq0yn1jpToBq9X.jpg"
+    },
+    {
+     "name": "Saif Ali Khan",
+     "character": "Bhaira",
+     "slug": "saif-ali-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg"
+    },
+    {
+     "name": "Prakash Raj",
+     "character": "Singappa",
+     "slug": "prakash-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg"
+    },
+    {
+     "name": "Srikanth",
+     "character": "Rayappa",
+     "slug": "srikanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/o10UQ9zvh9cOAUENybde25yrueV.jpg"
+    },
+    {
+     "name": "Kalaiyarasan",
+     "character": "Kunjara",
+     "slug": "kalaiyarasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4xaAqc7EFfcJXIS23yVJb6vZhLt.jpg"
+    },
+    {
+     "name": "Shruti Marathe",
+     "character": "Devara's Wife",
+     "slug": "shruti-marathe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zv7Fs6VMzckhHlcF27x9Z3WpG7k.jpg"
+    },
+    {
+     "name": "Janhvi Kapoor",
+     "character": "Thangam",
+     "slug": "janhvi-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gzTtKYASxhUUF5DqxqrWW3IT9GC.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Kora",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Koratala Siva",
+       "slug": "koratala-siva"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Koratala Siva",
+       "slug": "koratala-siva"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "R. Ratnavelu",
+       "slug": "r-ratnavelu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreekar Prasad",
+       "slug": "sreekar-prasad"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kosaraju Harikrishna",
+       "slug": "kosaraju-harikrishna"
+      },
+      {
+       "name": "Sudhakar Mikkilineni",
+       "slug": "sudhakar-mikkilineni"
+      },
+      {
+       "name": "Kalyan Ram",
+       "slug": "kalyan-ram"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "N. T. R. Arts",
+     "slug": "n-t-r-arts",
+     "logo": null
+    },
+    {
+     "name": "Yuvasudha Arts",
+     "slug": "yuvasudha-arts",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-11-08",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 17064457.6,
+    "totalShows": 2646,
+    "totalDays": 16,
+    "openingDay": {
+     "day": 1,
+     "gross": 4922391.4,
+     "date": "2024-09-27"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4922391.4,
+     "date": "2024-09-27"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-09-27"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 574,
+    "title": "Devara - Part 1",
+    "img": "https://image.tmdb.org/t/p/original/8FBhil5ZwTT3PP0l15jyWicoxHQ.jpg",
+    "released": "2024-09-27",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11821912",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "TV-MA",
+    "runtime": "175 min",
+    "genre": "Action, Drama",
+    "plot": "Devara, a fearless man from a coastal region, embarks on a perilous journey into the treacherous world of the sea to safeguard the lives of his people. Unbeknownst to him, his brother Bhaira is plotting a conspiracy against him. As events unfold, Devara passes on his legacy to his mild-mannered and timid son, Varada.",
+    "released": "2024-09-26",
+    "director": "Koratala Siva",
+    "directorSlug": "koratala-siva",
+    "actors": [
+     "N.T. Rama Rao Jr.",
+     "Saif Ali Khan",
+     "Prakash Raj",
+     "Srikanth",
+     "Kalaiyarasan",
+     "Shruti Marathe"
+    ],
+    "awards": "8 wins u0026 10 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 23964,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.8",
+      "votes": 225,
+      "updatedAt": "2026-09-24T19:10:40.000Z"
+     },
+     "rt": "33%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "N.T. Rama Rao Jr.",
+     "character": "Devara / Vara",
+     "slug": "n-t-rama-rao-jr",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5ycQgZ3SPUa12bq0yn1jpToBq9X.jpg"
+    },
+    {
+     "name": "Saif Ali Khan",
+     "character": "Bhaira",
+     "slug": "saif-ali-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg"
+    },
+    {
+     "name": "Prakash Raj",
+     "character": "Singappa",
+     "slug": "prakash-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg"
+    },
+    {
+     "name": "Srikanth",
+     "character": "Rayappa",
+     "slug": "srikanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/o10UQ9zvh9cOAUENybde25yrueV.jpg"
+    },
+    {
+     "name": "Kalaiyarasan",
+     "character": "Kunjara",
+     "slug": "kalaiyarasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4xaAqc7EFfcJXIS23yVJb6vZhLt.jpg"
+    },
+    {
+     "name": "Shruti Marathe",
+     "character": "Devara's Wife",
+     "slug": "shruti-marathe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zv7Fs6VMzckhHlcF27x9Z3WpG7k.jpg"
+    },
+    {
+     "name": "Janhvi Kapoor",
+     "character": "Thangam",
+     "slug": "janhvi-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gzTtKYASxhUUF5DqxqrWW3IT9GC.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Kora",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Koratala Siva",
+       "slug": "koratala-siva"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Koratala Siva",
+       "slug": "koratala-siva"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "R. Ratnavelu",
+       "slug": "r-ratnavelu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreekar Prasad",
+       "slug": "sreekar-prasad"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kosaraju Harikrishna",
+       "slug": "kosaraju-harikrishna"
+      },
+      {
+       "name": "Sudhakar Mikkilineni",
+       "slug": "sudhakar-mikkilineni"
+      },
+      {
+       "name": "Kalyan Ram",
+       "slug": "kalyan-ram"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "N. T. R. Arts",
+     "slug": "n-t-r-arts",
+     "logo": null
+    },
+    {
+     "name": "Yuvasudha Arts",
+     "slug": "yuvasudha-arts",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-11-08",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-09-27",
+     "gross": 15869125.599999998,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2379,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-10-04",
+     "gross": 1142426,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 255,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-10-11",
+     "gross": 52906,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 12,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 17064457.599999998,
+    "totalShows": 2646,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 15869125.599999998
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 15869125.599999998
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-09-27"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 574,
+    "title": "Devara - Part 1",
+    "img": "https://image.tmdb.org/t/p/original/8FBhil5ZwTT3PP0l15jyWicoxHQ.jpg",
+    "released": "2024-09-27",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11821912",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "TV-MA",
+    "runtime": "175 min",
+    "genre": "Action, Drama",
+    "plot": "Devara, a fearless man from a coastal region, embarks on a perilous journey into the treacherous world of the sea to safeguard the lives of his people. Unbeknownst to him, his brother Bhaira is plotting a conspiracy against him. As events unfold, Devara passes on his legacy to his mild-mannered and timid son, Varada.",
+    "released": "2024-09-26",
+    "director": "Koratala Siva",
+    "directorSlug": "koratala-siva",
+    "actors": [
+     "N.T. Rama Rao Jr.",
+     "Saif Ali Khan",
+     "Prakash Raj",
+     "Srikanth",
+     "Kalaiyarasan",
+     "Shruti Marathe"
+    ],
+    "awards": "8 wins u0026 10 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 23964,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.8",
+      "votes": 225,
+      "updatedAt": "2026-09-24T19:10:40.000Z"
+     },
+     "rt": "33%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "N.T. Rama Rao Jr.",
+     "character": "Devara / Vara",
+     "slug": "n-t-rama-rao-jr",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5ycQgZ3SPUa12bq0yn1jpToBq9X.jpg"
+    },
+    {
+     "name": "Saif Ali Khan",
+     "character": "Bhaira",
+     "slug": "saif-ali-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg"
+    },
+    {
+     "name": "Prakash Raj",
+     "character": "Singappa",
+     "slug": "prakash-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg"
+    },
+    {
+     "name": "Srikanth",
+     "character": "Rayappa",
+     "slug": "srikanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/o10UQ9zvh9cOAUENybde25yrueV.jpg"
+    },
+    {
+     "name": "Kalaiyarasan",
+     "character": "Kunjara",
+     "slug": "kalaiyarasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4xaAqc7EFfcJXIS23yVJb6vZhLt.jpg"
+    },
+    {
+     "name": "Shruti Marathe",
+     "character": "Devara's Wife",
+     "slug": "shruti-marathe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zv7Fs6VMzckhHlcF27x9Z3WpG7k.jpg"
+    },
+    {
+     "name": "Janhvi Kapoor",
+     "character": "Thangam",
+     "slug": "janhvi-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gzTtKYASxhUUF5DqxqrWW3IT9GC.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Kora",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Koratala Siva",
+       "slug": "koratala-siva"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Koratala Siva",
+       "slug": "koratala-siva"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "R. Ratnavelu",
+       "slug": "r-ratnavelu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreekar Prasad",
+       "slug": "sreekar-prasad"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kosaraju Harikrishna",
+       "slug": "kosaraju-harikrishna"
+      },
+      {
+       "name": "Sudhakar Mikkilineni",
+       "slug": "sudhakar-mikkilineni"
+      },
+      {
+       "name": "Kalyan Ram",
+       "slug": "kalyan-ram"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "N. T. R. Arts",
+     "slug": "n-t-r-arts",
+     "logo": null
+    },
+    {
+     "name": "Yuvasudha Arts",
+     "slug": "yuvasudha-arts",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-11-08",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 17064457.6,
+    "totalShows": 2646,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 6095579,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 6095579,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-09-27"
+   }
+  }
+ }
+}

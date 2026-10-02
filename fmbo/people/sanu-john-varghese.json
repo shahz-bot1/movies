@@ -1,0 +1,51 @@
+{
+ "slug": "sanu-john-varghese",
+ "name": "Sanu John Varghese",
+ "source_url": "https://fridaymatinee.in/people/sanu-john-varghese",
+ "captured_at": "2026-10-02T10:12:27.378365+00:00",
+ "person": {
+  "name": "Sanu John Varghese",
+  "photo": "https://image.tmdb.org/t/p/w185/xniYcUcI5jQqU5huyLdSlrh58ZT.jpg",
+  "role": "Cinematography, director and writer"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 3
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 27,
+   "movie_slug": "android-kunjappan",
+   "title": "Android Kunjappan",
+   "year": 2019,
+   "kerala_gross": "₹4.3 Cr"
+  },
+  {
+   "movie_id": 643,
+   "movie_slug": "ponman",
+   "title": "Ponman",
+   "year": 2025,
+   "kerala_gross": "₹8.4 Cr"
+  },
+  {
+   "movie_id": 682,
+   "movie_slug": "hit-the-third-case",
+   "title": "HIT: The Third Case",
+   "year": 2025,
+   "kerala_gross": "₹71.3L"
+  }
+ ]
+}

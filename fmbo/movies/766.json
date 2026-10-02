@@ -1,0 +1,621 @@
+{
+ "id": 766,
+ "slug": "meesha",
+ "source_url": "https://fridaymatinee.in/boxoffice/meesha-766",
+ "captured_at": "2026-10-01T18:21:45.767695+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 766,
+    "title": "Meesha",
+    "img": "https://image.tmdb.org/t/p/original/1SzqFfA4YSpUECHBntbz44NQj6A.jpg",
+    "released": "2025-08-01",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33291804",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "132 min",
+    "genre": "Drama",
+    "plot": "A forest guard, Midhun, invites his old friends to a reunion in the woods. What starts as a warm get-together slowly turns into a night of tension, betrayal, and survival, as secrets unravel and friendships crack under pressure.",
+    "released": "2025-08-01",
+    "director": "Emcy Joseph",
+    "directorSlug": "emcy-joseph",
+    "actors": [
+     "Kathir",
+     "Shine Tom Chacko",
+     "Hakkim Shajahan",
+     "Sudhi Koppa",
+     "Srikant Murali",
+     "Jeo Baby"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 5598,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kathir",
+     "character": "Midhun",
+     "slug": "kathir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cQNlW5ztPIANrUNRos81cxZuZe5.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Kitho",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Hakkim Shajahan",
+     "character": "Anandhu",
+     "slug": "hakkim-shajahan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/reEowrr3Gw4vKFfVUOhIT4EM4Es.jpg"
+    },
+    {
+     "name": "Sudhi Koppa",
+     "character": "Imodh",
+     "slug": "sudhi-koppa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h1Tvm7G2tuSLef3hCNdBZmBc3pe.jpg"
+    },
+    {
+     "name": "Srikant Murali",
+     "character": "Dynamite Basheer",
+     "slug": "srikant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m82xCpAgdCzjG2D1qg1dmcj5Uhx.jpg"
+    },
+    {
+     "name": "Jeo Baby",
+     "character": "Raghu Chandran",
+     "slug": "jeo-baby",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rjjuaQped2aUcnXtWWT4TgH8erJ.jpg"
+    },
+    {
+     "name": "Unni Lalu",
+     "character": "Tinu",
+     "slug": "unni-lalu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rqWYqbCnsV3CaOSTIsFruu4fhUy.jpg"
+    },
+    {
+     "name": "Ranjith Vengodan",
+     "character": "Suni",
+     "slug": "ranjith-vengodan",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Emcy Joseph",
+       "slug": "emcy-joseph"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Emcy Joseph",
+       "slug": "emcy-joseph"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sooraj S. Kurup",
+       "slug": "sooraj-s-kurup"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Suresh Rajan",
+       "slug": "suresh-rajan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Manoj",
+       "slug": "manoj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sajeer Gafur",
+       "slug": "sajeer-gafur"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2164896,
+    "totalShows": 911,
+    "totalDays": 13,
+    "openingDay": {
+     "day": 1,
+     "gross": 473805,
+     "date": "2025-08-01"
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 529130,
+     "date": "2025-08-02"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-01"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 766,
+    "title": "Meesha",
+    "img": "https://image.tmdb.org/t/p/original/1SzqFfA4YSpUECHBntbz44NQj6A.jpg",
+    "released": "2025-08-01",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33291804",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "132 min",
+    "genre": "Drama",
+    "plot": "A forest guard, Midhun, invites his old friends to a reunion in the woods. What starts as a warm get-together slowly turns into a night of tension, betrayal, and survival, as secrets unravel and friendships crack under pressure.",
+    "released": "2025-08-01",
+    "director": "Emcy Joseph",
+    "directorSlug": "emcy-joseph",
+    "actors": [
+     "Kathir",
+     "Shine Tom Chacko",
+     "Hakkim Shajahan",
+     "Sudhi Koppa",
+     "Srikant Murali",
+     "Jeo Baby"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 5598,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kathir",
+     "character": "Midhun",
+     "slug": "kathir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cQNlW5ztPIANrUNRos81cxZuZe5.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Kitho",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Hakkim Shajahan",
+     "character": "Anandhu",
+     "slug": "hakkim-shajahan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/reEowrr3Gw4vKFfVUOhIT4EM4Es.jpg"
+    },
+    {
+     "name": "Sudhi Koppa",
+     "character": "Imodh",
+     "slug": "sudhi-koppa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h1Tvm7G2tuSLef3hCNdBZmBc3pe.jpg"
+    },
+    {
+     "name": "Srikant Murali",
+     "character": "Dynamite Basheer",
+     "slug": "srikant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m82xCpAgdCzjG2D1qg1dmcj5Uhx.jpg"
+    },
+    {
+     "name": "Jeo Baby",
+     "character": "Raghu Chandran",
+     "slug": "jeo-baby",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rjjuaQped2aUcnXtWWT4TgH8erJ.jpg"
+    },
+    {
+     "name": "Unni Lalu",
+     "character": "Tinu",
+     "slug": "unni-lalu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rqWYqbCnsV3CaOSTIsFruu4fhUy.jpg"
+    },
+    {
+     "name": "Ranjith Vengodan",
+     "character": "Suni",
+     "slug": "ranjith-vengodan",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Emcy Joseph",
+       "slug": "emcy-joseph"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Emcy Joseph",
+       "slug": "emcy-joseph"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sooraj S. Kurup",
+       "slug": "sooraj-s-kurup"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Suresh Rajan",
+       "slug": "suresh-rajan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Manoj",
+       "slug": "manoj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sajeer Gafur",
+       "slug": "sajeer-gafur"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-08-01",
+     "gross": 2108434,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 885,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-08",
+     "gross": 56462,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 26,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2164896,
+    "totalShows": 911,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 2108434
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2108434
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-01"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 766,
+    "title": "Meesha",
+    "img": "https://image.tmdb.org/t/p/original/1SzqFfA4YSpUECHBntbz44NQj6A.jpg",
+    "released": "2025-08-01",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33291804",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "132 min",
+    "genre": "Drama",
+    "plot": "A forest guard, Midhun, invites his old friends to a reunion in the woods. What starts as a warm get-together slowly turns into a night of tension, betrayal, and survival, as secrets unravel and friendships crack under pressure.",
+    "released": "2025-08-01",
+    "director": "Emcy Joseph",
+    "directorSlug": "emcy-joseph",
+    "actors": [
+     "Kathir",
+     "Shine Tom Chacko",
+     "Hakkim Shajahan",
+     "Sudhi Koppa",
+     "Srikant Murali",
+     "Jeo Baby"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 5598,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kathir",
+     "character": "Midhun",
+     "slug": "kathir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cQNlW5ztPIANrUNRos81cxZuZe5.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Kitho",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Hakkim Shajahan",
+     "character": "Anandhu",
+     "slug": "hakkim-shajahan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/reEowrr3Gw4vKFfVUOhIT4EM4Es.jpg"
+    },
+    {
+     "name": "Sudhi Koppa",
+     "character": "Imodh",
+     "slug": "sudhi-koppa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h1Tvm7G2tuSLef3hCNdBZmBc3pe.jpg"
+    },
+    {
+     "name": "Srikant Murali",
+     "character": "Dynamite Basheer",
+     "slug": "srikant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m82xCpAgdCzjG2D1qg1dmcj5Uhx.jpg"
+    },
+    {
+     "name": "Jeo Baby",
+     "character": "Raghu Chandran",
+     "slug": "jeo-baby",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rjjuaQped2aUcnXtWWT4TgH8erJ.jpg"
+    },
+    {
+     "name": "Unni Lalu",
+     "character": "Tinu",
+     "slug": "unni-lalu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rqWYqbCnsV3CaOSTIsFruu4fhUy.jpg"
+    },
+    {
+     "name": "Ranjith Vengodan",
+     "character": "Suni",
+     "slug": "ranjith-vengodan",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Emcy Joseph",
+       "slug": "emcy-joseph"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Emcy Joseph",
+       "slug": "emcy-joseph"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sooraj S. Kurup",
+       "slug": "sooraj-s-kurup"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Suresh Rajan",
+       "slug": "suresh-rajan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Manoj",
+       "slug": "manoj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sajeer Gafur",
+       "slug": "sajeer-gafur"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2164896,
+    "totalShows": 911,
+    "totalDays": 13,
+    "openingDay": {
+     "day": 1,
+     "gross": 930960,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 930960,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-01"
+   }
+  }
+ }
+}

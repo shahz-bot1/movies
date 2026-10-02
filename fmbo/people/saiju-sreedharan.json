@@ -1,0 +1,77 @@
+{
+ "slug": "saiju-sreedharan",
+ "name": "Saiju Sreedharan",
+ "source_url": "https://fridaymatinee.in/people/saiju-sreedharan",
+ "captured_at": "2026-10-02T09:59:17.069153+00:00",
+ "person": {
+  "name": "Saiju Sreedharan",
+  "photo": "https://image.tmdb.org/t/p/w185/oA7bdJ6c1kwEzYk2qzzZ1eIHoWX.jpg",
+  "role": "Editor, director, producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 6
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 27,
+   "movie_slug": "android-kunjappan",
+   "title": "Android Kunjappan",
+   "year": 2019,
+   "kerala_gross": "₹4.3 Cr"
+  },
+  {
+   "movie_id": 51,
+   "movie_slug": "anjaam-pathiraa",
+   "title": "Anjaam Pathiraa",
+   "year": 2020,
+   "kerala_gross": "₹11.0 Cr"
+  },
+  {
+   "movie_id": 113,
+   "movie_slug": "naradan",
+   "title": "Naradan",
+   "year": 2022,
+   "kerala_gross": "₹57.7L"
+  },
+  {
+   "movie_id": 497,
+   "movie_slug": "anweshippin-kandethum",
+   "title": "Anweshippin Kandethum",
+   "year": 2024,
+   "kerala_gross": "₹7.6 Cr"
+  },
+  {
+   "movie_id": 526,
+   "movie_slug": "nadanna-sambhavam",
+   "title": "Nadanna Sambhavam",
+   "year": 2024,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 556,
+   "movie_slug": "footage",
+   "title": "Footage",
+   "year": 2024,
+   "kerala_gross": "₹31.1L"
+  }
+ ]
+}

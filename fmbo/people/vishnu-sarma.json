@@ -1,0 +1,55 @@
+{
+ "slug": "vishnu-sarma",
+ "name": "Vishnu Sarma",
+ "source_url": "https://fridaymatinee.in/people/vishnu-sarma",
+ "captured_at": "2026-10-02T11:53:09.182382+00:00",
+ "person": {
+  "name": "Vishnu Sarma",
+  "photo": null,
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 183,
+   "movie_slug": "liger",
+   "title": "Liger",
+   "year": 2022,
+   "kerala_gross": "₹33.1L"
+  },
+  {
+   "movie_id": 279,
+   "movie_slug": "ayisha",
+   "title": "Ayisha",
+   "year": 2023,
+   "kerala_gross": "₹60.7L"
+  },
+  {
+   "movie_id": 474,
+   "movie_slug": "turbo",
+   "title": "Turbo",
+   "year": 2024,
+   "kerala_gross": "₹30.1 Cr"
+  },
+  {
+   "movie_id": 1213,
+   "movie_slug": "pluto",
+   "title": "Pluto",
+   "year": 2026,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 1239,
+   "movie_slug": "irumudi",
+   "title": "Irumudi",
+   "year": 2026,
+   "kerala_gross": "₹10.1L"
+  }
+ ]
+}

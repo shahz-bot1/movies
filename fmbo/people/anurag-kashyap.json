@@ -1,0 +1,63 @@
+{
+ "slug": "anurag-kashyap",
+ "name": "Anurag Kashyap",
+ "source_url": "https://fridaymatinee.in/people/anurag-kashyap",
+ "captured_at": "2026-10-01T20:48:00.437968+00:00",
+ "person": {
+  "name": "Anurag Kashyap",
+  "photo": "https://image.tmdb.org/t/p/w185/wS1aF7dFDnKC44ZbFkbDcIpmFq5.jpg",
+  "role": "Actor, director, producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 524,
+   "movie_slug": "maharaja",
+   "title": "Maharaja",
+   "year": 2024,
+   "kerala_gross": "₹5.7 Cr"
+  },
+  {
+   "movie_id": 620,
+   "movie_slug": "rifle-club",
+   "title": "Rifle Club",
+   "year": 2024,
+   "kerala_gross": "₹13.0 Cr"
+  },
+  {
+   "movie_id": 618,
+   "movie_slug": "viduthalai-part-2",
+   "title": "Viduthalai Part - 2",
+   "year": 2024,
+   "kerala_gross": "₹66.7L"
+  },
+  {
+   "movie_id": 1066,
+   "movie_slug": "dacoit",
+   "title": "Dacoit",
+   "year": 2026,
+   "kerala_gross": "₹4.9L"
+  }
+ ]
+}

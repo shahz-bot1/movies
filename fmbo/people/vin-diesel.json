@@ -1,0 +1,46 @@
+{
+ "slug": "vin-diesel",
+ "name": "Vin Diesel",
+ "source_url": "https://fridaymatinee.in/people/vin-diesel",
+ "captured_at": "2026-10-02T11:46:34.010367+00:00",
+ "person": {
+  "name": "Vin Diesel",
+  "photo": "https://image.tmdb.org/t/p/w185/tEoUF0RJqHnskmBOJiDEQhyN7Ok.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 158,
+   "movie_slug": "thor-love-and-thunder",
+   "title": "Thor Love and Thunder",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 372,
+   "movie_slug": "guardians-of-the-galaxy-volume-3",
+   "title": "Guardians of the Galaxy Volume 3",
+   "year": 2023,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 377,
+   "movie_slug": "fast-x",
+   "title": "Fast X",
+   "year": 2023,
+   "kerala_gross": "₹1.8 Cr"
+  }
+ ]
+}

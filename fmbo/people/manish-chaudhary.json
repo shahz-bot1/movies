@@ -1,0 +1,48 @@
+{
+ "slug": "manish-chaudhary",
+ "name": "Manish Chaudhary",
+ "source_url": "https://fridaymatinee.in/people/manish-chaudhary",
+ "captured_at": "2026-10-02T00:17:47.155132+00:00",
+ "person": {
+  "name": "Manish Chaudhary",
+  "photo": "https://image.tmdb.org/t/p/w185/1l4vmA0IJQLieebZWOOCAFu4ra6.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 177,
+   "movie_slug": "sanam-teri-kasam",
+   "title": "Sanam Teri Kasam",
+   "year": 2025,
+   "kerala_gross": "₹14.5L"
+  },
+  {
+   "movie_id": 744,
+   "movie_slug": "kingdom",
+   "title": "Kingdom",
+   "year": 2025,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 1113,
+   "movie_slug": "chand-mera-dil",
+   "title": "Chand Mera Dil",
+   "year": 2026,
+   "kerala_gross": "₹4.2L"
+  },
+  {
+   "movie_id": 1147,
+   "movie_slug": "main-vaapas-aaunga",
+   "title": "Main Vaapas Aaunga",
+   "year": 2026,
+   "kerala_gross": "₹16.8L"
+  }
+ ]
+}

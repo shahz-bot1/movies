@@ -1,0 +1,48 @@
+{
+ "slug": "srikanth",
+ "name": "Srikanth",
+ "source_url": "https://fridaymatinee.in/people/srikanth",
+ "captured_at": "2026-10-02T10:55:33.263576+00:00",
+ "person": {
+  "name": "Srikanth",
+  "photo": "https://image.tmdb.org/t/p/w185/o10UQ9zvh9cOAUENybde25yrueV.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 276,
+   "movie_slug": "varisu",
+   "title": "Varisu",
+   "year": 2023,
+   "kerala_gross": "₹7.8 Cr"
+  },
+  {
+   "movie_id": 574,
+   "movie_slug": "devara-part-1",
+   "title": "Devara - Part 1",
+   "year": 2024,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 636,
+   "movie_slug": "game-changer",
+   "title": "Game Changer",
+   "year": 2025,
+   "kerala_gross": "₹62.3L"
+  },
+  {
+   "movie_id": 829,
+   "movie_slug": "vrusshabha",
+   "title": "Vrusshabha",
+   "year": 2025,
+   "kerala_gross": "₹66.2L"
+  }
+ ]
+}

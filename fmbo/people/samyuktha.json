@@ -1,0 +1,69 @@
+{
+ "slug": "samyuktha",
+ "name": "Samyuktha",
+ "source_url": "https://fridaymatinee.in/people/samyuktha",
+ "captured_at": "2026-10-02T10:06:05.837443+00:00",
+ "person": {
+  "name": "Samyuktha",
+  "photo": "https://image.tmdb.org/t/p/w185/lyH5eDTwTTRzqaBaDd5qdUrlAmO.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 7
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 17,
+   "movie_slug": "edakkad-battalion-06",
+   "title": "Edakkad Battalion 06",
+   "year": 2019,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 26,
+   "movie_slug": "under-world",
+   "title": "Under World",
+   "year": 2019,
+   "kerala_gross": "₹35.9L"
+  },
+  {
+   "movie_id": 66,
+   "movie_slug": "vellam",
+   "title": "vellam",
+   "year": 2021,
+   "kerala_gross": "₹52.5L"
+  },
+  {
+   "movie_id": 160,
+   "movie_slug": "kaduva",
+   "title": "Kaduva",
+   "year": 2022,
+   "kerala_gross": "₹17.0 Cr"
+  },
+  {
+   "movie_id": 297,
+   "movie_slug": "vaathi",
+   "title": "Vaathi",
+   "year": 2023,
+   "kerala_gross": "₹50.3L"
+  },
+  {
+   "movie_id": 300,
+   "movie_slug": "boomerang",
+   "title": "Boomerang",
+   "year": 2023,
+   "kerala_gross": "₹9.6L"
+  },
+  {
+   "movie_id": 936,
+   "movie_slug": "akhanda-2-thaandavam",
+   "title": "Akhanda 2 Thaandavam",
+   "year": 2025,
+   "kerala_gross": "₹10.5L"
+  }
+ ]
+}

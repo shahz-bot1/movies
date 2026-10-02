@@ -1,0 +1,41 @@
+{
+ "slug": "munnar-ramesh",
+ "name": "Munnar Ramesh",
+ "source_url": "https://fridaymatinee.in/people/munnar-ramesh",
+ "captured_at": "2026-10-02T00:47:26.296215+00:00",
+ "person": {
+  "name": "Munnar Ramesh",
+  "photo": "https://image.tmdb.org/t/p/w185/oGP3RCRHcq04l2afoZ8Cce3REqa.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 316,
+   "movie_slug": "viduthalai-part-1",
+   "title": "Viduthalai Part 1",
+   "year": 2023,
+   "kerala_gross": "₹86.9L"
+  },
+  {
+   "movie_id": 921,
+   "movie_slug": "mask",
+   "title": "Mask",
+   "year": 2025,
+   "kerala_gross": "₹3.6L"
+  },
+  {
+   "movie_id": 953,
+   "movie_slug": "sirai",
+   "title": "Sirai",
+   "year": 2025,
+   "kerala_gross": "₹17.2L"
+  }
+ ]
+}

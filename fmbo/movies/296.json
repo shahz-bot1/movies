@@ -1,0 +1,542 @@
+{
+ "id": 296,
+ "slug": "dear-vaappi",
+ "source_url": "https://fridaymatinee.in/boxoffice/dear-vaappi-296",
+ "captured_at": "2026-10-01T18:09:14.344138+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 296,
+    "title": "Dear Vaappi",
+    "img": "https://image.tmdb.org/t/p/original/diZZuVqIziYHtF5KZ5afmrSbtku.jpg",
+    "released": "2023-02-17",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21609938",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "138 min",
+    "genre": "Drama",
+    "plot": "About the journey of a father and daughter as they face obstacles and reach success, with the help of those who come to support them. It showcases the strong bond between a father and daughter and highlights the power of perseverance and support from others. The film is expected to be heartwarming and inspiring, appealing to audiences of all ages.",
+    "released": "2023-02-17",
+    "director": "Shan Thulaseedharan",
+    "directorSlug": "shan-thulaseedharan",
+    "actors": [
+     "Lal",
+     "Anagha Narayanan",
+     "Sree Rekha",
+     "Niranjan",
+     "Jagadish",
+     "Appunni Sasi"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 637,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:38.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Lal",
+     "character": "Basheer",
+     "slug": "lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg"
+    },
+    {
+     "name": "Anagha Narayanan",
+     "character": "Aamira",
+     "slug": "anagha-narayanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/drJKQc62Ezhq5BljdZM1ljoJ9AE.jpg"
+    },
+    {
+     "name": "Sree Rekha",
+     "character": null,
+     "slug": "sree-rekha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x6uc7fr0RuTCXMF778OISU9Cy2x.jpg"
+    },
+    {
+     "name": "Niranjan",
+     "character": null,
+     "slug": "niranjan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3q6TyDabmImPWGWURU70hJwxMWh.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": null,
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Appunni Sasi",
+     "character": null,
+     "slug": "appunni-sasi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w1r8hrMHtBp7bjmco3tI269byMB.jpg"
+    },
+    {
+     "name": "Nirmal Palazhi",
+     "character": null,
+     "slug": "nirmal-palazhi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/trWP0Ap0mRnJepUQMflKZ1KFNbR.jpg"
+    },
+    {
+     "name": "Unni Raja",
+     "character": null,
+     "slug": "unni-raja",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2LYy0cp2fOCRJB6zficuXB21Ubv.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Shan Thulaseedharan",
+       "slug": "shan-thulaseedharan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shan Thulaseedharan",
+       "slug": "shan-thulaseedharan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Kailas Menon",
+       "slug": "kailas-menon"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "S. Pandikumar",
+       "slug": "s-pandikumar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Lijo Paul",
+       "slug": "lijo-paul"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Crown Films (IN)",
+     "slug": "crown-films-in",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1790933.6,
+    "totalShows": 452,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 312569.8,
+     "date": "2023-02-17"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 410969.8,
+     "date": "2023-02-19"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-02-17"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 296,
+    "title": "Dear Vaappi",
+    "img": "https://image.tmdb.org/t/p/original/diZZuVqIziYHtF5KZ5afmrSbtku.jpg",
+    "released": "2023-02-17",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21609938",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "138 min",
+    "genre": "Drama",
+    "plot": "About the journey of a father and daughter as they face obstacles and reach success, with the help of those who come to support them. It showcases the strong bond between a father and daughter and highlights the power of perseverance and support from others. The film is expected to be heartwarming and inspiring, appealing to audiences of all ages.",
+    "released": "2023-02-17",
+    "director": "Shan Thulaseedharan",
+    "directorSlug": "shan-thulaseedharan",
+    "actors": [
+     "Lal",
+     "Anagha Narayanan",
+     "Sree Rekha",
+     "Niranjan",
+     "Jagadish",
+     "Appunni Sasi"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 637,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:38.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Lal",
+     "character": "Basheer",
+     "slug": "lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg"
+    },
+    {
+     "name": "Anagha Narayanan",
+     "character": "Aamira",
+     "slug": "anagha-narayanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/drJKQc62Ezhq5BljdZM1ljoJ9AE.jpg"
+    },
+    {
+     "name": "Sree Rekha",
+     "character": null,
+     "slug": "sree-rekha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x6uc7fr0RuTCXMF778OISU9Cy2x.jpg"
+    },
+    {
+     "name": "Niranjan",
+     "character": null,
+     "slug": "niranjan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3q6TyDabmImPWGWURU70hJwxMWh.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": null,
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Appunni Sasi",
+     "character": null,
+     "slug": "appunni-sasi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w1r8hrMHtBp7bjmco3tI269byMB.jpg"
+    },
+    {
+     "name": "Nirmal Palazhi",
+     "character": null,
+     "slug": "nirmal-palazhi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/trWP0Ap0mRnJepUQMflKZ1KFNbR.jpg"
+    },
+    {
+     "name": "Unni Raja",
+     "character": null,
+     "slug": "unni-raja",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2LYy0cp2fOCRJB6zficuXB21Ubv.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Shan Thulaseedharan",
+       "slug": "shan-thulaseedharan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shan Thulaseedharan",
+       "slug": "shan-thulaseedharan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Kailas Menon",
+       "slug": "kailas-menon"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "S. Pandikumar",
+       "slug": "s-pandikumar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Lijo Paul",
+       "slug": "lijo-paul"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Crown Films (IN)",
+     "slug": "crown-films-in",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2023-02-17",
+     "gross": 1790933.6,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 452,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1790933.6,
+    "totalShows": 452,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 1790933.6
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1790933.6
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-02-17"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 296,
+    "title": "Dear Vaappi",
+    "img": "https://image.tmdb.org/t/p/original/diZZuVqIziYHtF5KZ5afmrSbtku.jpg",
+    "released": "2023-02-17",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21609938",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "138 min",
+    "genre": "Drama",
+    "plot": "About the journey of a father and daughter as they face obstacles and reach success, with the help of those who come to support them. It showcases the strong bond between a father and daughter and highlights the power of perseverance and support from others. The film is expected to be heartwarming and inspiring, appealing to audiences of all ages.",
+    "released": "2023-02-17",
+    "director": "Shan Thulaseedharan",
+    "directorSlug": "shan-thulaseedharan",
+    "actors": [
+     "Lal",
+     "Anagha Narayanan",
+     "Sree Rekha",
+     "Niranjan",
+     "Jagadish",
+     "Appunni Sasi"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 637,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:38.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Lal",
+     "character": "Basheer",
+     "slug": "lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg"
+    },
+    {
+     "name": "Anagha Narayanan",
+     "character": "Aamira",
+     "slug": "anagha-narayanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/drJKQc62Ezhq5BljdZM1ljoJ9AE.jpg"
+    },
+    {
+     "name": "Sree Rekha",
+     "character": null,
+     "slug": "sree-rekha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x6uc7fr0RuTCXMF778OISU9Cy2x.jpg"
+    },
+    {
+     "name": "Niranjan",
+     "character": null,
+     "slug": "niranjan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3q6TyDabmImPWGWURU70hJwxMWh.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": null,
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Appunni Sasi",
+     "character": null,
+     "slug": "appunni-sasi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w1r8hrMHtBp7bjmco3tI269byMB.jpg"
+    },
+    {
+     "name": "Nirmal Palazhi",
+     "character": null,
+     "slug": "nirmal-palazhi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/trWP0Ap0mRnJepUQMflKZ1KFNbR.jpg"
+    },
+    {
+     "name": "Unni Raja",
+     "character": null,
+     "slug": "unni-raja",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2LYy0cp2fOCRJB6zficuXB21Ubv.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Shan Thulaseedharan",
+       "slug": "shan-thulaseedharan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shan Thulaseedharan",
+       "slug": "shan-thulaseedharan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Kailas Menon",
+       "slug": "kailas-menon"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "S. Pandikumar",
+       "slug": "s-pandikumar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Lijo Paul",
+       "slug": "lijo-paul"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Crown Films (IN)",
+     "slug": "crown-films-in",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1790933.6,
+    "totalShows": 452,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 535343,
+     "date": "Kozhikode"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 535343,
+     "date": "Kozhikode"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-02-17"
+   }
+  }
+ }
+}

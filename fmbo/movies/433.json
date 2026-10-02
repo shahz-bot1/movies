@@ -1,0 +1,705 @@
+{
+ "id": 433,
+ "slug": "garudan",
+ "source_url": "https://fridaymatinee.in/boxoffice/garudan-433",
+ "captured_at": "2026-10-01T18:12:12.913153+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 433,
+    "title": "Garudan",
+    "img": "https://image.tmdb.org/t/p/original/8SHg4ye34sD8ReJPplVp7oB06BK.jpg",
+    "released": "2023-10-03",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27411198",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "138 min",
+    "genre": "Thriller, Drama, Crime",
+    "plot": "Harish Madhav a straightforward cop and Nishanth a college professor get entangled in a crime and one has to fight for his integrity and other has to fight for justice.",
+    "released": "2023-11-03",
+    "director": "Arun Raj Varma",
+    "directorSlug": "arun-raj-varma",
+    "actors": [
+     "Suresh Gopi",
+     "Biju Menon",
+     "Abhirami",
+     "Divya Pillai",
+     "Jagadish",
+     "Siddique"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 3396,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Suresh Gopi",
+     "character": "DCP Harish Madhav",
+     "slug": "suresh-gopi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qLVCGoW4k1k9cVyPlxmgxd68GaY.jpg"
+    },
+    {
+     "name": "Biju Menon",
+     "character": "Prof. / Adv. Nishanth Kumar",
+     "slug": "biju-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kSnzfoZphQGrnOBH7MfU3HMTKGJ.jpg"
+    },
+    {
+     "name": "Abhirami",
+     "character": "Sreedevi",
+     "slug": "abhirami",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1TVXmU20s1mrIHEM5f8WpxWDEsd.jpg"
+    },
+    {
+     "name": "Divya Pillai",
+     "character": "Haritha",
+     "slug": "divya-pillai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n0BfTrgMiF0pAHvwl4Q3xvjHWlL.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Salam Kaiper",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Adv. Thomas Iype",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Dileesh Pothan",
+     "character": "Cyriac Joseph IPS",
+     "slug": "dileesh-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg"
+    },
+    {
+     "name": "Jayan Cherthala",
+     "character": "MLA Mathew",
+     "slug": "jayan-cherthala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u7tkseM6BkEIQsWJNjX14vfdzrX.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Arun Raj Varma",
+       "slug": "arun-raj-varma"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Midhun Manuel Thomas",
+       "slug": "midhun-manuel-thomas"
+      },
+      {
+       "name": "Jinesh M",
+       "slug": "jinesh-m"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ajay David Kachappilly",
+       "slug": "ajay-david-kachappilly"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreejith Sarang",
+       "slug": "sreejith-sarang"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Listin Stephen",
+       "slug": "listin-stephen"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Magic Frames",
+     "slug": "magic-frames",
+     "logo": "https://image.tmdb.org/t/p/w185/ijEKkNlryVxGWEjVPkCAippmURD.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2760,
+      "name": "Ultraplaybox Amazon Channel",
+      "logoPath": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 123202373.40000002,
+    "totalShows": 11858,
+    "totalDays": 29,
+    "openingDay": {
+     "day": 1,
+     "gross": 8779932.560000002,
+     "date": "2023-11-03"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 20801843.28,
+     "date": "2023-11-05"
+    },
+    "chartPosition": {
+     "current_position": 84,
+     "weeks_on_chart": 0,
+     "peak_position": 25,
+     "last_week_position": 84
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-10-03"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 433,
+    "title": "Garudan",
+    "img": "https://image.tmdb.org/t/p/original/8SHg4ye34sD8ReJPplVp7oB06BK.jpg",
+    "released": "2023-10-03",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27411198",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "138 min",
+    "genre": "Thriller, Drama, Crime",
+    "plot": "Harish Madhav a straightforward cop and Nishanth a college professor get entangled in a crime and one has to fight for his integrity and other has to fight for justice.",
+    "released": "2023-11-03",
+    "director": "Arun Raj Varma",
+    "directorSlug": "arun-raj-varma",
+    "actors": [
+     "Suresh Gopi",
+     "Biju Menon",
+     "Abhirami",
+     "Divya Pillai",
+     "Jagadish",
+     "Siddique"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 3396,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Suresh Gopi",
+     "character": "DCP Harish Madhav",
+     "slug": "suresh-gopi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qLVCGoW4k1k9cVyPlxmgxd68GaY.jpg"
+    },
+    {
+     "name": "Biju Menon",
+     "character": "Prof. / Adv. Nishanth Kumar",
+     "slug": "biju-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kSnzfoZphQGrnOBH7MfU3HMTKGJ.jpg"
+    },
+    {
+     "name": "Abhirami",
+     "character": "Sreedevi",
+     "slug": "abhirami",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1TVXmU20s1mrIHEM5f8WpxWDEsd.jpg"
+    },
+    {
+     "name": "Divya Pillai",
+     "character": "Haritha",
+     "slug": "divya-pillai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n0BfTrgMiF0pAHvwl4Q3xvjHWlL.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Salam Kaiper",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Adv. Thomas Iype",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Dileesh Pothan",
+     "character": "Cyriac Joseph IPS",
+     "slug": "dileesh-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg"
+    },
+    {
+     "name": "Jayan Cherthala",
+     "character": "MLA Mathew",
+     "slug": "jayan-cherthala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u7tkseM6BkEIQsWJNjX14vfdzrX.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Arun Raj Varma",
+       "slug": "arun-raj-varma"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Midhun Manuel Thomas",
+       "slug": "midhun-manuel-thomas"
+      },
+      {
+       "name": "Jinesh M",
+       "slug": "jinesh-m"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ajay David Kachappilly",
+       "slug": "ajay-david-kachappilly"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreejith Sarang",
+       "slug": "sreejith-sarang"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Listin Stephen",
+       "slug": "listin-stephen"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Magic Frames",
+     "slug": "magic-frames",
+     "logo": "https://image.tmdb.org/t/p/w185/ijEKkNlryVxGWEjVPkCAippmURD.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2760,
+      "name": "Ultraplaybox Amazon Channel",
+      "logoPath": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-11-03",
+     "gross": 69606143.52,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4715,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-11-10",
+     "gross": 37444398.96000001,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3970,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-11-17",
+     "gross": 11661329.12,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2294,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-11-24",
+     "gross": 4487631.800000001,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 875,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-12-01",
+     "gross": 2870,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 123202373.4,
+    "totalShows": 11858,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 69606143.52
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 69606143.52
+    },
+    "chartPosition": {
+     "current_position": 84,
+     "weeks_on_chart": 0,
+     "peak_position": 25,
+     "last_week_position": 84
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-10-03"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 433,
+    "title": "Garudan",
+    "img": "https://image.tmdb.org/t/p/original/8SHg4ye34sD8ReJPplVp7oB06BK.jpg",
+    "released": "2023-10-03",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27411198",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "138 min",
+    "genre": "Thriller, Drama, Crime",
+    "plot": "Harish Madhav a straightforward cop and Nishanth a college professor get entangled in a crime and one has to fight for his integrity and other has to fight for justice.",
+    "released": "2023-11-03",
+    "director": "Arun Raj Varma",
+    "directorSlug": "arun-raj-varma",
+    "actors": [
+     "Suresh Gopi",
+     "Biju Menon",
+     "Abhirami",
+     "Divya Pillai",
+     "Jagadish",
+     "Siddique"
+    ],
+    "awards": "1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 3396,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Suresh Gopi",
+     "character": "DCP Harish Madhav",
+     "slug": "suresh-gopi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qLVCGoW4k1k9cVyPlxmgxd68GaY.jpg"
+    },
+    {
+     "name": "Biju Menon",
+     "character": "Prof. / Adv. Nishanth Kumar",
+     "slug": "biju-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kSnzfoZphQGrnOBH7MfU3HMTKGJ.jpg"
+    },
+    {
+     "name": "Abhirami",
+     "character": "Sreedevi",
+     "slug": "abhirami",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1TVXmU20s1mrIHEM5f8WpxWDEsd.jpg"
+    },
+    {
+     "name": "Divya Pillai",
+     "character": "Haritha",
+     "slug": "divya-pillai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n0BfTrgMiF0pAHvwl4Q3xvjHWlL.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Salam Kaiper",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Adv. Thomas Iype",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Dileesh Pothan",
+     "character": "Cyriac Joseph IPS",
+     "slug": "dileesh-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg"
+    },
+    {
+     "name": "Jayan Cherthala",
+     "character": "MLA Mathew",
+     "slug": "jayan-cherthala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u7tkseM6BkEIQsWJNjX14vfdzrX.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Arun Raj Varma",
+       "slug": "arun-raj-varma"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Midhun Manuel Thomas",
+       "slug": "midhun-manuel-thomas"
+      },
+      {
+       "name": "Jinesh M",
+       "slug": "jinesh-m"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ajay David Kachappilly",
+       "slug": "ajay-david-kachappilly"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreejith Sarang",
+       "slug": "sreejith-sarang"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Listin Stephen",
+       "slug": "listin-stephen"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Magic Frames",
+     "slug": "magic-frames",
+     "logo": "https://image.tmdb.org/t/p/w185/ijEKkNlryVxGWEjVPkCAippmURD.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2760,
+      "name": "Ultraplaybox Amazon Channel",
+      "logoPath": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 123202373.39999999,
+    "totalShows": 11858,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 30474970,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 30474970,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 84,
+     "weeks_on_chart": 0,
+     "peak_position": 25,
+     "last_week_position": 84
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-10-03"
+   }
+  }
+ }
+}

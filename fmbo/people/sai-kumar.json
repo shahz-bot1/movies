@@ -1,0 +1,62 @@
+{
+ "slug": "sai-kumar",
+ "name": "Sai Kumar",
+ "source_url": "https://fridaymatinee.in/people/sai-kumar",
+ "captured_at": "2026-10-02T09:58:47.472902+00:00",
+ "person": {
+  "name": "Sai Kumar",
+  "photo": "https://image.tmdb.org/t/p/w185/Xq5VNf8rPgQF0tuQLjl5YwHPoc.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 297,
+   "movie_slug": "vaathi",
+   "title": "Vaathi",
+   "year": 2023,
+   "kerala_gross": "₹50.3L"
+  },
+  {
+   "movie_id": 314,
+   "movie_slug": "dasara",
+   "title": "Dasara",
+   "year": 2023,
+   "kerala_gross": "₹41.4L"
+  },
+  {
+   "movie_id": 537,
+   "movie_slug": "lucky-baskhar",
+   "title": "Lucky Baskhar",
+   "year": 2024,
+   "kerala_gross": "₹17.4 Cr"
+  },
+  {
+   "movie_id": 868,
+   "movie_slug": "diesel",
+   "title": "Diesel",
+   "year": 2025,
+   "kerala_gross": "₹9.5L"
+  },
+  {
+   "movie_id": 1075,
+   "movie_slug": "bad-boy-karthik",
+   "title": "Bad Boy Karthik",
+   "year": 2026,
+   "kerala_gross": "₹3K"
+  },
+  {
+   "movie_id": 1239,
+   "movie_slug": "irumudi",
+   "title": "Irumudi",
+   "year": 2026,
+   "kerala_gross": "₹10.1L"
+  }
+ ]
+}

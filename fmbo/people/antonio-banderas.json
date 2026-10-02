@@ -1,0 +1,41 @@
+{
+ "slug": "antonio-banderas",
+ "name": "Antonio Banderas",
+ "source_url": "https://fridaymatinee.in/people/antonio-banderas",
+ "captured_at": "2026-10-01T20:45:21.151384+00:00",
+ "person": {
+  "name": "Antonio Banderas",
+  "photo": "https://image.tmdb.org/t/p/w185/n8YlGookYzgD3cmpMP45BYRNIoh.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 756,
+   "movie_slug": "babygirl",
+   "title": "Babygirl",
+   "year": 2025,
+   "kerala_gross": "₹34K"
+  },
+  {
+   "movie_id": 757,
+   "movie_slug": "paddington-in-peru",
+   "title": "Paddington in Peru",
+   "year": 2025,
+   "kerala_gross": "₹9.1L"
+  },
+  {
+   "movie_id": 1254,
+   "movie_slug": "tony",
+   "title": "Tony",
+   "year": 2026,
+   "kerala_gross": "₹1.7L"
+  }
+ ]
+}

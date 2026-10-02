@@ -1,0 +1,51 @@
+{
+ "slug": "ayan-mukerji",
+ "name": "Ayan Mukerji",
+ "source_url": "https://fridaymatinee.in/people/ayan-mukerji",
+ "captured_at": "2026-10-01T21:05:01.979809+00:00",
+ "person": {
+  "name": "Ayan Mukerji",
+  "photo": "https://image.tmdb.org/t/p/w185/h2je0la48xmeXazM61bZ4hwlWcs.jpg",
+  "role": "Director, producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 199,
+   "movie_slug": "brahmastra-part-one-shiva",
+   "title": "Brahmastra Part One Shiva",
+   "year": 2022,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 749,
+   "movie_slug": "yeh-jawaani-hai-deewani",
+   "title": "Yeh Jawaani Hai Deewani",
+   "year": 2025,
+   "kerala_gross": "₹70.2L"
+  },
+  {
+   "movie_id": 785,
+   "movie_slug": "war-2",
+   "title": "War 2",
+   "year": 2025,
+   "kerala_gross": "₹1.8 Cr"
+  }
+ ]
+}

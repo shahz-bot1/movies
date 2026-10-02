@@ -1,0 +1,55 @@
+{
+ "slug": "femina-george",
+ "name": "Femina George",
+ "source_url": "https://fridaymatinee.in/people/femina-george",
+ "captured_at": "2026-10-01T22:21:05.161434+00:00",
+ "person": {
+  "name": "Femina George",
+  "photo": "https://image.tmdb.org/t/p/w185/9rd3zcUhT3a9hUzVJuJGgJYHanq.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 427,
+   "movie_slug": "theeppori-benny",
+   "title": "Theeppori Benny",
+   "year": 2023,
+   "kerala_gross": "₹77.1L"
+  },
+  {
+   "movie_id": 432,
+   "movie_slug": "sesham-mike-il-fathima",
+   "title": "Sesham Mike-il Fathima",
+   "year": 2023,
+   "kerala_gross": "₹31.9L"
+  },
+  {
+   "movie_id": 1121,
+   "movie_slug": "karakkam",
+   "title": "Karakkam",
+   "year": 2026,
+   "kerala_gross": "₹26.9L"
+  },
+  {
+   "movie_id": 1315,
+   "movie_slug": "orijinal",
+   "title": "Orijinal",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 1317,
+   "movie_slug": "raaka",
+   "title": "Raaka",
+   "year": 2027,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

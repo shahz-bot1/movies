@@ -1,0 +1,641 @@
+{
+ "id": 794,
+ "slug": "avengers-doomsday",
+ "source_url": "https://fridaymatinee.in/boxoffice/avengers-doomsday-794",
+ "captured_at": "2026-10-01T18:22:38.425387+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 794,
+    "title": "Avengers: Doomsday",
+    "img": "https://image.tmdb.org/t/p/original/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+    "released": "2026-12-17",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21357150",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": "Science Fiction, Action, Adventure",
+    "plot": "The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight against Doctor Doom. Plot TBA.",
+    "released": "2026-12-16",
+    "director": "Joe Russo",
+    "directorSlug": "joe-russo",
+    "actors": [
+     "Robert Downey Jr.",
+     "Chris Evans",
+     "Chris Hemsworth",
+     "Pedro Pascal",
+     "Paul Rudd",
+     "Anthony Mackie"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T10:10:03.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Robert Downey Jr.",
+     "character": "Victor von Doom  / Doctor Doom",
+     "slug": "robert-downey-jr",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+     "name": "Chris Evans",
+     "character": "Steve Rogers",
+     "slug": "chris-evans",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+     "name": "Chris Hemsworth",
+     "character": "Thor",
+     "slug": "chris-hemsworth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+     "name": "Pedro Pascal",
+     "character": "Reed Richards / Mister Fantastic",
+     "slug": "pedro-pascal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    },
+    {
+     "name": "Paul Rudd",
+     "character": "Scott Lang / Ant-Man",
+     "slug": "paul-rudd",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+     "name": "Anthony Mackie",
+     "character": "Sam Wilson / Captain America",
+     "slug": "anthony-mackie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vecvTm7SimizluJkyIwBxeLbvRm.jpg"
+    },
+    {
+     "name": "Florence Pugh",
+     "character": "Yelena Belova",
+     "slug": "florence-pugh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ejgQXt1fAvPueAvacDsGwG00aA.jpg"
+    },
+    {
+     "name": "Vanessa Kirby",
+     "character": "Sue Storm / Invisible Woman",
+     "slug": "vanessa-kirby",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5fbvIkZ02RdcXfZHUUk4cQ9kILK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Joe Russo",
+       "slug": "joe-russo"
+      },
+      {
+       "name": "Anthony Russo",
+       "slug": "anthony-russo"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Stephen McFeely",
+       "slug": "stephen-mcfeely"
+      },
+      {
+       "name": "Michael Waldron",
+       "slug": "michael-waldron"
+      },
+      {
+       "name": "Chris McKenna",
+       "slug": "chris-mckenna"
+      },
+      {
+       "name": "Erik Sommers",
+       "slug": "erik-sommers"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Alan Silvestri",
+       "slug": "alan-silvestri"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Newton Thomas Sigel",
+       "slug": "newton-thomas-sigel"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jeffrey Ford",
+       "slug": "jeffrey-ford"
+      },
+      {
+       "name": "Matthew Schmidt",
+       "slug": "matthew-schmidt"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      },
+      {
+       "name": "Jonathan Schwartz",
+       "slug": "jonathan-schwartz"
+      },
+      {
+       "name": "Louis D'Esposito",
+       "slug": "louis-d-esposito"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Kevin Feige Productions",
+     "slug": "kevin-feige-productions",
+     "logo": null
+    },
+    {
+     "name": "AGBO",
+     "slug": "agbo",
+     "logo": "https://image.tmdb.org/t/p/w185/psd84iF7PTGrKf4yFOStKj8JbAh.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {},
+   "boxoffice": [],
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalSeats": 0,
+    "totalSold": 0,
+    "avgOcc": 0,
+    "totalDays": 0,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": null,
+    "openingDay": null,
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "0:0:0"
+  },
+  "week": {
+   "movie": {
+    "id": 794,
+    "title": "Avengers: Doomsday",
+    "img": "https://image.tmdb.org/t/p/original/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+    "released": "2026-12-17",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21357150",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": "Science Fiction, Action, Adventure",
+    "plot": "The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight against Doctor Doom. Plot TBA.",
+    "released": "2026-12-16",
+    "director": "Joe Russo",
+    "directorSlug": "joe-russo",
+    "actors": [
+     "Robert Downey Jr.",
+     "Chris Evans",
+     "Chris Hemsworth",
+     "Pedro Pascal",
+     "Paul Rudd",
+     "Anthony Mackie"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T10:10:03.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Robert Downey Jr.",
+     "character": "Victor von Doom  / Doctor Doom",
+     "slug": "robert-downey-jr",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+     "name": "Chris Evans",
+     "character": "Steve Rogers",
+     "slug": "chris-evans",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+     "name": "Chris Hemsworth",
+     "character": "Thor",
+     "slug": "chris-hemsworth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+     "name": "Pedro Pascal",
+     "character": "Reed Richards / Mister Fantastic",
+     "slug": "pedro-pascal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    },
+    {
+     "name": "Paul Rudd",
+     "character": "Scott Lang / Ant-Man",
+     "slug": "paul-rudd",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+     "name": "Anthony Mackie",
+     "character": "Sam Wilson / Captain America",
+     "slug": "anthony-mackie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vecvTm7SimizluJkyIwBxeLbvRm.jpg"
+    },
+    {
+     "name": "Florence Pugh",
+     "character": "Yelena Belova",
+     "slug": "florence-pugh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ejgQXt1fAvPueAvacDsGwG00aA.jpg"
+    },
+    {
+     "name": "Vanessa Kirby",
+     "character": "Sue Storm / Invisible Woman",
+     "slug": "vanessa-kirby",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5fbvIkZ02RdcXfZHUUk4cQ9kILK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Joe Russo",
+       "slug": "joe-russo"
+      },
+      {
+       "name": "Anthony Russo",
+       "slug": "anthony-russo"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Stephen McFeely",
+       "slug": "stephen-mcfeely"
+      },
+      {
+       "name": "Michael Waldron",
+       "slug": "michael-waldron"
+      },
+      {
+       "name": "Chris McKenna",
+       "slug": "chris-mckenna"
+      },
+      {
+       "name": "Erik Sommers",
+       "slug": "erik-sommers"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Alan Silvestri",
+       "slug": "alan-silvestri"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Newton Thomas Sigel",
+       "slug": "newton-thomas-sigel"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jeffrey Ford",
+       "slug": "jeffrey-ford"
+      },
+      {
+       "name": "Matthew Schmidt",
+       "slug": "matthew-schmidt"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      },
+      {
+       "name": "Jonathan Schwartz",
+       "slug": "jonathan-schwartz"
+      },
+      {
+       "name": "Louis D'Esposito",
+       "slug": "louis-d-esposito"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Kevin Feige Productions",
+     "slug": "kevin-feige-productions",
+     "logo": null
+    },
+    {
+     "name": "AGBO",
+     "slug": "agbo",
+     "logo": "https://image.tmdb.org/t/p/w185/psd84iF7PTGrKf4yFOStKj8JbAh.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {},
+   "boxoffice": [],
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalSeats": 0,
+    "totalSold": 0,
+    "avgOcc": 0,
+    "totalDays": 0,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": null,
+    "openingDay": null,
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "0:0:0"
+  },
+  "district": {
+   "movie": {
+    "id": 794,
+    "title": "Avengers: Doomsday",
+    "img": "https://image.tmdb.org/t/p/original/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
+    "released": "2026-12-17",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21357150",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": "Science Fiction, Action, Adventure",
+    "plot": "The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight against Doctor Doom. Plot TBA.",
+    "released": "2026-12-16",
+    "director": "Joe Russo",
+    "directorSlug": "joe-russo",
+    "actors": [
+     "Robert Downey Jr.",
+     "Chris Evans",
+     "Chris Hemsworth",
+     "Pedro Pascal",
+     "Paul Rudd",
+     "Anthony Mackie"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T10:10:03.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Robert Downey Jr.",
+     "character": "Victor von Doom  / Doctor Doom",
+     "slug": "robert-downey-jr",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+     "name": "Chris Evans",
+     "character": "Steve Rogers",
+     "slug": "chris-evans",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+     "name": "Chris Hemsworth",
+     "character": "Thor",
+     "slug": "chris-hemsworth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+     "name": "Pedro Pascal",
+     "character": "Reed Richards / Mister Fantastic",
+     "slug": "pedro-pascal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    },
+    {
+     "name": "Paul Rudd",
+     "character": "Scott Lang / Ant-Man",
+     "slug": "paul-rudd",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+     "name": "Anthony Mackie",
+     "character": "Sam Wilson / Captain America",
+     "slug": "anthony-mackie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vecvTm7SimizluJkyIwBxeLbvRm.jpg"
+    },
+    {
+     "name": "Florence Pugh",
+     "character": "Yelena Belova",
+     "slug": "florence-pugh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ejgQXt1fAvPueAvacDsGwG00aA.jpg"
+    },
+    {
+     "name": "Vanessa Kirby",
+     "character": "Sue Storm / Invisible Woman",
+     "slug": "vanessa-kirby",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5fbvIkZ02RdcXfZHUUk4cQ9kILK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Joe Russo",
+       "slug": "joe-russo"
+      },
+      {
+       "name": "Anthony Russo",
+       "slug": "anthony-russo"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Stephen McFeely",
+       "slug": "stephen-mcfeely"
+      },
+      {
+       "name": "Michael Waldron",
+       "slug": "michael-waldron"
+      },
+      {
+       "name": "Chris McKenna",
+       "slug": "chris-mckenna"
+      },
+      {
+       "name": "Erik Sommers",
+       "slug": "erik-sommers"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Alan Silvestri",
+       "slug": "alan-silvestri"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Newton Thomas Sigel",
+       "slug": "newton-thomas-sigel"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jeffrey Ford",
+       "slug": "jeffrey-ford"
+      },
+      {
+       "name": "Matthew Schmidt",
+       "slug": "matthew-schmidt"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      },
+      {
+       "name": "Jonathan Schwartz",
+       "slug": "jonathan-schwartz"
+      },
+      {
+       "name": "Louis D'Esposito",
+       "slug": "louis-d-esposito"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Kevin Feige Productions",
+     "slug": "kevin-feige-productions",
+     "logo": null
+    },
+    {
+     "name": "AGBO",
+     "slug": "agbo",
+     "logo": "https://image.tmdb.org/t/p/w185/psd84iF7PTGrKf4yFOStKj8JbAh.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {},
+   "boxoffice": [],
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalSeats": 0,
+    "totalSold": 0,
+    "avgOcc": 0,
+    "totalDays": 0,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": null,
+    "openingDay": null,
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "0:0:0"
+  }
+ }
+}

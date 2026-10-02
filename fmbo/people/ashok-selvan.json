@@ -1,0 +1,41 @@
+{
+ "slug": "ashok-selvan",
+ "name": "Ashok Selvan",
+ "source_url": "https://fridaymatinee.in/people/ashok-selvan",
+ "captured_at": "2026-10-01T21:00:21.607334+00:00",
+ "person": {
+  "name": "Ashok Selvan",
+  "photo": "https://image.tmdb.org/t/p/w185/qA8w8hRmyw7IWxIuM64s7aPwqbe.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 89,
+   "movie_slug": "marakkar",
+   "title": "Marakkar",
+   "year": 2021,
+   "kerala_gross": "₹13.7 Cr"
+  },
+  {
+   "movie_id": 390,
+   "movie_slug": "por-thozhil",
+   "title": "Por Thozhil",
+   "year": 2023,
+   "kerala_gross": "₹2.8 Cr"
+  },
+  {
+   "movie_id": 701,
+   "movie_slug": "thug-life",
+   "title": "Thug Life",
+   "year": 2025,
+   "kerala_gross": "₹2.2 Cr"
+  }
+ ]
+}

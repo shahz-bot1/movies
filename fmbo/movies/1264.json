@@ -1,0 +1,900 @@
+{
+ "id": 1264,
+ "slug": "onslaught",
+ "source_url": "https://fridaymatinee.in/boxoffice/onslaught-1264",
+ "captured_at": "2026-10-01T19:55:04.462086+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1264,
+    "title": "Onslaught",
+    "img": "https://image.tmdb.org/t/p/original/7z8u7dviOrmKVyZxXyIMNX8Q3JB.jpg",
+    "released": "2026-09-04",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32268691",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "92 min",
+    "genre": "Action, Horror, Thriller",
+    "plot": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
+    "released": "2026-09-02",
+    "director": "Adam Wingard",
+    "directorSlug": "adam-wingard",
+    "actors": [
+     "Adria Arjona",
+     "Dan Stevens",
+     "Eric Wareheim",
+     "Reginald VelJohnson",
+     "Michael Biehn",
+     "Blake Kennedy"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 2582,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "56%",
+     "metascore": 57,
+     "updatedAt": "2026-10-01T13:10:09.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Adria Arjona",
+     "character": "Celeste",
+     "slug": "adria-arjona",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gzrI92WZFANIBXOmXl3QGfb8Jak.jpg"
+    },
+    {
+     "name": "Dan Stevens",
+     "character": "Dr. Hans Kammler",
+     "slug": "dan-stevens",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fFsgginZKH527o38ZfdDxuzx7Ew.jpg"
+    },
+    {
+     "name": "Eric Wareheim",
+     "character": "Kovacks",
+     "slug": "eric-wareheim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x9STTsfrnC7SnuHuRczPFbGi6xp.jpg"
+    },
+    {
+     "name": "Reginald VelJohnson",
+     "character": "Josiah",
+     "slug": "reginald-veljohnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/78x1ceFIKI8DHfEEj9dg4JrGwPa.jpg"
+    },
+    {
+     "name": "Michael Biehn",
+     "character": "Baylor",
+     "slug": "michael-biehn",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg"
+    },
+    {
+     "name": "Blake Kennedy",
+     "character": "Daisy",
+     "slug": "blake-kennedy",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Alex Pereira",
+     "character": "The Butcher",
+     "slug": "alex-pereira",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2CbbPCRIv0bTMvVBgOzo6PeWdMi.jpg"
+    },
+    {
+     "name": "Drew Starkey",
+     "character": "Cyrus",
+     "slug": "drew-starkey",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iUPJrhsqgvF6CydzGfRzJG0wLiF.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Adam Wingard",
+       "slug": "adam-wingard"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Simon Barrett",
+       "slug": "simon-barrett"
+      },
+      {
+       "name": "Adam Wingard",
+       "slug": "adam-wingard"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Matthew Pusti",
+       "slug": "matthew-pusti"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Oren Soffer",
+       "slug": "oren-soffer"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Adam Avery",
+       "slug": "adam-avery"
+      },
+      {
+       "name": "Josh Schaeffer",
+       "slug": "josh-schaeffer"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jeremy Platt",
+       "slug": "jeremy-platt"
+      },
+      {
+       "name": "Alexander Black",
+       "slug": "alexander-black"
+      },
+      {
+       "name": "Simon Barrett",
+       "slug": "simon-barrett"
+      },
+      {
+       "name": "Andrew Swett",
+       "slug": "andrew-swett"
+      },
+      {
+       "name": "Aaron Ryder",
+       "slug": "aaron-ryder"
+      },
+      {
+       "name": "Adam Wingard",
+       "slug": "adam-wingard"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "A24",
+     "slug": "a24",
+     "logo": "https://image.tmdb.org/t/p/w185/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png"
+    },
+    {
+     "name": "Ryder Picture Company",
+     "slug": "ryder-picture-company",
+     "logo": "https://image.tmdb.org/t/p/w185/MKTZVUIIWMjwpF58tGtAx8UXFs.png"
+    },
+    {
+     "name": "Lyrical Media",
+     "slug": "lyrical-media",
+     "logo": "https://image.tmdb.org/t/p/w185/v2A9SsZdaWpmZdXPf3I7Ajxn1Pc.png"
+    },
+    {
+     "name": "Breakaway Civilization",
+     "slug": "breakaway-civilization",
+     "logo": null
+    },
+    {
+     "name": "828 Productions",
+     "slug": "828-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/8Vir3jz2OMrcLFdcpRAg6LQixJp.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-04": [
+     {
+      "id": 1261,
+      "title": "Mirzapur: The Movie",
+      "img": "https://image.tmdb.org/t/p/original/duaKd6Hx13P633GCmF9njjG0DfA.jpg"
+     },
+     {
+      "id": 1263,
+      "title": "The Magic Faraway Tree",
+      "img": "https://image.tmdb.org/t/p/original/mtS8mW6aLuartATut8TrD39zTIG.jpg"
+     },
+     {
+      "id": 1265,
+      "title": "Immortal",
+      "img": "https://image.tmdb.org/t/p/original/8Ev68TZqunJ31uvn7cbchALeDkn.jpg"
+     }
+    ],
+    "2026-09-07": [
+     {
+      "id": 1270,
+      "title": "Wild Tamil Nadu",
+      "img": "https://image.tmdb.org/t/p/original/95Re0iL8rZ8TD5kF19tHQCkiHZS.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-09-04",
+     "gross": 20680,
+     "sold": 90,
+     "unsold": 392,
+     "shows": 3,
+     "occ": 18.67,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 20680,
+     "lastUpdatedAt": "2026-09-04 22:43:01"
+    },
+    {
+     "label": "2026-09-05",
+     "gross": 20080,
+     "sold": 80,
+     "unsold": 402,
+     "shows": 3,
+     "occ": 16.6,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 40760,
+     "lastUpdatedAt": "2026-09-05 22:43:01"
+    },
+    {
+     "label": "2026-09-06",
+     "gross": 18060,
+     "sold": 74,
+     "unsold": 408,
+     "shows": 3,
+     "occ": 15.35,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 58820,
+     "lastUpdatedAt": "2026-09-06 22:43:01"
+    },
+    {
+     "label": "2026-09-07",
+     "gross": 1880,
+     "sold": 8,
+     "unsold": 135,
+     "shows": 1,
+     "occ": 5.59,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 60700,
+     "lastUpdatedAt": "2026-09-07 17:38:01"
+    },
+    {
+     "label": "2026-09-08",
+     "gross": 4090,
+     "sold": 17,
+     "unsold": 264,
+     "shows": 2,
+     "occ": 6.05,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 64790,
+     "lastUpdatedAt": "2026-09-08 17:38:01"
+    },
+    {
+     "label": "2026-09-09",
+     "gross": 3340,
+     "sold": 17,
+     "unsold": 264,
+     "shows": 2,
+     "occ": 6.05,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 68130,
+     "lastUpdatedAt": "2026-09-09 17:38:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 68130,
+    "totalShows": 14,
+    "totalSeats": 2151,
+    "totalSold": 286,
+    "avgOcc": "13.3",
+    "totalDays": 6,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 20680,
+     "date": "2026-09-04"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 20680,
+     "date": "2026-09-04"
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "6:3340:68130"
+  },
+  "week": {
+   "movie": {
+    "id": 1264,
+    "title": "Onslaught",
+    "img": "https://image.tmdb.org/t/p/original/7z8u7dviOrmKVyZxXyIMNX8Q3JB.jpg",
+    "released": "2026-09-04",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32268691",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "92 min",
+    "genre": "Action, Horror, Thriller",
+    "plot": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
+    "released": "2026-09-02",
+    "director": "Adam Wingard",
+    "directorSlug": "adam-wingard",
+    "actors": [
+     "Adria Arjona",
+     "Dan Stevens",
+     "Eric Wareheim",
+     "Reginald VelJohnson",
+     "Michael Biehn",
+     "Blake Kennedy"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 2582,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "56%",
+     "metascore": 57,
+     "updatedAt": "2026-10-01T13:10:09.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Adria Arjona",
+     "character": "Celeste",
+     "slug": "adria-arjona",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gzrI92WZFANIBXOmXl3QGfb8Jak.jpg"
+    },
+    {
+     "name": "Dan Stevens",
+     "character": "Dr. Hans Kammler",
+     "slug": "dan-stevens",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fFsgginZKH527o38ZfdDxuzx7Ew.jpg"
+    },
+    {
+     "name": "Eric Wareheim",
+     "character": "Kovacks",
+     "slug": "eric-wareheim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x9STTsfrnC7SnuHuRczPFbGi6xp.jpg"
+    },
+    {
+     "name": "Reginald VelJohnson",
+     "character": "Josiah",
+     "slug": "reginald-veljohnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/78x1ceFIKI8DHfEEj9dg4JrGwPa.jpg"
+    },
+    {
+     "name": "Michael Biehn",
+     "character": "Baylor",
+     "slug": "michael-biehn",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg"
+    },
+    {
+     "name": "Blake Kennedy",
+     "character": "Daisy",
+     "slug": "blake-kennedy",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Alex Pereira",
+     "character": "The Butcher",
+     "slug": "alex-pereira",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2CbbPCRIv0bTMvVBgOzo6PeWdMi.jpg"
+    },
+    {
+     "name": "Drew Starkey",
+     "character": "Cyrus",
+     "slug": "drew-starkey",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iUPJrhsqgvF6CydzGfRzJG0wLiF.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Adam Wingard",
+       "slug": "adam-wingard"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Simon Barrett",
+       "slug": "simon-barrett"
+      },
+      {
+       "name": "Adam Wingard",
+       "slug": "adam-wingard"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Matthew Pusti",
+       "slug": "matthew-pusti"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Oren Soffer",
+       "slug": "oren-soffer"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Adam Avery",
+       "slug": "adam-avery"
+      },
+      {
+       "name": "Josh Schaeffer",
+       "slug": "josh-schaeffer"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jeremy Platt",
+       "slug": "jeremy-platt"
+      },
+      {
+       "name": "Alexander Black",
+       "slug": "alexander-black"
+      },
+      {
+       "name": "Simon Barrett",
+       "slug": "simon-barrett"
+      },
+      {
+       "name": "Andrew Swett",
+       "slug": "andrew-swett"
+      },
+      {
+       "name": "Aaron Ryder",
+       "slug": "aaron-ryder"
+      },
+      {
+       "name": "Adam Wingard",
+       "slug": "adam-wingard"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "A24",
+     "slug": "a24",
+     "logo": "https://image.tmdb.org/t/p/w185/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png"
+    },
+    {
+     "name": "Ryder Picture Company",
+     "slug": "ryder-picture-company",
+     "logo": "https://image.tmdb.org/t/p/w185/MKTZVUIIWMjwpF58tGtAx8UXFs.png"
+    },
+    {
+     "name": "Lyrical Media",
+     "slug": "lyrical-media",
+     "logo": "https://image.tmdb.org/t/p/w185/v2A9SsZdaWpmZdXPf3I7Ajxn1Pc.png"
+    },
+    {
+     "name": "Breakaway Civilization",
+     "slug": "breakaway-civilization",
+     "logo": null
+    },
+    {
+     "name": "828 Productions",
+     "slug": "828-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/8Vir3jz2OMrcLFdcpRAg6LQixJp.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-04": [
+     {
+      "id": 1261,
+      "title": "Mirzapur: The Movie",
+      "img": "https://image.tmdb.org/t/p/original/duaKd6Hx13P633GCmF9njjG0DfA.jpg"
+     },
+     {
+      "id": 1263,
+      "title": "The Magic Faraway Tree",
+      "img": "https://image.tmdb.org/t/p/original/mtS8mW6aLuartATut8TrD39zTIG.jpg"
+     },
+     {
+      "id": 1265,
+      "title": "Immortal",
+      "img": "https://image.tmdb.org/t/p/original/8Ev68TZqunJ31uvn7cbchALeDkn.jpg"
+     }
+    ],
+    "2026-09-07": [
+     {
+      "id": 1270,
+      "title": "Wild Tamil Nadu",
+      "img": "https://image.tmdb.org/t/p/original/95Re0iL8rZ8TD5kF19tHQCkiHZS.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-09-04",
+     "gross": 68130,
+     "sold": 286,
+     "unsold": 1865,
+     "shows": 14,
+     "occ": 13.3,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 68130,
+     "lastUpdatedAt": "2026-09-09 17:38:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 68130,
+    "totalShows": 14,
+    "totalSeats": 2151,
+    "totalSold": 286,
+    "avgOcc": "13.3",
+    "totalDays": 1,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 68130
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 68130
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "1:68130:68130"
+  },
+  "district": {
+   "movie": {
+    "id": 1264,
+    "title": "Onslaught",
+    "img": "https://image.tmdb.org/t/p/original/7z8u7dviOrmKVyZxXyIMNX8Q3JB.jpg",
+    "released": "2026-09-04",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32268691",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "92 min",
+    "genre": "Action, Horror, Thriller",
+    "plot": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
+    "released": "2026-09-02",
+    "director": "Adam Wingard",
+    "directorSlug": "adam-wingard",
+    "actors": [
+     "Adria Arjona",
+     "Dan Stevens",
+     "Eric Wareheim",
+     "Reginald VelJohnson",
+     "Michael Biehn",
+     "Blake Kennedy"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 2582,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "56%",
+     "metascore": 57,
+     "updatedAt": "2026-10-01T13:10:09.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Adria Arjona",
+     "character": "Celeste",
+     "slug": "adria-arjona",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gzrI92WZFANIBXOmXl3QGfb8Jak.jpg"
+    },
+    {
+     "name": "Dan Stevens",
+     "character": "Dr. Hans Kammler",
+     "slug": "dan-stevens",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fFsgginZKH527o38ZfdDxuzx7Ew.jpg"
+    },
+    {
+     "name": "Eric Wareheim",
+     "character": "Kovacks",
+     "slug": "eric-wareheim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x9STTsfrnC7SnuHuRczPFbGi6xp.jpg"
+    },
+    {
+     "name": "Reginald VelJohnson",
+     "character": "Josiah",
+     "slug": "reginald-veljohnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/78x1ceFIKI8DHfEEj9dg4JrGwPa.jpg"
+    },
+    {
+     "name": "Michael Biehn",
+     "character": "Baylor",
+     "slug": "michael-biehn",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg"
+    },
+    {
+     "name": "Blake Kennedy",
+     "character": "Daisy",
+     "slug": "blake-kennedy",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Alex Pereira",
+     "character": "The Butcher",
+     "slug": "alex-pereira",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2CbbPCRIv0bTMvVBgOzo6PeWdMi.jpg"
+    },
+    {
+     "name": "Drew Starkey",
+     "character": "Cyrus",
+     "slug": "drew-starkey",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iUPJrhsqgvF6CydzGfRzJG0wLiF.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Adam Wingard",
+       "slug": "adam-wingard"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Simon Barrett",
+       "slug": "simon-barrett"
+      },
+      {
+       "name": "Adam Wingard",
+       "slug": "adam-wingard"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Matthew Pusti",
+       "slug": "matthew-pusti"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Oren Soffer",
+       "slug": "oren-soffer"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Adam Avery",
+       "slug": "adam-avery"
+      },
+      {
+       "name": "Josh Schaeffer",
+       "slug": "josh-schaeffer"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jeremy Platt",
+       "slug": "jeremy-platt"
+      },
+      {
+       "name": "Alexander Black",
+       "slug": "alexander-black"
+      },
+      {
+       "name": "Simon Barrett",
+       "slug": "simon-barrett"
+      },
+      {
+       "name": "Andrew Swett",
+       "slug": "andrew-swett"
+      },
+      {
+       "name": "Aaron Ryder",
+       "slug": "aaron-ryder"
+      },
+      {
+       "name": "Adam Wingard",
+       "slug": "adam-wingard"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "A24",
+     "slug": "a24",
+     "logo": "https://image.tmdb.org/t/p/w185/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png"
+    },
+    {
+     "name": "Ryder Picture Company",
+     "slug": "ryder-picture-company",
+     "logo": "https://image.tmdb.org/t/p/w185/MKTZVUIIWMjwpF58tGtAx8UXFs.png"
+    },
+    {
+     "name": "Lyrical Media",
+     "slug": "lyrical-media",
+     "logo": "https://image.tmdb.org/t/p/w185/v2A9SsZdaWpmZdXPf3I7Ajxn1Pc.png"
+    },
+    {
+     "name": "Breakaway Civilization",
+     "slug": "breakaway-civilization",
+     "logo": null
+    },
+    {
+     "name": "828 Productions",
+     "slug": "828-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/8Vir3jz2OMrcLFdcpRAg6LQixJp.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-04": [
+     {
+      "id": 1261,
+      "title": "Mirzapur: The Movie",
+      "img": "https://image.tmdb.org/t/p/original/duaKd6Hx13P633GCmF9njjG0DfA.jpg"
+     },
+     {
+      "id": 1263,
+      "title": "The Magic Faraway Tree",
+      "img": "https://image.tmdb.org/t/p/original/mtS8mW6aLuartATut8TrD39zTIG.jpg"
+     },
+     {
+      "id": 1265,
+      "title": "Immortal",
+      "img": "https://image.tmdb.org/t/p/original/8Ev68TZqunJ31uvn7cbchALeDkn.jpg"
+     }
+    ],
+    "2026-09-07": [
+     {
+      "id": 1270,
+      "title": "Wild Tamil Nadu",
+      "img": "https://image.tmdb.org/t/p/original/95Re0iL8rZ8TD5kF19tHQCkiHZS.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 39940,
+     "sold": 168,
+     "unsold": 1293,
+     "shows": 9,
+     "occ": 11.5,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 39940,
+     "lastUpdatedAt": "2026-09-09 17:38:01"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 28190,
+     "sold": 118,
+     "unsold": 572,
+     "shows": 5,
+     "occ": 17.1,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 68130,
+     "lastUpdatedAt": "2026-09-09 16:58:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 68130,
+    "totalShows": 14,
+    "totalSeats": 2151,
+    "totalSold": 286,
+    "avgOcc": "13.3",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 39940,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 39940,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "2:28190:68130"
+  }
+ }
+}

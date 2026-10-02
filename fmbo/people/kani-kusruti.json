@@ -1,0 +1,41 @@
+{
+ "slug": "kani-kusruti",
+ "name": "Kani Kusruti",
+ "source_url": "https://fridaymatinee.in/people/kani-kusruti",
+ "captured_at": "2026-10-01T23:38:55.563976+00:00",
+ "person": {
+  "name": "Kani Kusruti",
+  "photo": "https://image.tmdb.org/t/p/w185/8WCuR3HcPYBeS2tQusFTEl596hM.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 594,
+   "movie_slug": "mura",
+   "title": "Mura",
+   "year": 2024,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 605,
+   "movie_slug": "all-we-imagine-as-light",
+   "title": "All We Imagine as Light",
+   "year": 2024,
+   "kerala_gross": "₹18.2L"
+  },
+  {
+   "movie_id": 1015,
+   "movie_slug": "assi",
+   "title": "Assi",
+   "year": 2026,
+   "kerala_gross": "₹1.9L"
+  }
+ ]
+}

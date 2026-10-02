@@ -1,0 +1,55 @@
+{
+ "slug": "janhvi-kapoor",
+ "name": "Janhvi Kapoor",
+ "source_url": "https://fridaymatinee.in/people/janhvi-kapoor",
+ "captured_at": "2026-10-01T23:01:47.548120+00:00",
+ "person": {
+  "name": "Janhvi Kapoor",
+  "photo": "https://image.tmdb.org/t/p/w185/2VqBDc19br9CIitXUFkZ52q7V2o.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 574,
+   "movie_slug": "devara-part-1",
+   "title": "Devara - Part 1",
+   "year": 2024,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 791,
+   "movie_slug": "param-sundari",
+   "title": "Param Sundari",
+   "year": 2025,
+   "kerala_gross": "₹21.4L"
+  },
+  {
+   "movie_id": 849,
+   "movie_slug": "homebound",
+   "title": "Homebound",
+   "year": 2025,
+   "kerala_gross": "₹1.7L"
+  },
+  {
+   "movie_id": 1127,
+   "movie_slug": "peddi",
+   "title": "Peddi",
+   "year": 2026,
+   "kerala_gross": "₹47.5L"
+  },
+  {
+   "movie_id": 1317,
+   "movie_slug": "raaka",
+   "title": "Raaka",
+   "year": 2027,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

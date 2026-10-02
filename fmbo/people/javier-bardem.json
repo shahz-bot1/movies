@@ -1,0 +1,48 @@
+{
+ "slug": "javier-bardem",
+ "name": "Javier Bardem",
+ "source_url": "https://fridaymatinee.in/people/javier-bardem",
+ "captured_at": "2026-10-01T23:04:21.846407+00:00",
+ "person": {
+  "name": "Javier Bardem",
+  "photo": "https://image.tmdb.org/t/p/w185/zfRID0jx8DKBluPGU9xtk9sZWUt.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 498,
+   "movie_slug": "dune-part-two",
+   "title": "Dune: Part Two",
+   "year": 2024,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 697,
+   "movie_slug": "f1-the-movie",
+   "title": "F1 The Movie",
+   "year": 2025,
+   "kerala_gross": "₹8.2 Cr"
+  },
+  {
+   "movie_id": 1110,
+   "movie_slug": "iron-maiden-burning-ambition",
+   "title": "Iron Maiden: Burning Ambition",
+   "year": 2026,
+   "kerala_gross": "₹31K"
+  },
+  {
+   "movie_id": 778,
+   "movie_slug": "dune-part-three",
+   "title": "Dune: Part Three",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

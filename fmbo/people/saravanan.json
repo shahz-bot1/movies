@@ -1,0 +1,48 @@
+{
+ "slug": "saravanan",
+ "name": "Saravanan",
+ "source_url": "https://fridaymatinee.in/people/saravanan",
+ "captured_at": "2026-10-02T10:14:37.667521+00:00",
+ "person": {
+  "name": "Saravanan",
+  "photo": "https://image.tmdb.org/t/p/w185/mrLYzEZr0w0dq7LS3CXfYdLVlpK.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 547,
+   "movie_slug": "raayan",
+   "title": "Raayan",
+   "year": 2024,
+   "kerala_gross": "₹4.4 Cr"
+  },
+  {
+   "movie_id": 739,
+   "movie_slug": "thalaivan-thalaivii",
+   "title": "Thalaivan Thalaivii",
+   "year": 2025,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 821,
+   "movie_slug": "mirage",
+   "title": "Mirage",
+   "year": 2025,
+   "kerala_gross": "₹5.2 Cr"
+  },
+  {
+   "movie_id": 997,
+   "movie_slug": "with-love",
+   "title": "With Love",
+   "year": 2026,
+   "kerala_gross": "₹27.5L"
+  }
+ ]
+}

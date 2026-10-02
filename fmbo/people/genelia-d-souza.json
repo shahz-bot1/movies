@@ -1,0 +1,53 @@
+{
+ "slug": "genelia-d-souza",
+ "name": "Genelia D'Souza",
+ "source_url": "https://fridaymatinee.in/people/genelia-d-souza",
+ "captured_at": "2026-10-01T22:29:24.426895+00:00",
+ "person": {
+  "name": "Genelia D'Souza",
+  "photo": "https://image.tmdb.org/t/p/w185/q4g6maGv227VuxGQdtNfyJ1SKXR.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 708,
+   "movie_slug": "sitaare-zameen-par",
+   "title": "Sitaare Zameen Par",
+   "year": 2025,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 920,
+   "movie_slug": "mastiii-4",
+   "title": "Mastiii 4",
+   "year": 2025,
+   "kerala_gross": "₹4.4L"
+  },
+  {
+   "movie_id": 1099,
+   "movie_slug": "raja-shivaji",
+   "title": "Raja Shivaji",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 1149,
+   "movie_slug": "happy-be-happy",
+   "title": "Happy Be Happy",
+   "year": 2026,
+   "kerala_gross": "₹1.1 Cr"
+  }
+ ]
+}

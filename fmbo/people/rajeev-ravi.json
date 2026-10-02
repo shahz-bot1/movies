@@ -1,0 +1,46 @@
+{
+ "slug": "rajeev-ravi",
+ "name": "Rajeev Ravi",
+ "source_url": "https://fridaymatinee.in/people/rajeev-ravi",
+ "captured_at": "2026-10-02T08:31:56.064744+00:00",
+ "person": {
+  "name": "Rajeev Ravi",
+  "photo": "https://image.tmdb.org/t/p/w185/7PaWPa9mjdwOvory7JuGX1spGpX.jpg",
+  "role": "Cinematography and director"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 3
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 29,
+   "movie_slug": "moothon",
+   "title": "Moothon",
+   "year": 2019,
+   "kerala_gross": "₹63.5L"
+  },
+  {
+   "movie_id": 304,
+   "movie_slug": "thuramukham",
+   "title": "Thuramukham",
+   "year": 2023,
+   "kerala_gross": "₹1.9 Cr"
+  },
+  {
+   "movie_id": 669,
+   "movie_slug": "toxic",
+   "title": "Toxic",
+   "year": 2026,
+   "kerala_gross": "₹3.5 Cr"
+  }
+ ]
+}

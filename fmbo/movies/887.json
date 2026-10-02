@@ -1,0 +1,1188 @@
+{
+ "id": 887,
+ "slug": "aaryan",
+ "source_url": "https://fridaymatinee.in/boxoffice/aaryan-887",
+ "captured_at": "2026-10-01T18:25:25.915458+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 887,
+    "title": "Aaryan",
+    "img": "https://image.tmdb.org/t/p/original/rRjh3zumdW89fNMe4tdjmALB1xG.jpg",
+    "released": "2025-10-31",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28434143",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "134 min",
+    "genre": "Action, Thriller, Crime",
+    "plot": "A struggling writer announces he'll commit the perfect crime, sparking a tense pursuit as police try to prevent his methodically planned killing spree.",
+    "released": "2025-10-31",
+    "director": "Praveen K.",
+    "directorSlug": "praveen-k",
+    "actors": [
+     "Vishnu Vishal",
+     "Shraddha Srinath",
+     "Selvaraghavan",
+     "Maanasa Chaudhary",
+     "Avinash",
+     "Jayakumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 3408,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vishnu Vishal",
+     "character": "Arivudai Nambi",
+     "slug": "vishnu-vishal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3i9sG0v3sQ8sQCcVgiGI3HezH8r.jpg"
+    },
+    {
+     "name": "Shraddha Srinath",
+     "character": "Nayana",
+     "slug": "shraddha-srinath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fzna7CNrtggE9sJLWWOPCHVdCmD.jpg"
+    },
+    {
+     "name": "Selvaraghavan",
+     "character": "Alagar \"Narayanan\"",
+     "slug": "selvaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iTEdyvN5XoB0fl6kMg0tChBY4Ml.jpg"
+    },
+    {
+     "name": "Maanasa Chaudhary",
+     "character": "Anitha",
+     "slug": "maanasa-chaudhary",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9If2kbsV6ewbsUKviyvyYC5xJ2G.jpg"
+    },
+    {
+     "name": "Avinash",
+     "character": "Ravi Chakrapani",
+     "slug": "avinash",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uvDw1elYkPDooFNnq6yHJKBhz6s.jpg"
+    },
+    {
+     "name": "Jayakumar",
+     "character": null,
+     "slug": "jayakumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b5BQiVNw3HJ7lZkGVR7NRClmvx2.jpg"
+    },
+    {
+     "name": "Jeeva Subramanian",
+     "character": "Nalini",
+     "slug": "jeeva-subramanian",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/irAhCy0p7EY8W4igSgt5GAB1EPC.jpg"
+    },
+    {
+     "name": "Udhayabanu Mageswaran",
+     "character": "Lucas Xavier",
+     "slug": "udhayabanu-mageswaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7DMw9sN1ITqcZbnvwalFzxaENHJ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Praveen K.",
+       "slug": "praveen-k"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Praveen K.",
+       "slug": "praveen-k"
+      },
+      {
+       "name": "Manu Anand",
+       "slug": "manu-anand-12952"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ghibran",
+       "slug": "ghibran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Harish Kannan",
+       "slug": "harish-kannan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "San Lokesh",
+       "slug": "san-lokesh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vishnu Vishal",
+       "slug": "vishnu-vishal"
+      },
+      {
+       "name": "Shubhra Gupta",
+       "slug": "shubhra-gupta"
+      },
+      {
+       "name": "Aryan Ramesh",
+       "slug": "aryan-ramesh"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Vishnu Vishal Studioz",
+     "slug": "vishnu-vishal-studioz",
+     "logo": null
+    },
+    {
+     "name": "D Company",
+     "slug": "d-company",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-28",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-11-07": [
+     {
+      "id": 877,
+      "title": "Predator: Badlands",
+      "img": "https://image.tmdb.org/t/p/original/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg"
+     },
+     {
+      "id": 880,
+      "title": "Innocent",
+      "img": "https://image.tmdb.org/t/p/original/A1z6Uhk63p6kh43mkuTfECIkcRQ.jpg"
+     },
+     {
+      "id": 899,
+      "title": "Ithiri Neram",
+      "img": "https://image.tmdb.org/t/p/original/vpyf5DG2SE3kMeR9zexiMglZy2P.jpg"
+     }
+    ],
+    "2025-11-12": [
+     {
+      "id": 878,
+      "title": "Now You See Me: Now You Dont",
+      "img": "https://image.tmdb.org/t/p/original/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
+     },
+     {
+      "id": 879,
+      "title": "The Running Man",
+      "img": "https://image.tmdb.org/t/p/original/yhWKTCYa0LK9kS6zcKGYc5Dx9xQ.jpg"
+     }
+    ],
+    "2025-10-31": [
+     {
+      "id": 888,
+      "title": "Bugonia",
+      "img": "https://image.tmdb.org/t/p/original/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg"
+     },
+     {
+      "id": 889,
+      "title": "COMONDRA ALIEN",
+      "img": "https://image.tmdb.org/t/p/original/jIXzLgGIuamgAhwVYd70XO9Dj7f.jpg"
+     },
+     {
+      "id": 890,
+      "title": "The Black Phone 2",
+      "img": "https://image.tmdb.org/t/p/original/d9kDYFoQzcmhWtmncJhKsFq8KoH.jpg"
+     }
+    ],
+    "2025-11-13": [
+     {
+      "id": 915,
+      "title": "De De Pyaar De 2",
+      "img": "https://image.tmdb.org/t/p/original/g3J7r2t3L9HEgyWMX0Fki04Swtu.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-10-31",
+     "gross": 813116.6000000001,
+     "sold": 5329,
+     "unsold": 68842,
+     "shows": 287,
+     "occ": 7.18,
+     "hf": "0",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 813116.6000000001,
+     "lastUpdatedAt": "2025-10-31 23:48:00"
+    },
+    {
+     "label": "2025-11-01",
+     "gross": 769845.4000000001,
+     "sold": 5138,
+     "unsold": 63461,
+     "shows": 264,
+     "occ": 7.49,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 1582962.0000000002,
+     "lastUpdatedAt": "2025-11-01 23:48:00"
+    },
+    {
+     "label": "2025-11-02",
+     "gross": 840932.8,
+     "sold": 5676,
+     "unsold": 63403,
+     "shows": 262,
+     "occ": 8.22,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 2423894.8000000003,
+     "lastUpdatedAt": "2025-11-02 23:03:00"
+    },
+    {
+     "label": "2025-11-03",
+     "gross": 594548.4000000001,
+     "sold": 4260,
+     "unsold": 52642,
+     "shows": 223,
+     "occ": 7.49,
+     "hf": "5",
+     "almost": "5",
+     "ff": "0",
+     "cumul": 3018443.2,
+     "lastUpdatedAt": "2025-11-03 23:48:00"
+    },
+    {
+     "label": "2025-11-04",
+     "gross": 663388.0000000001,
+     "sold": 4640,
+     "unsold": 45814,
+     "shows": 199,
+     "occ": 9.2,
+     "hf": "5",
+     "almost": "5",
+     "ff": "0",
+     "cumul": 3681831.2,
+     "lastUpdatedAt": "2025-11-04 23:58:00"
+    },
+    {
+     "label": "2025-11-05",
+     "gross": 701532,
+     "sold": 4869,
+     "unsold": 38300,
+     "shows": 165,
+     "occ": 11.28,
+     "hf": "5",
+     "almost": "5",
+     "ff": "0",
+     "cumul": 4383363.2,
+     "lastUpdatedAt": "2025-11-05 23:58:00"
+    },
+    {
+     "label": "2025-11-06",
+     "gross": 546263.6000000001,
+     "sold": 3803,
+     "unsold": 32354,
+     "shows": 139,
+     "occ": 10.52,
+     "hf": "5",
+     "almost": "5",
+     "ff": "0",
+     "cumul": 4929626.800000001,
+     "lastUpdatedAt": "2025-11-06 23:58:00"
+    },
+    {
+     "label": "2025-11-07",
+     "gross": 4147,
+     "sold": 34,
+     "unsold": 324,
+     "shows": 2,
+     "occ": 9.5,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4933773.800000001,
+     "lastUpdatedAt": "2025-11-07 14:23:00"
+    },
+    {
+     "label": "2025-11-08",
+     "gross": 6415,
+     "sold": 52,
+     "unsold": 306,
+     "shows": 2,
+     "occ": 14.53,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4940188.800000001,
+     "lastUpdatedAt": "2025-11-08 14:23:00"
+    },
+    {
+     "label": "2025-11-09",
+     "gross": 9881,
+     "sold": 80,
+     "unsold": 278,
+     "shows": 2,
+     "occ": 22.35,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4950069.800000001,
+     "lastUpdatedAt": "2025-11-09 14:23:00"
+    },
+    {
+     "label": "2025-11-10",
+     "gross": 5790,
+     "sold": 48,
+     "unsold": 310,
+     "shows": 2,
+     "occ": 13.41,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4955859.800000001,
+     "lastUpdatedAt": "2025-11-10 14:23:00"
+    },
+    {
+     "label": "2025-11-11",
+     "gross": 5110,
+     "sold": 43,
+     "unsold": 315,
+     "shows": 2,
+     "occ": 12.01,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4960969.800000001,
+     "lastUpdatedAt": "2025-11-11 14:23:00"
+    },
+    {
+     "label": "2025-11-12",
+     "gross": 1980,
+     "sold": 18,
+     "unsold": 214,
+     "shows": 1,
+     "occ": 7.76,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4962949.800000001,
+     "lastUpdatedAt": "2025-11-12 11:28:00"
+    },
+    {
+     "label": "2025-11-13",
+     "gross": 4187,
+     "sold": 34,
+     "unsold": 324,
+     "shows": 2,
+     "occ": 9.5,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4967136.800000001,
+     "lastUpdatedAt": "2025-11-13 14:23:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 4967136.800000001,
+    "totalShows": 1552,
+    "totalSeats": 400911,
+    "totalSold": 34024,
+    "avgOcc": "8.5",
+    "totalDays": 14,
+    "totalHousefull": 25,
+    "totalAlmost": 26,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 3,
+     "gross": 840932.8,
+     "date": "2025-11-02"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 813116.6000000001,
+     "date": "2025-10-31"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "14:4187:4967136.800000001"
+  },
+  "week": {
+   "movie": {
+    "id": 887,
+    "title": "Aaryan",
+    "img": "https://image.tmdb.org/t/p/original/rRjh3zumdW89fNMe4tdjmALB1xG.jpg",
+    "released": "2025-10-31",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28434143",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "134 min",
+    "genre": "Action, Thriller, Crime",
+    "plot": "A struggling writer announces he'll commit the perfect crime, sparking a tense pursuit as police try to prevent his methodically planned killing spree.",
+    "released": "2025-10-31",
+    "director": "Praveen K.",
+    "directorSlug": "praveen-k",
+    "actors": [
+     "Vishnu Vishal",
+     "Shraddha Srinath",
+     "Selvaraghavan",
+     "Maanasa Chaudhary",
+     "Avinash",
+     "Jayakumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 3408,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vishnu Vishal",
+     "character": "Arivudai Nambi",
+     "slug": "vishnu-vishal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3i9sG0v3sQ8sQCcVgiGI3HezH8r.jpg"
+    },
+    {
+     "name": "Shraddha Srinath",
+     "character": "Nayana",
+     "slug": "shraddha-srinath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fzna7CNrtggE9sJLWWOPCHVdCmD.jpg"
+    },
+    {
+     "name": "Selvaraghavan",
+     "character": "Alagar \"Narayanan\"",
+     "slug": "selvaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iTEdyvN5XoB0fl6kMg0tChBY4Ml.jpg"
+    },
+    {
+     "name": "Maanasa Chaudhary",
+     "character": "Anitha",
+     "slug": "maanasa-chaudhary",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9If2kbsV6ewbsUKviyvyYC5xJ2G.jpg"
+    },
+    {
+     "name": "Avinash",
+     "character": "Ravi Chakrapani",
+     "slug": "avinash",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uvDw1elYkPDooFNnq6yHJKBhz6s.jpg"
+    },
+    {
+     "name": "Jayakumar",
+     "character": null,
+     "slug": "jayakumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b5BQiVNw3HJ7lZkGVR7NRClmvx2.jpg"
+    },
+    {
+     "name": "Jeeva Subramanian",
+     "character": "Nalini",
+     "slug": "jeeva-subramanian",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/irAhCy0p7EY8W4igSgt5GAB1EPC.jpg"
+    },
+    {
+     "name": "Udhayabanu Mageswaran",
+     "character": "Lucas Xavier",
+     "slug": "udhayabanu-mageswaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7DMw9sN1ITqcZbnvwalFzxaENHJ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Praveen K.",
+       "slug": "praveen-k"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Praveen K.",
+       "slug": "praveen-k"
+      },
+      {
+       "name": "Manu Anand",
+       "slug": "manu-anand-12952"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ghibran",
+       "slug": "ghibran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Harish Kannan",
+       "slug": "harish-kannan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "San Lokesh",
+       "slug": "san-lokesh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vishnu Vishal",
+       "slug": "vishnu-vishal"
+      },
+      {
+       "name": "Shubhra Gupta",
+       "slug": "shubhra-gupta"
+      },
+      {
+       "name": "Aryan Ramesh",
+       "slug": "aryan-ramesh"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Vishnu Vishal Studioz",
+     "slug": "vishnu-vishal-studioz",
+     "logo": null
+    },
+    {
+     "name": "D Company",
+     "slug": "d-company",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-28",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-11-07": [
+     {
+      "id": 877,
+      "title": "Predator: Badlands",
+      "img": "https://image.tmdb.org/t/p/original/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg"
+     },
+     {
+      "id": 880,
+      "title": "Innocent",
+      "img": "https://image.tmdb.org/t/p/original/A1z6Uhk63p6kh43mkuTfECIkcRQ.jpg"
+     },
+     {
+      "id": 899,
+      "title": "Ithiri Neram",
+      "img": "https://image.tmdb.org/t/p/original/vpyf5DG2SE3kMeR9zexiMglZy2P.jpg"
+     }
+    ],
+    "2025-11-12": [
+     {
+      "id": 878,
+      "title": "Now You See Me: Now You Dont",
+      "img": "https://image.tmdb.org/t/p/original/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
+     },
+     {
+      "id": 879,
+      "title": "The Running Man",
+      "img": "https://image.tmdb.org/t/p/original/yhWKTCYa0LK9kS6zcKGYc5Dx9xQ.jpg"
+     }
+    ],
+    "2025-10-31": [
+     {
+      "id": 888,
+      "title": "Bugonia",
+      "img": "https://image.tmdb.org/t/p/original/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg"
+     },
+     {
+      "id": 889,
+      "title": "COMONDRA ALIEN",
+      "img": "https://image.tmdb.org/t/p/original/jIXzLgGIuamgAhwVYd70XO9Dj7f.jpg"
+     },
+     {
+      "id": 890,
+      "title": "The Black Phone 2",
+      "img": "https://image.tmdb.org/t/p/original/d9kDYFoQzcmhWtmncJhKsFq8KoH.jpg"
+     }
+    ],
+    "2025-11-13": [
+     {
+      "id": 915,
+      "title": "De De Pyaar De 2",
+      "img": "https://image.tmdb.org/t/p/original/g3J7r2t3L9HEgyWMX0Fki04Swtu.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-10-31",
+     "gross": 4929626.8,
+     "sold": 33715,
+     "unsold": 364816,
+     "shows": 1539,
+     "occ": 8.46,
+     "hf": "25",
+     "almost": "26",
+     "ff": "0",
+     "cumul": 4929626.8,
+     "lastUpdatedAt": "2025-11-06 23:58:00"
+    },
+    {
+     "label": "2025-11-07",
+     "gross": 37510,
+     "sold": 309,
+     "unsold": 2071,
+     "shows": 13,
+     "occ": 12.98,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4967136.8,
+     "lastUpdatedAt": "2025-11-13 14:23:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 4967136.8,
+    "totalShows": 1552,
+    "totalSeats": 400911,
+    "totalSold": 34024,
+    "avgOcc": "8.5",
+    "totalDays": 2,
+    "totalHousefull": 25,
+    "totalAlmost": 26,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 4929626.8
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 4929626.8
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "2:37510:4967136.8"
+  },
+  "district": {
+   "movie": {
+    "id": 887,
+    "title": "Aaryan",
+    "img": "https://image.tmdb.org/t/p/original/rRjh3zumdW89fNMe4tdjmALB1xG.jpg",
+    "released": "2025-10-31",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28434143",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "134 min",
+    "genre": "Action, Thriller, Crime",
+    "plot": "A struggling writer announces he'll commit the perfect crime, sparking a tense pursuit as police try to prevent his methodically planned killing spree.",
+    "released": "2025-10-31",
+    "director": "Praveen K.",
+    "directorSlug": "praveen-k",
+    "actors": [
+     "Vishnu Vishal",
+     "Shraddha Srinath",
+     "Selvaraghavan",
+     "Maanasa Chaudhary",
+     "Avinash",
+     "Jayakumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 3408,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vishnu Vishal",
+     "character": "Arivudai Nambi",
+     "slug": "vishnu-vishal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3i9sG0v3sQ8sQCcVgiGI3HezH8r.jpg"
+    },
+    {
+     "name": "Shraddha Srinath",
+     "character": "Nayana",
+     "slug": "shraddha-srinath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fzna7CNrtggE9sJLWWOPCHVdCmD.jpg"
+    },
+    {
+     "name": "Selvaraghavan",
+     "character": "Alagar \"Narayanan\"",
+     "slug": "selvaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iTEdyvN5XoB0fl6kMg0tChBY4Ml.jpg"
+    },
+    {
+     "name": "Maanasa Chaudhary",
+     "character": "Anitha",
+     "slug": "maanasa-chaudhary",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9If2kbsV6ewbsUKviyvyYC5xJ2G.jpg"
+    },
+    {
+     "name": "Avinash",
+     "character": "Ravi Chakrapani",
+     "slug": "avinash",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uvDw1elYkPDooFNnq6yHJKBhz6s.jpg"
+    },
+    {
+     "name": "Jayakumar",
+     "character": null,
+     "slug": "jayakumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b5BQiVNw3HJ7lZkGVR7NRClmvx2.jpg"
+    },
+    {
+     "name": "Jeeva Subramanian",
+     "character": "Nalini",
+     "slug": "jeeva-subramanian",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/irAhCy0p7EY8W4igSgt5GAB1EPC.jpg"
+    },
+    {
+     "name": "Udhayabanu Mageswaran",
+     "character": "Lucas Xavier",
+     "slug": "udhayabanu-mageswaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7DMw9sN1ITqcZbnvwalFzxaENHJ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Praveen K.",
+       "slug": "praveen-k"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Praveen K.",
+       "slug": "praveen-k"
+      },
+      {
+       "name": "Manu Anand",
+       "slug": "manu-anand-12952"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ghibran",
+       "slug": "ghibran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Harish Kannan",
+       "slug": "harish-kannan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "San Lokesh",
+       "slug": "san-lokesh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vishnu Vishal",
+       "slug": "vishnu-vishal"
+      },
+      {
+       "name": "Shubhra Gupta",
+       "slug": "shubhra-gupta"
+      },
+      {
+       "name": "Aryan Ramesh",
+       "slug": "aryan-ramesh"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Vishnu Vishal Studioz",
+     "slug": "vishnu-vishal-studioz",
+     "logo": null
+    },
+    {
+     "name": "D Company",
+     "slug": "d-company",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-28",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-11-07": [
+     {
+      "id": 877,
+      "title": "Predator: Badlands",
+      "img": "https://image.tmdb.org/t/p/original/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg"
+     },
+     {
+      "id": 880,
+      "title": "Innocent",
+      "img": "https://image.tmdb.org/t/p/original/A1z6Uhk63p6kh43mkuTfECIkcRQ.jpg"
+     },
+     {
+      "id": 899,
+      "title": "Ithiri Neram",
+      "img": "https://image.tmdb.org/t/p/original/vpyf5DG2SE3kMeR9zexiMglZy2P.jpg"
+     }
+    ],
+    "2025-11-12": [
+     {
+      "id": 878,
+      "title": "Now You See Me: Now You Dont",
+      "img": "https://image.tmdb.org/t/p/original/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
+     },
+     {
+      "id": 879,
+      "title": "The Running Man",
+      "img": "https://image.tmdb.org/t/p/original/yhWKTCYa0LK9kS6zcKGYc5Dx9xQ.jpg"
+     }
+    ],
+    "2025-10-31": [
+     {
+      "id": 888,
+      "title": "Bugonia",
+      "img": "https://image.tmdb.org/t/p/original/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg"
+     },
+     {
+      "id": 889,
+      "title": "COMONDRA ALIEN",
+      "img": "https://image.tmdb.org/t/p/original/jIXzLgGIuamgAhwVYd70XO9Dj7f.jpg"
+     },
+     {
+      "id": 890,
+      "title": "The Black Phone 2",
+      "img": "https://image.tmdb.org/t/p/original/d9kDYFoQzcmhWtmncJhKsFq8KoH.jpg"
+     }
+    ],
+    "2025-11-13": [
+     {
+      "id": 915,
+      "title": "De De Pyaar De 2",
+      "img": "https://image.tmdb.org/t/p/original/g3J7r2t3L9HEgyWMX0Fki04Swtu.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 975458,
+     "sold": 5727,
+     "unsold": 39062,
+     "shows": 172,
+     "occ": 12.79,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 975458,
+     "lastUpdatedAt": "2025-11-06 23:58:00"
+    },
+    {
+     "label": "Pathanamthitta",
+     "gross": 684315,
+     "sold": 5069,
+     "unsold": 6325,
+     "shows": 27,
+     "occ": 44.49,
+     "hf": "12",
+     "almost": "12",
+     "ff": "0",
+     "cumul": 1659773,
+     "lastUpdatedAt": "2025-11-06 20:43:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 612999,
+     "sold": 4243,
+     "unsold": 33632,
+     "shows": 151,
+     "occ": 11.2,
+     "hf": "4",
+     "almost": "4",
+     "ff": "0",
+     "cumul": 2272772,
+     "lastUpdatedAt": "2025-11-06 21:28:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 491403,
+     "sold": 2619,
+     "unsold": 35284,
+     "shows": 200,
+     "occ": 6.91,
+     "hf": "3",
+     "almost": "4",
+     "ff": "0",
+     "cumul": 2764175,
+     "lastUpdatedAt": "2025-11-06 22:08:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 487109,
+     "sold": 3049,
+     "unsold": 25000,
+     "shows": 80,
+     "occ": 10.87,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3251284,
+     "lastUpdatedAt": "2025-11-06 20:53:00"
+    },
+    {
+     "label": "Idukki",
+     "gross": 413508,
+     "sold": 3198,
+     "unsold": 7774,
+     "shows": 39,
+     "occ": 29.15,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3664792,
+     "lastUpdatedAt": "2025-11-06 21:23:00"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 395738,
+     "sold": 3160,
+     "unsold": 58220,
+     "shows": 262,
+     "occ": 5.15,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 4060530,
+     "lastUpdatedAt": "2025-11-13 14:23:00"
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 262673,
+     "sold": 1857,
+     "unsold": 8407,
+     "shows": 40,
+     "occ": 18.09,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4323203,
+     "lastUpdatedAt": "2025-11-06 22:23:00"
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 205645,
+     "sold": 1913,
+     "unsold": 17015,
+     "shows": 52,
+     "occ": 10.11,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4528848,
+     "lastUpdatedAt": "2025-11-06 21:23:00"
+    },
+    {
+     "label": "Kollam",
+     "gross": 184760,
+     "sold": 1264,
+     "unsold": 41282,
+     "shows": 133,
+     "occ": 2.97,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 4713608,
+     "lastUpdatedAt": "2025-11-06 21:08:00"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 140615,
+     "sold": 1171,
+     "unsold": 39334,
+     "shows": 160,
+     "occ": 2.89,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4854223,
+     "lastUpdatedAt": "2025-11-06 21:59:00"
+    },
+    {
+     "label": "Kottayam",
+     "gross": 77915,
+     "sold": 539,
+     "unsold": 36919,
+     "shows": 122,
+     "occ": 1.44,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 4932138,
+     "lastUpdatedAt": "2025-11-06 20:48:00"
+    },
+    {
+     "label": "Kannur",
+     "gross": 28762.400000000744,
+     "sold": 171,
+     "unsold": 14626,
+     "shows": 97,
+     "occ": 1.16,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 4960900.4,
+     "lastUpdatedAt": "2025-11-06 20:43:00"
+    },
+    {
+     "label": "Wayanad",
+     "gross": 6236.400000000001,
+     "sold": 44,
+     "unsold": 4007,
+     "shows": 17,
+     "occ": 1.09,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4967136.800000001,
+     "lastUpdatedAt": "2025-11-03 17:13:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 4967136.800000001,
+    "totalShows": 1552,
+    "totalSeats": 400911,
+    "totalSold": 34024,
+    "avgOcc": "8.5",
+    "totalDays": 14,
+    "totalHousefull": 25,
+    "totalAlmost": 26,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 975458,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 975458,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "14:6236.400000000001:4967136.800000001"
+  }
+ }
+}

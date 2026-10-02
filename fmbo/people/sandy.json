@@ -1,0 +1,48 @@
+{
+ "slug": "sandy",
+ "name": "Sandy",
+ "source_url": "https://fridaymatinee.in/people/sandy",
+ "captured_at": "2026-10-02T10:08:15.048036+00:00",
+ "person": {
+  "name": "Sandy",
+  "photo": "https://image.tmdb.org/t/p/w185/hyZHicpeea7dtOBUo7nuCEYXsS2.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 430,
+   "movie_slug": "leo",
+   "title": "Leo",
+   "year": 2023,
+   "kerala_gross": "₹47.4 Cr"
+  },
+  {
+   "movie_id": 761,
+   "movie_slug": "lokah-chapter-one-chandra",
+   "title": "Lokah: Chapter One - Chandra",
+   "year": 2025,
+   "kerala_gross": "₹111.4 Cr"
+  },
+  {
+   "movie_id": 883,
+   "movie_slug": "bha-bha-ba",
+   "title": "Bha. Bha. Ba.",
+   "year": 2025,
+   "kerala_gross": "₹22.3 Cr"
+  },
+  {
+   "movie_id": 1138,
+   "movie_slug": "parimala-and-co",
+   "title": "Parimala and Co",
+   "year": 2026,
+   "kerala_gross": "₹29.7L"
+  }
+ ]
+}

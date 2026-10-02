@@ -1,0 +1,48 @@
+{
+ "slug": "meghanathan",
+ "name": "Meghanathan",
+ "source_url": "https://fridaymatinee.in/people/meghanathan",
+ "captured_at": "2026-10-02T00:33:09.875635+00:00",
+ "person": {
+  "name": "Meghanathan",
+  "photo": "https://image.tmdb.org/t/p/w185/dHN1gtw6XjsB9XZ5m91xbVQ5Mku.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 26,
+   "movie_slug": "under-world",
+   "title": "Under World",
+   "year": 2019,
+   "kerala_gross": "₹35.9L"
+  },
+  {
+   "movie_id": 43,
+   "movie_slug": "mamangam",
+   "title": "Mamangam",
+   "year": 2019,
+   "kerala_gross": "₹5.7 Cr"
+  },
+  {
+   "movie_id": 236,
+   "movie_slug": "kooman",
+   "title": "Kooman",
+   "year": 2022,
+   "kerala_gross": "₹6.8 Cr"
+  },
+  {
+   "movie_id": 802,
+   "movie_slug": "the-case-diary",
+   "title": "The Case Diary",
+   "year": 2025,
+   "kerala_gross": "₹21.5L"
+  }
+ ]
+}

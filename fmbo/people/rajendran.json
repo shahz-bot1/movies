@@ -1,0 +1,62 @@
+{
+ "slug": "rajendran",
+ "name": "Rajendran",
+ "source_url": "https://fridaymatinee.in/people/rajendran",
+ "captured_at": "2026-10-02T08:32:12.074989+00:00",
+ "person": {
+  "name": "Rajendran",
+  "photo": "https://image.tmdb.org/t/p/w185/jgIYDgHQVg1ZPbpK1P2r51W3G7M.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 31,
+   "movie_slug": "sangathamizhan",
+   "title": "Sangathamizhan",
+   "year": 2019,
+   "kerala_gross": "₹4.6L"
+  },
+  {
+   "movie_id": 40,
+   "movie_slug": "kamala",
+   "title": "Kamala",
+   "year": 2019,
+   "kerala_gross": "₹17.0L"
+  },
+  {
+   "movie_id": 297,
+   "movie_slug": "vaathi",
+   "title": "Vaathi",
+   "year": 2023,
+   "kerala_gross": "₹50.3L"
+  },
+  {
+   "movie_id": 454,
+   "movie_slug": "japan",
+   "title": "Japan",
+   "year": 2023,
+   "kerala_gross": "₹17.8L"
+  },
+  {
+   "movie_id": 827,
+   "movie_slug": "they-call-him-og",
+   "title": "They Call Him OG",
+   "year": 2025,
+   "kerala_gross": "₹36.6L"
+  },
+  {
+   "movie_id": 1292,
+   "movie_slug": "enna-vilai",
+   "title": "Enna Vilai",
+   "year": 2026,
+   "kerala_gross": "₹5.4L"
+  }
+ ]
+}

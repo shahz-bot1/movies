@@ -1,0 +1,48 @@
+{
+ "slug": "p-b-anish",
+ "name": "P B Anish",
+ "source_url": "https://fridaymatinee.in/people/p-b-anish",
+ "captured_at": "2026-10-02T01:10:07.673359+00:00",
+ "person": {
+  "name": "P B Anish",
+  "photo": null,
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 292,
+   "movie_slug": "momo-in-dubai",
+   "title": "Momo in Dubai",
+   "year": 2023,
+   "kerala_gross": "₹10.1L"
+  },
+  {
+   "movie_id": 549,
+   "movie_slug": "vaazha",
+   "title": "Vaazha",
+   "year": 2024,
+   "kerala_gross": "₹24.4 Cr"
+  },
+  {
+   "movie_id": 861,
+   "movie_slug": "avihitham",
+   "title": "Avihitham",
+   "year": 2025,
+   "kerala_gross": "₹36.9L"
+  },
+  {
+   "movie_id": 1048,
+   "movie_slug": "vaazha-ii",
+   "title": "Vaazha II",
+   "year": 2026,
+   "kerala_gross": "₹119.7 Cr"
+  }
+ ]
+}

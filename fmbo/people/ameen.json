@@ -1,0 +1,48 @@
+{
+ "slug": "ameen",
+ "name": "Ameen",
+ "source_url": "https://fridaymatinee.in/people/ameen",
+ "captured_at": "2026-10-01T20:29:38.315418+00:00",
+ "person": {
+  "name": "Ameen",
+  "photo": "https://image.tmdb.org/t/p/w185/85rIDUu0qh82YA8SkIbfO8n8edR.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 676,
+   "movie_slug": "detective-ujjwalan",
+   "title": "Detective Ujjwalan",
+   "year": 2025,
+   "kerala_gross": "₹4.2 Cr"
+  },
+  {
+   "movie_id": 987,
+   "movie_slug": "prakambanam",
+   "title": "Prakambanam",
+   "year": 2026,
+   "kerala_gross": "₹12.1 Cr"
+  },
+  {
+   "movie_id": 1047,
+   "movie_slug": "derby",
+   "title": "Derby",
+   "year": 2026,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 1048,
+   "movie_slug": "vaazha-ii",
+   "title": "Vaazha II",
+   "year": 2026,
+   "kerala_gross": "₹119.7 Cr"
+  }
+ ]
+}

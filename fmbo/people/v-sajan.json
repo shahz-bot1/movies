@@ -1,0 +1,55 @@
+{
+ "slug": "v-sajan",
+ "name": "V. Sajan",
+ "source_url": "https://fridaymatinee.in/people/v-sajan",
+ "captured_at": "2026-10-02T11:35:16.279096+00:00",
+ "person": {
+  "name": "V. Sajan",
+  "photo": "https://image.tmdb.org/t/p/w185/hND0L6HNK0GZIJgQU1zDcNUyIGR.jpg",
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 266,
+   "movie_slug": "aanandam-paramanandam",
+   "title": "Aanandam Paramanandam",
+   "year": 2022,
+   "kerala_gross": "₹48.6L"
+  },
+  {
+   "movie_id": 354,
+   "movie_slug": "neelavelicham",
+   "title": "Neelavelicham",
+   "year": 2023,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 620,
+   "movie_slug": "rifle-club",
+   "title": "Rifle Club",
+   "year": 2024,
+   "kerala_gross": "₹13.0 Cr"
+  },
+  {
+   "movie_id": 1314,
+   "movie_slug": "aaram",
+   "title": "Aaram",
+   "year": 2026,
+   "kerala_gross": "₹1.0 Cr"
+  },
+  {
+   "movie_id": 1337,
+   "movie_slug": "the-third-murder",
+   "title": "The Third Murder",
+   "year": 2026,
+   "kerala_gross": "₹3.9L"
+  }
+ ]
+}

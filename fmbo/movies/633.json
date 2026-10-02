@@ -1,0 +1,764 @@
+{
+ "id": 633,
+ "slug": "alappuzha-gymkhana",
+ "source_url": "https://fridaymatinee.in/boxoffice/alappuzha-gymkhana-633",
+ "captured_at": "2026-10-01T18:17:37.948190+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 633,
+    "title": "Alappuzha Gymkhana",
+    "img": "https://image.tmdb.org/t/p/original/cbMX1rAh8N6w9fuV4JUFhZ5lhVr.jpg",
+    "released": "2025-04-10",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29884526",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "140 min",
+    "genre": "Action, Drama, Comedy",
+    "plot": "A group of youngsters, after failing their plus two exams, aims to join a common college through the sports quota. They choose boxing as their sport. By luck, they manage to survive the district-level competitions. But what will happen at the higher levels?",
+    "released": "2025-04-10",
+    "director": "Khalid Rahman",
+    "directorSlug": "khalid-rahman",
+    "actors": [
+     "Naslen K. Gafoor",
+     "Lukman Avaran",
+     "Ganapathi S. Poduval",
+     "Sandeep Pradeep",
+     "Anagha Maya Ravi",
+     "Shon Joy"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 5459,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:26.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Naslen K. Gafoor",
+     "character": "Jojo Johnson",
+     "slug": "naslen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8cAVtELGh2ZL5DhyijYBiAQF2Zt.jpg"
+    },
+    {
+     "name": "Lukman Avaran",
+     "character": "Antony Joshua",
+     "slug": "lukman-avaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w1fSOcEP3cezwPtorTLY1dUIkqv.jpg"
+    },
+    {
+     "name": "Ganapathi S. Poduval",
+     "character": "Deepak Panikkar",
+     "slug": "ganapathi-s-poduval",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/15g6TQroqoLmcK1E8CniGZjm72l.jpg"
+    },
+    {
+     "name": "Sandeep Pradeep",
+     "character": "Shifas Ahammed",
+     "slug": "sandeep-pradeep",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sXO4ZSsDlZi1fBOlHWibTiGdt4m.jpg"
+    },
+    {
+     "name": "Anagha Maya Ravi",
+     "character": "Natasha",
+     "slug": "anagha-maya-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4eJdSUgSIHoddsnNVNJTEUKpF17.jpg"
+    },
+    {
+     "name": "Shon Joy",
+     "character": "Kiran",
+     "slug": "shon-joy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v7wESjbvY5cMoR9uEbJoaVfaHDy.jpg"
+    },
+    {
+     "name": "Franco Francis",
+     "character": "Shifas Ali",
+     "slug": "franco-francis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pQ6lobHfFDMOS9MvTV2H5T43qsd.jpg"
+    },
+    {
+     "name": "Baby Jean",
+     "character": "David John",
+     "slug": "baby-jean",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Khalid Rahman",
+       "slug": "khalid-rahman"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Khalid Rahman",
+       "slug": "khalid-rahman"
+      },
+      {
+       "name": "Sreeni Saseendran",
+       "slug": "sreeni-saseendran"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jimshi Khalid",
+       "slug": "jimshi-khalid"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nishadh Yusuf",
+       "slug": "nishadh-yusuf"
+      },
+      {
+       "name": "Bles Thomas",
+       "slug": "bles-thomas"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Khalid Rahman",
+       "slug": "khalid-rahman"
+      },
+      {
+       "name": "Sameer Karat",
+       "slug": "sameer-karat"
+      },
+      {
+       "name": "Subeesh Kannanchery",
+       "slug": "subeesh-kannanchery"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Plan B Motion Pictures",
+     "slug": "plan-b-motion-pictures",
+     "logo": null
+    },
+    {
+     "name": "Reelistic Studios",
+     "slug": "reelistic-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 351889869.59999996,
+    "totalShows": 19577,
+    "totalDays": 43,
+    "openingDay": {
+     "day": 1,
+     "gross": 24103436.8,
+     "date": "2025-04-10"
+    },
+    "peakDay": {
+     "day": 5,
+     "gross": 32230584.6,
+     "date": "2025-04-14"
+    },
+    "chartPosition": {
+     "current_position": 24,
+     "weeks_on_chart": 0,
+     "peak_position": 15,
+     "last_week_position": 24
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-04-10"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 633,
+    "title": "Alappuzha Gymkhana",
+    "img": "https://image.tmdb.org/t/p/original/cbMX1rAh8N6w9fuV4JUFhZ5lhVr.jpg",
+    "released": "2025-04-10",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29884526",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "140 min",
+    "genre": "Action, Drama, Comedy",
+    "plot": "A group of youngsters, after failing their plus two exams, aims to join a common college through the sports quota. They choose boxing as their sport. By luck, they manage to survive the district-level competitions. But what will happen at the higher levels?",
+    "released": "2025-04-10",
+    "director": "Khalid Rahman",
+    "directorSlug": "khalid-rahman",
+    "actors": [
+     "Naslen K. Gafoor",
+     "Lukman Avaran",
+     "Ganapathi S. Poduval",
+     "Sandeep Pradeep",
+     "Anagha Maya Ravi",
+     "Shon Joy"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 5459,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:26.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Naslen K. Gafoor",
+     "character": "Jojo Johnson",
+     "slug": "naslen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8cAVtELGh2ZL5DhyijYBiAQF2Zt.jpg"
+    },
+    {
+     "name": "Lukman Avaran",
+     "character": "Antony Joshua",
+     "slug": "lukman-avaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w1fSOcEP3cezwPtorTLY1dUIkqv.jpg"
+    },
+    {
+     "name": "Ganapathi S. Poduval",
+     "character": "Deepak Panikkar",
+     "slug": "ganapathi-s-poduval",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/15g6TQroqoLmcK1E8CniGZjm72l.jpg"
+    },
+    {
+     "name": "Sandeep Pradeep",
+     "character": "Shifas Ahammed",
+     "slug": "sandeep-pradeep",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sXO4ZSsDlZi1fBOlHWibTiGdt4m.jpg"
+    },
+    {
+     "name": "Anagha Maya Ravi",
+     "character": "Natasha",
+     "slug": "anagha-maya-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4eJdSUgSIHoddsnNVNJTEUKpF17.jpg"
+    },
+    {
+     "name": "Shon Joy",
+     "character": "Kiran",
+     "slug": "shon-joy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v7wESjbvY5cMoR9uEbJoaVfaHDy.jpg"
+    },
+    {
+     "name": "Franco Francis",
+     "character": "Shifas Ali",
+     "slug": "franco-francis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pQ6lobHfFDMOS9MvTV2H5T43qsd.jpg"
+    },
+    {
+     "name": "Baby Jean",
+     "character": "David John",
+     "slug": "baby-jean",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Khalid Rahman",
+       "slug": "khalid-rahman"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Khalid Rahman",
+       "slug": "khalid-rahman"
+      },
+      {
+       "name": "Sreeni Saseendran",
+       "slug": "sreeni-saseendran"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jimshi Khalid",
+       "slug": "jimshi-khalid"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nishadh Yusuf",
+       "slug": "nishadh-yusuf"
+      },
+      {
+       "name": "Bles Thomas",
+       "slug": "bles-thomas"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Khalid Rahman",
+       "slug": "khalid-rahman"
+      },
+      {
+       "name": "Sameer Karat",
+       "slug": "sameer-karat"
+      },
+      {
+       "name": "Subeesh Kannanchery",
+       "slug": "subeesh-kannanchery"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Plan B Motion Pictures",
+     "slug": "plan-b-motion-pictures",
+     "logo": null
+    },
+    {
+     "name": "Reelistic Studios",
+     "slug": "reelistic-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-04-10",
+     "gross": 191469573.39999998,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 6772,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-04-17",
+     "gross": 122147227.60000001,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 7008,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-04-24",
+     "gross": 29324064.60000001,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4417,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-05-01",
+     "gross": 7336339.000000001,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1040,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-05-08",
+     "gross": 1290092,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 295,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-05-15",
+     "gross": 300413,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 42,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-05-22",
+     "gross": 22160,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 351889869.6,
+    "totalShows": 19577,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 191469573.39999998
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 191469573.39999998
+    },
+    "chartPosition": {
+     "current_position": 24,
+     "weeks_on_chart": 0,
+     "peak_position": 15,
+     "last_week_position": 24
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-04-10"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 633,
+    "title": "Alappuzha Gymkhana",
+    "img": "https://image.tmdb.org/t/p/original/cbMX1rAh8N6w9fuV4JUFhZ5lhVr.jpg",
+    "released": "2025-04-10",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29884526",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "140 min",
+    "genre": "Action, Drama, Comedy",
+    "plot": "A group of youngsters, after failing their plus two exams, aims to join a common college through the sports quota. They choose boxing as their sport. By luck, they manage to survive the district-level competitions. But what will happen at the higher levels?",
+    "released": "2025-04-10",
+    "director": "Khalid Rahman",
+    "directorSlug": "khalid-rahman",
+    "actors": [
+     "Naslen K. Gafoor",
+     "Lukman Avaran",
+     "Ganapathi S. Poduval",
+     "Sandeep Pradeep",
+     "Anagha Maya Ravi",
+     "Shon Joy"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 5459,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:26.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Naslen K. Gafoor",
+     "character": "Jojo Johnson",
+     "slug": "naslen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8cAVtELGh2ZL5DhyijYBiAQF2Zt.jpg"
+    },
+    {
+     "name": "Lukman Avaran",
+     "character": "Antony Joshua",
+     "slug": "lukman-avaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w1fSOcEP3cezwPtorTLY1dUIkqv.jpg"
+    },
+    {
+     "name": "Ganapathi S. Poduval",
+     "character": "Deepak Panikkar",
+     "slug": "ganapathi-s-poduval",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/15g6TQroqoLmcK1E8CniGZjm72l.jpg"
+    },
+    {
+     "name": "Sandeep Pradeep",
+     "character": "Shifas Ahammed",
+     "slug": "sandeep-pradeep",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sXO4ZSsDlZi1fBOlHWibTiGdt4m.jpg"
+    },
+    {
+     "name": "Anagha Maya Ravi",
+     "character": "Natasha",
+     "slug": "anagha-maya-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4eJdSUgSIHoddsnNVNJTEUKpF17.jpg"
+    },
+    {
+     "name": "Shon Joy",
+     "character": "Kiran",
+     "slug": "shon-joy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v7wESjbvY5cMoR9uEbJoaVfaHDy.jpg"
+    },
+    {
+     "name": "Franco Francis",
+     "character": "Shifas Ali",
+     "slug": "franco-francis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pQ6lobHfFDMOS9MvTV2H5T43qsd.jpg"
+    },
+    {
+     "name": "Baby Jean",
+     "character": "David John",
+     "slug": "baby-jean",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Khalid Rahman",
+       "slug": "khalid-rahman"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Khalid Rahman",
+       "slug": "khalid-rahman"
+      },
+      {
+       "name": "Sreeni Saseendran",
+       "slug": "sreeni-saseendran"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jimshi Khalid",
+       "slug": "jimshi-khalid"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nishadh Yusuf",
+       "slug": "nishadh-yusuf"
+      },
+      {
+       "name": "Bles Thomas",
+       "slug": "bles-thomas"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Khalid Rahman",
+       "slug": "khalid-rahman"
+      },
+      {
+       "name": "Sameer Karat",
+       "slug": "sameer-karat"
+      },
+      {
+       "name": "Subeesh Kannanchery",
+       "slug": "subeesh-kannanchery"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Plan B Motion Pictures",
+     "slug": "plan-b-motion-pictures",
+     "logo": null
+    },
+    {
+     "name": "Reelistic Studios",
+     "slug": "reelistic-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 351889869.59999996,
+    "totalShows": 19577,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 79295403,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 79295403,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 24,
+     "weeks_on_chart": 0,
+     "peak_position": 15,
+     "last_week_position": 24
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-04-10"
+   }
+  }
+ }
+}

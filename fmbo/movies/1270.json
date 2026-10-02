@@ -1,0 +1,368 @@
+{
+ "id": 1270,
+ "slug": "wild-tamil-nadu",
+ "source_url": "https://fridaymatinee.in/boxoffice/wild-tamil-nadu-1270",
+ "captured_at": "2026-10-01T19:55:29.420096+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1270,
+    "title": "Wild Tamil Nadu",
+    "img": "https://image.tmdb.org/t/p/original/95Re0iL8rZ8TD5kF19tHQCkiHZS.jpg",
+    "released": "2026-09-07",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt38652140",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": "Documentary",
+    "plot": "Wild Tamil Nadu is a spectacular new natural history film that reveals the extraordinary biodiversity of Tamil Nadu- a land where rainforests, reefs, and deserts meet in one of the most unique ecological landscapes on Earth.",
+    "released": "2026-04-18",
+    "director": "Kalyan Varma",
+    "directorSlug": "kalyan-varma",
+    "actors": [
+     "Arvind Swamy"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T16:10:09.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Arvind Swamy",
+     "character": "Narrator",
+     "slug": "arvind-swamy-7361",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Kalyan Varma",
+       "slug": "kalyan-varma"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ricky Kej",
+       "slug": "ricky-kej"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Nature inFocus",
+     "slug": "nature-infocus",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {},
+   "boxoffice": [
+    {
+     "label": "2026-09-08",
+     "gross": 3020,
+     "sold": 16,
+     "unsold": 309,
+     "shows": 2,
+     "occ": 4.92,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3020,
+     "lastUpdatedAt": "2026-09-08 18:53:01"
+    },
+    {
+     "label": "2026-09-09",
+     "gross": 6290,
+     "sold": 29,
+     "unsold": 298,
+     "shows": 2,
+     "occ": 8.87,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 9310,
+     "lastUpdatedAt": "2026-09-09 18:53:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 9310,
+    "totalShows": 4,
+    "totalSeats": 652,
+    "totalSold": 45,
+    "avgOcc": "6.9",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 2,
+     "gross": 6290,
+     "date": "2026-09-09"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 3020,
+     "date": "2026-09-08"
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "2:6290:9310"
+  },
+  "week": {
+   "movie": {
+    "id": 1270,
+    "title": "Wild Tamil Nadu",
+    "img": "https://image.tmdb.org/t/p/original/95Re0iL8rZ8TD5kF19tHQCkiHZS.jpg",
+    "released": "2026-09-07",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt38652140",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": "Documentary",
+    "plot": "Wild Tamil Nadu is a spectacular new natural history film that reveals the extraordinary biodiversity of Tamil Nadu- a land where rainforests, reefs, and deserts meet in one of the most unique ecological landscapes on Earth.",
+    "released": "2026-04-18",
+    "director": "Kalyan Varma",
+    "directorSlug": "kalyan-varma",
+    "actors": [
+     "Arvind Swamy"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T16:10:09.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Arvind Swamy",
+     "character": "Narrator",
+     "slug": "arvind-swamy-7361",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Kalyan Varma",
+       "slug": "kalyan-varma"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ricky Kej",
+       "slug": "ricky-kej"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Nature inFocus",
+     "slug": "nature-infocus",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {},
+   "boxoffice": [
+    {
+     "label": "2026-09-08",
+     "gross": 9310,
+     "sold": 45,
+     "unsold": 607,
+     "shows": 4,
+     "occ": 6.9,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 9310,
+     "lastUpdatedAt": "2026-09-09 18:53:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 9310,
+    "totalShows": 4,
+    "totalSeats": 652,
+    "totalSold": 45,
+    "avgOcc": "6.9",
+    "totalDays": 1,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 9310
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 9310
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "1:9310:9310"
+  },
+  "district": {
+   "movie": {
+    "id": 1270,
+    "title": "Wild Tamil Nadu",
+    "img": "https://image.tmdb.org/t/p/original/95Re0iL8rZ8TD5kF19tHQCkiHZS.jpg",
+    "released": "2026-09-07",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt38652140",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": "Documentary",
+    "plot": "Wild Tamil Nadu is a spectacular new natural history film that reveals the extraordinary biodiversity of Tamil Nadu- a land where rainforests, reefs, and deserts meet in one of the most unique ecological landscapes on Earth.",
+    "released": "2026-04-18",
+    "director": "Kalyan Varma",
+    "directorSlug": "kalyan-varma",
+    "actors": [
+     "Arvind Swamy"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T16:10:09.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Arvind Swamy",
+     "character": "Narrator",
+     "slug": "arvind-swamy-7361",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Kalyan Varma",
+       "slug": "kalyan-varma"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ricky Kej",
+       "slug": "ricky-kej"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Nature inFocus",
+     "slug": "nature-infocus",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {},
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 6820,
+     "sold": 32,
+     "unsold": 376,
+     "shows": 2,
+     "occ": 7.84,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 6820,
+     "lastUpdatedAt": "2026-09-09 18:53:01"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 2490,
+     "sold": 13,
+     "unsold": 231,
+     "shows": 2,
+     "occ": 5.33,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 9310,
+     "lastUpdatedAt": "2026-09-09 18:08:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 9310,
+    "totalShows": 4,
+    "totalSeats": 652,
+    "totalSold": 45,
+    "avgOcc": "6.9",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 6820,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 6820,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "2:2490:9310"
+  }
+ }
+}

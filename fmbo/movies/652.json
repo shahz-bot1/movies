@@ -1,0 +1,632 @@
+{
+ "id": 652,
+ "slug": "daveed",
+ "source_url": "https://fridaymatinee.in/boxoffice/daveed-652",
+ "captured_at": "2026-10-01T18:18:06.496527+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 652,
+    "title": "Daveed",
+    "img": "https://image.tmdb.org/t/p/original/5looJkc3Siu7HqR5farCebWRxQo.jpg",
+    "released": "2025-02-14",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29472286",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "137 min",
+    "genre": "Action, Drama",
+    "plot": "A celebrity bodyguard finds himself in trouble when he crosses an infamous boxer.",
+    "released": "2025-02-13",
+    "director": "Govind Vishnu",
+    "directorSlug": "govind-vishnu",
+    "actors": [
+     "Antony Varghese",
+     "Mo Ismail",
+     "Vijayaraghavan",
+     "Mohammad Karaki",
+     "Lijomol Jose",
+     "Saiju Kurup"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 787,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:21.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Antony Varghese",
+     "character": "Ashiq Abu",
+     "slug": "antony-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dKRa8ghSXw6J1OTcxMziZh3l1jb.jpg"
+    },
+    {
+     "name": "Mo Ismail",
+     "character": "Sainul Akhmadov",
+     "slug": "mo-ismail",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Vijayaraghavan",
+     "character": "Raghavan Aashan",
+     "slug": "vijayaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3AE7r02YPbSrEUIfP7gUN7lLNfI.jpg"
+    },
+    {
+     "name": "Mohammad Karaki",
+     "character": null,
+     "slug": "mohammad-karaki",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Lijomol Jose",
+     "character": "Sherin",
+     "slug": "lijomol-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vXFBgF6NMON7L4RzZ6B35lOVYOu.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Kochappa",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Kichu Tellus",
+     "character": "Vytus",
+     "slug": "kichu-tellus",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ilo7dTpCUZ31qmCsaqtGUrQ0VaH.jpg"
+    },
+    {
+     "name": "Vineeth Thattil David",
+     "character": "CI Rajan Philip",
+     "slug": "vineeth-thattil-david",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3GRoDMGPrMOBfHki8eAFYfse7kq.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Govind Vishnu",
+       "slug": "govind-vishnu"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Deepu Rajeevan",
+       "slug": "deepu-rajeevan"
+      },
+      {
+       "name": "Govind Vishnu",
+       "slug": "govind-vishnu"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Justin Varghese",
+       "slug": "justin-varghese"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Salu K Thomas",
+       "slug": "salu-k-thomas"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rakesh Cherumadam",
+       "slug": "rakesh-cherumadam"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shibu Baby John",
+       "slug": "shibu-baby-john"
+      },
+      {
+       "name": "Aby Alex Abraham",
+       "slug": "aby-alex-abraham"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "John u0026 Mary Creative",
+     "slug": "john-mary-creative",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 40463568.400000006,
+    "totalShows": 6525,
+    "totalDays": 28,
+    "openingDay": {
+     "day": 1,
+     "gross": 8134770.800000001,
+     "date": "2025-02-14"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 8769143.4,
+     "date": "2025-02-16"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-02-14"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 652,
+    "title": "Daveed",
+    "img": "https://image.tmdb.org/t/p/original/5looJkc3Siu7HqR5farCebWRxQo.jpg",
+    "released": "2025-02-14",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29472286",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "137 min",
+    "genre": "Action, Drama",
+    "plot": "A celebrity bodyguard finds himself in trouble when he crosses an infamous boxer.",
+    "released": "2025-02-13",
+    "director": "Govind Vishnu",
+    "directorSlug": "govind-vishnu",
+    "actors": [
+     "Antony Varghese",
+     "Mo Ismail",
+     "Vijayaraghavan",
+     "Mohammad Karaki",
+     "Lijomol Jose",
+     "Saiju Kurup"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 787,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:21.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Antony Varghese",
+     "character": "Ashiq Abu",
+     "slug": "antony-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dKRa8ghSXw6J1OTcxMziZh3l1jb.jpg"
+    },
+    {
+     "name": "Mo Ismail",
+     "character": "Sainul Akhmadov",
+     "slug": "mo-ismail",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Vijayaraghavan",
+     "character": "Raghavan Aashan",
+     "slug": "vijayaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3AE7r02YPbSrEUIfP7gUN7lLNfI.jpg"
+    },
+    {
+     "name": "Mohammad Karaki",
+     "character": null,
+     "slug": "mohammad-karaki",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Lijomol Jose",
+     "character": "Sherin",
+     "slug": "lijomol-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vXFBgF6NMON7L4RzZ6B35lOVYOu.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Kochappa",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Kichu Tellus",
+     "character": "Vytus",
+     "slug": "kichu-tellus",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ilo7dTpCUZ31qmCsaqtGUrQ0VaH.jpg"
+    },
+    {
+     "name": "Vineeth Thattil David",
+     "character": "CI Rajan Philip",
+     "slug": "vineeth-thattil-david",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3GRoDMGPrMOBfHki8eAFYfse7kq.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Govind Vishnu",
+       "slug": "govind-vishnu"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Deepu Rajeevan",
+       "slug": "deepu-rajeevan"
+      },
+      {
+       "name": "Govind Vishnu",
+       "slug": "govind-vishnu"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Justin Varghese",
+       "slug": "justin-varghese"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Salu K Thomas",
+       "slug": "salu-k-thomas"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rakesh Cherumadam",
+       "slug": "rakesh-cherumadam"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shibu Baby John",
+       "slug": "shibu-baby-john"
+      },
+      {
+       "name": "Aby Alex Abraham",
+       "slug": "aby-alex-abraham"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "John u0026 Mary Creative",
+     "slug": "john-mary-creative",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2025-02-14",
+     "gross": 34834068.2,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4366,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-21",
+     "gross": 5249858.199999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1977,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-28",
+     "gross": 324232,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 147,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-03-07",
+     "gross": 55410,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 35,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 40463568.400000006,
+    "totalShows": 6525,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 34834068.2
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 34834068.2
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-02-14"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 652,
+    "title": "Daveed",
+    "img": "https://image.tmdb.org/t/p/original/5looJkc3Siu7HqR5farCebWRxQo.jpg",
+    "released": "2025-02-14",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29472286",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "137 min",
+    "genre": "Action, Drama",
+    "plot": "A celebrity bodyguard finds himself in trouble when he crosses an infamous boxer.",
+    "released": "2025-02-13",
+    "director": "Govind Vishnu",
+    "directorSlug": "govind-vishnu",
+    "actors": [
+     "Antony Varghese",
+     "Mo Ismail",
+     "Vijayaraghavan",
+     "Mohammad Karaki",
+     "Lijomol Jose",
+     "Saiju Kurup"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 787,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:21.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Antony Varghese",
+     "character": "Ashiq Abu",
+     "slug": "antony-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dKRa8ghSXw6J1OTcxMziZh3l1jb.jpg"
+    },
+    {
+     "name": "Mo Ismail",
+     "character": "Sainul Akhmadov",
+     "slug": "mo-ismail",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Vijayaraghavan",
+     "character": "Raghavan Aashan",
+     "slug": "vijayaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3AE7r02YPbSrEUIfP7gUN7lLNfI.jpg"
+    },
+    {
+     "name": "Mohammad Karaki",
+     "character": null,
+     "slug": "mohammad-karaki",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Lijomol Jose",
+     "character": "Sherin",
+     "slug": "lijomol-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vXFBgF6NMON7L4RzZ6B35lOVYOu.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Kochappa",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Kichu Tellus",
+     "character": "Vytus",
+     "slug": "kichu-tellus",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ilo7dTpCUZ31qmCsaqtGUrQ0VaH.jpg"
+    },
+    {
+     "name": "Vineeth Thattil David",
+     "character": "CI Rajan Philip",
+     "slug": "vineeth-thattil-david",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3GRoDMGPrMOBfHki8eAFYfse7kq.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Govind Vishnu",
+       "slug": "govind-vishnu"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Deepu Rajeevan",
+       "slug": "deepu-rajeevan"
+      },
+      {
+       "name": "Govind Vishnu",
+       "slug": "govind-vishnu"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Justin Varghese",
+       "slug": "justin-varghese"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Salu K Thomas",
+       "slug": "salu-k-thomas"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rakesh Cherumadam",
+       "slug": "rakesh-cherumadam"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shibu Baby John",
+       "slug": "shibu-baby-john"
+      },
+      {
+       "name": "Aby Alex Abraham",
+       "slug": "aby-alex-abraham"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "John u0026 Mary Creative",
+     "slug": "john-mary-creative",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 40463568.4,
+    "totalShows": 6525,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 9984281,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 9984281,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-02-14"
+   }
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "ananya-panday",
+ "name": "Ananya Panday",
+ "source_url": "https://fridaymatinee.in/people/ananya-panday",
+ "captured_at": "2026-10-01T20:34:58.170942+00:00",
+ "person": {
+  "name": "Ananya Panday",
+  "photo": "https://image.tmdb.org/t/p/w185/AgywmKnKdOJ7HvlNKBc3hADsF1S.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 183,
+   "movie_slug": "liger",
+   "title": "Liger",
+   "year": 2022,
+   "kerala_gross": "₹33.1L"
+  },
+  {
+   "movie_id": 951,
+   "movie_slug": "tu-meri-main-tera-main-tera-tu-meri",
+   "title": "Tu Meri Main Tera Main Tera Tu Meri",
+   "year": 2025,
+   "kerala_gross": "₹12.6L"
+  },
+  {
+   "movie_id": 1113,
+   "movie_slug": "chand-mera-dil",
+   "title": "Chand Mera Dil",
+   "year": 2026,
+   "kerala_gross": "₹4.2L"
+  }
+ ]
+}

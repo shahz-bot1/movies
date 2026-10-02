@@ -1,0 +1,60 @@
+{
+ "slug": "ajay-devgn",
+ "name": "Ajay Devgn",
+ "source_url": "https://fridaymatinee.in/people/ajay-devgn",
+ "captured_at": "2026-10-01T20:16:11.036796+00:00",
+ "person": {
+  "name": "Ajay Devgn",
+  "photo": "https://image.tmdb.org/t/p/w185/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 782,
+   "movie_slug": "son-of-sardaar-2",
+   "title": "Son of Sardaar 2",
+   "year": 2025,
+   "kerala_gross": "₹6.4L"
+  },
+  {
+   "movie_id": 915,
+   "movie_slug": "de-de-pyaar-de-2",
+   "title": "De De Pyaar De 2",
+   "year": 2025,
+   "kerala_gross": "₹11.5L"
+  },
+  {
+   "movie_id": 1190,
+   "movie_slug": "dhamaal-4",
+   "title": "Dhamaal 4",
+   "year": 2026,
+   "kerala_gross": "₹13.9L"
+  },
+  {
+   "movie_id": 1336,
+   "movie_slug": "drishyam-the-conclusion",
+   "title": "Drishyam: The Conclusion",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 118,
+   "movie_slug": "rrr",
+   "title": "Rrr",
+   "year": 2022,
+   "kerala_gross": "₹17.1 Cr"
+  }
+ ]
+}

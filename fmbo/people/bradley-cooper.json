@@ -1,0 +1,46 @@
+{
+ "slug": "bradley-cooper",
+ "name": "Bradley Cooper",
+ "source_url": "https://fridaymatinee.in/people/bradley-cooper",
+ "captured_at": "2026-10-01T21:22:43.315411+00:00",
+ "person": {
+  "name": "Bradley Cooper",
+  "photo": "https://image.tmdb.org/t/p/w185/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 158,
+   "movie_slug": "thor-love-and-thunder",
+   "title": "Thor Love and Thunder",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 372,
+   "movie_slug": "guardians-of-the-galaxy-volume-3",
+   "title": "Guardians of the Galaxy Volume 3",
+   "year": 2023,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 632,
+   "movie_slug": "superman",
+   "title": "Superman",
+   "year": 2025,
+   "kerala_gross": "₹3.7 Cr"
+  }
+ ]
+}

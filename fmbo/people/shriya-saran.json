@@ -1,0 +1,55 @@
+{
+ "slug": "shriya-saran",
+ "name": "Shriya Saran",
+ "source_url": "https://fridaymatinee.in/people/shriya-saran",
+ "captured_at": "2026-10-02T10:36:42.019014+00:00",
+ "person": {
+  "name": "Shriya Saran",
+  "photo": "https://image.tmdb.org/t/p/w185/ioOgKBSCJhOdKoZpg86ld7zANbf.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 118,
+   "movie_slug": "rrr",
+   "title": "Rrr",
+   "year": 2022,
+   "kerala_gross": "₹17.1 Cr"
+  },
+  {
+   "movie_id": 308,
+   "movie_slug": "kabzaa",
+   "title": "Kabzaa",
+   "year": 2023,
+   "kerala_gross": "₹40.7L"
+  },
+  {
+   "movie_id": 816,
+   "movie_slug": "mirai",
+   "title": "Mirai",
+   "year": 2025,
+   "kerala_gross": "₹35.9L"
+  },
+  {
+   "movie_id": 1226,
+   "movie_slug": "awarapan-2",
+   "title": "Awarapan 2",
+   "year": 2026,
+   "kerala_gross": "₹25.6L"
+  },
+  {
+   "movie_id": 1336,
+   "movie_slug": "drishyam-the-conclusion",
+   "title": "Drishyam: The Conclusion",
+   "year": 2026,
+   "kerala_gross": "₹6.7L"
+  }
+ ]
+}

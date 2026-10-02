@@ -1,0 +1,41 @@
+{
+ "slug": "teejay",
+ "name": "Teejay",
+ "source_url": "https://fridaymatinee.in/people/teejay",
+ "captured_at": "2026-10-02T11:17:11.880633+00:00",
+ "person": {
+  "name": "Teejay",
+  "photo": "https://image.tmdb.org/t/p/w185/a8mdbaSzPEEH0q0J7twCOKzfYWe.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 313,
+   "movie_slug": "pathu-thala",
+   "title": "Pathu Thala",
+   "year": 2023,
+   "kerala_gross": "₹41.7L"
+  },
+  {
+   "movie_id": 881,
+   "movie_slug": "vilaayath-budha",
+   "title": "Vilaayath Budha",
+   "year": 2025,
+   "kerala_gross": "₹4.5 Cr"
+  },
+  {
+   "movie_id": 956,
+   "movie_slug": "jana-nayagan",
+   "title": "Jana Nayagan",
+   "year": 2026,
+   "kerala_gross": "₹15.5 Cr"
+  }
+ ]
+}

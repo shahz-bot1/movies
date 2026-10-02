@@ -1,0 +1,713 @@
+{
+ "id": 819,
+ "slug": "the-long-walk",
+ "source_url": "https://fridaymatinee.in/boxoffice/the-long-walk-819",
+ "captured_at": "2026-10-01T18:23:15.959933+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 819,
+    "title": "The Long Walk",
+    "img": "https://image.tmdb.org/t/p/original/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
+    "released": "2025-09-12",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10374610",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "108 min",
+    "genre": "Science Fiction, Thriller, Horror",
+    "plot": "In a dystopian 1970s America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
+    "released": "2025-09-10",
+    "director": "Francis Lawrence",
+    "directorSlug": "francis-lawrence",
+    "actors": [
+     "Cooper Hoffman",
+     "David Jonsson",
+     "Garrett Wareing",
+     "Tut Nyuot",
+     "Charlie Plummer",
+     "Ben Wang"
+    ],
+    "awards": "4 wins u0026 16 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 149826,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 1947,
+      "updatedAt": "2026-09-24T16:10:30.000Z"
+     },
+     "rt": "88%",
+     "metascore": 71,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Cooper Hoffman",
+     "character": "Raymond Garraty #47",
+     "slug": "cooper-hoffman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p8Hgy3RJW4r8PwD5SjIAahE2wZu.jpg"
+    },
+    {
+     "name": "David Jonsson",
+     "character": "Peter McVries #23",
+     "slug": "david-jonsson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vcLkzN1W92ukocX1nNt5JnEl53g.jpg"
+    },
+    {
+     "name": "Garrett Wareing",
+     "character": "Stebbins #38",
+     "slug": "garrett-wareing",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ghJmP5QlDsVSQEF8XlDSciZ4q6x.jpg"
+    },
+    {
+     "name": "Tut Nyuot",
+     "character": "Arthur Baker #6",
+     "slug": "tut-nyuot",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nnQCY629iCcf5veJ7pJVG6onMgC.jpg"
+    },
+    {
+     "name": "Charlie Plummer",
+     "character": "Gary Barkovitch #5",
+     "slug": "charlie-plummer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u2ig0kkgxq36BMbFQ4DEWfu5G3A.jpg"
+    },
+    {
+     "name": "Ben Wang",
+     "character": "Hank Olson #46",
+     "slug": "ben-wang",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5A6JgNR9nlFVjuzJ1oOXyj2hfJo.jpg"
+    },
+    {
+     "name": "Jordan Gonzalez",
+     "character": "Richard Harkness #49",
+     "slug": "jordan-gonzalez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/i5GZ3xQ9kAHhUBRA0LDvnzok5dk.jpg"
+    },
+    {
+     "name": "Joshua Odjick",
+     "character": "Collie Parker #48",
+     "slug": "joshua-odjick",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/i8G947oyhD4ACFGwaQpveDcER71.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Francis Lawrence",
+       "slug": "francis-lawrence"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "JT Mollner",
+       "slug": "jt-mollner"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jeremiah Fraites",
+       "slug": "jeremiah-fraites"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jo Willems",
+       "slug": "jo-willems"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Mark Yoshikawa",
+       "slug": "mark-yoshikawa"
+      },
+      {
+       "name": "Peggy Eghbalian",
+       "slug": "peggy-eghbalian"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Francis Lawrence",
+       "slug": "francis-lawrence"
+      },
+      {
+       "name": "Roy Lee",
+       "slug": "roy-lee"
+      },
+      {
+       "name": "Cameron MacConomy",
+       "slug": "cameron-macconomy"
+      },
+      {
+       "name": "Steven Schneider",
+       "slug": "steven-schneider"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lionsgate",
+     "slug": "lionsgate",
+     "logo": "https://image.tmdb.org/t/p/w185/cisLn1YAUuptXVBa0xjq7ST9cH0.png"
+    },
+    {
+     "name": "Media Capital Technologies",
+     "slug": "media-capital-technologies",
+     "logo": "https://image.tmdb.org/t/p/w185/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png"
+    },
+    {
+     "name": "Vertigo Entertainment",
+     "slug": "vertigo-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/iJo9zP5QCKyBsmKSOcvXd6UDNih.png"
+    },
+    {
+     "name": "about:blank",
+     "slug": "about-blank",
+     "logo": "https://image.tmdb.org/t/p/w185/kQlxsHQKQsDOXmKPZVqEyL827NJ.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-10-20",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 94726,
+    "totalShows": 18,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 25330,
+     "date": "2025-09-12"
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 27260,
+     "date": "2025-09-13"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-12"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 819,
+    "title": "The Long Walk",
+    "img": "https://image.tmdb.org/t/p/original/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
+    "released": "2025-09-12",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10374610",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "108 min",
+    "genre": "Science Fiction, Thriller, Horror",
+    "plot": "In a dystopian 1970s America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
+    "released": "2025-09-10",
+    "director": "Francis Lawrence",
+    "directorSlug": "francis-lawrence",
+    "actors": [
+     "Cooper Hoffman",
+     "David Jonsson",
+     "Garrett Wareing",
+     "Tut Nyuot",
+     "Charlie Plummer",
+     "Ben Wang"
+    ],
+    "awards": "4 wins u0026 16 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 149826,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 1947,
+      "updatedAt": "2026-09-24T16:10:30.000Z"
+     },
+     "rt": "88%",
+     "metascore": 71,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Cooper Hoffman",
+     "character": "Raymond Garraty #47",
+     "slug": "cooper-hoffman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p8Hgy3RJW4r8PwD5SjIAahE2wZu.jpg"
+    },
+    {
+     "name": "David Jonsson",
+     "character": "Peter McVries #23",
+     "slug": "david-jonsson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vcLkzN1W92ukocX1nNt5JnEl53g.jpg"
+    },
+    {
+     "name": "Garrett Wareing",
+     "character": "Stebbins #38",
+     "slug": "garrett-wareing",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ghJmP5QlDsVSQEF8XlDSciZ4q6x.jpg"
+    },
+    {
+     "name": "Tut Nyuot",
+     "character": "Arthur Baker #6",
+     "slug": "tut-nyuot",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nnQCY629iCcf5veJ7pJVG6onMgC.jpg"
+    },
+    {
+     "name": "Charlie Plummer",
+     "character": "Gary Barkovitch #5",
+     "slug": "charlie-plummer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u2ig0kkgxq36BMbFQ4DEWfu5G3A.jpg"
+    },
+    {
+     "name": "Ben Wang",
+     "character": "Hank Olson #46",
+     "slug": "ben-wang",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5A6JgNR9nlFVjuzJ1oOXyj2hfJo.jpg"
+    },
+    {
+     "name": "Jordan Gonzalez",
+     "character": "Richard Harkness #49",
+     "slug": "jordan-gonzalez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/i5GZ3xQ9kAHhUBRA0LDvnzok5dk.jpg"
+    },
+    {
+     "name": "Joshua Odjick",
+     "character": "Collie Parker #48",
+     "slug": "joshua-odjick",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/i8G947oyhD4ACFGwaQpveDcER71.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Francis Lawrence",
+       "slug": "francis-lawrence"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "JT Mollner",
+       "slug": "jt-mollner"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jeremiah Fraites",
+       "slug": "jeremiah-fraites"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jo Willems",
+       "slug": "jo-willems"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Mark Yoshikawa",
+       "slug": "mark-yoshikawa"
+      },
+      {
+       "name": "Peggy Eghbalian",
+       "slug": "peggy-eghbalian"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Francis Lawrence",
+       "slug": "francis-lawrence"
+      },
+      {
+       "name": "Roy Lee",
+       "slug": "roy-lee"
+      },
+      {
+       "name": "Cameron MacConomy",
+       "slug": "cameron-macconomy"
+      },
+      {
+       "name": "Steven Schneider",
+       "slug": "steven-schneider"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lionsgate",
+     "slug": "lionsgate",
+     "logo": "https://image.tmdb.org/t/p/w185/cisLn1YAUuptXVBa0xjq7ST9cH0.png"
+    },
+    {
+     "name": "Media Capital Technologies",
+     "slug": "media-capital-technologies",
+     "logo": "https://image.tmdb.org/t/p/w185/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png"
+    },
+    {
+     "name": "Vertigo Entertainment",
+     "slug": "vertigo-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/iJo9zP5QCKyBsmKSOcvXd6UDNih.png"
+    },
+    {
+     "name": "about:blank",
+     "slug": "about-blank",
+     "logo": "https://image.tmdb.org/t/p/w185/kQlxsHQKQsDOXmKPZVqEyL827NJ.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-10-20",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-09-12",
+     "gross": 94726,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 18,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 94726,
+    "totalShows": 18,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 94726
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 94726
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-12"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 819,
+    "title": "The Long Walk",
+    "img": "https://image.tmdb.org/t/p/original/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
+    "released": "2025-09-12",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10374610",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "108 min",
+    "genre": "Science Fiction, Thriller, Horror",
+    "plot": "In a dystopian 1970s America, fifty teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
+    "released": "2025-09-10",
+    "director": "Francis Lawrence",
+    "directorSlug": "francis-lawrence",
+    "actors": [
+     "Cooper Hoffman",
+     "David Jonsson",
+     "Garrett Wareing",
+     "Tut Nyuot",
+     "Charlie Plummer",
+     "Ben Wang"
+    ],
+    "awards": "4 wins u0026 16 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 149826,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 1947,
+      "updatedAt": "2026-09-24T16:10:30.000Z"
+     },
+     "rt": "88%",
+     "metascore": 71,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Cooper Hoffman",
+     "character": "Raymond Garraty #47",
+     "slug": "cooper-hoffman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p8Hgy3RJW4r8PwD5SjIAahE2wZu.jpg"
+    },
+    {
+     "name": "David Jonsson",
+     "character": "Peter McVries #23",
+     "slug": "david-jonsson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vcLkzN1W92ukocX1nNt5JnEl53g.jpg"
+    },
+    {
+     "name": "Garrett Wareing",
+     "character": "Stebbins #38",
+     "slug": "garrett-wareing",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ghJmP5QlDsVSQEF8XlDSciZ4q6x.jpg"
+    },
+    {
+     "name": "Tut Nyuot",
+     "character": "Arthur Baker #6",
+     "slug": "tut-nyuot",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nnQCY629iCcf5veJ7pJVG6onMgC.jpg"
+    },
+    {
+     "name": "Charlie Plummer",
+     "character": "Gary Barkovitch #5",
+     "slug": "charlie-plummer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u2ig0kkgxq36BMbFQ4DEWfu5G3A.jpg"
+    },
+    {
+     "name": "Ben Wang",
+     "character": "Hank Olson #46",
+     "slug": "ben-wang",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5A6JgNR9nlFVjuzJ1oOXyj2hfJo.jpg"
+    },
+    {
+     "name": "Jordan Gonzalez",
+     "character": "Richard Harkness #49",
+     "slug": "jordan-gonzalez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/i5GZ3xQ9kAHhUBRA0LDvnzok5dk.jpg"
+    },
+    {
+     "name": "Joshua Odjick",
+     "character": "Collie Parker #48",
+     "slug": "joshua-odjick",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/i8G947oyhD4ACFGwaQpveDcER71.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Francis Lawrence",
+       "slug": "francis-lawrence"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "JT Mollner",
+       "slug": "jt-mollner"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jeremiah Fraites",
+       "slug": "jeremiah-fraites"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jo Willems",
+       "slug": "jo-willems"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Mark Yoshikawa",
+       "slug": "mark-yoshikawa"
+      },
+      {
+       "name": "Peggy Eghbalian",
+       "slug": "peggy-eghbalian"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Francis Lawrence",
+       "slug": "francis-lawrence"
+      },
+      {
+       "name": "Roy Lee",
+       "slug": "roy-lee"
+      },
+      {
+       "name": "Cameron MacConomy",
+       "slug": "cameron-macconomy"
+      },
+      {
+       "name": "Steven Schneider",
+       "slug": "steven-schneider"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lionsgate",
+     "slug": "lionsgate",
+     "logo": "https://image.tmdb.org/t/p/w185/cisLn1YAUuptXVBa0xjq7ST9cH0.png"
+    },
+    {
+     "name": "Media Capital Technologies",
+     "slug": "media-capital-technologies",
+     "logo": "https://image.tmdb.org/t/p/w185/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png"
+    },
+    {
+     "name": "Vertigo Entertainment",
+     "slug": "vertigo-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/iJo9zP5QCKyBsmKSOcvXd6UDNih.png"
+    },
+    {
+     "name": "about:blank",
+     "slug": "about-blank",
+     "logo": "https://image.tmdb.org/t/p/w185/kQlxsHQKQsDOXmKPZVqEyL827NJ.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-10-20",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 94726,
+    "totalShows": 18,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 64126,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 64126,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-12"
+   }
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "tamannaah-bhatia",
+ "name": "Tamannaah Bhatia",
+ "source_url": "https://fridaymatinee.in/people/tamannaah-bhatia",
+ "captured_at": "2026-10-02T11:14:48.492310+00:00",
+ "person": {
+  "name": "Tamannaah Bhatia",
+  "photo": "https://image.tmdb.org/t/p/w185/t4WYoKiFAyO1Rhjv7O03EKmJHp4.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 32,
+   "movie_slug": "action",
+   "title": "Action",
+   "year": 2019,
+   "kerala_gross": "₹9.7L"
+  },
+  {
+   "movie_id": 450,
+   "movie_slug": "bandra",
+   "title": "Bandra",
+   "year": 2023,
+   "kerala_gross": "₹2.9 Cr"
+  },
+  {
+   "movie_id": 892,
+   "movie_slug": "baahubali-the-epic",
+   "title": "Baahubali: The Epic",
+   "year": 2025,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 1018,
+   "movie_slug": "o",
+   "title": "O",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 1320,
+   "movie_slug": "the-vvaan",
+   "title": "The Vvaan",
+   "year": 2026,
+   "kerala_gross": "₹7.4L"
+  }
+ ]
+}

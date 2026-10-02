@@ -1,0 +1,76 @@
+{
+ "slug": "lalu-alex",
+ "name": "Lalu Alex",
+ "source_url": "https://fridaymatinee.in/people/lalu-alex",
+ "captured_at": "2026-10-01T23:57:59.722859+00:00",
+ "person": {
+  "name": "Lalu Alex",
+  "photo": "https://image.tmdb.org/t/p/w185/vK4aDoB3W68Ln730mNY9TuYcaTP.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 8
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 48,
+   "movie_slug": "driving-licence",
+   "title": "Driving Licence",
+   "year": 2019,
+   "kerala_gross": "₹7.6 Cr"
+  },
+  {
+   "movie_id": 59,
+   "movie_slug": "varane-avashyamund",
+   "title": "Varane Avashyamund",
+   "year": 2020,
+   "kerala_gross": "₹6.3 Cr"
+  },
+  {
+   "movie_id": 163,
+   "movie_slug": "mahaveeryar",
+   "title": "Mahaveeryar",
+   "year": 2022,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 245,
+   "movie_slug": "gold",
+   "title": "Gold",
+   "year": 2022,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 526,
+   "movie_slug": "nadanna-sambhavam",
+   "title": "Nadanna Sambhavam",
+   "year": 2024,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 722,
+   "movie_slug": "hridayapoorvam",
+   "title": "Hridayapoorvam",
+   "year": 2025,
+   "kerala_gross": "₹37.0 Cr"
+  },
+  {
+   "movie_id": 1096,
+   "movie_slug": "revolver-rinko",
+   "title": "Revolver Rinko",
+   "year": 2026,
+   "kerala_gross": "₹25.9L"
+  },
+  {
+   "movie_id": 1085,
+   "movie_slug": "athimanoharam",
+   "title": "Athimanoharam",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

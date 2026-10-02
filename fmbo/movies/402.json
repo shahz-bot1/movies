@@ -1,0 +1,643 @@
+{
+ "id": 402,
+ "slug": "padmini",
+ "source_url": "https://fridaymatinee.in/boxoffice/padmini-402",
+ "captured_at": "2026-10-01T18:11:16.614146+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 402,
+    "title": "Padmini",
+    "img": "https://image.tmdb.org/t/p/original/dH5T9iztaJZ0NZDWiOOJfwzxUXI.jpg",
+    "released": "2023-07-14",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt16077654",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "120 min",
+    "genre": "Romance, Comedy, Drama",
+    "plot": "Rameshan, a lecturer and part-time poet, becomes the laughing stock of the village after his wife runs away on the wedding night. When he tries to overcome these taunts and win a second chance at love, he faces an uphill legal battle and toxicity of the society.",
+    "released": "2023-07-07",
+    "director": "Senna Hegde",
+    "directorSlug": "senna-hegde",
+    "actors": [
+     "Kunchacko Boban",
+     "Aparna Balamurali",
+     "Madonna Sebastian",
+     "Vincy Aloshious",
+     "Ganapathi S. Poduval",
+     "Sajin Cherukayil"
+    ],
+    "awards": "2 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 1617,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:18.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kunchacko Boban",
+     "character": "Rameshan",
+     "slug": "kunchacko-boban",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1jdbIaYOBuhPNGS8XCqlzMsb0SV.jpg"
+    },
+    {
+     "name": "Aparna Balamurali",
+     "character": "Sreedevi",
+     "slug": "aparna-balamurali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8IdA0YxPHttgDQCi09pE28LWw0E.jpg"
+    },
+    {
+     "name": "Madonna Sebastian",
+     "character": "Padmini",
+     "slug": "madonna-sebastian",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2mC5mrsWPHVBXG5UvbHy4pOmdh1.jpg"
+    },
+    {
+     "name": "Vincy Aloshious",
+     "character": "Smruthy",
+     "slug": "vincy-aloshious",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rbDwslFpGWtaQFXd2R6grYc6Nxv.jpg"
+    },
+    {
+     "name": "Ganapathi S. Poduval",
+     "character": "Rahul",
+     "slug": "ganapathi-s-poduval",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/15g6TQroqoLmcK1E8CniGZjm72l.jpg"
+    },
+    {
+     "name": "Sajin Cherukayil",
+     "character": "Jayan",
+     "slug": "sajin-cherukayil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fuwZ6g0GMgfKJnaZ6kJljwM277x.jpg"
+    },
+    {
+     "name": "Anand Manmadhan",
+     "character": "Venu",
+     "slug": "anand-manmadhan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xlx9Rmb3NGHNX7VFGD55kskCM04.jpg"
+    },
+    {
+     "name": "Althaf Salim",
+     "character": "Siju",
+     "slug": "althaf-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wYFAsF8f4Ak26c4t5J1IfBBxP0W.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Senna Hegde",
+       "slug": "senna-hegde"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Deepu Pradeep",
+       "slug": "deepu-pradeep"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sreeraj Raveendran",
+       "slug": "sreeraj-raveendran"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Manu Antony",
+       "slug": "manu-antony"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Suvin K Varkey",
+       "slug": "suvin-k-varkey"
+      },
+      {
+       "name": "Prasobh Krishna",
+       "slug": "prasobh-krishna"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Little Big Films",
+     "slug": "little-big-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-08-21",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 14997325.719999999,
+    "totalShows": 4203,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 1923643.3599999999,
+     "date": "2023-07-14"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 3495352.5300000003,
+     "date": "2023-07-16"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 100,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-07-14"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 402,
+    "title": "Padmini",
+    "img": "https://image.tmdb.org/t/p/original/dH5T9iztaJZ0NZDWiOOJfwzxUXI.jpg",
+    "released": "2023-07-14",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt16077654",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "120 min",
+    "genre": "Romance, Comedy, Drama",
+    "plot": "Rameshan, a lecturer and part-time poet, becomes the laughing stock of the village after his wife runs away on the wedding night. When he tries to overcome these taunts and win a second chance at love, he faces an uphill legal battle and toxicity of the society.",
+    "released": "2023-07-07",
+    "director": "Senna Hegde",
+    "directorSlug": "senna-hegde",
+    "actors": [
+     "Kunchacko Boban",
+     "Aparna Balamurali",
+     "Madonna Sebastian",
+     "Vincy Aloshious",
+     "Ganapathi S. Poduval",
+     "Sajin Cherukayil"
+    ],
+    "awards": "2 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 1617,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:18.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kunchacko Boban",
+     "character": "Rameshan",
+     "slug": "kunchacko-boban",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1jdbIaYOBuhPNGS8XCqlzMsb0SV.jpg"
+    },
+    {
+     "name": "Aparna Balamurali",
+     "character": "Sreedevi",
+     "slug": "aparna-balamurali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8IdA0YxPHttgDQCi09pE28LWw0E.jpg"
+    },
+    {
+     "name": "Madonna Sebastian",
+     "character": "Padmini",
+     "slug": "madonna-sebastian",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2mC5mrsWPHVBXG5UvbHy4pOmdh1.jpg"
+    },
+    {
+     "name": "Vincy Aloshious",
+     "character": "Smruthy",
+     "slug": "vincy-aloshious",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rbDwslFpGWtaQFXd2R6grYc6Nxv.jpg"
+    },
+    {
+     "name": "Ganapathi S. Poduval",
+     "character": "Rahul",
+     "slug": "ganapathi-s-poduval",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/15g6TQroqoLmcK1E8CniGZjm72l.jpg"
+    },
+    {
+     "name": "Sajin Cherukayil",
+     "character": "Jayan",
+     "slug": "sajin-cherukayil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fuwZ6g0GMgfKJnaZ6kJljwM277x.jpg"
+    },
+    {
+     "name": "Anand Manmadhan",
+     "character": "Venu",
+     "slug": "anand-manmadhan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xlx9Rmb3NGHNX7VFGD55kskCM04.jpg"
+    },
+    {
+     "name": "Althaf Salim",
+     "character": "Siju",
+     "slug": "althaf-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wYFAsF8f4Ak26c4t5J1IfBBxP0W.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Senna Hegde",
+       "slug": "senna-hegde"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Deepu Pradeep",
+       "slug": "deepu-pradeep"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sreeraj Raveendran",
+       "slug": "sreeraj-raveendran"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Manu Antony",
+       "slug": "manu-antony"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Suvin K Varkey",
+       "slug": "suvin-k-varkey"
+      },
+      {
+       "name": "Prasobh Krishna",
+       "slug": "prasobh-krishna"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Little Big Films",
+     "slug": "little-big-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-08-21",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-07-14",
+     "gross": 12053188.720000003,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3286,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-07-21",
+     "gross": 2944137,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 916,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-07-28",
+     "gross": 0,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 14997325.720000003,
+    "totalShows": 4203,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 12053188.720000003
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 12053188.720000003
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 100,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-07-14"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 402,
+    "title": "Padmini",
+    "img": "https://image.tmdb.org/t/p/original/dH5T9iztaJZ0NZDWiOOJfwzxUXI.jpg",
+    "released": "2023-07-14",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt16077654",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "120 min",
+    "genre": "Romance, Comedy, Drama",
+    "plot": "Rameshan, a lecturer and part-time poet, becomes the laughing stock of the village after his wife runs away on the wedding night. When he tries to overcome these taunts and win a second chance at love, he faces an uphill legal battle and toxicity of the society.",
+    "released": "2023-07-07",
+    "director": "Senna Hegde",
+    "directorSlug": "senna-hegde",
+    "actors": [
+     "Kunchacko Boban",
+     "Aparna Balamurali",
+     "Madonna Sebastian",
+     "Vincy Aloshious",
+     "Ganapathi S. Poduval",
+     "Sajin Cherukayil"
+    ],
+    "awards": "2 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 1617,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:18.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kunchacko Boban",
+     "character": "Rameshan",
+     "slug": "kunchacko-boban",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1jdbIaYOBuhPNGS8XCqlzMsb0SV.jpg"
+    },
+    {
+     "name": "Aparna Balamurali",
+     "character": "Sreedevi",
+     "slug": "aparna-balamurali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8IdA0YxPHttgDQCi09pE28LWw0E.jpg"
+    },
+    {
+     "name": "Madonna Sebastian",
+     "character": "Padmini",
+     "slug": "madonna-sebastian",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2mC5mrsWPHVBXG5UvbHy4pOmdh1.jpg"
+    },
+    {
+     "name": "Vincy Aloshious",
+     "character": "Smruthy",
+     "slug": "vincy-aloshious",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rbDwslFpGWtaQFXd2R6grYc6Nxv.jpg"
+    },
+    {
+     "name": "Ganapathi S. Poduval",
+     "character": "Rahul",
+     "slug": "ganapathi-s-poduval",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/15g6TQroqoLmcK1E8CniGZjm72l.jpg"
+    },
+    {
+     "name": "Sajin Cherukayil",
+     "character": "Jayan",
+     "slug": "sajin-cherukayil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fuwZ6g0GMgfKJnaZ6kJljwM277x.jpg"
+    },
+    {
+     "name": "Anand Manmadhan",
+     "character": "Venu",
+     "slug": "anand-manmadhan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xlx9Rmb3NGHNX7VFGD55kskCM04.jpg"
+    },
+    {
+     "name": "Althaf Salim",
+     "character": "Siju",
+     "slug": "althaf-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wYFAsF8f4Ak26c4t5J1IfBBxP0W.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Senna Hegde",
+       "slug": "senna-hegde"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Deepu Pradeep",
+       "slug": "deepu-pradeep"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sreeraj Raveendran",
+       "slug": "sreeraj-raveendran"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Manu Antony",
+       "slug": "manu-antony"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Suvin K Varkey",
+       "slug": "suvin-k-varkey"
+      },
+      {
+       "name": "Prasobh Krishna",
+       "slug": "prasobh-krishna"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Little Big Films",
+     "slug": "little-big-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-08-21",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 14997325.72,
+    "totalShows": 4203,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 4366344,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4366344,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 100,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-07-14"
+   }
+  }
+ }
+}

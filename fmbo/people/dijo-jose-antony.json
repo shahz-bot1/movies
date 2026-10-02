@@ -1,0 +1,46 @@
+{
+ "slug": "dijo-jose-antony",
+ "name": "Dijo Jose Antony",
+ "source_url": "https://fridaymatinee.in/people/dijo-jose-antony",
+ "captured_at": "2026-10-01T22:01:00.022164+00:00",
+ "person": {
+  "name": "Dijo Jose Antony",
+  "photo": "https://image.tmdb.org/t/p/w185/xe6FF2PrvaHIAqO0CzvPc8rKEsV.jpg",
+  "role": "Director and actor"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  },
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 134,
+   "movie_slug": "jana-gana-mana",
+   "title": "Jana Gana Mana",
+   "year": 2022,
+   "kerala_gross": "₹19.6 Cr"
+  },
+  {
+   "movie_id": 516,
+   "movie_slug": "malayalee-from-india",
+   "title": "Malayalee From India",
+   "year": 2024,
+   "kerala_gross": "₹8.4 Cr"
+  },
+  {
+   "movie_id": 1068,
+   "movie_slug": "pallichattambi",
+   "title": "Pallichattambi",
+   "year": 2026,
+   "kerala_gross": "₹11.1 Cr"
+  }
+ ]
+}

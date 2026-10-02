@@ -1,0 +1,681 @@
+{
+ "id": 145,
+ "slug": "jurassic-world-dominion",
+ "source_url": "https://fridaymatinee.in/boxoffice/jurassic-world-dominion-145",
+ "captured_at": "2026-10-01T18:02:11.105707+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 145,
+    "title": "Jurassic World Dominion",
+    "img": "https://image.tmdb.org/t/p/original/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+    "released": "2022-06-10",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt8041270",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "147 min",
+    "genre": "Adventure, Action, Science Fiction",
+    "plot": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
+    "released": "2022-06-01",
+    "director": "Colin Trevorrow",
+    "directorSlug": "colin-trevorrow",
+    "actors": [
+     "Chris Pratt",
+     "Bryce Dallas Howard",
+     "Laura Dern",
+     "Sam Neill",
+     "Jeff Goldblum",
+     "DeWanda Wise"
+    ],
+    "awards": "1 win u0026 25 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.6",
+      "votes": 251843,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.6",
+      "votes": 7292,
+      "updatedAt": "2026-09-25T01:10:25.000Z"
+     },
+     "rt": "29%",
+     "metascore": 38,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Chris Pratt",
+     "character": "Owen Grady",
+     "slug": "chris-pratt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/872Hzdq95gsbMRabsColTW3TLrD.jpg"
+    },
+    {
+     "name": "Bryce Dallas Howard",
+     "character": "Claire Dearing",
+     "slug": "bryce-dallas-howard",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l9KTey4DqwazBkUgIEqfvMDCkaq.jpg"
+    },
+    {
+     "name": "Laura Dern",
+     "character": "Ellie Sattler",
+     "slug": "laura-dern",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+    },
+    {
+     "name": "Sam Neill",
+     "character": "Alan Grant",
+     "slug": "sam-neill",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+    },
+    {
+     "name": "Jeff Goldblum",
+     "character": "Ian Malcolm",
+     "slug": "jeff-goldblum",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kcyEPgYtBP5Pm6LLeLGfXKjYovL.jpg"
+    },
+    {
+     "name": "DeWanda Wise",
+     "character": "Kayla Watts",
+     "slug": "dewanda-wise",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/daQjduDoTzaDTC6SIsGWs55dzcM.jpg"
+    },
+    {
+     "name": "Mamoudou Athie",
+     "character": "Ramsay Cole",
+     "slug": "mamoudou-athie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ycUbhfZRKC8MtNK9oMwscRsl3uM.jpg"
+    },
+    {
+     "name": "Isabella Sermon",
+     "character": "Maisie Lockwood / Young Charlotte Lockwood",
+     "slug": "isabella-sermon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oIyUuT1WopsuKHck9o1ttjyGZux.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Colin Trevorrow",
+       "slug": "colin-trevorrow"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Emily Carmichael",
+       "slug": "emily-carmichael"
+      },
+      {
+       "name": "Colin Trevorrow",
+       "slug": "colin-trevorrow"
+      },
+      {
+       "name": "Derek Connolly",
+       "slug": "derek-connolly"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Michael Giacchino",
+       "slug": "michael-giacchino"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "John Schwartzman",
+       "slug": "john-schwartzman"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Mark Sanger",
+       "slug": "mark-sanger"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Frank Marshall",
+       "slug": "frank-marshall"
+      },
+      {
+       "name": "Patrick Crowley",
+       "slug": "patrick-crowley"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Amblin Entertainment",
+     "slug": "amblin-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/cEaxANEisCqeEoRvODv2dO1I0iI.png"
+    },
+    {
+     "name": "Universal Pictures",
+     "slug": "universal-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8lvHyhjr8oUKOOy2dKXoALWKdp0.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-07-14",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 18459076.919999998,
+    "totalShows": 2689,
+    "totalDays": 10,
+    "openingDay": {
+     "day": 1,
+     "gross": 4212981.42,
+     "date": "2022-06-10"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 4980501.630000001,
+     "date": "2022-06-12"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 38,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-06-10"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 145,
+    "title": "Jurassic World Dominion",
+    "img": "https://image.tmdb.org/t/p/original/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+    "released": "2022-06-10",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt8041270",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "147 min",
+    "genre": "Adventure, Action, Science Fiction",
+    "plot": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
+    "released": "2022-06-01",
+    "director": "Colin Trevorrow",
+    "directorSlug": "colin-trevorrow",
+    "actors": [
+     "Chris Pratt",
+     "Bryce Dallas Howard",
+     "Laura Dern",
+     "Sam Neill",
+     "Jeff Goldblum",
+     "DeWanda Wise"
+    ],
+    "awards": "1 win u0026 25 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.6",
+      "votes": 251843,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.6",
+      "votes": 7292,
+      "updatedAt": "2026-09-25T01:10:25.000Z"
+     },
+     "rt": "29%",
+     "metascore": 38,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Chris Pratt",
+     "character": "Owen Grady",
+     "slug": "chris-pratt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/872Hzdq95gsbMRabsColTW3TLrD.jpg"
+    },
+    {
+     "name": "Bryce Dallas Howard",
+     "character": "Claire Dearing",
+     "slug": "bryce-dallas-howard",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l9KTey4DqwazBkUgIEqfvMDCkaq.jpg"
+    },
+    {
+     "name": "Laura Dern",
+     "character": "Ellie Sattler",
+     "slug": "laura-dern",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+    },
+    {
+     "name": "Sam Neill",
+     "character": "Alan Grant",
+     "slug": "sam-neill",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+    },
+    {
+     "name": "Jeff Goldblum",
+     "character": "Ian Malcolm",
+     "slug": "jeff-goldblum",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kcyEPgYtBP5Pm6LLeLGfXKjYovL.jpg"
+    },
+    {
+     "name": "DeWanda Wise",
+     "character": "Kayla Watts",
+     "slug": "dewanda-wise",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/daQjduDoTzaDTC6SIsGWs55dzcM.jpg"
+    },
+    {
+     "name": "Mamoudou Athie",
+     "character": "Ramsay Cole",
+     "slug": "mamoudou-athie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ycUbhfZRKC8MtNK9oMwscRsl3uM.jpg"
+    },
+    {
+     "name": "Isabella Sermon",
+     "character": "Maisie Lockwood / Young Charlotte Lockwood",
+     "slug": "isabella-sermon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oIyUuT1WopsuKHck9o1ttjyGZux.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Colin Trevorrow",
+       "slug": "colin-trevorrow"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Emily Carmichael",
+       "slug": "emily-carmichael"
+      },
+      {
+       "name": "Colin Trevorrow",
+       "slug": "colin-trevorrow"
+      },
+      {
+       "name": "Derek Connolly",
+       "slug": "derek-connolly"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Michael Giacchino",
+       "slug": "michael-giacchino"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "John Schwartzman",
+       "slug": "john-schwartzman"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Mark Sanger",
+       "slug": "mark-sanger"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Frank Marshall",
+       "slug": "frank-marshall"
+      },
+      {
+       "name": "Patrick Crowley",
+       "slug": "patrick-crowley"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Amblin Entertainment",
+     "slug": "amblin-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/cEaxANEisCqeEoRvODv2dO1I0iI.png"
+    },
+    {
+     "name": "Universal Pictures",
+     "slug": "universal-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8lvHyhjr8oUKOOy2dKXoALWKdp0.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-07-14",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-06-10",
+     "gross": 18457796.92,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2684,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-06-17",
+     "gross": 1280,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 18459076.92,
+    "totalShows": 2689,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 18457796.92
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 18457796.92
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 38,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-06-10"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 145,
+    "title": "Jurassic World Dominion",
+    "img": "https://image.tmdb.org/t/p/original/jbAvCACjLf1ZG0unB2tdmx5HAf1.jpg",
+    "released": "2022-06-10",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt8041270",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "147 min",
+    "genre": "Adventure, Action, Science Fiction",
+    "plot": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
+    "released": "2022-06-01",
+    "director": "Colin Trevorrow",
+    "directorSlug": "colin-trevorrow",
+    "actors": [
+     "Chris Pratt",
+     "Bryce Dallas Howard",
+     "Laura Dern",
+     "Sam Neill",
+     "Jeff Goldblum",
+     "DeWanda Wise"
+    ],
+    "awards": "1 win u0026 25 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.6",
+      "votes": 251843,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.6",
+      "votes": 7292,
+      "updatedAt": "2026-09-25T01:10:25.000Z"
+     },
+     "rt": "29%",
+     "metascore": 38,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Chris Pratt",
+     "character": "Owen Grady",
+     "slug": "chris-pratt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/872Hzdq95gsbMRabsColTW3TLrD.jpg"
+    },
+    {
+     "name": "Bryce Dallas Howard",
+     "character": "Claire Dearing",
+     "slug": "bryce-dallas-howard",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l9KTey4DqwazBkUgIEqfvMDCkaq.jpg"
+    },
+    {
+     "name": "Laura Dern",
+     "character": "Ellie Sattler",
+     "slug": "laura-dern",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg"
+    },
+    {
+     "name": "Sam Neill",
+     "character": "Alan Grant",
+     "slug": "sam-neill",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iIfuxalf37xUayuGyK0zG7z6WEZ.jpg"
+    },
+    {
+     "name": "Jeff Goldblum",
+     "character": "Ian Malcolm",
+     "slug": "jeff-goldblum",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kcyEPgYtBP5Pm6LLeLGfXKjYovL.jpg"
+    },
+    {
+     "name": "DeWanda Wise",
+     "character": "Kayla Watts",
+     "slug": "dewanda-wise",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/daQjduDoTzaDTC6SIsGWs55dzcM.jpg"
+    },
+    {
+     "name": "Mamoudou Athie",
+     "character": "Ramsay Cole",
+     "slug": "mamoudou-athie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ycUbhfZRKC8MtNK9oMwscRsl3uM.jpg"
+    },
+    {
+     "name": "Isabella Sermon",
+     "character": "Maisie Lockwood / Young Charlotte Lockwood",
+     "slug": "isabella-sermon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oIyUuT1WopsuKHck9o1ttjyGZux.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Colin Trevorrow",
+       "slug": "colin-trevorrow"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Emily Carmichael",
+       "slug": "emily-carmichael"
+      },
+      {
+       "name": "Colin Trevorrow",
+       "slug": "colin-trevorrow"
+      },
+      {
+       "name": "Derek Connolly",
+       "slug": "derek-connolly"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Michael Giacchino",
+       "slug": "michael-giacchino"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "John Schwartzman",
+       "slug": "john-schwartzman"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Mark Sanger",
+       "slug": "mark-sanger"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Frank Marshall",
+       "slug": "frank-marshall"
+      },
+      {
+       "name": "Patrick Crowley",
+       "slug": "patrick-crowley"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Amblin Entertainment",
+     "slug": "amblin-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/cEaxANEisCqeEoRvODv2dO1I0iI.png"
+    },
+    {
+     "name": "Universal Pictures",
+     "slug": "universal-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8lvHyhjr8oUKOOy2dKXoALWKdp0.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-07-14",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 18459076.92,
+    "totalShows": 2689,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 4153504,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4153504,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 38,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-06-10"
+   }
+  }
+ }
+}

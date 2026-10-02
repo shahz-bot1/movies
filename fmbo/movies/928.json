@@ -1,0 +1,937 @@
+{
+ "id": 928,
+ "slug": "revolver-rita",
+ "source_url": "https://fridaymatinee.in/boxoffice/revolver-rita-928",
+ "captured_at": "2026-10-01T18:26:37.444741+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 928,
+    "title": "Revolver Rita",
+    "img": "https://image.tmdb.org/t/p/original/7chr4m0OLkGX2curIk57ax27kk3.jpg",
+    "released": "2025-11-28",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26319590",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "140 min",
+    "genre": "Comedy, Action, Crime",
+    "plot": "A woman must use her intelligence and grit to protect her family after they are unexpectedly caught in the crossfire of gang violence.",
+    "released": "2025-11-28",
+    "director": "K. Chandru",
+    "directorSlug": "k-chandru",
+    "actors": [
+     "Keerthy Suresh",
+     "Radikaa Sarathkumar",
+     "Super Subbarayan",
+     "Sunil Varma",
+     "Ajay Ghosh",
+     "Redin Kingsley"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 1454,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Keerthy Suresh",
+     "character": "Rita",
+     "slug": "keerthy-suresh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fTdgSinsAitdujBBEUEA72GY0pv.jpg"
+    },
+    {
+     "name": "Radikaa Sarathkumar",
+     "character": "Chellama",
+     "slug": "radikaa-sarathkumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kEKzT8HAJw8lfFUtWWd0SoQ9kC9.jpg"
+    },
+    {
+     "name": "Super Subbarayan",
+     "character": "Dracula Pandian",
+     "slug": "super-subbarayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vPmu4SofjBtYSwOf5A4Mcnx2y90.jpg"
+    },
+    {
+     "name": "Sunil Varma",
+     "character": "Dracula Bobby",
+     "slug": "sunil-varma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ifmUCkLgpEzbfnRjIw62otrADpI.jpg"
+    },
+    {
+     "name": "Ajay Ghosh",
+     "character": "Reddy",
+     "slug": "ajay-ghosh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bvexSjSRhZM8ke753Sq1oZf5pxY.jpg"
+    },
+    {
+     "name": "Redin Kingsley",
+     "character": "Dracula Cheetta",
+     "slug": "redin-kingsley",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/JX9ukTnXCNBlsbQeHGY85qf3du.jpg"
+    },
+    {
+     "name": "John Vijay",
+     "character": "Inspector Kamaraj",
+     "slug": "john-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1H4uUEI32DmZWfTGmWnXyu0BrU7.jpg"
+    },
+    {
+     "name": "Kalyan Kumar",
+     "character": "Martin",
+     "slug": "kalyan-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nCUClpez9E3FnqwevCn9r3VZvJK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "K. Chandru",
+       "slug": "k-chandru"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "K. Chandru",
+       "slug": "k-chandru"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sean Roldan",
+       "slug": "sean-roldan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Dinesh Krishnan B.",
+       "slug": "dinesh-krishnan-b"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen K. L.",
+       "slug": "praveen-k-l"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sudhan Sundaram",
+       "slug": "sudhan-sundaram"
+      },
+      {
+       "name": "Jagadish Palanisamy",
+       "slug": "jagadish-palanisamy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Passion Studios",
+     "slug": "passion-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/1awi9lZqmKwezdQvKwysg3QmlVg.png"
+    },
+    {
+     "name": "The Route",
+     "slug": "the-route",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-12-26",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-11-28": [
+     {
+      "id": 900,
+      "title": "Zootopia 2",
+      "img": "https://image.tmdb.org/t/p/original/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+     },
+     {
+      "id": 929,
+      "title": "Tere Ishk Mein",
+      "img": "https://image.tmdb.org/t/p/original/7FsHlW9z7gDhDE4EXAE2WcXUVQj.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-11-28",
+     "gross": 170939,
+     "sold": 1161,
+     "unsold": 37256,
+     "shows": 151,
+     "occ": 3.02,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 170939,
+     "lastUpdatedAt": "2025-11-28 19:43:00"
+    },
+    {
+     "label": "2025-11-29",
+     "gross": 187761,
+     "sold": 1219,
+     "unsold": 32340,
+     "shows": 135,
+     "occ": 3.63,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 358700,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2025-11-30",
+     "gross": 99350,
+     "sold": 626,
+     "unsold": 30331,
+     "shows": 125,
+     "occ": 2.02,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 458050,
+     "lastUpdatedAt": "2025-11-30 13:43:00"
+    },
+    {
+     "label": "2025-12-01",
+     "gross": 64752,
+     "sold": 410,
+     "unsold": 19643,
+     "shows": 80,
+     "occ": 2.04,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 522802,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2025-12-02",
+     "gross": 22900,
+     "sold": 151,
+     "unsold": 12052,
+     "shows": 52,
+     "occ": 1.24,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 545702,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2025-12-03",
+     "gross": 13435,
+     "sold": 89,
+     "unsold": 9845,
+     "shows": 40,
+     "occ": 0.9,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 559137,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2025-12-04",
+     "gross": 38053,
+     "sold": 244,
+     "unsold": 6613,
+     "shows": 33,
+     "occ": 3.56,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 597190,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 597190,
+    "totalShows": 616,
+    "totalSeats": 151980,
+    "totalSold": 3900,
+    "avgOcc": "2.6",
+    "totalDays": 7,
+    "totalHousefull": 6,
+    "totalAlmost": 6,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 2,
+     "gross": 187761,
+     "date": "2025-11-29"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 170939,
+     "date": "2025-11-28"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "7:38053:597190"
+  },
+  "week": {
+   "movie": {
+    "id": 928,
+    "title": "Revolver Rita",
+    "img": "https://image.tmdb.org/t/p/original/7chr4m0OLkGX2curIk57ax27kk3.jpg",
+    "released": "2025-11-28",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26319590",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "140 min",
+    "genre": "Comedy, Action, Crime",
+    "plot": "A woman must use her intelligence and grit to protect her family after they are unexpectedly caught in the crossfire of gang violence.",
+    "released": "2025-11-28",
+    "director": "K. Chandru",
+    "directorSlug": "k-chandru",
+    "actors": [
+     "Keerthy Suresh",
+     "Radikaa Sarathkumar",
+     "Super Subbarayan",
+     "Sunil Varma",
+     "Ajay Ghosh",
+     "Redin Kingsley"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 1454,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Keerthy Suresh",
+     "character": "Rita",
+     "slug": "keerthy-suresh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fTdgSinsAitdujBBEUEA72GY0pv.jpg"
+    },
+    {
+     "name": "Radikaa Sarathkumar",
+     "character": "Chellama",
+     "slug": "radikaa-sarathkumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kEKzT8HAJw8lfFUtWWd0SoQ9kC9.jpg"
+    },
+    {
+     "name": "Super Subbarayan",
+     "character": "Dracula Pandian",
+     "slug": "super-subbarayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vPmu4SofjBtYSwOf5A4Mcnx2y90.jpg"
+    },
+    {
+     "name": "Sunil Varma",
+     "character": "Dracula Bobby",
+     "slug": "sunil-varma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ifmUCkLgpEzbfnRjIw62otrADpI.jpg"
+    },
+    {
+     "name": "Ajay Ghosh",
+     "character": "Reddy",
+     "slug": "ajay-ghosh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bvexSjSRhZM8ke753Sq1oZf5pxY.jpg"
+    },
+    {
+     "name": "Redin Kingsley",
+     "character": "Dracula Cheetta",
+     "slug": "redin-kingsley",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/JX9ukTnXCNBlsbQeHGY85qf3du.jpg"
+    },
+    {
+     "name": "John Vijay",
+     "character": "Inspector Kamaraj",
+     "slug": "john-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1H4uUEI32DmZWfTGmWnXyu0BrU7.jpg"
+    },
+    {
+     "name": "Kalyan Kumar",
+     "character": "Martin",
+     "slug": "kalyan-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nCUClpez9E3FnqwevCn9r3VZvJK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "K. Chandru",
+       "slug": "k-chandru"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "K. Chandru",
+       "slug": "k-chandru"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sean Roldan",
+       "slug": "sean-roldan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Dinesh Krishnan B.",
+       "slug": "dinesh-krishnan-b"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen K. L.",
+       "slug": "praveen-k-l"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sudhan Sundaram",
+       "slug": "sudhan-sundaram"
+      },
+      {
+       "name": "Jagadish Palanisamy",
+       "slug": "jagadish-palanisamy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Passion Studios",
+     "slug": "passion-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/1awi9lZqmKwezdQvKwysg3QmlVg.png"
+    },
+    {
+     "name": "The Route",
+     "slug": "the-route",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-12-26",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-11-28": [
+     {
+      "id": 900,
+      "title": "Zootopia 2",
+      "img": "https://image.tmdb.org/t/p/original/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+     },
+     {
+      "id": 929,
+      "title": "Tere Ishk Mein",
+      "img": "https://image.tmdb.org/t/p/original/7FsHlW9z7gDhDE4EXAE2WcXUVQj.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-11-28",
+     "gross": 597190,
+     "sold": 3900,
+     "unsold": 148080,
+     "shows": 616,
+     "occ": 2.57,
+     "hf": "6",
+     "almost": "6",
+     "ff": "0",
+     "cumul": 597190,
+     "lastUpdatedAt": "2025-11-30 13:43:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 597190,
+    "totalShows": 616,
+    "totalSeats": 151980,
+    "totalSold": 3900,
+    "avgOcc": "2.6",
+    "totalDays": 1,
+    "totalHousefull": 6,
+    "totalAlmost": 6,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 597190
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 597190
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:597190:597190"
+  },
+  "district": {
+   "movie": {
+    "id": 928,
+    "title": "Revolver Rita",
+    "img": "https://image.tmdb.org/t/p/original/7chr4m0OLkGX2curIk57ax27kk3.jpg",
+    "released": "2025-11-28",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26319590",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "140 min",
+    "genre": "Comedy, Action, Crime",
+    "plot": "A woman must use her intelligence and grit to protect her family after they are unexpectedly caught in the crossfire of gang violence.",
+    "released": "2025-11-28",
+    "director": "K. Chandru",
+    "directorSlug": "k-chandru",
+    "actors": [
+     "Keerthy Suresh",
+     "Radikaa Sarathkumar",
+     "Super Subbarayan",
+     "Sunil Varma",
+     "Ajay Ghosh",
+     "Redin Kingsley"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 1454,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Keerthy Suresh",
+     "character": "Rita",
+     "slug": "keerthy-suresh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fTdgSinsAitdujBBEUEA72GY0pv.jpg"
+    },
+    {
+     "name": "Radikaa Sarathkumar",
+     "character": "Chellama",
+     "slug": "radikaa-sarathkumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kEKzT8HAJw8lfFUtWWd0SoQ9kC9.jpg"
+    },
+    {
+     "name": "Super Subbarayan",
+     "character": "Dracula Pandian",
+     "slug": "super-subbarayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vPmu4SofjBtYSwOf5A4Mcnx2y90.jpg"
+    },
+    {
+     "name": "Sunil Varma",
+     "character": "Dracula Bobby",
+     "slug": "sunil-varma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ifmUCkLgpEzbfnRjIw62otrADpI.jpg"
+    },
+    {
+     "name": "Ajay Ghosh",
+     "character": "Reddy",
+     "slug": "ajay-ghosh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bvexSjSRhZM8ke753Sq1oZf5pxY.jpg"
+    },
+    {
+     "name": "Redin Kingsley",
+     "character": "Dracula Cheetta",
+     "slug": "redin-kingsley",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/JX9ukTnXCNBlsbQeHGY85qf3du.jpg"
+    },
+    {
+     "name": "John Vijay",
+     "character": "Inspector Kamaraj",
+     "slug": "john-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1H4uUEI32DmZWfTGmWnXyu0BrU7.jpg"
+    },
+    {
+     "name": "Kalyan Kumar",
+     "character": "Martin",
+     "slug": "kalyan-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nCUClpez9E3FnqwevCn9r3VZvJK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "K. Chandru",
+       "slug": "k-chandru"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "K. Chandru",
+       "slug": "k-chandru"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sean Roldan",
+       "slug": "sean-roldan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Dinesh Krishnan B.",
+       "slug": "dinesh-krishnan-b"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen K. L.",
+       "slug": "praveen-k-l"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sudhan Sundaram",
+       "slug": "sudhan-sundaram"
+      },
+      {
+       "name": "Jagadish Palanisamy",
+       "slug": "jagadish-palanisamy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Passion Studios",
+     "slug": "passion-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/1awi9lZqmKwezdQvKwysg3QmlVg.png"
+    },
+    {
+     "name": "The Route",
+     "slug": "the-route",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-12-26",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-11-28": [
+     {
+      "id": 900,
+      "title": "Zootopia 2",
+      "img": "https://image.tmdb.org/t/p/original/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+     },
+     {
+      "id": 929,
+      "title": "Tere Ishk Mein",
+      "img": "https://image.tmdb.org/t/p/original/7FsHlW9z7gDhDE4EXAE2WcXUVQj.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Thrissur",
+     "gross": 138123,
+     "sold": 1066,
+     "unsold": 12463,
+     "shows": 36,
+     "occ": 7.88,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 138123,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Ernakulam",
+     "gross": 134030,
+     "sold": 671,
+     "unsold": 23987,
+     "shows": 123,
+     "occ": 2.72,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 272153,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 96764,
+     "sold": 494,
+     "unsold": 5301,
+     "shows": 37,
+     "occ": 8.52,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 368917,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Palakkad",
+     "gross": 76784,
+     "sold": 588,
+     "unsold": 32703,
+     "shows": 116,
+     "occ": 1.77,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 445701,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Trivandrum",
+     "gross": 32450,
+     "sold": 151,
+     "unsold": 15629,
+     "shows": 62,
+     "occ": 0.96,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 478151,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kannur",
+     "gross": 23360,
+     "sold": 165,
+     "unsold": 5495,
+     "shows": 23,
+     "occ": 2.92,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 501511,
+     "lastUpdatedAt": "2025-11-30 13:43:00"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 20375,
+     "sold": 199,
+     "unsold": 5952,
+     "shows": 33,
+     "occ": 3.24,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 521886,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 15775,
+     "sold": 114,
+     "unsold": 23412,
+     "shows": 61,
+     "occ": 0.48,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 537661,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kottayam",
+     "gross": 15590,
+     "sold": 126,
+     "unsold": 7750,
+     "shows": 41,
+     "occ": 1.6,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 553251,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kollam",
+     "gross": 15560,
+     "sold": 110,
+     "unsold": 7436,
+     "shows": 33,
+     "occ": 1.46,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 568811,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 12851,
+     "sold": 99,
+     "unsold": 4053,
+     "shows": 24,
+     "occ": 2.38,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 581662,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Wayanad",
+     "gross": 8178,
+     "sold": 68,
+     "unsold": 2828,
+     "shows": 16,
+     "occ": 2.35,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 589840,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Pathanamthitta",
+     "gross": 7350,
+     "sold": 49,
+     "unsold": 831,
+     "shows": 8,
+     "occ": 5.57,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 597190,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Idukki",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 240,
+     "shows": 3,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 597190,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 597190,
+    "totalShows": 616,
+    "totalSeats": 151980,
+    "totalSold": 3900,
+    "avgOcc": "2.6",
+    "totalDays": 14,
+    "totalHousefull": 6,
+    "totalAlmost": 6,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 138123,
+     "date": "Thrissur"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 138123,
+     "date": "Thrissur"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "14:0:597190"
+  }
+ }
+}

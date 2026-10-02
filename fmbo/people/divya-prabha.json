@@ -1,0 +1,62 @@
+{
+ "slug": "divya-prabha",
+ "name": "Divya Prabha",
+ "source_url": "https://fridaymatinee.in/people/divya-prabha",
+ "captured_at": "2026-10-01T22:03:56.872142+00:00",
+ "person": {
+  "name": "Divya Prabha",
+  "photo": "https://image.tmdb.org/t/p/w185/cbOuWRUiSNYKE7oayfVxyQyGtZi.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 46,
+   "movie_slug": "prathi-poovankozhi",
+   "title": "Prathi Poovankozhi",
+   "year": 2019,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 83,
+   "movie_slug": "nizhal",
+   "title": "Nizhal",
+   "year": 2021,
+   "kerala_gross": "₹54.2L"
+  },
+  {
+   "movie_id": 605,
+   "movie_slug": "all-we-imagine-as-light",
+   "title": "All We Imagine as Light",
+   "year": 2024,
+   "kerala_gross": "₹18.2L"
+  },
+  {
+   "movie_id": 683,
+   "movie_slug": "sarkeet",
+   "title": "Sarkeet",
+   "year": 2025,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 1003,
+   "movie_slug": "pennum-porattum",
+   "title": "Pennum Porattum",
+   "year": 2026,
+   "kerala_gross": "₹68.2L"
+  },
+  {
+   "movie_id": 1020,
+   "movie_slug": "masthishka-maranam",
+   "title": "Masthishka Maranam",
+   "year": 2026,
+   "kerala_gross": "₹2.3 Cr"
+  }
+ ]
+}

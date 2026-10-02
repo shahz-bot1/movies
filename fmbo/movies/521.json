@@ -1,0 +1,630 @@
+{
+ "id": 521,
+ "slug": "mandakini",
+ "source_url": "https://fridaymatinee.in/boxoffice/mandakini-521",
+ "captured_at": "2026-10-01T18:14:21.910797+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 521,
+    "title": "Mandakini",
+    "img": "https://image.tmdb.org/t/p/original/qA1Nho6kM50i8uPVioWk2L83Fm2.jpg",
+    "released": "2024-05-24",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32089689",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "125 min",
+    "genre": "Comedy, Drama",
+    "plot": "Aromal and Ambili tied the knot.Aromal was really excited and delighted to start a life with Ambili but on that wedding night an unlikely incident happened which will put the entire family in complex situation.",
+    "released": "2024-05-24",
+    "director": "Vinod Leela",
+    "directorSlug": "vinod-leela",
+    "actors": [
+     "Althaf Salim",
+     "Anarkali Marikar",
+     "Ganapathi S. Poduval",
+     "Vineeth Thattil David",
+     "Aswathy Sreekanth",
+     "Jude Anthany Joseph"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 4573,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:56.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Althaf Salim",
+     "character": "Aromal",
+     "slug": "althaf-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wYFAsF8f4Ak26c4t5J1IfBBxP0W.jpg"
+    },
+    {
+     "name": "Anarkali Marikar",
+     "character": "Ambili",
+     "slug": "anarkali-marikar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5Nl0lsYbinDb8pE3GFB2PrNcmYj.jpg"
+    },
+    {
+     "name": "Ganapathi S. Poduval",
+     "character": "Sujith Vasu",
+     "slug": "ganapathi-s-poduval",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/15g6TQroqoLmcK1E8CniGZjm72l.jpg"
+    },
+    {
+     "name": "Vineeth Thattil David",
+     "character": "Unni",
+     "slug": "vineeth-thattil-david",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3GRoDMGPrMOBfHki8eAFYfse7kq.jpg"
+    },
+    {
+     "name": "Aswathy Sreekanth",
+     "character": "Ajitha",
+     "slug": "aswathy-sreekanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k3p97oYCJ889M4RcXtJnUnuACxd.jpg"
+    },
+    {
+     "name": "Jude Anthany Joseph",
+     "character": "SI Benny",
+     "slug": "jude-anthany-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6R8XUCFcc5qOVLv1Q0Xtd45qR9C.jpg"
+    },
+    {
+     "name": "Jaffer Idukki",
+     "character": "Ambili's Ammavan",
+     "slug": "jaffer-idukki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6kkv7LDD0NIGFTKZyrgGH5KGZpR.jpg"
+    },
+    {
+     "name": "Jeo Baby",
+     "character": "Sagar",
+     "slug": "jeo-baby",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rjjuaQped2aUcnXtWWT4TgH8erJ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vinod Leela",
+       "slug": "vinod-leela"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vinod Leela",
+       "slug": "vinod-leela"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Bibin Ashok",
+       "slug": "bibin-ashok"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shiju M Bhaskar",
+       "slug": "shiju-m-bhaskar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sanju S Unnithan",
+       "slug": "sanju-s-unnithan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Spire Productions",
+     "slug": "spire-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 32343520.4,
+    "totalShows": 4850,
+    "totalDays": 35,
+    "openingDay": {
+     "day": 1,
+     "gross": 2052891.8,
+     "date": "2024-05-24"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 2841251.2,
+     "date": "2024-05-26"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 95,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-05-24"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 521,
+    "title": "Mandakini",
+    "img": "https://image.tmdb.org/t/p/original/qA1Nho6kM50i8uPVioWk2L83Fm2.jpg",
+    "released": "2024-05-24",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32089689",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "125 min",
+    "genre": "Comedy, Drama",
+    "plot": "Aromal and Ambili tied the knot.Aromal was really excited and delighted to start a life with Ambili but on that wedding night an unlikely incident happened which will put the entire family in complex situation.",
+    "released": "2024-05-24",
+    "director": "Vinod Leela",
+    "directorSlug": "vinod-leela",
+    "actors": [
+     "Althaf Salim",
+     "Anarkali Marikar",
+     "Ganapathi S. Poduval",
+     "Vineeth Thattil David",
+     "Aswathy Sreekanth",
+     "Jude Anthany Joseph"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 4573,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:56.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Althaf Salim",
+     "character": "Aromal",
+     "slug": "althaf-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wYFAsF8f4Ak26c4t5J1IfBBxP0W.jpg"
+    },
+    {
+     "name": "Anarkali Marikar",
+     "character": "Ambili",
+     "slug": "anarkali-marikar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5Nl0lsYbinDb8pE3GFB2PrNcmYj.jpg"
+    },
+    {
+     "name": "Ganapathi S. Poduval",
+     "character": "Sujith Vasu",
+     "slug": "ganapathi-s-poduval",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/15g6TQroqoLmcK1E8CniGZjm72l.jpg"
+    },
+    {
+     "name": "Vineeth Thattil David",
+     "character": "Unni",
+     "slug": "vineeth-thattil-david",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3GRoDMGPrMOBfHki8eAFYfse7kq.jpg"
+    },
+    {
+     "name": "Aswathy Sreekanth",
+     "character": "Ajitha",
+     "slug": "aswathy-sreekanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k3p97oYCJ889M4RcXtJnUnuACxd.jpg"
+    },
+    {
+     "name": "Jude Anthany Joseph",
+     "character": "SI Benny",
+     "slug": "jude-anthany-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6R8XUCFcc5qOVLv1Q0Xtd45qR9C.jpg"
+    },
+    {
+     "name": "Jaffer Idukki",
+     "character": "Ambili's Ammavan",
+     "slug": "jaffer-idukki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6kkv7LDD0NIGFTKZyrgGH5KGZpR.jpg"
+    },
+    {
+     "name": "Jeo Baby",
+     "character": "Sagar",
+     "slug": "jeo-baby",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rjjuaQped2aUcnXtWWT4TgH8erJ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vinod Leela",
+       "slug": "vinod-leela"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vinod Leela",
+       "slug": "vinod-leela"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Bibin Ashok",
+       "slug": "bibin-ashok"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shiju M Bhaskar",
+       "slug": "shiju-m-bhaskar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sanju S Unnithan",
+       "slug": "sanju-s-unnithan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Spire Productions",
+     "slug": "spire-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-05-24",
+     "gross": 12927650,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1684,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-05-31",
+     "gross": 8822209.399999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1181,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-06-07",
+     "gross": 6088889,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1124,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-06-14",
+     "gross": 3658482,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 637,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-06-21",
+     "gross": 846290,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 224,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 32343520.4,
+    "totalShows": 4850,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 12927650
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 12927650
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 95,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-05-24"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 521,
+    "title": "Mandakini",
+    "img": "https://image.tmdb.org/t/p/original/qA1Nho6kM50i8uPVioWk2L83Fm2.jpg",
+    "released": "2024-05-24",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32089689",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "125 min",
+    "genre": "Comedy, Drama",
+    "plot": "Aromal and Ambili tied the knot.Aromal was really excited and delighted to start a life with Ambili but on that wedding night an unlikely incident happened which will put the entire family in complex situation.",
+    "released": "2024-05-24",
+    "director": "Vinod Leela",
+    "directorSlug": "vinod-leela",
+    "actors": [
+     "Althaf Salim",
+     "Anarkali Marikar",
+     "Ganapathi S. Poduval",
+     "Vineeth Thattil David",
+     "Aswathy Sreekanth",
+     "Jude Anthany Joseph"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 4573,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:56.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Althaf Salim",
+     "character": "Aromal",
+     "slug": "althaf-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wYFAsF8f4Ak26c4t5J1IfBBxP0W.jpg"
+    },
+    {
+     "name": "Anarkali Marikar",
+     "character": "Ambili",
+     "slug": "anarkali-marikar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5Nl0lsYbinDb8pE3GFB2PrNcmYj.jpg"
+    },
+    {
+     "name": "Ganapathi S. Poduval",
+     "character": "Sujith Vasu",
+     "slug": "ganapathi-s-poduval",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/15g6TQroqoLmcK1E8CniGZjm72l.jpg"
+    },
+    {
+     "name": "Vineeth Thattil David",
+     "character": "Unni",
+     "slug": "vineeth-thattil-david",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3GRoDMGPrMOBfHki8eAFYfse7kq.jpg"
+    },
+    {
+     "name": "Aswathy Sreekanth",
+     "character": "Ajitha",
+     "slug": "aswathy-sreekanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k3p97oYCJ889M4RcXtJnUnuACxd.jpg"
+    },
+    {
+     "name": "Jude Anthany Joseph",
+     "character": "SI Benny",
+     "slug": "jude-anthany-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6R8XUCFcc5qOVLv1Q0Xtd45qR9C.jpg"
+    },
+    {
+     "name": "Jaffer Idukki",
+     "character": "Ambili's Ammavan",
+     "slug": "jaffer-idukki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6kkv7LDD0NIGFTKZyrgGH5KGZpR.jpg"
+    },
+    {
+     "name": "Jeo Baby",
+     "character": "Sagar",
+     "slug": "jeo-baby",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rjjuaQped2aUcnXtWWT4TgH8erJ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vinod Leela",
+       "slug": "vinod-leela"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vinod Leela",
+       "slug": "vinod-leela"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Bibin Ashok",
+       "slug": "bibin-ashok"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shiju M Bhaskar",
+       "slug": "shiju-m-bhaskar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sanju S Unnithan",
+       "slug": "sanju-s-unnithan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Spire Productions",
+     "slug": "spire-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 32343520.4,
+    "totalShows": 4850,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 9323588,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 9323588,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 95,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-05-24"
+   }
+  }
+ }
+}

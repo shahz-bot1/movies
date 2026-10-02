@@ -1,0 +1,631 @@
+{
+ "id": 226,
+ "slug": "monster",
+ "source_url": "https://fridaymatinee.in/boxoffice/monster-226",
+ "captured_at": "2026-10-01T18:07:06.283639+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 226,
+    "title": "Monster",
+    "img": "https://image.tmdb.org/t/p/original/b45yfHtLk4TSSDxOLgMLBpShner.jpg",
+    "released": "2022-10-21",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15816392",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "133 min",
+    "genre": "Action, Adventure, Crime",
+    "plot": "On their first wedding anniversary, Lucky Singh, an entrepreneur from Punjab walks into the lives of Anil Chandra and Bhamini. Little do they know that this man will change their future. Playing along with LGBT support.",
+    "released": "2022-10-21",
+    "director": "Vysakh",
+    "directorSlug": "vysakh",
+    "actors": [
+     "Mohanlal",
+     "Sudev Nair",
+     "Honey Rose",
+     "Lakshmi Manchu",
+     "Siddique",
+     "K. B. Ganesh Kumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.4",
+      "votes": 3363,
+      "updatedAt": "2026-09-25T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Lucky Singh",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wvoBULQimwguAGPOHZ8TDoy7jBJ.jpg"
+    },
+    {
+     "name": "Sudev Nair",
+     "character": "Anil Chandran",
+     "slug": "sudev-nair",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6x111KVuthpPOGJYTvdXLmh3J3p.jpg"
+    },
+    {
+     "name": "Honey Rose",
+     "character": "Bhamini",
+     "slug": "honey-rose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cDo8Qyto5FZxrRgrlgoxiBkggkE.jpg"
+    },
+    {
+     "name": "Lakshmi Manchu",
+     "character": "Durga",
+     "slug": "lakshmi-manchu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nbUDa8bVFlkYWiuhwkMSxNfPJFM.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "ADGP Chandrashekhar",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "K. B. Ganesh Kumar",
+     "character": "SP Joseph Cheriyan",
+     "slug": "k-b-ganesh-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Ac0j3lfrkft9Xsbt4BZqOeVPkG8.jpg"
+    },
+    {
+     "name": "Lenaa",
+     "character": "CI Mariyam George",
+     "slug": "lenaa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1qugxYSQRahuBfk8Nh6g3Qq2MAS.jpg"
+    },
+    {
+     "name": "Idavela Babu",
+     "character": "Advocate Vasavan (Original)",
+     "slug": "idavela-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aVzMDHCh5qCRPXKxCeala7XBDJ8.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vysakh",
+       "slug": "vysakh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Uday Krishna",
+       "slug": "uday-krishna"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Deepak Dev",
+       "slug": "deepak-dev"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Satheesh Kurup",
+       "slug": "satheesh-kurup"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Antony Perumbavoor",
+       "slug": "antony-perumbavoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aashirvad Cinemas",
+     "slug": "aashirvad-cinemas",
+     "logo": "https://image.tmdb.org/t/p/w185/khS7G0KzBoCYcLs4xuNjpuZjntR.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 38100981.35,
+    "totalShows": 5398,
+    "totalDays": 21,
+    "openingDay": {
+     "day": 1,
+     "gross": 13834017.87,
+     "date": "2022-10-21"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 13834017.87,
+     "date": "2022-10-21"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 42,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-10-21"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 226,
+    "title": "Monster",
+    "img": "https://image.tmdb.org/t/p/original/b45yfHtLk4TSSDxOLgMLBpShner.jpg",
+    "released": "2022-10-21",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15816392",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "133 min",
+    "genre": "Action, Adventure, Crime",
+    "plot": "On their first wedding anniversary, Lucky Singh, an entrepreneur from Punjab walks into the lives of Anil Chandra and Bhamini. Little do they know that this man will change their future. Playing along with LGBT support.",
+    "released": "2022-10-21",
+    "director": "Vysakh",
+    "directorSlug": "vysakh",
+    "actors": [
+     "Mohanlal",
+     "Sudev Nair",
+     "Honey Rose",
+     "Lakshmi Manchu",
+     "Siddique",
+     "K. B. Ganesh Kumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.4",
+      "votes": 3363,
+      "updatedAt": "2026-09-25T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Lucky Singh",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wvoBULQimwguAGPOHZ8TDoy7jBJ.jpg"
+    },
+    {
+     "name": "Sudev Nair",
+     "character": "Anil Chandran",
+     "slug": "sudev-nair",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6x111KVuthpPOGJYTvdXLmh3J3p.jpg"
+    },
+    {
+     "name": "Honey Rose",
+     "character": "Bhamini",
+     "slug": "honey-rose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cDo8Qyto5FZxrRgrlgoxiBkggkE.jpg"
+    },
+    {
+     "name": "Lakshmi Manchu",
+     "character": "Durga",
+     "slug": "lakshmi-manchu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nbUDa8bVFlkYWiuhwkMSxNfPJFM.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "ADGP Chandrashekhar",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "K. B. Ganesh Kumar",
+     "character": "SP Joseph Cheriyan",
+     "slug": "k-b-ganesh-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Ac0j3lfrkft9Xsbt4BZqOeVPkG8.jpg"
+    },
+    {
+     "name": "Lenaa",
+     "character": "CI Mariyam George",
+     "slug": "lenaa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1qugxYSQRahuBfk8Nh6g3Qq2MAS.jpg"
+    },
+    {
+     "name": "Idavela Babu",
+     "character": "Advocate Vasavan (Original)",
+     "slug": "idavela-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aVzMDHCh5qCRPXKxCeala7XBDJ8.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vysakh",
+       "slug": "vysakh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Uday Krishna",
+       "slug": "uday-krishna"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Deepak Dev",
+       "slug": "deepak-dev"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Satheesh Kurup",
+       "slug": "satheesh-kurup"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Antony Perumbavoor",
+       "slug": "antony-perumbavoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aashirvad Cinemas",
+     "slug": "aashirvad-cinemas",
+     "logo": "https://image.tmdb.org/t/p/w185/khS7G0KzBoCYcLs4xuNjpuZjntR.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-10-21",
+     "gross": 35618762.35,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4414,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-10-28",
+     "gross": 2432639.0000000005,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 940,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-11-04",
+     "gross": 49580,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 44,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 38100981.35,
+    "totalShows": 5398,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 35618762.35
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 35618762.35
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 42,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-10-21"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 226,
+    "title": "Monster",
+    "img": "https://image.tmdb.org/t/p/original/b45yfHtLk4TSSDxOLgMLBpShner.jpg",
+    "released": "2022-10-21",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15816392",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "133 min",
+    "genre": "Action, Adventure, Crime",
+    "plot": "On their first wedding anniversary, Lucky Singh, an entrepreneur from Punjab walks into the lives of Anil Chandra and Bhamini. Little do they know that this man will change their future. Playing along with LGBT support.",
+    "released": "2022-10-21",
+    "director": "Vysakh",
+    "directorSlug": "vysakh",
+    "actors": [
+     "Mohanlal",
+     "Sudev Nair",
+     "Honey Rose",
+     "Lakshmi Manchu",
+     "Siddique",
+     "K. B. Ganesh Kumar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.4",
+      "votes": 3363,
+      "updatedAt": "2026-09-25T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Lucky Singh",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wvoBULQimwguAGPOHZ8TDoy7jBJ.jpg"
+    },
+    {
+     "name": "Sudev Nair",
+     "character": "Anil Chandran",
+     "slug": "sudev-nair",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6x111KVuthpPOGJYTvdXLmh3J3p.jpg"
+    },
+    {
+     "name": "Honey Rose",
+     "character": "Bhamini",
+     "slug": "honey-rose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cDo8Qyto5FZxrRgrlgoxiBkggkE.jpg"
+    },
+    {
+     "name": "Lakshmi Manchu",
+     "character": "Durga",
+     "slug": "lakshmi-manchu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nbUDa8bVFlkYWiuhwkMSxNfPJFM.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "ADGP Chandrashekhar",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "K. B. Ganesh Kumar",
+     "character": "SP Joseph Cheriyan",
+     "slug": "k-b-ganesh-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Ac0j3lfrkft9Xsbt4BZqOeVPkG8.jpg"
+    },
+    {
+     "name": "Lenaa",
+     "character": "CI Mariyam George",
+     "slug": "lenaa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1qugxYSQRahuBfk8Nh6g3Qq2MAS.jpg"
+    },
+    {
+     "name": "Idavela Babu",
+     "character": "Advocate Vasavan (Original)",
+     "slug": "idavela-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aVzMDHCh5qCRPXKxCeala7XBDJ8.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vysakh",
+       "slug": "vysakh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Uday Krishna",
+       "slug": "uday-krishna"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Deepak Dev",
+       "slug": "deepak-dev"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Satheesh Kurup",
+       "slug": "satheesh-kurup"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Antony Perumbavoor",
+       "slug": "antony-perumbavoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aashirvad Cinemas",
+     "slug": "aashirvad-cinemas",
+     "logo": "https://image.tmdb.org/t/p/w185/khS7G0KzBoCYcLs4xuNjpuZjntR.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 38100981.349999994,
+    "totalShows": 5398,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 6928609,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 6928609,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 42,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-10-21"
+   }
+  }
+ }
+}

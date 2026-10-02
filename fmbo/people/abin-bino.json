@@ -1,0 +1,90 @@
+{
+ "slug": "abin-bino",
+ "name": "Abin Bino",
+ "source_url": "https://fridaymatinee.in/people/abin-bino",
+ "captured_at": "2026-10-01T20:08:20.778370+00:00",
+ "person": {
+  "name": "Abin Bino",
+  "photo": "https://image.tmdb.org/t/p/w185/7sXz5H8UaEOHdYmh6vzY3CdcpRF.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 10
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 290,
+   "movie_slug": "romancham",
+   "title": "Romancham",
+   "year": 2023,
+   "kerala_gross": "₹30.7 Cr"
+  },
+  {
+   "movie_id": 474,
+   "movie_slug": "turbo",
+   "title": "Turbo",
+   "year": 2024,
+   "kerala_gross": "₹30.1 Cr"
+  },
+  {
+   "movie_id": 657,
+   "movie_slug": "aapp-kaise-ho",
+   "title": "Aapp Kaise Ho",
+   "year": 2025,
+   "kerala_gross": "₹44.7L"
+  },
+  {
+   "movie_id": 593,
+   "movie_slug": "thudarum",
+   "title": "Thudarum",
+   "year": 2025,
+   "kerala_gross": "₹107.2 Cr"
+  },
+  {
+   "movie_id": 698,
+   "movie_slug": "azadi",
+   "title": "Azadi",
+   "year": 2025,
+   "kerala_gross": "₹56.9L"
+  },
+  {
+   "movie_id": 947,
+   "movie_slug": "haal",
+   "title": "Haal",
+   "year": 2025,
+   "kerala_gross": "₹1.3 Cr"
+  },
+  {
+   "movie_id": 961,
+   "movie_slug": "pennu-case",
+   "title": "Pennu Case",
+   "year": 2026,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 980,
+   "movie_slug": "magic-mushrooms",
+   "title": "Magic Mushrooms",
+   "year": 2026,
+   "kerala_gross": "₹68.6L"
+  },
+  {
+   "movie_id": 993,
+   "movie_slug": "aashaan",
+   "title": "Aashaan",
+   "year": 2026,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 1002,
+   "movie_slug": "sukhamano-sukhamanu",
+   "title": "Sukhamano Sukhamanu",
+   "year": 2026,
+   "kerala_gross": "₹70.9L"
+  }
+ ]
+}

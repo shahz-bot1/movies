@@ -1,0 +1,41 @@
+{
+ "slug": "ajayan-adat",
+ "name": "Ajayan Adat",
+ "source_url": "https://fridaymatinee.in/people/ajayan-adat",
+ "captured_at": "2026-10-01T20:17:05.376676+00:00",
+ "person": {
+  "name": "Ajayan Adat",
+  "photo": null,
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 81,
+   "movie_slug": "nayattu",
+   "title": "Nayattu",
+   "year": 2021,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 161,
+   "movie_slug": "ela-veezha-poonchira",
+   "title": "Ela Veezha Poonchira",
+   "year": 2022,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 1269,
+   "movie_slug": "aasha",
+   "title": "Aasha",
+   "year": 2026,
+   "kerala_gross": "₹5.1 Cr"
+  }
+ ]
+}

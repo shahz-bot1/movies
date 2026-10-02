@@ -1,0 +1,48 @@
+{
+ "slug": "avinash",
+ "name": "Avinash",
+ "source_url": "https://fridaymatinee.in/people/avinash",
+ "captured_at": "2026-10-01T21:04:24.639700+00:00",
+ "person": {
+  "name": "Avinash",
+  "photo": "https://image.tmdb.org/t/p/w185/uvDw1elYkPDooFNnq6yHJKBhz6s.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 228,
+   "movie_slug": "sardar",
+   "title": "Sardar",
+   "year": 2022,
+   "kerala_gross": "₹94.9L"
+  },
+  {
+   "movie_id": 308,
+   "movie_slug": "kabzaa",
+   "title": "Kabzaa",
+   "year": 2023,
+   "kerala_gross": "₹40.7L"
+  },
+  {
+   "movie_id": 887,
+   "movie_slug": "aaryan",
+   "title": "Aaryan",
+   "year": 2025,
+   "kerala_gross": "₹49.7L"
+  },
+  {
+   "movie_id": 1276,
+   "movie_slug": "sardar-2",
+   "title": "Sardar 2",
+   "year": 2026,
+   "kerala_gross": "₹42.6L"
+  }
+ ]
+}

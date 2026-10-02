@@ -1,0 +1,41 @@
+{
+ "slug": "s-sashikanth",
+ "name": "S. Sashikanth",
+ "source_url": "https://fridaymatinee.in/people/s-sashikanth",
+ "captured_at": "2026-10-02T09:55:02.586403+00:00",
+ "person": {
+  "name": "S. Sashikanth",
+  "photo": null,
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 216,
+   "movie_slug": "vikram-vedha",
+   "title": "Vikram Vedha",
+   "year": 2022,
+   "kerala_gross": "₹25.8L"
+  },
+  {
+   "movie_id": 499,
+   "movie_slug": "bramayugam",
+   "title": "Bramayugam",
+   "year": 2024,
+   "kerala_gross": "₹18.1 Cr"
+  },
+  {
+   "movie_id": 876,
+   "movie_slug": "dies-irae",
+   "title": "Dies Irae",
+   "year": 2025,
+   "kerala_gross": "₹32.8 Cr"
+  }
+ ]
+}

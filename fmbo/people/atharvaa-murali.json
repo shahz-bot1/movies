@@ -1,0 +1,41 @@
+{
+ "slug": "atharvaa-murali",
+ "name": "Atharvaa Murali",
+ "source_url": "https://fridaymatinee.in/people/atharvaa-murali",
+ "captured_at": "2026-10-01T21:02:22.629810+00:00",
+ "person": {
+  "name": "Atharvaa Murali",
+  "photo": "https://image.tmdb.org/t/p/w185/fRo2OQFMxGNl1gqPJHnwFSi8XT5.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 750,
+   "movie_slug": "dna",
+   "title": "DNA",
+   "year": 2025,
+   "kerala_gross": "₹8.8L"
+  },
+  {
+   "movie_id": 962,
+   "movie_slug": "parasakthi",
+   "title": "Parasakthi",
+   "year": 2026,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 1191,
+   "movie_slug": "idhayam-murali",
+   "title": "Idhayam Murali",
+   "year": 2026,
+   "kerala_gross": "₹25.9L"
+  }
+ ]
+}

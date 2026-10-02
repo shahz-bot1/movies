@@ -1,0 +1,46 @@
+{
+ "slug": "pradeep-ranganathan",
+ "name": "Pradeep Ranganathan",
+ "source_url": "https://fridaymatinee.in/people/pradeep-ranganathan",
+ "captured_at": "2026-10-02T06:23:26.756207+00:00",
+ "person": {
+  "name": "Pradeep Ranganathan",
+  "photo": "https://image.tmdb.org/t/p/w185/yfATc50b77UwlNxz9OrokPYnwRj.jpg",
+  "role": "Actor and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 658,
+   "movie_slug": "dragon",
+   "title": "Dragon",
+   "year": 2025,
+   "kerala_gross": "₹3.1 Cr"
+  },
+  {
+   "movie_id": 869,
+   "movie_slug": "dude",
+   "title": "Dude",
+   "year": 2025,
+   "kerala_gross": "₹3.4 Cr"
+  },
+  {
+   "movie_id": 1065,
+   "movie_slug": "love-insurance-kompany",
+   "title": "Love Insurance Kompany",
+   "year": 2026,
+   "kerala_gross": "₹54.0L"
+  }
+ ]
+}

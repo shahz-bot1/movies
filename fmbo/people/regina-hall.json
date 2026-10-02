@@ -1,0 +1,41 @@
+{
+ "slug": "regina-hall",
+ "name": "Regina Hall",
+ "source_url": "https://fridaymatinee.in/people/regina-hall",
+ "captured_at": "2026-10-02T08:46:38.727003+00:00",
+ "person": {
+  "name": "Regina Hall",
+  "photo": "https://image.tmdb.org/t/p/w185/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 792,
+   "movie_slug": "one-battle-after-another",
+   "title": "One Battle After Another",
+   "year": 2025,
+   "kerala_gross": "₹50.9L"
+  },
+  {
+   "movie_id": 973,
+   "movie_slug": "the-spongebob-movie-search-for-squarepants",
+   "title": "The Spongebob Movie Search For Squarepants",
+   "year": 2026,
+   "kerala_gross": "₹2.5L"
+  },
+  {
+   "movie_id": 1095,
+   "movie_slug": "the-sheep-detectives",
+   "title": "The Sheep Detectives",
+   "year": 2026,
+   "kerala_gross": "₹22.1L"
+  }
+ ]
+}

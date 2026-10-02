@@ -1,0 +1,41 @@
+{
+ "slug": "marc-platt",
+ "name": "Marc Platt",
+ "source_url": "https://fridaymatinee.in/people/marc-platt",
+ "captured_at": "2026-10-02T00:21:33.363667+00:00",
+ "person": {
+  "name": "Marc Platt",
+  "photo": "https://image.tmdb.org/t/p/w185/AdhoMikWWe1vjar68fuvekURno2.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 684,
+   "movie_slug": "snow-white",
+   "title": "Snow White",
+   "year": 2025,
+   "kerala_gross": "₹17.6L"
+  },
+  {
+   "movie_id": 725,
+   "movie_slug": "how-to-train-your-dragon",
+   "title": "How to Train Your Dragon",
+   "year": 2025,
+   "kerala_gross": "₹87.2L"
+  },
+  {
+   "movie_id": 923,
+   "movie_slug": "wicked-for-good",
+   "title": "Wicked: For Good",
+   "year": 2025,
+   "kerala_gross": "₹9.0L"
+  }
+ ]
+}

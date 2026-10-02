@@ -1,0 +1,674 @@
+{
+ "id": 634,
+ "slug": "bazooka",
+ "source_url": "https://fridaymatinee.in/boxoffice/bazooka-634",
+ "captured_at": "2026-10-01T18:17:40.440879+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 634,
+    "title": "Bazooka",
+    "img": "https://image.tmdb.org/t/p/original/q0RLj6WjdMKGg7XmvUApjwkWSut.jpg",
+    "released": "2025-04-10",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27470003",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "154 min",
+    "genre": "Action, Thriller, Crime",
+    "plot": "A cop and a businessman team up on a mission to capture a serial killer, using a series of elaborate games to track him down.",
+    "released": "2025-04-10",
+    "director": "Deeno Dennis",
+    "directorSlug": "deeno-dennis",
+    "actors": [
+     "Mammootty",
+     "Gautham Vasudev Menon",
+     "Shine Tom Chacko",
+     "Sidharth Bharathan",
+     "Gayathri Iyer",
+     "Bhama Arun"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:26.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mammootty",
+     "character": "Caesar John",
+     "slug": "mammootty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
+    },
+    {
+     "name": "Gautham Vasudev Menon",
+     "character": "Benjamin Joshua",
+     "slug": "gautham-vasudev-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Franco Salvatore",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Sidharth Bharathan",
+     "character": "Arjun Ramaswamy",
+     "slug": "sidharth-bharathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4a13KELmZuB4NnRlOsdzMfo2K7j.jpg"
+    },
+    {
+     "name": "Gayathri Iyer",
+     "character": null,
+     "slug": "gayathri-iyer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eu1RTrDWmKDRKf7Esc8j6pMjcui.jpg"
+    },
+    {
+     "name": "Bhama Arun",
+     "character": null,
+     "slug": "bhama-arun",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tFtpSXaRTddnRDAnQonDjVOIeDX.jpg"
+    },
+    {
+     "name": "Babu Antony",
+     "character": null,
+     "slug": "babu-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yaT3I5xf8XG806Or6sOMPMPOUVD.jpg"
+    },
+    {
+     "name": "Iswarya Menon",
+     "character": "Jovita",
+     "slug": "iswarya-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gg25ZW46VBmvxplzJfWmCajcocf.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Deeno Dennis",
+       "slug": "deeno-dennis"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Deeno Dennis",
+       "slug": "deeno-dennis"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Saeed Abbas",
+       "slug": "saeed-abbas"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nimish Ravi",
+       "slug": "nimish-ravi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nishadh Yusuf",
+       "slug": "nishadh-yusuf"
+      },
+      {
+       "name": "Praveen Prabhakar",
+       "slug": "praveen-prabhakar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Siddharth Anand Kumar",
+       "slug": "siddharth-anand-kumar"
+      },
+      {
+       "name": "Jinu Abraham",
+       "slug": "jinu-abraham"
+      },
+      {
+       "name": "Vikram Mehra",
+       "slug": "vikram-mehra"
+      },
+      {
+       "name": "Dolwin Kuriakose",
+       "slug": "dolwin-kuriakose"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Theatre of Dreams",
+     "slug": "theatre-of-dreams",
+     "logo": null
+    },
+    {
+     "name": "Saregama Productions",
+     "slug": "saregama-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/6lKwF4fY6mPjt35FC6daGuQ6VxM.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 119259165.00000001,
+    "totalShows": 10281,
+    "totalDays": 22,
+    "openingDay": {
+     "day": 1,
+     "gross": 29308881.200000003,
+     "date": "2025-04-10"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 29308881.200000003,
+     "date": "2025-04-10"
+    },
+    "chartPosition": {
+     "current_position": 88,
+     "weeks_on_chart": 0,
+     "peak_position": 56,
+     "last_week_position": 87
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-04-10"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 634,
+    "title": "Bazooka",
+    "img": "https://image.tmdb.org/t/p/original/q0RLj6WjdMKGg7XmvUApjwkWSut.jpg",
+    "released": "2025-04-10",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27470003",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "154 min",
+    "genre": "Action, Thriller, Crime",
+    "plot": "A cop and a businessman team up on a mission to capture a serial killer, using a series of elaborate games to track him down.",
+    "released": "2025-04-10",
+    "director": "Deeno Dennis",
+    "directorSlug": "deeno-dennis",
+    "actors": [
+     "Mammootty",
+     "Gautham Vasudev Menon",
+     "Shine Tom Chacko",
+     "Sidharth Bharathan",
+     "Gayathri Iyer",
+     "Bhama Arun"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:26.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mammootty",
+     "character": "Caesar John",
+     "slug": "mammootty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
+    },
+    {
+     "name": "Gautham Vasudev Menon",
+     "character": "Benjamin Joshua",
+     "slug": "gautham-vasudev-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Franco Salvatore",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Sidharth Bharathan",
+     "character": "Arjun Ramaswamy",
+     "slug": "sidharth-bharathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4a13KELmZuB4NnRlOsdzMfo2K7j.jpg"
+    },
+    {
+     "name": "Gayathri Iyer",
+     "character": null,
+     "slug": "gayathri-iyer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eu1RTrDWmKDRKf7Esc8j6pMjcui.jpg"
+    },
+    {
+     "name": "Bhama Arun",
+     "character": null,
+     "slug": "bhama-arun",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tFtpSXaRTddnRDAnQonDjVOIeDX.jpg"
+    },
+    {
+     "name": "Babu Antony",
+     "character": null,
+     "slug": "babu-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yaT3I5xf8XG806Or6sOMPMPOUVD.jpg"
+    },
+    {
+     "name": "Iswarya Menon",
+     "character": "Jovita",
+     "slug": "iswarya-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gg25ZW46VBmvxplzJfWmCajcocf.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Deeno Dennis",
+       "slug": "deeno-dennis"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Deeno Dennis",
+       "slug": "deeno-dennis"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Saeed Abbas",
+       "slug": "saeed-abbas"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nimish Ravi",
+       "slug": "nimish-ravi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nishadh Yusuf",
+       "slug": "nishadh-yusuf"
+      },
+      {
+       "name": "Praveen Prabhakar",
+       "slug": "praveen-prabhakar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Siddharth Anand Kumar",
+       "slug": "siddharth-anand-kumar"
+      },
+      {
+       "name": "Jinu Abraham",
+       "slug": "jinu-abraham"
+      },
+      {
+       "name": "Vikram Mehra",
+       "slug": "vikram-mehra"
+      },
+      {
+       "name": "Dolwin Kuriakose",
+       "slug": "dolwin-kuriakose"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Theatre of Dreams",
+     "slug": "theatre-of-dreams",
+     "logo": null
+    },
+    {
+     "name": "Saregama Productions",
+     "slug": "saregama-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/6lKwF4fY6mPjt35FC6daGuQ6VxM.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2025-04-10",
+     "gross": 103664155.6,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 6299,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-04-17",
+     "gross": 13907192.399999993,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3486,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-04-24",
+     "gross": 1674317,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 495,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-05-01",
+     "gross": 13500,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 119259164.99999999,
+    "totalShows": 10281,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 103664155.6
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 103664155.6
+    },
+    "chartPosition": {
+     "current_position": 88,
+     "weeks_on_chart": 0,
+     "peak_position": 56,
+     "last_week_position": 87
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-04-10"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 634,
+    "title": "Bazooka",
+    "img": "https://image.tmdb.org/t/p/original/q0RLj6WjdMKGg7XmvUApjwkWSut.jpg",
+    "released": "2025-04-10",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27470003",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "154 min",
+    "genre": "Action, Thriller, Crime",
+    "plot": "A cop and a businessman team up on a mission to capture a serial killer, using a series of elaborate games to track him down.",
+    "released": "2025-04-10",
+    "director": "Deeno Dennis",
+    "directorSlug": "deeno-dennis",
+    "actors": [
+     "Mammootty",
+     "Gautham Vasudev Menon",
+     "Shine Tom Chacko",
+     "Sidharth Bharathan",
+     "Gayathri Iyer",
+     "Bhama Arun"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:26.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mammootty",
+     "character": "Caesar John",
+     "slug": "mammootty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
+    },
+    {
+     "name": "Gautham Vasudev Menon",
+     "character": "Benjamin Joshua",
+     "slug": "gautham-vasudev-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Franco Salvatore",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Sidharth Bharathan",
+     "character": "Arjun Ramaswamy",
+     "slug": "sidharth-bharathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4a13KELmZuB4NnRlOsdzMfo2K7j.jpg"
+    },
+    {
+     "name": "Gayathri Iyer",
+     "character": null,
+     "slug": "gayathri-iyer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eu1RTrDWmKDRKf7Esc8j6pMjcui.jpg"
+    },
+    {
+     "name": "Bhama Arun",
+     "character": null,
+     "slug": "bhama-arun",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tFtpSXaRTddnRDAnQonDjVOIeDX.jpg"
+    },
+    {
+     "name": "Babu Antony",
+     "character": null,
+     "slug": "babu-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yaT3I5xf8XG806Or6sOMPMPOUVD.jpg"
+    },
+    {
+     "name": "Iswarya Menon",
+     "character": "Jovita",
+     "slug": "iswarya-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gg25ZW46VBmvxplzJfWmCajcocf.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Deeno Dennis",
+       "slug": "deeno-dennis"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Deeno Dennis",
+       "slug": "deeno-dennis"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Saeed Abbas",
+       "slug": "saeed-abbas"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nimish Ravi",
+       "slug": "nimish-ravi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nishadh Yusuf",
+       "slug": "nishadh-yusuf"
+      },
+      {
+       "name": "Praveen Prabhakar",
+       "slug": "praveen-prabhakar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Siddharth Anand Kumar",
+       "slug": "siddharth-anand-kumar"
+      },
+      {
+       "name": "Jinu Abraham",
+       "slug": "jinu-abraham"
+      },
+      {
+       "name": "Vikram Mehra",
+       "slug": "vikram-mehra"
+      },
+      {
+       "name": "Dolwin Kuriakose",
+       "slug": "dolwin-kuriakose"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Theatre of Dreams",
+     "slug": "theatre-of-dreams",
+     "logo": null
+    },
+    {
+     "name": "Saregama Productions",
+     "slug": "saregama-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/6lKwF4fY6mPjt35FC6daGuQ6VxM.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 119259164.99999999,
+    "totalShows": 10281,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 27168283,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 27168283,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 88,
+     "weeks_on_chart": 0,
+     "peak_position": 56,
+     "last_week_position": 87
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-04-10"
+   }
+  }
+ }
+}

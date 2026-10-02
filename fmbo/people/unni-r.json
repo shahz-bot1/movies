@@ -1,0 +1,48 @@
+{
+ "slug": "unni-r",
+ "name": "Unni R.",
+ "source_url": "https://fridaymatinee.in/people/unni-r",
+ "captured_at": "2026-10-02T11:33:27.555873+00:00",
+ "person": {
+  "name": "Unni R.",
+  "photo": null,
+  "role": "Writer"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 46,
+   "movie_slug": "prathi-poovankozhi",
+   "title": "Prathi Poovankozhi",
+   "year": 2019,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 113,
+   "movie_slug": "naradan",
+   "title": "Naradan",
+   "year": 2022,
+   "kerala_gross": "₹57.7L"
+  },
+  {
+   "movie_id": 771,
+   "movie_slug": "vadakkan",
+   "title": "Vadakkan",
+   "year": 2025,
+   "kerala_gross": "₹25.5L"
+  },
+  {
+   "movie_id": 591,
+   "movie_slug": "bilal",
+   "title": "Bilal",
+   "year": 2099,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

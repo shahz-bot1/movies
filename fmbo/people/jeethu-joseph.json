@@ -1,0 +1,81 @@
+{
+ "slug": "jeethu-joseph",
+ "name": "Jeethu Joseph",
+ "source_url": "https://fridaymatinee.in/people/jeethu-joseph",
+ "captured_at": "2026-10-01T23:07:38.401141+00:00",
+ "person": {
+  "name": "Jeethu Joseph",
+  "photo": "https://image.tmdb.org/t/p/w185/47Hqs5fHKFU0uRb0qIJOncAcqNl.jpg",
+  "role": "Director and writer"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 8
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 45,
+   "movie_slug": "thambi",
+   "title": "Thambi",
+   "year": 2019,
+   "kerala_gross": "₹16.3L"
+  },
+  {
+   "movie_id": 236,
+   "movie_slug": "kooman",
+   "title": "Kooman",
+   "year": 2022,
+   "kerala_gross": "₹6.8 Cr"
+  },
+  {
+   "movie_id": 481,
+   "movie_slug": "neru",
+   "title": "Neru",
+   "year": 2023,
+   "kerala_gross": "₹35.9 Cr"
+  },
+  {
+   "movie_id": 550,
+   "movie_slug": "nunakkuzhi",
+   "title": "Nunakkuzhi",
+   "year": 2024,
+   "kerala_gross": "₹11.0 Cr"
+  },
+  {
+   "movie_id": 821,
+   "movie_slug": "mirage",
+   "title": "Mirage",
+   "year": 2025,
+   "kerala_gross": "₹5.2 Cr"
+  },
+  {
+   "movie_id": 886,
+   "movie_slug": "valathu-vashathe-kallan",
+   "title": "Valathu Vashathe Kallan",
+   "year": 2026,
+   "kerala_gross": "₹4.3 Cr"
+  },
+  {
+   "movie_id": 1067,
+   "movie_slug": "drishyam-2",
+   "title": "Drishyam 2",
+   "year": 2026,
+   "kerala_gross": "₹3.6L"
+  },
+  {
+   "movie_id": 1012,
+   "movie_slug": "drishyam-3",
+   "title": "Drishyam 3",
+   "year": 2026,
+   "kerala_gross": "₹82.0 Cr"
+  }
+ ]
+}

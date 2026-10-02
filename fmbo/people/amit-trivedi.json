@@ -1,0 +1,69 @@
+{
+ "slug": "amit-trivedi",
+ "name": "Amit Trivedi",
+ "source_url": "https://fridaymatinee.in/people/amit-trivedi",
+ "captured_at": "2026-10-01T20:30:49.181164+00:00",
+ "person": {
+  "name": "Amit Trivedi",
+  "photo": "https://image.tmdb.org/t/p/w185/lRewkQ2Smolc0TjNMSycYHnbFil.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 7
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 205,
+   "movie_slug": "chup",
+   "title": "Chup",
+   "year": 2022,
+   "kerala_gross": "₹49.5L"
+  },
+  {
+   "movie_id": 849,
+   "movie_slug": "homebound",
+   "title": "Homebound",
+   "year": 2025,
+   "kerala_gross": "₹1.7L"
+  },
+  {
+   "movie_id": 927,
+   "movie_slug": "120-bahadur",
+   "title": "120 Bahadur",
+   "year": 2025,
+   "kerala_gross": "₹9.3L"
+  },
+  {
+   "movie_id": 1146,
+   "movie_slug": "governor",
+   "title": "Governor",
+   "year": 2026,
+   "kerala_gross": "₹68K"
+  },
+  {
+   "movie_id": 1272,
+   "movie_slug": "daayra",
+   "title": "Daayra",
+   "year": 2026,
+   "kerala_gross": "₹11.8L"
+  },
+  {
+   "movie_id": 1293,
+   "movie_slug": "vibe",
+   "title": "Vibe",
+   "year": 2026,
+   "kerala_gross": "₹2.1L"
+  },
+  {
+   "movie_id": 1320,
+   "movie_slug": "the-vvaan",
+   "title": "The Vvaan",
+   "year": 2026,
+   "kerala_gross": "₹7.4L"
+  }
+ ]
+}

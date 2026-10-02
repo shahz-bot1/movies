@@ -1,0 +1,55 @@
+{
+ "slug": "jason-blum",
+ "name": "Jason Blum",
+ "source_url": "https://fridaymatinee.in/people/jason-blum",
+ "captured_at": "2026-10-01T23:03:05.815717+00:00",
+ "person": {
+  "name": "Jason Blum",
+  "photo": "https://image.tmdb.org/t/p/w185/oOsdVzSXyj1L1mKN3d2QcF01hkc.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 747,
+   "movie_slug": "m3gan-2-0",
+   "title": "M3GAN 2.0",
+   "year": 2025,
+   "kerala_gross": "₹2.0L"
+  },
+  {
+   "movie_id": 890,
+   "movie_slug": "the-black-phone-2",
+   "title": "The Black Phone 2",
+   "year": 2025,
+   "kerala_gross": "₹79K"
+  },
+  {
+   "movie_id": 914,
+   "movie_slug": "five-nights-at-freddys-2",
+   "title": "Five Nights at Freddys 2",
+   "year": 2025,
+   "kerala_gross": "₹1.2L"
+  },
+  {
+   "movie_id": 1073,
+   "movie_slug": "lee-cronin-s-the-mummy",
+   "title": "Lee Cronin's The Mummy",
+   "year": 2026,
+   "kerala_gross": "₹1.3 Cr"
+  },
+  {
+   "movie_id": 1235,
+   "movie_slug": "insidious-out-of-the-further",
+   "title": "Insidious: Out of the Further",
+   "year": 2026,
+   "kerala_gross": "₹26.8L"
+  }
+ ]
+}

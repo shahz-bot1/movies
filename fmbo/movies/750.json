@@ -1,0 +1,648 @@
+{
+ "id": 750,
+ "slug": "dna",
+ "source_url": "https://fridaymatinee.in/boxoffice/dna-750",
+ "captured_at": "2026-10-01T18:21:14.200634+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 750,
+    "title": "DNA",
+    "img": "https://image.tmdb.org/t/p/original/82eWyEvVP01sV5DvBer9QyNgCh2.jpg",
+    "released": "2025-06-20",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29471661",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "140 min",
+    "genre": "Drama",
+    "plot": "A young woman with borderline personality disorder, fights a lonely battle when she believes her newborn baby was swapped with someone else’s minutes after her delivery. Her loving husband, who initially doubts, eventually believes and starts investigating with an experienced cop.",
+    "released": "2025-06-20",
+    "director": "Nelson Venkatesan",
+    "directorSlug": "nelson-venkatesan",
+    "actors": [
+     "Atharvaa Murali",
+     "Nimisha Sajayan",
+     "Chetan",
+     "Mohammed Zeeshan Ayyub",
+     "Maanasa Chaudhary",
+     "Riythvika"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.1",
+      "votes": 2909,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:51.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Atharvaa Murali",
+     "character": "Anand",
+     "slug": "atharvaa-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2skEk1iPyFhSbWXJAvqNLxhJu3Z.jpg"
+    },
+    {
+     "name": "Nimisha Sajayan",
+     "character": "Divya",
+     "slug": "nimisha-sajayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/r1tiqFWXlWDFlZx966yOeBYs2qY.jpg"
+    },
+    {
+     "name": "Chetan",
+     "character": "Siva Subramaniam",
+     "slug": "chetan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jE66LoKC6ctmSLitdtIQUOrpTkI.jpg"
+    },
+    {
+     "name": "Mohammed Zeeshan Ayyub",
+     "character": "Varadarajan",
+     "slug": "mohammed-zeeshan-ayyub",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cF1j8Vt9YPlOBjy3lfmhuF11dmD.jpg"
+    },
+    {
+     "name": "Maanasa Chaudhary",
+     "character": "Saranya",
+     "slug": "maanasa-chaudhary",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9If2kbsV6ewbsUKviyvyYC5xJ2G.jpg"
+    },
+    {
+     "name": "Riythvika",
+     "character": "Punithavalli Rajasekaran",
+     "slug": "riythvika",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mf5CfgpVh1SN8KTSSO5Wk5JFnfv.jpg"
+    },
+    {
+     "name": "Karunakaran",
+     "character": null,
+     "slug": "karunakaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3unnOmeQ0r4GhAY1EDbZaCdt1N.jpg"
+    },
+    {
+     "name": "Balaji Sakthivel",
+     "character": "Chinnaswamy",
+     "slug": "balaji-sakthivel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d4j8H4uYjQMTRMxw8CIN9igIE7.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nelson Venkatesan",
+       "slug": "nelson-venkatesan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Nelson Venkatesan",
+       "slug": "nelson-venkatesan"
+      },
+      {
+       "name": "Athisha Vino",
+       "slug": "athisha-vino"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ghibran",
+       "slug": "ghibran"
+      },
+      {
+       "name": "Sreekanth Hariharan",
+       "slug": "sreekanth-hariharan"
+      },
+      {
+       "name": "Sathyaprakash Dharmar",
+       "slug": "sathyaprakash-dharmar"
+      },
+      {
+       "name": "Anal Akash",
+       "slug": "anal-akash"
+      },
+      {
+       "name": "Praveen Saivi",
+       "slug": "praveen-saivi"
+      },
+      {
+       "name": "Sahi Siva",
+       "slug": "sahi-siva"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Parthiban",
+       "slug": "parthiban"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "VJ Sabu Joseph",
+       "slug": "vj-sabu-joseph"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Olympia Movies",
+     "slug": "olympia-movies",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-07-18",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 880722,
+    "totalShows": 576,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 213774,
+     "date": "2025-06-20"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 213774,
+     "date": "2025-06-20"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-06-20"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 750,
+    "title": "DNA",
+    "img": "https://image.tmdb.org/t/p/original/82eWyEvVP01sV5DvBer9QyNgCh2.jpg",
+    "released": "2025-06-20",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29471661",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "140 min",
+    "genre": "Drama",
+    "plot": "A young woman with borderline personality disorder, fights a lonely battle when she believes her newborn baby was swapped with someone else’s minutes after her delivery. Her loving husband, who initially doubts, eventually believes and starts investigating with an experienced cop.",
+    "released": "2025-06-20",
+    "director": "Nelson Venkatesan",
+    "directorSlug": "nelson-venkatesan",
+    "actors": [
+     "Atharvaa Murali",
+     "Nimisha Sajayan",
+     "Chetan",
+     "Mohammed Zeeshan Ayyub",
+     "Maanasa Chaudhary",
+     "Riythvika"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.1",
+      "votes": 2909,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:51.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Atharvaa Murali",
+     "character": "Anand",
+     "slug": "atharvaa-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2skEk1iPyFhSbWXJAvqNLxhJu3Z.jpg"
+    },
+    {
+     "name": "Nimisha Sajayan",
+     "character": "Divya",
+     "slug": "nimisha-sajayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/r1tiqFWXlWDFlZx966yOeBYs2qY.jpg"
+    },
+    {
+     "name": "Chetan",
+     "character": "Siva Subramaniam",
+     "slug": "chetan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jE66LoKC6ctmSLitdtIQUOrpTkI.jpg"
+    },
+    {
+     "name": "Mohammed Zeeshan Ayyub",
+     "character": "Varadarajan",
+     "slug": "mohammed-zeeshan-ayyub",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cF1j8Vt9YPlOBjy3lfmhuF11dmD.jpg"
+    },
+    {
+     "name": "Maanasa Chaudhary",
+     "character": "Saranya",
+     "slug": "maanasa-chaudhary",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9If2kbsV6ewbsUKviyvyYC5xJ2G.jpg"
+    },
+    {
+     "name": "Riythvika",
+     "character": "Punithavalli Rajasekaran",
+     "slug": "riythvika",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mf5CfgpVh1SN8KTSSO5Wk5JFnfv.jpg"
+    },
+    {
+     "name": "Karunakaran",
+     "character": null,
+     "slug": "karunakaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3unnOmeQ0r4GhAY1EDbZaCdt1N.jpg"
+    },
+    {
+     "name": "Balaji Sakthivel",
+     "character": "Chinnaswamy",
+     "slug": "balaji-sakthivel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d4j8H4uYjQMTRMxw8CIN9igIE7.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nelson Venkatesan",
+       "slug": "nelson-venkatesan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Nelson Venkatesan",
+       "slug": "nelson-venkatesan"
+      },
+      {
+       "name": "Athisha Vino",
+       "slug": "athisha-vino"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ghibran",
+       "slug": "ghibran"
+      },
+      {
+       "name": "Sreekanth Hariharan",
+       "slug": "sreekanth-hariharan"
+      },
+      {
+       "name": "Sathyaprakash Dharmar",
+       "slug": "sathyaprakash-dharmar"
+      },
+      {
+       "name": "Anal Akash",
+       "slug": "anal-akash"
+      },
+      {
+       "name": "Praveen Saivi",
+       "slug": "praveen-saivi"
+      },
+      {
+       "name": "Sahi Siva",
+       "slug": "sahi-siva"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Parthiban",
+       "slug": "parthiban"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "VJ Sabu Joseph",
+       "slug": "vj-sabu-joseph"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Olympia Movies",
+     "slug": "olympia-movies",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-07-18",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-06-20",
+     "gross": 877247,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 575,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-06-27",
+     "gross": 3475,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 880722,
+    "totalShows": 576,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 877247
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 877247
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-06-20"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 750,
+    "title": "DNA",
+    "img": "https://image.tmdb.org/t/p/original/82eWyEvVP01sV5DvBer9QyNgCh2.jpg",
+    "released": "2025-06-20",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29471661",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "140 min",
+    "genre": "Drama",
+    "plot": "A young woman with borderline personality disorder, fights a lonely battle when she believes her newborn baby was swapped with someone else’s minutes after her delivery. Her loving husband, who initially doubts, eventually believes and starts investigating with an experienced cop.",
+    "released": "2025-06-20",
+    "director": "Nelson Venkatesan",
+    "directorSlug": "nelson-venkatesan",
+    "actors": [
+     "Atharvaa Murali",
+     "Nimisha Sajayan",
+     "Chetan",
+     "Mohammed Zeeshan Ayyub",
+     "Maanasa Chaudhary",
+     "Riythvika"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.1",
+      "votes": 2909,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:51.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Atharvaa Murali",
+     "character": "Anand",
+     "slug": "atharvaa-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2skEk1iPyFhSbWXJAvqNLxhJu3Z.jpg"
+    },
+    {
+     "name": "Nimisha Sajayan",
+     "character": "Divya",
+     "slug": "nimisha-sajayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/r1tiqFWXlWDFlZx966yOeBYs2qY.jpg"
+    },
+    {
+     "name": "Chetan",
+     "character": "Siva Subramaniam",
+     "slug": "chetan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jE66LoKC6ctmSLitdtIQUOrpTkI.jpg"
+    },
+    {
+     "name": "Mohammed Zeeshan Ayyub",
+     "character": "Varadarajan",
+     "slug": "mohammed-zeeshan-ayyub",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cF1j8Vt9YPlOBjy3lfmhuF11dmD.jpg"
+    },
+    {
+     "name": "Maanasa Chaudhary",
+     "character": "Saranya",
+     "slug": "maanasa-chaudhary",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9If2kbsV6ewbsUKviyvyYC5xJ2G.jpg"
+    },
+    {
+     "name": "Riythvika",
+     "character": "Punithavalli Rajasekaran",
+     "slug": "riythvika",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mf5CfgpVh1SN8KTSSO5Wk5JFnfv.jpg"
+    },
+    {
+     "name": "Karunakaran",
+     "character": null,
+     "slug": "karunakaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3unnOmeQ0r4GhAY1EDbZaCdt1N.jpg"
+    },
+    {
+     "name": "Balaji Sakthivel",
+     "character": "Chinnaswamy",
+     "slug": "balaji-sakthivel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d4j8H4uYjQMTRMxw8CIN9igIE7.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nelson Venkatesan",
+       "slug": "nelson-venkatesan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Nelson Venkatesan",
+       "slug": "nelson-venkatesan"
+      },
+      {
+       "name": "Athisha Vino",
+       "slug": "athisha-vino"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ghibran",
+       "slug": "ghibran"
+      },
+      {
+       "name": "Sreekanth Hariharan",
+       "slug": "sreekanth-hariharan"
+      },
+      {
+       "name": "Sathyaprakash Dharmar",
+       "slug": "sathyaprakash-dharmar"
+      },
+      {
+       "name": "Anal Akash",
+       "slug": "anal-akash"
+      },
+      {
+       "name": "Praveen Saivi",
+       "slug": "praveen-saivi"
+      },
+      {
+       "name": "Sahi Siva",
+       "slug": "sahi-siva"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Parthiban",
+       "slug": "parthiban"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "VJ Sabu Joseph",
+       "slug": "vj-sabu-joseph"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Olympia Movies",
+     "slug": "olympia-movies",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-07-18",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 880722,
+    "totalShows": 576,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 227930,
+     "date": "Kannur"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 227930,
+     "date": "Kannur"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-06-20"
+   }
+  }
+ }
+}

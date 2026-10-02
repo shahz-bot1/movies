@@ -1,0 +1,48 @@
+{
+ "slug": "adhish-praveen",
+ "name": "Adhish Praveen",
+ "source_url": "https://fridaymatinee.in/people/adhish-praveen",
+ "captured_at": "2026-10-01T20:11:13.759352+00:00",
+ "person": {
+  "name": "Adish Praveen",
+  "photo": "https://image.tmdb.org/t/p/w185/lMZc20AqxuPfVjV7ZVFVk1BFfRT.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 48,
+   "movie_slug": "driving-licence",
+   "title": "Driving Licence",
+   "year": 2019,
+   "kerala_gross": "₹7.6 Cr"
+  },
+  {
+   "movie_id": 767,
+   "movie_slug": "pallotty-90s-kids",
+   "title": "Pallotty 90S Kids",
+   "year": 2024,
+   "kerala_gross": "₹77.1L"
+  },
+  {
+   "movie_id": 672,
+   "movie_slug": "abhilasham",
+   "title": "Abhilasham",
+   "year": 2025,
+   "kerala_gross": "₹54.4L"
+  },
+  {
+   "movie_id": 1258,
+   "movie_slug": "dhoomakethu",
+   "title": "Dhoomakethu",
+   "year": 2026,
+   "kerala_gross": "₹3.6 Cr"
+  }
+ ]
+}

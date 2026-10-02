@@ -1,0 +1,55 @@
+{
+ "slug": "geetha-kailasam",
+ "name": "Geetha Kailasam",
+ "source_url": "https://fridaymatinee.in/people/geetha-kailasam",
+ "captured_at": "2026-10-01T22:29:01.024264+00:00",
+ "person": {
+  "name": "Geetha Kailasam",
+  "photo": "https://image.tmdb.org/t/p/w185/8hOXtSmjgIVEq2LhSJAxNirTN95.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 204,
+   "movie_slug": "vendhu-thanindhathu-kaadu",
+   "title": "Vendhu Thanindhathu Kaadu",
+   "year": 2022,
+   "kerala_gross": "₹40.9L"
+  },
+  {
+   "movie_id": 399,
+   "movie_slug": "maamannan",
+   "title": "Maamannan",
+   "year": 2023,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 589,
+   "movie_slug": "amaran",
+   "title": "Amaran",
+   "year": 2024,
+   "kerala_gross": "₹9.7 Cr"
+  },
+  {
+   "movie_id": 339,
+   "movie_slug": "madraskaaran",
+   "title": "Madraskaaran",
+   "year": 2025,
+   "kerala_gross": "₹1.5L"
+  },
+  {
+   "movie_id": 854,
+   "movie_slug": "idli-kadai",
+   "title": "Idli Kadai",
+   "year": 2025,
+   "kerala_gross": "₹80.6L"
+  }
+ ]
+}

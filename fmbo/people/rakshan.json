@@ -1,0 +1,41 @@
+{
+ "slug": "rakshan",
+ "name": "Rakshan",
+ "source_url": "https://fridaymatinee.in/people/rakshan",
+ "captured_at": "2026-10-02T08:36:28.648910+00:00",
+ "person": {
+  "name": "Rakshan",
+  "photo": "https://image.tmdb.org/t/p/w185/wWSNTMrPITsZ80DCLMUthOmNJEh.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 62,
+   "movie_slug": "kannum-kannum-kollaiyadithaal",
+   "title": "Kannum Kannum Kollaiyadithaal",
+   "year": 2020,
+   "kerala_gross": "₹97.6L"
+  },
+  {
+   "movie_id": 582,
+   "movie_slug": "vettaiyan",
+   "title": "Vettaiyan",
+   "year": 2024,
+   "kerala_gross": "₹13.1 Cr"
+  },
+  {
+   "movie_id": 1191,
+   "movie_slug": "idhayam-murali",
+   "title": "Idhayam Murali",
+   "year": 2026,
+   "kerala_gross": "₹25.9L"
+  }
+ ]
+}

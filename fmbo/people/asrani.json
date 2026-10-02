@@ -1,0 +1,48 @@
+{
+ "slug": "asrani",
+ "name": "Asrani",
+ "source_url": "https://fridaymatinee.in/people/asrani",
+ "captured_at": "2026-10-01T21:01:31.985569+00:00",
+ "person": {
+  "name": "Asrani",
+  "photo": "https://image.tmdb.org/t/p/w185/zoZRnIHNkCRq4gKZGaQhbtPrIDj.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 937,
+   "movie_slug": "kis-kisko-pyaar-karoon-2",
+   "title": "Kis Kisko Pyaar Karoon 2",
+   "year": 2025,
+   "kerala_gross": "₹2.0L"
+  },
+  {
+   "movie_id": 972,
+   "movie_slug": "ikkis",
+   "title": "Ikkis",
+   "year": 2026,
+   "kerala_gross": "₹16.1L"
+  },
+  {
+   "movie_id": 1070,
+   "movie_slug": "bhooth-bangla",
+   "title": "Bhooth Bangla",
+   "year": 2026,
+   "kerala_gross": "₹24.0L"
+  },
+  {
+   "movie_id": 1278,
+   "movie_slug": "haiwaan",
+   "title": "Haiwaan",
+   "year": 2026,
+   "kerala_gross": "₹4.2L"
+  }
+ ]
+}

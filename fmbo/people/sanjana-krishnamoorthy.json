@@ -1,0 +1,41 @@
+{
+ "slug": "sanjana-krishnamoorthy",
+ "name": "Sanjana Krishnamoorthy",
+ "source_url": "https://fridaymatinee.in/people/sanjana-krishnamoorthy",
+ "captured_at": "2026-10-02T10:09:20.106591+00:00",
+ "person": {
+  "name": "Sanjana Krishnamoorthy",
+  "photo": "https://image.tmdb.org/t/p/w185/sPh2ToZD1U981VZFOmRZO6wZ16v.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 701,
+   "movie_slug": "thug-life",
+   "title": "Thug Life",
+   "year": 2025,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 1138,
+   "movie_slug": "parimala-and-co",
+   "title": "Parimala and Co",
+   "year": 2026,
+   "kerala_gross": "₹29.7L"
+  },
+  {
+   "movie_id": 1216,
+   "movie_slug": "dc",
+   "title": "DC",
+   "year": 2026,
+   "kerala_gross": "₹18.1 Cr"
+  }
+ ]
+}

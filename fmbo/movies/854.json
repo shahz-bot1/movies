@@ -1,0 +1,658 @@
+{
+ "id": 854,
+ "slug": "idli-kadai",
+ "source_url": "https://fridaymatinee.in/boxoffice/idli-kadai-854",
+ "captured_at": "2026-10-01T18:24:18.961244+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 854,
+    "title": "Idli Kadai",
+    "img": "https://image.tmdb.org/t/p/original/cVYI5WpO8ROidTBiIC7efUafvul.jpg",
+    "released": "2025-10-01",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33029024",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "147 min",
+    "genre": "Action, Drama, Comedy",
+    "plot": "A simple man's search for success leads him to rediscover his roots.",
+    "released": "2025-10-01",
+    "director": "Dhanush",
+    "directorSlug": "dhanush",
+    "actors": [
+     "Dhanush",
+     "Rajkiran",
+     "Arun Vijay",
+     "Nithya Menen",
+     "Sathyaraj",
+     "Shalini Pandey"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 7188,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dhanush",
+     "character": "Murugan",
+     "slug": "dhanush",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7bI9oy1BXIk58hsOK8WfN5g0i1P.jpg"
+    },
+    {
+     "name": "Rajkiran",
+     "character": "Sivanesan",
+     "slug": "rajkiran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pOtBIgS3433WmLM23TKGdz5UGTi.jpg"
+    },
+    {
+     "name": "Arun Vijay",
+     "character": "Ashwin",
+     "slug": "arun-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hoZ99Ay5bsxSnzC1UE3Uw3ak7bh.jpg"
+    },
+    {
+     "name": "Nithya Menen",
+     "character": "Kayal",
+     "slug": "nithya-menen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2X31LkjRO3FYKIsDRiIGXuqk6Sq.jpg"
+    },
+    {
+     "name": "Sathyaraj",
+     "character": "Vishnu Vardhan",
+     "slug": "sathyaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+    },
+    {
+     "name": "Shalini Pandey",
+     "character": "Meera",
+     "slug": "shalini-pandey",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x0VLQqGuQocLALiauiZV2wge3OI.jpg"
+    },
+    {
+     "name": "Vadivukarasi",
+     "character": "Sivanesan's Mother",
+     "slug": "vadivukarasi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cGfFXJ20h1KECAzSPfo7zURtdqI.jpg"
+    },
+    {
+     "name": "Samuthirakani",
+     "character": "Marisamy",
+     "slug": "samuthirakani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hicCPOdDfSRCEYkeb9g53FOY19A.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Dhanush",
+       "slug": "dhanush"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Dhanush",
+       "slug": "dhanush"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "G. V. Prakash Kumar",
+       "slug": "g-v-prakash-kumar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Kiran Koushik",
+       "slug": "kiran-koushik"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Prasanna GK",
+       "slug": "prasanna-gk"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Aakash Baskaran",
+       "slug": "aakash-baskaran"
+      },
+      {
+       "name": "Dhanush",
+       "slug": "dhanush"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Dawn Pictures",
+     "slug": "dawn-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/dAeMSR2v8ydq78smbSI5gdKWoks.png"
+    },
+    {
+     "name": "Wunderbar Films",
+     "slug": "wunderbar-films",
+     "logo": "https://image.tmdb.org/t/p/w185/uoUOSqcQ8N9WoDA4LOZ4wuJ7ByQ.png"
+    },
+    {
+     "name": "Red Giant Movies",
+     "slug": "red-giant-movies",
+     "logo": "https://image.tmdb.org/t/p/w185/fXCywdThbIhPq5jb2488WZ8t6bg.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-10-29",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 8060393.000000002,
+    "totalShows": 2533,
+    "totalDays": 16,
+    "openingDay": {
+     "day": 1,
+     "gross": 2200436.5999999996,
+     "date": "2025-10-01"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2200436.5999999996,
+     "date": "2025-10-01"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-10-01"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 854,
+    "title": "Idli Kadai",
+    "img": "https://image.tmdb.org/t/p/original/cVYI5WpO8ROidTBiIC7efUafvul.jpg",
+    "released": "2025-10-01",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33029024",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "147 min",
+    "genre": "Action, Drama, Comedy",
+    "plot": "A simple man's search for success leads him to rediscover his roots.",
+    "released": "2025-10-01",
+    "director": "Dhanush",
+    "directorSlug": "dhanush",
+    "actors": [
+     "Dhanush",
+     "Rajkiran",
+     "Arun Vijay",
+     "Nithya Menen",
+     "Sathyaraj",
+     "Shalini Pandey"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 7188,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dhanush",
+     "character": "Murugan",
+     "slug": "dhanush",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7bI9oy1BXIk58hsOK8WfN5g0i1P.jpg"
+    },
+    {
+     "name": "Rajkiran",
+     "character": "Sivanesan",
+     "slug": "rajkiran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pOtBIgS3433WmLM23TKGdz5UGTi.jpg"
+    },
+    {
+     "name": "Arun Vijay",
+     "character": "Ashwin",
+     "slug": "arun-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hoZ99Ay5bsxSnzC1UE3Uw3ak7bh.jpg"
+    },
+    {
+     "name": "Nithya Menen",
+     "character": "Kayal",
+     "slug": "nithya-menen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2X31LkjRO3FYKIsDRiIGXuqk6Sq.jpg"
+    },
+    {
+     "name": "Sathyaraj",
+     "character": "Vishnu Vardhan",
+     "slug": "sathyaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+    },
+    {
+     "name": "Shalini Pandey",
+     "character": "Meera",
+     "slug": "shalini-pandey",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x0VLQqGuQocLALiauiZV2wge3OI.jpg"
+    },
+    {
+     "name": "Vadivukarasi",
+     "character": "Sivanesan's Mother",
+     "slug": "vadivukarasi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cGfFXJ20h1KECAzSPfo7zURtdqI.jpg"
+    },
+    {
+     "name": "Samuthirakani",
+     "character": "Marisamy",
+     "slug": "samuthirakani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hicCPOdDfSRCEYkeb9g53FOY19A.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Dhanush",
+       "slug": "dhanush"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Dhanush",
+       "slug": "dhanush"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "G. V. Prakash Kumar",
+       "slug": "g-v-prakash-kumar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Kiran Koushik",
+       "slug": "kiran-koushik"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Prasanna GK",
+       "slug": "prasanna-gk"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Aakash Baskaran",
+       "slug": "aakash-baskaran"
+      },
+      {
+       "name": "Dhanush",
+       "slug": "dhanush"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Dawn Pictures",
+     "slug": "dawn-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/dAeMSR2v8ydq78smbSI5gdKWoks.png"
+    },
+    {
+     "name": "Wunderbar Films",
+     "slug": "wunderbar-films",
+     "logo": "https://image.tmdb.org/t/p/w185/uoUOSqcQ8N9WoDA4LOZ4wuJ7ByQ.png"
+    },
+    {
+     "name": "Red Giant Movies",
+     "slug": "red-giant-movies",
+     "logo": "https://image.tmdb.org/t/p/w185/fXCywdThbIhPq5jb2488WZ8t6bg.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-10-29",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-10-01",
+     "gross": 7144414.2,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2024,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-10-08",
+     "gross": 863894.8000000003,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 464,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-10-15",
+     "gross": 52084,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 45,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 8060393,
+    "totalShows": 2533,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 7144414.2
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 7144414.2
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-10-01"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 854,
+    "title": "Idli Kadai",
+    "img": "https://image.tmdb.org/t/p/original/cVYI5WpO8ROidTBiIC7efUafvul.jpg",
+    "released": "2025-10-01",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33029024",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "147 min",
+    "genre": "Action, Drama, Comedy",
+    "plot": "A simple man's search for success leads him to rediscover his roots.",
+    "released": "2025-10-01",
+    "director": "Dhanush",
+    "directorSlug": "dhanush",
+    "actors": [
+     "Dhanush",
+     "Rajkiran",
+     "Arun Vijay",
+     "Nithya Menen",
+     "Sathyaraj",
+     "Shalini Pandey"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 7188,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dhanush",
+     "character": "Murugan",
+     "slug": "dhanush",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7bI9oy1BXIk58hsOK8WfN5g0i1P.jpg"
+    },
+    {
+     "name": "Rajkiran",
+     "character": "Sivanesan",
+     "slug": "rajkiran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pOtBIgS3433WmLM23TKGdz5UGTi.jpg"
+    },
+    {
+     "name": "Arun Vijay",
+     "character": "Ashwin",
+     "slug": "arun-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hoZ99Ay5bsxSnzC1UE3Uw3ak7bh.jpg"
+    },
+    {
+     "name": "Nithya Menen",
+     "character": "Kayal",
+     "slug": "nithya-menen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2X31LkjRO3FYKIsDRiIGXuqk6Sq.jpg"
+    },
+    {
+     "name": "Sathyaraj",
+     "character": "Vishnu Vardhan",
+     "slug": "sathyaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+    },
+    {
+     "name": "Shalini Pandey",
+     "character": "Meera",
+     "slug": "shalini-pandey",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x0VLQqGuQocLALiauiZV2wge3OI.jpg"
+    },
+    {
+     "name": "Vadivukarasi",
+     "character": "Sivanesan's Mother",
+     "slug": "vadivukarasi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cGfFXJ20h1KECAzSPfo7zURtdqI.jpg"
+    },
+    {
+     "name": "Samuthirakani",
+     "character": "Marisamy",
+     "slug": "samuthirakani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hicCPOdDfSRCEYkeb9g53FOY19A.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Dhanush",
+       "slug": "dhanush"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Dhanush",
+       "slug": "dhanush"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "G. V. Prakash Kumar",
+       "slug": "g-v-prakash-kumar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Kiran Koushik",
+       "slug": "kiran-koushik"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Prasanna GK",
+       "slug": "prasanna-gk"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Aakash Baskaran",
+       "slug": "aakash-baskaran"
+      },
+      {
+       "name": "Dhanush",
+       "slug": "dhanush"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Dawn Pictures",
+     "slug": "dawn-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/dAeMSR2v8ydq78smbSI5gdKWoks.png"
+    },
+    {
+     "name": "Wunderbar Films",
+     "slug": "wunderbar-films",
+     "logo": "https://image.tmdb.org/t/p/w185/uoUOSqcQ8N9WoDA4LOZ4wuJ7ByQ.png"
+    },
+    {
+     "name": "Red Giant Movies",
+     "slug": "red-giant-movies",
+     "logo": "https://image.tmdb.org/t/p/w185/fXCywdThbIhPq5jb2488WZ8t6bg.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-10-29",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 8060393.000000001,
+    "totalShows": 2533,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 1764230,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1764230,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-10-01"
+   }
+  }
+ }
+}

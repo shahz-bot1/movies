@@ -1,0 +1,639 @@
+{
+ "id": 370,
+ "slug": "the-kerala-story",
+ "source_url": "https://fridaymatinee.in/boxoffice/the-kerala-story-370",
+ "captured_at": "2026-10-01T18:10:44.006422+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 370,
+    "title": "The Kerala Story",
+    "img": "https://image.tmdb.org/t/p/original/z0AImDJYqmMKmkUpCnKNBKyDK2y.jpg",
+    "released": "2023-05-05",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt24268454",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "138 min",
+    "genre": "Crime, Drama",
+    "plot": "A converted Muslim woman narrates her ordeal of how she once wanted to become a nurse but was abducted from her home and manipulated by religious vanguards and turned into an ISIS terrorist and landed in Afghanistan jail.",
+    "released": "2023-05-05",
+    "director": "Sudipto Sen",
+    "directorSlug": "sudipto-sen",
+    "actors": [
+     "Adah Sharma",
+     "Yogita Bihani",
+     "Sonia Balani",
+     "Siddhi Idnani",
+     "Eleena Koul",
+     "Saniya Mirzaeva"
+    ],
+    "awards": "3 wins u0026 3 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 80861,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": "14%",
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:23.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Adah Sharma",
+     "character": "Shalini Unnikrishnan/Fatima",
+     "slug": "adah-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7zODp1yRHDyzcUXsi10ouHYY9IV.jpg"
+    },
+    {
+     "name": "Yogita Bihani",
+     "character": "Nimah Mathew",
+     "slug": "yogita-bihani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/krtXHR8gF5b4zxMsZbMm3PVk7Tn.jpg"
+    },
+    {
+     "name": "Sonia Balani",
+     "character": "Asifa",
+     "slug": "sonia-balani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qm6PYrj8VOA83v7zOEHOdZQypGk.jpg"
+    },
+    {
+     "name": "Siddhi Idnani",
+     "character": "Geethanjali Menon",
+     "slug": "siddhi-idnani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ywLPEBJcRxkNtIQ9FwjzB59kAsJ.jpg"
+    },
+    {
+     "name": "Eleena Koul",
+     "character": "Husna",
+     "slug": "eleena-koul",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7wCuWFhD0712DE7tTvZR1LXcUP.jpg"
+    },
+    {
+     "name": "Saniya Mirzaeva",
+     "character": "Farah",
+     "slug": "saniya-mirzaeva",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Benedict Garrett",
+     "character": "Peter Rodd",
+     "slug": "benedict-garrett",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vrOSmltwMROMeGowHVhURnGLvWE.jpg"
+    },
+    {
+     "name": "Bhavna Makhija",
+     "character": "Bhagyalaxmi",
+     "slug": "bhavna-makhija",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sudipto Sen",
+       "slug": "sudipto-sen"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sudipto Sen",
+       "slug": "sudipto-sen"
+      },
+      {
+       "name": "Suryapal Singh",
+       "slug": "suryapal-singh"
+      },
+      {
+       "name": "Vipul Amrutlal Shah",
+       "slug": "vipul-amrutlal-shah"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Bishakhjyoti",
+       "slug": "bishakhjyoti"
+      },
+      {
+       "name": "Viresh Sreevalsa",
+       "slug": "viresh-sreevalsa"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Prashantanu Mohapatra",
+       "slug": "prashantanu-mohapatra"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sanjay Sharma",
+       "slug": "sanjay-sharma"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vipul Amrutlal Shah",
+       "slug": "vipul-amrutlal-shah"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sunshine Pictures",
+     "slug": "sunshine-pictures",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-02-16",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2547387,
+    "totalShows": 162,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 418251,
+     "date": "2023-05-05"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 533670,
+     "date": "2023-05-07"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-05-05"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 370,
+    "title": "The Kerala Story",
+    "img": "https://image.tmdb.org/t/p/original/z0AImDJYqmMKmkUpCnKNBKyDK2y.jpg",
+    "released": "2023-05-05",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt24268454",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "138 min",
+    "genre": "Crime, Drama",
+    "plot": "A converted Muslim woman narrates her ordeal of how she once wanted to become a nurse but was abducted from her home and manipulated by religious vanguards and turned into an ISIS terrorist and landed in Afghanistan jail.",
+    "released": "2023-05-05",
+    "director": "Sudipto Sen",
+    "directorSlug": "sudipto-sen",
+    "actors": [
+     "Adah Sharma",
+     "Yogita Bihani",
+     "Sonia Balani",
+     "Siddhi Idnani",
+     "Eleena Koul",
+     "Saniya Mirzaeva"
+    ],
+    "awards": "3 wins u0026 3 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 80861,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": "14%",
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:23.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Adah Sharma",
+     "character": "Shalini Unnikrishnan/Fatima",
+     "slug": "adah-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7zODp1yRHDyzcUXsi10ouHYY9IV.jpg"
+    },
+    {
+     "name": "Yogita Bihani",
+     "character": "Nimah Mathew",
+     "slug": "yogita-bihani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/krtXHR8gF5b4zxMsZbMm3PVk7Tn.jpg"
+    },
+    {
+     "name": "Sonia Balani",
+     "character": "Asifa",
+     "slug": "sonia-balani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qm6PYrj8VOA83v7zOEHOdZQypGk.jpg"
+    },
+    {
+     "name": "Siddhi Idnani",
+     "character": "Geethanjali Menon",
+     "slug": "siddhi-idnani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ywLPEBJcRxkNtIQ9FwjzB59kAsJ.jpg"
+    },
+    {
+     "name": "Eleena Koul",
+     "character": "Husna",
+     "slug": "eleena-koul",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7wCuWFhD0712DE7tTvZR1LXcUP.jpg"
+    },
+    {
+     "name": "Saniya Mirzaeva",
+     "character": "Farah",
+     "slug": "saniya-mirzaeva",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Benedict Garrett",
+     "character": "Peter Rodd",
+     "slug": "benedict-garrett",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vrOSmltwMROMeGowHVhURnGLvWE.jpg"
+    },
+    {
+     "name": "Bhavna Makhija",
+     "character": "Bhagyalaxmi",
+     "slug": "bhavna-makhija",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sudipto Sen",
+       "slug": "sudipto-sen"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sudipto Sen",
+       "slug": "sudipto-sen"
+      },
+      {
+       "name": "Suryapal Singh",
+       "slug": "suryapal-singh"
+      },
+      {
+       "name": "Vipul Amrutlal Shah",
+       "slug": "vipul-amrutlal-shah"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Bishakhjyoti",
+       "slug": "bishakhjyoti"
+      },
+      {
+       "name": "Viresh Sreevalsa",
+       "slug": "viresh-sreevalsa"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Prashantanu Mohapatra",
+       "slug": "prashantanu-mohapatra"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sanjay Sharma",
+       "slug": "sanjay-sharma"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vipul Amrutlal Shah",
+       "slug": "vipul-amrutlal-shah"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sunshine Pictures",
+     "slug": "sunshine-pictures",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-02-16",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-05-05",
+     "gross": 2391777,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 152,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-05-12",
+     "gross": 155610,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 10,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2547387,
+    "totalShows": 162,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 2391777
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2391777
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-05-05"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 370,
+    "title": "The Kerala Story",
+    "img": "https://image.tmdb.org/t/p/original/z0AImDJYqmMKmkUpCnKNBKyDK2y.jpg",
+    "released": "2023-05-05",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt24268454",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "138 min",
+    "genre": "Crime, Drama",
+    "plot": "A converted Muslim woman narrates her ordeal of how she once wanted to become a nurse but was abducted from her home and manipulated by religious vanguards and turned into an ISIS terrorist and landed in Afghanistan jail.",
+    "released": "2023-05-05",
+    "director": "Sudipto Sen",
+    "directorSlug": "sudipto-sen",
+    "actors": [
+     "Adah Sharma",
+     "Yogita Bihani",
+     "Sonia Balani",
+     "Siddhi Idnani",
+     "Eleena Koul",
+     "Saniya Mirzaeva"
+    ],
+    "awards": "3 wins u0026 3 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 80861,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": "14%",
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:23.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Adah Sharma",
+     "character": "Shalini Unnikrishnan/Fatima",
+     "slug": "adah-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7zODp1yRHDyzcUXsi10ouHYY9IV.jpg"
+    },
+    {
+     "name": "Yogita Bihani",
+     "character": "Nimah Mathew",
+     "slug": "yogita-bihani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/krtXHR8gF5b4zxMsZbMm3PVk7Tn.jpg"
+    },
+    {
+     "name": "Sonia Balani",
+     "character": "Asifa",
+     "slug": "sonia-balani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qm6PYrj8VOA83v7zOEHOdZQypGk.jpg"
+    },
+    {
+     "name": "Siddhi Idnani",
+     "character": "Geethanjali Menon",
+     "slug": "siddhi-idnani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ywLPEBJcRxkNtIQ9FwjzB59kAsJ.jpg"
+    },
+    {
+     "name": "Eleena Koul",
+     "character": "Husna",
+     "slug": "eleena-koul",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7wCuWFhD0712DE7tTvZR1LXcUP.jpg"
+    },
+    {
+     "name": "Saniya Mirzaeva",
+     "character": "Farah",
+     "slug": "saniya-mirzaeva",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Benedict Garrett",
+     "character": "Peter Rodd",
+     "slug": "benedict-garrett",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vrOSmltwMROMeGowHVhURnGLvWE.jpg"
+    },
+    {
+     "name": "Bhavna Makhija",
+     "character": "Bhagyalaxmi",
+     "slug": "bhavna-makhija",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sudipto Sen",
+       "slug": "sudipto-sen"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sudipto Sen",
+       "slug": "sudipto-sen"
+      },
+      {
+       "name": "Suryapal Singh",
+       "slug": "suryapal-singh"
+      },
+      {
+       "name": "Vipul Amrutlal Shah",
+       "slug": "vipul-amrutlal-shah"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Bishakhjyoti",
+       "slug": "bishakhjyoti"
+      },
+      {
+       "name": "Viresh Sreevalsa",
+       "slug": "viresh-sreevalsa"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Prashantanu Mohapatra",
+       "slug": "prashantanu-mohapatra"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sanjay Sharma",
+       "slug": "sanjay-sharma"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vipul Amrutlal Shah",
+       "slug": "vipul-amrutlal-shah"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sunshine Pictures",
+     "slug": "sunshine-pictures",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-02-16",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2547387,
+    "totalShows": 162,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 1597986,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1597986,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-05-05"
+   }
+  }
+ }
+}

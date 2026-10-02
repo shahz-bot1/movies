@@ -1,0 +1,41 @@
+{
+ "slug": "ansiba-hassan",
+ "name": "Ansiba Hassan",
+ "source_url": "https://fridaymatinee.in/people/ansiba-hassan",
+ "captured_at": "2026-10-01T20:44:10.093869+00:00",
+ "person": {
+  "name": "Ansiba Hassan",
+  "photo": "https://image.tmdb.org/t/p/w185/dh55iMR1ablDwrowT9UaKxEgNHZ.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 130,
+   "movie_slug": "cbi-5-the-brain",
+   "title": "CBI 5 The Brain",
+   "year": 2022,
+   "kerala_gross": "₹11.7 Cr"
+  },
+  {
+   "movie_id": 1067,
+   "movie_slug": "drishyam-2",
+   "title": "Drishyam 2",
+   "year": 2026,
+   "kerala_gross": "₹3.6L"
+  },
+  {
+   "movie_id": 1012,
+   "movie_slug": "drishyam-3",
+   "title": "Drishyam 3",
+   "year": 2026,
+   "kerala_gross": "₹82.0 Cr"
+  }
+ ]
+}

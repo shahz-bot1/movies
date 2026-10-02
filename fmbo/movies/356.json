@@ -1,0 +1,615 @@
+{
+ "id": 356,
+ "slug": "ayalvaashi",
+ "source_url": "https://fridaymatinee.in/boxoffice/ayalvaashi-356",
+ "captured_at": "2026-10-01T18:10:25.732724+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 356,
+    "title": "Ayalvaashi",
+    "img": "https://image.tmdb.org/t/p/original/5N2a5q0Qum83OPaJZyAXvCU08U4.jpg",
+    "released": "2023-04-21",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt23327344",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "107 min",
+    "genre": "Drama, Comedy",
+    "plot": "A petty misunderstanding changes Thajudheen and Benny's relationship from friends to foes. Thajudheen goes above and beyond to prove his innocence but ends up making things worse for his loved ones.",
+    "released": "2023-04-21",
+    "director": "Irshad Parari",
+    "directorSlug": "irshad-parari",
+    "actors": [
+     "Soubin Shahir",
+     "Binu Pappu",
+     "Nikhila Vimal",
+     "Lijomol Jose",
+     "Gokulan",
+     "Naslen"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 900,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:29:52.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Soubin Shahir",
+     "character": "Thaju",
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Binu Pappu",
+     "character": "Benny",
+     "slug": "binu-pappu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zDVvCDE3cdxrAqfZ9J0LgqXfJpY.jpg"
+    },
+    {
+     "name": "Nikhila Vimal",
+     "character": "Celine",
+     "slug": "nikhila-vimal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c1V8pvmaoh6PtyTcWoJvzQp41bG.jpg"
+    },
+    {
+     "name": "Lijomol Jose",
+     "character": "Kuttimalu",
+     "slug": "lijomol-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vXFBgF6NMON7L4RzZ6B35lOVYOu.jpg"
+    },
+    {
+     "name": "Gokulan",
+     "character": "Ajippan",
+     "slug": "gokulan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y36ZVFg40z8XKo7nhpZkC6N0S4N.jpg"
+    },
+    {
+     "name": "Naslen",
+     "character": "Pachu",
+     "slug": "naslen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8cAVtELGh2ZL5DhyijYBiAQF2Zt.jpg"
+    },
+    {
+     "name": "Parvathy Babu",
+     "character": "Kunji",
+     "slug": "parvathy-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lXBDZMUskKJyjDoxA18L1FFO4lT.jpg"
+    },
+    {
+     "name": "Kottayam Nazeer",
+     "character": "Amala Baby",
+     "slug": "kottayam-nazeer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vN0cHxgDIE5DKUeL2F0nmIhTIoZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Irshad Parari",
+       "slug": "irshad-parari"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Irshad Parari",
+       "slug": "irshad-parari"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sajith Purushan",
+       "slug": "sajith-purushan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Siddique Hyder",
+       "slug": "siddique-hyder"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ashiq Usman",
+       "slug": "ashiq-usman"
+      },
+      {
+       "name": "Muhsin Parari",
+       "slug": "muhsin-parari"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ashiq Usman Productions",
+     "slug": "ashiq-usman-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/viOe7LjhByej4jThVYcwp9SVNfM.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 7920196.080000001,
+    "totalShows": 2190,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 1204502.6400000001,
+     "date": "2023-04-21"
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 1789829.5100000002,
+     "date": "2023-04-22"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-04-21"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 356,
+    "title": "Ayalvaashi",
+    "img": "https://image.tmdb.org/t/p/original/5N2a5q0Qum83OPaJZyAXvCU08U4.jpg",
+    "released": "2023-04-21",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt23327344",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "107 min",
+    "genre": "Drama, Comedy",
+    "plot": "A petty misunderstanding changes Thajudheen and Benny's relationship from friends to foes. Thajudheen goes above and beyond to prove his innocence but ends up making things worse for his loved ones.",
+    "released": "2023-04-21",
+    "director": "Irshad Parari",
+    "directorSlug": "irshad-parari",
+    "actors": [
+     "Soubin Shahir",
+     "Binu Pappu",
+     "Nikhila Vimal",
+     "Lijomol Jose",
+     "Gokulan",
+     "Naslen"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 900,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:29:52.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Soubin Shahir",
+     "character": "Thaju",
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Binu Pappu",
+     "character": "Benny",
+     "slug": "binu-pappu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zDVvCDE3cdxrAqfZ9J0LgqXfJpY.jpg"
+    },
+    {
+     "name": "Nikhila Vimal",
+     "character": "Celine",
+     "slug": "nikhila-vimal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c1V8pvmaoh6PtyTcWoJvzQp41bG.jpg"
+    },
+    {
+     "name": "Lijomol Jose",
+     "character": "Kuttimalu",
+     "slug": "lijomol-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vXFBgF6NMON7L4RzZ6B35lOVYOu.jpg"
+    },
+    {
+     "name": "Gokulan",
+     "character": "Ajippan",
+     "slug": "gokulan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y36ZVFg40z8XKo7nhpZkC6N0S4N.jpg"
+    },
+    {
+     "name": "Naslen",
+     "character": "Pachu",
+     "slug": "naslen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8cAVtELGh2ZL5DhyijYBiAQF2Zt.jpg"
+    },
+    {
+     "name": "Parvathy Babu",
+     "character": "Kunji",
+     "slug": "parvathy-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lXBDZMUskKJyjDoxA18L1FFO4lT.jpg"
+    },
+    {
+     "name": "Kottayam Nazeer",
+     "character": "Amala Baby",
+     "slug": "kottayam-nazeer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vN0cHxgDIE5DKUeL2F0nmIhTIoZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Irshad Parari",
+       "slug": "irshad-parari"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Irshad Parari",
+       "slug": "irshad-parari"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sajith Purushan",
+       "slug": "sajith-purushan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Siddique Hyder",
+       "slug": "siddique-hyder"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ashiq Usman",
+       "slug": "ashiq-usman"
+      },
+      {
+       "name": "Muhsin Parari",
+       "slug": "muhsin-parari"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ashiq Usman Productions",
+     "slug": "ashiq-usman-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/viOe7LjhByej4jThVYcwp9SVNfM.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-04-21",
+     "gross": 7914636.079999998,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2187,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-04-28",
+     "gross": 5560,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 7920196.079999998,
+    "totalShows": 2190,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 7914636.079999998
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 7914636.079999998
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-04-21"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 356,
+    "title": "Ayalvaashi",
+    "img": "https://image.tmdb.org/t/p/original/5N2a5q0Qum83OPaJZyAXvCU08U4.jpg",
+    "released": "2023-04-21",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt23327344",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "107 min",
+    "genre": "Drama, Comedy",
+    "plot": "A petty misunderstanding changes Thajudheen and Benny's relationship from friends to foes. Thajudheen goes above and beyond to prove his innocence but ends up making things worse for his loved ones.",
+    "released": "2023-04-21",
+    "director": "Irshad Parari",
+    "directorSlug": "irshad-parari",
+    "actors": [
+     "Soubin Shahir",
+     "Binu Pappu",
+     "Nikhila Vimal",
+     "Lijomol Jose",
+     "Gokulan",
+     "Naslen"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 900,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:29:52.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Soubin Shahir",
+     "character": "Thaju",
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Binu Pappu",
+     "character": "Benny",
+     "slug": "binu-pappu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zDVvCDE3cdxrAqfZ9J0LgqXfJpY.jpg"
+    },
+    {
+     "name": "Nikhila Vimal",
+     "character": "Celine",
+     "slug": "nikhila-vimal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c1V8pvmaoh6PtyTcWoJvzQp41bG.jpg"
+    },
+    {
+     "name": "Lijomol Jose",
+     "character": "Kuttimalu",
+     "slug": "lijomol-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vXFBgF6NMON7L4RzZ6B35lOVYOu.jpg"
+    },
+    {
+     "name": "Gokulan",
+     "character": "Ajippan",
+     "slug": "gokulan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y36ZVFg40z8XKo7nhpZkC6N0S4N.jpg"
+    },
+    {
+     "name": "Naslen",
+     "character": "Pachu",
+     "slug": "naslen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8cAVtELGh2ZL5DhyijYBiAQF2Zt.jpg"
+    },
+    {
+     "name": "Parvathy Babu",
+     "character": "Kunji",
+     "slug": "parvathy-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lXBDZMUskKJyjDoxA18L1FFO4lT.jpg"
+    },
+    {
+     "name": "Kottayam Nazeer",
+     "character": "Amala Baby",
+     "slug": "kottayam-nazeer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vN0cHxgDIE5DKUeL2F0nmIhTIoZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Irshad Parari",
+       "slug": "irshad-parari"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Irshad Parari",
+       "slug": "irshad-parari"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sajith Purushan",
+       "slug": "sajith-purushan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Siddique Hyder",
+       "slug": "siddique-hyder"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ashiq Usman",
+       "slug": "ashiq-usman"
+      },
+      {
+       "name": "Muhsin Parari",
+       "slug": "muhsin-parari"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ashiq Usman Productions",
+     "slug": "ashiq-usman-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/viOe7LjhByej4jThVYcwp9SVNfM.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 7920196.08,
+    "totalShows": 2190,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1851827,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1851827,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-04-21"
+   }
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "madonna-sebastian",
+ "name": "Madonna Sebastian",
+ "source_url": "https://fridaymatinee.in/people/madonna-sebastian",
+ "captured_at": "2026-10-02T00:11:24.280522+00:00",
+ "person": {
+  "name": "Madonna Sebastian",
+  "photo": "https://image.tmdb.org/t/p/w185/zQuhFAXtJNOkVbW3ZgsdGCi8IUv.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 402,
+   "movie_slug": "padmini",
+   "title": "Padmini",
+   "year": 2023,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 430,
+   "movie_slug": "leo",
+   "title": "Leo",
+   "year": 2023,
+   "kerala_gross": "₹47.4 Cr"
+  },
+  {
+   "movie_id": 1170,
+   "movie_slug": "heartin",
+   "title": "Heartin",
+   "year": 2026,
+   "kerala_gross": "₹1.4L"
+  }
+ ]
+}

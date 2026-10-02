@@ -1,0 +1,48 @@
+{
+ "slug": "sharat-saxena",
+ "name": "Sharat Saxena",
+ "source_url": "https://fridaymatinee.in/people/sharat-saxena",
+ "captured_at": "2026-10-02T10:27:48.032404+00:00",
+ "person": {
+  "name": "Sharat Saxena",
+  "photo": "https://image.tmdb.org/t/p/w185/ArW6nQ23bjVfbcFmNVl4W9zpd7X.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 44,
+   "movie_slug": "dabangg-3",
+   "title": "Dabangg 3",
+   "year": 2019,
+   "kerala_gross": "₹28.7L"
+  },
+  {
+   "movie_id": 782,
+   "movie_slug": "son-of-sardaar-2",
+   "title": "Son of Sardaar 2",
+   "year": 2025,
+   "kerala_gross": "₹6.4L"
+  },
+  {
+   "movie_id": 964,
+   "movie_slug": "mana-shankara-vara-prasad-garu",
+   "title": "Mana Shankara Vara Prasad Garu",
+   "year": 2026,
+   "kerala_gross": "₹9.9L"
+  },
+  {
+   "movie_id": 1124,
+   "movie_slug": "the-great-grand-superhero",
+   "title": "The Great Grand Superhero",
+   "year": 2026,
+   "kerala_gross": "₹40K"
+  }
+ ]
+}

@@ -1,0 +1,615 @@
+{
+ "id": 279,
+ "slug": "ayisha",
+ "source_url": "https://fridaymatinee.in/boxoffice/ayisha-279",
+ "captured_at": "2026-10-01T18:08:42.952674+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 279,
+    "title": "Ayisha",
+    "img": "https://image.tmdb.org/t/p/original/3LQ8HwPAl3JpaqKSnVFgtbTxzhj.jpg",
+    "released": "2023-01-20",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15399616",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "153 min",
+    "genre": "Drama, Family",
+    "plot": "Ayisha, migrates to the gulf as a domestic worker to an elite Arab family. slowly learns all the palace etiquettes. Interesting courses of events lead to the bloom of a beautiful bond between mama and ayisha",
+    "released": "2023-01-20",
+    "director": "Aamir Pallikkal",
+    "directorSlug": "aamir-pallikkal",
+    "actors": [
+     "Manju Warrier",
+     "Radhika",
+     "Krishna Shankar",
+     "Shamsudheen Mankarathodi",
+     "Fathimath Latheefa"
+    ],
+    "awards": "3 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "5.9",
+      "votes": 2424,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:43.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Manju Warrier",
+     "character": "Ayisha",
+     "slug": "manju-warrier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7u1WgUHnwIW9mtL6aTdo1cRXmCM.jpg"
+    },
+    {
+     "name": "Radhika",
+     "character": "Nisha",
+     "slug": "radhika",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c3T3xzARKZ6PgtOEeFpCsyhqx2E.jpg"
+    },
+    {
+     "name": "Krishna Shankar",
+     "character": "Aabith",
+     "slug": "krishna-shankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xtInY66SXdfAv7ndtZNKDFAqZZt.jpg"
+    },
+    {
+     "name": "Shamsudheen Mankarathodi",
+     "character": "Hamsa",
+     "slug": "shamsudheen-mankarathodi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tfBAiSXaYq9D3gn1SBRAV8hlksR.jpg"
+    },
+    {
+     "name": "Fathimath Latheefa",
+     "character": "Sara",
+     "slug": "fathimath-latheefa",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Aamir Pallikkal",
+       "slug": "aamir-pallikkal"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ashif Kakkodi",
+       "slug": "ashif-kakkodi"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "M. Jayachandran",
+       "slug": "m-jayachandran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vishnu Sarma",
+       "slug": "vishnu-sarma"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Appu N. Bhattathiri",
+       "slug": "appu-n-bhattathiri"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Zakariya Mohammed",
+       "slug": "zakariya-mohammed"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Imagin Cinemas",
+     "slug": "imagin-cinemas",
+     "logo": null
+    },
+    {
+     "name": "Cross Borders Films",
+     "slug": "cross-borders-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 6071397.2,
+    "totalShows": 1277,
+    "totalDays": 9,
+    "openingDay": {
+     "day": 1,
+     "gross": 1197120.6,
+     "date": "2023-01-20"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 1948866,
+     "date": "2023-01-22"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-20"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 279,
+    "title": "Ayisha",
+    "img": "https://image.tmdb.org/t/p/original/3LQ8HwPAl3JpaqKSnVFgtbTxzhj.jpg",
+    "released": "2023-01-20",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15399616",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "153 min",
+    "genre": "Drama, Family",
+    "plot": "Ayisha, migrates to the gulf as a domestic worker to an elite Arab family. slowly learns all the palace etiquettes. Interesting courses of events lead to the bloom of a beautiful bond between mama and ayisha",
+    "released": "2023-01-20",
+    "director": "Aamir Pallikkal",
+    "directorSlug": "aamir-pallikkal",
+    "actors": [
+     "Manju Warrier",
+     "Radhika",
+     "Krishna Shankar",
+     "Shamsudheen Mankarathodi",
+     "Fathimath Latheefa"
+    ],
+    "awards": "3 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "5.9",
+      "votes": 2424,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:43.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Manju Warrier",
+     "character": "Ayisha",
+     "slug": "manju-warrier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7u1WgUHnwIW9mtL6aTdo1cRXmCM.jpg"
+    },
+    {
+     "name": "Radhika",
+     "character": "Nisha",
+     "slug": "radhika",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c3T3xzARKZ6PgtOEeFpCsyhqx2E.jpg"
+    },
+    {
+     "name": "Krishna Shankar",
+     "character": "Aabith",
+     "slug": "krishna-shankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xtInY66SXdfAv7ndtZNKDFAqZZt.jpg"
+    },
+    {
+     "name": "Shamsudheen Mankarathodi",
+     "character": "Hamsa",
+     "slug": "shamsudheen-mankarathodi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tfBAiSXaYq9D3gn1SBRAV8hlksR.jpg"
+    },
+    {
+     "name": "Fathimath Latheefa",
+     "character": "Sara",
+     "slug": "fathimath-latheefa",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Aamir Pallikkal",
+       "slug": "aamir-pallikkal"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ashif Kakkodi",
+       "slug": "ashif-kakkodi"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "M. Jayachandran",
+       "slug": "m-jayachandran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vishnu Sarma",
+       "slug": "vishnu-sarma"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Appu N. Bhattathiri",
+       "slug": "appu-n-bhattathiri"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Zakariya Mohammed",
+       "slug": "zakariya-mohammed"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Imagin Cinemas",
+     "slug": "imagin-cinemas",
+     "logo": null
+    },
+    {
+     "name": "Cross Borders Films",
+     "slug": "cross-borders-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-01-20",
+     "gross": 6071397.200000001,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1271,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-01-27",
+     "gross": 0,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 6,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 6071397.200000001,
+    "totalShows": 1277,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 6071397.200000001
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 6071397.200000001
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-20"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 279,
+    "title": "Ayisha",
+    "img": "https://image.tmdb.org/t/p/original/3LQ8HwPAl3JpaqKSnVFgtbTxzhj.jpg",
+    "released": "2023-01-20",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15399616",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "153 min",
+    "genre": "Drama, Family",
+    "plot": "Ayisha, migrates to the gulf as a domestic worker to an elite Arab family. slowly learns all the palace etiquettes. Interesting courses of events lead to the bloom of a beautiful bond between mama and ayisha",
+    "released": "2023-01-20",
+    "director": "Aamir Pallikkal",
+    "directorSlug": "aamir-pallikkal",
+    "actors": [
+     "Manju Warrier",
+     "Radhika",
+     "Krishna Shankar",
+     "Shamsudheen Mankarathodi",
+     "Fathimath Latheefa"
+    ],
+    "awards": "3 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "5.9",
+      "votes": 2424,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:43.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Manju Warrier",
+     "character": "Ayisha",
+     "slug": "manju-warrier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7u1WgUHnwIW9mtL6aTdo1cRXmCM.jpg"
+    },
+    {
+     "name": "Radhika",
+     "character": "Nisha",
+     "slug": "radhika",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c3T3xzARKZ6PgtOEeFpCsyhqx2E.jpg"
+    },
+    {
+     "name": "Krishna Shankar",
+     "character": "Aabith",
+     "slug": "krishna-shankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xtInY66SXdfAv7ndtZNKDFAqZZt.jpg"
+    },
+    {
+     "name": "Shamsudheen Mankarathodi",
+     "character": "Hamsa",
+     "slug": "shamsudheen-mankarathodi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tfBAiSXaYq9D3gn1SBRAV8hlksR.jpg"
+    },
+    {
+     "name": "Fathimath Latheefa",
+     "character": "Sara",
+     "slug": "fathimath-latheefa",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Aamir Pallikkal",
+       "slug": "aamir-pallikkal"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ashif Kakkodi",
+       "slug": "ashif-kakkodi"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "M. Jayachandran",
+       "slug": "m-jayachandran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vishnu Sarma",
+       "slug": "vishnu-sarma"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Appu N. Bhattathiri",
+       "slug": "appu-n-bhattathiri"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Zakariya Mohammed",
+       "slug": "zakariya-mohammed"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Imagin Cinemas",
+     "slug": "imagin-cinemas",
+     "logo": null
+    },
+    {
+     "name": "Cross Borders Films",
+     "slug": "cross-borders-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 6071397.2,
+    "totalShows": 1277,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1872752,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1872752,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-20"
+   }
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "thomas-thiruvalla",
+ "name": "Thomas Thiruvalla",
+ "source_url": "https://fridaymatinee.in/people/thomas-thiruvalla",
+ "captured_at": "2026-10-02T11:21:00.223528+00:00",
+ "person": {
+  "name": "Thomas Thiruvalla",
+  "photo": null,
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 90,
+   "movie_slug": "ellam-sheriyakum",
+   "title": "Ellam Sheriyakum",
+   "year": 2021,
+   "kerala_gross": "₹98.6L"
+  },
+  {
+   "movie_id": 99,
+   "movie_slug": "meow",
+   "title": "Meow",
+   "year": 2021,
+   "kerala_gross": "₹74.0L"
+  },
+  {
+   "movie_id": 210,
+   "movie_slug": "mei-hoom-moosa",
+   "title": "Mei Hoom Moosa",
+   "year": 2022,
+   "kerala_gross": "₹3.3 Cr"
+  },
+  {
+   "movie_id": 335,
+   "movie_slug": "pookkaalam",
+   "title": "Pookkaalam",
+   "year": 2023,
+   "kerala_gross": "₹1.1 Cr"
+  }
+ ]
+}

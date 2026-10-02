@@ -1,0 +1,48 @@
+{
+ "slug": "bose-venkat",
+ "name": "Bose Venkat",
+ "source_url": "https://fridaymatinee.in/people/bose-venkat",
+ "captured_at": "2026-10-01T21:22:05.544994+00:00",
+ "person": {
+  "name": "Bose Venkat",
+  "photo": "https://image.tmdb.org/t/p/w185/dXmGP71AQ6lUGA3kd1xD7GexwgG.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 157,
+   "movie_slug": "yaanai",
+   "title": "Yaanai",
+   "year": 2022,
+   "kerala_gross": "₹16.6L"
+  },
+  {
+   "movie_id": 592,
+   "movie_slug": "kanguva",
+   "title": "Kanguva",
+   "year": 2024,
+   "kerala_gross": "₹4.7 Cr"
+  },
+  {
+   "movie_id": 618,
+   "movie_slug": "viduthalai-part-2",
+   "title": "Viduthalai Part - 2",
+   "year": 2024,
+   "kerala_gross": "₹66.7L"
+  },
+  {
+   "movie_id": 750,
+   "movie_slug": "dna",
+   "title": "DNA",
+   "year": 2025,
+   "kerala_gross": "₹8.8L"
+  }
+ ]
+}

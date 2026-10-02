@@ -1,0 +1,67 @@
+{
+ "slug": "suriya",
+ "name": "Suriya",
+ "source_url": "https://fridaymatinee.in/people/suriya",
+ "captured_at": "2026-10-02T11:09:53.856136+00:00",
+ "person": {
+  "name": "Suriya",
+  "photo": "https://image.tmdb.org/t/p/w185/tgHFBhOfaV0Wck48y8BFhAlVvQx.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 114,
+   "movie_slug": "etharkkum-thunindhavan",
+   "title": "Etharkkum Thunindhavan",
+   "year": 2022,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 592,
+   "movie_slug": "kanguva",
+   "title": "Kanguva",
+   "year": 2024,
+   "kerala_gross": "₹4.7 Cr"
+  },
+  {
+   "movie_id": 678,
+   "movie_slug": "retro",
+   "title": "Retro",
+   "year": 2025,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 1106,
+   "movie_slug": "karuppu",
+   "title": "Karuppu",
+   "year": 2026,
+   "kerala_gross": "₹11.0 Cr"
+  },
+  {
+   "movie_id": 1225,
+   "movie_slug": "vishwanath-and-sons",
+   "title": "Vishwanath and Sons",
+   "year": 2026,
+   "kerala_gross": "₹7.2 Cr"
+  },
+  {
+   "movie_id": 1306,
+   "movie_slug": "scene",
+   "title": "Scene",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

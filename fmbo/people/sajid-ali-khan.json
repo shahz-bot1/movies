@@ -1,0 +1,41 @@
+{
+ "slug": "sajid-ali-khan",
+ "name": "Sajid Ali Khan",
+ "source_url": "https://fridaymatinee.in/people/sajid-ali-khan",
+ "captured_at": "2026-10-02T10:00:39.713802+00:00",
+ "person": {
+  "name": "Sajid Ali Khan",
+  "photo": null,
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 44,
+   "movie_slug": "dabangg-3",
+   "title": "Dabangg 3",
+   "year": 2019,
+   "kerala_gross": "₹28.7L"
+  },
+  {
+   "movie_id": 353,
+   "movie_slug": "kisi-ka-bhai-kisi-ki-jaan",
+   "title": "Kisi Ka Bhai Kisi Ki Jaan",
+   "year": 2023,
+   "kerala_gross": "₹30.6L"
+  },
+  {
+   "movie_id": 1181,
+   "movie_slug": "welcome-to-the-jungle",
+   "title": "Welcome to the Jungle",
+   "year": 2026,
+   "kerala_gross": "₹12.9L"
+  }
+ ]
+}

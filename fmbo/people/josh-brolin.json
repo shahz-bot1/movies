@@ -1,0 +1,55 @@
+{
+ "slug": "josh-brolin",
+ "name": "Josh Brolin",
+ "source_url": "https://fridaymatinee.in/people/josh-brolin",
+ "captured_at": "2026-10-01T23:27:52.328434+00:00",
+ "person": {
+  "name": "Josh Brolin",
+  "photo": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 498,
+   "movie_slug": "dune-part-two",
+   "title": "Dune: Part Two",
+   "year": 2024,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 741,
+   "movie_slug": "weapons",
+   "title": "Weapons",
+   "year": 2025,
+   "kerala_gross": "₹27.0L"
+  },
+  {
+   "movie_id": 879,
+   "movie_slug": "the-running-man",
+   "title": "The Running Man",
+   "year": 2025,
+   "kerala_gross": "₹7.5L"
+  },
+  {
+   "movie_id": 1288,
+   "movie_slug": "avengers-endgame-encore",
+   "title": "Avengers Endgame: Encore",
+   "year": 2026,
+   "kerala_gross": "₹2.3 Cr"
+  },
+  {
+   "movie_id": 778,
+   "movie_slug": "dune-part-three",
+   "title": "Dune: Part Three",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

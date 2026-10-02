@@ -1,0 +1,564 @@
+{
+ "id": 266,
+ "slug": "aanandam-paramanandam",
+ "source_url": "https://fridaymatinee.in/boxoffice/aanandam-paramanandam-266",
+ "captured_at": "2026-10-01T18:08:12.399295+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 266,
+    "title": "Aanandam Paramanandam",
+    "img": "https://image.tmdb.org/t/p/original/ihsMgo6uBo9EIyXhRBC7CegyVoK.jpg",
+    "released": "2022-12-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21946198",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "131 min",
+    "genre": "Comedy, Drama, Family",
+    "plot": "Anupama's alcoholic father dies by suicide with a masterplan. However, she must prosper in life for his soul to attain salvation",
+    "released": "2022-12-23",
+    "director": "Shafi",
+    "directorSlug": "shafi",
+    "actors": [
+     "Sharafudheen",
+     "Indrans",
+     "Aju Varghese",
+     "Anagha Narayanan",
+     "Baiju Santhosh",
+     "Vanitha Krishnachandran"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.4",
+      "votes": 786,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:47.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sharafudheen",
+     "character": "Gireesh",
+     "slug": "sharafudheen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+    },
+    {
+     "name": "Indrans",
+     "character": "Divakara Kurup",
+     "slug": "indrans",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vs5Acy2hJ4dWoM3xRGdnFKdVXzw.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Gopi",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Anagha Narayanan",
+     "character": "Anupama",
+     "slug": "anagha-narayanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/drJKQc62Ezhq5BljdZM1ljoJ9AE.jpg"
+    },
+    {
+     "name": "Baiju Santhosh",
+     "character": "Sudhan",
+     "slug": "baiju-santhosh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mAGYsgiYZ5A3B24jx5PZdibN87I.jpg"
+    },
+    {
+     "name": "Vanitha Krishnachandran",
+     "character": "Vimala",
+     "slug": "vanitha-krishnachandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lPOVGdvjHyOEdSYShEBLvFPeBvm.jpg"
+    },
+    {
+     "name": "Surjith",
+     "character": null,
+     "slug": "surjith",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7OeJm2FBkjvUukvCj5N5WXDw0FN.jpg"
+    },
+    {
+     "name": "Sadiq",
+     "character": null,
+     "slug": "sadiq",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dLfxvjZ014CumD83Oz6yXWbtvNA.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Shafi",
+       "slug": "shafi"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "M. Sindhuraj",
+       "slug": "m-sindhuraj"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Shaan Rahman",
+       "slug": "shaan-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Manoj Pillai",
+       "slug": "manoj-pillai"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "V. Sajan",
+       "slug": "v-sajan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Saptha Tharang Creations",
+       "slug": "saptha-tharang-creations"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4860336.6,
+    "totalShows": 1249,
+    "totalDays": 11,
+    "openingDay": {
+     "day": 1,
+     "gross": 481642.5999999999,
+     "date": "2022-12-23"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 1082520.2,
+     "date": "2022-12-25"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-12-23"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 266,
+    "title": "Aanandam Paramanandam",
+    "img": "https://image.tmdb.org/t/p/original/ihsMgo6uBo9EIyXhRBC7CegyVoK.jpg",
+    "released": "2022-12-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21946198",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "131 min",
+    "genre": "Comedy, Drama, Family",
+    "plot": "Anupama's alcoholic father dies by suicide with a masterplan. However, she must prosper in life for his soul to attain salvation",
+    "released": "2022-12-23",
+    "director": "Shafi",
+    "directorSlug": "shafi",
+    "actors": [
+     "Sharafudheen",
+     "Indrans",
+     "Aju Varghese",
+     "Anagha Narayanan",
+     "Baiju Santhosh",
+     "Vanitha Krishnachandran"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.4",
+      "votes": 786,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:47.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sharafudheen",
+     "character": "Gireesh",
+     "slug": "sharafudheen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+    },
+    {
+     "name": "Indrans",
+     "character": "Divakara Kurup",
+     "slug": "indrans",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vs5Acy2hJ4dWoM3xRGdnFKdVXzw.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Gopi",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Anagha Narayanan",
+     "character": "Anupama",
+     "slug": "anagha-narayanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/drJKQc62Ezhq5BljdZM1ljoJ9AE.jpg"
+    },
+    {
+     "name": "Baiju Santhosh",
+     "character": "Sudhan",
+     "slug": "baiju-santhosh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mAGYsgiYZ5A3B24jx5PZdibN87I.jpg"
+    },
+    {
+     "name": "Vanitha Krishnachandran",
+     "character": "Vimala",
+     "slug": "vanitha-krishnachandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lPOVGdvjHyOEdSYShEBLvFPeBvm.jpg"
+    },
+    {
+     "name": "Surjith",
+     "character": null,
+     "slug": "surjith",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7OeJm2FBkjvUukvCj5N5WXDw0FN.jpg"
+    },
+    {
+     "name": "Sadiq",
+     "character": null,
+     "slug": "sadiq",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dLfxvjZ014CumD83Oz6yXWbtvNA.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Shafi",
+       "slug": "shafi"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "M. Sindhuraj",
+       "slug": "m-sindhuraj"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Shaan Rahman",
+       "slug": "shaan-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Manoj Pillai",
+       "slug": "manoj-pillai"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "V. Sajan",
+       "slug": "v-sajan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Saptha Tharang Creations",
+       "slug": "saptha-tharang-creations"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2022-12-23",
+     "gross": 4816917.6000000015,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1226,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-12-30",
+     "gross": 43419,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 23,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4860336.6000000015,
+    "totalShows": 1249,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 4816917.6000000015
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4816917.6000000015
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-12-23"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 266,
+    "title": "Aanandam Paramanandam",
+    "img": "https://image.tmdb.org/t/p/original/ihsMgo6uBo9EIyXhRBC7CegyVoK.jpg",
+    "released": "2022-12-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21946198",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "131 min",
+    "genre": "Comedy, Drama, Family",
+    "plot": "Anupama's alcoholic father dies by suicide with a masterplan. However, she must prosper in life for his soul to attain salvation",
+    "released": "2022-12-23",
+    "director": "Shafi",
+    "directorSlug": "shafi",
+    "actors": [
+     "Sharafudheen",
+     "Indrans",
+     "Aju Varghese",
+     "Anagha Narayanan",
+     "Baiju Santhosh",
+     "Vanitha Krishnachandran"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.4",
+      "votes": 786,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:47.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sharafudheen",
+     "character": "Gireesh",
+     "slug": "sharafudheen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+    },
+    {
+     "name": "Indrans",
+     "character": "Divakara Kurup",
+     "slug": "indrans",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vs5Acy2hJ4dWoM3xRGdnFKdVXzw.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Gopi",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Anagha Narayanan",
+     "character": "Anupama",
+     "slug": "anagha-narayanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/drJKQc62Ezhq5BljdZM1ljoJ9AE.jpg"
+    },
+    {
+     "name": "Baiju Santhosh",
+     "character": "Sudhan",
+     "slug": "baiju-santhosh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mAGYsgiYZ5A3B24jx5PZdibN87I.jpg"
+    },
+    {
+     "name": "Vanitha Krishnachandran",
+     "character": "Vimala",
+     "slug": "vanitha-krishnachandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lPOVGdvjHyOEdSYShEBLvFPeBvm.jpg"
+    },
+    {
+     "name": "Surjith",
+     "character": null,
+     "slug": "surjith",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7OeJm2FBkjvUukvCj5N5WXDw0FN.jpg"
+    },
+    {
+     "name": "Sadiq",
+     "character": null,
+     "slug": "sadiq",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dLfxvjZ014CumD83Oz6yXWbtvNA.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Shafi",
+       "slug": "shafi"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "M. Sindhuraj",
+       "slug": "m-sindhuraj"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Shaan Rahman",
+       "slug": "shaan-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Manoj Pillai",
+       "slug": "manoj-pillai"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "V. Sajan",
+       "slug": "v-sajan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Saptha Tharang Creations",
+       "slug": "saptha-tharang-creations"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4860336.6,
+    "totalShows": 1249,
+    "totalDays": 13,
+    "openingDay": {
+     "day": 1,
+     "gross": 1243747,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1243747,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-12-23"
+   }
+  }
+ }
+}

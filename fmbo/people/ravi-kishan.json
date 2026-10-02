@@ -1,0 +1,55 @@
+{
+ "slug": "ravi-kishan",
+ "name": "Ravi Kishan",
+ "source_url": "https://fridaymatinee.in/people/ravi-kishan",
+ "captured_at": "2026-10-02T08:44:23.666094+00:00",
+ "person": {
+  "name": "Ravi Kishan",
+  "photo": "https://image.tmdb.org/t/p/w185/rkUTRk0tuA98RepP9jhgcCbhHqy.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 31,
+   "movie_slug": "sangathamizhan",
+   "title": "Sangathamizhan",
+   "year": 2019,
+   "kerala_gross": "₹4.6L"
+  },
+  {
+   "movie_id": 782,
+   "movie_slug": "son-of-sardaar-2",
+   "title": "Son of Sardaar 2",
+   "year": 2025,
+   "kerala_gross": "₹6.4L"
+  },
+  {
+   "movie_id": 1127,
+   "movie_slug": "peddi",
+   "title": "Peddi",
+   "year": 2026,
+   "kerala_gross": "₹47.5L"
+  },
+  {
+   "movie_id": 1190,
+   "movie_slug": "dhamaal-4",
+   "title": "Dhamaal 4",
+   "year": 2026,
+   "kerala_gross": "₹13.9L"
+  },
+  {
+   "movie_id": 1261,
+   "movie_slug": "mirzapur-the-movie",
+   "title": "Mirzapur: The Movie",
+   "year": 2026,
+   "kerala_gross": "₹28.4L"
+  }
+ ]
+}

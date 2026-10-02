@@ -1,0 +1,46 @@
+{
+ "slug": "vipul-amrutlal-shah",
+ "name": "Vipul Amrutlal Shah",
+ "source_url": "https://fridaymatinee.in/people/vipul-amrutlal-shah",
+ "captured_at": "2026-10-02T11:50:03.027108+00:00",
+ "person": {
+  "name": "Vipul Amrutlal Shah",
+  "photo": "https://image.tmdb.org/t/p/w185/gH75umEehoYbiohMwz5xzBtgrq6.jpg",
+  "role": "Producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 370,
+   "movie_slug": "the-kerala-story",
+   "title": "The Kerala Story",
+   "year": 2023,
+   "kerala_gross": "₹25.5L"
+  },
+  {
+   "movie_id": 1022,
+   "movie_slug": "the-kerala-story-2-goes-beyond",
+   "title": "The Kerala Story 2 Goes Beyond",
+   "year": 2026,
+   "kerala_gross": "₹17.8L"
+  },
+  {
+   "movie_id": 1146,
+   "movie_slug": "governor",
+   "title": "Governor",
+   "year": 2026,
+   "kerala_gross": "₹68K"
+  }
+ ]
+}

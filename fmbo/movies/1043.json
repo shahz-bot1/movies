@@ -1,0 +1,914 @@
+{
+ "id": 1043,
+ "slug": "they-will-kill-you",
+ "source_url": "https://fridaymatinee.in/boxoffice/they-will-kill-you-1043",
+ "captured_at": "2026-10-01T18:45:22.106819+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1043,
+    "title": "They Will Kill You",
+    "img": "https://image.tmdb.org/t/p/original/2yIakRpFUi0UTWX6fPydxj7WXtR.jpg",
+    "released": "2026-03-27",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31728330",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "94 min",
+    "genre": "Action, Comedy, Horror",
+    "plot": "A woman answers a help wanted ad to be a housekeeper in a mysterious high-rise in New York City, not realizing she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+    "released": "2026-03-25",
+    "director": "Kirill Sokolov",
+    "directorSlug": "kirill-sokolov",
+    "actors": [
+     "Zazie Beetz",
+     "Myha'la",
+     "Paterson Joseph",
+     "Tom Felton",
+     "Heather Graham",
+     "Patricia Arquette"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 52583,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 1133,
+      "updatedAt": "2026-09-24T13:10:24.000Z"
+     },
+     "rt": "65%",
+     "metascore": 50,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Zazie Beetz",
+     "character": "Asia Reaves",
+     "slug": "zazie-beetz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+    },
+    {
+     "name": "Myha'la",
+     "character": "Maria Reaves",
+     "slug": "myha-la",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hRc3igngt5dkpM08i0a3z7gkYWa.jpg"
+    },
+    {
+     "name": "Paterson Joseph",
+     "character": null,
+     "slug": "paterson-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7CIVAl4HiuWrmp4r8Jk09sqxTBy.jpg"
+    },
+    {
+     "name": "Tom Felton",
+     "character": "Kevin",
+     "slug": "tom-felton",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/etmtUBzJ1i1XJTLS6MkotJFE1se.jpg"
+    },
+    {
+     "name": "Heather Graham",
+     "character": "Sharon",
+     "slug": "heather-graham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/avYdNkeg1oTvmrNJbFDcTlBCkKs.jpg"
+    },
+    {
+     "name": "Patricia Arquette",
+     "character": "Lilith",
+     "slug": "patricia-arquette",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jeThSouMatiuRiLkjDvSBLHpmq0.jpg"
+    },
+    {
+     "name": "Armando Rivera",
+     "character": null,
+     "slug": "armando-rivera",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/g2E6O5P86QIkON7GTImwralC8R2.jpg"
+    },
+    {
+     "name": "David Viviers",
+     "character": null,
+     "slug": "david-viviers",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/imKMFCnYUiJOUc3uOZ1lPv9SFpF.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Kirill Sokolov",
+       "slug": "kirill-sokolov"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Kirill Sokolov",
+       "slug": "kirill-sokolov"
+      },
+      {
+       "name": "Alex Litvak",
+       "slug": "alex-litvak"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Carlos Rafael Rivera",
+       "slug": "carlos-rafael-rivera"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Isaac Bauman",
+       "slug": "isaac-bauman"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Luke Doolan",
+       "slug": "luke-doolan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Andy Muschietti",
+       "slug": "andy-muschietti"
+      },
+      {
+       "name": "Dan Kagan",
+       "slug": "dan-kagan"
+      },
+      {
+       "name": "Barbara Muschietti",
+       "slug": "barbara-muschietti"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Nocturna",
+     "slug": "nocturna",
+     "logo": null
+    },
+    {
+     "name": "New Line Cinema",
+     "slug": "new-line-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/2ycs64eqV5rqKYHyQK0GVoKGvfX.png"
+    },
+    {
+     "name": "Film Afrika Entertainment",
+     "slug": "film-afrika-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/rDVNxqSMZVu67JuJ8isSxbUggFO.png"
+    },
+    {
+     "name": "Skydance Media",
+     "slug": "skydance-media",
+     "logo": "https://image.tmdb.org/t/p/w185/gXfFl9pRPaoaq14jybEn1pHeldr.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    },
+    {
+     "name": "Film Afrika",
+     "slug": "film-afrika",
+     "logo": "https://image.tmdb.org/t/p/w185/qkcN6yZEyBw3cgO5DJu55LGEsf7.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-03-27": [
+     {
+      "id": 1047,
+      "title": "Derby",
+      "img": "https://image.tmdb.org/t/p/original/zaTTuhOJMTzlSRx7kvzVZevc2wQ.jpg"
+     }
+    ],
+    "2026-04-02": [
+     {
+      "id": 1048,
+      "title": "Vaazha II",
+      "img": "https://image.tmdb.org/t/p/original/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-03-27",
+     "gross": 108120,
+     "sold": 495,
+     "unsold": 1737,
+     "shows": 18,
+     "occ": 22.18,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 108120,
+     "lastUpdatedAt": "2026-03-27 23:28:00"
+    },
+    {
+     "label": "2026-03-28",
+     "gross": 55040,
+     "sold": 216,
+     "unsold": 1787,
+     "shows": 14,
+     "occ": 10.78,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 163160,
+     "lastUpdatedAt": "2026-03-28 23:28:00"
+    },
+    {
+     "label": "2026-03-29",
+     "gross": 74945,
+     "sold": 301,
+     "unsold": 1524,
+     "shows": 13,
+     "occ": 16.49,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 238105,
+     "lastUpdatedAt": "2026-03-29 23:28:00"
+    },
+    {
+     "label": "2026-03-30",
+     "gross": 37910,
+     "sold": 152,
+     "unsold": 725,
+     "shows": 6,
+     "occ": 17.33,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 276015,
+     "lastUpdatedAt": "2026-03-30 21:14:00"
+    },
+    {
+     "label": "2026-03-31",
+     "gross": 11540,
+     "sold": 84,
+     "unsold": 922,
+     "shows": 7,
+     "occ": 8.35,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 287555,
+     "lastUpdatedAt": "2026-03-31 21:14:00"
+    },
+    {
+     "label": "2026-04-01",
+     "gross": 19150,
+     "sold": 81,
+     "unsold": 925,
+     "shows": 7,
+     "occ": 8.05,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 306705,
+     "lastUpdatedAt": "2026-04-01 19:42:00"
+    },
+    {
+     "label": "2026-04-02",
+     "gross": 3260,
+     "sold": 15,
+     "unsold": 91,
+     "shows": 1,
+     "occ": 14.15,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 309965,
+     "lastUpdatedAt": "2026-04-02 18:23:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 309965,
+    "totalShows": 66,
+    "totalSeats": 9055,
+    "totalSold": 1344,
+    "avgOcc": "14.8",
+    "totalDays": 7,
+    "totalHousefull": 6,
+    "totalAlmost": 6,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 108120,
+     "date": "2026-03-27"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 108120,
+     "date": "2026-03-27"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "7:3260:309965"
+  },
+  "week": {
+   "movie": {
+    "id": 1043,
+    "title": "They Will Kill You",
+    "img": "https://image.tmdb.org/t/p/original/2yIakRpFUi0UTWX6fPydxj7WXtR.jpg",
+    "released": "2026-03-27",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31728330",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "94 min",
+    "genre": "Action, Comedy, Horror",
+    "plot": "A woman answers a help wanted ad to be a housekeeper in a mysterious high-rise in New York City, not realizing she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+    "released": "2026-03-25",
+    "director": "Kirill Sokolov",
+    "directorSlug": "kirill-sokolov",
+    "actors": [
+     "Zazie Beetz",
+     "Myha'la",
+     "Paterson Joseph",
+     "Tom Felton",
+     "Heather Graham",
+     "Patricia Arquette"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 52583,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 1133,
+      "updatedAt": "2026-09-24T13:10:24.000Z"
+     },
+     "rt": "65%",
+     "metascore": 50,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Zazie Beetz",
+     "character": "Asia Reaves",
+     "slug": "zazie-beetz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+    },
+    {
+     "name": "Myha'la",
+     "character": "Maria Reaves",
+     "slug": "myha-la",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hRc3igngt5dkpM08i0a3z7gkYWa.jpg"
+    },
+    {
+     "name": "Paterson Joseph",
+     "character": null,
+     "slug": "paterson-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7CIVAl4HiuWrmp4r8Jk09sqxTBy.jpg"
+    },
+    {
+     "name": "Tom Felton",
+     "character": "Kevin",
+     "slug": "tom-felton",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/etmtUBzJ1i1XJTLS6MkotJFE1se.jpg"
+    },
+    {
+     "name": "Heather Graham",
+     "character": "Sharon",
+     "slug": "heather-graham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/avYdNkeg1oTvmrNJbFDcTlBCkKs.jpg"
+    },
+    {
+     "name": "Patricia Arquette",
+     "character": "Lilith",
+     "slug": "patricia-arquette",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jeThSouMatiuRiLkjDvSBLHpmq0.jpg"
+    },
+    {
+     "name": "Armando Rivera",
+     "character": null,
+     "slug": "armando-rivera",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/g2E6O5P86QIkON7GTImwralC8R2.jpg"
+    },
+    {
+     "name": "David Viviers",
+     "character": null,
+     "slug": "david-viviers",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/imKMFCnYUiJOUc3uOZ1lPv9SFpF.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Kirill Sokolov",
+       "slug": "kirill-sokolov"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Kirill Sokolov",
+       "slug": "kirill-sokolov"
+      },
+      {
+       "name": "Alex Litvak",
+       "slug": "alex-litvak"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Carlos Rafael Rivera",
+       "slug": "carlos-rafael-rivera"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Isaac Bauman",
+       "slug": "isaac-bauman"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Luke Doolan",
+       "slug": "luke-doolan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Andy Muschietti",
+       "slug": "andy-muschietti"
+      },
+      {
+       "name": "Dan Kagan",
+       "slug": "dan-kagan"
+      },
+      {
+       "name": "Barbara Muschietti",
+       "slug": "barbara-muschietti"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Nocturna",
+     "slug": "nocturna",
+     "logo": null
+    },
+    {
+     "name": "New Line Cinema",
+     "slug": "new-line-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/2ycs64eqV5rqKYHyQK0GVoKGvfX.png"
+    },
+    {
+     "name": "Film Afrika Entertainment",
+     "slug": "film-afrika-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/rDVNxqSMZVu67JuJ8isSxbUggFO.png"
+    },
+    {
+     "name": "Skydance Media",
+     "slug": "skydance-media",
+     "logo": "https://image.tmdb.org/t/p/w185/gXfFl9pRPaoaq14jybEn1pHeldr.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    },
+    {
+     "name": "Film Afrika",
+     "slug": "film-afrika",
+     "logo": "https://image.tmdb.org/t/p/w185/qkcN6yZEyBw3cgO5DJu55LGEsf7.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-03-27": [
+     {
+      "id": 1047,
+      "title": "Derby",
+      "img": "https://image.tmdb.org/t/p/original/zaTTuhOJMTzlSRx7kvzVZevc2wQ.jpg"
+     }
+    ],
+    "2026-04-02": [
+     {
+      "id": 1048,
+      "title": "Vaazha II",
+      "img": "https://image.tmdb.org/t/p/original/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-03-27",
+     "gross": 309965,
+     "sold": 1344,
+     "unsold": 7711,
+     "shows": 66,
+     "occ": 14.84,
+     "hf": "6",
+     "almost": "6",
+     "ff": "0",
+     "cumul": 309965,
+     "lastUpdatedAt": "2026-04-02 18:23:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 309965,
+    "totalShows": 66,
+    "totalSeats": 9055,
+    "totalSold": 1344,
+    "avgOcc": "14.8",
+    "totalDays": 1,
+    "totalHousefull": 6,
+    "totalAlmost": 6,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 309965
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 309965
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:309965:309965"
+  },
+  "district": {
+   "movie": {
+    "id": 1043,
+    "title": "They Will Kill You",
+    "img": "https://image.tmdb.org/t/p/original/2yIakRpFUi0UTWX6fPydxj7WXtR.jpg",
+    "released": "2026-03-27",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31728330",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "94 min",
+    "genre": "Action, Comedy, Horror",
+    "plot": "A woman answers a help wanted ad to be a housekeeper in a mysterious high-rise in New York City, not realizing she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+    "released": "2026-03-25",
+    "director": "Kirill Sokolov",
+    "directorSlug": "kirill-sokolov",
+    "actors": [
+     "Zazie Beetz",
+     "Myha'la",
+     "Paterson Joseph",
+     "Tom Felton",
+     "Heather Graham",
+     "Patricia Arquette"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 52583,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 1133,
+      "updatedAt": "2026-09-24T13:10:24.000Z"
+     },
+     "rt": "65%",
+     "metascore": 50,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Zazie Beetz",
+     "character": "Asia Reaves",
+     "slug": "zazie-beetz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+    },
+    {
+     "name": "Myha'la",
+     "character": "Maria Reaves",
+     "slug": "myha-la",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hRc3igngt5dkpM08i0a3z7gkYWa.jpg"
+    },
+    {
+     "name": "Paterson Joseph",
+     "character": null,
+     "slug": "paterson-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7CIVAl4HiuWrmp4r8Jk09sqxTBy.jpg"
+    },
+    {
+     "name": "Tom Felton",
+     "character": "Kevin",
+     "slug": "tom-felton",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/etmtUBzJ1i1XJTLS6MkotJFE1se.jpg"
+    },
+    {
+     "name": "Heather Graham",
+     "character": "Sharon",
+     "slug": "heather-graham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/avYdNkeg1oTvmrNJbFDcTlBCkKs.jpg"
+    },
+    {
+     "name": "Patricia Arquette",
+     "character": "Lilith",
+     "slug": "patricia-arquette",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jeThSouMatiuRiLkjDvSBLHpmq0.jpg"
+    },
+    {
+     "name": "Armando Rivera",
+     "character": null,
+     "slug": "armando-rivera",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/g2E6O5P86QIkON7GTImwralC8R2.jpg"
+    },
+    {
+     "name": "David Viviers",
+     "character": null,
+     "slug": "david-viviers",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/imKMFCnYUiJOUc3uOZ1lPv9SFpF.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Kirill Sokolov",
+       "slug": "kirill-sokolov"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Kirill Sokolov",
+       "slug": "kirill-sokolov"
+      },
+      {
+       "name": "Alex Litvak",
+       "slug": "alex-litvak"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Carlos Rafael Rivera",
+       "slug": "carlos-rafael-rivera"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Isaac Bauman",
+       "slug": "isaac-bauman"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Luke Doolan",
+       "slug": "luke-doolan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Andy Muschietti",
+       "slug": "andy-muschietti"
+      },
+      {
+       "name": "Dan Kagan",
+       "slug": "dan-kagan"
+      },
+      {
+       "name": "Barbara Muschietti",
+       "slug": "barbara-muschietti"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Nocturna",
+     "slug": "nocturna",
+     "logo": null
+    },
+    {
+     "name": "New Line Cinema",
+     "slug": "new-line-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/2ycs64eqV5rqKYHyQK0GVoKGvfX.png"
+    },
+    {
+     "name": "Film Afrika Entertainment",
+     "slug": "film-afrika-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/rDVNxqSMZVu67JuJ8isSxbUggFO.png"
+    },
+    {
+     "name": "Skydance Media",
+     "slug": "skydance-media",
+     "logo": "https://image.tmdb.org/t/p/w185/gXfFl9pRPaoaq14jybEn1pHeldr.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    },
+    {
+     "name": "Film Afrika",
+     "slug": "film-afrika",
+     "logo": "https://image.tmdb.org/t/p/w185/qkcN6yZEyBw3cgO5DJu55LGEsf7.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-03-27": [
+     {
+      "id": 1047,
+      "title": "Derby",
+      "img": "https://image.tmdb.org/t/p/original/zaTTuhOJMTzlSRx7kvzVZevc2wQ.jpg"
+     }
+    ],
+    "2026-04-02": [
+     {
+      "id": 1048,
+      "title": "Vaazha II",
+      "img": "https://image.tmdb.org/t/p/original/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 121740,
+     "sold": 507,
+     "unsold": 2214,
+     "shows": 19,
+     "occ": 18.63,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 121740,
+     "lastUpdatedAt": "2026-04-02 18:23:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 80516,
+     "sold": 318,
+     "unsold": 877,
+     "shows": 14,
+     "occ": 26.61,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 202256,
+     "lastUpdatedAt": "2026-04-01 11:03:00"
+    },
+    {
+     "label": "Kannur",
+     "gross": 47970,
+     "sold": 249,
+     "unsold": 236,
+     "shows": 4,
+     "occ": 51.34,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 250226,
+     "lastUpdatedAt": "2026-03-29 21:28:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 32434,
+     "sold": 145,
+     "unsold": 1237,
+     "shows": 11,
+     "occ": 10.49,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 282660,
+     "lastUpdatedAt": "2026-04-01 19:42:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 23630,
+     "sold": 90,
+     "unsold": 2107,
+     "shows": 13,
+     "occ": 4.1,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 306290,
+     "lastUpdatedAt": "2026-04-01 15:58:00"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 3675,
+     "sold": 35,
+     "unsold": 1040,
+     "shows": 5,
+     "occ": 3.26,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 309965,
+     "lastUpdatedAt": "2026-03-29 14:14:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 309965,
+    "totalShows": 66,
+    "totalSeats": 9055,
+    "totalSold": 1344,
+    "avgOcc": "14.8",
+    "totalDays": 6,
+    "totalHousefull": 6,
+    "totalAlmost": 6,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 121740,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 121740,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "6:3675:309965"
+  }
+ }
+}

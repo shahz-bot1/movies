@@ -1,0 +1,83 @@
+{
+ "slug": "manoj",
+ "name": "Manoj",
+ "source_url": "https://fridaymatinee.in/people/manoj",
+ "captured_at": "2026-10-02T00:19:09.659352+00:00",
+ "person": {
+  "name": "Manoj",
+  "photo": "https://image.tmdb.org/t/p/w185/w1V4pjAF8eDX1GGTmyPTawqXIrl.jpg",
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 9
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 82,
+   "movie_slug": "chathur-mukham",
+   "title": "Chathur Mukham",
+   "year": 2021,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 163,
+   "movie_slug": "mahaveeryar",
+   "title": "Mahaveeryar",
+   "year": 2022,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 250,
+   "movie_slug": "the-teacher",
+   "title": "The Teacher",
+   "year": 2022,
+   "kerala_gross": "₹19.4L"
+  },
+  {
+   "movie_id": 273,
+   "movie_slug": "ennalum-ente-aliya",
+   "title": "Ennalum Ente Aliya",
+   "year": 2023,
+   "kerala_gross": "₹59.8L"
+  },
+  {
+   "movie_id": 272,
+   "movie_slug": "christopher",
+   "title": "Christopher",
+   "year": 2023,
+   "kerala_gross": "₹4.1 Cr"
+  },
+  {
+   "movie_id": 19,
+   "movie_slug": "idi-mazha-kaattu",
+   "title": "Idi Mazha Kaattu",
+   "year": 2025,
+   "kerala_gross": "₹11.0L"
+  },
+  {
+   "movie_id": 766,
+   "movie_slug": "meesha",
+   "title": "Meesha",
+   "year": 2025,
+   "kerala_gross": "₹21.6L"
+  },
+  {
+   "movie_id": 1005,
+   "movie_slug": "spa",
+   "title": "Spa",
+   "year": 2026,
+   "kerala_gross": "₹38.6L"
+  },
+  {
+   "movie_id": 1044,
+   "movie_slug": "prathichaya",
+   "title": "Prathichaya",
+   "year": 2026,
+   "kerala_gross": "₹4.4 Cr"
+  }
+ ]
+}

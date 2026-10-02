@@ -1,0 +1,48 @@
+{
+ "slug": "adhri-joe",
+ "name": "Adhri Joe",
+ "source_url": "https://fridaymatinee.in/people/adhri-joe",
+ "captured_at": "2026-10-01T20:11:23.267312+00:00",
+ "person": {
+  "name": "Adhri Joe",
+  "photo": "https://image.tmdb.org/t/p/w185/ig7WT04NABdtjvgy3tChK6T0ceS.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 179,
+   "movie_slug": "thallumaala",
+   "title": "Thallumaala",
+   "year": 2022,
+   "kerala_gross": "₹18.9 Cr"
+  },
+  {
+   "movie_id": 299,
+   "movie_slug": "ntikkakkakkoru-premondarnn",
+   "title": "Ntikkakkakkoru Premondarnn",
+   "year": 2023,
+   "kerala_gross": "₹44.3L"
+  },
+  {
+   "movie_id": 357,
+   "movie_slug": "sulaikha-manzil",
+   "title": "Sulaikha Manzil",
+   "year": 2023,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 604,
+   "movie_slug": "hello-mummy",
+   "title": "Hello Mummy",
+   "year": 2024,
+   "kerala_gross": "₹6.6 Cr"
+  }
+ ]
+}

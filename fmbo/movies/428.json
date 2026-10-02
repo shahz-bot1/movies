@@ -1,0 +1,602 @@
+{
+ "id": 428,
+ "slug": "iraivan",
+ "source_url": "https://fridaymatinee.in/boxoffice/iraivan-428",
+ "captured_at": "2026-10-01T18:12:02.077891+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 428,
+    "title": "Iraivan",
+    "img": "https://image.tmdb.org/t/p/original/AmDvtRt5jceFI2dIB03rCcDy4c1.jpg",
+    "released": "2023-09-28",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26316907",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "152 min",
+    "genre": "Action, Thriller",
+    "plot": "Arjun, a tough cop along with his friend Andrew embark on a mission to track down a truly gruesome psychopathic killer called Bhramma a.k.a The Smiley Man. They eventually manage to apprehend Bhramma at the cost of losing Andrew makes Arjun resign from the police force. However, tragedy hits home when Bhramma escapes from prison and resumes his killing spree.",
+    "released": "2023-09-28",
+    "director": "I. Mueenuddin Ahmed",
+    "directorSlug": "i-mueenuddin-ahmed",
+    "actors": [
+     "Ravi Mohan",
+     "Nayanthara",
+     "Rahul Bose",
+     "Narain",
+     "Ashish Vidhyarthi",
+     "Vinoth Kishan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.7",
+      "votes": 2444,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:10.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ravi Mohan",
+     "character": "Arjun",
+     "slug": "ravi-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wKZNz2kOYPYbSrVDIdHZHtQqHs1.jpg"
+    },
+    {
+     "name": "Nayanthara",
+     "character": "Priya",
+     "slug": "nayanthara",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5KubBeb2DkNXoU4lzzBdWzqzzlM.jpg"
+    },
+    {
+     "name": "Rahul Bose",
+     "character": "Brahman",
+     "slug": "rahul-bose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6T0xhsganOB8SI48HCGd99XKj9l.jpg"
+    },
+    {
+     "name": "Narain",
+     "character": "Andrew",
+     "slug": "narain",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d0ApUGeFuGXpBkODIc6eLbBkb7B.jpg"
+    },
+    {
+     "name": "Ashish Vidhyarthi",
+     "character": "Vedantham",
+     "slug": "ashish-vidhyarthi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iBUUpfHZIfpC5afHrHwcyGTHKQF.jpg"
+    },
+    {
+     "name": "Vinoth Kishan",
+     "character": "Babu",
+     "slug": "vinoth-kishan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eT6QbjpqwqSgKiyOlaWwXzUdbOO.jpg"
+    },
+    {
+     "name": "Charle",
+     "character": null,
+     "slug": "charle",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fprDHhsu4TJsoUKycYZ6GZ8nqZ6.jpg"
+    },
+    {
+     "name": "Bagavathi Perumal",
+     "character": null,
+     "slug": "bagavathi-perumal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ixK5bTpLOIXc8oJVE1IVMzcJrB2.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "I. Mueenuddin Ahmed",
+       "slug": "i-mueenuddin-ahmed"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "I. Mueenuddin Ahmed",
+       "slug": "i-mueenuddin-ahmed"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Yuvan Shankar Raja",
+       "slug": "yuvan-shankar-raja"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Hari K. Vedantam",
+       "slug": "hari-k-vedantam"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "J. V. Manikanda Balaji",
+       "slug": "j-v-manikanda-balaji"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "G. Jayaram",
+       "slug": "g-jayaram"
+      },
+      {
+       "name": "Sudhan Sundaram",
+       "slug": "sudhan-sundaram"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Passion Studios",
+     "slug": "passion-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/1awi9lZqmKwezdQvKwysg3QmlVg.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2798279.57,
+    "totalShows": 1650,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 329857.87,
+     "date": "2023-09-28"
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 716594.7000000001,
+     "date": "2023-09-29"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-09-28"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 428,
+    "title": "Iraivan",
+    "img": "https://image.tmdb.org/t/p/original/AmDvtRt5jceFI2dIB03rCcDy4c1.jpg",
+    "released": "2023-09-28",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26316907",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "152 min",
+    "genre": "Action, Thriller",
+    "plot": "Arjun, a tough cop along with his friend Andrew embark on a mission to track down a truly gruesome psychopathic killer called Bhramma a.k.a The Smiley Man. They eventually manage to apprehend Bhramma at the cost of losing Andrew makes Arjun resign from the police force. However, tragedy hits home when Bhramma escapes from prison and resumes his killing spree.",
+    "released": "2023-09-28",
+    "director": "I. Mueenuddin Ahmed",
+    "directorSlug": "i-mueenuddin-ahmed",
+    "actors": [
+     "Ravi Mohan",
+     "Nayanthara",
+     "Rahul Bose",
+     "Narain",
+     "Ashish Vidhyarthi",
+     "Vinoth Kishan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.7",
+      "votes": 2444,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:10.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ravi Mohan",
+     "character": "Arjun",
+     "slug": "ravi-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wKZNz2kOYPYbSrVDIdHZHtQqHs1.jpg"
+    },
+    {
+     "name": "Nayanthara",
+     "character": "Priya",
+     "slug": "nayanthara",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5KubBeb2DkNXoU4lzzBdWzqzzlM.jpg"
+    },
+    {
+     "name": "Rahul Bose",
+     "character": "Brahman",
+     "slug": "rahul-bose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6T0xhsganOB8SI48HCGd99XKj9l.jpg"
+    },
+    {
+     "name": "Narain",
+     "character": "Andrew",
+     "slug": "narain",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d0ApUGeFuGXpBkODIc6eLbBkb7B.jpg"
+    },
+    {
+     "name": "Ashish Vidhyarthi",
+     "character": "Vedantham",
+     "slug": "ashish-vidhyarthi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iBUUpfHZIfpC5afHrHwcyGTHKQF.jpg"
+    },
+    {
+     "name": "Vinoth Kishan",
+     "character": "Babu",
+     "slug": "vinoth-kishan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eT6QbjpqwqSgKiyOlaWwXzUdbOO.jpg"
+    },
+    {
+     "name": "Charle",
+     "character": null,
+     "slug": "charle",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fprDHhsu4TJsoUKycYZ6GZ8nqZ6.jpg"
+    },
+    {
+     "name": "Bagavathi Perumal",
+     "character": null,
+     "slug": "bagavathi-perumal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ixK5bTpLOIXc8oJVE1IVMzcJrB2.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "I. Mueenuddin Ahmed",
+       "slug": "i-mueenuddin-ahmed"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "I. Mueenuddin Ahmed",
+       "slug": "i-mueenuddin-ahmed"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Yuvan Shankar Raja",
+       "slug": "yuvan-shankar-raja"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Hari K. Vedantam",
+       "slug": "hari-k-vedantam"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "J. V. Manikanda Balaji",
+       "slug": "j-v-manikanda-balaji"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "G. Jayaram",
+       "slug": "g-jayaram"
+      },
+      {
+       "name": "Sudhan Sundaram",
+       "slug": "sudhan-sundaram"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Passion Studios",
+     "slug": "passion-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/1awi9lZqmKwezdQvKwysg3QmlVg.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-09-28",
+     "gross": 2798279.5700000003,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1650,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2798279.5700000003,
+    "totalShows": 1650,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 2798279.5700000003
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2798279.5700000003
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-09-28"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 428,
+    "title": "Iraivan",
+    "img": "https://image.tmdb.org/t/p/original/AmDvtRt5jceFI2dIB03rCcDy4c1.jpg",
+    "released": "2023-09-28",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26316907",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "152 min",
+    "genre": "Action, Thriller",
+    "plot": "Arjun, a tough cop along with his friend Andrew embark on a mission to track down a truly gruesome psychopathic killer called Bhramma a.k.a The Smiley Man. They eventually manage to apprehend Bhramma at the cost of losing Andrew makes Arjun resign from the police force. However, tragedy hits home when Bhramma escapes from prison and resumes his killing spree.",
+    "released": "2023-09-28",
+    "director": "I. Mueenuddin Ahmed",
+    "directorSlug": "i-mueenuddin-ahmed",
+    "actors": [
+     "Ravi Mohan",
+     "Nayanthara",
+     "Rahul Bose",
+     "Narain",
+     "Ashish Vidhyarthi",
+     "Vinoth Kishan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.7",
+      "votes": 2444,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:10.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ravi Mohan",
+     "character": "Arjun",
+     "slug": "ravi-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wKZNz2kOYPYbSrVDIdHZHtQqHs1.jpg"
+    },
+    {
+     "name": "Nayanthara",
+     "character": "Priya",
+     "slug": "nayanthara",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5KubBeb2DkNXoU4lzzBdWzqzzlM.jpg"
+    },
+    {
+     "name": "Rahul Bose",
+     "character": "Brahman",
+     "slug": "rahul-bose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6T0xhsganOB8SI48HCGd99XKj9l.jpg"
+    },
+    {
+     "name": "Narain",
+     "character": "Andrew",
+     "slug": "narain",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d0ApUGeFuGXpBkODIc6eLbBkb7B.jpg"
+    },
+    {
+     "name": "Ashish Vidhyarthi",
+     "character": "Vedantham",
+     "slug": "ashish-vidhyarthi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iBUUpfHZIfpC5afHrHwcyGTHKQF.jpg"
+    },
+    {
+     "name": "Vinoth Kishan",
+     "character": "Babu",
+     "slug": "vinoth-kishan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eT6QbjpqwqSgKiyOlaWwXzUdbOO.jpg"
+    },
+    {
+     "name": "Charle",
+     "character": null,
+     "slug": "charle",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fprDHhsu4TJsoUKycYZ6GZ8nqZ6.jpg"
+    },
+    {
+     "name": "Bagavathi Perumal",
+     "character": null,
+     "slug": "bagavathi-perumal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ixK5bTpLOIXc8oJVE1IVMzcJrB2.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "I. Mueenuddin Ahmed",
+       "slug": "i-mueenuddin-ahmed"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "I. Mueenuddin Ahmed",
+       "slug": "i-mueenuddin-ahmed"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Yuvan Shankar Raja",
+       "slug": "yuvan-shankar-raja"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Hari K. Vedantam",
+       "slug": "hari-k-vedantam"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "J. V. Manikanda Balaji",
+       "slug": "j-v-manikanda-balaji"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "G. Jayaram",
+       "slug": "g-jayaram"
+      },
+      {
+       "name": "Sudhan Sundaram",
+       "slug": "sudhan-sundaram"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Passion Studios",
+     "slug": "passion-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/1awi9lZqmKwezdQvKwysg3QmlVg.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2798279.5700000003,
+    "totalShows": 1650,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 571862,
+     "date": "Thrissur"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 571862,
+     "date": "Thrissur"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-09-28"
+   }
+  }
+ }
+}

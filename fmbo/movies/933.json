@@ -1,0 +1,1218 @@
+{
+ "id": 933,
+ "slug": "pongala",
+ "source_url": "https://fridaymatinee.in/boxoffice/pongala-933",
+ "captured_at": "2026-10-01T18:26:47.814687+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 933,
+    "title": "Pongala",
+    "img": "https://image.tmdb.org/t/p/original/gsXz7wmbqQ8ywNjJhlpOkxMtOZ4.jpg",
+    "released": "2025-12-05",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33014579",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "158 min",
+    "genre": "Action, Drama",
+    "plot": "After being released from prison for a murder he did not commit, a man quickly learns that crime and injustice are still rife in his hometown.",
+    "released": "2025-12-05",
+    "director": "A B Binil",
+    "directorSlug": "a-b-binil",
+    "actors": [
+     "Sreenath Bhasi",
+     "Baburaj",
+     "Bibin George",
+     "Harish Uthaman",
+     "Alencier Ley Lopez",
+     "Roshan Basheer"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.5",
+      "votes": 687,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T13:11:24.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sreenath Bhasi",
+     "character": null,
+     "slug": "sreenath-bhasi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oPsXUtaE0ZslhaGRdtww0ZpMRe7.jpg"
+    },
+    {
+     "name": "Baburaj",
+     "character": null,
+     "slug": "baburaj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nuJ7GhTfuBrlGBWeMPIYr59O8kP.jpg"
+    },
+    {
+     "name": "Bibin George",
+     "character": null,
+     "slug": "bibin-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3vp5ajPUkIUN95ntqcCSfvwoHcb.jpg"
+    },
+    {
+     "name": "Harish Uthaman",
+     "character": null,
+     "slug": "harish-uthaman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eR3Ua6CxacxPnfUijasCEKhNqAt.jpg"
+    },
+    {
+     "name": "Alencier Ley Lopez",
+     "character": "Joseph",
+     "slug": "alencier-ley-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWammRTzSJiyK9TROHWkoM9AqzS.jpg"
+    },
+    {
+     "name": "Roshan Basheer",
+     "character": null,
+     "slug": "roshan-basheer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n5gJB61TUJLR98NcAyZdUkA1bAV.jpg"
+    },
+    {
+     "name": "Sampath Ram",
+     "character": null,
+     "slug": "sampath-ram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kuObekNREXMfOh9QidmOgGhkQbv.jpg"
+    },
+    {
+     "name": "Kichu Tellus",
+     "character": "Biju",
+     "slug": "kichu-tellus",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ilo7dTpCUZ31qmCsaqtGUrQ0VaH.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "A B Binil",
+       "slug": "a-b-binil"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "A B Binil",
+       "slug": "a-b-binil"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ranjin Raj",
+       "slug": "ranjin-raj"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jackson",
+       "slug": "jackson"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kapil Krishna",
+       "slug": "kapil-krishna"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dona Thomas",
+       "slug": "dona-thomas"
+      },
+      {
+       "name": "Deepu Bose",
+       "slug": "deepu-bose"
+      },
+      {
+       "name": "Anil Pillai",
+       "slug": "anil-pillai"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "GLOBAL PICTURES ENTERTAINMENT, ERNAKULAM",
+     "slug": "global-pictures-entertainment-ernakulam",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-06-12",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2053,
+      "name": "Lionsgate Play Apple TV Channel",
+      "logoPath": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2074,
+      "name": "Lionsgate Play Amazon Channel",
+      "logoPath": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2708,
+      "name": " AP International South Cinema Amazon Channel",
+      "logoPath": "/qe5IxHppN6JWNGf8xqSo2dgAbR4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-12-05": [
+     {
+      "id": 653,
+      "title": "Kalamkaval",
+      "img": "https://image.tmdb.org/t/p/original/cTZt3Kmbvp0zZ5za1rTVZvn8AlW.jpg"
+     },
+     {
+      "id": 914,
+      "title": "Five Nights at Freddys 2",
+      "img": "https://image.tmdb.org/t/p/original/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg"
+     },
+     {
+      "id": 930,
+      "title": "Dhurandhar",
+      "img": "https://image.tmdb.org/t/p/original/q7gD37kEOmzOeGXwhbYvfpwl9kU.jpg"
+     }
+    ],
+    "2025-12-18": [
+     {
+      "id": 883,
+      "title": "Bha. Bha. Ba.",
+      "img": "https://image.tmdb.org/t/p/original/fMDt3o7CVXDc84WIbOskya8XkSN.jpg"
+     }
+    ],
+    "2025-12-12": [
+     {
+      "id": 936,
+      "title": "Akhanda 2 Thaandavam",
+      "img": "https://image.tmdb.org/t/p/original/jo9efbQSGDZNQ6xMocyD1prFjdF.jpg"
+     },
+     {
+      "id": 937,
+      "title": "Kis Kisko Pyaar Karoon 2",
+      "img": "https://image.tmdb.org/t/p/original/sqCgEMxOKvb949xbxn35Wcfn50S.jpg"
+     },
+     {
+      "id": 939,
+      "title": "Sholay The Final Cut",
+      "img": "https://image.tmdb.org/t/p/original/9wcES7d0Zz3r6579zLXYBHiJdzk.jpg"
+     }
+    ],
+    "2025-12-13": [
+     {
+      "id": 938,
+      "title": "Mowgli 2025",
+      "img": "https://image.tmdb.org/t/p/original/fwyXKqVffOOoES5HhJutqivYEVi.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-12-05",
+     "gross": 884089.4,
+     "sold": 5636,
+     "unsold": 63982,
+     "shows": 328,
+     "occ": 8.1,
+     "hf": "1",
+     "almost": "3",
+     "ff": "3",
+     "cumul": 884089.4,
+     "lastUpdatedAt": "2025-12-05 23:47:00"
+    },
+    {
+     "label": "2025-12-06",
+     "gross": 851806.5999999999,
+     "sold": 5527,
+     "unsold": 60885,
+     "shows": 309,
+     "occ": 8.32,
+     "hf": "4",
+     "almost": "5",
+     "ff": "2",
+     "cumul": 1735896,
+     "lastUpdatedAt": "2025-12-06 23:47:00"
+    },
+    {
+     "label": "2025-12-07",
+     "gross": 1075013.5999999999,
+     "sold": 6885,
+     "unsold": 53170,
+     "shows": 277,
+     "occ": 11.46,
+     "hf": "7",
+     "almost": "11",
+     "ff": "6",
+     "cumul": 2810909.5999999996,
+     "lastUpdatedAt": "2025-12-07 23:47:00"
+    },
+    {
+     "label": "2025-12-08",
+     "gross": 642475,
+     "sold": 4297,
+     "unsold": 49215,
+     "shows": 243,
+     "occ": 8.03,
+     "hf": "7",
+     "almost": "8",
+     "ff": "0",
+     "cumul": 3453384.5999999996,
+     "lastUpdatedAt": "2025-12-08 23:47:00"
+    },
+    {
+     "label": "2025-12-09",
+     "gross": 616351,
+     "sold": 4231,
+     "unsold": 41968,
+     "shows": 208,
+     "occ": 9.16,
+     "hf": "6",
+     "almost": "7",
+     "ff": "1",
+     "cumul": 4069735.5999999996,
+     "lastUpdatedAt": "2025-12-09 23:47:00"
+    },
+    {
+     "label": "2025-12-10",
+     "gross": 587306,
+     "sold": 4111,
+     "unsold": 36422,
+     "shows": 179,
+     "occ": 10.14,
+     "hf": "5",
+     "almost": "5",
+     "ff": "0",
+     "cumul": 4657041.6,
+     "lastUpdatedAt": "2025-12-10 23:14:00"
+    },
+    {
+     "label": "2025-12-11",
+     "gross": 289299,
+     "sold": 1957,
+     "unsold": 31118,
+     "shows": 154,
+     "occ": 5.92,
+     "hf": "0",
+     "almost": "1",
+     "ff": "1",
+     "cumul": 4946340.6,
+     "lastUpdatedAt": "2025-12-11 23:14:00"
+    },
+    {
+     "label": "2025-12-12",
+     "gross": 51760,
+     "sold": 350,
+     "unsold": 6102,
+     "shows": 22,
+     "occ": 5.42,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4998100.6,
+     "lastUpdatedAt": "2025-12-12 21:34:00"
+    },
+    {
+     "label": "2025-12-13",
+     "gross": 59097,
+     "sold": 396,
+     "unsold": 6026,
+     "shows": 21,
+     "occ": 6.17,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5057197.6,
+     "lastUpdatedAt": "2025-12-13 21:34:00"
+    },
+    {
+     "label": "2025-12-14",
+     "gross": 65685,
+     "sold": 436,
+     "unsold": 6254,
+     "shows": 22,
+     "occ": 6.52,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5122882.6,
+     "lastUpdatedAt": "2025-12-14 21:34:00"
+    },
+    {
+     "label": "2025-12-15",
+     "gross": 66962,
+     "sold": 474,
+     "unsold": 6216,
+     "shows": 22,
+     "occ": 7.09,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 5189844.6,
+     "lastUpdatedAt": "2025-12-15 21:34:00"
+    },
+    {
+     "label": "2025-12-16",
+     "gross": 13661,
+     "sold": 88,
+     "unsold": 4223,
+     "shows": 16,
+     "occ": 2.04,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5203505.6,
+     "lastUpdatedAt": "2025-12-16 21:13:00"
+    },
+    {
+     "label": "2025-12-17",
+     "gross": 12839,
+     "sold": 90,
+     "unsold": 2383,
+     "shows": 13,
+     "occ": 3.64,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5216344.6,
+     "lastUpdatedAt": "2025-12-17 21:13:00"
+    },
+    {
+     "label": "2025-12-18",
+     "gross": 130,
+     "sold": 1,
+     "unsold": 354,
+     "shows": 2,
+     "occ": 0.28,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5216474.6,
+     "lastUpdatedAt": "2025-12-18 14:23:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 5216474.6,
+    "totalShows": 1816,
+    "totalSeats": 402797,
+    "totalSold": 34479,
+    "avgOcc": "8.6",
+    "totalDays": 14,
+    "totalHousefull": 32,
+    "totalAlmost": 42,
+    "totalFastFilling": 13,
+    "peakDay": {
+     "day": 3,
+     "gross": 1075013.5999999999,
+     "date": "2025-12-07"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 884089.4,
+     "date": "2025-12-05"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "14:130:5216474.6"
+  },
+  "week": {
+   "movie": {
+    "id": 933,
+    "title": "Pongala",
+    "img": "https://image.tmdb.org/t/p/original/gsXz7wmbqQ8ywNjJhlpOkxMtOZ4.jpg",
+    "released": "2025-12-05",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33014579",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "158 min",
+    "genre": "Action, Drama",
+    "plot": "After being released from prison for a murder he did not commit, a man quickly learns that crime and injustice are still rife in his hometown.",
+    "released": "2025-12-05",
+    "director": "A B Binil",
+    "directorSlug": "a-b-binil",
+    "actors": [
+     "Sreenath Bhasi",
+     "Baburaj",
+     "Bibin George",
+     "Harish Uthaman",
+     "Alencier Ley Lopez",
+     "Roshan Basheer"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.5",
+      "votes": 687,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T13:11:24.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sreenath Bhasi",
+     "character": null,
+     "slug": "sreenath-bhasi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oPsXUtaE0ZslhaGRdtww0ZpMRe7.jpg"
+    },
+    {
+     "name": "Baburaj",
+     "character": null,
+     "slug": "baburaj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nuJ7GhTfuBrlGBWeMPIYr59O8kP.jpg"
+    },
+    {
+     "name": "Bibin George",
+     "character": null,
+     "slug": "bibin-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3vp5ajPUkIUN95ntqcCSfvwoHcb.jpg"
+    },
+    {
+     "name": "Harish Uthaman",
+     "character": null,
+     "slug": "harish-uthaman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eR3Ua6CxacxPnfUijasCEKhNqAt.jpg"
+    },
+    {
+     "name": "Alencier Ley Lopez",
+     "character": "Joseph",
+     "slug": "alencier-ley-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWammRTzSJiyK9TROHWkoM9AqzS.jpg"
+    },
+    {
+     "name": "Roshan Basheer",
+     "character": null,
+     "slug": "roshan-basheer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n5gJB61TUJLR98NcAyZdUkA1bAV.jpg"
+    },
+    {
+     "name": "Sampath Ram",
+     "character": null,
+     "slug": "sampath-ram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kuObekNREXMfOh9QidmOgGhkQbv.jpg"
+    },
+    {
+     "name": "Kichu Tellus",
+     "character": "Biju",
+     "slug": "kichu-tellus",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ilo7dTpCUZ31qmCsaqtGUrQ0VaH.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "A B Binil",
+       "slug": "a-b-binil"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "A B Binil",
+       "slug": "a-b-binil"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ranjin Raj",
+       "slug": "ranjin-raj"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jackson",
+       "slug": "jackson"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kapil Krishna",
+       "slug": "kapil-krishna"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dona Thomas",
+       "slug": "dona-thomas"
+      },
+      {
+       "name": "Deepu Bose",
+       "slug": "deepu-bose"
+      },
+      {
+       "name": "Anil Pillai",
+       "slug": "anil-pillai"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "GLOBAL PICTURES ENTERTAINMENT, ERNAKULAM",
+     "slug": "global-pictures-entertainment-ernakulam",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-06-12",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2053,
+      "name": "Lionsgate Play Apple TV Channel",
+      "logoPath": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2074,
+      "name": "Lionsgate Play Amazon Channel",
+      "logoPath": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2708,
+      "name": " AP International South Cinema Amazon Channel",
+      "logoPath": "/qe5IxHppN6JWNGf8xqSo2dgAbR4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-12-05": [
+     {
+      "id": 653,
+      "title": "Kalamkaval",
+      "img": "https://image.tmdb.org/t/p/original/cTZt3Kmbvp0zZ5za1rTVZvn8AlW.jpg"
+     },
+     {
+      "id": 914,
+      "title": "Five Nights at Freddys 2",
+      "img": "https://image.tmdb.org/t/p/original/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg"
+     },
+     {
+      "id": 930,
+      "title": "Dhurandhar",
+      "img": "https://image.tmdb.org/t/p/original/q7gD37kEOmzOeGXwhbYvfpwl9kU.jpg"
+     }
+    ],
+    "2025-12-18": [
+     {
+      "id": 883,
+      "title": "Bha. Bha. Ba.",
+      "img": "https://image.tmdb.org/t/p/original/fMDt3o7CVXDc84WIbOskya8XkSN.jpg"
+     }
+    ],
+    "2025-12-12": [
+     {
+      "id": 936,
+      "title": "Akhanda 2 Thaandavam",
+      "img": "https://image.tmdb.org/t/p/original/jo9efbQSGDZNQ6xMocyD1prFjdF.jpg"
+     },
+     {
+      "id": 937,
+      "title": "Kis Kisko Pyaar Karoon 2",
+      "img": "https://image.tmdb.org/t/p/original/sqCgEMxOKvb949xbxn35Wcfn50S.jpg"
+     },
+     {
+      "id": 939,
+      "title": "Sholay The Final Cut",
+      "img": "https://image.tmdb.org/t/p/original/9wcES7d0Zz3r6579zLXYBHiJdzk.jpg"
+     }
+    ],
+    "2025-12-13": [
+     {
+      "id": 938,
+      "title": "Mowgli 2025",
+      "img": "https://image.tmdb.org/t/p/original/fwyXKqVffOOoES5HhJutqivYEVi.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-12-05",
+     "gross": 4946340.6,
+     "sold": 32644,
+     "unsold": 336760,
+     "shows": 1698,
+     "occ": 8.84,
+     "hf": "30",
+     "almost": "40",
+     "ff": "13",
+     "cumul": 4946340.6,
+     "lastUpdatedAt": "2025-12-11 23:14:00"
+    },
+    {
+     "label": "2025-12-12",
+     "gross": 270134,
+     "sold": 1835,
+     "unsold": 31558,
+     "shows": 118,
+     "occ": 5.5,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 5216474.6,
+     "lastUpdatedAt": "2025-12-18 14:23:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 5216474.6,
+    "totalShows": 1816,
+    "totalSeats": 402797,
+    "totalSold": 34479,
+    "avgOcc": "8.6",
+    "totalDays": 2,
+    "totalHousefull": 32,
+    "totalAlmost": 42,
+    "totalFastFilling": 13,
+    "peakDay": {
+     "day": 1,
+     "gross": 4946340.6
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 4946340.6
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "2:270134:5216474.6"
+  },
+  "district": {
+   "movie": {
+    "id": 933,
+    "title": "Pongala",
+    "img": "https://image.tmdb.org/t/p/original/gsXz7wmbqQ8ywNjJhlpOkxMtOZ4.jpg",
+    "released": "2025-12-05",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33014579",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "158 min",
+    "genre": "Action, Drama",
+    "plot": "After being released from prison for a murder he did not commit, a man quickly learns that crime and injustice are still rife in his hometown.",
+    "released": "2025-12-05",
+    "director": "A B Binil",
+    "directorSlug": "a-b-binil",
+    "actors": [
+     "Sreenath Bhasi",
+     "Baburaj",
+     "Bibin George",
+     "Harish Uthaman",
+     "Alencier Ley Lopez",
+     "Roshan Basheer"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.5",
+      "votes": 687,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T13:11:24.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sreenath Bhasi",
+     "character": null,
+     "slug": "sreenath-bhasi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oPsXUtaE0ZslhaGRdtww0ZpMRe7.jpg"
+    },
+    {
+     "name": "Baburaj",
+     "character": null,
+     "slug": "baburaj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nuJ7GhTfuBrlGBWeMPIYr59O8kP.jpg"
+    },
+    {
+     "name": "Bibin George",
+     "character": null,
+     "slug": "bibin-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3vp5ajPUkIUN95ntqcCSfvwoHcb.jpg"
+    },
+    {
+     "name": "Harish Uthaman",
+     "character": null,
+     "slug": "harish-uthaman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eR3Ua6CxacxPnfUijasCEKhNqAt.jpg"
+    },
+    {
+     "name": "Alencier Ley Lopez",
+     "character": "Joseph",
+     "slug": "alencier-ley-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWammRTzSJiyK9TROHWkoM9AqzS.jpg"
+    },
+    {
+     "name": "Roshan Basheer",
+     "character": null,
+     "slug": "roshan-basheer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n5gJB61TUJLR98NcAyZdUkA1bAV.jpg"
+    },
+    {
+     "name": "Sampath Ram",
+     "character": null,
+     "slug": "sampath-ram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kuObekNREXMfOh9QidmOgGhkQbv.jpg"
+    },
+    {
+     "name": "Kichu Tellus",
+     "character": "Biju",
+     "slug": "kichu-tellus",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ilo7dTpCUZ31qmCsaqtGUrQ0VaH.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "A B Binil",
+       "slug": "a-b-binil"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "A B Binil",
+       "slug": "a-b-binil"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ranjin Raj",
+       "slug": "ranjin-raj"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jackson",
+       "slug": "jackson"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kapil Krishna",
+       "slug": "kapil-krishna"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dona Thomas",
+       "slug": "dona-thomas"
+      },
+      {
+       "name": "Deepu Bose",
+       "slug": "deepu-bose"
+      },
+      {
+       "name": "Anil Pillai",
+       "slug": "anil-pillai"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "GLOBAL PICTURES ENTERTAINMENT, ERNAKULAM",
+     "slug": "global-pictures-entertainment-ernakulam",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-06-12",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2053,
+      "name": "Lionsgate Play Apple TV Channel",
+      "logoPath": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2074,
+      "name": "Lionsgate Play Amazon Channel",
+      "logoPath": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2708,
+      "name": " AP International South Cinema Amazon Channel",
+      "logoPath": "/qe5IxHppN6JWNGf8xqSo2dgAbR4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-12-05": [
+     {
+      "id": 653,
+      "title": "Kalamkaval",
+      "img": "https://image.tmdb.org/t/p/original/cTZt3Kmbvp0zZ5za1rTVZvn8AlW.jpg"
+     },
+     {
+      "id": 914,
+      "title": "Five Nights at Freddys 2",
+      "img": "https://image.tmdb.org/t/p/original/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg"
+     },
+     {
+      "id": 930,
+      "title": "Dhurandhar",
+      "img": "https://image.tmdb.org/t/p/original/q7gD37kEOmzOeGXwhbYvfpwl9kU.jpg"
+     }
+    ],
+    "2025-12-18": [
+     {
+      "id": 883,
+      "title": "Bha. Bha. Ba.",
+      "img": "https://image.tmdb.org/t/p/original/fMDt3o7CVXDc84WIbOskya8XkSN.jpg"
+     }
+    ],
+    "2025-12-12": [
+     {
+      "id": 936,
+      "title": "Akhanda 2 Thaandavam",
+      "img": "https://image.tmdb.org/t/p/original/jo9efbQSGDZNQ6xMocyD1prFjdF.jpg"
+     },
+     {
+      "id": 937,
+      "title": "Kis Kisko Pyaar Karoon 2",
+      "img": "https://image.tmdb.org/t/p/original/sqCgEMxOKvb949xbxn35Wcfn50S.jpg"
+     },
+     {
+      "id": 939,
+      "title": "Sholay The Final Cut",
+      "img": "https://image.tmdb.org/t/p/original/9wcES7d0Zz3r6579zLXYBHiJdzk.jpg"
+     }
+    ],
+    "2025-12-13": [
+     {
+      "id": 938,
+      "title": "Mowgli 2025",
+      "img": "https://image.tmdb.org/t/p/original/fwyXKqVffOOoES5HhJutqivYEVi.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 1469732,
+     "sold": 8342,
+     "unsold": 29879,
+     "shows": 205,
+     "occ": 21.83,
+     "hf": "2",
+     "almost": "4",
+     "ff": "4",
+     "cumul": 1469732,
+     "lastUpdatedAt": "2025-12-17 17:53:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 1214845,
+     "sold": 8476,
+     "unsold": 34453,
+     "shows": 163,
+     "occ": 19.74,
+     "hf": "10",
+     "almost": "10",
+     "ff": "0",
+     "cumul": 2684577,
+     "lastUpdatedAt": "2025-12-18 12:58:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 575512,
+     "sold": 3666,
+     "unsold": 27459,
+     "shows": 168,
+     "occ": 11.78,
+     "hf": "4",
+     "almost": "11",
+     "ff": "6",
+     "cumul": 3260089,
+     "lastUpdatedAt": "2025-12-17 15:53:00"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 363883,
+     "sold": 2798,
+     "unsold": 46784,
+     "shows": 241,
+     "occ": 5.64,
+     "hf": "7",
+     "almost": "7",
+     "ff": "0",
+     "cumul": 3623972,
+     "lastUpdatedAt": "2025-12-18 14:23:00"
+    },
+    {
+     "label": "Kollam",
+     "gross": 328448,
+     "sold": 2123,
+     "unsold": 36861,
+     "shows": 192,
+     "occ": 5.45,
+     "hf": "0",
+     "almost": "1",
+     "ff": "1",
+     "cumul": 3952420,
+     "lastUpdatedAt": "2025-12-17 14:28:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 304059,
+     "sold": 1977,
+     "unsold": 39650,
+     "shows": 214,
+     "occ": 4.75,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 4256479,
+     "lastUpdatedAt": "2025-12-17 21:13:00"
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 297523,
+     "sold": 2086,
+     "unsold": 50145,
+     "shows": 130,
+     "occ": 3.99,
+     "hf": "6",
+     "almost": "6",
+     "ff": "0",
+     "cumul": 4554002,
+     "lastUpdatedAt": "2025-12-17 20:28:00"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 285710,
+     "sold": 2176,
+     "unsold": 26896,
+     "shows": 157,
+     "occ": 7.48,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4839712,
+     "lastUpdatedAt": "2025-12-16 11:28:00"
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 115999,
+     "sold": 869,
+     "unsold": 10657,
+     "shows": 55,
+     "occ": 7.54,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 4955711,
+     "lastUpdatedAt": "2025-12-17 10:28:00"
+    },
+    {
+     "label": "Kottayam",
+     "gross": 88590,
+     "sold": 741,
+     "unsold": 36296,
+     "shows": 107,
+     "occ": 2,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5044301,
+     "lastUpdatedAt": "2025-12-11 21:28:00"
+    },
+    {
+     "label": "Kannur",
+     "gross": 67661,
+     "sold": 466,
+     "unsold": 16207,
+     "shows": 102,
+     "occ": 2.79,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5111962,
+     "lastUpdatedAt": "2025-12-11 20:13:00"
+    },
+    {
+     "label": "Wayanad",
+     "gross": 50881.599999999846,
+     "sold": 392,
+     "unsold": 898,
+     "shows": 6,
+     "occ": 30.39,
+     "hf": "0",
+     "almost": "0",
+     "ff": "2",
+     "cumul": 5162843.6,
+     "lastUpdatedAt": "2025-12-07 20:13:00"
+    },
+    {
+     "label": "Idukki",
+     "gross": 39411,
+     "sold": 262,
+     "unsold": 5646,
+     "shows": 44,
+     "occ": 4.43,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5202254.6,
+     "lastUpdatedAt": "2025-12-11 21:28:00"
+    },
+    {
+     "label": "Pathanamthitta",
+     "gross": 14220,
+     "sold": 105,
+     "unsold": 6487,
+     "shows": 32,
+     "occ": 1.59,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5216474.6,
+     "lastUpdatedAt": "2025-12-11 21:58:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 5216474.6,
+    "totalShows": 1816,
+    "totalSeats": 402797,
+    "totalSold": 34479,
+    "avgOcc": "8.6",
+    "totalDays": 14,
+    "totalHousefull": 32,
+    "totalAlmost": 42,
+    "totalFastFilling": 13,
+    "peakDay": {
+     "day": 1,
+     "gross": 1469732,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 1469732,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "14:14220:5216474.6"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "slug": "jason-statham",
+ "name": "Jason Statham",
+ "source_url": "https://fridaymatinee.in/people/jason-statham",
+ "captured_at": "2026-10-01T23:03:40.527383+00:00",
+ "person": {
+  "name": "Jason Statham",
+  "photo": "https://image.tmdb.org/t/p/w185/8l6lmrmKFDvhDjMJPj6tBpJdhaA.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 377,
+   "movie_slug": "fast-x",
+   "title": "Fast X",
+   "year": 2023,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 989,
+   "movie_slug": "shelter",
+   "title": "Shelter",
+   "year": 2026,
+   "kerala_gross": "₹1.6L"
+  },
+  {
+   "movie_id": 1241,
+   "movie_slug": "mutiny",
+   "title": "Mutiny",
+   "year": 2026,
+   "kerala_gross": "₹81K"
+  }
+ ]
+}

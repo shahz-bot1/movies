@@ -1,0 +1,41 @@
+{
+ "slug": "ali-fazal",
+ "name": "Ali Fazal",
+ "source_url": "https://fridaymatinee.in/people/ali-fazal",
+ "captured_at": "2026-10-01T20:24:51.184500+00:00",
+ "person": {
+  "name": "Ali Fazal",
+  "photo": "https://image.tmdb.org/t/p/w185/lLDmx3RDuMXObASvdFXeUh1GOgd.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 701,
+   "movie_slug": "thug-life",
+   "title": "Thug Life",
+   "year": 2025,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 1230,
+   "movie_slug": "batwara-1947",
+   "title": "Batwara 1947",
+   "year": 2026,
+   "kerala_gross": "₹7.1L"
+  },
+  {
+   "movie_id": 1261,
+   "movie_slug": "mirzapur-the-movie",
+   "title": "Mirzapur: The Movie",
+   "year": 2026,
+   "kerala_gross": "₹28.4L"
+  }
+ ]
+}

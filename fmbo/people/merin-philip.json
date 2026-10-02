@@ -1,0 +1,55 @@
+{
+ "slug": "merin-philip",
+ "name": "Merin Philip",
+ "source_url": "https://fridaymatinee.in/people/merin-philip",
+ "captured_at": "2026-10-02T00:34:14.342755+00:00",
+ "person": {
+  "name": "Merin Philip",
+  "photo": "https://image.tmdb.org/t/p/w185/ecbdRhiPF8v8obAUE3RE58GQAN6.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 39,
+   "movie_slug": "happy-sardar",
+   "title": "Happy Sardar",
+   "year": 2019,
+   "kerala_gross": "₹34.9L"
+  },
+  {
+   "movie_id": 506,
+   "movie_slug": "anchakkallakokkan",
+   "title": "Anchakkallakokkan",
+   "year": 2024,
+   "kerala_gross": "₹2.9 Cr"
+  },
+  {
+   "movie_id": 602,
+   "movie_slug": "sookshmadarshini",
+   "title": "Sookshmadarshini",
+   "year": 2024,
+   "kerala_gross": "₹22.1 Cr"
+  },
+  {
+   "movie_id": 771,
+   "movie_slug": "vadakkan",
+   "title": "Vadakkan",
+   "year": 2025,
+   "kerala_gross": "₹25.5L"
+  },
+  {
+   "movie_id": 841,
+   "movie_slug": "nellikkampoyil-night-riders",
+   "title": "Nellikkampoyil Night Riders",
+   "year": 2025,
+   "kerala_gross": "₹3.2 Cr"
+  }
+ ]
+}

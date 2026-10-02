@@ -1,0 +1,919 @@
+{
+ "id": 1035,
+ "slug": "ready-or-not-2-here-i-come",
+ "source_url": "https://fridaymatinee.in/boxoffice/ready-or-not-2-here-i-come-1035",
+ "captured_at": "2026-10-01T18:44:58.866862+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1035,
+    "title": "Ready or Not 2: Here I Come",
+    "img": "https://image.tmdb.org/t/p/original/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
+    "released": "2026-04-03",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33978029",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "108 min",
+    "genre": "Horror, Comedy",
+    "plot": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
+    "released": "2026-03-19",
+    "director": "Matt Bettinelli-Olpin",
+    "directorSlug": "matt-bettinelli-olpin",
+    "actors": [
+     "Samara Weaving",
+     "Kathryn Newton",
+     "Sarah Michelle Gellar",
+     "Shawn Hatosy",
+     "Nestor Carbonell",
+     "David Cronenberg"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 76537,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 1652,
+      "updatedAt": "2026-09-24T13:10:27.000Z"
+     },
+     "rt": "75%",
+     "metascore": 58,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Samara Weaving",
+     "character": "Grace MacCaullay",
+     "slug": "samara-weaving",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ngVKl0sxrut5PPMAIDsfXrVjA1R.jpg"
+    },
+    {
+     "name": "Kathryn Newton",
+     "character": "Faith MacCaullay",
+     "slug": "kathryn-newton",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/26OEa0uS8552sVJakaCEHYvqOao.jpg"
+    },
+    {
+     "name": "Sarah Michelle Gellar",
+     "character": "Ursula Danforth",
+     "slug": "sarah-michelle-gellar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/grlhyolOpwZAnpeFvuTC3SQAUij.jpg"
+    },
+    {
+     "name": "Shawn Hatosy",
+     "character": "Titus Danforth",
+     "slug": "shawn-hatosy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hm3KRxmotbJ93fJQJvE0G0EGONw.jpg"
+    },
+    {
+     "name": "Nestor Carbonell",
+     "character": "Ignacio El Caido",
+     "slug": "nestor-carbonell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4Xn03t2qDEMR2ecM7BtLwpvs3J0.jpg"
+    },
+    {
+     "name": "David Cronenberg",
+     "character": "Chester Danforth",
+     "slug": "david-cronenberg",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3xh4e2gWHDilMLtucHzDGsmJMuQ.jpg"
+    },
+    {
+     "name": "Elijah Wood",
+     "character": "The Lawyer",
+     "slug": "elijah-wood",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+    },
+    {
+     "name": "Kevin Durand",
+     "character": "Bill Wilkinson",
+     "slug": "kevin-durand",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hINvryvce5tpod6kTnUg9ZTH8wg.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Matt Bettinelli-Olpin",
+       "slug": "matt-bettinelli-olpin"
+      },
+      {
+       "name": "Tyler Gillett",
+       "slug": "tyler-gillett"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Guy Busick",
+       "slug": "guy-busick"
+      },
+      {
+       "name": "R. Christopher Murphy",
+       "slug": "r-christopher-murphy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sven Faulconer",
+       "slug": "sven-faulconer"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Brett Jutkiewicz",
+       "slug": "brett-jutkiewicz"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jay Prychidny",
+       "slug": "jay-prychidny"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Tripp Vinson",
+       "slug": "tripp-vinson"
+      },
+      {
+       "name": "James Vanderbilt",
+       "slug": "james-vanderbilt"
+      },
+      {
+       "name": "Bradley J. Fischer",
+       "slug": "bradley-j-fischer"
+      },
+      {
+       "name": "William Sherak",
+       "slug": "william-sherak"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Searchlight Pictures",
+     "slug": "searchlight-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/7DLKyL15ETI9645XSr9JcbMV79c.png"
+    },
+    {
+     "name": "Mythology Entertainment",
+     "slug": "mythology-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/uvTmiRZzNfG88dVXi9hQ7eFNirq.png"
+    },
+    {
+     "name": "Radio Silence",
+     "slug": "radio-silence",
+     "logo": "https://image.tmdb.org/t/p/w185/cNhOITS96oOV7SCgUHxvZlWRecx.png"
+    },
+    {
+     "name": "Big Indie Pictures",
+     "slug": "big-indie-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/fWSI4EjIDEEzCNJC8OTPX9Pdbxv.png"
+    },
+    {
+     "name": "Vinson Films",
+     "slug": "vinson-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-04-03": [
+     {
+      "id": 1049,
+      "title": "The Super Mario Galaxy Movie",
+      "img": "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+     },
+     {
+      "id": 1051,
+      "title": "The Drama",
+      "img": "https://image.tmdb.org/t/p/original/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+     },
+     {
+      "id": 1052,
+      "title": "Leader",
+      "img": "https://image.tmdb.org/t/p/original/eitNeP5lMT67piVVA8h31lb5keN.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-04-03",
+     "gross": 124810,
+     "sold": 540,
+     "unsold": 1351,
+     "shows": 14,
+     "occ": 28.56,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 124810,
+     "lastUpdatedAt": "2026-04-03 23:23:00"
+    },
+    {
+     "label": "2026-04-04",
+     "gross": 82220,
+     "sold": 351,
+     "unsold": 1128,
+     "shows": 11,
+     "occ": 23.73,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 207030,
+     "lastUpdatedAt": "2026-04-04 23:23:00"
+    },
+    {
+     "label": "2026-04-05",
+     "gross": 56825,
+     "sold": 245,
+     "unsold": 777,
+     "shows": 7,
+     "occ": 23.97,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 263855,
+     "lastUpdatedAt": "2026-04-05 21:18:00"
+    },
+    {
+     "label": "2026-04-06",
+     "gross": 54590,
+     "sold": 222,
+     "unsold": 454,
+     "shows": 6,
+     "occ": 32.84,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 318445,
+     "lastUpdatedAt": "2026-04-06 20:58:00"
+    },
+    {
+     "label": "2026-04-07",
+     "gross": 39116,
+     "sold": 172,
+     "unsold": 502,
+     "shows": 6,
+     "occ": 25.52,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 357561,
+     "lastUpdatedAt": "2026-04-07 23:08:00"
+    },
+    {
+     "label": "2026-04-08",
+     "gross": 54480,
+     "sold": 223,
+     "unsold": 401,
+     "shows": 5,
+     "occ": 35.74,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 412041,
+     "lastUpdatedAt": "2026-04-08 20:58:00"
+    },
+    {
+     "label": "2026-04-09",
+     "gross": 23820,
+     "sold": 106,
+     "unsold": 0,
+     "shows": 1,
+     "occ": 100,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 435861,
+     "lastUpdatedAt": "2026-04-09 00:03:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 435861,
+    "totalShows": 50,
+    "totalSeats": 6472,
+    "totalSold": 1859,
+    "avgOcc": "28.7",
+    "totalDays": 7,
+    "totalHousefull": 6,
+    "totalAlmost": 6,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 124810,
+     "date": "2026-04-03"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 124810,
+     "date": "2026-04-03"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "7:23820:435861"
+  },
+  "week": {
+   "movie": {
+    "id": 1035,
+    "title": "Ready or Not 2: Here I Come",
+    "img": "https://image.tmdb.org/t/p/original/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
+    "released": "2026-04-03",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33978029",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "108 min",
+    "genre": "Horror, Comedy",
+    "plot": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
+    "released": "2026-03-19",
+    "director": "Matt Bettinelli-Olpin",
+    "directorSlug": "matt-bettinelli-olpin",
+    "actors": [
+     "Samara Weaving",
+     "Kathryn Newton",
+     "Sarah Michelle Gellar",
+     "Shawn Hatosy",
+     "Nestor Carbonell",
+     "David Cronenberg"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 76537,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 1652,
+      "updatedAt": "2026-09-24T13:10:27.000Z"
+     },
+     "rt": "75%",
+     "metascore": 58,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Samara Weaving",
+     "character": "Grace MacCaullay",
+     "slug": "samara-weaving",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ngVKl0sxrut5PPMAIDsfXrVjA1R.jpg"
+    },
+    {
+     "name": "Kathryn Newton",
+     "character": "Faith MacCaullay",
+     "slug": "kathryn-newton",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/26OEa0uS8552sVJakaCEHYvqOao.jpg"
+    },
+    {
+     "name": "Sarah Michelle Gellar",
+     "character": "Ursula Danforth",
+     "slug": "sarah-michelle-gellar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/grlhyolOpwZAnpeFvuTC3SQAUij.jpg"
+    },
+    {
+     "name": "Shawn Hatosy",
+     "character": "Titus Danforth",
+     "slug": "shawn-hatosy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hm3KRxmotbJ93fJQJvE0G0EGONw.jpg"
+    },
+    {
+     "name": "Nestor Carbonell",
+     "character": "Ignacio El Caido",
+     "slug": "nestor-carbonell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4Xn03t2qDEMR2ecM7BtLwpvs3J0.jpg"
+    },
+    {
+     "name": "David Cronenberg",
+     "character": "Chester Danforth",
+     "slug": "david-cronenberg",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3xh4e2gWHDilMLtucHzDGsmJMuQ.jpg"
+    },
+    {
+     "name": "Elijah Wood",
+     "character": "The Lawyer",
+     "slug": "elijah-wood",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+    },
+    {
+     "name": "Kevin Durand",
+     "character": "Bill Wilkinson",
+     "slug": "kevin-durand",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hINvryvce5tpod6kTnUg9ZTH8wg.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Matt Bettinelli-Olpin",
+       "slug": "matt-bettinelli-olpin"
+      },
+      {
+       "name": "Tyler Gillett",
+       "slug": "tyler-gillett"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Guy Busick",
+       "slug": "guy-busick"
+      },
+      {
+       "name": "R. Christopher Murphy",
+       "slug": "r-christopher-murphy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sven Faulconer",
+       "slug": "sven-faulconer"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Brett Jutkiewicz",
+       "slug": "brett-jutkiewicz"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jay Prychidny",
+       "slug": "jay-prychidny"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Tripp Vinson",
+       "slug": "tripp-vinson"
+      },
+      {
+       "name": "James Vanderbilt",
+       "slug": "james-vanderbilt"
+      },
+      {
+       "name": "Bradley J. Fischer",
+       "slug": "bradley-j-fischer"
+      },
+      {
+       "name": "William Sherak",
+       "slug": "william-sherak"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Searchlight Pictures",
+     "slug": "searchlight-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/7DLKyL15ETI9645XSr9JcbMV79c.png"
+    },
+    {
+     "name": "Mythology Entertainment",
+     "slug": "mythology-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/uvTmiRZzNfG88dVXi9hQ7eFNirq.png"
+    },
+    {
+     "name": "Radio Silence",
+     "slug": "radio-silence",
+     "logo": "https://image.tmdb.org/t/p/w185/cNhOITS96oOV7SCgUHxvZlWRecx.png"
+    },
+    {
+     "name": "Big Indie Pictures",
+     "slug": "big-indie-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/fWSI4EjIDEEzCNJC8OTPX9Pdbxv.png"
+    },
+    {
+     "name": "Vinson Films",
+     "slug": "vinson-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-04-03": [
+     {
+      "id": 1049,
+      "title": "The Super Mario Galaxy Movie",
+      "img": "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+     },
+     {
+      "id": 1051,
+      "title": "The Drama",
+      "img": "https://image.tmdb.org/t/p/original/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+     },
+     {
+      "id": 1052,
+      "title": "Leader",
+      "img": "https://image.tmdb.org/t/p/original/eitNeP5lMT67piVVA8h31lb5keN.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-04-03",
+     "gross": 435861,
+     "sold": 1859,
+     "unsold": 4613,
+     "shows": 50,
+     "occ": 28.72,
+     "hf": "6",
+     "almost": "6",
+     "ff": "0",
+     "cumul": 435861,
+     "lastUpdatedAt": "2026-04-09 00:03:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 435861,
+    "totalShows": 50,
+    "totalSeats": 6472,
+    "totalSold": 1859,
+    "avgOcc": "28.7",
+    "totalDays": 1,
+    "totalHousefull": 6,
+    "totalAlmost": 6,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 435861
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 435861
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:435861:435861"
+  },
+  "district": {
+   "movie": {
+    "id": 1035,
+    "title": "Ready or Not 2: Here I Come",
+    "img": "https://image.tmdb.org/t/p/original/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg",
+    "released": "2026-04-03",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33978029",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "108 min",
+    "genre": "Horror, Comedy",
+    "plot": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
+    "released": "2026-03-19",
+    "director": "Matt Bettinelli-Olpin",
+    "directorSlug": "matt-bettinelli-olpin",
+    "actors": [
+     "Samara Weaving",
+     "Kathryn Newton",
+     "Sarah Michelle Gellar",
+     "Shawn Hatosy",
+     "Nestor Carbonell",
+     "David Cronenberg"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 76537,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 1652,
+      "updatedAt": "2026-09-24T13:10:27.000Z"
+     },
+     "rt": "75%",
+     "metascore": 58,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Samara Weaving",
+     "character": "Grace MacCaullay",
+     "slug": "samara-weaving",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ngVKl0sxrut5PPMAIDsfXrVjA1R.jpg"
+    },
+    {
+     "name": "Kathryn Newton",
+     "character": "Faith MacCaullay",
+     "slug": "kathryn-newton",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/26OEa0uS8552sVJakaCEHYvqOao.jpg"
+    },
+    {
+     "name": "Sarah Michelle Gellar",
+     "character": "Ursula Danforth",
+     "slug": "sarah-michelle-gellar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/grlhyolOpwZAnpeFvuTC3SQAUij.jpg"
+    },
+    {
+     "name": "Shawn Hatosy",
+     "character": "Titus Danforth",
+     "slug": "shawn-hatosy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hm3KRxmotbJ93fJQJvE0G0EGONw.jpg"
+    },
+    {
+     "name": "Nestor Carbonell",
+     "character": "Ignacio El Caido",
+     "slug": "nestor-carbonell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4Xn03t2qDEMR2ecM7BtLwpvs3J0.jpg"
+    },
+    {
+     "name": "David Cronenberg",
+     "character": "Chester Danforth",
+     "slug": "david-cronenberg",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3xh4e2gWHDilMLtucHzDGsmJMuQ.jpg"
+    },
+    {
+     "name": "Elijah Wood",
+     "character": "The Lawyer",
+     "slug": "elijah-wood",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+    },
+    {
+     "name": "Kevin Durand",
+     "character": "Bill Wilkinson",
+     "slug": "kevin-durand",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hINvryvce5tpod6kTnUg9ZTH8wg.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Matt Bettinelli-Olpin",
+       "slug": "matt-bettinelli-olpin"
+      },
+      {
+       "name": "Tyler Gillett",
+       "slug": "tyler-gillett"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Guy Busick",
+       "slug": "guy-busick"
+      },
+      {
+       "name": "R. Christopher Murphy",
+       "slug": "r-christopher-murphy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sven Faulconer",
+       "slug": "sven-faulconer"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Brett Jutkiewicz",
+       "slug": "brett-jutkiewicz"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jay Prychidny",
+       "slug": "jay-prychidny"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Tripp Vinson",
+       "slug": "tripp-vinson"
+      },
+      {
+       "name": "James Vanderbilt",
+       "slug": "james-vanderbilt"
+      },
+      {
+       "name": "Bradley J. Fischer",
+       "slug": "bradley-j-fischer"
+      },
+      {
+       "name": "William Sherak",
+       "slug": "william-sherak"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Searchlight Pictures",
+     "slug": "searchlight-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/7DLKyL15ETI9645XSr9JcbMV79c.png"
+    },
+    {
+     "name": "Mythology Entertainment",
+     "slug": "mythology-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/uvTmiRZzNfG88dVXi9hQ7eFNirq.png"
+    },
+    {
+     "name": "Radio Silence",
+     "slug": "radio-silence",
+     "logo": "https://image.tmdb.org/t/p/w185/cNhOITS96oOV7SCgUHxvZlWRecx.png"
+    },
+    {
+     "name": "Big Indie Pictures",
+     "slug": "big-indie-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/fWSI4EjIDEEzCNJC8OTPX9Pdbxv.png"
+    },
+    {
+     "name": "Vinson Films",
+     "slug": "vinson-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-04-03": [
+     {
+      "id": 1049,
+      "title": "The Super Mario Galaxy Movie",
+      "img": "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+     },
+     {
+      "id": 1051,
+      "title": "The Drama",
+      "img": "https://image.tmdb.org/t/p/original/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+     },
+     {
+      "id": 1052,
+      "title": "Leader",
+      "img": "https://image.tmdb.org/t/p/original/eitNeP5lMT67piVVA8h31lb5keN.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 306550,
+     "sold": 1258,
+     "unsold": 2412,
+     "shows": 27,
+     "occ": 34.28,
+     "hf": "5",
+     "almost": "5",
+     "ff": "0",
+     "cumul": 306550,
+     "lastUpdatedAt": "2026-04-09 00:03:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 49835,
+     "sold": 232,
+     "unsold": 1288,
+     "shows": 14,
+     "occ": 15.26,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 356385,
+     "lastUpdatedAt": "2026-04-08 11:48:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 44996,
+     "sold": 208,
+     "unsold": 743,
+     "shows": 7,
+     "occ": 21.87,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 401381,
+     "lastUpdatedAt": "2026-04-08 20:33:00"
+    },
+    {
+     "label": "Kannur",
+     "gross": 31840,
+     "sold": 150,
+     "unsold": 0,
+     "shows": 1,
+     "occ": 100,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 433221,
+     "lastUpdatedAt": "2026-04-03 23:08:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 2640,
+     "sold": 11,
+     "unsold": 170,
+     "shows": 1,
+     "occ": 6.08,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 435861,
+     "lastUpdatedAt": "2026-04-03 08:28:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 435861,
+    "totalShows": 50,
+    "totalSeats": 6472,
+    "totalSold": 1859,
+    "avgOcc": "28.7",
+    "totalDays": 5,
+    "totalHousefull": 6,
+    "totalAlmost": 6,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 306550,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 306550,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "5:2640:435861"
+  }
+ }
+}

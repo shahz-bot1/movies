@@ -1,0 +1,618 @@
+{
+ "id": 235,
+ "slug": "saturday-night",
+ "source_url": "https://fridaymatinee.in/boxoffice/saturday-night-235",
+ "captured_at": "2026-10-01T18:07:25.219992+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 235,
+    "title": "Saturday Night",
+    "img": "https://image.tmdb.org/t/p/original/dQrNM5Vsr9CK8o6lmofav9Dueq9.jpg",
+    "released": "2022-11-04",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21818968",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "160 min",
+    "genre": "Comedy, Drama",
+    "plot": "The film centers around a group of four childhood friends, Stanley, Sunil, Babu, and Ravi. After a long separation, they reunite and embark on a journey to rekindle their bond.",
+    "released": "2022-11-04",
+    "director": "Rosshan Andrrews",
+    "directorSlug": "rosshan-andrrews",
+    "actors": [
+     "Nivin Pauly",
+     "Grace Antony",
+     "Siju Wilson",
+     "Saiju Kurup",
+     "Aju Varghese",
+     "Prathap Pothan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "2.6",
+      "votes": 1484,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:54.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Nivin Pauly",
+     "character": "Stanley",
+     "slug": "nivin-pauly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6W4nGeMkRWZ5Wj0HAAntu9FWP4f.jpg"
+    },
+    {
+     "name": "Grace Antony",
+     "character": "Susan Maria Paul",
+     "slug": "grace-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1U4oORhpX4gQnjooOBVfwsyVW9g.jpg"
+    },
+    {
+     "name": "Siju Wilson",
+     "character": "Ajith Abraham",
+     "slug": "siju-wilson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nEZVAH6YnHnCHAVBPDkvgfE3cXY.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Justin",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Poocha Sunil",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Prathap Pothan",
+     "character": "Davis",
+     "slug": "prathap-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wDnpGLXgsBax5NE0LgSsV6EWrje.jpg"
+    },
+    {
+     "name": "Saniya Iyyappan",
+     "character": "Vaishnavi",
+     "slug": "saniya-iyyappan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vHkgti2YdzdvQLajbUpHRuk3tgl.jpg"
+    },
+    {
+     "name": "Malavika Sreenath",
+     "character": "Nikki",
+     "slug": "malavika-sreenath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mVzJILWEsK1jQMDZIHbic2TBQQ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rosshan Andrrews",
+       "slug": "rosshan-andrrews"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Naveen Bhaskar",
+       "slug": "naveen-bhaskar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Aslam K. Purayil",
+       "slug": "aslam-k-purayil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "T. Shivanandeeswaran",
+       "slug": "t-shivanandeeswaran"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ajith Vinayaka",
+       "slug": "ajith-vinayaka"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ajith Vinayaka Films Pvt Ltd",
+     "slug": "ajith-vinayaka-films-pvt-ltd",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 13788358.290000001,
+    "totalShows": 2897,
+    "totalDays": 9,
+    "openingDay": {
+     "day": 1,
+     "gross": 4583629.01,
+     "date": "2022-11-04"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4583629.01,
+     "date": "2022-11-04"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 72,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-11-04"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 235,
+    "title": "Saturday Night",
+    "img": "https://image.tmdb.org/t/p/original/dQrNM5Vsr9CK8o6lmofav9Dueq9.jpg",
+    "released": "2022-11-04",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21818968",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "160 min",
+    "genre": "Comedy, Drama",
+    "plot": "The film centers around a group of four childhood friends, Stanley, Sunil, Babu, and Ravi. After a long separation, they reunite and embark on a journey to rekindle their bond.",
+    "released": "2022-11-04",
+    "director": "Rosshan Andrrews",
+    "directorSlug": "rosshan-andrrews",
+    "actors": [
+     "Nivin Pauly",
+     "Grace Antony",
+     "Siju Wilson",
+     "Saiju Kurup",
+     "Aju Varghese",
+     "Prathap Pothan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "2.6",
+      "votes": 1484,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:54.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Nivin Pauly",
+     "character": "Stanley",
+     "slug": "nivin-pauly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6W4nGeMkRWZ5Wj0HAAntu9FWP4f.jpg"
+    },
+    {
+     "name": "Grace Antony",
+     "character": "Susan Maria Paul",
+     "slug": "grace-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1U4oORhpX4gQnjooOBVfwsyVW9g.jpg"
+    },
+    {
+     "name": "Siju Wilson",
+     "character": "Ajith Abraham",
+     "slug": "siju-wilson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nEZVAH6YnHnCHAVBPDkvgfE3cXY.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Justin",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Poocha Sunil",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Prathap Pothan",
+     "character": "Davis",
+     "slug": "prathap-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wDnpGLXgsBax5NE0LgSsV6EWrje.jpg"
+    },
+    {
+     "name": "Saniya Iyyappan",
+     "character": "Vaishnavi",
+     "slug": "saniya-iyyappan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vHkgti2YdzdvQLajbUpHRuk3tgl.jpg"
+    },
+    {
+     "name": "Malavika Sreenath",
+     "character": "Nikki",
+     "slug": "malavika-sreenath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mVzJILWEsK1jQMDZIHbic2TBQQ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rosshan Andrrews",
+       "slug": "rosshan-andrrews"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Naveen Bhaskar",
+       "slug": "naveen-bhaskar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Aslam K. Purayil",
+       "slug": "aslam-k-purayil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "T. Shivanandeeswaran",
+       "slug": "t-shivanandeeswaran"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ajith Vinayaka",
+       "slug": "ajith-vinayaka"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ajith Vinayaka Films Pvt Ltd",
+     "slug": "ajith-vinayaka-films-pvt-ltd",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-11-04",
+     "gross": 13752428.290000001,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2891,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-11-11",
+     "gross": 35930,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 6,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 13788358.290000001,
+    "totalShows": 2897,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 13752428.290000001
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 13752428.290000001
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 72,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-11-04"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 235,
+    "title": "Saturday Night",
+    "img": "https://image.tmdb.org/t/p/original/dQrNM5Vsr9CK8o6lmofav9Dueq9.jpg",
+    "released": "2022-11-04",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt21818968",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "160 min",
+    "genre": "Comedy, Drama",
+    "plot": "The film centers around a group of four childhood friends, Stanley, Sunil, Babu, and Ravi. After a long separation, they reunite and embark on a journey to rekindle their bond.",
+    "released": "2022-11-04",
+    "director": "Rosshan Andrrews",
+    "directorSlug": "rosshan-andrrews",
+    "actors": [
+     "Nivin Pauly",
+     "Grace Antony",
+     "Siju Wilson",
+     "Saiju Kurup",
+     "Aju Varghese",
+     "Prathap Pothan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "2.6",
+      "votes": 1484,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:54.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Nivin Pauly",
+     "character": "Stanley",
+     "slug": "nivin-pauly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6W4nGeMkRWZ5Wj0HAAntu9FWP4f.jpg"
+    },
+    {
+     "name": "Grace Antony",
+     "character": "Susan Maria Paul",
+     "slug": "grace-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1U4oORhpX4gQnjooOBVfwsyVW9g.jpg"
+    },
+    {
+     "name": "Siju Wilson",
+     "character": "Ajith Abraham",
+     "slug": "siju-wilson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nEZVAH6YnHnCHAVBPDkvgfE3cXY.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Justin",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Poocha Sunil",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Prathap Pothan",
+     "character": "Davis",
+     "slug": "prathap-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wDnpGLXgsBax5NE0LgSsV6EWrje.jpg"
+    },
+    {
+     "name": "Saniya Iyyappan",
+     "character": "Vaishnavi",
+     "slug": "saniya-iyyappan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vHkgti2YdzdvQLajbUpHRuk3tgl.jpg"
+    },
+    {
+     "name": "Malavika Sreenath",
+     "character": "Nikki",
+     "slug": "malavika-sreenath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mVzJILWEsK1jQMDZIHbic2TBQQ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rosshan Andrrews",
+       "slug": "rosshan-andrrews"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Naveen Bhaskar",
+       "slug": "naveen-bhaskar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Aslam K. Purayil",
+       "slug": "aslam-k-purayil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "T. Shivanandeeswaran",
+       "slug": "t-shivanandeeswaran"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ajith Vinayaka",
+       "slug": "ajith-vinayaka"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ajith Vinayaka Films Pvt Ltd",
+     "slug": "ajith-vinayaka-films-pvt-ltd",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 13788358.29,
+    "totalShows": 2897,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 3648939,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3648939,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 72,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-11-04"
+   }
+  }
+ }
+}

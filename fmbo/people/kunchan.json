@@ -1,0 +1,41 @@
+{
+ "slug": "kunchan",
+ "name": "Kunchan",
+ "source_url": "https://fridaymatinee.in/people/kunchan",
+ "captured_at": "2026-10-01T23:55:39.809891+00:00",
+ "person": {
+  "name": "Kunchan",
+  "photo": "https://image.tmdb.org/t/p/w185/oQlqtWhBt2Bj6vqGwGxHqhOfpdv.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 113,
+   "movie_slug": "naradan",
+   "title": "Naradan",
+   "year": 2022,
+   "kerala_gross": "₹57.7L"
+  },
+  {
+   "movie_id": 306,
+   "movie_slug": "maheshum-marutiyum",
+   "title": "Maheshum Marutiyum",
+   "year": 2023,
+   "kerala_gross": "₹55.7L"
+  },
+  {
+   "movie_id": 653,
+   "movie_slug": "kalamkaval",
+   "title": "Kalamkaval",
+   "year": 2025,
+   "kerala_gross": "₹31.9 Cr"
+  }
+ ]
+}

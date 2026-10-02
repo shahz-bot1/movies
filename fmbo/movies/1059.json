@@ -1,0 +1,761 @@
+{
+ "id": 1059,
+ "slug": "biker",
+ "source_url": "https://fridaymatinee.in/boxoffice/biker-1059",
+ "captured_at": "2026-10-01T19:03:42.115794+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1059,
+    "title": "Biker",
+    "img": "https://image.tmdb.org/t/p/original/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
+    "released": "2026-04-03",
+    "language": "Telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31593809",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "162 min",
+    "genre": "Adventure, Drama",
+    "plot": "Adrenaline-fueled motocross racers navigate dangerous competitions and face intense challenges on their bikes.",
+    "released": "2026-04-03",
+    "director": "Abhilash Reddy",
+    "directorSlug": "abhilash-reddy",
+    "actors": [
+     "Sharwanand",
+     "Dr. Rajasekhar",
+     "Malvika Nair",
+     "Atul Kulkarni",
+     "Brahmaji",
+     "Dayanand Reddy"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 1168,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sharwanand",
+     "character": "Vikas Narayan",
+     "slug": "sharwanand",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n3unOPLUbyRdSnXUbF6qwVgsnhY.jpg"
+    },
+    {
+     "name": "Dr. Rajasekhar",
+     "character": "Bullet Sunil",
+     "slug": "dr-rajasekhar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/98rWmf6KpB7SvQMuJm0pl9au0ud.jpg"
+    },
+    {
+     "name": "Malvika Nair",
+     "character": "Ananya",
+     "slug": "malavika-nair",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cc4SDmyEmQPq2L8LHNm3sGHIkDr.jpg"
+    },
+    {
+     "name": "Atul Kulkarni",
+     "character": "Indraneel",
+     "slug": "atul-kulkarni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z3mRRjJfYs5C9PR4jzKsbZVKTKy.jpg"
+    },
+    {
+     "name": "Brahmaji",
+     "character": "Mahesh",
+     "slug": "brahmaji",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg"
+    },
+    {
+     "name": "Dayanand Reddy",
+     "character": "Richard",
+     "slug": "dayanand-reddy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8rP0hqbamgqPCVkjMhbXtydAYI4.jpg"
+    },
+    {
+     "name": "Shashank",
+     "character": null,
+     "slug": "shashank",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eLdlMsttFqKpN2D0f5Ij0qrR0b9.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abhilash Reddy",
+       "slug": "abhilash-reddy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Abhilash Reddy",
+       "slug": "abhilash-reddy"
+      },
+      {
+       "name": "MVS Bharadwaj",
+       "slug": "mvs-bharadwaj"
+      },
+      {
+       "name": "Shravan Madala",
+       "slug": "shravan-madala"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ghibran",
+       "slug": "ghibran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "J. Yuvaraj",
+       "slug": "j-yuvaraj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kumar. P. Anil",
+       "slug": "kumar-p-anil"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Pramod Uppalapati",
+       "slug": "pramod-uppalapati"
+      },
+      {
+       "name": "Vamsi Krishna Reddy",
+       "slug": "vamsi-krishna-reddy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "UV Creations",
+     "slug": "uv-creations",
+     "logo": "https://image.tmdb.org/t/p/w185/wd4BquqZZiiOq9iAkGL3ViANT1x.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-05-01",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-04-03": [
+     {
+      "id": 1035,
+      "title": "Ready or Not 2: Here I Come",
+      "img": "https://image.tmdb.org/t/p/original/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
+     },
+     {
+      "id": 1049,
+      "title": "The Super Mario Galaxy Movie",
+      "img": "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+     },
+     {
+      "id": 1051,
+      "title": "The Drama",
+      "img": "https://image.tmdb.org/t/p/original/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-04-03",
+     "gross": 100728,
+     "sold": 420,
+     "unsold": 821,
+     "shows": 9,
+     "occ": 33.84,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 100728,
+     "lastUpdatedAt": "2026-04-03 22:53:00"
+    },
+    {
+     "label": "2026-04-04",
+     "gross": 14546,
+     "sold": 65,
+     "unsold": 469,
+     "shows": 4,
+     "occ": 12.17,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 115274,
+     "lastUpdatedAt": "2026-04-04 22:53:00"
+    },
+    {
+     "label": "2026-04-05",
+     "gross": 10150,
+     "sold": 21,
+     "unsold": 59,
+     "shows": 1,
+     "occ": 26.25,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125424,
+     "lastUpdatedAt": "2026-04-05 15:23:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 125424,
+    "totalShows": 14,
+    "totalSeats": 1855,
+    "totalSold": 506,
+    "avgOcc": "27.3",
+    "totalDays": 3,
+    "totalHousefull": 2,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 100728,
+     "date": "2026-04-03"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 100728,
+     "date": "2026-04-03"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "3:10150:125424"
+  },
+  "week": {
+   "movie": {
+    "id": 1059,
+    "title": "Biker",
+    "img": "https://image.tmdb.org/t/p/original/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
+    "released": "2026-04-03",
+    "language": "Telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31593809",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "162 min",
+    "genre": "Adventure, Drama",
+    "plot": "Adrenaline-fueled motocross racers navigate dangerous competitions and face intense challenges on their bikes.",
+    "released": "2026-04-03",
+    "director": "Abhilash Reddy",
+    "directorSlug": "abhilash-reddy",
+    "actors": [
+     "Sharwanand",
+     "Dr. Rajasekhar",
+     "Malvika Nair",
+     "Atul Kulkarni",
+     "Brahmaji",
+     "Dayanand Reddy"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 1168,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sharwanand",
+     "character": "Vikas Narayan",
+     "slug": "sharwanand",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n3unOPLUbyRdSnXUbF6qwVgsnhY.jpg"
+    },
+    {
+     "name": "Dr. Rajasekhar",
+     "character": "Bullet Sunil",
+     "slug": "dr-rajasekhar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/98rWmf6KpB7SvQMuJm0pl9au0ud.jpg"
+    },
+    {
+     "name": "Malvika Nair",
+     "character": "Ananya",
+     "slug": "malavika-nair",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cc4SDmyEmQPq2L8LHNm3sGHIkDr.jpg"
+    },
+    {
+     "name": "Atul Kulkarni",
+     "character": "Indraneel",
+     "slug": "atul-kulkarni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z3mRRjJfYs5C9PR4jzKsbZVKTKy.jpg"
+    },
+    {
+     "name": "Brahmaji",
+     "character": "Mahesh",
+     "slug": "brahmaji",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg"
+    },
+    {
+     "name": "Dayanand Reddy",
+     "character": "Richard",
+     "slug": "dayanand-reddy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8rP0hqbamgqPCVkjMhbXtydAYI4.jpg"
+    },
+    {
+     "name": "Shashank",
+     "character": null,
+     "slug": "shashank",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eLdlMsttFqKpN2D0f5Ij0qrR0b9.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abhilash Reddy",
+       "slug": "abhilash-reddy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Abhilash Reddy",
+       "slug": "abhilash-reddy"
+      },
+      {
+       "name": "MVS Bharadwaj",
+       "slug": "mvs-bharadwaj"
+      },
+      {
+       "name": "Shravan Madala",
+       "slug": "shravan-madala"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ghibran",
+       "slug": "ghibran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "J. Yuvaraj",
+       "slug": "j-yuvaraj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kumar. P. Anil",
+       "slug": "kumar-p-anil"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Pramod Uppalapati",
+       "slug": "pramod-uppalapati"
+      },
+      {
+       "name": "Vamsi Krishna Reddy",
+       "slug": "vamsi-krishna-reddy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "UV Creations",
+     "slug": "uv-creations",
+     "logo": "https://image.tmdb.org/t/p/w185/wd4BquqZZiiOq9iAkGL3ViANT1x.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-05-01",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-04-03": [
+     {
+      "id": 1035,
+      "title": "Ready or Not 2: Here I Come",
+      "img": "https://image.tmdb.org/t/p/original/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
+     },
+     {
+      "id": 1049,
+      "title": "The Super Mario Galaxy Movie",
+      "img": "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+     },
+     {
+      "id": 1051,
+      "title": "The Drama",
+      "img": "https://image.tmdb.org/t/p/original/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-04-03",
+     "gross": 125424,
+     "sold": 506,
+     "unsold": 1349,
+     "shows": 14,
+     "occ": 27.28,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 125424,
+     "lastUpdatedAt": "2026-04-05 15:23:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 125424,
+    "totalShows": 14,
+    "totalSeats": 1855,
+    "totalSold": 506,
+    "avgOcc": "27.3",
+    "totalDays": 1,
+    "totalHousefull": 2,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 125424
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 125424
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:125424:125424"
+  },
+  "district": {
+   "movie": {
+    "id": 1059,
+    "title": "Biker",
+    "img": "https://image.tmdb.org/t/p/original/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
+    "released": "2026-04-03",
+    "language": "Telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31593809",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "162 min",
+    "genre": "Adventure, Drama",
+    "plot": "Adrenaline-fueled motocross racers navigate dangerous competitions and face intense challenges on their bikes.",
+    "released": "2026-04-03",
+    "director": "Abhilash Reddy",
+    "directorSlug": "abhilash-reddy",
+    "actors": [
+     "Sharwanand",
+     "Dr. Rajasekhar",
+     "Malvika Nair",
+     "Atul Kulkarni",
+     "Brahmaji",
+     "Dayanand Reddy"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 1168,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sharwanand",
+     "character": "Vikas Narayan",
+     "slug": "sharwanand",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n3unOPLUbyRdSnXUbF6qwVgsnhY.jpg"
+    },
+    {
+     "name": "Dr. Rajasekhar",
+     "character": "Bullet Sunil",
+     "slug": "dr-rajasekhar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/98rWmf6KpB7SvQMuJm0pl9au0ud.jpg"
+    },
+    {
+     "name": "Malvika Nair",
+     "character": "Ananya",
+     "slug": "malavika-nair",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cc4SDmyEmQPq2L8LHNm3sGHIkDr.jpg"
+    },
+    {
+     "name": "Atul Kulkarni",
+     "character": "Indraneel",
+     "slug": "atul-kulkarni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z3mRRjJfYs5C9PR4jzKsbZVKTKy.jpg"
+    },
+    {
+     "name": "Brahmaji",
+     "character": "Mahesh",
+     "slug": "brahmaji",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg"
+    },
+    {
+     "name": "Dayanand Reddy",
+     "character": "Richard",
+     "slug": "dayanand-reddy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8rP0hqbamgqPCVkjMhbXtydAYI4.jpg"
+    },
+    {
+     "name": "Shashank",
+     "character": null,
+     "slug": "shashank",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eLdlMsttFqKpN2D0f5Ij0qrR0b9.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abhilash Reddy",
+       "slug": "abhilash-reddy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Abhilash Reddy",
+       "slug": "abhilash-reddy"
+      },
+      {
+       "name": "MVS Bharadwaj",
+       "slug": "mvs-bharadwaj"
+      },
+      {
+       "name": "Shravan Madala",
+       "slug": "shravan-madala"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ghibran",
+       "slug": "ghibran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "J. Yuvaraj",
+       "slug": "j-yuvaraj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kumar. P. Anil",
+       "slug": "kumar-p-anil"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Pramod Uppalapati",
+       "slug": "pramod-uppalapati"
+      },
+      {
+       "name": "Vamsi Krishna Reddy",
+       "slug": "vamsi-krishna-reddy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "UV Creations",
+     "slug": "uv-creations",
+     "logo": "https://image.tmdb.org/t/p/w185/wd4BquqZZiiOq9iAkGL3ViANT1x.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-05-01",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-04-03": [
+     {
+      "id": 1035,
+      "title": "Ready or Not 2: Here I Come",
+      "img": "https://image.tmdb.org/t/p/original/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
+     },
+     {
+      "id": 1049,
+      "title": "The Super Mario Galaxy Movie",
+      "img": "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+     },
+     {
+      "id": 1051,
+      "title": "The Drama",
+      "img": "https://image.tmdb.org/t/p/original/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 52970,
+     "sold": 164,
+     "unsold": 262,
+     "shows": 5,
+     "occ": 38.5,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 52970,
+     "lastUpdatedAt": "2026-04-05 15:23:00"
+    },
+    {
+     "label": "Ernakulam",
+     "gross": 51360,
+     "sold": 220,
+     "unsold": 517,
+     "shows": 5,
+     "occ": 29.85,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 104330,
+     "lastUpdatedAt": "2026-04-04 22:53:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 18354,
+     "sold": 112,
+     "unsold": 461,
+     "shows": 3,
+     "occ": 19.55,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 122684,
+     "lastUpdatedAt": "2026-04-04 14:14:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 2740,
+     "sold": 10,
+     "unsold": 109,
+     "shows": 1,
+     "occ": 8.4,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125424,
+     "lastUpdatedAt": "2026-04-03 22:53:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 125424,
+    "totalShows": 14,
+    "totalSeats": 1855,
+    "totalSold": 506,
+    "avgOcc": "27.3",
+    "totalDays": 4,
+    "totalHousefull": 2,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 52970,
+     "date": "Thiruvananthapuram"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 52970,
+     "date": "Thiruvananthapuram"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "4:2740:125424"
+  }
+ }
+}

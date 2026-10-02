@@ -1,0 +1,615 @@
+{
+ "id": 1309,
+ "slug": "happy-journey",
+ "source_url": "https://fridaymatinee.in/boxoffice/happy-journey-1309",
+ "captured_at": "2026-10-01T19:57:59.322893+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1309,
+    "title": "Happy Journey",
+    "img": "https://image.tmdb.org/t/p/original/hN2I3bWNDorwrBaYzr4ocNFVDJP.jpg",
+    "released": "2026-09-18",
+    "language": "Telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt42655940",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": null,
+    "plot": "A group of seven women across generations set off on a spontaneous European getaway, leaving their everyday lives behind. Amid the chaos, laughter and picturesque landscapes, the journey becomes an unexpected celebration of freedom and friendship.",
+    "released": "2026-09-18",
+    "director": "Abhiramm Naidu",
+    "directorSlug": "abhiramm-naidu",
+    "actors": [
+     "Aamani",
+     "Jhansi",
+     "Annapoorna",
+     "Vamshidhar Kosgi Goud",
+     "Paayal Radhakrishna",
+     "Jinisha Alishetty"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "9.7",
+      "votes": 1379,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aamani",
+     "character": "Chamundeshwari",
+     "slug": "aamani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3EQ9GfnSiZsGXQWUI0bQk1ax8LT.jpg"
+    },
+    {
+     "name": "Jhansi",
+     "character": null,
+     "slug": "jhansi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rOgVPpJWfgrYnkzzD9aZB5TQYus.jpg"
+    },
+    {
+     "name": "Annapoorna",
+     "character": "Savitri/Savvi",
+     "slug": "annapoorna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8yFs4CeF7SoiW5j0BTtZXP2jZ9H.jpg"
+    },
+    {
+     "name": "Vamshidhar Kosgi Goud",
+     "character": "Govind",
+     "slug": "vamshidhar-kosgi-goud",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qFTeU5nIpZD0z1pX25tibgHWzvq.jpg"
+    },
+    {
+     "name": "Paayal Radhakrishna",
+     "character": null,
+     "slug": "paayal-radhakrishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6y23RlPFxC7MoJFuS4thcQuo014.jpg"
+    },
+    {
+     "name": "Jinisha Alishetty",
+     "character": null,
+     "slug": "jinisha-alishetty",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sunaina Badam",
+     "character": "Divya",
+     "slug": "sunaina-badam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXYC9Aue1uE09Wgs9AWxGq7aHvj.jpg"
+    },
+    {
+     "name": "Roopa Srinivas",
+     "character": null,
+     "slug": "roopa-srinivas",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abhiramm Naidu",
+       "slug": "abhiramm-naidu"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Abhiramm Naidu",
+       "slug": "abhiramm-naidu"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Balaji Gutta",
+       "slug": "balaji-gutta"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Gutta Productions",
+     "slug": "gutta-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-18": [
+     {
+      "id": 1256,
+      "title": "Lu0026O - Law and Order",
+      "img": "https://image.tmdb.org/t/p/original/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg"
+     },
+     {
+      "id": 1257,
+      "title": "Ottam Thullal",
+      "img": "https://image.tmdb.org/t/p/original/cVp1n8FZPtVILNAvXpdlrD4XXT6.jpg"
+     },
+     {
+      "id": 1259,
+      "title": "It's A Medical Miracle",
+      "img": "https://image.tmdb.org/t/p/original/ymlqg5qqwzAC74IXi2smf8OZeN7.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-09-18",
+     "gross": 3510,
+     "sold": 15,
+     "unsold": 232,
+     "shows": 3,
+     "occ": 6.07,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3510,
+     "lastUpdatedAt": "2026-09-18 23:23:01"
+    },
+    {
+     "label": "2026-09-19",
+     "gross": 12060,
+     "sold": 46,
+     "unsold": 201,
+     "shows": 3,
+     "occ": 18.62,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 15570,
+     "lastUpdatedAt": "2026-09-19 23:23:01"
+    },
+    {
+     "label": "2026-09-20",
+     "gross": 1820,
+     "sold": 9,
+     "unsold": 129,
+     "shows": 1,
+     "occ": 6.52,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 17390,
+     "lastUpdatedAt": "2026-09-20 16:48:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 17390,
+    "totalShows": 7,
+    "totalSeats": 632,
+    "totalSold": 70,
+    "avgOcc": "11.1",
+    "totalDays": 3,
+    "totalHousefull": 1,
+    "totalAlmost": 1,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 2,
+     "gross": 12060,
+     "date": "2026-09-19"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 3510,
+     "date": "2026-09-18"
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "3:1820:17390"
+  },
+  "week": {
+   "movie": {
+    "id": 1309,
+    "title": "Happy Journey",
+    "img": "https://image.tmdb.org/t/p/original/hN2I3bWNDorwrBaYzr4ocNFVDJP.jpg",
+    "released": "2026-09-18",
+    "language": "Telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt42655940",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": null,
+    "plot": "A group of seven women across generations set off on a spontaneous European getaway, leaving their everyday lives behind. Amid the chaos, laughter and picturesque landscapes, the journey becomes an unexpected celebration of freedom and friendship.",
+    "released": "2026-09-18",
+    "director": "Abhiramm Naidu",
+    "directorSlug": "abhiramm-naidu",
+    "actors": [
+     "Aamani",
+     "Jhansi",
+     "Annapoorna",
+     "Vamshidhar Kosgi Goud",
+     "Paayal Radhakrishna",
+     "Jinisha Alishetty"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "9.7",
+      "votes": 1379,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aamani",
+     "character": "Chamundeshwari",
+     "slug": "aamani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3EQ9GfnSiZsGXQWUI0bQk1ax8LT.jpg"
+    },
+    {
+     "name": "Jhansi",
+     "character": null,
+     "slug": "jhansi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rOgVPpJWfgrYnkzzD9aZB5TQYus.jpg"
+    },
+    {
+     "name": "Annapoorna",
+     "character": "Savitri/Savvi",
+     "slug": "annapoorna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8yFs4CeF7SoiW5j0BTtZXP2jZ9H.jpg"
+    },
+    {
+     "name": "Vamshidhar Kosgi Goud",
+     "character": "Govind",
+     "slug": "vamshidhar-kosgi-goud",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qFTeU5nIpZD0z1pX25tibgHWzvq.jpg"
+    },
+    {
+     "name": "Paayal Radhakrishna",
+     "character": null,
+     "slug": "paayal-radhakrishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6y23RlPFxC7MoJFuS4thcQuo014.jpg"
+    },
+    {
+     "name": "Jinisha Alishetty",
+     "character": null,
+     "slug": "jinisha-alishetty",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sunaina Badam",
+     "character": "Divya",
+     "slug": "sunaina-badam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXYC9Aue1uE09Wgs9AWxGq7aHvj.jpg"
+    },
+    {
+     "name": "Roopa Srinivas",
+     "character": null,
+     "slug": "roopa-srinivas",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abhiramm Naidu",
+       "slug": "abhiramm-naidu"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Abhiramm Naidu",
+       "slug": "abhiramm-naidu"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Balaji Gutta",
+       "slug": "balaji-gutta"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Gutta Productions",
+     "slug": "gutta-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-18": [
+     {
+      "id": 1256,
+      "title": "Lu0026O - Law and Order",
+      "img": "https://image.tmdb.org/t/p/original/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg"
+     },
+     {
+      "id": 1257,
+      "title": "Ottam Thullal",
+      "img": "https://image.tmdb.org/t/p/original/cVp1n8FZPtVILNAvXpdlrD4XXT6.jpg"
+     },
+     {
+      "id": 1259,
+      "title": "It's A Medical Miracle",
+      "img": "https://image.tmdb.org/t/p/original/ymlqg5qqwzAC74IXi2smf8OZeN7.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-09-18",
+     "gross": 17390,
+     "sold": 70,
+     "unsold": 562,
+     "shows": 7,
+     "occ": 11.08,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 17390,
+     "lastUpdatedAt": "2026-09-20 16:48:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 17390,
+    "totalShows": 7,
+    "totalSeats": 632,
+    "totalSold": 70,
+    "avgOcc": "11.1",
+    "totalDays": 1,
+    "totalHousefull": 1,
+    "totalAlmost": 1,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 17390
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 17390
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "1:17390:17390"
+  },
+  "district": {
+   "movie": {
+    "id": 1309,
+    "title": "Happy Journey",
+    "img": "https://image.tmdb.org/t/p/original/hN2I3bWNDorwrBaYzr4ocNFVDJP.jpg",
+    "released": "2026-09-18",
+    "language": "Telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt42655940",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": null,
+    "plot": "A group of seven women across generations set off on a spontaneous European getaway, leaving their everyday lives behind. Amid the chaos, laughter and picturesque landscapes, the journey becomes an unexpected celebration of freedom and friendship.",
+    "released": "2026-09-18",
+    "director": "Abhiramm Naidu",
+    "directorSlug": "abhiramm-naidu",
+    "actors": [
+     "Aamani",
+     "Jhansi",
+     "Annapoorna",
+     "Vamshidhar Kosgi Goud",
+     "Paayal Radhakrishna",
+     "Jinisha Alishetty"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "9.7",
+      "votes": 1379,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aamani",
+     "character": "Chamundeshwari",
+     "slug": "aamani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3EQ9GfnSiZsGXQWUI0bQk1ax8LT.jpg"
+    },
+    {
+     "name": "Jhansi",
+     "character": null,
+     "slug": "jhansi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rOgVPpJWfgrYnkzzD9aZB5TQYus.jpg"
+    },
+    {
+     "name": "Annapoorna",
+     "character": "Savitri/Savvi",
+     "slug": "annapoorna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8yFs4CeF7SoiW5j0BTtZXP2jZ9H.jpg"
+    },
+    {
+     "name": "Vamshidhar Kosgi Goud",
+     "character": "Govind",
+     "slug": "vamshidhar-kosgi-goud",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qFTeU5nIpZD0z1pX25tibgHWzvq.jpg"
+    },
+    {
+     "name": "Paayal Radhakrishna",
+     "character": null,
+     "slug": "paayal-radhakrishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6y23RlPFxC7MoJFuS4thcQuo014.jpg"
+    },
+    {
+     "name": "Jinisha Alishetty",
+     "character": null,
+     "slug": "jinisha-alishetty",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sunaina Badam",
+     "character": "Divya",
+     "slug": "sunaina-badam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXYC9Aue1uE09Wgs9AWxGq7aHvj.jpg"
+    },
+    {
+     "name": "Roopa Srinivas",
+     "character": null,
+     "slug": "roopa-srinivas",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abhiramm Naidu",
+       "slug": "abhiramm-naidu"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Abhiramm Naidu",
+       "slug": "abhiramm-naidu"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Balaji Gutta",
+       "slug": "balaji-gutta"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Gutta Productions",
+     "slug": "gutta-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-18": [
+     {
+      "id": 1256,
+      "title": "Lu0026O - Law and Order",
+      "img": "https://image.tmdb.org/t/p/original/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg"
+     },
+     {
+      "id": 1257,
+      "title": "Ottam Thullal",
+      "img": "https://image.tmdb.org/t/p/original/cVp1n8FZPtVILNAvXpdlrD4XXT6.jpg"
+     },
+     {
+      "id": 1259,
+      "title": "It's A Medical Miracle",
+      "img": "https://image.tmdb.org/t/p/original/ymlqg5qqwzAC74IXi2smf8OZeN7.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 12470,
+     "sold": 48,
+     "unsold": 162,
+     "shows": 3,
+     "occ": 22.86,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 12470,
+     "lastUpdatedAt": "2026-09-20 16:48:01"
+    },
+    {
+     "label": "Ernakulam",
+     "gross": 4920,
+     "sold": 22,
+     "unsold": 400,
+     "shows": 4,
+     "occ": 5.21,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 17390,
+     "lastUpdatedAt": "2026-09-19 23:23:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 17390,
+    "totalShows": 7,
+    "totalSeats": 632,
+    "totalSold": 70,
+    "avgOcc": "11.1",
+    "totalDays": 2,
+    "totalHousefull": 1,
+    "totalAlmost": 1,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 12470,
+     "date": "Thiruvananthapuram"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 12470,
+     "date": "Thiruvananthapuram"
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "2:4920:17390"
+  }
+ }
+}

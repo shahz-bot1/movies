@@ -1,0 +1,41 @@
+{
+ "slug": "anjali-aneesh-upasana",
+ "name": "Anjali P Nair",
+ "source_url": "https://fridaymatinee.in/people/anjali-aneesh-upasana",
+ "captured_at": "2026-10-01T20:40:10.009848+00:00",
+ "person": {
+  "name": "Anjali P Nair",
+  "photo": "https://image.tmdb.org/t/p/w185/mTwTjMQz0PtIrRyRtH0baIWuS30.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 226,
+   "movie_slug": "monster",
+   "title": "Monster",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 1067,
+   "movie_slug": "drishyam-2",
+   "title": "Drishyam 2",
+   "year": 2026,
+   "kerala_gross": "₹3.6L"
+  },
+  {
+   "movie_id": 1096,
+   "movie_slug": "revolver-rinko",
+   "title": "Revolver Rinko",
+   "year": 2026,
+   "kerala_gross": "₹25.9L"
+  }
+ ]
+}

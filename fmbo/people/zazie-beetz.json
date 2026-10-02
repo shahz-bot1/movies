@@ -1,0 +1,48 @@
+{
+ "slug": "zazie-beetz",
+ "name": "Zazie Beetz",
+ "source_url": "https://fridaymatinee.in/people/zazie-beetz",
+ "captured_at": "2026-10-02T12:13:41.859736+00:00",
+ "person": {
+  "name": "Zazie Beetz",
+  "photo": "https://image.tmdb.org/t/p/w185/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 15,
+   "movie_slug": "joker",
+   "title": "Joker",
+   "year": 2019,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 564,
+   "movie_slug": "joker-folie-a-deux",
+   "title": "Joker: Folie A Deux",
+   "year": 2024,
+   "kerala_gross": "₹59.0L"
+  },
+  {
+   "movie_id": 783,
+   "movie_slug": "the-bad-guys-2",
+   "title": "The Bad Guys 2",
+   "year": 2025,
+   "kerala_gross": "₹2.7L"
+  },
+  {
+   "movie_id": 1043,
+   "movie_slug": "they-will-kill-you",
+   "title": "They Will Kill You",
+   "year": 2026,
+   "kerala_gross": "₹3.1L"
+  }
+ ]
+}

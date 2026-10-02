@@ -1,0 +1,622 @@
+{
+ "id": 143,
+ "slug": "john-luther",
+ "source_url": "https://fridaymatinee.in/boxoffice/john-luther-143",
+ "captured_at": "2026-10-01T18:02:06.115958+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 143,
+    "title": "John Luther",
+    "img": "https://image.tmdb.org/t/p/original/cJoQGHkdimCfYizm4e4onSAKa4U.jpg",
+    "released": "2022-05-27",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt12908508",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "128 min",
+    "genre": "Thriller, Crime, Mystery",
+    "plot": "Devikulam Police Station SI John Luther is a committed police officer, who even risks his life for policing. During an interrogation, he suffers ruptured eardrums and hearing loss. Will he be able to complete an investigation which he had to leave halfway?",
+    "released": "2022-05-27",
+    "director": "Abhijith Joseph",
+    "directorSlug": "abhijith-joseph",
+    "actors": [
+     "Jayasurya",
+     "Siddique",
+     "Elango Kumaravel",
+     "Drishya Raghunath",
+     "Deepak Parambol",
+     "Sivadas Kannur"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 3630,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:26.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jayasurya",
+     "character": "John Luther",
+     "slug": "jayasurya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m3M0skefVc1wMJBKW5CMjKt4orJ.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Mathew",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Elango Kumaravel",
+     "character": "Prasad",
+     "slug": "elango-kumaravel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8LtXDdacaCA7Gk4B8ACxTs430EO.jpg"
+    },
+    {
+     "name": "Drishya Raghunath",
+     "character": "Leena",
+     "slug": "drishya-raghunath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/71WykSyGR50s2NSfa8cVzbBqpYm.jpg"
+    },
+    {
+     "name": "Deepak Parambol",
+     "character": "Felix",
+     "slug": "deepak-parambol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ri2gQM9o9MmcZQZjjq6pQmdbIxb.jpg"
+    },
+    {
+     "name": "Sivadas Kannur",
+     "character": "Rajan",
+     "slug": "sivadas-kannur",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6ir9Vhin8jsd4cvamsMwS4lmTBp.jpg"
+    },
+    {
+     "name": "Athmeeya Rajan",
+     "character": "Jessy",
+     "slug": "athmeeya-rajan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xoRwDLXMoKxAFX5XTApSS5cdElu.jpg"
+    },
+    {
+     "name": "Srikant Murali",
+     "character": "Krishna Kumar",
+     "slug": "srikant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m82xCpAgdCzjG2D1qg1dmcj5Uhx.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abhijith Joseph",
+       "slug": "abhijith-joseph"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Abhijith Joseph",
+       "slug": "abhijith-joseph"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Shaan Rahman",
+       "slug": "shaan-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Roby Varghese Raj",
+       "slug": "roby-varghese-raj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen Prabhakar",
+       "slug": "praveen-prabhakar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Alonsa Films",
+     "slug": "alonsa-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 22185781.8,
+    "totalShows": 4467,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 2959260.1999999997,
+     "date": "2022-05-27"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 4589240,
+     "date": "2022-05-29"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 36,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-05-27"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 143,
+    "title": "John Luther",
+    "img": "https://image.tmdb.org/t/p/original/cJoQGHkdimCfYizm4e4onSAKa4U.jpg",
+    "released": "2022-05-27",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt12908508",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "128 min",
+    "genre": "Thriller, Crime, Mystery",
+    "plot": "Devikulam Police Station SI John Luther is a committed police officer, who even risks his life for policing. During an interrogation, he suffers ruptured eardrums and hearing loss. Will he be able to complete an investigation which he had to leave halfway?",
+    "released": "2022-05-27",
+    "director": "Abhijith Joseph",
+    "directorSlug": "abhijith-joseph",
+    "actors": [
+     "Jayasurya",
+     "Siddique",
+     "Elango Kumaravel",
+     "Drishya Raghunath",
+     "Deepak Parambol",
+     "Sivadas Kannur"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 3630,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:26.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jayasurya",
+     "character": "John Luther",
+     "slug": "jayasurya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m3M0skefVc1wMJBKW5CMjKt4orJ.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Mathew",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Elango Kumaravel",
+     "character": "Prasad",
+     "slug": "elango-kumaravel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8LtXDdacaCA7Gk4B8ACxTs430EO.jpg"
+    },
+    {
+     "name": "Drishya Raghunath",
+     "character": "Leena",
+     "slug": "drishya-raghunath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/71WykSyGR50s2NSfa8cVzbBqpYm.jpg"
+    },
+    {
+     "name": "Deepak Parambol",
+     "character": "Felix",
+     "slug": "deepak-parambol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ri2gQM9o9MmcZQZjjq6pQmdbIxb.jpg"
+    },
+    {
+     "name": "Sivadas Kannur",
+     "character": "Rajan",
+     "slug": "sivadas-kannur",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6ir9Vhin8jsd4cvamsMwS4lmTBp.jpg"
+    },
+    {
+     "name": "Athmeeya Rajan",
+     "character": "Jessy",
+     "slug": "athmeeya-rajan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xoRwDLXMoKxAFX5XTApSS5cdElu.jpg"
+    },
+    {
+     "name": "Srikant Murali",
+     "character": "Krishna Kumar",
+     "slug": "srikant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m82xCpAgdCzjG2D1qg1dmcj5Uhx.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abhijith Joseph",
+       "slug": "abhijith-joseph"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Abhijith Joseph",
+       "slug": "abhijith-joseph"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Shaan Rahman",
+       "slug": "shaan-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Roby Varghese Raj",
+       "slug": "roby-varghese-raj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen Prabhakar",
+       "slug": "praveen-prabhakar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Alonsa Films",
+     "slug": "alonsa-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-05-27",
+     "gross": 17510841,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3007,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-06-03",
+     "gross": 4631450.8,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1454,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-06-10",
+     "gross": 43490,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 6,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 22185781.8,
+    "totalShows": 4467,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 17510841
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 17510841
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 36,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-05-27"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 143,
+    "title": "John Luther",
+    "img": "https://image.tmdb.org/t/p/original/cJoQGHkdimCfYizm4e4onSAKa4U.jpg",
+    "released": "2022-05-27",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt12908508",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "128 min",
+    "genre": "Thriller, Crime, Mystery",
+    "plot": "Devikulam Police Station SI John Luther is a committed police officer, who even risks his life for policing. During an interrogation, he suffers ruptured eardrums and hearing loss. Will he be able to complete an investigation which he had to leave halfway?",
+    "released": "2022-05-27",
+    "director": "Abhijith Joseph",
+    "directorSlug": "abhijith-joseph",
+    "actors": [
+     "Jayasurya",
+     "Siddique",
+     "Elango Kumaravel",
+     "Drishya Raghunath",
+     "Deepak Parambol",
+     "Sivadas Kannur"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 3630,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:26.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jayasurya",
+     "character": "John Luther",
+     "slug": "jayasurya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m3M0skefVc1wMJBKW5CMjKt4orJ.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Mathew",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Elango Kumaravel",
+     "character": "Prasad",
+     "slug": "elango-kumaravel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8LtXDdacaCA7Gk4B8ACxTs430EO.jpg"
+    },
+    {
+     "name": "Drishya Raghunath",
+     "character": "Leena",
+     "slug": "drishya-raghunath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/71WykSyGR50s2NSfa8cVzbBqpYm.jpg"
+    },
+    {
+     "name": "Deepak Parambol",
+     "character": "Felix",
+     "slug": "deepak-parambol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ri2gQM9o9MmcZQZjjq6pQmdbIxb.jpg"
+    },
+    {
+     "name": "Sivadas Kannur",
+     "character": "Rajan",
+     "slug": "sivadas-kannur",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6ir9Vhin8jsd4cvamsMwS4lmTBp.jpg"
+    },
+    {
+     "name": "Athmeeya Rajan",
+     "character": "Jessy",
+     "slug": "athmeeya-rajan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xoRwDLXMoKxAFX5XTApSS5cdElu.jpg"
+    },
+    {
+     "name": "Srikant Murali",
+     "character": "Krishna Kumar",
+     "slug": "srikant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m82xCpAgdCzjG2D1qg1dmcj5Uhx.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abhijith Joseph",
+       "slug": "abhijith-joseph"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Abhijith Joseph",
+       "slug": "abhijith-joseph"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Shaan Rahman",
+       "slug": "shaan-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Roby Varghese Raj",
+       "slug": "roby-varghese-raj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen Prabhakar",
+       "slug": "praveen-prabhakar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Alonsa Films",
+     "slug": "alonsa-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 22185781.8,
+    "totalShows": 4467,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 5302367,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5302367,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 36,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-05-27"
+   }
+  }
+ }
+}

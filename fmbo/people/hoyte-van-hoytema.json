@@ -1,0 +1,41 @@
+{
+ "slug": "hoyte-van-hoytema",
+ "name": "Hoyte van Hoytema",
+ "source_url": "https://fridaymatinee.in/people/hoyte-van-hoytema",
+ "captured_at": "2026-10-01T22:48:35.700078+00:00",
+ "person": {
+  "name": "Hoyte van Hoytema",
+  "photo": "https://image.tmdb.org/t/p/w185/y2HXvac1oPzciwxfdyWc5syThRk.jpg",
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 403,
+   "movie_slug": "oppenheimer",
+   "title": "Oppenheimer",
+   "year": 2023,
+   "kerala_gross": "₹7.1 Cr"
+  },
+  {
+   "movie_id": 642,
+   "movie_slug": "interstellar",
+   "title": "Interstellar",
+   "year": 2025,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 777,
+   "movie_slug": "the-odyssey",
+   "title": "The Odyssey",
+   "year": 2026,
+   "kerala_gross": "₹12.6 Cr"
+  }
+ ]
+}

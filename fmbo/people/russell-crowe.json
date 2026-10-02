@@ -1,0 +1,41 @@
+{
+ "slug": "russell-crowe",
+ "name": "Russell Crowe",
+ "source_url": "https://fridaymatinee.in/people/russell-crowe",
+ "captured_at": "2026-10-02T09:52:05.647026+00:00",
+ "person": {
+  "name": "Russell Crowe",
+  "photo": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 158,
+   "movie_slug": "thor-love-and-thunder",
+   "title": "Thor Love and Thunder",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 774,
+   "movie_slug": "kraven-the-hunter",
+   "title": "Kraven: The Hunter",
+   "year": 2025,
+   "kerala_gross": "₹8.7L"
+  },
+  {
+   "movie_id": 908,
+   "movie_slug": "nuremberg",
+   "title": "Nuremberg",
+   "year": 2025,
+   "kerala_gross": "₹1.1L"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "mahima-nambiar",
+ "name": "Mahima Nambiar",
+ "source_url": "https://fridaymatinee.in/people/mahima-nambiar",
+ "captured_at": "2026-10-02T00:13:23.887946+00:00",
+ "person": {
+  "name": "Mahima Nambiar",
+  "photo": "https://image.tmdb.org/t/p/w185/us0TCjr5IHotLbyr6PKjofEqN2x.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 416,
+   "movie_slug": "rdx-robert-dony-xavier",
+   "title": "RDX - Robert Dony Xavier",
+   "year": 2023,
+   "kerala_gross": "₹39.7 Cr"
+  },
+  {
+   "movie_id": 513,
+   "movie_slug": "jai-ganesh",
+   "title": "Jai Ganesh",
+   "year": 2024,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 646,
+   "movie_slug": "bromance",
+   "title": "Bromance",
+   "year": 2025,
+   "kerala_gross": "₹7.0 Cr"
+  },
+  {
+   "movie_id": 1274,
+   "movie_slug": "mandaadi",
+   "title": "Mandaadi",
+   "year": 2026,
+   "kerala_gross": "₹2.0 Cr"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "slug": "soori",
+ "name": "Soori",
+ "source_url": "https://fridaymatinee.in/people/soori",
+ "captured_at": "2026-10-02T10:50:53.341067+00:00",
+ "person": {
+  "name": "Soori",
+  "photo": "https://image.tmdb.org/t/p/w185/AncGjHZaaNcpEu6JosiV25IwSSg.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 8
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 316,
+   "movie_slug": "viduthalai-part-1",
+   "title": "Viduthalai Part 1",
+   "year": 2023,
+   "kerala_gross": "₹86.9L"
+  },
+  {
+   "movie_id": 618,
+   "movie_slug": "viduthalai-part-2",
+   "title": "Viduthalai Part - 2",
+   "year": 2024,
+   "kerala_gross": "₹66.7L"
+  },
+  {
+   "movie_id": 1274,
+   "movie_slug": "mandaadi",
+   "title": "Mandaadi",
+   "year": 2026,
+   "kerala_gross": "₹2.0 Cr"
+  },
+  {
+   "movie_id": 31,
+   "movie_slug": "sangathamizhan",
+   "title": "Sangathamizhan",
+   "year": 2019,
+   "kerala_gross": "₹4.6L"
+  },
+  {
+   "movie_id": 86,
+   "movie_slug": "annaatthe",
+   "title": "Annaatthe",
+   "year": 2021,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 114,
+   "movie_slug": "etharkkum-thunindhavan",
+   "title": "Etharkkum Thunindhavan",
+   "year": 2022,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 229,
+   "movie_slug": "prince",
+   "title": "Prince",
+   "year": 2022,
+   "kerala_gross": "₹18.3L"
+  },
+  {
+   "movie_id": 1331,
+   "movie_slug": "yezhu-kadal-yezhu-malai",
+   "title": "Yezhu Kadal Yezhu Malai",
+   "year": 2026,
+   "kerala_gross": "₹14.2L"
+  }
+ ]
+}

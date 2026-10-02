@@ -1,0 +1,41 @@
+{
+ "slug": "willem-dafoe",
+ "name": "Willem Dafoe",
+ "source_url": "https://fridaymatinee.in/people/willem-dafoe",
+ "captured_at": "2026-10-02T11:57:54.273098+00:00",
+ "person": {
+  "name": "Willem Dafoe",
+  "photo": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 96,
+   "movie_slug": "spider-man-no-way-home",
+   "title": "Spider Man No Way Home",
+   "year": 2021,
+   "kerala_gross": "₹11.5 Cr"
+  },
+  {
+   "movie_id": 635,
+   "movie_slug": "nosferatu",
+   "title": "Nosferatu",
+   "year": 2025,
+   "kerala_gross": "₹16.8L"
+  },
+  {
+   "movie_id": 748,
+   "movie_slug": "the-phoenician-scheme",
+   "title": "The Phoenician Scheme",
+   "year": 2025,
+   "kerala_gross": "₹1.0L"
+  }
+ ]
+}

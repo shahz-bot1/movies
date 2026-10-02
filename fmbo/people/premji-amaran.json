@@ -1,0 +1,41 @@
+{
+ "slug": "premji-amaran",
+ "name": "Premji Amaran",
+ "source_url": "https://fridaymatinee.in/people/premji-amaran",
+ "captured_at": "2026-10-02T06:30:45.121239+00:00",
+ "person": {
+  "name": "Premji Amaran",
+  "photo": "https://image.tmdb.org/t/p/w185/jKCIdEE65icoZl4dM5bBgWEVCGO.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 229,
+   "movie_slug": "prince",
+   "title": "Prince",
+   "year": 2022,
+   "kerala_gross": "₹18.3L"
+  },
+  {
+   "movie_id": 560,
+   "movie_slug": "the-greatest-of-all-time",
+   "title": "The Greatest Of All Time",
+   "year": 2024,
+   "kerala_gross": "₹10.6 Cr"
+  },
+  {
+   "movie_id": 986,
+   "movie_slug": "mankatha",
+   "title": "Mankatha",
+   "year": 2026,
+   "kerala_gross": "₹12.9L"
+  }
+ ]
+}

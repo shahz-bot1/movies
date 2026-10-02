@@ -1,0 +1,957 @@
+{
+ "id": 1113,
+ "slug": "chand-mera-dil",
+ "source_url": "https://fridaymatinee.in/boxoffice/chand-mera-dil-1113",
+ "captured_at": "2026-10-01T19:47:23.720675+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1113,
+    "title": "Chand Mera Dil",
+    "img": "https://image.tmdb.org/t/p/original/9LPkXJustudEBgPZEm9tgDx5KtC.jpg",
+    "released": "2026-05-22",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt34498111",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "135 min",
+    "genre": "Romance, Drama",
+    "plot": "Aarav and Chandni's passionate college romance is struck by adulthood far too soon, forcing the two young lovers to balance their ambitions with responsibility and realize the evolved meaning of love.",
+    "released": "2026-05-22",
+    "director": "Vivek Soni",
+    "directorSlug": "vivek-soni",
+    "actors": [
+     "Ananya Panday",
+     "Lakshya",
+     "Aastha Singh",
+     "Paresh Pahuja",
+     "Manish Chaudhary",
+     "Iravati Harshe"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 7614,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ananya Panday",
+     "character": "Chandni Prasad",
+     "slug": "ananya-panday",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AgywmKnKdOJ7HvlNKBc3hADsF1S.jpg"
+    },
+    {
+     "name": "Lakshya",
+     "character": "Aarav",
+     "slug": "lakshya-lalwani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iabAj9GCIkGnAMvzyIvdUXeCPTo.jpg"
+    },
+    {
+     "name": "Aastha Singh",
+     "character": "Jyotsna",
+     "slug": "aastha-singh",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Paresh Pahuja",
+     "character": "Kevin",
+     "slug": "paresh-pahuja",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eoqUy5KRCXlt0vI4vajnhfN1M8y.jpg"
+    },
+    {
+     "name": "Manish Chaudhary",
+     "character": "Aarav's  Father",
+     "slug": "manish-chaudhary",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1l4vmA0IJQLieebZWOOCAFu4ra6.jpg"
+    },
+    {
+     "name": "Iravati Harshe",
+     "character": "Aarav's Mother",
+     "slug": "iravati-harshe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zVDkFwUN8pj3jpEuQRWQa3sUSzp.jpg"
+    },
+    {
+     "name": "Charu Shankar",
+     "character": "Chandni's  Mother",
+     "slug": "charu-shankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lh3RNfZoWSfNS4m5o0tQVVhCd3o.jpg"
+    },
+    {
+     "name": "Atul Kumar",
+     "character": "Principal",
+     "slug": "atul-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rbPFvPZgqiK21z4uyD5QhRwr7bb.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vivek Soni",
+       "slug": "vivek-soni"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vivek Soni",
+       "slug": "vivek-soni"
+      },
+      {
+       "name": "Tushar Paranjape",
+       "slug": "tushar-paranjape"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sachin Sanghvi",
+       "slug": "sachin-sanghvi"
+      },
+      {
+       "name": "Jigar Saraiya",
+       "slug": "jigar-saraiya"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Debojeet Ray",
+       "slug": "debojeet-ray"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Prashanth Ramachandran",
+       "slug": "prashanth-ramachandran"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Karan Johar",
+       "slug": "karan-johar"
+      },
+      {
+       "name": "Apoorva Mehta",
+       "slug": "apoorva-mehta"
+      },
+      {
+       "name": "Adar Poonawalla",
+       "slug": "adar-poonawalla-11515"
+      },
+      {
+       "name": "Somen Mishra",
+       "slug": "somen-mishra"
+      },
+      {
+       "name": "Marijke deSouza",
+       "slug": "marijke-desouza"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Dharma Productions",
+     "slug": "dharma-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/5Ff25ornzVNhm5skuAvMAR556NB.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-07-17",
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-05-22": [
+     {
+      "id": 1114,
+      "title": "Star Wars: The Mandalorian and Grogu",
+      "img": "https://image.tmdb.org/t/p/original/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
+     },
+     {
+      "id": 1117,
+      "title": "Dose",
+      "img": "https://image.tmdb.org/t/p/original/wuEQbDF5jHaOOAMGiXWmDRz9imG.jpg"
+     }
+    ],
+    "2026-05-28": [
+     {
+      "id": 1118,
+      "title": "Kattalan",
+      "img": "https://image.tmdb.org/t/p/original/53FATyQirV8BuBcrsQMGPvGKgCu.jpg"
+     },
+     {
+      "id": 1120,
+      "title": "Obsession",
+      "img": "https://image.tmdb.org/t/p/original/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg"
+     },
+     {
+      "id": 1121,
+      "title": "Karakkam",
+      "img": "https://image.tmdb.org/t/p/original/4vyWanK6WpQt6pTzBaziqx3ZNdA.jpg"
+     }
+    ],
+    "2026-05-29": [
+     {
+      "id": 1123,
+      "title": "Return of the Jungle",
+      "img": "https://image.tmdb.org/t/p/original/kXxSc3cG5wAB2wolqX8j0QKNwjD.jpg"
+     },
+     {
+      "id": 1124,
+      "title": "The Great Grand Superhero",
+      "img": "https://image.tmdb.org/t/p/original/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-05-22",
+     "gross": 72210,
+     "sold": 280,
+     "unsold": 831,
+     "shows": 9,
+     "occ": 25.2,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 72210,
+     "lastUpdatedAt": "2026-05-22 23:03:01"
+    },
+    {
+     "label": "2026-05-23",
+     "gross": 77110,
+     "sold": 280,
+     "unsold": 686,
+     "shows": 8,
+     "occ": 28.99,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 149320,
+     "lastUpdatedAt": "2026-05-23 23:33:01"
+    },
+    {
+     "label": "2026-05-24",
+     "gross": 86150,
+     "sold": 316,
+     "unsold": 687,
+     "shows": 8,
+     "occ": 31.51,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 235470,
+     "lastUpdatedAt": "2026-05-24 23:03:01"
+    },
+    {
+     "label": "2026-05-25",
+     "gross": 27560,
+     "sold": 122,
+     "unsold": 581,
+     "shows": 5,
+     "occ": 17.35,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 263030,
+     "lastUpdatedAt": "2026-05-25 23:58:01"
+    },
+    {
+     "label": "2026-05-26",
+     "gross": 30245,
+     "sold": 165,
+     "unsold": 538,
+     "shows": 5,
+     "occ": 23.47,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 293275,
+     "lastUpdatedAt": "2026-05-27 00:08:01"
+    },
+    {
+     "label": "2026-05-27",
+     "gross": 27800,
+     "sold": 121,
+     "unsold": 583,
+     "shows": 5,
+     "occ": 17.19,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 321075,
+     "lastUpdatedAt": "2026-05-28 00:08:01"
+    },
+    {
+     "label": "2026-05-28",
+     "gross": 45660,
+     "sold": 152,
+     "unsold": 250,
+     "shows": 4,
+     "occ": 37.81,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 366735,
+     "lastUpdatedAt": "2026-05-28 23:58:01"
+    },
+    {
+     "label": "2026-05-29",
+     "gross": 26050,
+     "sold": 42,
+     "unsold": 51,
+     "shows": 2,
+     "occ": 45.16,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 392785,
+     "lastUpdatedAt": "2026-05-29 22:18:01"
+    },
+    {
+     "label": "2026-05-30",
+     "gross": 16900,
+     "sold": 28,
+     "unsold": 67,
+     "shows": 2,
+     "occ": 29.47,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 409685,
+     "lastUpdatedAt": "2026-05-30 22:18:01"
+    },
+    {
+     "label": "2026-05-31",
+     "gross": 6550,
+     "sold": 11,
+     "unsold": 39,
+     "shows": 1,
+     "occ": 22,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 416235,
+     "lastUpdatedAt": "2026-05-31 22:18:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 416235,
+    "totalShows": 49,
+    "totalSeats": 5830,
+    "totalSold": 1517,
+    "avgOcc": "26.0",
+    "totalDays": 10,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 3,
+     "gross": 86150,
+     "date": "2026-05-24"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 72210,
+     "date": "2026-05-22"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "10:6550:416235"
+  },
+  "week": {
+   "movie": {
+    "id": 1113,
+    "title": "Chand Mera Dil",
+    "img": "https://image.tmdb.org/t/p/original/9LPkXJustudEBgPZEm9tgDx5KtC.jpg",
+    "released": "2026-05-22",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt34498111",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "135 min",
+    "genre": "Romance, Drama",
+    "plot": "Aarav and Chandni's passionate college romance is struck by adulthood far too soon, forcing the two young lovers to balance their ambitions with responsibility and realize the evolved meaning of love.",
+    "released": "2026-05-22",
+    "director": "Vivek Soni",
+    "directorSlug": "vivek-soni",
+    "actors": [
+     "Ananya Panday",
+     "Lakshya",
+     "Aastha Singh",
+     "Paresh Pahuja",
+     "Manish Chaudhary",
+     "Iravati Harshe"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 7614,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ananya Panday",
+     "character": "Chandni Prasad",
+     "slug": "ananya-panday",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AgywmKnKdOJ7HvlNKBc3hADsF1S.jpg"
+    },
+    {
+     "name": "Lakshya",
+     "character": "Aarav",
+     "slug": "lakshya-lalwani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iabAj9GCIkGnAMvzyIvdUXeCPTo.jpg"
+    },
+    {
+     "name": "Aastha Singh",
+     "character": "Jyotsna",
+     "slug": "aastha-singh",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Paresh Pahuja",
+     "character": "Kevin",
+     "slug": "paresh-pahuja",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eoqUy5KRCXlt0vI4vajnhfN1M8y.jpg"
+    },
+    {
+     "name": "Manish Chaudhary",
+     "character": "Aarav's  Father",
+     "slug": "manish-chaudhary",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1l4vmA0IJQLieebZWOOCAFu4ra6.jpg"
+    },
+    {
+     "name": "Iravati Harshe",
+     "character": "Aarav's Mother",
+     "slug": "iravati-harshe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zVDkFwUN8pj3jpEuQRWQa3sUSzp.jpg"
+    },
+    {
+     "name": "Charu Shankar",
+     "character": "Chandni's  Mother",
+     "slug": "charu-shankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lh3RNfZoWSfNS4m5o0tQVVhCd3o.jpg"
+    },
+    {
+     "name": "Atul Kumar",
+     "character": "Principal",
+     "slug": "atul-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rbPFvPZgqiK21z4uyD5QhRwr7bb.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vivek Soni",
+       "slug": "vivek-soni"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vivek Soni",
+       "slug": "vivek-soni"
+      },
+      {
+       "name": "Tushar Paranjape",
+       "slug": "tushar-paranjape"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sachin Sanghvi",
+       "slug": "sachin-sanghvi"
+      },
+      {
+       "name": "Jigar Saraiya",
+       "slug": "jigar-saraiya"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Debojeet Ray",
+       "slug": "debojeet-ray"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Prashanth Ramachandran",
+       "slug": "prashanth-ramachandran"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Karan Johar",
+       "slug": "karan-johar"
+      },
+      {
+       "name": "Apoorva Mehta",
+       "slug": "apoorva-mehta"
+      },
+      {
+       "name": "Adar Poonawalla",
+       "slug": "adar-poonawalla-11515"
+      },
+      {
+       "name": "Somen Mishra",
+       "slug": "somen-mishra"
+      },
+      {
+       "name": "Marijke deSouza",
+       "slug": "marijke-desouza"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Dharma Productions",
+     "slug": "dharma-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/5Ff25ornzVNhm5skuAvMAR556NB.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-07-17",
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-05-22": [
+     {
+      "id": 1114,
+      "title": "Star Wars: The Mandalorian and Grogu",
+      "img": "https://image.tmdb.org/t/p/original/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
+     },
+     {
+      "id": 1117,
+      "title": "Dose",
+      "img": "https://image.tmdb.org/t/p/original/wuEQbDF5jHaOOAMGiXWmDRz9imG.jpg"
+     }
+    ],
+    "2026-05-28": [
+     {
+      "id": 1118,
+      "title": "Kattalan",
+      "img": "https://image.tmdb.org/t/p/original/53FATyQirV8BuBcrsQMGPvGKgCu.jpg"
+     },
+     {
+      "id": 1120,
+      "title": "Obsession",
+      "img": "https://image.tmdb.org/t/p/original/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg"
+     },
+     {
+      "id": 1121,
+      "title": "Karakkam",
+      "img": "https://image.tmdb.org/t/p/original/4vyWanK6WpQt6pTzBaziqx3ZNdA.jpg"
+     }
+    ],
+    "2026-05-29": [
+     {
+      "id": 1123,
+      "title": "Return of the Jungle",
+      "img": "https://image.tmdb.org/t/p/original/kXxSc3cG5wAB2wolqX8j0QKNwjD.jpg"
+     },
+     {
+      "id": 1124,
+      "title": "The Great Grand Superhero",
+      "img": "https://image.tmdb.org/t/p/original/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-05-22",
+     "gross": 366735,
+     "sold": 1436,
+     "unsold": 4156,
+     "shows": 44,
+     "occ": 25.68,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 366735,
+     "lastUpdatedAt": "2026-05-28 23:58:01"
+    },
+    {
+     "label": "2026-05-29",
+     "gross": 49500,
+     "sold": 81,
+     "unsold": 157,
+     "shows": 5,
+     "occ": 34.03,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 416235,
+     "lastUpdatedAt": "2026-05-31 22:18:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 416235,
+    "totalShows": 49,
+    "totalSeats": 5830,
+    "totalSold": 1517,
+    "avgOcc": "26.0",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 366735
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 366735
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "2:49500:416235"
+  },
+  "district": {
+   "movie": {
+    "id": 1113,
+    "title": "Chand Mera Dil",
+    "img": "https://image.tmdb.org/t/p/original/9LPkXJustudEBgPZEm9tgDx5KtC.jpg",
+    "released": "2026-05-22",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt34498111",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "135 min",
+    "genre": "Romance, Drama",
+    "plot": "Aarav and Chandni's passionate college romance is struck by adulthood far too soon, forcing the two young lovers to balance their ambitions with responsibility and realize the evolved meaning of love.",
+    "released": "2026-05-22",
+    "director": "Vivek Soni",
+    "directorSlug": "vivek-soni",
+    "actors": [
+     "Ananya Panday",
+     "Lakshya",
+     "Aastha Singh",
+     "Paresh Pahuja",
+     "Manish Chaudhary",
+     "Iravati Harshe"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 7614,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ananya Panday",
+     "character": "Chandni Prasad",
+     "slug": "ananya-panday",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AgywmKnKdOJ7HvlNKBc3hADsF1S.jpg"
+    },
+    {
+     "name": "Lakshya",
+     "character": "Aarav",
+     "slug": "lakshya-lalwani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iabAj9GCIkGnAMvzyIvdUXeCPTo.jpg"
+    },
+    {
+     "name": "Aastha Singh",
+     "character": "Jyotsna",
+     "slug": "aastha-singh",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Paresh Pahuja",
+     "character": "Kevin",
+     "slug": "paresh-pahuja",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eoqUy5KRCXlt0vI4vajnhfN1M8y.jpg"
+    },
+    {
+     "name": "Manish Chaudhary",
+     "character": "Aarav's  Father",
+     "slug": "manish-chaudhary",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1l4vmA0IJQLieebZWOOCAFu4ra6.jpg"
+    },
+    {
+     "name": "Iravati Harshe",
+     "character": "Aarav's Mother",
+     "slug": "iravati-harshe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zVDkFwUN8pj3jpEuQRWQa3sUSzp.jpg"
+    },
+    {
+     "name": "Charu Shankar",
+     "character": "Chandni's  Mother",
+     "slug": "charu-shankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lh3RNfZoWSfNS4m5o0tQVVhCd3o.jpg"
+    },
+    {
+     "name": "Atul Kumar",
+     "character": "Principal",
+     "slug": "atul-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rbPFvPZgqiK21z4uyD5QhRwr7bb.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vivek Soni",
+       "slug": "vivek-soni"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vivek Soni",
+       "slug": "vivek-soni"
+      },
+      {
+       "name": "Tushar Paranjape",
+       "slug": "tushar-paranjape"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sachin Sanghvi",
+       "slug": "sachin-sanghvi"
+      },
+      {
+       "name": "Jigar Saraiya",
+       "slug": "jigar-saraiya"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Debojeet Ray",
+       "slug": "debojeet-ray"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Prashanth Ramachandran",
+       "slug": "prashanth-ramachandran"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Karan Johar",
+       "slug": "karan-johar"
+      },
+      {
+       "name": "Apoorva Mehta",
+       "slug": "apoorva-mehta"
+      },
+      {
+       "name": "Adar Poonawalla",
+       "slug": "adar-poonawalla-11515"
+      },
+      {
+       "name": "Somen Mishra",
+       "slug": "somen-mishra"
+      },
+      {
+       "name": "Marijke deSouza",
+       "slug": "marijke-desouza"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Dharma Productions",
+     "slug": "dharma-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/5Ff25ornzVNhm5skuAvMAR556NB.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-07-17",
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-05-22": [
+     {
+      "id": 1114,
+      "title": "Star Wars: The Mandalorian and Grogu",
+      "img": "https://image.tmdb.org/t/p/original/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg"
+     },
+     {
+      "id": 1117,
+      "title": "Dose",
+      "img": "https://image.tmdb.org/t/p/original/wuEQbDF5jHaOOAMGiXWmDRz9imG.jpg"
+     }
+    ],
+    "2026-05-28": [
+     {
+      "id": 1118,
+      "title": "Kattalan",
+      "img": "https://image.tmdb.org/t/p/original/53FATyQirV8BuBcrsQMGPvGKgCu.jpg"
+     },
+     {
+      "id": 1120,
+      "title": "Obsession",
+      "img": "https://image.tmdb.org/t/p/original/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg"
+     },
+     {
+      "id": 1121,
+      "title": "Karakkam",
+      "img": "https://image.tmdb.org/t/p/original/4vyWanK6WpQt6pTzBaziqx3ZNdA.jpg"
+     }
+    ],
+    "2026-05-29": [
+     {
+      "id": 1123,
+      "title": "Return of the Jungle",
+      "img": "https://image.tmdb.org/t/p/original/kXxSc3cG5wAB2wolqX8j0QKNwjD.jpg"
+     },
+     {
+      "id": 1124,
+      "title": "The Great Grand Superhero",
+      "img": "https://image.tmdb.org/t/p/original/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 284555,
+     "sold": 991,
+     "unsold": 2658,
+     "shows": 30,
+     "occ": 27.16,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 284555,
+     "lastUpdatedAt": "2026-05-31 22:18:01"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 83980,
+     "sold": 318,
+     "unsold": 673,
+     "shows": 11,
+     "occ": 32.09,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 368535,
+     "lastUpdatedAt": "2026-05-30 22:13:01"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 47700,
+     "sold": 208,
+     "unsold": 982,
+     "shows": 8,
+     "occ": 17.48,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 416235,
+     "lastUpdatedAt": "2026-05-28 00:08:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 416235,
+    "totalShows": 49,
+    "totalSeats": 5830,
+    "totalSold": 1517,
+    "avgOcc": "26.0",
+    "totalDays": 3,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 284555,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 284555,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "3:47700:416235"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "hareesh-pengan",
+ "name": "Hareesh Pengan",
+ "source_url": "https://fridaymatinee.in/people/hareesh-pengan",
+ "captured_at": "2026-10-01T22:39:58.892966+00:00",
+ "person": {
+  "name": "Hareesh Pengan",
+  "photo": "https://image.tmdb.org/t/p/w185/80Kx70UfeChn4sRzqXmiamo56K9.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 78,
+   "movie_slug": "anugraheethan-antony",
+   "title": "Anugraheethan Antony",
+   "year": 2021,
+   "kerala_gross": "₹1.3 Cr"
+  },
+  {
+   "movie_id": 79,
+   "movie_slug": "aarkkariyam",
+   "title": "Aarkkariyam",
+   "year": 2021,
+   "kerala_gross": "₹7.4L"
+  },
+  {
+   "movie_id": 232,
+   "movie_slug": "jaya-jaya-jaya-jaya-hey",
+   "title": "Jaya Jaya Jaya Jaya Hey",
+   "year": 2022,
+   "kerala_gross": "₹21.4 Cr"
+  },
+  {
+   "movie_id": 250,
+   "movie_slug": "the-teacher",
+   "title": "The Teacher",
+   "year": 2022,
+   "kerala_gross": "₹19.4L"
+  }
+ ]
+}

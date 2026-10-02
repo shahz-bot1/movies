@@ -1,0 +1,722 @@
+{
+ "id": 265,
+ "slug": "companion",
+ "source_url": "https://fridaymatinee.in/boxoffice/companion-265",
+ "captured_at": "2026-10-01T18:08:09.678727+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 265,
+    "title": "Companion",
+    "img": "https://image.tmdb.org/t/p/original/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+    "released": "2025-01-22",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26584495",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "97 min",
+    "genre": "Horror, Science Fiction, Thriller",
+    "plot": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+    "released": "2025-01-22",
+    "director": "Drew Hancock",
+    "directorSlug": "drew-hancock",
+    "actors": [
+     "Sophie Thatcher",
+     "Jack Quaid",
+     "Lukas Gage",
+     "Megan Suri",
+     "Harvey Guillén",
+     "Rupert Friend"
+    ],
+    "awards": "2 wins u0026 15 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.9",
+      "votes": 191824,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.0",
+      "votes": 2652,
+      "updatedAt": "2026-09-24T22:10:48.000Z"
+     },
+     "rt": "93%",
+     "metascore": 70,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sophie Thatcher",
+     "character": "Iris",
+     "slug": "sophie-thatcher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rUEPZaDxFdDGM76t4g6cYa8Ru7b.jpg"
+    },
+    {
+     "name": "Jack Quaid",
+     "character": "Josh",
+     "slug": "jack-quaid",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
+    },
+    {
+     "name": "Lukas Gage",
+     "character": "Patrick",
+     "slug": "lukas-gage",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sftjB0MjD92meZqnL9OLtcTI02d.jpg"
+    },
+    {
+     "name": "Megan Suri",
+     "character": "Kat",
+     "slug": "megan-suri",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/krZBtMPTqVvteqYFXbAU6nnQShy.jpg"
+    },
+    {
+     "name": "Harvey Guillén",
+     "character": "Eli",
+     "slug": "harvey-guillen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yiNBonobPwqMVweB02JWufzp2l9.jpg"
+    },
+    {
+     "name": "Rupert Friend",
+     "character": "Sergey",
+     "slug": "rupert-friend",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/a3HeMHmlXnoRlHLX9h31ZdZgCXM.jpg"
+    },
+    {
+     "name": "Jaboukie Young-White",
+     "character": "Teddy",
+     "slug": "jaboukie-young-white",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8OYI8OqsMUpBZica4lM2odjgVH6.jpg"
+    },
+    {
+     "name": "Matthew J. McCarthy",
+     "character": "Sid",
+     "slug": "matthew-j-mccarthy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eHKjDZPdHTz5lV1UySfMdRqMrH6.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Drew Hancock",
+       "slug": "drew-hancock"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Drew Hancock",
+       "slug": "drew-hancock"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hrishikesh Hirway",
+       "slug": "hrishikesh-hirway"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Eli Born",
+       "slug": "eli-born"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Brett W. Bachman",
+       "slug": "brett-w-bachman"
+      },
+      {
+       "name": "Josh Ethier",
+       "slug": "josh-ethier"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Roy Lee",
+       "slug": "roy-lee"
+      },
+      {
+       "name": "Zach Cregger",
+       "slug": "zach-cregger"
+      },
+      {
+       "name": "Raphael Margules",
+       "slug": "raphael-margules"
+      },
+      {
+       "name": "J.D. Lifshitz",
+       "slug": "j-d-lifshitz"
+      },
+      {
+       "name": "Josh Mack",
+       "slug": "josh-mack"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "BoulderLight Pictures",
+     "slug": "boulderlight-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/pxtYCfl1DWzvizqZcYwE4NefOOF.png"
+    },
+    {
+     "name": "New Line Cinema",
+     "slug": "new-line-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/2ycs64eqV5rqKYHyQK0GVoKGvfX.png"
+    },
+    {
+     "name": "Vertigo Entertainment",
+     "slug": "vertigo-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/iJo9zP5QCKyBsmKSOcvXd6UDNih.png"
+    },
+    {
+     "name": "Subconscious",
+     "slug": "subconscious",
+     "logo": "https://image.tmdb.org/t/p/w185/qBN0r3EbLfDwANllIHmQtSRTBaP.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-02-17",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 318570,
+    "totalShows": 27,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 52970,
+     "date": "2025-01-31"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 68870,
+     "date": "2025-02-02"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-22"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 265,
+    "title": "Companion",
+    "img": "https://image.tmdb.org/t/p/original/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+    "released": "2025-01-22",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26584495",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "97 min",
+    "genre": "Horror, Science Fiction, Thriller",
+    "plot": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+    "released": "2025-01-22",
+    "director": "Drew Hancock",
+    "directorSlug": "drew-hancock",
+    "actors": [
+     "Sophie Thatcher",
+     "Jack Quaid",
+     "Lukas Gage",
+     "Megan Suri",
+     "Harvey Guillén",
+     "Rupert Friend"
+    ],
+    "awards": "2 wins u0026 15 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.9",
+      "votes": 191824,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.0",
+      "votes": 2652,
+      "updatedAt": "2026-09-24T22:10:48.000Z"
+     },
+     "rt": "93%",
+     "metascore": 70,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sophie Thatcher",
+     "character": "Iris",
+     "slug": "sophie-thatcher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rUEPZaDxFdDGM76t4g6cYa8Ru7b.jpg"
+    },
+    {
+     "name": "Jack Quaid",
+     "character": "Josh",
+     "slug": "jack-quaid",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
+    },
+    {
+     "name": "Lukas Gage",
+     "character": "Patrick",
+     "slug": "lukas-gage",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sftjB0MjD92meZqnL9OLtcTI02d.jpg"
+    },
+    {
+     "name": "Megan Suri",
+     "character": "Kat",
+     "slug": "megan-suri",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/krZBtMPTqVvteqYFXbAU6nnQShy.jpg"
+    },
+    {
+     "name": "Harvey Guillén",
+     "character": "Eli",
+     "slug": "harvey-guillen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yiNBonobPwqMVweB02JWufzp2l9.jpg"
+    },
+    {
+     "name": "Rupert Friend",
+     "character": "Sergey",
+     "slug": "rupert-friend",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/a3HeMHmlXnoRlHLX9h31ZdZgCXM.jpg"
+    },
+    {
+     "name": "Jaboukie Young-White",
+     "character": "Teddy",
+     "slug": "jaboukie-young-white",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8OYI8OqsMUpBZica4lM2odjgVH6.jpg"
+    },
+    {
+     "name": "Matthew J. McCarthy",
+     "character": "Sid",
+     "slug": "matthew-j-mccarthy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eHKjDZPdHTz5lV1UySfMdRqMrH6.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Drew Hancock",
+       "slug": "drew-hancock"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Drew Hancock",
+       "slug": "drew-hancock"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hrishikesh Hirway",
+       "slug": "hrishikesh-hirway"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Eli Born",
+       "slug": "eli-born"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Brett W. Bachman",
+       "slug": "brett-w-bachman"
+      },
+      {
+       "name": "Josh Ethier",
+       "slug": "josh-ethier"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Roy Lee",
+       "slug": "roy-lee"
+      },
+      {
+       "name": "Zach Cregger",
+       "slug": "zach-cregger"
+      },
+      {
+       "name": "Raphael Margules",
+       "slug": "raphael-margules"
+      },
+      {
+       "name": "J.D. Lifshitz",
+       "slug": "j-d-lifshitz"
+      },
+      {
+       "name": "Josh Mack",
+       "slug": "josh-mack"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "BoulderLight Pictures",
+     "slug": "boulderlight-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/pxtYCfl1DWzvizqZcYwE4NefOOF.png"
+    },
+    {
+     "name": "New Line Cinema",
+     "slug": "new-line-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/2ycs64eqV5rqKYHyQK0GVoKGvfX.png"
+    },
+    {
+     "name": "Vertigo Entertainment",
+     "slug": "vertigo-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/iJo9zP5QCKyBsmKSOcvXd6UDNih.png"
+    },
+    {
+     "name": "Subconscious",
+     "slug": "subconscious",
+     "logo": "https://image.tmdb.org/t/p/w185/qBN0r3EbLfDwANllIHmQtSRTBaP.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-02-17",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-01-31",
+     "gross": 318570,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 27,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 318570,
+    "totalShows": 27,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 318570
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 318570
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-22"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 265,
+    "title": "Companion",
+    "img": "https://image.tmdb.org/t/p/original/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
+    "released": "2025-01-22",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26584495",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "97 min",
+    "genre": "Horror, Science Fiction, Thriller",
+    "plot": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+    "released": "2025-01-22",
+    "director": "Drew Hancock",
+    "directorSlug": "drew-hancock",
+    "actors": [
+     "Sophie Thatcher",
+     "Jack Quaid",
+     "Lukas Gage",
+     "Megan Suri",
+     "Harvey Guillén",
+     "Rupert Friend"
+    ],
+    "awards": "2 wins u0026 15 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.9",
+      "votes": 191824,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.0",
+      "votes": 2652,
+      "updatedAt": "2026-09-24T22:10:48.000Z"
+     },
+     "rt": "93%",
+     "metascore": 70,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sophie Thatcher",
+     "character": "Iris",
+     "slug": "sophie-thatcher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rUEPZaDxFdDGM76t4g6cYa8Ru7b.jpg"
+    },
+    {
+     "name": "Jack Quaid",
+     "character": "Josh",
+     "slug": "jack-quaid",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
+    },
+    {
+     "name": "Lukas Gage",
+     "character": "Patrick",
+     "slug": "lukas-gage",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sftjB0MjD92meZqnL9OLtcTI02d.jpg"
+    },
+    {
+     "name": "Megan Suri",
+     "character": "Kat",
+     "slug": "megan-suri",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/krZBtMPTqVvteqYFXbAU6nnQShy.jpg"
+    },
+    {
+     "name": "Harvey Guillén",
+     "character": "Eli",
+     "slug": "harvey-guillen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yiNBonobPwqMVweB02JWufzp2l9.jpg"
+    },
+    {
+     "name": "Rupert Friend",
+     "character": "Sergey",
+     "slug": "rupert-friend",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/a3HeMHmlXnoRlHLX9h31ZdZgCXM.jpg"
+    },
+    {
+     "name": "Jaboukie Young-White",
+     "character": "Teddy",
+     "slug": "jaboukie-young-white",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8OYI8OqsMUpBZica4lM2odjgVH6.jpg"
+    },
+    {
+     "name": "Matthew J. McCarthy",
+     "character": "Sid",
+     "slug": "matthew-j-mccarthy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eHKjDZPdHTz5lV1UySfMdRqMrH6.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Drew Hancock",
+       "slug": "drew-hancock"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Drew Hancock",
+       "slug": "drew-hancock"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hrishikesh Hirway",
+       "slug": "hrishikesh-hirway"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Eli Born",
+       "slug": "eli-born"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Brett W. Bachman",
+       "slug": "brett-w-bachman"
+      },
+      {
+       "name": "Josh Ethier",
+       "slug": "josh-ethier"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Roy Lee",
+       "slug": "roy-lee"
+      },
+      {
+       "name": "Zach Cregger",
+       "slug": "zach-cregger"
+      },
+      {
+       "name": "Raphael Margules",
+       "slug": "raphael-margules"
+      },
+      {
+       "name": "J.D. Lifshitz",
+       "slug": "j-d-lifshitz"
+      },
+      {
+       "name": "Josh Mack",
+       "slug": "josh-mack"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "BoulderLight Pictures",
+     "slug": "boulderlight-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/pxtYCfl1DWzvizqZcYwE4NefOOF.png"
+    },
+    {
+     "name": "New Line Cinema",
+     "slug": "new-line-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/2ycs64eqV5rqKYHyQK0GVoKGvfX.png"
+    },
+    {
+     "name": "Vertigo Entertainment",
+     "slug": "vertigo-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/iJo9zP5QCKyBsmKSOcvXd6UDNih.png"
+    },
+    {
+     "name": "Subconscious",
+     "slug": "subconscious",
+     "logo": "https://image.tmdb.org/t/p/w185/qBN0r3EbLfDwANllIHmQtSRTBaP.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-02-17",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 318570,
+    "totalShows": 27,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 261050,
+     "date": "Trivandrum"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 261050,
+     "date": "Trivandrum"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-22"
+   }
+  }
+ }
+}

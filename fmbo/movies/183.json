@@ -1,0 +1,702 @@
+{
+ "id": 183,
+ "slug": "liger",
+ "source_url": "https://fridaymatinee.in/boxoffice/liger-183",
+ "captured_at": "2026-10-01T18:06:03.834380+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 183,
+    "title": "Liger",
+    "img": "https://image.tmdb.org/t/p/original/bBZJAdfmcwhyvkwK1XajnHECdoY.jpg",
+    "released": "2022-08-25",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt4435072",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "138 min",
+    "genre": "Action, Romance",
+    "plot": "The journey of Liger, from Karimnagar to Mumbai, from a nobody to a competitor, in his search for recognition while navigating his weaknesses, relationships, and love life.",
+    "released": "2022-08-25",
+    "director": "Puri Jagannadh",
+    "directorSlug": "puri-jagannadh",
+    "actors": [
+     "Vijay Deverakonda",
+     "Ananya Panday",
+     "Ramya Krishnan",
+     "Ronit Roy",
+     "Makrand Deshpande",
+     "Ali Basha"
+    ],
+    "awards": "2 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "2.6",
+      "votes": 49465,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vijay Deverakonda",
+     "character": "Liger",
+     "slug": "vijay-deverakonda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8oVIWyIoFUal8SJFnmCUtkkm1HP.jpg"
+    },
+    {
+     "name": "Ananya Panday",
+     "character": "Tanya",
+     "slug": "ananya-panday",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AgywmKnKdOJ7HvlNKBc3hADsF1S.jpg"
+    },
+    {
+     "name": "Ramya Krishnan",
+     "character": "Balamani",
+     "slug": "ramya-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kZvSnBTgsMgTsUE5o1yFQnDR3dl.jpg"
+    },
+    {
+     "name": "Ronit Roy",
+     "character": "Raghuveer Bhatnagar",
+     "slug": "ronit-roy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4ki1I9lH2TU0W5ZPMG5T90It9pc.jpg"
+    },
+    {
+     "name": "Makrand Deshpande",
+     "character": null,
+     "slug": "makrand-deshpande",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aGA9mjohVWWTeTmutXikSSCYq9x.jpg"
+    },
+    {
+     "name": "Ali Basha",
+     "character": "Ali",
+     "slug": "ali-basha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg"
+    },
+    {
+     "name": "Getup Srinu",
+     "character": null,
+     "slug": "getup-srinu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xb2lJ213oU3DS6kMkDuqlf7EFeG.jpg"
+    },
+    {
+     "name": "Chunky Panday",
+     "character": "Tanya's Father",
+     "slug": "chunky-panday",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2dG7abdDNs3MVmrAa6HEBFKhch4.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Puri Jagannadh",
+       "slug": "puri-jagannadh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Puri Jagannadh",
+       "slug": "puri-jagannadh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vikram Montrose",
+       "slug": "vikram-montrose"
+      },
+      {
+       "name": "DJ Chetas",
+       "slug": "dj-chetas"
+      },
+      {
+       "name": "Lijo George",
+       "slug": "lijo-george"
+      },
+      {
+       "name": "Tanishk Bagchi",
+       "slug": "tanishk-bagchi"
+      },
+      {
+       "name": "Sunil Kashyap",
+       "slug": "sunil-kashyap"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vishnu Sarma",
+       "slug": "vishnu-sarma"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Junaid Siddiqui",
+       "slug": "junaid-siddiqui"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Yash Johar",
+       "slug": "yash-johar"
+      },
+      {
+       "name": "Karan Johar",
+       "slug": "karan-johar"
+      },
+      {
+       "name": "Charmy Kaur",
+       "slug": "charmy-kaur"
+      },
+      {
+       "name": "Apoorva Mehta",
+       "slug": "apoorva-mehta"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Dharma Productions",
+     "slug": "dharma-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/5Ff25ornzVNhm5skuAvMAR556NB.png"
+    },
+    {
+     "name": "Puri Connects",
+     "slug": "puri-connects",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3306621.5999999996,
+    "totalShows": 1853,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 1702147.8,
+     "date": "2022-08-25"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1702147.8,
+     "date": "2022-08-25"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-08-25"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 183,
+    "title": "Liger",
+    "img": "https://image.tmdb.org/t/p/original/bBZJAdfmcwhyvkwK1XajnHECdoY.jpg",
+    "released": "2022-08-25",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt4435072",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "138 min",
+    "genre": "Action, Romance",
+    "plot": "The journey of Liger, from Karimnagar to Mumbai, from a nobody to a competitor, in his search for recognition while navigating his weaknesses, relationships, and love life.",
+    "released": "2022-08-25",
+    "director": "Puri Jagannadh",
+    "directorSlug": "puri-jagannadh",
+    "actors": [
+     "Vijay Deverakonda",
+     "Ananya Panday",
+     "Ramya Krishnan",
+     "Ronit Roy",
+     "Makrand Deshpande",
+     "Ali Basha"
+    ],
+    "awards": "2 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "2.6",
+      "votes": 49465,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vijay Deverakonda",
+     "character": "Liger",
+     "slug": "vijay-deverakonda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8oVIWyIoFUal8SJFnmCUtkkm1HP.jpg"
+    },
+    {
+     "name": "Ananya Panday",
+     "character": "Tanya",
+     "slug": "ananya-panday",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AgywmKnKdOJ7HvlNKBc3hADsF1S.jpg"
+    },
+    {
+     "name": "Ramya Krishnan",
+     "character": "Balamani",
+     "slug": "ramya-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kZvSnBTgsMgTsUE5o1yFQnDR3dl.jpg"
+    },
+    {
+     "name": "Ronit Roy",
+     "character": "Raghuveer Bhatnagar",
+     "slug": "ronit-roy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4ki1I9lH2TU0W5ZPMG5T90It9pc.jpg"
+    },
+    {
+     "name": "Makrand Deshpande",
+     "character": null,
+     "slug": "makrand-deshpande",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aGA9mjohVWWTeTmutXikSSCYq9x.jpg"
+    },
+    {
+     "name": "Ali Basha",
+     "character": "Ali",
+     "slug": "ali-basha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg"
+    },
+    {
+     "name": "Getup Srinu",
+     "character": null,
+     "slug": "getup-srinu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xb2lJ213oU3DS6kMkDuqlf7EFeG.jpg"
+    },
+    {
+     "name": "Chunky Panday",
+     "character": "Tanya's Father",
+     "slug": "chunky-panday",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2dG7abdDNs3MVmrAa6HEBFKhch4.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Puri Jagannadh",
+       "slug": "puri-jagannadh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Puri Jagannadh",
+       "slug": "puri-jagannadh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vikram Montrose",
+       "slug": "vikram-montrose"
+      },
+      {
+       "name": "DJ Chetas",
+       "slug": "dj-chetas"
+      },
+      {
+       "name": "Lijo George",
+       "slug": "lijo-george"
+      },
+      {
+       "name": "Tanishk Bagchi",
+       "slug": "tanishk-bagchi"
+      },
+      {
+       "name": "Sunil Kashyap",
+       "slug": "sunil-kashyap"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vishnu Sarma",
+       "slug": "vishnu-sarma"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Junaid Siddiqui",
+       "slug": "junaid-siddiqui"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Yash Johar",
+       "slug": "yash-johar"
+      },
+      {
+       "name": "Karan Johar",
+       "slug": "karan-johar"
+      },
+      {
+       "name": "Charmy Kaur",
+       "slug": "charmy-kaur"
+      },
+      {
+       "name": "Apoorva Mehta",
+       "slug": "apoorva-mehta"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Dharma Productions",
+     "slug": "dharma-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/5Ff25ornzVNhm5skuAvMAR556NB.png"
+    },
+    {
+     "name": "Puri Connects",
+     "slug": "puri-connects",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-08-25",
+     "gross": 3306621.6,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1852,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-09-01",
+     "gross": 0,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3306621.6,
+    "totalShows": 1853,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 3306621.6
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3306621.6
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-08-25"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 183,
+    "title": "Liger",
+    "img": "https://image.tmdb.org/t/p/original/bBZJAdfmcwhyvkwK1XajnHECdoY.jpg",
+    "released": "2022-08-25",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt4435072",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "138 min",
+    "genre": "Action, Romance",
+    "plot": "The journey of Liger, from Karimnagar to Mumbai, from a nobody to a competitor, in his search for recognition while navigating his weaknesses, relationships, and love life.",
+    "released": "2022-08-25",
+    "director": "Puri Jagannadh",
+    "directorSlug": "puri-jagannadh",
+    "actors": [
+     "Vijay Deverakonda",
+     "Ananya Panday",
+     "Ramya Krishnan",
+     "Ronit Roy",
+     "Makrand Deshpande",
+     "Ali Basha"
+    ],
+    "awards": "2 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "2.6",
+      "votes": 49465,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vijay Deverakonda",
+     "character": "Liger",
+     "slug": "vijay-deverakonda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8oVIWyIoFUal8SJFnmCUtkkm1HP.jpg"
+    },
+    {
+     "name": "Ananya Panday",
+     "character": "Tanya",
+     "slug": "ananya-panday",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AgywmKnKdOJ7HvlNKBc3hADsF1S.jpg"
+    },
+    {
+     "name": "Ramya Krishnan",
+     "character": "Balamani",
+     "slug": "ramya-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kZvSnBTgsMgTsUE5o1yFQnDR3dl.jpg"
+    },
+    {
+     "name": "Ronit Roy",
+     "character": "Raghuveer Bhatnagar",
+     "slug": "ronit-roy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4ki1I9lH2TU0W5ZPMG5T90It9pc.jpg"
+    },
+    {
+     "name": "Makrand Deshpande",
+     "character": null,
+     "slug": "makrand-deshpande",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aGA9mjohVWWTeTmutXikSSCYq9x.jpg"
+    },
+    {
+     "name": "Ali Basha",
+     "character": "Ali",
+     "slug": "ali-basha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg"
+    },
+    {
+     "name": "Getup Srinu",
+     "character": null,
+     "slug": "getup-srinu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xb2lJ213oU3DS6kMkDuqlf7EFeG.jpg"
+    },
+    {
+     "name": "Chunky Panday",
+     "character": "Tanya's Father",
+     "slug": "chunky-panday",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2dG7abdDNs3MVmrAa6HEBFKhch4.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Puri Jagannadh",
+       "slug": "puri-jagannadh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Puri Jagannadh",
+       "slug": "puri-jagannadh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vikram Montrose",
+       "slug": "vikram-montrose"
+      },
+      {
+       "name": "DJ Chetas",
+       "slug": "dj-chetas"
+      },
+      {
+       "name": "Lijo George",
+       "slug": "lijo-george"
+      },
+      {
+       "name": "Tanishk Bagchi",
+       "slug": "tanishk-bagchi"
+      },
+      {
+       "name": "Sunil Kashyap",
+       "slug": "sunil-kashyap"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vishnu Sarma",
+       "slug": "vishnu-sarma"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Junaid Siddiqui",
+       "slug": "junaid-siddiqui"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Yash Johar",
+       "slug": "yash-johar"
+      },
+      {
+       "name": "Karan Johar",
+       "slug": "karan-johar"
+      },
+      {
+       "name": "Charmy Kaur",
+       "slug": "charmy-kaur"
+      },
+      {
+       "name": "Apoorva Mehta",
+       "slug": "apoorva-mehta"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Dharma Productions",
+     "slug": "dharma-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/5Ff25ornzVNhm5skuAvMAR556NB.png"
+    },
+    {
+     "name": "Puri Connects",
+     "slug": "puri-connects",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3306621.6,
+    "totalShows": 1853,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 771461,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 771461,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-08-25"
+   }
+  }
+ }
+}

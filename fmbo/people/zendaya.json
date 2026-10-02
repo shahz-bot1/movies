@@ -1,0 +1,55 @@
+{
+ "slug": "zendaya",
+ "name": "Zendaya",
+ "source_url": "https://fridaymatinee.in/people/zendaya",
+ "captured_at": "2026-10-02T12:13:53.885313+00:00",
+ "person": {
+  "name": "Zendaya",
+  "photo": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 96,
+   "movie_slug": "spider-man-no-way-home",
+   "title": "Spider Man No Way Home",
+   "year": 2021,
+   "kerala_gross": "₹11.5 Cr"
+  },
+  {
+   "movie_id": 498,
+   "movie_slug": "dune-part-two",
+   "title": "Dune: Part Two",
+   "year": 2024,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 1051,
+   "movie_slug": "the-drama",
+   "title": "The Drama",
+   "year": 2026,
+   "kerala_gross": "₹7.2L"
+  },
+  {
+   "movie_id": 675,
+   "movie_slug": "spider-man-brand-new-day",
+   "title": "Spider-Man: Brand New Day",
+   "year": 2026,
+   "kerala_gross": "₹35.7 Cr"
+  },
+  {
+   "movie_id": 778,
+   "movie_slug": "dune-part-three",
+   "title": "Dune: Part Three",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

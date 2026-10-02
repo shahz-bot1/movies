@@ -1,0 +1,46 @@
+{
+ "slug": "arjun-lal",
+ "name": "Arjun Lal",
+ "source_url": "https://fridaymatinee.in/people/arjun-lal",
+ "captured_at": "2026-10-01T20:53:05.626720+00:00",
+ "person": {
+  "name": "Arjun Lal",
+  "photo": "https://image.tmdb.org/t/p/w185/5IfBGN1r3cJmYQgC9vQIWmfqJ9t.jpg",
+  "role": "Actor and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 147,
+   "movie_slug": "dear-friend",
+   "title": "Dear Friend",
+   "year": 2022,
+   "kerala_gross": "₹34.2L"
+  },
+  {
+   "movie_id": 489,
+   "movie_slug": "varshangalkku-shesham",
+   "title": "Varshangalkku Shesham",
+   "year": 2024,
+   "kerala_gross": "₹31.2 Cr"
+  },
+  {
+   "movie_id": 995,
+   "movie_slug": "anomie",
+   "title": "Anomie",
+   "year": 2026,
+   "kerala_gross": "₹2.7 Cr"
+  }
+ ]
+}

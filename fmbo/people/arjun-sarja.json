@@ -1,0 +1,91 @@
+{
+ "slug": "arjun-sarja",
+ "name": "Arjun Sarja",
+ "source_url": "https://fridaymatinee.in/people/arjun-sarja",
+ "captured_at": "2026-10-01T20:53:36.265961+00:00",
+ "person": {
+  "name": "Arjun Sarja",
+  "photo": "https://image.tmdb.org/t/p/w185/fQ0yTvyDdykFxfHNYKNfRKzlCyz.jpg",
+  "role": "Actor, director, producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 8
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 33,
+   "movie_slug": "jack-daniel",
+   "title": "Jack Daniel ",
+   "year": 2019,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 89,
+   "movie_slug": "marakkar",
+   "title": "Marakkar",
+   "year": 2021,
+   "kerala_gross": "₹13.7 Cr"
+  },
+  {
+   "movie_id": 430,
+   "movie_slug": "leo",
+   "title": "Leo",
+   "year": 2023,
+   "kerala_gross": "₹47.4 Cr"
+  },
+  {
+   "movie_id": 647,
+   "movie_slug": "vidaamuyarchi",
+   "title": "Vidaamuyarchi",
+   "year": 2025,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 922,
+   "movie_slug": "theeyavar-kulaigal-nadunga",
+   "title": "Theeyavar Kulaigal Nadunga",
+   "year": 2025,
+   "kerala_gross": "₹10.8L"
+  },
+  {
+   "movie_id": 986,
+   "movie_slug": "mankatha",
+   "title": "Mankatha",
+   "year": 2026,
+   "kerala_gross": "₹12.9L"
+  },
+  {
+   "movie_id": 1011,
+   "movie_slug": "seetha-payanam",
+   "title": "Seetha Payanam",
+   "year": 2026,
+   "kerala_gross": "₹36K"
+  },
+  {
+   "movie_id": 1122,
+   "movie_slug": "blast",
+   "title": "Blast",
+   "year": 2026,
+   "kerala_gross": "₹13.0 Cr"
+  }
+ ]
+}

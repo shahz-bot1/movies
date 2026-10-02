@@ -1,0 +1,730 @@
+{
+ "id": 434,
+ "slug": "jaat",
+ "source_url": "https://fridaymatinee.in/boxoffice/jaat-434",
+ "captured_at": "2026-10-01T18:12:15.611345+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 434,
+    "title": "Jaat",
+    "img": "https://image.tmdb.org/t/p/original/guTflsCTgLNqTbpHTi9gJANk1Rf.jpg",
+    "released": "2025-04-10",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32223398",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "TV-MA",
+    "runtime": "153 min",
+    "genre": "Crime, Action, Thriller",
+    "plot": "A mysterious stranger journeys to a remote town controlled by a callous crime lord, with one violent mission — restoring justice to its people.",
+    "released": "2025-04-10",
+    "director": "Gopichand Malineni",
+    "directorSlug": "gopichand-malineni",
+    "actors": [
+     "Sunny Deol",
+     "Randeep Hooda",
+     "Saiyami Kher",
+     "Regina Cassandra",
+     "Vineet Kumar Singh",
+     "Ramya Krishnan"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 13605,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "36%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sunny Deol",
+     "character": "Jaat",
+     "slug": "sunny-deol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w9RenJriQVys2k5fa9ojkXpYMwO.jpg"
+    },
+    {
+     "name": "Randeep Hooda",
+     "character": "Ranatunga",
+     "slug": "randeep-hooda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6Raio06bsLalCe4XDsknXxfDamV.jpg"
+    },
+    {
+     "name": "Saiyami Kher",
+     "character": "SI Vijaya Lakshmi",
+     "slug": "saiyami-kher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vdnJuFv8WUgBvaLBb6dDXlDkEma.jpg"
+    },
+    {
+     "name": "Regina Cassandra",
+     "character": "Bharathi",
+     "slug": "regina-cassandra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aWFogAoGomUDAXMD8kp7dlZJrlA.jpg"
+    },
+    {
+     "name": "Vineet Kumar Singh",
+     "character": "Somulu",
+     "slug": "vineet-kumar-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8mDoHcQQ82f7FYK8B22VK9DLkLA.jpg"
+    },
+    {
+     "name": "Ramya Krishnan",
+     "character": "Vasundhara",
+     "slug": "ramya-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kZvSnBTgsMgTsUE5o1yFQnDR3dl.jpg"
+    },
+    {
+     "name": "Jagapati Babu",
+     "character": "Satyamurthi C.B.I.",
+     "slug": "jagapati-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg"
+    },
+    {
+     "name": "Vinay Varma",
+     "character": "SP Vivek Kumar",
+     "slug": "vinay-varma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8qmMnrMMzHOOOvz3k8SqVAqP7dJ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Gopichand Malineni",
+       "slug": "gopichand-malineni"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Gopichand Malineni",
+       "slug": "gopichand-malineni"
+      },
+      {
+       "name": "M. Vivek Anand",
+       "slug": "m-vivek-anand"
+      },
+      {
+       "name": "Nimmagadda Srikanth",
+       "slug": "nimmagadda-srikanth"
+      },
+      {
+       "name": "Srinivas Gavireddy",
+       "slug": "srinivas-gavireddy"
+      },
+      {
+       "name": "Mayukh Aditya",
+       "slug": "mayukh-aditya"
+      },
+      {
+       "name": "Krushna Hari",
+       "slug": "krushna-hari"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "S. Thaman",
+       "slug": "s-thaman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Rishi Punjabi",
+       "slug": "rishi-punjabi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Naveen Nooli",
+       "slug": "naveen-nooli"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "T G Vishwa Prasad",
+       "slug": "t-g-vishwa-prasad"
+      },
+      {
+       "name": "Naveen Yerneni",
+       "slug": "naveen-yerneni"
+      },
+      {
+       "name": "Y. Ravi Shankar",
+       "slug": "y-ravi-shankar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mythri Movie Makers",
+     "slug": "mythri-movie-makers",
+     "logo": "https://image.tmdb.org/t/p/w185/7kRvsVRhT76VTbhGLgJ2CrTgdpa.png"
+    },
+    {
+     "name": "People Media Factory",
+     "slug": "people-media-factory",
+     "logo": null
+    },
+    {
+     "name": "Zee Studios",
+     "slug": "zee-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-06-05",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1811289,
+    "totalShows": 315,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 198861,
+     "date": "2025-04-10"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 346418,
+     "date": "2025-04-13"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-04-10"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 434,
+    "title": "Jaat",
+    "img": "https://image.tmdb.org/t/p/original/guTflsCTgLNqTbpHTi9gJANk1Rf.jpg",
+    "released": "2025-04-10",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32223398",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "TV-MA",
+    "runtime": "153 min",
+    "genre": "Crime, Action, Thriller",
+    "plot": "A mysterious stranger journeys to a remote town controlled by a callous crime lord, with one violent mission — restoring justice to its people.",
+    "released": "2025-04-10",
+    "director": "Gopichand Malineni",
+    "directorSlug": "gopichand-malineni",
+    "actors": [
+     "Sunny Deol",
+     "Randeep Hooda",
+     "Saiyami Kher",
+     "Regina Cassandra",
+     "Vineet Kumar Singh",
+     "Ramya Krishnan"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 13605,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "36%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sunny Deol",
+     "character": "Jaat",
+     "slug": "sunny-deol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w9RenJriQVys2k5fa9ojkXpYMwO.jpg"
+    },
+    {
+     "name": "Randeep Hooda",
+     "character": "Ranatunga",
+     "slug": "randeep-hooda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6Raio06bsLalCe4XDsknXxfDamV.jpg"
+    },
+    {
+     "name": "Saiyami Kher",
+     "character": "SI Vijaya Lakshmi",
+     "slug": "saiyami-kher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vdnJuFv8WUgBvaLBb6dDXlDkEma.jpg"
+    },
+    {
+     "name": "Regina Cassandra",
+     "character": "Bharathi",
+     "slug": "regina-cassandra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aWFogAoGomUDAXMD8kp7dlZJrlA.jpg"
+    },
+    {
+     "name": "Vineet Kumar Singh",
+     "character": "Somulu",
+     "slug": "vineet-kumar-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8mDoHcQQ82f7FYK8B22VK9DLkLA.jpg"
+    },
+    {
+     "name": "Ramya Krishnan",
+     "character": "Vasundhara",
+     "slug": "ramya-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kZvSnBTgsMgTsUE5o1yFQnDR3dl.jpg"
+    },
+    {
+     "name": "Jagapati Babu",
+     "character": "Satyamurthi C.B.I.",
+     "slug": "jagapati-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg"
+    },
+    {
+     "name": "Vinay Varma",
+     "character": "SP Vivek Kumar",
+     "slug": "vinay-varma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8qmMnrMMzHOOOvz3k8SqVAqP7dJ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Gopichand Malineni",
+       "slug": "gopichand-malineni"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Gopichand Malineni",
+       "slug": "gopichand-malineni"
+      },
+      {
+       "name": "M. Vivek Anand",
+       "slug": "m-vivek-anand"
+      },
+      {
+       "name": "Nimmagadda Srikanth",
+       "slug": "nimmagadda-srikanth"
+      },
+      {
+       "name": "Srinivas Gavireddy",
+       "slug": "srinivas-gavireddy"
+      },
+      {
+       "name": "Mayukh Aditya",
+       "slug": "mayukh-aditya"
+      },
+      {
+       "name": "Krushna Hari",
+       "slug": "krushna-hari"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "S. Thaman",
+       "slug": "s-thaman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Rishi Punjabi",
+       "slug": "rishi-punjabi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Naveen Nooli",
+       "slug": "naveen-nooli"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "T G Vishwa Prasad",
+       "slug": "t-g-vishwa-prasad"
+      },
+      {
+       "name": "Naveen Yerneni",
+       "slug": "naveen-yerneni"
+      },
+      {
+       "name": "Y. Ravi Shankar",
+       "slug": "y-ravi-shankar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mythri Movie Makers",
+     "slug": "mythri-movie-makers",
+     "logo": "https://image.tmdb.org/t/p/w185/7kRvsVRhT76VTbhGLgJ2CrTgdpa.png"
+    },
+    {
+     "name": "People Media Factory",
+     "slug": "people-media-factory",
+     "logo": null
+    },
+    {
+     "name": "Zee Studios",
+     "slug": "zee-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-06-05",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-04-10",
+     "gross": 1287556,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 191,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-04-17",
+     "gross": 516613,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 119,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-04-24",
+     "gross": 7120,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1811289,
+    "totalShows": 315,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 1287556
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1287556
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-04-10"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 434,
+    "title": "Jaat",
+    "img": "https://image.tmdb.org/t/p/original/guTflsCTgLNqTbpHTi9gJANk1Rf.jpg",
+    "released": "2025-04-10",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32223398",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "TV-MA",
+    "runtime": "153 min",
+    "genre": "Crime, Action, Thriller",
+    "plot": "A mysterious stranger journeys to a remote town controlled by a callous crime lord, with one violent mission — restoring justice to its people.",
+    "released": "2025-04-10",
+    "director": "Gopichand Malineni",
+    "directorSlug": "gopichand-malineni",
+    "actors": [
+     "Sunny Deol",
+     "Randeep Hooda",
+     "Saiyami Kher",
+     "Regina Cassandra",
+     "Vineet Kumar Singh",
+     "Ramya Krishnan"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 13605,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "36%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sunny Deol",
+     "character": "Jaat",
+     "slug": "sunny-deol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w9RenJriQVys2k5fa9ojkXpYMwO.jpg"
+    },
+    {
+     "name": "Randeep Hooda",
+     "character": "Ranatunga",
+     "slug": "randeep-hooda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6Raio06bsLalCe4XDsknXxfDamV.jpg"
+    },
+    {
+     "name": "Saiyami Kher",
+     "character": "SI Vijaya Lakshmi",
+     "slug": "saiyami-kher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vdnJuFv8WUgBvaLBb6dDXlDkEma.jpg"
+    },
+    {
+     "name": "Regina Cassandra",
+     "character": "Bharathi",
+     "slug": "regina-cassandra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aWFogAoGomUDAXMD8kp7dlZJrlA.jpg"
+    },
+    {
+     "name": "Vineet Kumar Singh",
+     "character": "Somulu",
+     "slug": "vineet-kumar-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8mDoHcQQ82f7FYK8B22VK9DLkLA.jpg"
+    },
+    {
+     "name": "Ramya Krishnan",
+     "character": "Vasundhara",
+     "slug": "ramya-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kZvSnBTgsMgTsUE5o1yFQnDR3dl.jpg"
+    },
+    {
+     "name": "Jagapati Babu",
+     "character": "Satyamurthi C.B.I.",
+     "slug": "jagapati-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg"
+    },
+    {
+     "name": "Vinay Varma",
+     "character": "SP Vivek Kumar",
+     "slug": "vinay-varma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8qmMnrMMzHOOOvz3k8SqVAqP7dJ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Gopichand Malineni",
+       "slug": "gopichand-malineni"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Gopichand Malineni",
+       "slug": "gopichand-malineni"
+      },
+      {
+       "name": "M. Vivek Anand",
+       "slug": "m-vivek-anand"
+      },
+      {
+       "name": "Nimmagadda Srikanth",
+       "slug": "nimmagadda-srikanth"
+      },
+      {
+       "name": "Srinivas Gavireddy",
+       "slug": "srinivas-gavireddy"
+      },
+      {
+       "name": "Mayukh Aditya",
+       "slug": "mayukh-aditya"
+      },
+      {
+       "name": "Krushna Hari",
+       "slug": "krushna-hari"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "S. Thaman",
+       "slug": "s-thaman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Rishi Punjabi",
+       "slug": "rishi-punjabi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Naveen Nooli",
+       "slug": "naveen-nooli"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "T G Vishwa Prasad",
+       "slug": "t-g-vishwa-prasad"
+      },
+      {
+       "name": "Naveen Yerneni",
+       "slug": "naveen-yerneni"
+      },
+      {
+       "name": "Y. Ravi Shankar",
+       "slug": "y-ravi-shankar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mythri Movie Makers",
+     "slug": "mythri-movie-makers",
+     "logo": "https://image.tmdb.org/t/p/w185/7kRvsVRhT76VTbhGLgJ2CrTgdpa.png"
+    },
+    {
+     "name": "People Media Factory",
+     "slug": "people-media-factory",
+     "logo": null
+    },
+    {
+     "name": "Zee Studios",
+     "slug": "zee-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-06-05",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1811289,
+    "totalShows": 315,
+    "totalDays": 11,
+    "openingDay": {
+     "day": 1,
+     "gross": 787108,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 787108,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-04-10"
+   }
+  }
+ }
+}

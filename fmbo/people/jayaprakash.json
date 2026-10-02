@@ -1,0 +1,62 @@
+{
+ "slug": "jayaprakash",
+ "name": "Jayaprakash",
+ "source_url": "https://fridaymatinee.in/people/jayaprakash",
+ "captured_at": "2026-10-01T23:06:05.764370+00:00",
+ "person": {
+  "name": "Jayaprakash",
+  "photo": "https://image.tmdb.org/t/p/w185/eyYfMqy7NsED7SYrAzaso9ZjLT5.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 114,
+   "movie_slug": "etharkkum-thunindhavan",
+   "title": "Etharkkum Thunindhavan",
+   "year": 2022,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 492,
+   "movie_slug": "captain-miller",
+   "title": "Captain Miller",
+   "year": 2024,
+   "kerala_gross": "₹3.3 Cr"
+  },
+  {
+   "movie_id": 580,
+   "movie_slug": "meiyazhagan",
+   "title": "Meiyazhagan",
+   "year": 2024,
+   "kerala_gross": "₹67.2L"
+  },
+  {
+   "movie_id": 986,
+   "movie_slug": "mankatha",
+   "title": "Mankatha",
+   "year": 2026,
+   "kerala_gross": "₹12.9L"
+  },
+  {
+   "movie_id": 1009,
+   "movie_slug": "my-lord",
+   "title": "My Lord",
+   "year": 2026,
+   "kerala_gross": "₹4.5L"
+  },
+  {
+   "movie_id": 1231,
+   "movie_slug": "magudam",
+   "title": "Magudam",
+   "year": 2026,
+   "kerala_gross": "₹7.0L"
+  }
+ ]
+}

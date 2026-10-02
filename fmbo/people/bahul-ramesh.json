@@ -1,0 +1,46 @@
+{
+ "slug": "bahul-ramesh",
+ "name": "Bahul Ramesh",
+ "source_url": "https://fridaymatinee.in/people/bahul-ramesh",
+ "captured_at": "2026-10-01T21:08:35.246638+00:00",
+ "person": {
+  "name": "Bahul Ramesh",
+  "photo": "https://image.tmdb.org/t/p/w185/vf0Bqfb5Xg5Yulk07l5CbNPsoi0.jpg",
+  "role": "Cinematography and writer"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 3
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 74,
+   "movie_slug": "mohan-kumar-fans",
+   "title": "Mohan Kumar Fans",
+   "year": 2021,
+   "kerala_gross": "₹54.1L"
+  },
+  {
+   "movie_id": 562,
+   "movie_slug": "kishkindha-kaandam",
+   "title": "Kishkindha Kaandam",
+   "year": 2024,
+   "kerala_gross": "₹34.1 Cr"
+  },
+  {
+   "movie_id": 918,
+   "movie_slug": "eko",
+   "title": "Eko",
+   "year": 2025,
+   "kerala_gross": "₹20.3 Cr"
+  }
+ ]
+}

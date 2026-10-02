@@ -1,0 +1,97 @@
+{
+ "slug": "swasika",
+ "name": "Swasika",
+ "source_url": "https://fridaymatinee.in/people/swasika",
+ "captured_at": "2026-10-02T11:11:49.185847+00:00",
+ "person": {
+  "name": "Swasika",
+  "photo": "https://image.tmdb.org/t/p/w185/7LWxyKwGH5S1ZwEEjlbBcDUJKk8.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 11
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 107,
+   "movie_slug": "aaraattu",
+   "title": "Aaraattu",
+   "year": 2022,
+   "kerala_gross": "₹7.2 Cr"
+  },
+  {
+   "movie_id": 226,
+   "movie_slug": "monster",
+   "title": "Monster",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 233,
+   "movie_slug": "kumari",
+   "title": "Kumari",
+   "year": 2022,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 550,
+   "movie_slug": "nunakkuzhi",
+   "title": "Nunakkuzhi",
+   "year": 2024,
+   "kerala_gross": "₹11.0 Cr"
+  },
+  {
+   "movie_id": 252,
+   "movie_slug": "oru-anweshanathinte-thudakkam",
+   "title": "Oru Anweshanathinte Thudakkam",
+   "year": 2024,
+   "kerala_gross": "₹30.8L"
+  },
+  {
+   "movie_id": 194,
+   "movie_slug": "randaam-yaamam",
+   "title": "Randaam Yaamam",
+   "year": 2025,
+   "kerala_gross": "₹4.0L"
+  },
+  {
+   "movie_id": 678,
+   "movie_slug": "retro",
+   "title": "Retro",
+   "year": 2025,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 1106,
+   "movie_slug": "karuppu",
+   "title": "Karuppu",
+   "year": 2026,
+   "kerala_gross": "₹11.0 Cr"
+  },
+  {
+   "movie_id": 1164,
+   "movie_slug": "nooru-sami",
+   "title": "Nooru Sami",
+   "year": 2026,
+   "kerala_gross": "₹5.2L"
+  },
+  {
+   "movie_id": 1239,
+   "movie_slug": "irumudi",
+   "title": "Irumudi",
+   "year": 2026,
+   "kerala_gross": "₹10.1L"
+  },
+  {
+   "movie_id": 1295,
+   "movie_slug": "aakasam-lo-oka-tara",
+   "title": "Aakasam Lo Oka Tara",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

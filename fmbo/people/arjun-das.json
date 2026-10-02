@@ -1,0 +1,62 @@
+{
+ "slug": "arjun-das",
+ "name": "Arjun Das",
+ "source_url": "https://fridaymatinee.in/people/arjun-das",
+ "captured_at": "2026-10-01T20:52:44.243501+00:00",
+ "person": {
+  "name": "Arjun Das",
+  "photo": "https://image.tmdb.org/t/p/w185/20RDzfTjpfRHxLYBfnIYXs7vcri.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 21,
+   "movie_slug": "kaithi",
+   "title": "Kaithi",
+   "year": 2019,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 64,
+   "movie_slug": "master",
+   "title": "Master",
+   "year": 2021,
+   "kerala_gross": "₹4.1 Cr"
+  },
+  {
+   "movie_id": 664,
+   "movie_slug": "good-bad-ugly",
+   "title": "Good Bad Ugly",
+   "year": 2025,
+   "kerala_gross": "₹3.9 Cr"
+  },
+  {
+   "movie_id": 827,
+   "movie_slug": "they-call-him-og",
+   "title": "They Call Him OG",
+   "year": 2025,
+   "kerala_gross": "₹36.6L"
+  },
+  {
+   "movie_id": 1171,
+   "movie_slug": "con-city",
+   "title": "Con City",
+   "year": 2026,
+   "kerala_gross": "₹3.3L"
+  },
+  {
+   "movie_id": 1255,
+   "movie_slug": "once-more",
+   "title": "Once More",
+   "year": 2026,
+   "kerala_gross": "₹2.8L"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "vijay-kiragandur",
+ "name": "Vijay Kiragandur",
+ "source_url": "https://fridaymatinee.in/people/vijay-kiragandur",
+ "captured_at": "2026-10-02T11:43:42.841652+00:00",
+ "person": {
+  "name": "Vijay Kiragandur",
+  "photo": "https://image.tmdb.org/t/p/w185/pg7DHf5WArf8YIIIOLd3qObOEDa.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 124,
+   "movie_slug": "kgf-chapter-2",
+   "title": "KGF Chapter 2",
+   "year": 2022,
+   "kerala_gross": "₹52.5 Cr"
+  },
+  {
+   "movie_id": 225,
+   "movie_slug": "kantara",
+   "title": "Kantara",
+   "year": 2022,
+   "kerala_gross": "₹12.0 Cr"
+  },
+  {
+   "movie_id": 398,
+   "movie_slug": "dhoomam",
+   "title": "Dhoomam",
+   "year": 2023,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 478,
+   "movie_slug": "salaar-part-1-ceasefire",
+   "title": "Salaar: Part 1 - Ceasefire",
+   "year": 2023,
+   "kerala_gross": "₹12.5 Cr"
+  },
+  {
+   "movie_id": 825,
+   "movie_slug": "kantara-chapter-1",
+   "title": "Kantara Chapter 1",
+   "year": 2025,
+   "kerala_gross": "₹51.0 Cr"
+  }
+ ]
+}

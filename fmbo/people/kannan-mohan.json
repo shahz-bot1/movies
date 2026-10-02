@@ -1,0 +1,41 @@
+{
+ "slug": "kannan-mohan",
+ "name": "Kannan Mohan",
+ "source_url": "https://fridaymatinee.in/people/kannan-mohan",
+ "captured_at": "2026-10-01T23:39:15.433086+00:00",
+ "person": {
+  "name": "Kannan Mohan",
+  "photo": null,
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 549,
+   "movie_slug": "vaazha",
+   "title": "Vaazha",
+   "year": 2024,
+   "kerala_gross": "₹24.4 Cr"
+  },
+  {
+   "movie_id": 779,
+   "movie_slug": "maine-pyar-kiya",
+   "title": "Maine Pyar Kiya",
+   "year": 2025,
+   "kerala_gross": "₹37.1L"
+  },
+  {
+   "movie_id": 1048,
+   "movie_slug": "vaazha-ii",
+   "title": "Vaazha II",
+   "year": 2026,
+   "kerala_gross": "₹119.7 Cr"
+  }
+ ]
+}

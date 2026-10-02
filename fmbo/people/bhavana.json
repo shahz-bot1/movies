@@ -1,0 +1,53 @@
+{
+ "slug": "bhavana",
+ "name": "Bhavana",
+ "source_url": "https://fridaymatinee.in/people/bhavana",
+ "captured_at": "2026-10-01T21:15:51.992441+00:00",
+ "person": {
+  "name": "Bhavana",
+  "photo": "https://image.tmdb.org/t/p/w185/aU39ta3luwvLbkrcJbXXSfoPtfu.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 299,
+   "movie_slug": "ntikkakkakkoru-premondarnn",
+   "title": "Ntikkakkakkoru Premondarnn",
+   "year": 2023,
+   "kerala_gross": "₹44.3L"
+  },
+  {
+   "movie_id": 555,
+   "movie_slug": "hunt",
+   "title": "Hunt",
+   "year": 2024,
+   "kerala_gross": "₹37.6L"
+  },
+  {
+   "movie_id": 995,
+   "movie_slug": "anomie",
+   "title": "Anomie",
+   "year": 2026,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 517,
+   "movie_slug": "nadikar",
+   "title": "Nadikar",
+   "year": 2024,
+   "kerala_gross": "₹3.0 Cr"
+  }
+ ]
+}

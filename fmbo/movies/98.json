@@ -1,0 +1,609 @@
+{
+ "id": 98,
+ "slug": "kunjeldho",
+ "source_url": "https://fridaymatinee.in/boxoffice/kunjeldho-98",
+ "captured_at": "2026-10-01T18:00:55.787449+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 98,
+    "title": "Kunjeldho",
+    "img": "https://image.tmdb.org/t/p/original/5Dk5AEIgrY6bnAdQwTGULa4gc1h.jpg",
+    "released": "2021-12-24",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10452434",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Comedy",
+    "plot": "Kunjeldho, an undergraduate student, falls in love with his classmate Nivedita. Problems arise when Nivedita gets pregnant.",
+    "released": "2021-12-24",
+    "director": "Mathukutty",
+    "directorSlug": "mathukutty",
+    "actors": [
+     "Asif Ali",
+     "Gopika Udayan",
+     "Siddique",
+     "Rekha",
+     "Sudheesh",
+     "Margret Antony"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.7",
+      "votes": 380,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:36.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Asif Ali",
+     "character": "Kunjeldho",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Gopika Udayan",
+     "character": "Niveditha",
+     "slug": "gopika-udayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pAorpWR3YQ1pnTpTwQ9N4Neidny.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Professor Gheevarghese",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Rekha",
+     "character": null,
+     "slug": "rekha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uDjm90jaCkeoTNRHakMh1liLKwj.jpg"
+    },
+    {
+     "name": "Sudheesh",
+     "character": "John",
+     "slug": "sudheesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bDVEN345ccxDhcWD47a9qh0a7WH.jpg"
+    },
+    {
+     "name": "Margret Antony",
+     "character": null,
+     "slug": "margret-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1EEHkZjtqd4K7kP3ES1rwGJAuej.jpg"
+    },
+    {
+     "name": "Krittika Pradeep",
+     "character": "Shalini",
+     "slug": "krittika-pradeep",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lj54FUqnlV7Zsk43cnU2FYyk74i.jpg"
+    },
+    {
+     "name": "Arjun Gopal",
+     "character": null,
+     "slug": "arjun-gopal",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Mathukutty",
+       "slug": "mathukutty"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Mathukutty",
+       "slug": "mathukutty"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Shaan Rahman",
+       "slug": "shaan-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Swaroop Philip",
+       "slug": "swaroop-philip"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ranjan Abraham",
+       "slug": "ranjan-abraham"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Prasobh Krishna",
+       "slug": "prasobh-krishna"
+      },
+      {
+       "name": "Suvin K Varkey",
+       "slug": "suvin-k-varkey"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Little Big Films",
+     "slug": "little-big-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 11195180,
+    "totalShows": 2633,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1924452,
+     "date": "2021-12-24"
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 2597587,
+     "date": "2021-12-25"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 36,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-12-24"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 98,
+    "title": "Kunjeldho",
+    "img": "https://image.tmdb.org/t/p/original/5Dk5AEIgrY6bnAdQwTGULa4gc1h.jpg",
+    "released": "2021-12-24",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10452434",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Comedy",
+    "plot": "Kunjeldho, an undergraduate student, falls in love with his classmate Nivedita. Problems arise when Nivedita gets pregnant.",
+    "released": "2021-12-24",
+    "director": "Mathukutty",
+    "directorSlug": "mathukutty",
+    "actors": [
+     "Asif Ali",
+     "Gopika Udayan",
+     "Siddique",
+     "Rekha",
+     "Sudheesh",
+     "Margret Antony"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.7",
+      "votes": 380,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:36.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Asif Ali",
+     "character": "Kunjeldho",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Gopika Udayan",
+     "character": "Niveditha",
+     "slug": "gopika-udayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pAorpWR3YQ1pnTpTwQ9N4Neidny.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Professor Gheevarghese",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Rekha",
+     "character": null,
+     "slug": "rekha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uDjm90jaCkeoTNRHakMh1liLKwj.jpg"
+    },
+    {
+     "name": "Sudheesh",
+     "character": "John",
+     "slug": "sudheesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bDVEN345ccxDhcWD47a9qh0a7WH.jpg"
+    },
+    {
+     "name": "Margret Antony",
+     "character": null,
+     "slug": "margret-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1EEHkZjtqd4K7kP3ES1rwGJAuej.jpg"
+    },
+    {
+     "name": "Krittika Pradeep",
+     "character": "Shalini",
+     "slug": "krittika-pradeep",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lj54FUqnlV7Zsk43cnU2FYyk74i.jpg"
+    },
+    {
+     "name": "Arjun Gopal",
+     "character": null,
+     "slug": "arjun-gopal",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Mathukutty",
+       "slug": "mathukutty"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Mathukutty",
+       "slug": "mathukutty"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Shaan Rahman",
+       "slug": "shaan-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Swaroop Philip",
+       "slug": "swaroop-philip"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ranjan Abraham",
+       "slug": "ranjan-abraham"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Prasobh Krishna",
+       "slug": "prasobh-krishna"
+      },
+      {
+       "name": "Suvin K Varkey",
+       "slug": "suvin-k-varkey"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Little Big Films",
+     "slug": "little-big-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2021-12-24",
+     "gross": 10813437,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2475,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-12-31",
+     "gross": 381743,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 158,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 11195180,
+    "totalShows": 2633,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 10813437
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 10813437
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 36,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-12-24"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 98,
+    "title": "Kunjeldho",
+    "img": "https://image.tmdb.org/t/p/original/5Dk5AEIgrY6bnAdQwTGULa4gc1h.jpg",
+    "released": "2021-12-24",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10452434",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Comedy",
+    "plot": "Kunjeldho, an undergraduate student, falls in love with his classmate Nivedita. Problems arise when Nivedita gets pregnant.",
+    "released": "2021-12-24",
+    "director": "Mathukutty",
+    "directorSlug": "mathukutty",
+    "actors": [
+     "Asif Ali",
+     "Gopika Udayan",
+     "Siddique",
+     "Rekha",
+     "Sudheesh",
+     "Margret Antony"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.7",
+      "votes": 380,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:36.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Asif Ali",
+     "character": "Kunjeldho",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Gopika Udayan",
+     "character": "Niveditha",
+     "slug": "gopika-udayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pAorpWR3YQ1pnTpTwQ9N4Neidny.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Professor Gheevarghese",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Rekha",
+     "character": null,
+     "slug": "rekha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uDjm90jaCkeoTNRHakMh1liLKwj.jpg"
+    },
+    {
+     "name": "Sudheesh",
+     "character": "John",
+     "slug": "sudheesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bDVEN345ccxDhcWD47a9qh0a7WH.jpg"
+    },
+    {
+     "name": "Margret Antony",
+     "character": null,
+     "slug": "margret-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1EEHkZjtqd4K7kP3ES1rwGJAuej.jpg"
+    },
+    {
+     "name": "Krittika Pradeep",
+     "character": "Shalini",
+     "slug": "krittika-pradeep",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lj54FUqnlV7Zsk43cnU2FYyk74i.jpg"
+    },
+    {
+     "name": "Arjun Gopal",
+     "character": null,
+     "slug": "arjun-gopal",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Mathukutty",
+       "slug": "mathukutty"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Mathukutty",
+       "slug": "mathukutty"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Shaan Rahman",
+       "slug": "shaan-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Swaroop Philip",
+       "slug": "swaroop-philip"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ranjan Abraham",
+       "slug": "ranjan-abraham"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Prasobh Krishna",
+       "slug": "prasobh-krishna"
+      },
+      {
+       "name": "Suvin K Varkey",
+       "slug": "suvin-k-varkey"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Little Big Films",
+     "slug": "little-big-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 11195180,
+    "totalShows": 2633,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 2030040,
+     "date": "Kozhikode"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2030040,
+     "date": "Kozhikode"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 36,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-12-24"
+   }
+  }
+ }
+}

@@ -1,0 +1,699 @@
+{
+ "id": 742,
+ "slug": "nobody-2",
+ "source_url": "https://fridaymatinee.in/boxoffice/nobody-2-742",
+ "captured_at": "2026-10-01T18:20:54.315960+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 742,
+    "title": "Nobody 2",
+    "img": "https://image.tmdb.org/t/p/original/iyxwxDZCpIm0vIORaHpmgJv2BGF.jpg",
+    "released": "2025-08-22",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28996126",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "89 min",
+    "genre": "Action, Thriller",
+    "plot": "Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss.",
+    "released": "2025-08-13",
+    "director": "Timo Tjahjanto",
+    "directorSlug": "timo-tjahjanto",
+    "actors": [
+     "Bob Odenkirk",
+     "Connie Nielsen",
+     "John Ortiz",
+     "Colin Hanks",
+     "RZA",
+     "Colin Salmon"
+    ],
+    "awards": "3 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 105040,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 1857,
+      "updatedAt": "2026-09-24T16:10:54.000Z"
+     },
+     "rt": "76%",
+     "metascore": 59,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Bob Odenkirk",
+     "character": "Hutch Mansell",
+     "slug": "bob-odenkirk",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+    },
+    {
+     "name": "Connie Nielsen",
+     "character": "Becca Mansell",
+     "slug": "connie-nielsen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+    },
+    {
+     "name": "John Ortiz",
+     "character": "Wyatt Martin",
+     "slug": "john-ortiz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMDPYhpc9nqIJAK3vtMroEH9qho.jpg"
+    },
+    {
+     "name": "Colin Hanks",
+     "character": "Sheriff Abel",
+     "slug": "colin-hanks",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zi7f3V39eyEeSaxvYAq8zaXMjok.jpg"
+    },
+    {
+     "name": "RZA",
+     "character": "Harry Mansell",
+     "slug": "rza",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2PVYCKXb1X3PLawJNoYGLN1x0In.jpg"
+    },
+    {
+     "name": "Colin Salmon",
+     "character": "The Barber",
+     "slug": "colin-salmon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mLlAU6Zl2MIL5znp5UHdX3sVTN7.jpg"
+    },
+    {
+     "name": "Christopher Lloyd",
+     "character": "David Mansell",
+     "slug": "christopher-lloyd",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+    },
+    {
+     "name": "Sharon Stone",
+     "character": "Lendina",
+     "slug": "sharon-stone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5lYs0HaAvsXPZJpMcndbSeQdPgT.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Timo Tjahjanto",
+       "slug": "timo-tjahjanto"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Aaron Rabin",
+       "slug": "aaron-rabin"
+      },
+      {
+       "name": "Derek Kolstad",
+       "slug": "derek-kolstad"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Dominic Lewis",
+       "slug": "dominic-lewis"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Callan Green",
+       "slug": "callan-green"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Elísabet Ronaldsdóttir",
+       "slug": "elisabet-ronaldsdottir"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kelly McCormick",
+       "slug": "kelly-mccormick"
+      },
+      {
+       "name": "David Leitch",
+       "slug": "david-leitch"
+      },
+      {
+       "name": "Bob Odenkirk",
+       "slug": "bob-odenkirk"
+      },
+      {
+       "name": "Marc Provissiero",
+       "slug": "marc-provissiero"
+      },
+      {
+       "name": "Braden Aftergood",
+       "slug": "braden-aftergood"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Universal Pictures",
+     "slug": "universal-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8lvHyhjr8oUKOOy2dKXoALWKdp0.png"
+    },
+    {
+     "name": "87North Productions",
+     "slug": "87north-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/zvJFu1C6gB80A98n6IGXBvMtgVl.png"
+    },
+    {
+     "name": "OPE Partners",
+     "slug": "ope-partners",
+     "logo": "https://image.tmdb.org/t/p/w185/jefZmEJlxUAkuuwkH9CHQchgmJX.png"
+    },
+    {
+     "name": "Eighty Two Films",
+     "slug": "eighty-two-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-01",
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1724445,
+    "totalShows": 351,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 352477,
+     "date": "2025-08-22"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 362240,
+     "date": "2025-08-24"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-22"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 742,
+    "title": "Nobody 2",
+    "img": "https://image.tmdb.org/t/p/original/iyxwxDZCpIm0vIORaHpmgJv2BGF.jpg",
+    "released": "2025-08-22",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28996126",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "89 min",
+    "genre": "Action, Thriller",
+    "plot": "Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss.",
+    "released": "2025-08-13",
+    "director": "Timo Tjahjanto",
+    "directorSlug": "timo-tjahjanto",
+    "actors": [
+     "Bob Odenkirk",
+     "Connie Nielsen",
+     "John Ortiz",
+     "Colin Hanks",
+     "RZA",
+     "Colin Salmon"
+    ],
+    "awards": "3 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 105040,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 1857,
+      "updatedAt": "2026-09-24T16:10:54.000Z"
+     },
+     "rt": "76%",
+     "metascore": 59,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Bob Odenkirk",
+     "character": "Hutch Mansell",
+     "slug": "bob-odenkirk",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+    },
+    {
+     "name": "Connie Nielsen",
+     "character": "Becca Mansell",
+     "slug": "connie-nielsen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+    },
+    {
+     "name": "John Ortiz",
+     "character": "Wyatt Martin",
+     "slug": "john-ortiz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMDPYhpc9nqIJAK3vtMroEH9qho.jpg"
+    },
+    {
+     "name": "Colin Hanks",
+     "character": "Sheriff Abel",
+     "slug": "colin-hanks",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zi7f3V39eyEeSaxvYAq8zaXMjok.jpg"
+    },
+    {
+     "name": "RZA",
+     "character": "Harry Mansell",
+     "slug": "rza",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2PVYCKXb1X3PLawJNoYGLN1x0In.jpg"
+    },
+    {
+     "name": "Colin Salmon",
+     "character": "The Barber",
+     "slug": "colin-salmon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mLlAU6Zl2MIL5znp5UHdX3sVTN7.jpg"
+    },
+    {
+     "name": "Christopher Lloyd",
+     "character": "David Mansell",
+     "slug": "christopher-lloyd",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+    },
+    {
+     "name": "Sharon Stone",
+     "character": "Lendina",
+     "slug": "sharon-stone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5lYs0HaAvsXPZJpMcndbSeQdPgT.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Timo Tjahjanto",
+       "slug": "timo-tjahjanto"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Aaron Rabin",
+       "slug": "aaron-rabin"
+      },
+      {
+       "name": "Derek Kolstad",
+       "slug": "derek-kolstad"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Dominic Lewis",
+       "slug": "dominic-lewis"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Callan Green",
+       "slug": "callan-green"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Elísabet Ronaldsdóttir",
+       "slug": "elisabet-ronaldsdottir"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kelly McCormick",
+       "slug": "kelly-mccormick"
+      },
+      {
+       "name": "David Leitch",
+       "slug": "david-leitch"
+      },
+      {
+       "name": "Bob Odenkirk",
+       "slug": "bob-odenkirk"
+      },
+      {
+       "name": "Marc Provissiero",
+       "slug": "marc-provissiero"
+      },
+      {
+       "name": "Braden Aftergood",
+       "slug": "braden-aftergood"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Universal Pictures",
+     "slug": "universal-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8lvHyhjr8oUKOOy2dKXoALWKdp0.png"
+    },
+    {
+     "name": "87North Productions",
+     "slug": "87north-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/zvJFu1C6gB80A98n6IGXBvMtgVl.png"
+    },
+    {
+     "name": "OPE Partners",
+     "slug": "ope-partners",
+     "logo": "https://image.tmdb.org/t/p/w185/jefZmEJlxUAkuuwkH9CHQchgmJX.png"
+    },
+    {
+     "name": "Eighty Two Films",
+     "slug": "eighty-two-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-01",
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2025-08-22",
+     "gross": 1638335,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 329,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-29",
+     "gross": 86110,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 22,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1724445,
+    "totalShows": 351,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 1638335
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1638335
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-22"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 742,
+    "title": "Nobody 2",
+    "img": "https://image.tmdb.org/t/p/original/iyxwxDZCpIm0vIORaHpmgJv2BGF.jpg",
+    "released": "2025-08-22",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28996126",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "89 min",
+    "genre": "Action, Thriller",
+    "plot": "Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss.",
+    "released": "2025-08-13",
+    "director": "Timo Tjahjanto",
+    "directorSlug": "timo-tjahjanto",
+    "actors": [
+     "Bob Odenkirk",
+     "Connie Nielsen",
+     "John Ortiz",
+     "Colin Hanks",
+     "RZA",
+     "Colin Salmon"
+    ],
+    "awards": "3 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 105040,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 1857,
+      "updatedAt": "2026-09-24T16:10:54.000Z"
+     },
+     "rt": "76%",
+     "metascore": 59,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Bob Odenkirk",
+     "character": "Hutch Mansell",
+     "slug": "bob-odenkirk",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+    },
+    {
+     "name": "Connie Nielsen",
+     "character": "Becca Mansell",
+     "slug": "connie-nielsen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+    },
+    {
+     "name": "John Ortiz",
+     "character": "Wyatt Martin",
+     "slug": "john-ortiz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMDPYhpc9nqIJAK3vtMroEH9qho.jpg"
+    },
+    {
+     "name": "Colin Hanks",
+     "character": "Sheriff Abel",
+     "slug": "colin-hanks",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zi7f3V39eyEeSaxvYAq8zaXMjok.jpg"
+    },
+    {
+     "name": "RZA",
+     "character": "Harry Mansell",
+     "slug": "rza",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2PVYCKXb1X3PLawJNoYGLN1x0In.jpg"
+    },
+    {
+     "name": "Colin Salmon",
+     "character": "The Barber",
+     "slug": "colin-salmon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mLlAU6Zl2MIL5znp5UHdX3sVTN7.jpg"
+    },
+    {
+     "name": "Christopher Lloyd",
+     "character": "David Mansell",
+     "slug": "christopher-lloyd",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+    },
+    {
+     "name": "Sharon Stone",
+     "character": "Lendina",
+     "slug": "sharon-stone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5lYs0HaAvsXPZJpMcndbSeQdPgT.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Timo Tjahjanto",
+       "slug": "timo-tjahjanto"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Aaron Rabin",
+       "slug": "aaron-rabin"
+      },
+      {
+       "name": "Derek Kolstad",
+       "slug": "derek-kolstad"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Dominic Lewis",
+       "slug": "dominic-lewis"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Callan Green",
+       "slug": "callan-green"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Elísabet Ronaldsdóttir",
+       "slug": "elisabet-ronaldsdottir"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kelly McCormick",
+       "slug": "kelly-mccormick"
+      },
+      {
+       "name": "David Leitch",
+       "slug": "david-leitch"
+      },
+      {
+       "name": "Bob Odenkirk",
+       "slug": "bob-odenkirk"
+      },
+      {
+       "name": "Marc Provissiero",
+       "slug": "marc-provissiero"
+      },
+      {
+       "name": "Braden Aftergood",
+       "slug": "braden-aftergood"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Universal Pictures",
+     "slug": "universal-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8lvHyhjr8oUKOOy2dKXoALWKdp0.png"
+    },
+    {
+     "name": "87North Productions",
+     "slug": "87north-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/zvJFu1C6gB80A98n6IGXBvMtgVl.png"
+    },
+    {
+     "name": "OPE Partners",
+     "slug": "ope-partners",
+     "logo": "https://image.tmdb.org/t/p/w185/jefZmEJlxUAkuuwkH9CHQchgmJX.png"
+    },
+    {
+     "name": "Eighty Two Films",
+     "slug": "eighty-two-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-01",
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1724445,
+    "totalShows": 351,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 750490,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 750490,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-22"
+   }
+  }
+ }
+}

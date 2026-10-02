@@ -1,0 +1,55 @@
+{
+ "slug": "om-prakash",
+ "name": "Om Prakash",
+ "source_url": "https://fridaymatinee.in/people/om-prakash",
+ "captured_at": "2026-10-02T01:08:53.600671+00:00",
+ "person": {
+  "name": "Om Prakash",
+  "photo": null,
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 182,
+   "movie_slug": "thiruchitrambalam",
+   "title": "Thiruchitrambalam",
+   "year": 2022,
+   "kerala_gross": "₹47.5L"
+  },
+  {
+   "movie_id": 207,
+   "movie_slug": "naane-varuven",
+   "title": "Naane Varuven",
+   "year": 2022,
+   "kerala_gross": "₹31.8L"
+  },
+  {
+   "movie_id": 547,
+   "movie_slug": "raayan",
+   "title": "Raayan",
+   "year": 2024,
+   "kerala_gross": "₹4.4 Cr"
+  },
+  {
+   "movie_id": 647,
+   "movie_slug": "vidaamuyarchi",
+   "title": "Vidaamuyarchi",
+   "year": 2025,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 1162,
+   "movie_slug": "maa-inti-bangaram",
+   "title": "Maa Inti Bangaram",
+   "year": 2026,
+   "kerala_gross": "₹14.9L"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "tom-holkenborg",
+ "name": "Tom Holkenborg",
+ "source_url": "https://fridaymatinee.in/people/tom-holkenborg",
+ "captured_at": "2026-10-02T11:26:09.648435+00:00",
+ "person": {
+  "name": "Tom Holkenborg",
+  "photo": "https://image.tmdb.org/t/p/w185/oRxT9sySUewNqcfmLT8OC9ffytx.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 24,
+   "movie_slug": "terminator-dark-fate",
+   "title": "Terminator Dark Fate",
+   "year": 2019,
+   "kerala_gross": "₹22.9L"
+  },
+  {
+   "movie_id": 507,
+   "movie_slug": "godzilla-x-kong-the-new-empire",
+   "title": "Godzilla x Kong: The New Empire",
+   "year": 2024,
+   "kerala_gross": "₹4.5 Cr"
+  },
+  {
+   "movie_id": 520,
+   "movie_slug": "furiosa-a-mad-max-saga",
+   "title": "Furiosa: A Mad Max Saga",
+   "year": 2024,
+   "kerala_gross": "₹49.4L"
+  },
+  {
+   "movie_id": 603,
+   "movie_slug": "sonic-the-hedgehog-3",
+   "title": "Sonic the Hedgehog 3",
+   "year": 2025,
+   "kerala_gross": "₹30.5L"
+  }
+ ]
+}

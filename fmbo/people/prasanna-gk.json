@@ -1,0 +1,55 @@
+{
+ "slug": "prasanna-gk",
+ "name": "Prasanna GK",
+ "source_url": "https://fridaymatinee.in/people/prasanna-gk",
+ "captured_at": "2026-10-02T06:26:21.332279+00:00",
+ "person": {
+  "name": "Prasanna GK",
+  "photo": "https://image.tmdb.org/t/p/w185/mRUvjFUV0v04KN1v9xs128gq22S.jpg",
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 182,
+   "movie_slug": "thiruchitrambalam",
+   "title": "Thiruchitrambalam",
+   "year": 2022,
+   "kerala_gross": "₹47.5L"
+  },
+  {
+   "movie_id": 547,
+   "movie_slug": "raayan",
+   "title": "Raayan",
+   "year": 2024,
+   "kerala_gross": "₹4.4 Cr"
+  },
+  {
+   "movie_id": 671,
+   "movie_slug": "veera-dheera-sooran-part-2",
+   "title": "Veera Dheera Sooran: Part 2",
+   "year": 2025,
+   "kerala_gross": "₹3.1 Cr"
+  },
+  {
+   "movie_id": 854,
+   "movie_slug": "idli-kadai",
+   "title": "Idli Kadai",
+   "year": 2025,
+   "kerala_gross": "₹80.6L"
+  },
+  {
+   "movie_id": 1216,
+   "movie_slug": "dc",
+   "title": "DC",
+   "year": 2026,
+   "kerala_gross": "₹18.1 Cr"
+  }
+ ]
+}

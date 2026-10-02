@@ -1,0 +1,48 @@
+{
+ "slug": "ishari-k-ganesh",
+ "name": "Ishari. K. Ganesh",
+ "source_url": "https://fridaymatinee.in/people/ishari-k-ganesh",
+ "captured_at": "2026-10-01T22:54:06.718368+00:00",
+ "person": {
+  "name": "Ishari. K. Ganesh",
+  "photo": "https://image.tmdb.org/t/p/w185/gSnMrUdBAFDWFPa5gkj3xYZvCBw.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 42,
+   "movie_slug": "enai-noki-paayum-thota",
+   "title": "Enai Noki Paayum Thota",
+   "year": 2019,
+   "kerala_gross": "₹11.3L"
+  },
+  {
+   "movie_id": 204,
+   "movie_slug": "vendhu-thanindhathu-kaadu",
+   "title": "Vendhu Thanindhathu Kaadu",
+   "year": 2022,
+   "kerala_gross": "₹40.9L"
+  },
+  {
+   "movie_id": 1084,
+   "movie_slug": "kara",
+   "title": "Kara",
+   "year": 2026,
+   "kerala_gross": "₹51.6L"
+  },
+  {
+   "movie_id": 1192,
+   "movie_slug": "gatta-kusthi-2",
+   "title": "Gatta Kusthi 2",
+   "year": 2026,
+   "kerala_gross": "₹86.8L"
+  }
+ ]
+}

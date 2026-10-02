@@ -1,0 +1,692 @@
+{
+ "id": 229,
+ "slug": "prince",
+ "source_url": "https://fridaymatinee.in/boxoffice/prince-229",
+ "captured_at": "2026-10-01T18:07:14.985967+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 229,
+    "title": "Prince",
+    "img": "https://image.tmdb.org/t/p/original/clQbK0qqazhySSHYmekPL3gDieu.jpg",
+    "released": "2022-10-21",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15576578",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "143 min",
+    "genre": "Comedy, Romance",
+    "plot": "A happy-go-lucky teacher finds himself falling in love with a British woman who is teaching English at the same school. He tries to woo her, but given that his grandfather was a freedom fighter, can he convince his father of the match?",
+    "released": "2022-10-21",
+    "director": "Anudeep",
+    "directorSlug": "anudeep",
+    "actors": [
+     "Sivakarthikeyan",
+     "Maria Ryaboshapka",
+     "Sathyaraj",
+     "Premji Amaran",
+     "Saathvik",
+     "Rethika Srinivas"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.5",
+      "votes": 3620,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sivakarthikeyan",
+     "character": "Anbu",
+     "slug": "sivakarthikeyan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jgy9y3V8QqZmu5r8sMxrGCzXuyp.jpg"
+    },
+    {
+     "name": "Maria Ryaboshapka",
+     "character": "Jessica",
+     "slug": "maria-ryaboshapka",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2TEDJaLZOnRZ95Xm6ZwXIHImtOM.jpg"
+    },
+    {
+     "name": "Sathyaraj",
+     "character": "Ulaganathan / Veluchamy",
+     "slug": "sathyaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+    },
+    {
+     "name": "Premji Amaran",
+     "character": "Boopathy",
+     "slug": "premji-amaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jKCIdEE65icoZl4dM5bBgWEVCGO.jpg"
+    },
+    {
+     "name": "Saathvik",
+     "character": "Student",
+     "slug": "saathvik",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rethika Srinivas",
+     "character": "School Principal",
+     "slug": "rethika-srinivas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2G4ZFfBz6lg5JOAiaBekKiFHQMJ.jpg"
+    },
+    {
+     "name": "Anandaraj",
+     "character": "Inspector Muthupandi",
+     "slug": "anandaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gZxzckfurzV0oQOME8b1ATNoMHD.jpg"
+    },
+    {
+     "name": "Hello Kandasamy",
+     "character": "Villager",
+     "slug": "hello-kandasamy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1JeffEERsUezQZK8zh13VhVqzQF.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anudeep",
+       "slug": "anudeep"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Anudeep",
+       "slug": "anudeep"
+      },
+      {
+       "name": "Mohan Sato",
+       "slug": "mohan-sato"
+      },
+      {
+       "name": "Kalyan Shankar",
+       "slug": "kalyan-shankar"
+      },
+      {
+       "name": "Praveen Patnala",
+       "slug": "praveen-patnala"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "S. Thaman",
+       "slug": "s-thaman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Manoj Paramahamsa",
+       "slug": "manoj-paramahamsa"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen K. L.",
+       "slug": "praveen-k-l"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Daggubati Suresh Babu",
+       "slug": "daggubati-suresh-babu"
+      },
+      {
+       "name": "Suniel Narang",
+       "slug": "suniel-narang"
+      },
+      {
+       "name": "Puskur Ram Mohan Rao",
+       "slug": "puskur-ram-mohan-rao"
+      },
+      {
+       "name": "Narayan Das Narang",
+       "slug": "narayan-das-narang"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sree Venkateswara Cinemas LLP",
+     "slug": "sree-venkateswara-cinemas-llp",
+     "logo": "https://image.tmdb.org/t/p/w185/15NXha9lhw8RBl9J2EXoYBJH2DE.png"
+    },
+    {
+     "name": "Suresh Productions",
+     "slug": "suresh-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/tQ3Kj23ep0PN3HsHbtoVCDOCKnw.png"
+    },
+    {
+     "name": "Shanthi Talkies",
+     "slug": "shanthi-talkies",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1830940,
+    "totalShows": 540,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 521084,
+     "date": "2022-10-21"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 521084,
+     "date": "2022-10-21"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-10-21"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 229,
+    "title": "Prince",
+    "img": "https://image.tmdb.org/t/p/original/clQbK0qqazhySSHYmekPL3gDieu.jpg",
+    "released": "2022-10-21",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15576578",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "143 min",
+    "genre": "Comedy, Romance",
+    "plot": "A happy-go-lucky teacher finds himself falling in love with a British woman who is teaching English at the same school. He tries to woo her, but given that his grandfather was a freedom fighter, can he convince his father of the match?",
+    "released": "2022-10-21",
+    "director": "Anudeep",
+    "directorSlug": "anudeep",
+    "actors": [
+     "Sivakarthikeyan",
+     "Maria Ryaboshapka",
+     "Sathyaraj",
+     "Premji Amaran",
+     "Saathvik",
+     "Rethika Srinivas"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.5",
+      "votes": 3620,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sivakarthikeyan",
+     "character": "Anbu",
+     "slug": "sivakarthikeyan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jgy9y3V8QqZmu5r8sMxrGCzXuyp.jpg"
+    },
+    {
+     "name": "Maria Ryaboshapka",
+     "character": "Jessica",
+     "slug": "maria-ryaboshapka",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2TEDJaLZOnRZ95Xm6ZwXIHImtOM.jpg"
+    },
+    {
+     "name": "Sathyaraj",
+     "character": "Ulaganathan / Veluchamy",
+     "slug": "sathyaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+    },
+    {
+     "name": "Premji Amaran",
+     "character": "Boopathy",
+     "slug": "premji-amaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jKCIdEE65icoZl4dM5bBgWEVCGO.jpg"
+    },
+    {
+     "name": "Saathvik",
+     "character": "Student",
+     "slug": "saathvik",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rethika Srinivas",
+     "character": "School Principal",
+     "slug": "rethika-srinivas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2G4ZFfBz6lg5JOAiaBekKiFHQMJ.jpg"
+    },
+    {
+     "name": "Anandaraj",
+     "character": "Inspector Muthupandi",
+     "slug": "anandaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gZxzckfurzV0oQOME8b1ATNoMHD.jpg"
+    },
+    {
+     "name": "Hello Kandasamy",
+     "character": "Villager",
+     "slug": "hello-kandasamy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1JeffEERsUezQZK8zh13VhVqzQF.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anudeep",
+       "slug": "anudeep"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Anudeep",
+       "slug": "anudeep"
+      },
+      {
+       "name": "Mohan Sato",
+       "slug": "mohan-sato"
+      },
+      {
+       "name": "Kalyan Shankar",
+       "slug": "kalyan-shankar"
+      },
+      {
+       "name": "Praveen Patnala",
+       "slug": "praveen-patnala"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "S. Thaman",
+       "slug": "s-thaman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Manoj Paramahamsa",
+       "slug": "manoj-paramahamsa"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen K. L.",
+       "slug": "praveen-k-l"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Daggubati Suresh Babu",
+       "slug": "daggubati-suresh-babu"
+      },
+      {
+       "name": "Suniel Narang",
+       "slug": "suniel-narang"
+      },
+      {
+       "name": "Puskur Ram Mohan Rao",
+       "slug": "puskur-ram-mohan-rao"
+      },
+      {
+       "name": "Narayan Das Narang",
+       "slug": "narayan-das-narang"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sree Venkateswara Cinemas LLP",
+     "slug": "sree-venkateswara-cinemas-llp",
+     "logo": "https://image.tmdb.org/t/p/w185/15NXha9lhw8RBl9J2EXoYBJH2DE.png"
+    },
+    {
+     "name": "Suresh Productions",
+     "slug": "suresh-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/tQ3Kj23ep0PN3HsHbtoVCDOCKnw.png"
+    },
+    {
+     "name": "Shanthi Talkies",
+     "slug": "shanthi-talkies",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-10-21",
+     "gross": 1830940,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 540,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1830940,
+    "totalShows": 540,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 1830940
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1830940
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-10-21"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 229,
+    "title": "Prince",
+    "img": "https://image.tmdb.org/t/p/original/clQbK0qqazhySSHYmekPL3gDieu.jpg",
+    "released": "2022-10-21",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15576578",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "143 min",
+    "genre": "Comedy, Romance",
+    "plot": "A happy-go-lucky teacher finds himself falling in love with a British woman who is teaching English at the same school. He tries to woo her, but given that his grandfather was a freedom fighter, can he convince his father of the match?",
+    "released": "2022-10-21",
+    "director": "Anudeep",
+    "directorSlug": "anudeep",
+    "actors": [
+     "Sivakarthikeyan",
+     "Maria Ryaboshapka",
+     "Sathyaraj",
+     "Premji Amaran",
+     "Saathvik",
+     "Rethika Srinivas"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.5",
+      "votes": 3620,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sivakarthikeyan",
+     "character": "Anbu",
+     "slug": "sivakarthikeyan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jgy9y3V8QqZmu5r8sMxrGCzXuyp.jpg"
+    },
+    {
+     "name": "Maria Ryaboshapka",
+     "character": "Jessica",
+     "slug": "maria-ryaboshapka",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2TEDJaLZOnRZ95Xm6ZwXIHImtOM.jpg"
+    },
+    {
+     "name": "Sathyaraj",
+     "character": "Ulaganathan / Veluchamy",
+     "slug": "sathyaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+    },
+    {
+     "name": "Premji Amaran",
+     "character": "Boopathy",
+     "slug": "premji-amaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jKCIdEE65icoZl4dM5bBgWEVCGO.jpg"
+    },
+    {
+     "name": "Saathvik",
+     "character": "Student",
+     "slug": "saathvik",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rethika Srinivas",
+     "character": "School Principal",
+     "slug": "rethika-srinivas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2G4ZFfBz6lg5JOAiaBekKiFHQMJ.jpg"
+    },
+    {
+     "name": "Anandaraj",
+     "character": "Inspector Muthupandi",
+     "slug": "anandaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gZxzckfurzV0oQOME8b1ATNoMHD.jpg"
+    },
+    {
+     "name": "Hello Kandasamy",
+     "character": "Villager",
+     "slug": "hello-kandasamy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1JeffEERsUezQZK8zh13VhVqzQF.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anudeep",
+       "slug": "anudeep"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Anudeep",
+       "slug": "anudeep"
+      },
+      {
+       "name": "Mohan Sato",
+       "slug": "mohan-sato"
+      },
+      {
+       "name": "Kalyan Shankar",
+       "slug": "kalyan-shankar"
+      },
+      {
+       "name": "Praveen Patnala",
+       "slug": "praveen-patnala"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "S. Thaman",
+       "slug": "s-thaman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Manoj Paramahamsa",
+       "slug": "manoj-paramahamsa"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen K. L.",
+       "slug": "praveen-k-l"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Daggubati Suresh Babu",
+       "slug": "daggubati-suresh-babu"
+      },
+      {
+       "name": "Suniel Narang",
+       "slug": "suniel-narang"
+      },
+      {
+       "name": "Puskur Ram Mohan Rao",
+       "slug": "puskur-ram-mohan-rao"
+      },
+      {
+       "name": "Narayan Das Narang",
+       "slug": "narayan-das-narang"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sree Venkateswara Cinemas LLP",
+     "slug": "sree-venkateswara-cinemas-llp",
+     "logo": "https://image.tmdb.org/t/p/w185/15NXha9lhw8RBl9J2EXoYBJH2DE.png"
+    },
+    {
+     "name": "Suresh Productions",
+     "slug": "suresh-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/tQ3Kj23ep0PN3HsHbtoVCDOCKnw.png"
+    },
+    {
+     "name": "Shanthi Talkies",
+     "slug": "shanthi-talkies",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1830940,
+    "totalShows": 540,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 715520,
+     "date": "Kollam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 715520,
+     "date": "Kollam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-10-21"
+   }
+  }
+ }
+}

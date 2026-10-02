@@ -1,0 +1,713 @@
+{
+ "id": 713,
+ "slug": "dheeran",
+ "source_url": "https://fridaymatinee.in/boxoffice/dheeran-713",
+ "captured_at": "2026-10-01T18:20:05.118773+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 713,
+    "title": "Dheeran",
+    "img": "https://image.tmdb.org/t/p/original/sLSAsxbAepsyM9I2opC3CPrkuUR.jpg",
+    "released": "2025-07-04",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29997427",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "135 min",
+    "genre": "Comedy, Drama",
+    "plot": "When news of Eldhose's death, a man once adored by the locals, reaches his village, his uncles embark on a chaotic trip in an ambulance to bring his body back home.",
+    "released": "2025-07-04",
+    "director": "Devadath Shaji",
+    "directorSlug": "devadath-shaji",
+    "actors": [
+     "Rajesh Madhavan",
+     "Shabareesh Varma",
+     "Jagadish",
+     "Abhiram Radhakrishnan",
+     "Manoj K Jayan",
+     "Vineeth Radhakrishnan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 1617,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:11:01.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Rajesh Madhavan",
+     "character": "Eldose (Dheeran)",
+     "slug": "rajesh-madhavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nHeWOa2pDeEhoo4Z730iMuTSeCl.jpg"
+    },
+    {
+     "name": "Shabareesh Varma",
+     "character": "Spineesh",
+     "slug": "shabareesh-varma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dTas79Xjvh1ynA0nZwuIwM1emPl.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Abbaas",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Abhiram Radhakrishnan",
+     "character": "Dixon",
+     "slug": "abhiram-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AjTvCsrPkiOLYblggiMlUAketU.jpg"
+    },
+    {
+     "name": "Manoj K Jayan",
+     "character": "Aruvi",
+     "slug": "manoj-k-jayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jTKRE7c208lvZLNwrLtMleiV8DS.jpg"
+    },
+    {
+     "name": "Vineeth Radhakrishnan",
+     "character": "Aboobacker Haji",
+     "slug": "vineeth-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dvni43nbWY6J6DPh4W6CyE5oiiW.jpg"
+    },
+    {
+     "name": "Sudheesh",
+     "character": "Joppan",
+     "slug": "sudheesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bDVEN345ccxDhcWD47a9qh0a7WH.jpg"
+    },
+    {
+     "name": "Ashokan",
+     "character": "Kunjhon",
+     "slug": "ashokan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xtluHzXM8msExrEHUYOEAiYmEqK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Devadath Shaji",
+       "slug": "devadath-shaji"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Devadath Shaji",
+       "slug": "devadath-shaji"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Mujeeb Majeed",
+       "slug": "mujeeb-majeed"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Harikrishnan Lohithadas",
+       "slug": "harikrishnan-lohithadas"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Finn George Varghese",
+       "slug": "finn-george-varghese"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Lakshmi Warrier",
+       "slug": "lakshmi-warrier"
+      },
+      {
+       "name": "Ganesh Menon",
+       "slug": "ganesh-menon"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Cheers Entertainments",
+     "slug": "cheers-entertainments",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 23886371.599999998,
+    "totalShows": 6564,
+    "totalDays": 28,
+    "openingDay": {
+     "day": 1,
+     "gross": 2268273.2,
+     "date": "2025-07-04"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 3300818.4,
+     "date": "2025-07-06"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-07-04"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 713,
+    "title": "Dheeran",
+    "img": "https://image.tmdb.org/t/p/original/sLSAsxbAepsyM9I2opC3CPrkuUR.jpg",
+    "released": "2025-07-04",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29997427",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "135 min",
+    "genre": "Comedy, Drama",
+    "plot": "When news of Eldhose's death, a man once adored by the locals, reaches his village, his uncles embark on a chaotic trip in an ambulance to bring his body back home.",
+    "released": "2025-07-04",
+    "director": "Devadath Shaji",
+    "directorSlug": "devadath-shaji",
+    "actors": [
+     "Rajesh Madhavan",
+     "Shabareesh Varma",
+     "Jagadish",
+     "Abhiram Radhakrishnan",
+     "Manoj K Jayan",
+     "Vineeth Radhakrishnan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 1617,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:11:01.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Rajesh Madhavan",
+     "character": "Eldose (Dheeran)",
+     "slug": "rajesh-madhavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nHeWOa2pDeEhoo4Z730iMuTSeCl.jpg"
+    },
+    {
+     "name": "Shabareesh Varma",
+     "character": "Spineesh",
+     "slug": "shabareesh-varma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dTas79Xjvh1ynA0nZwuIwM1emPl.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Abbaas",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Abhiram Radhakrishnan",
+     "character": "Dixon",
+     "slug": "abhiram-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AjTvCsrPkiOLYblggiMlUAketU.jpg"
+    },
+    {
+     "name": "Manoj K Jayan",
+     "character": "Aruvi",
+     "slug": "manoj-k-jayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jTKRE7c208lvZLNwrLtMleiV8DS.jpg"
+    },
+    {
+     "name": "Vineeth Radhakrishnan",
+     "character": "Aboobacker Haji",
+     "slug": "vineeth-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dvni43nbWY6J6DPh4W6CyE5oiiW.jpg"
+    },
+    {
+     "name": "Sudheesh",
+     "character": "Joppan",
+     "slug": "sudheesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bDVEN345ccxDhcWD47a9qh0a7WH.jpg"
+    },
+    {
+     "name": "Ashokan",
+     "character": "Kunjhon",
+     "slug": "ashokan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xtluHzXM8msExrEHUYOEAiYmEqK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Devadath Shaji",
+       "slug": "devadath-shaji"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Devadath Shaji",
+       "slug": "devadath-shaji"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Mujeeb Majeed",
+       "slug": "mujeeb-majeed"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Harikrishnan Lohithadas",
+       "slug": "harikrishnan-lohithadas"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Finn George Varghese",
+       "slug": "finn-george-varghese"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Lakshmi Warrier",
+       "slug": "lakshmi-warrier"
+      },
+      {
+       "name": "Ganesh Menon",
+       "slug": "ganesh-menon"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Cheers Entertainments",
+     "slug": "cheers-entertainments",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-07-04",
+     "gross": 13723279.4,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3490,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-07-11",
+     "gross": 8039884.8,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2374,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-07-18",
+     "gross": 1855928.4,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 564,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-07-25",
+     "gross": 267279,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 136,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 23886371.599999998,
+    "totalShows": 6564,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 13723279.4
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 13723279.4
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-07-04"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 713,
+    "title": "Dheeran",
+    "img": "https://image.tmdb.org/t/p/original/sLSAsxbAepsyM9I2opC3CPrkuUR.jpg",
+    "released": "2025-07-04",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29997427",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "135 min",
+    "genre": "Comedy, Drama",
+    "plot": "When news of Eldhose's death, a man once adored by the locals, reaches his village, his uncles embark on a chaotic trip in an ambulance to bring his body back home.",
+    "released": "2025-07-04",
+    "director": "Devadath Shaji",
+    "directorSlug": "devadath-shaji",
+    "actors": [
+     "Rajesh Madhavan",
+     "Shabareesh Varma",
+     "Jagadish",
+     "Abhiram Radhakrishnan",
+     "Manoj K Jayan",
+     "Vineeth Radhakrishnan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 1617,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:11:01.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Rajesh Madhavan",
+     "character": "Eldose (Dheeran)",
+     "slug": "rajesh-madhavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nHeWOa2pDeEhoo4Z730iMuTSeCl.jpg"
+    },
+    {
+     "name": "Shabareesh Varma",
+     "character": "Spineesh",
+     "slug": "shabareesh-varma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dTas79Xjvh1ynA0nZwuIwM1emPl.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Abbaas",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Abhiram Radhakrishnan",
+     "character": "Dixon",
+     "slug": "abhiram-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AjTvCsrPkiOLYblggiMlUAketU.jpg"
+    },
+    {
+     "name": "Manoj K Jayan",
+     "character": "Aruvi",
+     "slug": "manoj-k-jayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jTKRE7c208lvZLNwrLtMleiV8DS.jpg"
+    },
+    {
+     "name": "Vineeth Radhakrishnan",
+     "character": "Aboobacker Haji",
+     "slug": "vineeth-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dvni43nbWY6J6DPh4W6CyE5oiiW.jpg"
+    },
+    {
+     "name": "Sudheesh",
+     "character": "Joppan",
+     "slug": "sudheesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bDVEN345ccxDhcWD47a9qh0a7WH.jpg"
+    },
+    {
+     "name": "Ashokan",
+     "character": "Kunjhon",
+     "slug": "ashokan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xtluHzXM8msExrEHUYOEAiYmEqK.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Devadath Shaji",
+       "slug": "devadath-shaji"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Devadath Shaji",
+       "slug": "devadath-shaji"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Mujeeb Majeed",
+       "slug": "mujeeb-majeed"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Harikrishnan Lohithadas",
+       "slug": "harikrishnan-lohithadas"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Finn George Varghese",
+       "slug": "finn-george-varghese"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Lakshmi Warrier",
+       "slug": "lakshmi-warrier"
+      },
+      {
+       "name": "Ganesh Menon",
+       "slug": "ganesh-menon"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Cheers Entertainments",
+     "slug": "cheers-entertainments",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 23886371.6,
+    "totalShows": 6564,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 6984278,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 6984278,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-07-04"
+   }
+  }
+ }
+}

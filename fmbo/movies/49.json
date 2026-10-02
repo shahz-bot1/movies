@@ -1,0 +1,661 @@
+{
+ "id": 49,
+ "slug": "valiyaperunnal",
+ "source_url": "https://fridaymatinee.in/boxoffice/valiyaperunnal-49",
+ "captured_at": "2026-10-01T17:58:54.459405+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 49,
+    "title": "Valiyaperunnal",
+    "img": "https://image.tmdb.org/t/p/original/2GA6cTwmBMV7JYo3kWGuPOTt3ql.jpg",
+    "released": "2019-12-20",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10136880",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "179 min",
+    "genre": "Drama",
+    "plot": "Movie revolves around a group of people living in a harbor town. The story delves into their love for each other and a certain festival of sacrifices.",
+    "released": "2019-12-20",
+    "director": "Dimal Dennis",
+    "directorSlug": "dimal-dennis",
+    "actors": [
+     "Shane Nigam",
+     "Himika Bose",
+     "Joju George",
+     "Soubin Shahir",
+     "Anil Nedumangad",
+     "Nishanth Sagar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.7",
+      "votes": 394,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:54.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shane Nigam",
+     "character": "Akkar",
+     "slug": "shane-nigam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9KJqx2V9aRwcTuMh2FQmWj5HrAO.jpg"
+    },
+    {
+     "name": "Himika Bose",
+     "character": "Pooja",
+     "slug": "himika-bose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eiwNqjNjcLwXGtflZAbJGWh4n0d.jpg"
+    },
+    {
+     "name": "Joju George",
+     "character": "Shivakumar",
+     "slug": "joju-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jCObRH5idadzrTvyC9XnlnR8rXH.jpg"
+    },
+    {
+     "name": "Soubin Shahir",
+     "character": null,
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Anil Nedumangad",
+     "character": "George",
+     "slug": "anil-nedumangad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rJ8JOczllGVm8ammRKDZYM88dYb.jpg"
+    },
+    {
+     "name": "Nishanth Sagar",
+     "character": "Noushad",
+     "slug": "nishanth-sagar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s8uiq88RmHzQ73n0noDCdMCZGyj.jpg"
+    },
+    {
+     "name": "James Eliya",
+     "character": "Babukka",
+     "slug": "james-eliya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gs7FxTeGhu1AK3NkKwsqHniu0rF.jpg"
+    },
+    {
+     "name": "Alencier Ley Lopez",
+     "character": "SP Rajmohan IPS",
+     "slug": "alencier-ley-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWammRTzSJiyK9TROHWkoM9AqzS.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Dimal Dennis",
+       "slug": "dimal-dennis"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Thasreeq Abdul Salam",
+       "slug": "thasreeq-abdul-salam"
+      },
+      {
+       "name": "Dimal Dennis",
+       "slug": "dimal-dennis"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rex Vijayan",
+       "slug": "rex-vijayan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Suresh Rajan",
+       "slug": "suresh-rajan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vivek Harshan",
+       "slug": "vivek-harshan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Monisha Rajeev",
+       "slug": "monisha-rajeev"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Magic Mountain Cinemas",
+     "slug": "magic-mountain-cinemas",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 6205739,
+    "totalShows": 754,
+    "totalDays": 20,
+    "openingDay": {
+     "day": 1,
+     "gross": 1119981,
+     "date": "2019-12-20"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1119981,
+     "date": "2019-12-20"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 19,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-12-20"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 49,
+    "title": "Valiyaperunnal",
+    "img": "https://image.tmdb.org/t/p/original/2GA6cTwmBMV7JYo3kWGuPOTt3ql.jpg",
+    "released": "2019-12-20",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10136880",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "179 min",
+    "genre": "Drama",
+    "plot": "Movie revolves around a group of people living in a harbor town. The story delves into their love for each other and a certain festival of sacrifices.",
+    "released": "2019-12-20",
+    "director": "Dimal Dennis",
+    "directorSlug": "dimal-dennis",
+    "actors": [
+     "Shane Nigam",
+     "Himika Bose",
+     "Joju George",
+     "Soubin Shahir",
+     "Anil Nedumangad",
+     "Nishanth Sagar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.7",
+      "votes": 394,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:54.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shane Nigam",
+     "character": "Akkar",
+     "slug": "shane-nigam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9KJqx2V9aRwcTuMh2FQmWj5HrAO.jpg"
+    },
+    {
+     "name": "Himika Bose",
+     "character": "Pooja",
+     "slug": "himika-bose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eiwNqjNjcLwXGtflZAbJGWh4n0d.jpg"
+    },
+    {
+     "name": "Joju George",
+     "character": "Shivakumar",
+     "slug": "joju-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jCObRH5idadzrTvyC9XnlnR8rXH.jpg"
+    },
+    {
+     "name": "Soubin Shahir",
+     "character": null,
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Anil Nedumangad",
+     "character": "George",
+     "slug": "anil-nedumangad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rJ8JOczllGVm8ammRKDZYM88dYb.jpg"
+    },
+    {
+     "name": "Nishanth Sagar",
+     "character": "Noushad",
+     "slug": "nishanth-sagar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s8uiq88RmHzQ73n0noDCdMCZGyj.jpg"
+    },
+    {
+     "name": "James Eliya",
+     "character": "Babukka",
+     "slug": "james-eliya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gs7FxTeGhu1AK3NkKwsqHniu0rF.jpg"
+    },
+    {
+     "name": "Alencier Ley Lopez",
+     "character": "SP Rajmohan IPS",
+     "slug": "alencier-ley-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWammRTzSJiyK9TROHWkoM9AqzS.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Dimal Dennis",
+       "slug": "dimal-dennis"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Thasreeq Abdul Salam",
+       "slug": "thasreeq-abdul-salam"
+      },
+      {
+       "name": "Dimal Dennis",
+       "slug": "dimal-dennis"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rex Vijayan",
+       "slug": "rex-vijayan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Suresh Rajan",
+       "slug": "suresh-rajan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vivek Harshan",
+       "slug": "vivek-harshan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Monisha Rajeev",
+       "slug": "monisha-rajeev"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Magic Mountain Cinemas",
+     "slug": "magic-mountain-cinemas",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2019-12-20",
+     "gross": 4394187,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 542,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-12-27",
+     "gross": 1341151,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 167,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2020-01-03",
+     "gross": 470401,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 45,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 6205739,
+    "totalShows": 754,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 4394187
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4394187
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 19,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-12-20"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 49,
+    "title": "Valiyaperunnal",
+    "img": "https://image.tmdb.org/t/p/original/2GA6cTwmBMV7JYo3kWGuPOTt3ql.jpg",
+    "released": "2019-12-20",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10136880",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "179 min",
+    "genre": "Drama",
+    "plot": "Movie revolves around a group of people living in a harbor town. The story delves into their love for each other and a certain festival of sacrifices.",
+    "released": "2019-12-20",
+    "director": "Dimal Dennis",
+    "directorSlug": "dimal-dennis",
+    "actors": [
+     "Shane Nigam",
+     "Himika Bose",
+     "Joju George",
+     "Soubin Shahir",
+     "Anil Nedumangad",
+     "Nishanth Sagar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.7",
+      "votes": 394,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:54.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shane Nigam",
+     "character": "Akkar",
+     "slug": "shane-nigam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9KJqx2V9aRwcTuMh2FQmWj5HrAO.jpg"
+    },
+    {
+     "name": "Himika Bose",
+     "character": "Pooja",
+     "slug": "himika-bose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eiwNqjNjcLwXGtflZAbJGWh4n0d.jpg"
+    },
+    {
+     "name": "Joju George",
+     "character": "Shivakumar",
+     "slug": "joju-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jCObRH5idadzrTvyC9XnlnR8rXH.jpg"
+    },
+    {
+     "name": "Soubin Shahir",
+     "character": null,
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Anil Nedumangad",
+     "character": "George",
+     "slug": "anil-nedumangad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rJ8JOczllGVm8ammRKDZYM88dYb.jpg"
+    },
+    {
+     "name": "Nishanth Sagar",
+     "character": "Noushad",
+     "slug": "nishanth-sagar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s8uiq88RmHzQ73n0noDCdMCZGyj.jpg"
+    },
+    {
+     "name": "James Eliya",
+     "character": "Babukka",
+     "slug": "james-eliya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gs7FxTeGhu1AK3NkKwsqHniu0rF.jpg"
+    },
+    {
+     "name": "Alencier Ley Lopez",
+     "character": "SP Rajmohan IPS",
+     "slug": "alencier-ley-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWammRTzSJiyK9TROHWkoM9AqzS.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Dimal Dennis",
+       "slug": "dimal-dennis"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Thasreeq Abdul Salam",
+       "slug": "thasreeq-abdul-salam"
+      },
+      {
+       "name": "Dimal Dennis",
+       "slug": "dimal-dennis"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rex Vijayan",
+       "slug": "rex-vijayan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Suresh Rajan",
+       "slug": "suresh-rajan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vivek Harshan",
+       "slug": "vivek-harshan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Monisha Rajeev",
+       "slug": "monisha-rajeev"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Magic Mountain Cinemas",
+     "slug": "magic-mountain-cinemas",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 6205739,
+    "totalShows": 754,
+    "totalDays": 9,
+    "openingDay": {
+     "day": 1,
+     "gross": 3797206,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3797206,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 19,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-12-20"
+   }
+  }
+ }
+}

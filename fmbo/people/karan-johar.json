@@ -1,0 +1,76 @@
+{
+ "slug": "karan-johar",
+ "name": "Karan Johar",
+ "source_url": "https://fridaymatinee.in/people/karan-johar",
+ "captured_at": "2026-10-01T23:40:08.979338+00:00",
+ "person": {
+  "name": "Karan Johar",
+  "photo": "https://image.tmdb.org/t/p/w185/zip1x7OXOBxXxcdYvKOgw6MnAWm.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 8
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 183,
+   "movie_slug": "liger",
+   "title": "Liger",
+   "year": 2022,
+   "kerala_gross": "₹33.1L"
+  },
+  {
+   "movie_id": 199,
+   "movie_slug": "brahmastra-part-one-shiva",
+   "title": "Brahmastra Part One Shiva",
+   "year": 2022,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 540,
+   "movie_slug": "kill",
+   "title": "Kill",
+   "year": 2024,
+   "kerala_gross": "₹2.4 Cr"
+  },
+  {
+   "movie_id": 749,
+   "movie_slug": "yeh-jawaani-hai-deewani",
+   "title": "Yeh Jawaani Hai Deewani",
+   "year": 2025,
+   "kerala_gross": "₹70.2L"
+  },
+  {
+   "movie_id": 849,
+   "movie_slug": "homebound",
+   "title": "Homebound",
+   "year": 2025,
+   "kerala_gross": "₹1.7L"
+  },
+  {
+   "movie_id": 951,
+   "movie_slug": "tu-meri-main-tera-main-tera-tu-meri",
+   "title": "Tu Meri Main Tera Main Tera Tu Meri",
+   "year": 2025,
+   "kerala_gross": "₹12.6L"
+  },
+  {
+   "movie_id": 1113,
+   "movie_slug": "chand-mera-dil",
+   "title": "Chand Mera Dil",
+   "year": 2026,
+   "kerala_gross": "₹4.2L"
+  },
+  {
+   "movie_id": 1168,
+   "movie_slug": "odiyan",
+   "title": "Odiyan",
+   "year": 2027,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

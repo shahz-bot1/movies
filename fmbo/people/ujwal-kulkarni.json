@@ -1,0 +1,41 @@
+{
+ "slug": "ujwal-kulkarni",
+ "name": "Ujwal Kulkarni",
+ "source_url": "https://fridaymatinee.in/people/ujwal-kulkarni",
+ "captured_at": "2026-10-02T11:32:13.011921+00:00",
+ "person": {
+  "name": "Ujwal Kulkarni",
+  "photo": null,
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 124,
+   "movie_slug": "kgf-chapter-2",
+   "title": "KGF Chapter 2",
+   "year": 2022,
+   "kerala_gross": "₹52.5 Cr"
+  },
+  {
+   "movie_id": 478,
+   "movie_slug": "salaar-part-1-ceasefire",
+   "title": "Salaar: Part 1 - Ceasefire",
+   "year": 2023,
+   "kerala_gross": "₹12.5 Cr"
+  },
+  {
+   "movie_id": 669,
+   "movie_slug": "toxic",
+   "title": "Toxic",
+   "year": 2026,
+   "kerala_gross": "₹3.5 Cr"
+  }
+ ]
+}

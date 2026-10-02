@@ -1,0 +1,48 @@
+{
+ "slug": "saniya-iyyappan",
+ "name": "Saniya Iyyappan",
+ "source_url": "https://fridaymatinee.in/people/saniya-iyyappan",
+ "captured_at": "2026-10-02T10:08:58.637662+00:00",
+ "person": {
+  "name": "Saniya Iyyappan",
+  "photo": "https://image.tmdb.org/t/p/w185/k551v7yXZmC8maBOlHaM9yX11pf.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 73,
+   "movie_slug": "the-priest",
+   "title": "The Priest",
+   "year": 2021,
+   "kerala_gross": "₹5.8 Cr"
+  },
+  {
+   "movie_id": 235,
+   "movie_slug": "saturday-night",
+   "title": "Saturday Night",
+   "year": 2022,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 667,
+   "movie_slug": "lucifer",
+   "title": "Lucifer",
+   "year": 2025,
+   "kerala_gross": "₹32.3L"
+  },
+  {
+   "movie_id": 1194,
+   "movie_slug": "varavu",
+   "title": "Varavu",
+   "year": 2026,
+   "kerala_gross": "₹5.0 Cr"
+  }
+ ]
+}

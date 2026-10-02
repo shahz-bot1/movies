@@ -1,0 +1,53 @@
+{
+ "slug": "roby-varghese-raj",
+ "name": "Roby Varghese Raj",
+ "source_url": "https://fridaymatinee.in/people/roby-varghese-raj",
+ "captured_at": "2026-10-02T09:46:47.197164+00:00",
+ "person": {
+  "name": "Roby Varghese Raj",
+  "photo": "https://image.tmdb.org/t/p/w185/AtQ4P0ItlfxDb46l8Exhmzt5B5Z.jpg",
+  "role": "Cinematography and director"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 4
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 66,
+   "movie_slug": "vellam",
+   "title": "vellam",
+   "year": 2021,
+   "kerala_gross": "₹52.5L"
+  },
+  {
+   "movie_id": 143,
+   "movie_slug": "john-luther",
+   "title": "John Luther",
+   "year": 2022,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 654,
+   "movie_slug": "officer-on-duty",
+   "title": "Officer On Duty",
+   "year": 2025,
+   "kerala_gross": "₹23.6 Cr"
+  },
+  {
+   "movie_id": 1260,
+   "movie_slug": "pradhama-dhrishtya-kuttakkar",
+   "title": "Pradhama Dhrishtya Kuttakkar",
+   "year": 2026,
+   "kerala_gross": "₹21.3 Cr"
+  }
+ ]
+}

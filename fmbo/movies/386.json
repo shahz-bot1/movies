@@ -1,0 +1,807 @@
+{
+ "id": 386,
+ "slug": "adipurush",
+ "source_url": "https://fridaymatinee.in/boxoffice/adipurush-386",
+ "captured_at": "2026-10-01T18:10:54.201947+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 386,
+    "title": "Adipurush",
+    "img": "https://image.tmdb.org/t/p/original/1H2xEZOixs0z0JKwyjANZiKNNVJ.jpg",
+    "released": "2023-06-16",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt12915716",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "179 min",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "7000 years ago, Ayodhya's Prince Raghava and Prince Sesh along with the Mighty Vanar Warriors travels to the island of Lanka with an aim to rescue Raghava's wife Janaki, who has been abducted by Lankesh, the king of Lanka.",
+    "released": "2023-06-16",
+    "director": "Om Raut",
+    "directorSlug": "om-raut",
+    "actors": [
+     "Prabhas",
+     "Saif Ali Khan",
+     "Kriti Sanon",
+     "Sunny Singh",
+     "Devdatta Nage",
+     "Vatsal Sheth"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "2.6",
+      "votes": 138485,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "4.4",
+      "votes": 114,
+      "updatedAt": "2026-09-24T22:10:22.000Z"
+     },
+     "rt": "7%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Prabhas",
+     "character": "Raghava",
+     "slug": "prabhas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u6RVP8ukgLaymeoi5VmX0JRAcCn.jpg"
+    },
+    {
+     "name": "Saif Ali Khan",
+     "character": "Ravan \"Lankesh\"",
+     "slug": "saif-ali-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg"
+    },
+    {
+     "name": "Kriti Sanon",
+     "character": "Janaki",
+     "slug": "kriti-sanon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/go8GUz7poytTvm9P9HNHQ3T84N1.jpg"
+    },
+    {
+     "name": "Sunny Singh",
+     "character": "Sesh",
+     "slug": "sunny-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4twDvnGB7lGUevvYDyAuBmOleCl.jpg"
+    },
+    {
+     "name": "Devdatta Nage",
+     "character": "Bajarang",
+     "slug": "devdatta-nage",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Vatsal Sheth",
+     "character": "Meghanadha \"Indrajit\"",
+     "slug": "vatsal-sheth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/50kldCcqZd1ihT0SPILc52LCUnb.jpg"
+    },
+    {
+     "name": "Siddhant Karnick",
+     "character": "Vibhishana",
+     "slug": "siddhant-karnick",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vt5hYW4Lvn60cmnX6SNUIdpT1Gp.jpg"
+    },
+    {
+     "name": "Gaurrav Walia",
+     "character": "Sugriva",
+     "slug": "gaurrav-walia",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Om Raut",
+       "slug": "om-raut"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Om Raut",
+       "slug": "om-raut"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sanchit Balhara",
+       "slug": "sanchit-balhara"
+      },
+      {
+       "name": "Ankit Balhara",
+       "slug": "ankit-balhara"
+      },
+      {
+       "name": "Atul Gogavale",
+       "slug": "atul-gogavale"
+      },
+      {
+       "name": "Ajay Gogavale",
+       "slug": "ajay-gogavale"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Kharthik Palani",
+       "slug": "kharthik-palani"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ashish Mhatre",
+       "slug": "ashish-mhatre"
+      },
+      {
+       "name": "Apurva Motiwale",
+       "slug": "apurva-motiwale"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Bhushan Kumar",
+       "slug": "bhushan-kumar"
+      },
+      {
+       "name": "Krishan Kumar",
+       "slug": "krishan-kumar"
+      },
+      {
+       "name": "Om Raut",
+       "slug": "om-raut"
+      },
+      {
+       "name": "Prasad Sutar",
+       "slug": "prasad-sutar"
+      },
+      {
+       "name": "Rajesh Nair",
+       "slug": "rajesh-nair"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Retrophiles",
+     "slug": "retrophiles",
+     "logo": null
+    },
+    {
+     "name": "T-Series",
+     "slug": "t-series",
+     "logo": "https://image.tmdb.org/t/p/w185/d3u51JgEP5KwPfxS13ocqvtzZeX.png"
+    },
+    {
+     "name": "AA Films",
+     "slug": "aa-films",
+     "logo": null
+    },
+    {
+     "name": "UV Creations",
+     "slug": "uv-creations",
+     "logo": "https://image.tmdb.org/t/p/w185/wd4BquqZZiiOq9iAkGL3ViANT1x.png"
+    },
+    {
+     "name": "People Media Factory",
+     "slug": "people-media-factory",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-08-11",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 11604099.52,
+    "totalShows": 2221,
+    "totalDays": 10,
+    "openingDay": {
+     "day": 1,
+     "gross": 3052782,
+     "date": "2023-06-16"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3052782,
+     "date": "2023-06-16"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-06-16"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 386,
+    "title": "Adipurush",
+    "img": "https://image.tmdb.org/t/p/original/1H2xEZOixs0z0JKwyjANZiKNNVJ.jpg",
+    "released": "2023-06-16",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt12915716",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "179 min",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "7000 years ago, Ayodhya's Prince Raghava and Prince Sesh along with the Mighty Vanar Warriors travels to the island of Lanka with an aim to rescue Raghava's wife Janaki, who has been abducted by Lankesh, the king of Lanka.",
+    "released": "2023-06-16",
+    "director": "Om Raut",
+    "directorSlug": "om-raut",
+    "actors": [
+     "Prabhas",
+     "Saif Ali Khan",
+     "Kriti Sanon",
+     "Sunny Singh",
+     "Devdatta Nage",
+     "Vatsal Sheth"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "2.6",
+      "votes": 138485,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "4.4",
+      "votes": 114,
+      "updatedAt": "2026-09-24T22:10:22.000Z"
+     },
+     "rt": "7%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Prabhas",
+     "character": "Raghava",
+     "slug": "prabhas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u6RVP8ukgLaymeoi5VmX0JRAcCn.jpg"
+    },
+    {
+     "name": "Saif Ali Khan",
+     "character": "Ravan \"Lankesh\"",
+     "slug": "saif-ali-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg"
+    },
+    {
+     "name": "Kriti Sanon",
+     "character": "Janaki",
+     "slug": "kriti-sanon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/go8GUz7poytTvm9P9HNHQ3T84N1.jpg"
+    },
+    {
+     "name": "Sunny Singh",
+     "character": "Sesh",
+     "slug": "sunny-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4twDvnGB7lGUevvYDyAuBmOleCl.jpg"
+    },
+    {
+     "name": "Devdatta Nage",
+     "character": "Bajarang",
+     "slug": "devdatta-nage",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Vatsal Sheth",
+     "character": "Meghanadha \"Indrajit\"",
+     "slug": "vatsal-sheth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/50kldCcqZd1ihT0SPILc52LCUnb.jpg"
+    },
+    {
+     "name": "Siddhant Karnick",
+     "character": "Vibhishana",
+     "slug": "siddhant-karnick",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vt5hYW4Lvn60cmnX6SNUIdpT1Gp.jpg"
+    },
+    {
+     "name": "Gaurrav Walia",
+     "character": "Sugriva",
+     "slug": "gaurrav-walia",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Om Raut",
+       "slug": "om-raut"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Om Raut",
+       "slug": "om-raut"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sanchit Balhara",
+       "slug": "sanchit-balhara"
+      },
+      {
+       "name": "Ankit Balhara",
+       "slug": "ankit-balhara"
+      },
+      {
+       "name": "Atul Gogavale",
+       "slug": "atul-gogavale"
+      },
+      {
+       "name": "Ajay Gogavale",
+       "slug": "ajay-gogavale"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Kharthik Palani",
+       "slug": "kharthik-palani"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ashish Mhatre",
+       "slug": "ashish-mhatre"
+      },
+      {
+       "name": "Apurva Motiwale",
+       "slug": "apurva-motiwale"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Bhushan Kumar",
+       "slug": "bhushan-kumar"
+      },
+      {
+       "name": "Krishan Kumar",
+       "slug": "krishan-kumar"
+      },
+      {
+       "name": "Om Raut",
+       "slug": "om-raut"
+      },
+      {
+       "name": "Prasad Sutar",
+       "slug": "prasad-sutar"
+      },
+      {
+       "name": "Rajesh Nair",
+       "slug": "rajesh-nair"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Retrophiles",
+     "slug": "retrophiles",
+     "logo": null
+    },
+    {
+     "name": "T-Series",
+     "slug": "t-series",
+     "logo": "https://image.tmdb.org/t/p/w185/d3u51JgEP5KwPfxS13ocqvtzZeX.png"
+    },
+    {
+     "name": "AA Films",
+     "slug": "aa-films",
+     "logo": null
+    },
+    {
+     "name": "UV Creations",
+     "slug": "uv-creations",
+     "logo": "https://image.tmdb.org/t/p/w185/wd4BquqZZiiOq9iAkGL3ViANT1x.png"
+    },
+    {
+     "name": "People Media Factory",
+     "slug": "people-media-factory",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-08-11",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-06-16",
+     "gross": 11507544.52,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2201,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-06-23",
+     "gross": 96555,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 20,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 11604099.52,
+    "totalShows": 2221,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 11507544.52
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 11507544.52
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-06-16"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 386,
+    "title": "Adipurush",
+    "img": "https://image.tmdb.org/t/p/original/1H2xEZOixs0z0JKwyjANZiKNNVJ.jpg",
+    "released": "2023-06-16",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt12915716",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "179 min",
+    "genre": "Action, Adventure, Fantasy",
+    "plot": "7000 years ago, Ayodhya's Prince Raghava and Prince Sesh along with the Mighty Vanar Warriors travels to the island of Lanka with an aim to rescue Raghava's wife Janaki, who has been abducted by Lankesh, the king of Lanka.",
+    "released": "2023-06-16",
+    "director": "Om Raut",
+    "directorSlug": "om-raut",
+    "actors": [
+     "Prabhas",
+     "Saif Ali Khan",
+     "Kriti Sanon",
+     "Sunny Singh",
+     "Devdatta Nage",
+     "Vatsal Sheth"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "2.6",
+      "votes": 138485,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "4.4",
+      "votes": 114,
+      "updatedAt": "2026-09-24T22:10:22.000Z"
+     },
+     "rt": "7%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Prabhas",
+     "character": "Raghava",
+     "slug": "prabhas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u6RVP8ukgLaymeoi5VmX0JRAcCn.jpg"
+    },
+    {
+     "name": "Saif Ali Khan",
+     "character": "Ravan \"Lankesh\"",
+     "slug": "saif-ali-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/85uKiFDEcIqzLh0GwqYvecXw4uA.jpg"
+    },
+    {
+     "name": "Kriti Sanon",
+     "character": "Janaki",
+     "slug": "kriti-sanon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/go8GUz7poytTvm9P9HNHQ3T84N1.jpg"
+    },
+    {
+     "name": "Sunny Singh",
+     "character": "Sesh",
+     "slug": "sunny-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4twDvnGB7lGUevvYDyAuBmOleCl.jpg"
+    },
+    {
+     "name": "Devdatta Nage",
+     "character": "Bajarang",
+     "slug": "devdatta-nage",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Vatsal Sheth",
+     "character": "Meghanadha \"Indrajit\"",
+     "slug": "vatsal-sheth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/50kldCcqZd1ihT0SPILc52LCUnb.jpg"
+    },
+    {
+     "name": "Siddhant Karnick",
+     "character": "Vibhishana",
+     "slug": "siddhant-karnick",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vt5hYW4Lvn60cmnX6SNUIdpT1Gp.jpg"
+    },
+    {
+     "name": "Gaurrav Walia",
+     "character": "Sugriva",
+     "slug": "gaurrav-walia",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Om Raut",
+       "slug": "om-raut"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Om Raut",
+       "slug": "om-raut"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sanchit Balhara",
+       "slug": "sanchit-balhara"
+      },
+      {
+       "name": "Ankit Balhara",
+       "slug": "ankit-balhara"
+      },
+      {
+       "name": "Atul Gogavale",
+       "slug": "atul-gogavale"
+      },
+      {
+       "name": "Ajay Gogavale",
+       "slug": "ajay-gogavale"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Kharthik Palani",
+       "slug": "kharthik-palani"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ashish Mhatre",
+       "slug": "ashish-mhatre"
+      },
+      {
+       "name": "Apurva Motiwale",
+       "slug": "apurva-motiwale"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Bhushan Kumar",
+       "slug": "bhushan-kumar"
+      },
+      {
+       "name": "Krishan Kumar",
+       "slug": "krishan-kumar"
+      },
+      {
+       "name": "Om Raut",
+       "slug": "om-raut"
+      },
+      {
+       "name": "Prasad Sutar",
+       "slug": "prasad-sutar"
+      },
+      {
+       "name": "Rajesh Nair",
+       "slug": "rajesh-nair"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Retrophiles",
+     "slug": "retrophiles",
+     "logo": null
+    },
+    {
+     "name": "T-Series",
+     "slug": "t-series",
+     "logo": "https://image.tmdb.org/t/p/w185/d3u51JgEP5KwPfxS13ocqvtzZeX.png"
+    },
+    {
+     "name": "AA Films",
+     "slug": "aa-films",
+     "logo": null
+    },
+    {
+     "name": "UV Creations",
+     "slug": "uv-creations",
+     "logo": "https://image.tmdb.org/t/p/w185/wd4BquqZZiiOq9iAkGL3ViANT1x.png"
+    },
+    {
+     "name": "People Media Factory",
+     "slug": "people-media-factory",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-08-11",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 11604099.52,
+    "totalShows": 2221,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 3550165,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3550165,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-06-16"
+   }
+  }
+ }
+}

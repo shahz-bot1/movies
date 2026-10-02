@@ -1,0 +1,79 @@
+{
+ "slug": "raffi",
+ "name": "Raffi",
+ "source_url": "https://fridaymatinee.in/people/raffi",
+ "captured_at": "2026-10-02T08:27:59.496597+00:00",
+ "person": {
+  "name": "Raffi",
+  "photo": "https://image.tmdb.org/t/p/w185/iL5F7FpMwgjHsu1eBvtKUpaeXXG.jpg",
+  "role": "Actor, director and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 7
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 12,
+   "movie_slug": "ganagandharvan",
+   "title": "Ganagandharvan",
+   "year": 2019,
+   "kerala_gross": "₹24.3L"
+  },
+  {
+   "movie_id": 56,
+   "movie_slug": "shylock",
+   "title": "Shylock",
+   "year": 2020,
+   "kerala_gross": "₹7.1 Cr"
+  },
+  {
+   "movie_id": 502,
+   "movie_slug": "thundu",
+   "title": "Thundu",
+   "year": 2024,
+   "kerala_gross": "₹59.8L"
+  },
+  {
+   "movie_id": 548,
+   "movie_slug": "adios-amigo",
+   "title": "Adios Amigo",
+   "year": 2024,
+   "kerala_gross": "₹2.0 Cr"
+  },
+  {
+   "movie_id": 619,
+   "movie_slug": "e-d-extra-decent",
+   "title": "E D - Extra Decent",
+   "year": 2024,
+   "kerala_gross": "₹2.1 Cr"
+  },
+  {
+   "movie_id": 968,
+   "movie_slug": "chatha-pacha-the-ring-of-rowdies",
+   "title": "Chatha Pacha: The Ring of Rowdies",
+   "year": 2026,
+   "kerala_gross": "₹13.5 Cr"
+  },
+  {
+   "movie_id": 994,
+   "movie_slug": "ashakal-aayiram",
+   "title": "Ashakal Aayiram",
+   "year": 2026,
+   "kerala_gross": "₹5.8 Cr"
+  }
+ ]
+}

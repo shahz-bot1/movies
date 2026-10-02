@@ -1,0 +1,686 @@
+{
+ "id": 765,
+ "slug": "coolie",
+ "source_url": "https://fridaymatinee.in/boxoffice/coolie-765",
+ "captured_at": "2026-10-01T18:21:43.008349+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 765,
+    "title": "Coolie",
+    "img": "https://image.tmdb.org/t/p/original/kr36awqmziEI5mfUElsHB0pj9zP.jpg",
+    "released": "2025-08-14",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27441481",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "170 min",
+    "genre": "Action, Thriller, Crime",
+    "plot": "Deva, once living a quiet life, is shaken when his close friend dies under suspicious circumstances. Determined to uncover the truth, he infiltrates a powerful gang operating in the shadows. As he investigates, Deva becomes entangled in a dangerous web of crime, betrayal, and secrets from his own past, forcing him to confront powerful enemies while protecting the ones he loves.",
+    "released": "2025-08-13",
+    "director": "Lokesh Kanagaraj",
+    "directorSlug": "lokesh-kanagaraj",
+    "actors": [
+     "Rajinikanth",
+     "Nagarjuna Akkineni",
+     "Soubin Shahir",
+     "Upendra",
+     "Shruti Haasan",
+     "Sathyaraj"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 24940,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.2",
+      "votes": 95,
+      "updatedAt": "2026-09-24T16:10:46.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Rajinikanth",
+     "character": "Devaraj 'Deva'",
+     "slug": "rajinikanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cQBcrXqcQPfXOQfNfgO3slJM2xi.jpg"
+    },
+    {
+     "name": "Nagarjuna Akkineni",
+     "character": "Simon",
+     "slug": "nagarjuna-akkineni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/i42K59YZY2NbNfqxfo78YoFz6Bv.jpg"
+    },
+    {
+     "name": "Soubin Shahir",
+     "character": "Dhayal/Dilip",
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Upendra",
+     "character": "Kaleesha",
+     "slug": "upendra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lcxwf2cFMmO2JH1fGULGzfBprk.jpg"
+    },
+    {
+     "name": "Shruti Haasan",
+     "character": "Preeti",
+     "slug": "shruti-haasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1zYJuSccSA45VVBdgozpRcL99Rd.jpg"
+    },
+    {
+     "name": "Sathyaraj",
+     "character": "Rajasekar",
+     "slug": "sathyaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+    },
+    {
+     "name": "Aamir Khan",
+     "character": "Dahaa",
+     "slug": "aamir-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ayE2Ot15rqWU3YhPI3Yg8xBzVx7.jpg"
+    },
+    {
+     "name": "Rachita Ram",
+     "character": "Kalyani",
+     "slug": "rachita-ram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yYMsCColotfKj0pC4p1U9hjLOdv.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Lokesh Kanagaraj",
+       "slug": "lokesh-kanagaraj"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Lokesh Kanagaraj",
+       "slug": "lokesh-kanagaraj"
+      },
+      {
+       "name": "Chandhru Anbazhagan",
+       "slug": "chandhru-anbazhagan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Girish Gangadharan",
+       "slug": "girish-gangadharan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Philomin Raj",
+       "slug": "philomin-raj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kalanithi Maran",
+       "slug": "kalanithi-maran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sun Pictures",
+     "slug": "sun-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8KsxNPnM0y9Dk3fOcHqKUDw2XUs.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-11",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 229341793.79999998,
+    "totalShows": 16188,
+    "totalDays": 27,
+    "openingDay": {
+     "day": 1,
+     "gross": 90767279,
+     "date": "2025-08-14"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 90767279,
+     "date": "2025-08-14"
+    },
+    "chartPosition": {
+     "current_position": 43,
+     "weeks_on_chart": 0,
+     "peak_position": 29,
+     "last_week_position": 43
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-14"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 765,
+    "title": "Coolie",
+    "img": "https://image.tmdb.org/t/p/original/kr36awqmziEI5mfUElsHB0pj9zP.jpg",
+    "released": "2025-08-14",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27441481",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "170 min",
+    "genre": "Action, Thriller, Crime",
+    "plot": "Deva, once living a quiet life, is shaken when his close friend dies under suspicious circumstances. Determined to uncover the truth, he infiltrates a powerful gang operating in the shadows. As he investigates, Deva becomes entangled in a dangerous web of crime, betrayal, and secrets from his own past, forcing him to confront powerful enemies while protecting the ones he loves.",
+    "released": "2025-08-13",
+    "director": "Lokesh Kanagaraj",
+    "directorSlug": "lokesh-kanagaraj",
+    "actors": [
+     "Rajinikanth",
+     "Nagarjuna Akkineni",
+     "Soubin Shahir",
+     "Upendra",
+     "Shruti Haasan",
+     "Sathyaraj"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 24940,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.2",
+      "votes": 95,
+      "updatedAt": "2026-09-24T16:10:46.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Rajinikanth",
+     "character": "Devaraj 'Deva'",
+     "slug": "rajinikanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cQBcrXqcQPfXOQfNfgO3slJM2xi.jpg"
+    },
+    {
+     "name": "Nagarjuna Akkineni",
+     "character": "Simon",
+     "slug": "nagarjuna-akkineni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/i42K59YZY2NbNfqxfo78YoFz6Bv.jpg"
+    },
+    {
+     "name": "Soubin Shahir",
+     "character": "Dhayal/Dilip",
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Upendra",
+     "character": "Kaleesha",
+     "slug": "upendra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lcxwf2cFMmO2JH1fGULGzfBprk.jpg"
+    },
+    {
+     "name": "Shruti Haasan",
+     "character": "Preeti",
+     "slug": "shruti-haasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1zYJuSccSA45VVBdgozpRcL99Rd.jpg"
+    },
+    {
+     "name": "Sathyaraj",
+     "character": "Rajasekar",
+     "slug": "sathyaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+    },
+    {
+     "name": "Aamir Khan",
+     "character": "Dahaa",
+     "slug": "aamir-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ayE2Ot15rqWU3YhPI3Yg8xBzVx7.jpg"
+    },
+    {
+     "name": "Rachita Ram",
+     "character": "Kalyani",
+     "slug": "rachita-ram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yYMsCColotfKj0pC4p1U9hjLOdv.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Lokesh Kanagaraj",
+       "slug": "lokesh-kanagaraj"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Lokesh Kanagaraj",
+       "slug": "lokesh-kanagaraj"
+      },
+      {
+       "name": "Chandhru Anbazhagan",
+       "slug": "chandhru-anbazhagan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Girish Gangadharan",
+       "slug": "girish-gangadharan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Philomin Raj",
+       "slug": "philomin-raj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kalanithi Maran",
+       "slug": "kalanithi-maran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sun Pictures",
+     "slug": "sun-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8KsxNPnM0y9Dk3fOcHqKUDw2XUs.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-11",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-08-14",
+     "gross": 211330403.60000002,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 11112,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-21",
+     "gross": 17394901.799999997,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4915,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-28",
+     "gross": 521356.4,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 141,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-09-04",
+     "gross": 95132,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 20,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 229341793.80000004,
+    "totalShows": 16188,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 211330403.60000002
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 211330403.60000002
+    },
+    "chartPosition": {
+     "current_position": 43,
+     "weeks_on_chart": 0,
+     "peak_position": 29,
+     "last_week_position": 43
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-14"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 765,
+    "title": "Coolie",
+    "img": "https://image.tmdb.org/t/p/original/kr36awqmziEI5mfUElsHB0pj9zP.jpg",
+    "released": "2025-08-14",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27441481",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "170 min",
+    "genre": "Action, Thriller, Crime",
+    "plot": "Deva, once living a quiet life, is shaken when his close friend dies under suspicious circumstances. Determined to uncover the truth, he infiltrates a powerful gang operating in the shadows. As he investigates, Deva becomes entangled in a dangerous web of crime, betrayal, and secrets from his own past, forcing him to confront powerful enemies while protecting the ones he loves.",
+    "released": "2025-08-13",
+    "director": "Lokesh Kanagaraj",
+    "directorSlug": "lokesh-kanagaraj",
+    "actors": [
+     "Rajinikanth",
+     "Nagarjuna Akkineni",
+     "Soubin Shahir",
+     "Upendra",
+     "Shruti Haasan",
+     "Sathyaraj"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 24940,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.2",
+      "votes": 95,
+      "updatedAt": "2026-09-24T16:10:46.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Rajinikanth",
+     "character": "Devaraj 'Deva'",
+     "slug": "rajinikanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cQBcrXqcQPfXOQfNfgO3slJM2xi.jpg"
+    },
+    {
+     "name": "Nagarjuna Akkineni",
+     "character": "Simon",
+     "slug": "nagarjuna-akkineni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/i42K59YZY2NbNfqxfo78YoFz6Bv.jpg"
+    },
+    {
+     "name": "Soubin Shahir",
+     "character": "Dhayal/Dilip",
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Upendra",
+     "character": "Kaleesha",
+     "slug": "upendra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lcxwf2cFMmO2JH1fGULGzfBprk.jpg"
+    },
+    {
+     "name": "Shruti Haasan",
+     "character": "Preeti",
+     "slug": "shruti-haasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1zYJuSccSA45VVBdgozpRcL99Rd.jpg"
+    },
+    {
+     "name": "Sathyaraj",
+     "character": "Rajasekar",
+     "slug": "sathyaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+    },
+    {
+     "name": "Aamir Khan",
+     "character": "Dahaa",
+     "slug": "aamir-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ayE2Ot15rqWU3YhPI3Yg8xBzVx7.jpg"
+    },
+    {
+     "name": "Rachita Ram",
+     "character": "Kalyani",
+     "slug": "rachita-ram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yYMsCColotfKj0pC4p1U9hjLOdv.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Lokesh Kanagaraj",
+       "slug": "lokesh-kanagaraj"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Lokesh Kanagaraj",
+       "slug": "lokesh-kanagaraj"
+      },
+      {
+       "name": "Chandhru Anbazhagan",
+       "slug": "chandhru-anbazhagan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Girish Gangadharan",
+       "slug": "girish-gangadharan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Philomin Raj",
+       "slug": "philomin-raj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kalanithi Maran",
+       "slug": "kalanithi-maran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sun Pictures",
+     "slug": "sun-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8KsxNPnM0y9Dk3fOcHqKUDw2XUs.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-11",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 229341793.80000004,
+    "totalShows": 16188,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 50880052,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 50880052,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 43,
+     "weeks_on_chart": 0,
+     "peak_position": 29,
+     "last_week_position": 43
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-14"
+   }
+  }
+ }
+}

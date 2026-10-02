@@ -1,0 +1,908 @@
+{
+ "id": 697,
+ "slug": "f1-the-movie",
+ "source_url": "https://fridaymatinee.in/boxoffice/f1-the-movie-697",
+ "captured_at": "2026-10-01T18:19:37.853907+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 697,
+    "title": "F1 The Movie",
+    "img": "https://image.tmdb.org/t/p/original/cxq7ZfwV4BFhdvBLfN3VBJh03go.jpg",
+    "released": "2025-06-26",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt16311594",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "156 min",
+    "genre": "Action, Drama",
+    "plot": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
+    "released": "2025-06-25",
+    "director": "Joseph Kosinski",
+    "directorSlug": "joseph-kosinski",
+    "actors": [
+     "Brad Pitt",
+     "Damson Idris",
+     "Javier Bardem",
+     "Kerry Condon",
+     "Tobias Menzies",
+     "Kim Bodnia"
+    ],
+    "awards": "Nominated for 4 Oscars. 18 wins u0026 123 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.6",
+      "votes": 393949,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.8",
+      "votes": 4707,
+      "updatedAt": "2026-09-24T16:11:06.000Z"
+     },
+     "rt": "82%",
+     "metascore": 68,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Brad Pitt",
+     "character": "Sonny Hayes",
+     "slug": "brad-pitt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+    },
+    {
+     "name": "Damson Idris",
+     "character": "Joshua Pearce",
+     "slug": "damson-idris",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y0dcRs4GF6Xx23OxDr1ytc8thlL.jpg"
+    },
+    {
+     "name": "Javier Bardem",
+     "character": "Ruben Cervantes",
+     "slug": "javier-bardem",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p5xjCovj1uzvA2SXrWLH78Nh1Jf.jpg"
+    },
+    {
+     "name": "Kerry Condon",
+     "character": "Kate McKenna",
+     "slug": "kerry-condon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8RO25vJxQSoNdhsVbiAHOsiGfvl.jpg"
+    },
+    {
+     "name": "Tobias Menzies",
+     "character": "Peter Banning",
+     "slug": "tobias-menzies",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hGhAw2obMEOu1K0ed9b3jds9thf.jpg"
+    },
+    {
+     "name": "Kim Bodnia",
+     "character": "Kaspar Smolinski",
+     "slug": "kim-bodnia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/koWU6vb82cuCDLeYE1erqnQ39cW.jpg"
+    },
+    {
+     "name": "Sarah Niles",
+     "character": "Bernadette",
+     "slug": "sarah-niles",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ySelhnmCCX9VnlPvceO9c5XOelK.jpg"
+    },
+    {
+     "name": "Will Merrick",
+     "character": "Nickleby",
+     "slug": "will-merrick",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3IVuzHqE8FIBV679o4VGrZInpsE.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Joseph Kosinski",
+       "slug": "joseph-kosinski"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ehren Kruger",
+       "slug": "ehren-kruger"
+      },
+      {
+       "name": "Joseph Kosinski",
+       "slug": "joseph-kosinski"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hans Zimmer",
+       "slug": "hans-zimmer"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Claudio Miranda",
+       "slug": "claudio-miranda"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Stephen Mirrione",
+       "slug": "stephen-mirrione"
+      },
+      {
+       "name": "Patrick J. Smith",
+       "slug": "patrick-j-smith"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Lewis Hamilton",
+       "slug": "lewis-hamilton"
+      },
+      {
+       "name": "Joseph Kosinski",
+       "slug": "joseph-kosinski"
+      },
+      {
+       "name": "Chad Oman",
+       "slug": "chad-oman"
+      },
+      {
+       "name": "Jerry Bruckheimer",
+       "slug": "jerry-bruckheimer"
+      },
+      {
+       "name": "Brad Pitt",
+       "slug": "brad-pitt"
+      },
+      {
+       "name": "Jeremy Kleiner",
+       "slug": "jeremy-kleiner"
+      },
+      {
+       "name": "Dede Gardner",
+       "slug": "dede-gardner"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Plan B Entertainment",
+     "slug": "plan-b-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png"
+    },
+    {
+     "name": "Jerry Bruckheimer Films",
+     "slug": "jerry-bruckheimer-films",
+     "logo": "https://image.tmdb.org/t/p/w185/c9dVHPOL3cqCr2593Ahk0nEKTEM.png"
+    },
+    {
+     "name": "Dawn Apollo Films",
+     "slug": "dawn-apollo-films",
+     "logo": null
+    },
+    {
+     "name": "Apple Studios",
+     "slug": "apple-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/oE7H93u8sy5vvW5EH3fpCp68vvB.png"
+    },
+    {
+     "name": "Monolith Pictures",
+     "slug": "monolith-pictures",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-12-12",
+    "platforms": [
+     {
+      "id": 350,
+      "name": "Apple TV",
+      "logoPath": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2243,
+      "name": "Apple TV Amazon Channel",
+      "logoPath": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 81638292.6,
+    "totalShows": 6570,
+    "totalDays": 70,
+    "openingDay": {
+     "day": 1,
+     "gross": 5341587.4,
+     "date": "2025-06-27"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 6398296.2,
+     "date": "2025-06-29"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 79,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-06-26"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 697,
+    "title": "F1 The Movie",
+    "img": "https://image.tmdb.org/t/p/original/cxq7ZfwV4BFhdvBLfN3VBJh03go.jpg",
+    "released": "2025-06-26",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt16311594",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "156 min",
+    "genre": "Action, Drama",
+    "plot": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
+    "released": "2025-06-25",
+    "director": "Joseph Kosinski",
+    "directorSlug": "joseph-kosinski",
+    "actors": [
+     "Brad Pitt",
+     "Damson Idris",
+     "Javier Bardem",
+     "Kerry Condon",
+     "Tobias Menzies",
+     "Kim Bodnia"
+    ],
+    "awards": "Nominated for 4 Oscars. 18 wins u0026 123 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.6",
+      "votes": 393949,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.8",
+      "votes": 4707,
+      "updatedAt": "2026-09-24T16:11:06.000Z"
+     },
+     "rt": "82%",
+     "metascore": 68,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Brad Pitt",
+     "character": "Sonny Hayes",
+     "slug": "brad-pitt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+    },
+    {
+     "name": "Damson Idris",
+     "character": "Joshua Pearce",
+     "slug": "damson-idris",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y0dcRs4GF6Xx23OxDr1ytc8thlL.jpg"
+    },
+    {
+     "name": "Javier Bardem",
+     "character": "Ruben Cervantes",
+     "slug": "javier-bardem",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p5xjCovj1uzvA2SXrWLH78Nh1Jf.jpg"
+    },
+    {
+     "name": "Kerry Condon",
+     "character": "Kate McKenna",
+     "slug": "kerry-condon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8RO25vJxQSoNdhsVbiAHOsiGfvl.jpg"
+    },
+    {
+     "name": "Tobias Menzies",
+     "character": "Peter Banning",
+     "slug": "tobias-menzies",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hGhAw2obMEOu1K0ed9b3jds9thf.jpg"
+    },
+    {
+     "name": "Kim Bodnia",
+     "character": "Kaspar Smolinski",
+     "slug": "kim-bodnia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/koWU6vb82cuCDLeYE1erqnQ39cW.jpg"
+    },
+    {
+     "name": "Sarah Niles",
+     "character": "Bernadette",
+     "slug": "sarah-niles",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ySelhnmCCX9VnlPvceO9c5XOelK.jpg"
+    },
+    {
+     "name": "Will Merrick",
+     "character": "Nickleby",
+     "slug": "will-merrick",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3IVuzHqE8FIBV679o4VGrZInpsE.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Joseph Kosinski",
+       "slug": "joseph-kosinski"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ehren Kruger",
+       "slug": "ehren-kruger"
+      },
+      {
+       "name": "Joseph Kosinski",
+       "slug": "joseph-kosinski"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hans Zimmer",
+       "slug": "hans-zimmer"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Claudio Miranda",
+       "slug": "claudio-miranda"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Stephen Mirrione",
+       "slug": "stephen-mirrione"
+      },
+      {
+       "name": "Patrick J. Smith",
+       "slug": "patrick-j-smith"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Lewis Hamilton",
+       "slug": "lewis-hamilton"
+      },
+      {
+       "name": "Joseph Kosinski",
+       "slug": "joseph-kosinski"
+      },
+      {
+       "name": "Chad Oman",
+       "slug": "chad-oman"
+      },
+      {
+       "name": "Jerry Bruckheimer",
+       "slug": "jerry-bruckheimer"
+      },
+      {
+       "name": "Brad Pitt",
+       "slug": "brad-pitt"
+      },
+      {
+       "name": "Jeremy Kleiner",
+       "slug": "jeremy-kleiner"
+      },
+      {
+       "name": "Dede Gardner",
+       "slug": "dede-gardner"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Plan B Entertainment",
+     "slug": "plan-b-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png"
+    },
+    {
+     "name": "Jerry Bruckheimer Films",
+     "slug": "jerry-bruckheimer-films",
+     "logo": "https://image.tmdb.org/t/p/w185/c9dVHPOL3cqCr2593Ahk0nEKTEM.png"
+    },
+    {
+     "name": "Dawn Apollo Films",
+     "slug": "dawn-apollo-films",
+     "logo": null
+    },
+    {
+     "name": "Apple Studios",
+     "slug": "apple-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/oE7H93u8sy5vvW5EH3fpCp68vvB.png"
+    },
+    {
+     "name": "Monolith Pictures",
+     "slug": "monolith-pictures",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-12-12",
+    "platforms": [
+     {
+      "id": 350,
+      "name": "Apple TV",
+      "logoPath": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2243,
+      "name": "Apple TV Amazon Channel",
+      "logoPath": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-06-27",
+     "gross": 30287697.2,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2580,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-07-04",
+     "gross": 21197227.4,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1376,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-07-11",
+     "gross": 9984154,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1213,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-07-18",
+     "gross": 8849485,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 659,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-07-25",
+     "gross": 2377981,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 266,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-01",
+     "gross": 3522853,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 178,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-08",
+     "gross": 2570087,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 147,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-15",
+     "gross": 806690,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 39,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-22",
+     "gross": 1163038,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 70,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-29",
+     "gross": 879080,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 42,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 81638292.6,
+    "totalShows": 6570,
+    "totalDays": 10,
+    "openingDay": {
+     "day": 1,
+     "gross": 30287697.2
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 30287697.2
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 79,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-06-26"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 697,
+    "title": "F1 The Movie",
+    "img": "https://image.tmdb.org/t/p/original/cxq7ZfwV4BFhdvBLfN3VBJh03go.jpg",
+    "released": "2025-06-26",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt16311594",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "156 min",
+    "genre": "Action, Drama",
+    "plot": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
+    "released": "2025-06-25",
+    "director": "Joseph Kosinski",
+    "directorSlug": "joseph-kosinski",
+    "actors": [
+     "Brad Pitt",
+     "Damson Idris",
+     "Javier Bardem",
+     "Kerry Condon",
+     "Tobias Menzies",
+     "Kim Bodnia"
+    ],
+    "awards": "Nominated for 4 Oscars. 18 wins u0026 123 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.6",
+      "votes": 393949,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.8",
+      "votes": 4707,
+      "updatedAt": "2026-09-24T16:11:06.000Z"
+     },
+     "rt": "82%",
+     "metascore": 68,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Brad Pitt",
+     "character": "Sonny Hayes",
+     "slug": "brad-pitt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+    },
+    {
+     "name": "Damson Idris",
+     "character": "Joshua Pearce",
+     "slug": "damson-idris",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y0dcRs4GF6Xx23OxDr1ytc8thlL.jpg"
+    },
+    {
+     "name": "Javier Bardem",
+     "character": "Ruben Cervantes",
+     "slug": "javier-bardem",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p5xjCovj1uzvA2SXrWLH78Nh1Jf.jpg"
+    },
+    {
+     "name": "Kerry Condon",
+     "character": "Kate McKenna",
+     "slug": "kerry-condon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8RO25vJxQSoNdhsVbiAHOsiGfvl.jpg"
+    },
+    {
+     "name": "Tobias Menzies",
+     "character": "Peter Banning",
+     "slug": "tobias-menzies",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hGhAw2obMEOu1K0ed9b3jds9thf.jpg"
+    },
+    {
+     "name": "Kim Bodnia",
+     "character": "Kaspar Smolinski",
+     "slug": "kim-bodnia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/koWU6vb82cuCDLeYE1erqnQ39cW.jpg"
+    },
+    {
+     "name": "Sarah Niles",
+     "character": "Bernadette",
+     "slug": "sarah-niles",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ySelhnmCCX9VnlPvceO9c5XOelK.jpg"
+    },
+    {
+     "name": "Will Merrick",
+     "character": "Nickleby",
+     "slug": "will-merrick",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3IVuzHqE8FIBV679o4VGrZInpsE.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Joseph Kosinski",
+       "slug": "joseph-kosinski"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ehren Kruger",
+       "slug": "ehren-kruger"
+      },
+      {
+       "name": "Joseph Kosinski",
+       "slug": "joseph-kosinski"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hans Zimmer",
+       "slug": "hans-zimmer"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Claudio Miranda",
+       "slug": "claudio-miranda"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Stephen Mirrione",
+       "slug": "stephen-mirrione"
+      },
+      {
+       "name": "Patrick J. Smith",
+       "slug": "patrick-j-smith"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Lewis Hamilton",
+       "slug": "lewis-hamilton"
+      },
+      {
+       "name": "Joseph Kosinski",
+       "slug": "joseph-kosinski"
+      },
+      {
+       "name": "Chad Oman",
+       "slug": "chad-oman"
+      },
+      {
+       "name": "Jerry Bruckheimer",
+       "slug": "jerry-bruckheimer"
+      },
+      {
+       "name": "Brad Pitt",
+       "slug": "brad-pitt"
+      },
+      {
+       "name": "Jeremy Kleiner",
+       "slug": "jeremy-kleiner"
+      },
+      {
+       "name": "Dede Gardner",
+       "slug": "dede-gardner"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Plan B Entertainment",
+     "slug": "plan-b-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png"
+    },
+    {
+     "name": "Jerry Bruckheimer Films",
+     "slug": "jerry-bruckheimer-films",
+     "logo": "https://image.tmdb.org/t/p/w185/c9dVHPOL3cqCr2593Ahk0nEKTEM.png"
+    },
+    {
+     "name": "Dawn Apollo Films",
+     "slug": "dawn-apollo-films",
+     "logo": null
+    },
+    {
+     "name": "Apple Studios",
+     "slug": "apple-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/oE7H93u8sy5vvW5EH3fpCp68vvB.png"
+    },
+    {
+     "name": "Monolith Pictures",
+     "slug": "monolith-pictures",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-12-12",
+    "platforms": [
+     {
+      "id": 350,
+      "name": "Apple TV",
+      "logoPath": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2243,
+      "name": "Apple TV Amazon Channel",
+      "logoPath": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 81638292.6,
+    "totalShows": 6570,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 45541825,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 45541825,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 79,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-06-26"
+   }
+  }
+ }
+}

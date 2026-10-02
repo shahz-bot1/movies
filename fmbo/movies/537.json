@@ -1,0 +1,737 @@
+{
+ "id": 537,
+ "slug": "lucky-baskhar",
+ "source_url": "https://fridaymatinee.in/boxoffice/lucky-baskhar-537",
+ "captured_at": "2026-10-01T18:14:48.496587+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 537,
+    "title": "Lucky Baskhar",
+    "img": "https://image.tmdb.org/t/p/original/cIIpmSjrVkzquAlmydiD40JENmv.jpg",
+    "released": "2024-10-31",
+    "language": "Telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27540542",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "148 min",
+    "genre": "Thriller, Crime, Drama",
+    "plot": "A cash-strapped bank cashier embarks on a risky investment scheme and soon gets drawn into the murky world of money laundering.",
+    "released": "2024-10-30",
+    "director": "Venky Atluri",
+    "directorSlug": "venky-atluri",
+    "actors": [
+     "Dulquer Salmaan",
+     "Meenakshi Chaudhary",
+     "Rajkumar Kasireddy",
+     "Ramki",
+     "Maganti Srinath",
+     "Sai Kumar"
+    ],
+    "awards": "2 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.0",
+      "votes": 43782,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.7",
+      "votes": 103,
+      "updatedAt": "2026-09-24T19:10:53.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dulquer Salmaan",
+     "character": "Baskhar Kumar",
+     "slug": "dulquer-salmaan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AT3qDRakZQSZ6HVj7sQFUzN07N.jpg"
+    },
+    {
+     "name": "Meenakshi Chaudhary",
+     "character": "Sumathi Kumar",
+     "slug": "meenakshi-chaudhary",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hUIpX29tedOatiBW5fqtnD9Xi0z.jpg"
+    },
+    {
+     "name": "Rajkumar Kasireddy",
+     "character": "Samba",
+     "slug": "rajkumar-kasireddy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u7kPoGR1d3Xuo633V4hIBdhiLdm.jpg"
+    },
+    {
+     "name": "Ramki",
+     "character": "Anthony",
+     "slug": "ramki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vLlfDwmoNzQJsmuVQezZbJyb387.jpg"
+    },
+    {
+     "name": "Maganti Srinath",
+     "character": "Suraj",
+     "slug": "maganti-srinath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yQMTvHK35dP1vs7NZd9AXTfh7fg.jpg"
+    },
+    {
+     "name": "Sai Kumar",
+     "character": "CBI Officer Lakshman",
+     "slug": "sai-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Xq5VNf8rPgQF0tuQLjl5YwHPoc.jpg"
+    },
+    {
+     "name": "Sachin Khedekar",
+     "character": "Vinod Bhosle",
+     "slug": "sachin-khedekar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jRSgXFTDAbAb4RsW9nvNYsdhxWo.jpg"
+    },
+    {
+     "name": "Tinnu Anand",
+     "character": "Rajveer Lokhande",
+     "slug": "tinnu-anand",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6fkEiZKNp6jnOQmfQKEjVinhUeL.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Venky Atluri",
+       "slug": "venky-atluri"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Venky Atluri",
+       "slug": "venky-atluri"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "G. V. Prakash Kumar",
+       "slug": "g-v-prakash-kumar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nimish Ravi",
+       "slug": "nimish-ravi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Naveen Nooli",
+       "slug": "naveen-nooli"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sai Soujanya",
+       "slug": "sai-soujanya"
+      },
+      {
+       "name": "Suryadevara Naga Vamsi",
+       "slug": "suryadevara-naga-vamsi"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sithara Entertainments",
+     "slug": "sithara-entertainments",
+     "logo": "https://image.tmdb.org/t/p/w185/qNLrEbrNigDNR6QgaRtwXtRIwgx.png"
+    },
+    {
+     "name": "Fortune Four Cinemas",
+     "slug": "fortune-four-cinemas",
+     "logo": null
+    },
+    {
+     "name": "Srikara Studios",
+     "slug": "srikara-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 174077313.00000003,
+    "totalShows": 14014,
+    "totalDays": 43,
+    "openingDay": {
+     "day": 1,
+     "gross": 16585746.200000001,
+     "date": "2024-10-31"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 21575925.799999993,
+     "date": "2024-11-03"
+    },
+    "chartPosition": {
+     "current_position": 58,
+     "weeks_on_chart": 0,
+     "peak_position": 31,
+     "last_week_position": 57
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-10-31"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 537,
+    "title": "Lucky Baskhar",
+    "img": "https://image.tmdb.org/t/p/original/cIIpmSjrVkzquAlmydiD40JENmv.jpg",
+    "released": "2024-10-31",
+    "language": "Telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27540542",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "148 min",
+    "genre": "Thriller, Crime, Drama",
+    "plot": "A cash-strapped bank cashier embarks on a risky investment scheme and soon gets drawn into the murky world of money laundering.",
+    "released": "2024-10-30",
+    "director": "Venky Atluri",
+    "directorSlug": "venky-atluri",
+    "actors": [
+     "Dulquer Salmaan",
+     "Meenakshi Chaudhary",
+     "Rajkumar Kasireddy",
+     "Ramki",
+     "Maganti Srinath",
+     "Sai Kumar"
+    ],
+    "awards": "2 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.0",
+      "votes": 43782,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.7",
+      "votes": 103,
+      "updatedAt": "2026-09-24T19:10:53.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dulquer Salmaan",
+     "character": "Baskhar Kumar",
+     "slug": "dulquer-salmaan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AT3qDRakZQSZ6HVj7sQFUzN07N.jpg"
+    },
+    {
+     "name": "Meenakshi Chaudhary",
+     "character": "Sumathi Kumar",
+     "slug": "meenakshi-chaudhary",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hUIpX29tedOatiBW5fqtnD9Xi0z.jpg"
+    },
+    {
+     "name": "Rajkumar Kasireddy",
+     "character": "Samba",
+     "slug": "rajkumar-kasireddy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u7kPoGR1d3Xuo633V4hIBdhiLdm.jpg"
+    },
+    {
+     "name": "Ramki",
+     "character": "Anthony",
+     "slug": "ramki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vLlfDwmoNzQJsmuVQezZbJyb387.jpg"
+    },
+    {
+     "name": "Maganti Srinath",
+     "character": "Suraj",
+     "slug": "maganti-srinath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yQMTvHK35dP1vs7NZd9AXTfh7fg.jpg"
+    },
+    {
+     "name": "Sai Kumar",
+     "character": "CBI Officer Lakshman",
+     "slug": "sai-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Xq5VNf8rPgQF0tuQLjl5YwHPoc.jpg"
+    },
+    {
+     "name": "Sachin Khedekar",
+     "character": "Vinod Bhosle",
+     "slug": "sachin-khedekar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jRSgXFTDAbAb4RsW9nvNYsdhxWo.jpg"
+    },
+    {
+     "name": "Tinnu Anand",
+     "character": "Rajveer Lokhande",
+     "slug": "tinnu-anand",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6fkEiZKNp6jnOQmfQKEjVinhUeL.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Venky Atluri",
+       "slug": "venky-atluri"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Venky Atluri",
+       "slug": "venky-atluri"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "G. V. Prakash Kumar",
+       "slug": "g-v-prakash-kumar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nimish Ravi",
+       "slug": "nimish-ravi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Naveen Nooli",
+       "slug": "naveen-nooli"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sai Soujanya",
+       "slug": "sai-soujanya"
+      },
+      {
+       "name": "Suryadevara Naga Vamsi",
+       "slug": "suryadevara-naga-vamsi"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sithara Entertainments",
+     "slug": "sithara-entertainments",
+     "logo": "https://image.tmdb.org/t/p/w185/qNLrEbrNigDNR6QgaRtwXtRIwgx.png"
+    },
+    {
+     "name": "Fortune Four Cinemas",
+     "slug": "fortune-four-cinemas",
+     "logo": null
+    },
+    {
+     "name": "Srikara Studios",
+     "slug": "srikara-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-10-31",
+     "gross": 96699532.6,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5260,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-11-07",
+     "gross": 48198012.20000001,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4328,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-11-14",
+     "gross": 21242362.399999995,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2617,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-11-21",
+     "gross": 6088266.599999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1473,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-11-28",
+     "gross": 1622352.1999999997,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 304,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-12-05",
+     "gross": 217177,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 29,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-12-12",
+     "gross": 9610,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 174077313,
+    "totalShows": 14014,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 96699532.6
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 96699532.6
+    },
+    "chartPosition": {
+     "current_position": 58,
+     "weeks_on_chart": 0,
+     "peak_position": 31,
+     "last_week_position": 57
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-10-31"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 537,
+    "title": "Lucky Baskhar",
+    "img": "https://image.tmdb.org/t/p/original/cIIpmSjrVkzquAlmydiD40JENmv.jpg",
+    "released": "2024-10-31",
+    "language": "Telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27540542",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "148 min",
+    "genre": "Thriller, Crime, Drama",
+    "plot": "A cash-strapped bank cashier embarks on a risky investment scheme and soon gets drawn into the murky world of money laundering.",
+    "released": "2024-10-30",
+    "director": "Venky Atluri",
+    "directorSlug": "venky-atluri",
+    "actors": [
+     "Dulquer Salmaan",
+     "Meenakshi Chaudhary",
+     "Rajkumar Kasireddy",
+     "Ramki",
+     "Maganti Srinath",
+     "Sai Kumar"
+    ],
+    "awards": "2 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.0",
+      "votes": 43782,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.7",
+      "votes": 103,
+      "updatedAt": "2026-09-24T19:10:53.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dulquer Salmaan",
+     "character": "Baskhar Kumar",
+     "slug": "dulquer-salmaan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AT3qDRakZQSZ6HVj7sQFUzN07N.jpg"
+    },
+    {
+     "name": "Meenakshi Chaudhary",
+     "character": "Sumathi Kumar",
+     "slug": "meenakshi-chaudhary",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hUIpX29tedOatiBW5fqtnD9Xi0z.jpg"
+    },
+    {
+     "name": "Rajkumar Kasireddy",
+     "character": "Samba",
+     "slug": "rajkumar-kasireddy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u7kPoGR1d3Xuo633V4hIBdhiLdm.jpg"
+    },
+    {
+     "name": "Ramki",
+     "character": "Anthony",
+     "slug": "ramki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vLlfDwmoNzQJsmuVQezZbJyb387.jpg"
+    },
+    {
+     "name": "Maganti Srinath",
+     "character": "Suraj",
+     "slug": "maganti-srinath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yQMTvHK35dP1vs7NZd9AXTfh7fg.jpg"
+    },
+    {
+     "name": "Sai Kumar",
+     "character": "CBI Officer Lakshman",
+     "slug": "sai-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/Xq5VNf8rPgQF0tuQLjl5YwHPoc.jpg"
+    },
+    {
+     "name": "Sachin Khedekar",
+     "character": "Vinod Bhosle",
+     "slug": "sachin-khedekar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jRSgXFTDAbAb4RsW9nvNYsdhxWo.jpg"
+    },
+    {
+     "name": "Tinnu Anand",
+     "character": "Rajveer Lokhande",
+     "slug": "tinnu-anand",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6fkEiZKNp6jnOQmfQKEjVinhUeL.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Venky Atluri",
+       "slug": "venky-atluri"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Venky Atluri",
+       "slug": "venky-atluri"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "G. V. Prakash Kumar",
+       "slug": "g-v-prakash-kumar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nimish Ravi",
+       "slug": "nimish-ravi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Naveen Nooli",
+       "slug": "naveen-nooli"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sai Soujanya",
+       "slug": "sai-soujanya"
+      },
+      {
+       "name": "Suryadevara Naga Vamsi",
+       "slug": "suryadevara-naga-vamsi"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sithara Entertainments",
+     "slug": "sithara-entertainments",
+     "logo": "https://image.tmdb.org/t/p/w185/qNLrEbrNigDNR6QgaRtwXtRIwgx.png"
+    },
+    {
+     "name": "Fortune Four Cinemas",
+     "slug": "fortune-four-cinemas",
+     "logo": null
+    },
+    {
+     "name": "Srikara Studios",
+     "slug": "srikara-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 174077313,
+    "totalShows": 14014,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 41312893,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 41312893,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 58,
+     "weeks_on_chart": 0,
+     "peak_position": 31,
+     "last_week_position": 57
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-10-31"
+   }
+  }
+ }
+}

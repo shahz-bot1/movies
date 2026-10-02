@@ -1,0 +1,48 @@
+{
+ "slug": "colman-domingo",
+ "name": "Colman Domingo",
+ "source_url": "https://fridaymatinee.in/people/colman-domingo",
+ "captured_at": "2026-10-01T21:40:29.775528+00:00",
+ "person": {
+  "name": "Colman Domingo",
+  "photo": "https://image.tmdb.org/t/p/w185/t0cgfvtA7Thxnrtj5baRi656zlc.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 879,
+   "movie_slug": "the-running-man",
+   "title": "The Running Man",
+   "year": 2025,
+   "kerala_gross": "₹7.5L"
+  },
+  {
+   "movie_id": 923,
+   "movie_slug": "wicked-for-good",
+   "title": "Wicked: For Good",
+   "year": 2025,
+   "kerala_gross": "₹9.0L"
+  },
+  {
+   "movie_id": 1080,
+   "movie_slug": "michael",
+   "title": "Michael",
+   "year": 2026,
+   "kerala_gross": "₹5.6 Cr"
+  },
+  {
+   "movie_id": 1143,
+   "movie_slug": "disclosure-day",
+   "title": "Disclosure Day",
+   "year": 2026,
+   "kerala_gross": "₹48.4L"
+  }
+ ]
+}

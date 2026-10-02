@@ -1,0 +1,694 @@
+{
+ "id": 701,
+ "slug": "thug-life",
+ "source_url": "https://fridaymatinee.in/boxoffice/thug-life-701",
+ "captured_at": "2026-10-01T18:19:47.962199+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 701,
+    "title": "Thug Life",
+    "img": "https://image.tmdb.org/t/p/original/DmBbUtbA3T9sdVXDgIJ8bsIDw0.jpg",
+    "released": "2025-06-05",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt23398540",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "165 min",
+    "genre": "Action, Crime, Drama",
+    "plot": "In a world ruled by crime and betrayal, mafia kingpin Sakthivel and his brother Manikkam rescue a young boy, Amaran, during a violent police shootout and raise him as their own. Years later, when an assassination attempt shakes Sakthivel's empire, suspicion turns inward. Consumed by vengeance, Sakthivel sets out to destroy the very family he once built.",
+    "released": "2025-06-04",
+    "director": "Mani Ratnam",
+    "directorSlug": "mani-ratnam",
+    "actors": [
+     "Kamal Haasan",
+     "Silambarasan",
+     "Trisha Krishnan",
+     "Ashok Selvan",
+     "Abhirami",
+     "Nassar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.1",
+      "votes": 6986,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "25%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kamal Haasan",
+     "character": "Rangaraya Sakthivel",
+     "slug": "kamal-haasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lKzmFToG07dhOZpb5inh0nUsRUZ.jpg"
+    },
+    {
+     "name": "Silambarasan",
+     "character": "Amaran",
+     "slug": "silambarasan-rajendar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1T35CiKVldfxElZfQqaoN6GhvuU.jpg"
+    },
+    {
+     "name": "Trisha Krishnan",
+     "character": "Indrani",
+     "slug": "trisha-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sirse7oOd1ACEEQBVF4PHJHPUup.jpg"
+    },
+    {
+     "name": "Ashok Selvan",
+     "character": "Jaikumar Royappa",
+     "slug": "ashok-selvan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qA8w8hRmyw7IWxIuM64s7aPwqbe.jpg"
+    },
+    {
+     "name": "Abhirami",
+     "character": "Jeeva",
+     "slug": "abhirami",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1TVXmU20s1mrIHEM5f8WpxWDEsd.jpg"
+    },
+    {
+     "name": "Nassar",
+     "character": "Manikkam",
+     "slug": "nassar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg"
+    },
+    {
+     "name": "Joju George",
+     "character": "Kanjirapally Pathros",
+     "slug": "joju-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jCObRH5idadzrTvyC9XnlnR8rXH.jpg"
+    },
+    {
+     "name": "Ali Fazal",
+     "character": "Deepak Yadav",
+     "slug": "ali-fazal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lLDmx3RDuMXObASvdFXeUh1GOgd.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Mani Ratnam",
+       "slug": "mani-ratnam"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Mani Ratnam",
+       "slug": "mani-ratnam"
+      },
+      {
+       "name": "Kamal Haasan",
+       "slug": "kamal-haasan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "A.R. Rahman",
+       "slug": "a-r-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ravi K. Chandran",
+       "slug": "ravi-k-chandran"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreekar Prasad",
+       "slug": "sreekar-prasad"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kamal Haasan",
+       "slug": "kamal-haasan"
+      },
+      {
+       "name": "Mani Ratnam",
+       "slug": "mani-ratnam"
+      },
+      {
+       "name": "R. Mahendran",
+       "slug": "r-mahendran"
+      },
+      {
+       "name": "Sivakumar Ananth",
+       "slug": "sivakumar-ananth"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Raajkamal Films International",
+     "slug": "raajkamal-films-international",
+     "logo": "https://image.tmdb.org/t/p/w185/tanmRcGlEgtAZhdcU7kMGZvYFbr.png"
+    },
+    {
+     "name": "Madras Talkies",
+     "slug": "madras-talkies",
+     "logo": "https://image.tmdb.org/t/p/w185/jXbf95osKAVplKg6cwLDUldS6CG.png"
+    },
+    {
+     "name": "Red Giant Movies",
+     "slug": "red-giant-movies",
+     "logo": "https://image.tmdb.org/t/p/w185/fXCywdThbIhPq5jb2488WZ8t6bg.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 22360026.799999997,
+    "totalShows": 5162,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 10948938.399999999,
+     "date": "2025-06-05"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 10948938.399999999,
+     "date": "2025-06-05"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-06-05"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 701,
+    "title": "Thug Life",
+    "img": "https://image.tmdb.org/t/p/original/DmBbUtbA3T9sdVXDgIJ8bsIDw0.jpg",
+    "released": "2025-06-05",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt23398540",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "165 min",
+    "genre": "Action, Crime, Drama",
+    "plot": "In a world ruled by crime and betrayal, mafia kingpin Sakthivel and his brother Manikkam rescue a young boy, Amaran, during a violent police shootout and raise him as their own. Years later, when an assassination attempt shakes Sakthivel's empire, suspicion turns inward. Consumed by vengeance, Sakthivel sets out to destroy the very family he once built.",
+    "released": "2025-06-04",
+    "director": "Mani Ratnam",
+    "directorSlug": "mani-ratnam",
+    "actors": [
+     "Kamal Haasan",
+     "Silambarasan",
+     "Trisha Krishnan",
+     "Ashok Selvan",
+     "Abhirami",
+     "Nassar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.1",
+      "votes": 6986,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "25%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kamal Haasan",
+     "character": "Rangaraya Sakthivel",
+     "slug": "kamal-haasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lKzmFToG07dhOZpb5inh0nUsRUZ.jpg"
+    },
+    {
+     "name": "Silambarasan",
+     "character": "Amaran",
+     "slug": "silambarasan-rajendar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1T35CiKVldfxElZfQqaoN6GhvuU.jpg"
+    },
+    {
+     "name": "Trisha Krishnan",
+     "character": "Indrani",
+     "slug": "trisha-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sirse7oOd1ACEEQBVF4PHJHPUup.jpg"
+    },
+    {
+     "name": "Ashok Selvan",
+     "character": "Jaikumar Royappa",
+     "slug": "ashok-selvan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qA8w8hRmyw7IWxIuM64s7aPwqbe.jpg"
+    },
+    {
+     "name": "Abhirami",
+     "character": "Jeeva",
+     "slug": "abhirami",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1TVXmU20s1mrIHEM5f8WpxWDEsd.jpg"
+    },
+    {
+     "name": "Nassar",
+     "character": "Manikkam",
+     "slug": "nassar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg"
+    },
+    {
+     "name": "Joju George",
+     "character": "Kanjirapally Pathros",
+     "slug": "joju-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jCObRH5idadzrTvyC9XnlnR8rXH.jpg"
+    },
+    {
+     "name": "Ali Fazal",
+     "character": "Deepak Yadav",
+     "slug": "ali-fazal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lLDmx3RDuMXObASvdFXeUh1GOgd.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Mani Ratnam",
+       "slug": "mani-ratnam"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Mani Ratnam",
+       "slug": "mani-ratnam"
+      },
+      {
+       "name": "Kamal Haasan",
+       "slug": "kamal-haasan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "A.R. Rahman",
+       "slug": "a-r-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ravi K. Chandran",
+       "slug": "ravi-k-chandran"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreekar Prasad",
+       "slug": "sreekar-prasad"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kamal Haasan",
+       "slug": "kamal-haasan"
+      },
+      {
+       "name": "Mani Ratnam",
+       "slug": "mani-ratnam"
+      },
+      {
+       "name": "R. Mahendran",
+       "slug": "r-mahendran"
+      },
+      {
+       "name": "Sivakumar Ananth",
+       "slug": "sivakumar-ananth"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Raajkamal Films International",
+     "slug": "raajkamal-films-international",
+     "logo": "https://image.tmdb.org/t/p/w185/tanmRcGlEgtAZhdcU7kMGZvYFbr.png"
+    },
+    {
+     "name": "Madras Talkies",
+     "slug": "madras-talkies",
+     "logo": "https://image.tmdb.org/t/p/w185/jXbf95osKAVplKg6cwLDUldS6CG.png"
+    },
+    {
+     "name": "Red Giant Movies",
+     "slug": "red-giant-movies",
+     "logo": "https://image.tmdb.org/t/p/w185/fXCywdThbIhPq5jb2488WZ8t6bg.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-06-05",
+     "gross": 21469906.799999997,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4825,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-06-12",
+     "gross": 882020,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 329,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-06-19",
+     "gross": 8100,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 8,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 22360026.799999997,
+    "totalShows": 5162,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 21469906.799999997
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 21469906.799999997
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-06-05"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 701,
+    "title": "Thug Life",
+    "img": "https://image.tmdb.org/t/p/original/DmBbUtbA3T9sdVXDgIJ8bsIDw0.jpg",
+    "released": "2025-06-05",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt23398540",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "165 min",
+    "genre": "Action, Crime, Drama",
+    "plot": "In a world ruled by crime and betrayal, mafia kingpin Sakthivel and his brother Manikkam rescue a young boy, Amaran, during a violent police shootout and raise him as their own. Years later, when an assassination attempt shakes Sakthivel's empire, suspicion turns inward. Consumed by vengeance, Sakthivel sets out to destroy the very family he once built.",
+    "released": "2025-06-04",
+    "director": "Mani Ratnam",
+    "directorSlug": "mani-ratnam",
+    "actors": [
+     "Kamal Haasan",
+     "Silambarasan",
+     "Trisha Krishnan",
+     "Ashok Selvan",
+     "Abhirami",
+     "Nassar"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.1",
+      "votes": 6986,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "25%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kamal Haasan",
+     "character": "Rangaraya Sakthivel",
+     "slug": "kamal-haasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lKzmFToG07dhOZpb5inh0nUsRUZ.jpg"
+    },
+    {
+     "name": "Silambarasan",
+     "character": "Amaran",
+     "slug": "silambarasan-rajendar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1T35CiKVldfxElZfQqaoN6GhvuU.jpg"
+    },
+    {
+     "name": "Trisha Krishnan",
+     "character": "Indrani",
+     "slug": "trisha-krishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sirse7oOd1ACEEQBVF4PHJHPUup.jpg"
+    },
+    {
+     "name": "Ashok Selvan",
+     "character": "Jaikumar Royappa",
+     "slug": "ashok-selvan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qA8w8hRmyw7IWxIuM64s7aPwqbe.jpg"
+    },
+    {
+     "name": "Abhirami",
+     "character": "Jeeva",
+     "slug": "abhirami",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1TVXmU20s1mrIHEM5f8WpxWDEsd.jpg"
+    },
+    {
+     "name": "Nassar",
+     "character": "Manikkam",
+     "slug": "nassar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg"
+    },
+    {
+     "name": "Joju George",
+     "character": "Kanjirapally Pathros",
+     "slug": "joju-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jCObRH5idadzrTvyC9XnlnR8rXH.jpg"
+    },
+    {
+     "name": "Ali Fazal",
+     "character": "Deepak Yadav",
+     "slug": "ali-fazal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lLDmx3RDuMXObASvdFXeUh1GOgd.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Mani Ratnam",
+       "slug": "mani-ratnam"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Mani Ratnam",
+       "slug": "mani-ratnam"
+      },
+      {
+       "name": "Kamal Haasan",
+       "slug": "kamal-haasan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "A.R. Rahman",
+       "slug": "a-r-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ravi K. Chandran",
+       "slug": "ravi-k-chandran"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreekar Prasad",
+       "slug": "sreekar-prasad"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kamal Haasan",
+       "slug": "kamal-haasan"
+      },
+      {
+       "name": "Mani Ratnam",
+       "slug": "mani-ratnam"
+      },
+      {
+       "name": "R. Mahendran",
+       "slug": "r-mahendran"
+      },
+      {
+       "name": "Sivakumar Ananth",
+       "slug": "sivakumar-ananth"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Raajkamal Films International",
+     "slug": "raajkamal-films-international",
+     "logo": "https://image.tmdb.org/t/p/w185/tanmRcGlEgtAZhdcU7kMGZvYFbr.png"
+    },
+    {
+     "name": "Madras Talkies",
+     "slug": "madras-talkies",
+     "logo": "https://image.tmdb.org/t/p/w185/jXbf95osKAVplKg6cwLDUldS6CG.png"
+    },
+    {
+     "name": "Red Giant Movies",
+     "slug": "red-giant-movies",
+     "logo": "https://image.tmdb.org/t/p/w185/fXCywdThbIhPq5jb2488WZ8t6bg.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 22360026.8,
+    "totalShows": 5162,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 5817617,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5817617,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-06-05"
+   }
+  }
+ }
+}

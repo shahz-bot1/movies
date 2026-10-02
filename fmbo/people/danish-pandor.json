@@ -1,0 +1,41 @@
+{
+ "slug": "danish-pandor",
+ "name": "Danish Pandor",
+ "source_url": "https://fridaymatinee.in/people/danish-pandor",
+ "captured_at": "2026-10-01T21:46:23.899035+00:00",
+ "person": {
+  "name": "Danish Pandor",
+  "photo": "https://image.tmdb.org/t/p/w185/vDAzq7SJtVlTIj10Oa55BV3Qszm.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 930,
+   "movie_slug": "dhurandhar",
+   "title": "Dhurandhar",
+   "year": 2025,
+   "kerala_gross": "₹7.0 Cr"
+  },
+  {
+   "movie_id": 1031,
+   "movie_slug": "dhurandhar-the-revenge",
+   "title": "Dhurandhar The Revenge",
+   "year": 2026,
+   "kerala_gross": "₹16.9 Cr"
+  },
+  {
+   "movie_id": 1147,
+   "movie_slug": "main-vaapas-aaunga",
+   "title": "Main Vaapas Aaunga",
+   "year": 2026,
+   "kerala_gross": "₹16.8L"
+  }
+ ]
+}

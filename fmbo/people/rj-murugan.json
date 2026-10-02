@@ -1,0 +1,55 @@
+{
+ "slug": "rj-murugan",
+ "name": "RJ Murugan",
+ "source_url": "https://fridaymatinee.in/people/rj-murugan",
+ "captured_at": "2026-10-02T09:44:50.368045+00:00",
+ "person": {
+  "name": "RJ Murugan",
+  "photo": "https://image.tmdb.org/t/p/w185/A6AZHrAvGk5wct1IUX6eEPvBO5W.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 506,
+   "movie_slug": "anchakkallakokkan",
+   "title": "Anchakkallakokkan",
+   "year": 2024,
+   "kerala_gross": "₹2.9 Cr"
+  },
+  {
+   "movie_id": 563,
+   "movie_slug": "bougainvillea",
+   "title": "Bougainvillea",
+   "year": 2024,
+   "kerala_gross": "₹13.1 Cr"
+  },
+  {
+   "movie_id": 766,
+   "movie_slug": "meesha",
+   "title": "Meesha",
+   "year": 2025,
+   "kerala_gross": "₹21.6L"
+  },
+  {
+   "movie_id": 858,
+   "movie_slug": "the-pet-detective",
+   "title": "The Pet Detective",
+   "year": 2025,
+   "kerala_gross": "₹9.7 Cr"
+  },
+  {
+   "movie_id": 948,
+   "movie_slug": "mindiyum-paranjum",
+   "title": "Mindiyum Paranjum",
+   "year": 2025,
+   "kerala_gross": "₹13.5L"
+  }
+ ]
+}

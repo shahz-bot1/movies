@@ -1,0 +1,46 @@
+{
+ "slug": "giju-john",
+ "name": "Giju John",
+ "source_url": "https://fridaymatinee.in/people/giju-john",
+ "captured_at": "2026-10-01T22:31:20.044640+00:00",
+ "person": {
+  "name": "Giju John",
+  "photo": "https://image.tmdb.org/t/p/w185/e9JGg5Nw3n7ONK5VnKN5hnty33J.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 233,
+   "movie_slug": "kumari",
+   "title": "Kumari",
+   "year": 2022,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 616,
+   "movie_slug": "identity",
+   "title": "Identity",
+   "year": 2025,
+   "kerala_gross": "₹6.9 Cr"
+  },
+  {
+   "movie_id": 667,
+   "movie_slug": "lucifer",
+   "title": "Lucifer",
+   "year": 2025,
+   "kerala_gross": "₹32.3L"
+  }
+ ]
+}

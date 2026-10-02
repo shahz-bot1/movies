@@ -1,0 +1,41 @@
+{
+ "slug": "madhusoodanan",
+ "name": "Madhusoodanan",
+ "source_url": "https://fridaymatinee.in/people/madhusoodanan",
+ "captured_at": "2026-10-02T00:11:12.131554+00:00",
+ "person": {
+  "name": "Madhusoodanan",
+  "photo": null,
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 27,
+   "movie_slug": "android-kunjappan",
+   "title": "Android Kunjappan",
+   "year": 2019,
+   "kerala_gross": "₹4.3 Cr"
+  },
+  {
+   "movie_id": 142,
+   "movie_slug": "kuttavum-shikshayum",
+   "title": "Kuttavum Shikshayum",
+   "year": 2022,
+   "kerala_gross": "₹50.7L"
+  },
+  {
+   "movie_id": 526,
+   "movie_slug": "nadanna-sambhavam",
+   "title": "Nadanna Sambhavam",
+   "year": 2024,
+   "kerala_gross": "₹1.7 Cr"
+  }
+ ]
+}

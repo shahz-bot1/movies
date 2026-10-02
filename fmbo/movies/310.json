@@ -1,0 +1,741 @@
+{
+ "id": 310,
+ "slug": "john-wick-chapter-4",
+ "source_url": "https://fridaymatinee.in/boxoffice/john-wick-chapter-4-310",
+ "captured_at": "2026-10-01T18:09:45.946596+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 310,
+    "title": "John Wick Chapter 4",
+    "img": "https://images2.imgbox.com/ba/15/bXGeciIg_o.png",
+    "released": "2023-03-23",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10366206",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "170 min",
+    "genre": "Action, Thriller, Crime",
+    "plot": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+    "released": "2023-03-21",
+    "director": "Chad Stahelski",
+    "directorSlug": "chad-stahelski",
+    "actors": [
+     "Keanu Reeves",
+     "Donnie Yen",
+     "Bill Skarsgård",
+     "Ian McShane",
+     "Laurence Fishburne",
+     "Lance Reddick"
+    ],
+    "awards": "38 wins u0026 51 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.6",
+      "votes": 420295,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.7",
+      "votes": 8320,
+      "updatedAt": "2026-09-24T22:10:33.000Z"
+     },
+     "rt": "94%",
+     "metascore": 78,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Keanu Reeves",
+     "character": "John Wick",
+     "slug": "keanu-reeves",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+    },
+    {
+     "name": "Donnie Yen",
+     "character": "Caine",
+     "slug": "donnie-yen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg"
+    },
+    {
+     "name": "Bill Skarsgård",
+     "character": "Marquis",
+     "slug": "bill-skarsgard",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg"
+    },
+    {
+     "name": "Ian McShane",
+     "character": "Winston",
+     "slug": "ian-mcshane",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qh9RTLbnr128TZLdGuXwUH9mdBM.jpg"
+    },
+    {
+     "name": "Laurence Fishburne",
+     "character": "Bowery King",
+     "slug": "laurence-fishburne",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+    },
+    {
+     "name": "Lance Reddick",
+     "character": "Charon",
+     "slug": "lance-reddick",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg"
+    },
+    {
+     "name": "Clancy Brown",
+     "character": "Harbinger",
+     "slug": "clancy-brown",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+    },
+    {
+     "name": "Hiroyuki Sanada",
+     "character": "Shimazu",
+     "slug": "hiroyuki-sanada",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/SOwDxhGnRccP2lAtssQ7TxCzOe.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Chad Stahelski",
+       "slug": "chad-stahelski"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shay Hatten",
+       "slug": "shay-hatten"
+      },
+      {
+       "name": "Michael Finch",
+       "slug": "michael-finch"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Tyler Bates",
+       "slug": "tyler-bates"
+      },
+      {
+       "name": "Joel J. Richard",
+       "slug": "joel-j-richard"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Dan Laustsen",
+       "slug": "dan-laustsen"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nathan Orloff",
+       "slug": "nathan-orloff"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Chad Stahelski",
+       "slug": "chad-stahelski"
+      },
+      {
+       "name": "Erica Lee",
+       "slug": "erica-lee"
+      },
+      {
+       "name": "Basil Iwanyk",
+       "slug": "basil-iwanyk"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Thunder Road",
+     "slug": "thunder-road",
+     "logo": "https://image.tmdb.org/t/p/w185/cCzCClIzIh81Fa79hpW5nXoUsHK.png"
+    },
+    {
+     "name": "87Eleven",
+     "slug": "87eleven",
+     "logo": "https://image.tmdb.org/t/p/w185/5SarYupipdiejsEqUkwu1SpYfru.png"
+    },
+    {
+     "name": "Studio Babelsberg",
+     "slug": "studio-babelsberg",
+     "logo": "https://image.tmdb.org/t/p/w185/fA90qwUKgPhMONqtwY60GaHRyrW.png"
+    },
+    {
+     "name": "Lionsgate",
+     "slug": "lionsgate",
+     "logo": "https://image.tmdb.org/t/p/w185/cisLn1YAUuptXVBa0xjq7ST9cH0.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-05-23",
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 37253340.99999999,
+    "totalShows": 3502,
+    "totalDays": 30,
+    "openingDay": {
+     "day": 1,
+     "gross": 1776512,
+     "date": "2023-03-23"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 6156180.399999999,
+     "date": "2023-03-26"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 54,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-03-23"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 310,
+    "title": "John Wick Chapter 4",
+    "img": "https://images2.imgbox.com/ba/15/bXGeciIg_o.png",
+    "released": "2023-03-23",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10366206",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "170 min",
+    "genre": "Action, Thriller, Crime",
+    "plot": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+    "released": "2023-03-21",
+    "director": "Chad Stahelski",
+    "directorSlug": "chad-stahelski",
+    "actors": [
+     "Keanu Reeves",
+     "Donnie Yen",
+     "Bill Skarsgård",
+     "Ian McShane",
+     "Laurence Fishburne",
+     "Lance Reddick"
+    ],
+    "awards": "38 wins u0026 51 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.6",
+      "votes": 420295,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.7",
+      "votes": 8320,
+      "updatedAt": "2026-09-24T22:10:33.000Z"
+     },
+     "rt": "94%",
+     "metascore": 78,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Keanu Reeves",
+     "character": "John Wick",
+     "slug": "keanu-reeves",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+    },
+    {
+     "name": "Donnie Yen",
+     "character": "Caine",
+     "slug": "donnie-yen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg"
+    },
+    {
+     "name": "Bill Skarsgård",
+     "character": "Marquis",
+     "slug": "bill-skarsgard",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg"
+    },
+    {
+     "name": "Ian McShane",
+     "character": "Winston",
+     "slug": "ian-mcshane",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qh9RTLbnr128TZLdGuXwUH9mdBM.jpg"
+    },
+    {
+     "name": "Laurence Fishburne",
+     "character": "Bowery King",
+     "slug": "laurence-fishburne",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+    },
+    {
+     "name": "Lance Reddick",
+     "character": "Charon",
+     "slug": "lance-reddick",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg"
+    },
+    {
+     "name": "Clancy Brown",
+     "character": "Harbinger",
+     "slug": "clancy-brown",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+    },
+    {
+     "name": "Hiroyuki Sanada",
+     "character": "Shimazu",
+     "slug": "hiroyuki-sanada",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/SOwDxhGnRccP2lAtssQ7TxCzOe.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Chad Stahelski",
+       "slug": "chad-stahelski"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shay Hatten",
+       "slug": "shay-hatten"
+      },
+      {
+       "name": "Michael Finch",
+       "slug": "michael-finch"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Tyler Bates",
+       "slug": "tyler-bates"
+      },
+      {
+       "name": "Joel J. Richard",
+       "slug": "joel-j-richard"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Dan Laustsen",
+       "slug": "dan-laustsen"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nathan Orloff",
+       "slug": "nathan-orloff"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Chad Stahelski",
+       "slug": "chad-stahelski"
+      },
+      {
+       "name": "Erica Lee",
+       "slug": "erica-lee"
+      },
+      {
+       "name": "Basil Iwanyk",
+       "slug": "basil-iwanyk"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Thunder Road",
+     "slug": "thunder-road",
+     "logo": "https://image.tmdb.org/t/p/w185/cCzCClIzIh81Fa79hpW5nXoUsHK.png"
+    },
+    {
+     "name": "87Eleven",
+     "slug": "87eleven",
+     "logo": "https://image.tmdb.org/t/p/w185/5SarYupipdiejsEqUkwu1SpYfru.png"
+    },
+    {
+     "name": "Studio Babelsberg",
+     "slug": "studio-babelsberg",
+     "logo": "https://image.tmdb.org/t/p/w185/fA90qwUKgPhMONqtwY60GaHRyrW.png"
+    },
+    {
+     "name": "Lionsgate",
+     "slug": "lionsgate",
+     "logo": "https://image.tmdb.org/t/p/w185/cisLn1YAUuptXVBa0xjq7ST9cH0.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-05-23",
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2023-03-23",
+     "gross": 24725115.33,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1770,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-03-30",
+     "gross": 8707903.07,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1068,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-04-06",
+     "gross": 2757595.6,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 463,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-04-13",
+     "gross": 1008627,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 185,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-04-20",
+     "gross": 54100,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 16,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 37253341,
+    "totalShows": 3502,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 24725115.33
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 24725115.33
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 54,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-03-23"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 310,
+    "title": "John Wick Chapter 4",
+    "img": "https://images2.imgbox.com/ba/15/bXGeciIg_o.png",
+    "released": "2023-03-23",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10366206",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "170 min",
+    "genre": "Action, Thriller, Crime",
+    "plot": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+    "released": "2023-03-21",
+    "director": "Chad Stahelski",
+    "directorSlug": "chad-stahelski",
+    "actors": [
+     "Keanu Reeves",
+     "Donnie Yen",
+     "Bill Skarsgård",
+     "Ian McShane",
+     "Laurence Fishburne",
+     "Lance Reddick"
+    ],
+    "awards": "38 wins u0026 51 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.6",
+      "votes": 420295,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.7",
+      "votes": 8320,
+      "updatedAt": "2026-09-24T22:10:33.000Z"
+     },
+     "rt": "94%",
+     "metascore": 78,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Keanu Reeves",
+     "character": "John Wick",
+     "slug": "keanu-reeves",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+    },
+    {
+     "name": "Donnie Yen",
+     "character": "Caine",
+     "slug": "donnie-yen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg"
+    },
+    {
+     "name": "Bill Skarsgård",
+     "character": "Marquis",
+     "slug": "bill-skarsgard",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg"
+    },
+    {
+     "name": "Ian McShane",
+     "character": "Winston",
+     "slug": "ian-mcshane",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qh9RTLbnr128TZLdGuXwUH9mdBM.jpg"
+    },
+    {
+     "name": "Laurence Fishburne",
+     "character": "Bowery King",
+     "slug": "laurence-fishburne",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+    },
+    {
+     "name": "Lance Reddick",
+     "character": "Charon",
+     "slug": "lance-reddick",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg"
+    },
+    {
+     "name": "Clancy Brown",
+     "character": "Harbinger",
+     "slug": "clancy-brown",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+    },
+    {
+     "name": "Hiroyuki Sanada",
+     "character": "Shimazu",
+     "slug": "hiroyuki-sanada",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/SOwDxhGnRccP2lAtssQ7TxCzOe.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Chad Stahelski",
+       "slug": "chad-stahelski"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shay Hatten",
+       "slug": "shay-hatten"
+      },
+      {
+       "name": "Michael Finch",
+       "slug": "michael-finch"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Tyler Bates",
+       "slug": "tyler-bates"
+      },
+      {
+       "name": "Joel J. Richard",
+       "slug": "joel-j-richard"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Dan Laustsen",
+       "slug": "dan-laustsen"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nathan Orloff",
+       "slug": "nathan-orloff"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Chad Stahelski",
+       "slug": "chad-stahelski"
+      },
+      {
+       "name": "Erica Lee",
+       "slug": "erica-lee"
+      },
+      {
+       "name": "Basil Iwanyk",
+       "slug": "basil-iwanyk"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Thunder Road",
+     "slug": "thunder-road",
+     "logo": "https://image.tmdb.org/t/p/w185/cCzCClIzIh81Fa79hpW5nXoUsHK.png"
+    },
+    {
+     "name": "87Eleven",
+     "slug": "87eleven",
+     "logo": "https://image.tmdb.org/t/p/w185/5SarYupipdiejsEqUkwu1SpYfru.png"
+    },
+    {
+     "name": "Studio Babelsberg",
+     "slug": "studio-babelsberg",
+     "logo": "https://image.tmdb.org/t/p/w185/fA90qwUKgPhMONqtwY60GaHRyrW.png"
+    },
+    {
+     "name": "Lionsgate",
+     "slug": "lionsgate",
+     "logo": "https://image.tmdb.org/t/p/w185/cisLn1YAUuptXVBa0xjq7ST9cH0.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-05-23",
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 37253341,
+    "totalShows": 3502,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 13818275.8,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 13818275.8,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 54,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-03-23"
+   }
+  }
+ }
+}

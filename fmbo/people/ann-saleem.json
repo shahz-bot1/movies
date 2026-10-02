@@ -1,0 +1,48 @@
+{
+ "slug": "ann-saleem",
+ "name": "Ann Saleem",
+ "source_url": "https://fridaymatinee.in/people/ann-saleem",
+ "captured_at": "2026-10-01T20:41:31.675796+00:00",
+ "person": {
+  "name": "Ann Saleem",
+  "photo": "https://image.tmdb.org/t/p/w185/ojzoXPEQeg23RuBtqlbVe9l4zsj.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 103,
+   "movie_slug": "hridayam",
+   "title": "Hridayam",
+   "year": 2022,
+   "kerala_gross": "₹18.9 Cr"
+  },
+  {
+   "movie_id": 513,
+   "movie_slug": "jai-ganesh",
+   "title": "Jai Ganesh",
+   "year": 2024,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 772,
+   "movie_slug": "sahasam",
+   "title": "Sahasam",
+   "year": 2025,
+   "kerala_gross": "₹2.1 Cr"
+  },
+  {
+   "movie_id": 1020,
+   "movie_slug": "masthishka-maranam",
+   "title": "Masthishka Maranam",
+   "year": 2026,
+   "kerala_gross": "₹2.3 Cr"
+  }
+ ]
+}

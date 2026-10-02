@@ -1,0 +1,782 @@
+{
+ "id": 377,
+ "slug": "fast-x",
+ "source_url": "https://fridaymatinee.in/boxoffice/fast-x-377",
+ "captured_at": "2026-10-01T18:10:49.025350+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 377,
+    "title": "Fast X",
+    "img": "https://image.tmdb.org/t/p/original/jotrmwciqTzDvIi8qeVGwuxX2sG.jpg",
+    "released": "2023-05-18",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt5433140",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "142 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+    "released": "2023-05-17",
+    "director": "Louis Leterrier",
+    "directorSlug": "louis-leterrier",
+    "actors": [
+     "Vin Diesel",
+     "Michelle Rodriguez",
+     "Tyrese Gibson",
+     "Ludacris",
+     "John Cena",
+     "Nathalie Emmanuel"
+    ],
+    "awards": "2 wins u0026 19 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 150454,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.0",
+      "votes": 6500,
+      "updatedAt": "2026-09-24T22:10:22.000Z"
+     },
+     "rt": "56%",
+     "metascore": 56,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vin Diesel",
+     "character": "Dominic Toretto",
+     "slug": "vin-diesel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+    },
+    {
+     "name": "Michelle Rodriguez",
+     "character": "Letty",
+     "slug": "michelle-rodriguez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wVcbrae4eRqGMFZz8Eh52Dl1biP.jpg"
+    },
+    {
+     "name": "Tyrese Gibson",
+     "character": "Roman",
+     "slug": "tyrese-gibson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jxoy4fbXNKFQtBdK73cLXEz3ufS.jpg"
+    },
+    {
+     "name": "Ludacris",
+     "character": "Tej",
+     "slug": "ludacris",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/erkJijujhe48vhJ8iCEtVpNEeVn.jpg"
+    },
+    {
+     "name": "John Cena",
+     "character": "Jakob",
+     "slug": "john-cena",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+    },
+    {
+     "name": "Nathalie Emmanuel",
+     "character": "Ramsey",
+     "slug": "nathalie-emmanuel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uh8EIhxKJxK7xsJlWcIgBkqyAKq.jpg"
+    },
+    {
+     "name": "Jordana Brewster",
+     "character": "Mia",
+     "slug": "jordana-brewster",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ceL0zxeVbWfCfhoIDZIE1NYqBWb.jpg"
+    },
+    {
+     "name": "Sung Kang",
+     "character": "Han",
+     "slug": "sung-kang",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ox4ti0WmpJoN19n3iYJ2T2vHP5f.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Louis Leterrier",
+       "slug": "louis-leterrier"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Dan Mazeau",
+       "slug": "dan-mazeau"
+      },
+      {
+       "name": "Justin Lin",
+       "slug": "justin-lin"
+      },
+      {
+       "name": "Zach Dean",
+       "slug": "zach-dean"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Brian Tyler",
+       "slug": "brian-tyler"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Stephen F. Windon",
+       "slug": "stephen-f-windon"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kelly Matsumoto",
+       "slug": "kelly-matsumoto"
+      },
+      {
+       "name": "Dylan Highsmith",
+       "slug": "dylan-highsmith"
+      },
+      {
+       "name": "Laura Steiger",
+       "slug": "laura-steiger"
+      },
+      {
+       "name": "Corbin Mehl",
+       "slug": "corbin-mehl"
+      },
+      {
+       "name": "David Kern",
+       "slug": "david-kern"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Justin Lin",
+       "slug": "justin-lin"
+      },
+      {
+       "name": "Neal H. Moritz",
+       "slug": "neal-h-moritz"
+      },
+      {
+       "name": "Samantha Vincent",
+       "slug": "samantha-vincent"
+      },
+      {
+       "name": "Jeff Kirschenbaum",
+       "slug": "jeff-kirschenbaum"
+      },
+      {
+       "name": "Vin Diesel",
+       "slug": "vin-diesel"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Universal Pictures",
+     "slug": "universal-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8lvHyhjr8oUKOOy2dKXoALWKdp0.png"
+    },
+    {
+     "name": "Original Film",
+     "slug": "original-film",
+     "logo": "https://image.tmdb.org/t/p/w185/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png"
+    },
+    {
+     "name": "One Race",
+     "slug": "one-race",
+     "logo": "https://image.tmdb.org/t/p/w185/rIxhJMR7oK8b2fMakmTfRLY2TZv.png"
+    },
+    {
+     "name": "Perfect Storm Entertainment",
+     "slug": "perfect-storm-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/5gUhbUIVYd94aIhHJJFMfBxkD0.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-06-09",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 17605088.2,
+    "totalShows": 1734,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 4062666.79,
+     "date": "2023-05-18"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4062666.79,
+     "date": "2023-05-18"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 84,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-05-18"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 377,
+    "title": "Fast X",
+    "img": "https://image.tmdb.org/t/p/original/jotrmwciqTzDvIi8qeVGwuxX2sG.jpg",
+    "released": "2023-05-18",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt5433140",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "142 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+    "released": "2023-05-17",
+    "director": "Louis Leterrier",
+    "directorSlug": "louis-leterrier",
+    "actors": [
+     "Vin Diesel",
+     "Michelle Rodriguez",
+     "Tyrese Gibson",
+     "Ludacris",
+     "John Cena",
+     "Nathalie Emmanuel"
+    ],
+    "awards": "2 wins u0026 19 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 150454,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.0",
+      "votes": 6500,
+      "updatedAt": "2026-09-24T22:10:22.000Z"
+     },
+     "rt": "56%",
+     "metascore": 56,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vin Diesel",
+     "character": "Dominic Toretto",
+     "slug": "vin-diesel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+    },
+    {
+     "name": "Michelle Rodriguez",
+     "character": "Letty",
+     "slug": "michelle-rodriguez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wVcbrae4eRqGMFZz8Eh52Dl1biP.jpg"
+    },
+    {
+     "name": "Tyrese Gibson",
+     "character": "Roman",
+     "slug": "tyrese-gibson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jxoy4fbXNKFQtBdK73cLXEz3ufS.jpg"
+    },
+    {
+     "name": "Ludacris",
+     "character": "Tej",
+     "slug": "ludacris",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/erkJijujhe48vhJ8iCEtVpNEeVn.jpg"
+    },
+    {
+     "name": "John Cena",
+     "character": "Jakob",
+     "slug": "john-cena",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+    },
+    {
+     "name": "Nathalie Emmanuel",
+     "character": "Ramsey",
+     "slug": "nathalie-emmanuel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uh8EIhxKJxK7xsJlWcIgBkqyAKq.jpg"
+    },
+    {
+     "name": "Jordana Brewster",
+     "character": "Mia",
+     "slug": "jordana-brewster",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ceL0zxeVbWfCfhoIDZIE1NYqBWb.jpg"
+    },
+    {
+     "name": "Sung Kang",
+     "character": "Han",
+     "slug": "sung-kang",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ox4ti0WmpJoN19n3iYJ2T2vHP5f.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Louis Leterrier",
+       "slug": "louis-leterrier"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Dan Mazeau",
+       "slug": "dan-mazeau"
+      },
+      {
+       "name": "Justin Lin",
+       "slug": "justin-lin"
+      },
+      {
+       "name": "Zach Dean",
+       "slug": "zach-dean"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Brian Tyler",
+       "slug": "brian-tyler"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Stephen F. Windon",
+       "slug": "stephen-f-windon"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kelly Matsumoto",
+       "slug": "kelly-matsumoto"
+      },
+      {
+       "name": "Dylan Highsmith",
+       "slug": "dylan-highsmith"
+      },
+      {
+       "name": "Laura Steiger",
+       "slug": "laura-steiger"
+      },
+      {
+       "name": "Corbin Mehl",
+       "slug": "corbin-mehl"
+      },
+      {
+       "name": "David Kern",
+       "slug": "david-kern"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Justin Lin",
+       "slug": "justin-lin"
+      },
+      {
+       "name": "Neal H. Moritz",
+       "slug": "neal-h-moritz"
+      },
+      {
+       "name": "Samantha Vincent",
+       "slug": "samantha-vincent"
+      },
+      {
+       "name": "Jeff Kirschenbaum",
+       "slug": "jeff-kirschenbaum"
+      },
+      {
+       "name": "Vin Diesel",
+       "slug": "vin-diesel"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Universal Pictures",
+     "slug": "universal-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8lvHyhjr8oUKOOy2dKXoALWKdp0.png"
+    },
+    {
+     "name": "Original Film",
+     "slug": "original-film",
+     "logo": "https://image.tmdb.org/t/p/w185/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png"
+    },
+    {
+     "name": "One Race",
+     "slug": "one-race",
+     "logo": "https://image.tmdb.org/t/p/w185/rIxhJMR7oK8b2fMakmTfRLY2TZv.png"
+    },
+    {
+     "name": "Perfect Storm Entertainment",
+     "slug": "perfect-storm-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/5gUhbUIVYd94aIhHJJFMfBxkD0.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-06-09",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-05-18",
+     "gross": 17605088.2,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1734,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 17605088.2,
+    "totalShows": 1734,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 17605088.2
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 17605088.2
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 84,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-05-18"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 377,
+    "title": "Fast X",
+    "img": "https://image.tmdb.org/t/p/original/jotrmwciqTzDvIi8qeVGwuxX2sG.jpg",
+    "released": "2023-05-18",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt5433140",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "142 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+    "released": "2023-05-17",
+    "director": "Louis Leterrier",
+    "directorSlug": "louis-leterrier",
+    "actors": [
+     "Vin Diesel",
+     "Michelle Rodriguez",
+     "Tyrese Gibson",
+     "Ludacris",
+     "John Cena",
+     "Nathalie Emmanuel"
+    ],
+    "awards": "2 wins u0026 19 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 150454,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.0",
+      "votes": 6500,
+      "updatedAt": "2026-09-24T22:10:22.000Z"
+     },
+     "rt": "56%",
+     "metascore": 56,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vin Diesel",
+     "character": "Dominic Toretto",
+     "slug": "vin-diesel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+    },
+    {
+     "name": "Michelle Rodriguez",
+     "character": "Letty",
+     "slug": "michelle-rodriguez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wVcbrae4eRqGMFZz8Eh52Dl1biP.jpg"
+    },
+    {
+     "name": "Tyrese Gibson",
+     "character": "Roman",
+     "slug": "tyrese-gibson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jxoy4fbXNKFQtBdK73cLXEz3ufS.jpg"
+    },
+    {
+     "name": "Ludacris",
+     "character": "Tej",
+     "slug": "ludacris",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/erkJijujhe48vhJ8iCEtVpNEeVn.jpg"
+    },
+    {
+     "name": "John Cena",
+     "character": "Jakob",
+     "slug": "john-cena",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+    },
+    {
+     "name": "Nathalie Emmanuel",
+     "character": "Ramsey",
+     "slug": "nathalie-emmanuel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uh8EIhxKJxK7xsJlWcIgBkqyAKq.jpg"
+    },
+    {
+     "name": "Jordana Brewster",
+     "character": "Mia",
+     "slug": "jordana-brewster",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ceL0zxeVbWfCfhoIDZIE1NYqBWb.jpg"
+    },
+    {
+     "name": "Sung Kang",
+     "character": "Han",
+     "slug": "sung-kang",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ox4ti0WmpJoN19n3iYJ2T2vHP5f.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Louis Leterrier",
+       "slug": "louis-leterrier"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Dan Mazeau",
+       "slug": "dan-mazeau"
+      },
+      {
+       "name": "Justin Lin",
+       "slug": "justin-lin"
+      },
+      {
+       "name": "Zach Dean",
+       "slug": "zach-dean"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Brian Tyler",
+       "slug": "brian-tyler"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Stephen F. Windon",
+       "slug": "stephen-f-windon"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kelly Matsumoto",
+       "slug": "kelly-matsumoto"
+      },
+      {
+       "name": "Dylan Highsmith",
+       "slug": "dylan-highsmith"
+      },
+      {
+       "name": "Laura Steiger",
+       "slug": "laura-steiger"
+      },
+      {
+       "name": "Corbin Mehl",
+       "slug": "corbin-mehl"
+      },
+      {
+       "name": "David Kern",
+       "slug": "david-kern"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Justin Lin",
+       "slug": "justin-lin"
+      },
+      {
+       "name": "Neal H. Moritz",
+       "slug": "neal-h-moritz"
+      },
+      {
+       "name": "Samantha Vincent",
+       "slug": "samantha-vincent"
+      },
+      {
+       "name": "Jeff Kirschenbaum",
+       "slug": "jeff-kirschenbaum"
+      },
+      {
+       "name": "Vin Diesel",
+       "slug": "vin-diesel"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Universal Pictures",
+     "slug": "universal-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8lvHyhjr8oUKOOy2dKXoALWKdp0.png"
+    },
+    {
+     "name": "Original Film",
+     "slug": "original-film",
+     "logo": "https://image.tmdb.org/t/p/w185/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png"
+    },
+    {
+     "name": "One Race",
+     "slug": "one-race",
+     "logo": "https://image.tmdb.org/t/p/w185/rIxhJMR7oK8b2fMakmTfRLY2TZv.png"
+    },
+    {
+     "name": "Perfect Storm Entertainment",
+     "slug": "perfect-storm-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/5gUhbUIVYd94aIhHJJFMfBxkD0.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-06-09",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 17605088.200000003,
+    "totalShows": 1734,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 5857300,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5857300,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 84,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-05-18"
+   }
+  }
+ }
+}

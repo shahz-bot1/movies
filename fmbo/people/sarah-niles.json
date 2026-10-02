@@ -1,0 +1,41 @@
+{
+ "slug": "sarah-niles",
+ "name": "Sarah Niles",
+ "source_url": "https://fridaymatinee.in/people/sarah-niles",
+ "captured_at": "2026-10-02T10:13:40.935663+00:00",
+ "person": {
+  "name": "Sarah Niles",
+  "photo": "https://image.tmdb.org/t/p/w185/ySelhnmCCX9VnlPvceO9c5XOelK.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 697,
+   "movie_slug": "f1-the-movie",
+   "title": "F1 The Movie",
+   "year": 2025,
+   "kerala_gross": "₹8.2 Cr"
+  },
+  {
+   "movie_id": 734,
+   "movie_slug": "the-fantastic-four-first-steps",
+   "title": "The Fantastic Four: First Steps",
+   "year": 2025,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 833,
+   "movie_slug": "the-toxic-avenger",
+   "title": "The Toxic Avenger",
+   "year": 2025,
+   "kerala_gross": "₹8K"
+  }
+ ]
+}

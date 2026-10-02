@@ -1,0 +1,826 @@
+{
+ "id": 914,
+ "slug": "five-nights-at-freddys-2",
+ "source_url": "https://fridaymatinee.in/boxoffice/five-nights-at-freddys-2-914",
+ "captured_at": "2026-10-01T18:26:06.393391+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 914,
+    "title": "Five Nights at Freddys 2",
+    "img": "https://image.tmdb.org/t/p/original/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg",
+    "released": "2025-12-05",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt30274401",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "104 min",
+    "genre": "Horror, Thriller",
+    "plot": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the real origin of Freddy's, and unleash a decades-hidden horror.",
+    "released": "2025-12-03",
+    "director": "Emma Tammi",
+    "directorSlug": "emma-tammi",
+    "actors": [
+     "Josh Hutcherson",
+     "Piper Rubio",
+     "Elizabeth Lail",
+     "Matthew Lillard",
+     "Freddy Carter",
+     "Wayne Knight"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "5.1",
+      "votes": 47125,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.6",
+      "votes": 1182,
+      "updatedAt": "2026-09-24T13:11:35.000Z"
+     },
+     "rt": "17%",
+     "metascore": 26,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Josh Hutcherson",
+     "character": "Mike",
+     "slug": "josh-hutcherson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
+    },
+    {
+     "name": "Piper Rubio",
+     "character": "Abby",
+     "slug": "piper-rubio",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kIg9VvVBi1H8Bl9B697f2GE9rPo.jpg"
+    },
+    {
+     "name": "Elizabeth Lail",
+     "character": "Vanessa",
+     "slug": "elizabeth-lail",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lDYjEyqojUs2sF3CgdsOZ9vr2KL.jpg"
+    },
+    {
+     "name": "Matthew Lillard",
+     "character": "William Afton / Yellow Rabbit",
+     "slug": "matthew-lillard",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
+    },
+    {
+     "name": "Freddy Carter",
+     "character": "Michael",
+     "slug": "freddy-carter",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u4Ibhf8LnRzfuR2IUx6ZQWdWaVv.jpg"
+    },
+    {
+     "name": "Wayne Knight",
+     "character": "Mr. Berg",
+     "slug": "wayne-knight",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ecc2Detpzqu6XyCUPh0BqOBwZyO.jpg"
+    },
+    {
+     "name": "Mckenna Grace",
+     "character": "Lisa",
+     "slug": "mckenna-grace",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mBJpXMfUX23NYVaKaR8jkndDmSQ.jpg"
+    },
+    {
+     "name": "David Andrew Calvillo",
+     "character": "Rob",
+     "slug": "david-andrew-calvillo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tn6BeTc0rvpqvZ0d19CO4pCqbHX.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Emma Tammi",
+       "slug": "emma-tammi"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Scott Cawthon",
+       "slug": "scott-cawthon"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Taylor Stewart",
+       "slug": "taylor-stewart"
+      },
+      {
+       "name": "Andrew Grush",
+       "slug": "andrew-grush"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Lyn Moncrief",
+       "slug": "lyn-moncrief"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Derek Larsen",
+       "slug": "derek-larsen"
+      },
+      {
+       "name": "Timothy Alverson",
+       "slug": "timothy-alverson"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jason Blum",
+       "slug": "jason-blum"
+      },
+      {
+       "name": "Scott Cawthon",
+       "slug": "scott-cawthon"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Blumhouse Productions",
+     "slug": "blumhouse-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/rzKluDcRkIwHZK2pHsiT667A2Kw.png"
+    },
+    {
+     "name": "Scott Cawthon Productions",
+     "slug": "scott-cawthon-productions",
+     "logo": null
+    },
+    {
+     "name": "Mind Hive Films",
+     "slug": "mind-hive-films",
+     "logo": "https://image.tmdb.org/t/p/w185/5qSrmPricJH5TKXvfRSmUc7o1wP.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-12-23",
+    "platforms": []
+   },
+   "otherReleases": {
+    "2025-12-05": [
+     {
+      "id": 653,
+      "title": "Kalamkaval",
+      "img": "https://image.tmdb.org/t/p/original/cTZt3Kmbvp0zZ5za1rTVZvn8AlW.jpg"
+     },
+     {
+      "id": 930,
+      "title": "Dhurandhar",
+      "img": "https://image.tmdb.org/t/p/original/q7gD37kEOmzOeGXwhbYvfpwl9kU.jpg"
+     },
+     {
+      "id": 932,
+      "title": "Dheeram",
+      "img": "https://image.tmdb.org/t/p/original/wilAY8QRL1tZNcRjnfNKrFRqblD.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-12-05",
+     "gross": 11930,
+     "sold": 53,
+     "unsold": 690,
+     "shows": 6,
+     "occ": 7.13,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 11930,
+     "lastUpdatedAt": "2025-12-05 22:53:00"
+    },
+    {
+     "label": "2025-12-06",
+     "gross": 33820,
+     "sold": 130,
+     "unsold": 508,
+     "shows": 5,
+     "occ": 20.38,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 45750,
+     "lastUpdatedAt": "2025-12-06 20:38:00"
+    },
+    {
+     "label": "2025-12-07",
+     "gross": 31530,
+     "sold": 121,
+     "unsold": 517,
+     "shows": 5,
+     "occ": 18.97,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 77280,
+     "lastUpdatedAt": "2025-12-07 20:38:00"
+    },
+    {
+     "label": "2025-12-08",
+     "gross": 12560,
+     "sold": 58,
+     "unsold": 526,
+     "shows": 4,
+     "occ": 9.93,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 89840,
+     "lastUpdatedAt": "2025-12-08 20:38:00"
+    },
+    {
+     "label": "2025-12-09",
+     "gross": 11390,
+     "sold": 46,
+     "unsold": 219,
+     "shows": 2,
+     "occ": 17.36,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 101230,
+     "lastUpdatedAt": "2025-12-09 20:38:00"
+    },
+    {
+     "label": "2025-12-10",
+     "gross": 7050,
+     "sold": 30,
+     "unsold": 555,
+     "shows": 4,
+     "occ": 5.13,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 108280,
+     "lastUpdatedAt": "2025-12-10 20:38:00"
+    },
+    {
+     "label": "2025-12-11",
+     "gross": 6790,
+     "sold": 33,
+     "unsold": 551,
+     "shows": 4,
+     "occ": 5.65,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 115070,
+     "lastUpdatedAt": "2025-12-11 20:38:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 115070,
+    "totalShows": 30,
+    "totalSeats": 4037,
+    "totalSold": 471,
+    "avgOcc": "11.7",
+    "totalDays": 7,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 2,
+     "gross": 33820,
+     "date": "2025-12-06"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 11930,
+     "date": "2025-12-05"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "7:6790:115070"
+  },
+  "week": {
+   "movie": {
+    "id": 914,
+    "title": "Five Nights at Freddys 2",
+    "img": "https://image.tmdb.org/t/p/original/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg",
+    "released": "2025-12-05",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt30274401",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "104 min",
+    "genre": "Horror, Thriller",
+    "plot": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the real origin of Freddy's, and unleash a decades-hidden horror.",
+    "released": "2025-12-03",
+    "director": "Emma Tammi",
+    "directorSlug": "emma-tammi",
+    "actors": [
+     "Josh Hutcherson",
+     "Piper Rubio",
+     "Elizabeth Lail",
+     "Matthew Lillard",
+     "Freddy Carter",
+     "Wayne Knight"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "5.1",
+      "votes": 47125,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.6",
+      "votes": 1182,
+      "updatedAt": "2026-09-24T13:11:35.000Z"
+     },
+     "rt": "17%",
+     "metascore": 26,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Josh Hutcherson",
+     "character": "Mike",
+     "slug": "josh-hutcherson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
+    },
+    {
+     "name": "Piper Rubio",
+     "character": "Abby",
+     "slug": "piper-rubio",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kIg9VvVBi1H8Bl9B697f2GE9rPo.jpg"
+    },
+    {
+     "name": "Elizabeth Lail",
+     "character": "Vanessa",
+     "slug": "elizabeth-lail",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lDYjEyqojUs2sF3CgdsOZ9vr2KL.jpg"
+    },
+    {
+     "name": "Matthew Lillard",
+     "character": "William Afton / Yellow Rabbit",
+     "slug": "matthew-lillard",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
+    },
+    {
+     "name": "Freddy Carter",
+     "character": "Michael",
+     "slug": "freddy-carter",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u4Ibhf8LnRzfuR2IUx6ZQWdWaVv.jpg"
+    },
+    {
+     "name": "Wayne Knight",
+     "character": "Mr. Berg",
+     "slug": "wayne-knight",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ecc2Detpzqu6XyCUPh0BqOBwZyO.jpg"
+    },
+    {
+     "name": "Mckenna Grace",
+     "character": "Lisa",
+     "slug": "mckenna-grace",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mBJpXMfUX23NYVaKaR8jkndDmSQ.jpg"
+    },
+    {
+     "name": "David Andrew Calvillo",
+     "character": "Rob",
+     "slug": "david-andrew-calvillo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tn6BeTc0rvpqvZ0d19CO4pCqbHX.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Emma Tammi",
+       "slug": "emma-tammi"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Scott Cawthon",
+       "slug": "scott-cawthon"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Taylor Stewart",
+       "slug": "taylor-stewart"
+      },
+      {
+       "name": "Andrew Grush",
+       "slug": "andrew-grush"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Lyn Moncrief",
+       "slug": "lyn-moncrief"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Derek Larsen",
+       "slug": "derek-larsen"
+      },
+      {
+       "name": "Timothy Alverson",
+       "slug": "timothy-alverson"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jason Blum",
+       "slug": "jason-blum"
+      },
+      {
+       "name": "Scott Cawthon",
+       "slug": "scott-cawthon"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Blumhouse Productions",
+     "slug": "blumhouse-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/rzKluDcRkIwHZK2pHsiT667A2Kw.png"
+    },
+    {
+     "name": "Scott Cawthon Productions",
+     "slug": "scott-cawthon-productions",
+     "logo": null
+    },
+    {
+     "name": "Mind Hive Films",
+     "slug": "mind-hive-films",
+     "logo": "https://image.tmdb.org/t/p/w185/5qSrmPricJH5TKXvfRSmUc7o1wP.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-12-23",
+    "platforms": []
+   },
+   "otherReleases": {
+    "2025-12-05": [
+     {
+      "id": 653,
+      "title": "Kalamkaval",
+      "img": "https://image.tmdb.org/t/p/original/cTZt3Kmbvp0zZ5za1rTVZvn8AlW.jpg"
+     },
+     {
+      "id": 930,
+      "title": "Dhurandhar",
+      "img": "https://image.tmdb.org/t/p/original/q7gD37kEOmzOeGXwhbYvfpwl9kU.jpg"
+     },
+     {
+      "id": 932,
+      "title": "Dheeram",
+      "img": "https://image.tmdb.org/t/p/original/wilAY8QRL1tZNcRjnfNKrFRqblD.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-12-05",
+     "gross": 115070,
+     "sold": 471,
+     "unsold": 3566,
+     "shows": 30,
+     "occ": 11.67,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 115070,
+     "lastUpdatedAt": "2025-12-11 20:38:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 115070,
+    "totalShows": 30,
+    "totalSeats": 4037,
+    "totalSold": 471,
+    "avgOcc": "11.7",
+    "totalDays": 1,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 115070
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 115070
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:115070:115070"
+  },
+  "district": {
+   "movie": {
+    "id": 914,
+    "title": "Five Nights at Freddys 2",
+    "img": "https://image.tmdb.org/t/p/original/bYdANgEjbb3L1k1KpprAeZ6a5HN.jpg",
+    "released": "2025-12-05",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt30274401",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "104 min",
+    "genre": "Horror, Thriller",
+    "plot": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the real origin of Freddy's, and unleash a decades-hidden horror.",
+    "released": "2025-12-03",
+    "director": "Emma Tammi",
+    "directorSlug": "emma-tammi",
+    "actors": [
+     "Josh Hutcherson",
+     "Piper Rubio",
+     "Elizabeth Lail",
+     "Matthew Lillard",
+     "Freddy Carter",
+     "Wayne Knight"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "5.1",
+      "votes": 47125,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.6",
+      "votes": 1182,
+      "updatedAt": "2026-09-24T13:11:35.000Z"
+     },
+     "rt": "17%",
+     "metascore": 26,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Josh Hutcherson",
+     "character": "Mike",
+     "slug": "josh-hutcherson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
+    },
+    {
+     "name": "Piper Rubio",
+     "character": "Abby",
+     "slug": "piper-rubio",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kIg9VvVBi1H8Bl9B697f2GE9rPo.jpg"
+    },
+    {
+     "name": "Elizabeth Lail",
+     "character": "Vanessa",
+     "slug": "elizabeth-lail",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lDYjEyqojUs2sF3CgdsOZ9vr2KL.jpg"
+    },
+    {
+     "name": "Matthew Lillard",
+     "character": "William Afton / Yellow Rabbit",
+     "slug": "matthew-lillard",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
+    },
+    {
+     "name": "Freddy Carter",
+     "character": "Michael",
+     "slug": "freddy-carter",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u4Ibhf8LnRzfuR2IUx6ZQWdWaVv.jpg"
+    },
+    {
+     "name": "Wayne Knight",
+     "character": "Mr. Berg",
+     "slug": "wayne-knight",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ecc2Detpzqu6XyCUPh0BqOBwZyO.jpg"
+    },
+    {
+     "name": "Mckenna Grace",
+     "character": "Lisa",
+     "slug": "mckenna-grace",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mBJpXMfUX23NYVaKaR8jkndDmSQ.jpg"
+    },
+    {
+     "name": "David Andrew Calvillo",
+     "character": "Rob",
+     "slug": "david-andrew-calvillo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tn6BeTc0rvpqvZ0d19CO4pCqbHX.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Emma Tammi",
+       "slug": "emma-tammi"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Scott Cawthon",
+       "slug": "scott-cawthon"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Taylor Stewart",
+       "slug": "taylor-stewart"
+      },
+      {
+       "name": "Andrew Grush",
+       "slug": "andrew-grush"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Lyn Moncrief",
+       "slug": "lyn-moncrief"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Derek Larsen",
+       "slug": "derek-larsen"
+      },
+      {
+       "name": "Timothy Alverson",
+       "slug": "timothy-alverson"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jason Blum",
+       "slug": "jason-blum"
+      },
+      {
+       "name": "Scott Cawthon",
+       "slug": "scott-cawthon"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Blumhouse Productions",
+     "slug": "blumhouse-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/rzKluDcRkIwHZK2pHsiT667A2Kw.png"
+    },
+    {
+     "name": "Scott Cawthon Productions",
+     "slug": "scott-cawthon-productions",
+     "logo": null
+    },
+    {
+     "name": "Mind Hive Films",
+     "slug": "mind-hive-films",
+     "logo": "https://image.tmdb.org/t/p/w185/5qSrmPricJH5TKXvfRSmUc7o1wP.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-12-23",
+    "platforms": []
+   },
+   "otherReleases": {
+    "2025-12-05": [
+     {
+      "id": 653,
+      "title": "Kalamkaval",
+      "img": "https://image.tmdb.org/t/p/original/cTZt3Kmbvp0zZ5za1rTVZvn8AlW.jpg"
+     },
+     {
+      "id": 930,
+      "title": "Dhurandhar",
+      "img": "https://image.tmdb.org/t/p/original/q7gD37kEOmzOeGXwhbYvfpwl9kU.jpg"
+     },
+     {
+      "id": 932,
+      "title": "Dheeram",
+      "img": "https://image.tmdb.org/t/p/original/wilAY8QRL1tZNcRjnfNKrFRqblD.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 72170,
+     "sold": 275,
+     "unsold": 2197,
+     "shows": 17,
+     "occ": 11.12,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 72170,
+     "lastUpdatedAt": "2025-12-11 18:23:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 42900,
+     "sold": 196,
+     "unsold": 1369,
+     "shows": 13,
+     "occ": 12.52,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 115070,
+     "lastUpdatedAt": "2025-12-11 20:38:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 115070,
+    "totalShows": 30,
+    "totalSeats": 4037,
+    "totalSold": 471,
+    "avgOcc": "11.7",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 72170,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 72170,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "2:42900:115070"
+  }
+ }
+}

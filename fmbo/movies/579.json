@@ -1,0 +1,639 @@
+{
+ "id": 579,
+ "slug": "gumasthan",
+ "source_url": "https://fridaymatinee.in/boxoffice/gumasthan-579",
+ "captured_at": "2026-10-01T18:16:05.587636+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 579,
+    "title": "Gumasthan",
+    "img": "https://image.tmdb.org/t/p/original/lQeF0ZlEV6dWf6DEKWWSZ5xp7Cb.jpg",
+    "released": "2024-09-27",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29608092",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "145 min",
+    "genre": "Crime, Thriller",
+    "plot": "Cunning clerk exploits legal loopholes to murder wife, evading suspicion. As public and police close in, they race to outwit his intellect and unravel the mysteries shrouding his crime and home.",
+    "released": "2024-09-27",
+    "director": "Amal K Joby",
+    "directorSlug": "amal-k-joby",
+    "actors": [
+     "Bibin George",
+     "Dileesh Pothan",
+     "Aathira Rajeev",
+     "Jaise Jose",
+     "Rony David Raj",
+     "Azees Nedumangad"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.9",
+      "votes": 646,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:40.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Bibin George",
+     "character": "Aby",
+     "slug": "bibin-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3vp5ajPUkIUN95ntqcCSfvwoHcb.jpg"
+    },
+    {
+     "name": "Dileesh Pothan",
+     "character": "Advocate Thomas Kuruvilla",
+     "slug": "dileesh-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg"
+    },
+    {
+     "name": "Aathira Rajeev",
+     "character": "Maria",
+     "slug": "aathira-rajeev",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x28dnU1ofkiwbsERPlRgU2LOoIg.jpg"
+    },
+    {
+     "name": "Jaise Jose",
+     "character": "Andrews Pallipadan",
+     "slug": "jaise-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/240eal2wPjRa5ZztbOgJBtLsnPe.jpg"
+    },
+    {
+     "name": "Rony David Raj",
+     "character": "CI Hameed Ansari",
+     "slug": "rony-david-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xVF53sOhi28IDqPlir2EXfrF9AI.jpg"
+    },
+    {
+     "name": "Azees Nedumangad",
+     "character": "Surendran",
+     "slug": "azees-nedumangad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zsPdTjTxeFtwjqG7tIJrFcF45V5.jpg"
+    },
+    {
+     "name": "Prasanth Alexander",
+     "character": "Producer Sandeep",
+     "slug": "prasanth-alexander",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QTEvNPnSxAb7WHDsIOr0hxDNDP.jpg"
+    },
+    {
+     "name": "Sminu Sijo",
+     "character": "Leela",
+     "slug": "sminu-sijo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eCXDEG6qUc9dDWbT7qGM4U1mbl1.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Amal K Joby",
+       "slug": "amal-k-joby"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Riyaz Ismath",
+       "slug": "riyaz-ismath"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "MUZAFIR ABDULLA",
+       "slug": "muzafir-abdulla"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Muzafir Film Company.",
+     "slug": "muzafir-film-company",
+     "logo": null
+    },
+    {
+     "name": "Goodwill Entertainments",
+     "slug": "goodwill-entertainments",
+     "logo": "https://image.tmdb.org/t/p/w185/bETeYaOtL4SvaQn2x1kOTeq7QcE.png"
+    },
+    {
+     "name": "AVENIRTEK DIGITAL PRIVATE LIMITED",
+     "slug": "avenirtek-digital-private-limited",
+     "logo": null
+    },
+    {
+     "name": "Aan Mega Media",
+     "slug": "aan-mega-media",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2760,
+      "name": "Ultraplaybox Amazon Channel",
+      "logoPath": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5429121.800000001,
+    "totalShows": 1070,
+    "totalDays": 11,
+    "openingDay": {
+     "day": 1,
+     "gross": 400476.8,
+     "date": "2024-09-27"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 831188,
+     "date": "2024-09-29"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-09-27"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 579,
+    "title": "Gumasthan",
+    "img": "https://image.tmdb.org/t/p/original/lQeF0ZlEV6dWf6DEKWWSZ5xp7Cb.jpg",
+    "released": "2024-09-27",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29608092",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "145 min",
+    "genre": "Crime, Thriller",
+    "plot": "Cunning clerk exploits legal loopholes to murder wife, evading suspicion. As public and police close in, they race to outwit his intellect and unravel the mysteries shrouding his crime and home.",
+    "released": "2024-09-27",
+    "director": "Amal K Joby",
+    "directorSlug": "amal-k-joby",
+    "actors": [
+     "Bibin George",
+     "Dileesh Pothan",
+     "Aathira Rajeev",
+     "Jaise Jose",
+     "Rony David Raj",
+     "Azees Nedumangad"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.9",
+      "votes": 646,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:40.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Bibin George",
+     "character": "Aby",
+     "slug": "bibin-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3vp5ajPUkIUN95ntqcCSfvwoHcb.jpg"
+    },
+    {
+     "name": "Dileesh Pothan",
+     "character": "Advocate Thomas Kuruvilla",
+     "slug": "dileesh-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg"
+    },
+    {
+     "name": "Aathira Rajeev",
+     "character": "Maria",
+     "slug": "aathira-rajeev",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x28dnU1ofkiwbsERPlRgU2LOoIg.jpg"
+    },
+    {
+     "name": "Jaise Jose",
+     "character": "Andrews Pallipadan",
+     "slug": "jaise-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/240eal2wPjRa5ZztbOgJBtLsnPe.jpg"
+    },
+    {
+     "name": "Rony David Raj",
+     "character": "CI Hameed Ansari",
+     "slug": "rony-david-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xVF53sOhi28IDqPlir2EXfrF9AI.jpg"
+    },
+    {
+     "name": "Azees Nedumangad",
+     "character": "Surendran",
+     "slug": "azees-nedumangad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zsPdTjTxeFtwjqG7tIJrFcF45V5.jpg"
+    },
+    {
+     "name": "Prasanth Alexander",
+     "character": "Producer Sandeep",
+     "slug": "prasanth-alexander",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QTEvNPnSxAb7WHDsIOr0hxDNDP.jpg"
+    },
+    {
+     "name": "Sminu Sijo",
+     "character": "Leela",
+     "slug": "sminu-sijo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eCXDEG6qUc9dDWbT7qGM4U1mbl1.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Amal K Joby",
+       "slug": "amal-k-joby"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Riyaz Ismath",
+       "slug": "riyaz-ismath"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "MUZAFIR ABDULLA",
+       "slug": "muzafir-abdulla"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Muzafir Film Company.",
+     "slug": "muzafir-film-company",
+     "logo": null
+    },
+    {
+     "name": "Goodwill Entertainments",
+     "slug": "goodwill-entertainments",
+     "logo": "https://image.tmdb.org/t/p/w185/bETeYaOtL4SvaQn2x1kOTeq7QcE.png"
+    },
+    {
+     "name": "AVENIRTEK DIGITAL PRIVATE LIMITED",
+     "slug": "avenirtek-digital-private-limited",
+     "logo": null
+    },
+    {
+     "name": "Aan Mega Media",
+     "slug": "aan-mega-media",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2760,
+      "name": "Ultraplaybox Amazon Channel",
+      "logoPath": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-09-27",
+     "gross": 4053412.8,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 883,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-10-04",
+     "gross": 1375709,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 187,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5429121.8,
+    "totalShows": 1070,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 4053412.8
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4053412.8
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-09-27"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 579,
+    "title": "Gumasthan",
+    "img": "https://image.tmdb.org/t/p/original/lQeF0ZlEV6dWf6DEKWWSZ5xp7Cb.jpg",
+    "released": "2024-09-27",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29608092",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "145 min",
+    "genre": "Crime, Thriller",
+    "plot": "Cunning clerk exploits legal loopholes to murder wife, evading suspicion. As public and police close in, they race to outwit his intellect and unravel the mysteries shrouding his crime and home.",
+    "released": "2024-09-27",
+    "director": "Amal K Joby",
+    "directorSlug": "amal-k-joby",
+    "actors": [
+     "Bibin George",
+     "Dileesh Pothan",
+     "Aathira Rajeev",
+     "Jaise Jose",
+     "Rony David Raj",
+     "Azees Nedumangad"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.9",
+      "votes": 646,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:40.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Bibin George",
+     "character": "Aby",
+     "slug": "bibin-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3vp5ajPUkIUN95ntqcCSfvwoHcb.jpg"
+    },
+    {
+     "name": "Dileesh Pothan",
+     "character": "Advocate Thomas Kuruvilla",
+     "slug": "dileesh-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg"
+    },
+    {
+     "name": "Aathira Rajeev",
+     "character": "Maria",
+     "slug": "aathira-rajeev",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x28dnU1ofkiwbsERPlRgU2LOoIg.jpg"
+    },
+    {
+     "name": "Jaise Jose",
+     "character": "Andrews Pallipadan",
+     "slug": "jaise-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/240eal2wPjRa5ZztbOgJBtLsnPe.jpg"
+    },
+    {
+     "name": "Rony David Raj",
+     "character": "CI Hameed Ansari",
+     "slug": "rony-david-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xVF53sOhi28IDqPlir2EXfrF9AI.jpg"
+    },
+    {
+     "name": "Azees Nedumangad",
+     "character": "Surendran",
+     "slug": "azees-nedumangad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zsPdTjTxeFtwjqG7tIJrFcF45V5.jpg"
+    },
+    {
+     "name": "Prasanth Alexander",
+     "character": "Producer Sandeep",
+     "slug": "prasanth-alexander",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QTEvNPnSxAb7WHDsIOr0hxDNDP.jpg"
+    },
+    {
+     "name": "Sminu Sijo",
+     "character": "Leela",
+     "slug": "sminu-sijo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eCXDEG6qUc9dDWbT7qGM4U1mbl1.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Amal K Joby",
+       "slug": "amal-k-joby"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Riyaz Ismath",
+       "slug": "riyaz-ismath"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "MUZAFIR ABDULLA",
+       "slug": "muzafir-abdulla"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Muzafir Film Company.",
+     "slug": "muzafir-film-company",
+     "logo": null
+    },
+    {
+     "name": "Goodwill Entertainments",
+     "slug": "goodwill-entertainments",
+     "logo": "https://image.tmdb.org/t/p/w185/bETeYaOtL4SvaQn2x1kOTeq7QcE.png"
+    },
+    {
+     "name": "AVENIRTEK DIGITAL PRIVATE LIMITED",
+     "slug": "avenirtek-digital-private-limited",
+     "logo": null
+    },
+    {
+     "name": "Aan Mega Media",
+     "slug": "aan-mega-media",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2760,
+      "name": "Ultraplaybox Amazon Channel",
+      "logoPath": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5429121.8,
+    "totalShows": 1070,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1487309,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1487309,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-09-27"
+   }
+  }
+ }
+}

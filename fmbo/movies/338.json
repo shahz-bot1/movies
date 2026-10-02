@@ -1,0 +1,605 @@
+{
+ "id": 338,
+ "slug": "desamuduru",
+ "source_url": "https://fridaymatinee.in/boxoffice/desamuduru-338",
+ "captured_at": "2026-10-01T18:10:05.653733+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 338,
+    "title": "Desamuduru",
+    "img": "https://image.tmdb.org/t/p/original/7YjI8n9RXaI0NlV91TV3xAFgDLb.jpg",
+    "released": "2023-04-07",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt0843335",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "142 min",
+    "genre": "Action, Romance",
+    "plot": "After Bala, who works for a TV channel, gets into trouble with a goon, he is sent away for an out-of-town assignment. There he meets and falls in love with a girl who gets kidnapped by a gangster.",
+    "released": "2007-01-12",
+    "director": "Puri Jagannadh",
+    "directorSlug": "puri-jagannadh",
+    "actors": [
+     "Allu Arjun",
+     "Hansika Motwani",
+     "Pradeep Ram Singh Rawat",
+     "Ali Basha",
+     "Ajay",
+     "Chandramohan"
+    ],
+    "awards": "2 wins u0026 1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 2874,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Allu Arjun",
+     "character": "Bala Govind",
+     "slug": "allu-arjun",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icSybtPa0yQncOvIbnH0sCndv5i.jpg"
+    },
+    {
+     "name": "Hansika Motwani",
+     "character": "Vaishali",
+     "slug": "hansika-motwani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3xCuu8Wwj8TCCtYjVTiXt1nGTtn.jpg"
+    },
+    {
+     "name": "Pradeep Ram Singh Rawat",
+     "character": "Tambi Durai",
+     "slug": "pradeep-ram-singh-rawat",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6lsSDOU7Iz9OrmUWZbwvcyCdOB0.jpg"
+    },
+    {
+     "name": "Ali Basha",
+     "character": "Shankar / Himalayan Baba",
+     "slug": "ali-basha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg"
+    },
+    {
+     "name": "Ajay",
+     "character": "Tambi Durai's Henchman",
+     "slug": "ajay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg"
+    },
+    {
+     "name": "Chandramohan",
+     "character": "Chandram",
+     "slug": "chandra-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg"
+    },
+    {
+     "name": "Devan",
+     "character": "Narayan Patwari",
+     "slug": "devan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/TSAMYfaw3yWAXWO3cuqehIkYbO.jpg"
+    },
+    {
+     "name": "Telangana Shakuntala",
+     "character": "Andal",
+     "slug": "telangana-shakuntala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yOAdaJf5q231iiNLvJEEDXWRnE5.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Puri Jagannadh",
+       "slug": "puri-jagannadh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Puri Jagannadh",
+       "slug": "puri-jagannadh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Chakri",
+       "slug": "chakri"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shyam K. Naidu",
+       "slug": "shyam-k-naidu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Marthand K Venkatesh",
+       "slug": "marthand-k-venkatesh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "DVV Danayya",
+       "slug": "dvv-danayya"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Universal Media",
+     "slug": "universal-media",
+     "logo": null
+    },
+    {
+     "name": "DVV Entertainment",
+     "slug": "dvv-entertainment",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 94497,
+    "totalShows": 91,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 39190,
+     "date": "2023-04-07"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 39190,
+     "date": "2023-04-07"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-04-07"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 338,
+    "title": "Desamuduru",
+    "img": "https://image.tmdb.org/t/p/original/7YjI8n9RXaI0NlV91TV3xAFgDLb.jpg",
+    "released": "2023-04-07",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt0843335",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "142 min",
+    "genre": "Action, Romance",
+    "plot": "After Bala, who works for a TV channel, gets into trouble with a goon, he is sent away for an out-of-town assignment. There he meets and falls in love with a girl who gets kidnapped by a gangster.",
+    "released": "2007-01-12",
+    "director": "Puri Jagannadh",
+    "directorSlug": "puri-jagannadh",
+    "actors": [
+     "Allu Arjun",
+     "Hansika Motwani",
+     "Pradeep Ram Singh Rawat",
+     "Ali Basha",
+     "Ajay",
+     "Chandramohan"
+    ],
+    "awards": "2 wins u0026 1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 2874,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Allu Arjun",
+     "character": "Bala Govind",
+     "slug": "allu-arjun",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icSybtPa0yQncOvIbnH0sCndv5i.jpg"
+    },
+    {
+     "name": "Hansika Motwani",
+     "character": "Vaishali",
+     "slug": "hansika-motwani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3xCuu8Wwj8TCCtYjVTiXt1nGTtn.jpg"
+    },
+    {
+     "name": "Pradeep Ram Singh Rawat",
+     "character": "Tambi Durai",
+     "slug": "pradeep-ram-singh-rawat",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6lsSDOU7Iz9OrmUWZbwvcyCdOB0.jpg"
+    },
+    {
+     "name": "Ali Basha",
+     "character": "Shankar / Himalayan Baba",
+     "slug": "ali-basha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg"
+    },
+    {
+     "name": "Ajay",
+     "character": "Tambi Durai's Henchman",
+     "slug": "ajay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg"
+    },
+    {
+     "name": "Chandramohan",
+     "character": "Chandram",
+     "slug": "chandra-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg"
+    },
+    {
+     "name": "Devan",
+     "character": "Narayan Patwari",
+     "slug": "devan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/TSAMYfaw3yWAXWO3cuqehIkYbO.jpg"
+    },
+    {
+     "name": "Telangana Shakuntala",
+     "character": "Andal",
+     "slug": "telangana-shakuntala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yOAdaJf5q231iiNLvJEEDXWRnE5.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Puri Jagannadh",
+       "slug": "puri-jagannadh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Puri Jagannadh",
+       "slug": "puri-jagannadh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Chakri",
+       "slug": "chakri"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shyam K. Naidu",
+       "slug": "shyam-k-naidu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Marthand K Venkatesh",
+       "slug": "marthand-k-venkatesh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "DVV Danayya",
+       "slug": "dvv-danayya"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Universal Media",
+     "slug": "universal-media",
+     "logo": null
+    },
+    {
+     "name": "DVV Entertainment",
+     "slug": "dvv-entertainment",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-04-07",
+     "gross": 94497,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 91,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 94497,
+    "totalShows": 91,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 94497
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 94497
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-04-07"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 338,
+    "title": "Desamuduru",
+    "img": "https://image.tmdb.org/t/p/original/7YjI8n9RXaI0NlV91TV3xAFgDLb.jpg",
+    "released": "2023-04-07",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt0843335",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "142 min",
+    "genre": "Action, Romance",
+    "plot": "After Bala, who works for a TV channel, gets into trouble with a goon, he is sent away for an out-of-town assignment. There he meets and falls in love with a girl who gets kidnapped by a gangster.",
+    "released": "2007-01-12",
+    "director": "Puri Jagannadh",
+    "directorSlug": "puri-jagannadh",
+    "actors": [
+     "Allu Arjun",
+     "Hansika Motwani",
+     "Pradeep Ram Singh Rawat",
+     "Ali Basha",
+     "Ajay",
+     "Chandramohan"
+    ],
+    "awards": "2 wins u0026 1 nomination",
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 2874,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Allu Arjun",
+     "character": "Bala Govind",
+     "slug": "allu-arjun",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icSybtPa0yQncOvIbnH0sCndv5i.jpg"
+    },
+    {
+     "name": "Hansika Motwani",
+     "character": "Vaishali",
+     "slug": "hansika-motwani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3xCuu8Wwj8TCCtYjVTiXt1nGTtn.jpg"
+    },
+    {
+     "name": "Pradeep Ram Singh Rawat",
+     "character": "Tambi Durai",
+     "slug": "pradeep-ram-singh-rawat",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6lsSDOU7Iz9OrmUWZbwvcyCdOB0.jpg"
+    },
+    {
+     "name": "Ali Basha",
+     "character": "Shankar / Himalayan Baba",
+     "slug": "ali-basha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg"
+    },
+    {
+     "name": "Ajay",
+     "character": "Tambi Durai's Henchman",
+     "slug": "ajay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uByCHJa3eaCL0SgFGDYYLlsVggC.jpg"
+    },
+    {
+     "name": "Chandramohan",
+     "character": "Chandram",
+     "slug": "chandra-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pXkbPFie2pOGgc9cd84BUz0OP4A.jpg"
+    },
+    {
+     "name": "Devan",
+     "character": "Narayan Patwari",
+     "slug": "devan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/TSAMYfaw3yWAXWO3cuqehIkYbO.jpg"
+    },
+    {
+     "name": "Telangana Shakuntala",
+     "character": "Andal",
+     "slug": "telangana-shakuntala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yOAdaJf5q231iiNLvJEEDXWRnE5.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Puri Jagannadh",
+       "slug": "puri-jagannadh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Puri Jagannadh",
+       "slug": "puri-jagannadh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Chakri",
+       "slug": "chakri"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shyam K. Naidu",
+       "slug": "shyam-k-naidu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Marthand K Venkatesh",
+       "slug": "marthand-k-venkatesh"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "DVV Danayya",
+       "slug": "dvv-danayya"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Universal Media",
+     "slug": "universal-media",
+     "logo": null
+    },
+    {
+     "name": "DVV Entertainment",
+     "slug": "dvv-entertainment",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 94497,
+    "totalShows": 91,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 53940,
+     "date": "Kasaragod"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 53940,
+     "date": "Kasaragod"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-04-07"
+   }
+  }
+ }
+}

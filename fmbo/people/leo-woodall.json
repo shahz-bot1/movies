@@ -1,0 +1,41 @@
+{
+ "slug": "leo-woodall",
+ "name": "Leo Woodall",
+ "source_url": "https://fridaymatinee.in/people/leo-woodall",
+ "captured_at": "2026-10-02T00:00:51.654061+00:00",
+ "person": {
+  "name": "Leo Woodall",
+  "photo": "https://image.tmdb.org/t/p/w185/yv2JjEVm1jLR44ynkyYfhWP4I6r.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 908,
+   "movie_slug": "nuremberg",
+   "title": "Nuremberg",
+   "year": 2025,
+   "kerala_gross": "₹1.1L"
+  },
+  {
+   "movie_id": 1125,
+   "movie_slug": "tuner",
+   "title": "Tuner",
+   "year": 2026,
+   "kerala_gross": "₹41K"
+  },
+  {
+   "movie_id": 1254,
+   "movie_slug": "tony",
+   "title": "Tony",
+   "year": 2026,
+   "kerala_gross": "₹1.7L"
+  }
+ ]
+}

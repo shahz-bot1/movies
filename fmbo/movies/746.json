@@ -1,0 +1,660 @@
+{
+ "id": 746,
+ "slug": "flask",
+ "source_url": "https://fridaymatinee.in/boxoffice/flask-746",
+ "captured_at": "2026-10-01T18:21:02.740706+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 746,
+    "title": "Flask",
+    "img": "https://image.tmdb.org/t/p/original/egdZcuI1E1X9s3trX7w7c6htOlV.jpg",
+    "released": "2025-07-18",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt35110563",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "116 min",
+    "genre": "Drama, Thriller",
+    "plot": "The Arrogant District Judge Venkitesh Balaji and his naive Personal Security Officer Jyothi Kuttan are abducted and held hostage by a Maoist Group demanding release of their leader in prison. As both men face the impending death, their hierarchy equations change and it becomes a fight for survival.",
+    "released": "2025-07-18",
+    "director": "Rahul Riji Nair",
+    "directorSlug": "rahul-riji-nair",
+    "actors": [
+     "Saiju Kurup",
+     "Suresh Krishna",
+     "Balachandran Chullikkadu",
+     "Sidharth Bharathan",
+     "Aswathy Sreekanth",
+     "Zhinz Shan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 735,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:52.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Saiju Kurup",
+     "character": "PSO Jyothi Kumar",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Suresh Krishna",
+     "character": "Venkatesh Balaji",
+     "slug": "suresh-krishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hQ4TZgh8IuUh1LJtxCRmUY45fo6.jpg"
+    },
+    {
+     "name": "Balachandran Chullikkadu",
+     "character": "Kumaran",
+     "slug": "balachandran-chullikkadu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4ohBb7UlXxplLZxSo0fIg05nXNQ.jpg"
+    },
+    {
+     "name": "Sidharth Bharathan",
+     "character": "Maoist Ganeshan",
+     "slug": "sidharth-bharathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4a13KELmZuB4NnRlOsdzMfo2K7j.jpg"
+    },
+    {
+     "name": "Aswathy Sreekanth",
+     "character": "Nisha",
+     "slug": "aswathy-sreekanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k3p97oYCJ889M4RcXtJnUnuACxd.jpg"
+    },
+    {
+     "name": "Zhinz Shan",
+     "character": "Aravindan",
+     "slug": "zhinz-shan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e2qrMKWAS01rpA2kl89UUz4VyBt.jpg"
+    },
+    {
+     "name": "Anand Ekarshi",
+     "character": "Maoist Manu",
+     "slug": "anand-ekarshi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kPc7G9Qd7NM3caoH8CeZY6laeAc.jpg"
+    },
+    {
+     "name": "Ajesh Babu",
+     "character": null,
+     "slug": "ajesh-babu",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rahul Riji Nair",
+       "slug": "rahul-riji-nair"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rahul Riji Nair",
+       "slug": "rahul-riji-nair"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sidhartha Pradeep",
+       "slug": "sidhartha-pradeep"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jayakrishnan Vijayan",
+       "slug": "jayakrishnan-vijayan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Christy Sebastian",
+       "slug": "christy-sebastian"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Rahul Riji Nair",
+       "slug": "rahul-riji-nair"
+      },
+      {
+       "name": "Lijo Joseph",
+       "slug": "lijo-joseph"
+      },
+      {
+       "name": "Rathish Menchery",
+       "slug": "rathish-menchery"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "First Print Studios",
+     "slug": "first-print-studios",
+     "logo": null
+    },
+    {
+     "name": "Fairy Frames Productions",
+     "slug": "fairy-frames-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2318978,
+    "totalShows": 1184,
+    "totalDays": 9,
+    "openingDay": {
+     "day": 1,
+     "gross": 398176,
+     "date": "2025-07-18"
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 545690,
+     "date": "2025-07-19"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-07-18"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 746,
+    "title": "Flask",
+    "img": "https://image.tmdb.org/t/p/original/egdZcuI1E1X9s3trX7w7c6htOlV.jpg",
+    "released": "2025-07-18",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt35110563",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "116 min",
+    "genre": "Drama, Thriller",
+    "plot": "The Arrogant District Judge Venkitesh Balaji and his naive Personal Security Officer Jyothi Kuttan are abducted and held hostage by a Maoist Group demanding release of their leader in prison. As both men face the impending death, their hierarchy equations change and it becomes a fight for survival.",
+    "released": "2025-07-18",
+    "director": "Rahul Riji Nair",
+    "directorSlug": "rahul-riji-nair",
+    "actors": [
+     "Saiju Kurup",
+     "Suresh Krishna",
+     "Balachandran Chullikkadu",
+     "Sidharth Bharathan",
+     "Aswathy Sreekanth",
+     "Zhinz Shan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 735,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:52.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Saiju Kurup",
+     "character": "PSO Jyothi Kumar",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Suresh Krishna",
+     "character": "Venkatesh Balaji",
+     "slug": "suresh-krishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hQ4TZgh8IuUh1LJtxCRmUY45fo6.jpg"
+    },
+    {
+     "name": "Balachandran Chullikkadu",
+     "character": "Kumaran",
+     "slug": "balachandran-chullikkadu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4ohBb7UlXxplLZxSo0fIg05nXNQ.jpg"
+    },
+    {
+     "name": "Sidharth Bharathan",
+     "character": "Maoist Ganeshan",
+     "slug": "sidharth-bharathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4a13KELmZuB4NnRlOsdzMfo2K7j.jpg"
+    },
+    {
+     "name": "Aswathy Sreekanth",
+     "character": "Nisha",
+     "slug": "aswathy-sreekanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k3p97oYCJ889M4RcXtJnUnuACxd.jpg"
+    },
+    {
+     "name": "Zhinz Shan",
+     "character": "Aravindan",
+     "slug": "zhinz-shan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e2qrMKWAS01rpA2kl89UUz4VyBt.jpg"
+    },
+    {
+     "name": "Anand Ekarshi",
+     "character": "Maoist Manu",
+     "slug": "anand-ekarshi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kPc7G9Qd7NM3caoH8CeZY6laeAc.jpg"
+    },
+    {
+     "name": "Ajesh Babu",
+     "character": null,
+     "slug": "ajesh-babu",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rahul Riji Nair",
+       "slug": "rahul-riji-nair"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rahul Riji Nair",
+       "slug": "rahul-riji-nair"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sidhartha Pradeep",
+       "slug": "sidhartha-pradeep"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jayakrishnan Vijayan",
+       "slug": "jayakrishnan-vijayan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Christy Sebastian",
+       "slug": "christy-sebastian"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Rahul Riji Nair",
+       "slug": "rahul-riji-nair"
+      },
+      {
+       "name": "Lijo Joseph",
+       "slug": "lijo-joseph"
+      },
+      {
+       "name": "Rathish Menchery",
+       "slug": "rathish-menchery"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "First Print Studios",
+     "slug": "first-print-studios",
+     "logo": null
+    },
+    {
+     "name": "Fairy Frames Productions",
+     "slug": "fairy-frames-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-07-18",
+     "gross": 2263347,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1164,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-07-25",
+     "gross": 55631,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 20,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2318978,
+    "totalShows": 1184,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 2263347
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2263347
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-07-18"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 746,
+    "title": "Flask",
+    "img": "https://image.tmdb.org/t/p/original/egdZcuI1E1X9s3trX7w7c6htOlV.jpg",
+    "released": "2025-07-18",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt35110563",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "116 min",
+    "genre": "Drama, Thriller",
+    "plot": "The Arrogant District Judge Venkitesh Balaji and his naive Personal Security Officer Jyothi Kuttan are abducted and held hostage by a Maoist Group demanding release of their leader in prison. As both men face the impending death, their hierarchy equations change and it becomes a fight for survival.",
+    "released": "2025-07-18",
+    "director": "Rahul Riji Nair",
+    "directorSlug": "rahul-riji-nair",
+    "actors": [
+     "Saiju Kurup",
+     "Suresh Krishna",
+     "Balachandran Chullikkadu",
+     "Sidharth Bharathan",
+     "Aswathy Sreekanth",
+     "Zhinz Shan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 735,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:52.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Saiju Kurup",
+     "character": "PSO Jyothi Kumar",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Suresh Krishna",
+     "character": "Venkatesh Balaji",
+     "slug": "suresh-krishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hQ4TZgh8IuUh1LJtxCRmUY45fo6.jpg"
+    },
+    {
+     "name": "Balachandran Chullikkadu",
+     "character": "Kumaran",
+     "slug": "balachandran-chullikkadu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4ohBb7UlXxplLZxSo0fIg05nXNQ.jpg"
+    },
+    {
+     "name": "Sidharth Bharathan",
+     "character": "Maoist Ganeshan",
+     "slug": "sidharth-bharathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4a13KELmZuB4NnRlOsdzMfo2K7j.jpg"
+    },
+    {
+     "name": "Aswathy Sreekanth",
+     "character": "Nisha",
+     "slug": "aswathy-sreekanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k3p97oYCJ889M4RcXtJnUnuACxd.jpg"
+    },
+    {
+     "name": "Zhinz Shan",
+     "character": "Aravindan",
+     "slug": "zhinz-shan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e2qrMKWAS01rpA2kl89UUz4VyBt.jpg"
+    },
+    {
+     "name": "Anand Ekarshi",
+     "character": "Maoist Manu",
+     "slug": "anand-ekarshi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kPc7G9Qd7NM3caoH8CeZY6laeAc.jpg"
+    },
+    {
+     "name": "Ajesh Babu",
+     "character": null,
+     "slug": "ajesh-babu",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rahul Riji Nair",
+       "slug": "rahul-riji-nair"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rahul Riji Nair",
+       "slug": "rahul-riji-nair"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sidhartha Pradeep",
+       "slug": "sidhartha-pradeep"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jayakrishnan Vijayan",
+       "slug": "jayakrishnan-vijayan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Christy Sebastian",
+       "slug": "christy-sebastian"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Rahul Riji Nair",
+       "slug": "rahul-riji-nair"
+      },
+      {
+       "name": "Lijo Joseph",
+       "slug": "lijo-joseph"
+      },
+      {
+       "name": "Rathish Menchery",
+       "slug": "rathish-menchery"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "First Print Studios",
+     "slug": "first-print-studios",
+     "logo": null
+    },
+    {
+     "name": "Fairy Frames Productions",
+     "slug": "fairy-frames-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2318978,
+    "totalShows": 1184,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 615779,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 615779,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-07-18"
+   }
+  }
+ }
+}

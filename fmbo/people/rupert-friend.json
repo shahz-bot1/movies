@@ -1,0 +1,41 @@
+{
+ "slug": "rupert-friend",
+ "name": "Rupert Friend",
+ "source_url": "https://fridaymatinee.in/people/rupert-friend",
+ "captured_at": "2026-10-02T09:51:44.561359+00:00",
+ "person": {
+  "name": "Rupert Friend",
+  "photo": "https://image.tmdb.org/t/p/w185/a3HeMHmlXnoRlHLX9h31ZdZgCXM.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 265,
+   "movie_slug": "companion",
+   "title": "Companion",
+   "year": 2025,
+   "kerala_gross": "₹3.2L"
+  },
+  {
+   "movie_id": 748,
+   "movie_slug": "the-phoenician-scheme",
+   "title": "The Phoenician Scheme",
+   "year": 2025,
+   "kerala_gross": "₹1.0L"
+  },
+  {
+   "movie_id": 714,
+   "movie_slug": "jurassic-world-rebirth",
+   "title": "Jurassic World Rebirth",
+   "year": 2025,
+   "kerala_gross": "₹5.8 Cr"
+  }
+ ]
+}

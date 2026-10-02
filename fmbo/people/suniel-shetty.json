@@ -1,0 +1,41 @@
+{
+ "slug": "suniel-shetty",
+ "name": "Suniel Shetty",
+ "source_url": "https://fridaymatinee.in/people/suniel-shetty",
+ "captured_at": "2026-10-02T11:06:16.390958+00:00",
+ "person": {
+  "name": "Suniel Shetty",
+  "photo": "https://image.tmdb.org/t/p/w185/7N2gTXit5GMfgUhkZ3QsjTnoMH6.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 50,
+   "movie_slug": "darbar",
+   "title": "Darbar",
+   "year": 2020,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 89,
+   "movie_slug": "marakkar",
+   "title": "Marakkar",
+   "year": 2021,
+   "kerala_gross": "₹13.7 Cr"
+  },
+  {
+   "movie_id": 1181,
+   "movie_slug": "welcome-to-the-jungle",
+   "title": "Welcome to the Jungle",
+   "year": 2026,
+   "kerala_gross": "₹12.9L"
+  }
+ ]
+}

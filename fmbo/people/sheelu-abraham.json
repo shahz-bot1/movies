@@ -1,0 +1,41 @@
+{
+ "slug": "sheelu-abraham",
+ "name": "Sheelu Abraham",
+ "source_url": "https://fridaymatinee.in/people/sheelu-abraham",
+ "captured_at": "2026-10-02T10:30:33.225841+00:00",
+ "person": {
+  "name": "Sheelu Abraham",
+  "photo": "https://image.tmdb.org/t/p/w185/ktO9xxA6rzNcfBCVQ6twvSyXYK7.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 264,
+   "movie_slug": "naalam-mura",
+   "title": "Naalam Mura",
+   "year": 2022,
+   "kerala_gross": "₹48.9L"
+  },
+  {
+   "movie_id": 566,
+   "movie_slug": "bad-boyz",
+   "title": "Bad Boyz",
+   "year": 2024,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 656,
+   "movie_slug": "machante-malakha",
+   "title": "Machante Malakha",
+   "year": 2025,
+   "kerala_gross": "₹69.4L"
+  }
+ ]
+}

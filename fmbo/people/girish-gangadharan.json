@@ -1,0 +1,67 @@
+{
+ "slug": "girish-gangadharan",
+ "name": "Girish Gangadharan",
+ "source_url": "https://fridaymatinee.in/people/girish-gangadharan",
+ "captured_at": "2026-10-01T22:32:37.060056+00:00",
+ "person": {
+  "name": "Girish Gangadharan",
+  "photo": "https://image.tmdb.org/t/p/w185/l0prBtRT58P3uHVYPMivXnJwIFT.jpg",
+  "role": "Cinematography and producer"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 6
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 13,
+   "movie_slug": "jallikattu",
+   "title": "Jallikattu",
+   "year": 2019,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 144,
+   "movie_slug": "vikram",
+   "title": "Vikram",
+   "year": 2022,
+   "kerala_gross": "₹29.1 Cr"
+  },
+  {
+   "movie_id": 268,
+   "movie_slug": "djinn",
+   "title": "Djinn",
+   "year": 2023,
+   "kerala_gross": "₹53.9L"
+  },
+  {
+   "movie_id": 354,
+   "movie_slug": "neelavelicham",
+   "title": "Neelavelicham",
+   "year": 2023,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 744,
+   "movie_slug": "kingdom",
+   "title": "Kingdom",
+   "year": 2025,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 765,
+   "movie_slug": "coolie",
+   "title": "Coolie",
+   "year": 2025,
+   "kerala_gross": "₹22.9 Cr"
+  }
+ ]
+}

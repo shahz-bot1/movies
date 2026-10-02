@@ -1,0 +1,41 @@
+{
+ "slug": "ali-basha",
+ "name": "Ali Basha",
+ "source_url": "https://fridaymatinee.in/people/ali-basha",
+ "captured_at": "2026-10-01T20:24:47.283562+00:00",
+ "person": {
+  "name": "Ali Basha",
+  "photo": "https://image.tmdb.org/t/p/w185/1z0YbDqP81BD6VxeghJG7vo9Mny.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 44,
+   "movie_slug": "dabangg-3",
+   "title": "Dabangg 3",
+   "year": 2019,
+   "kerala_gross": "₹28.7L"
+  },
+  {
+   "movie_id": 183,
+   "movie_slug": "liger",
+   "title": "Liger",
+   "year": 2022,
+   "kerala_gross": "₹33.1L"
+  },
+  {
+   "movie_id": 338,
+   "movie_slug": "desamuduru",
+   "title": "Desamuduru",
+   "year": 2023,
+   "kerala_gross": "₹94K"
+  }
+ ]
+}

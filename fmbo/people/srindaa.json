@@ -1,0 +1,76 @@
+{
+ "slug": "srindaa",
+ "name": "Srindaa",
+ "source_url": "https://fridaymatinee.in/people/srindaa",
+ "captured_at": "2026-10-02T10:56:04.856752+00:00",
+ "person": {
+  "name": "Srindaa",
+  "photo": "https://image.tmdb.org/t/p/w185/5kdOuFtZ6T3LPwtu5mQfXSXPYUP.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 8
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 61,
+   "movie_slug": "trance",
+   "title": "Trance",
+   "year": 2020,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 111,
+   "movie_slug": "bheeshma-parvam",
+   "title": "Bheeshma Parvam",
+   "year": 2022,
+   "kerala_gross": "₹29.6 Cr"
+  },
+  {
+   "movie_id": 142,
+   "movie_slug": "kuttavum-shikshayum",
+   "title": "Kuttavum Shikshayum",
+   "year": 2022,
+   "kerala_gross": "₹50.7L"
+  },
+  {
+   "movie_id": 210,
+   "movie_slug": "mei-hoom-moosa",
+   "title": "Mei Hoom Moosa",
+   "year": 2022,
+   "kerala_gross": "₹3.3 Cr"
+  },
+  {
+   "movie_id": 285,
+   "movie_slug": "iratta",
+   "title": "Iratta",
+   "year": 2023,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 563,
+   "movie_slug": "bougainvillea",
+   "title": "Bougainvillea",
+   "year": 2024,
+   "kerala_gross": "₹13.1 Cr"
+  },
+  {
+   "movie_id": 1026,
+   "movie_slug": "aadu-3",
+   "title": "Aadu 3",
+   "year": 2026,
+   "kerala_gross": "₹47.2 Cr"
+  },
+  {
+   "movie_id": 1234,
+   "movie_slug": "bethlehem-kudumba-unit",
+   "title": "Bethlehem Kudumba Unit",
+   "year": 2026,
+   "kerala_gross": "₹145.2 Cr"
+  }
+ ]
+}

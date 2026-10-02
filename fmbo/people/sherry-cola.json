@@ -1,0 +1,41 @@
+{
+ "slug": "sherry-cola",
+ "name": "Sherry Cola",
+ "source_url": "https://fridaymatinee.in/people/sherry-cola",
+ "captured_at": "2026-10-02T10:31:33.983088+00:00",
+ "person": {
+  "name": "Sherry Cola",
+  "photo": "https://image.tmdb.org/t/p/w185/fO6t05iJo4gqsTkOgPO1jwF4B4t.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 870,
+   "movie_slug": "good-fortune",
+   "title": "Good Fortune",
+   "year": 2025,
+   "kerala_gross": "₹47K"
+  },
+  {
+   "movie_id": 973,
+   "movie_slug": "the-spongebob-movie-search-for-squarepants",
+   "title": "The Spongebob Movie Search For Squarepants",
+   "year": 2026,
+   "kerala_gross": "₹2.5L"
+  },
+  {
+   "movie_id": 1013,
+   "movie_slug": "goat",
+   "title": "GOAT",
+   "year": 2026,
+   "kerala_gross": "₹5.9L"
+  }
+ ]
+}

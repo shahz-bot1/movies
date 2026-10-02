@@ -1,0 +1,62 @@
+{
+ "slug": "lalit-kumar",
+ "name": "Lalit Kumar",
+ "source_url": "https://fridaymatinee.in/people/lalit-kumar",
+ "captured_at": "2026-10-01T23:57:47.106302+00:00",
+ "person": {
+  "name": "Lalit Kumar",
+  "photo": null,
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 135,
+   "movie_slug": "kaathuvaakula-rendu-kadhal",
+   "title": "Kaathuvaakula Rendu Kadhal",
+   "year": 2022,
+   "kerala_gross": "₹45.7L"
+  },
+  {
+   "movie_id": 187,
+   "movie_slug": "cobra",
+   "title": "Cobra",
+   "year": 2022,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 430,
+   "movie_slug": "leo",
+   "title": "Leo",
+   "year": 2023,
+   "kerala_gross": "₹47.4 Cr"
+  },
+  {
+   "movie_id": 953,
+   "movie_slug": "sirai",
+   "title": "Sirai",
+   "year": 2025,
+   "kerala_gross": "₹17.2L"
+  },
+  {
+   "movie_id": 1065,
+   "movie_slug": "love-insurance-kompany",
+   "title": "Love Insurance Kompany",
+   "year": 2026,
+   "kerala_gross": "₹54.0L"
+  },
+  {
+   "movie_id": 1253,
+   "movie_slug": "hi",
+   "title": "Hi!",
+   "year": 2026,
+   "kerala_gross": "₹8.9L"
+  }
+ ]
+}

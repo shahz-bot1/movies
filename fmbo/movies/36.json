@@ -1,0 +1,367 @@
+{
+ "id": 36,
+ "slug": "frozen-2",
+ "source_url": "https://fridaymatinee.in/boxoffice/frozen-2-36",
+ "captured_at": "2026-10-01T17:57:47.915875+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 36,
+    "title": "Frozen 2",
+    "img": "https://image.tmdb.org/t/p/original/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+    "released": "2019-11-22",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt4520988",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG",
+    "runtime": "103 min",
+    "genre": "Family, Animation, Adventure, Comedy, Fantasy",
+    "plot": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+    "released": "2019-11-20",
+    "director": "Jennifer Lee",
+    "directorSlug": "jennifer-lee",
+    "actors": [
+     "Idina Menzel",
+     "Kristen Bell",
+     "Josh Gad",
+     "Jonathan Groff",
+     "Evan Rachel Wood",
+     "Sterling K. Brown"
+    ],
+    "awards": "Nominated for 1 Oscar. 18 wins u0026 95 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 224046,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.2",
+      "votes": 10481,
+      "updatedAt": "2026-09-25T01:10:59.000Z"
+     },
+     "rt": "77%",
+     "metascore": 64,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Idina Menzel",
+     "character": "Elsa (voice)",
+     "slug": "idina-menzel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eGsyJmAZNV5tUU4RYy2DIRlFVpW.jpg"
+    },
+    {
+     "name": "Kristen Bell",
+     "character": "Anna (voice)",
+     "slug": "kristen-bell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rP74dJXl7EjinGM0shQtUOlH5s2.jpg"
+    },
+    {
+     "name": "Josh Gad",
+     "character": "Olaf (voice)",
+     "slug": "josh-gad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p9hWNRwrVEBpl8We2bxLMHkk5Mj.jpg"
+    },
+    {
+     "name": "Jonathan Groff",
+     "character": "Kristoff / Sven / Reindeers (voice)",
+     "slug": "jonathan-groff",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
+    },
+    {
+     "name": "Evan Rachel Wood",
+     "character": "Iduna (voice)",
+     "slug": "evan-rachel-wood",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ksXTb2bvqt60bCGRwBlWrNbZHnr.jpg"
+    },
+    {
+     "name": "Sterling K. Brown",
+     "character": "Mattias (voice)",
+     "slug": "sterling-k-brown",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vjFATaJfAyBie56J4Qv2DQ9Dyem.jpg"
+    },
+    {
+     "name": "Alfred Molina",
+     "character": "Agnarr (voice)",
+     "slug": "alfred-molina",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    },
+    {
+     "name": "Rachel Matthews",
+     "character": "Honeymaren (voice)",
+     "slug": "rachel-matthews",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rPm9vlAEsFTLict8nLmRVt4Zfhe.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jennifer Lee",
+       "slug": "jennifer-lee"
+      },
+      {
+       "name": "Chris Buck",
+       "slug": "chris-buck"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Allison Schroeder",
+       "slug": "allison-schroeder"
+      },
+      {
+       "name": "Kristen Anderson-Lopez",
+       "slug": "kristen-anderson-lopez"
+      },
+      {
+       "name": "Jennifer Lee",
+       "slug": "jennifer-lee"
+      },
+      {
+       "name": "Chris Buck",
+       "slug": "chris-buck"
+      },
+      {
+       "name": "Marc Smith",
+       "slug": "marc-smith"
+      },
+      {
+       "name": "Robert Lopez",
+       "slug": "robert-lopez"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Christophe Beck",
+       "slug": "christophe-beck"
+      },
+      {
+       "name": "Kristen Anderson-Lopez",
+       "slug": "kristen-anderson-lopez"
+      },
+      {
+       "name": "Robert Lopez",
+       "slug": "robert-lopez"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jeff Draheim",
+       "slug": "jeff-draheim"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Peter Del Vecho",
+       "slug": "peter-del-vecho"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Walt Disney Animation Studios",
+     "slug": "walt-disney-animation-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/8bH86UPmMP8hlITzXV3XgV9eaAc.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2020-02-11",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 9435728,
+    "totalShows": 684,
+    "totalDays": 28,
+    "openingDay": {
+     "day": 1,
+     "gross": 535709,
+     "date": "2019-11-22"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 1537780,
+     "date": "2019-11-24"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 11,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-22"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 36,
+    "title": "Frozen 2",
+    "img": "https://image.tmdb.org/t/p/original/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+    "released": "2019-11-22",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt4520988",
+    "isRerelease": false
+   },
+   "omdb": "$e:1:props:allViews:date:omdb",
+   "cast": "$e:1:props:allViews:date:cast",
+   "crew": "$e:1:props:allViews:date:crew",
+   "companies": "$e:1:props:allViews:date:companies",
+   "ott": "$e:1:props:allViews:date:ott",
+   "boxoffice": [
+    {
+     "label": "2019-11-22",
+     "gross": 5080997,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 378,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-11-29",
+     "gross": 2489863,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 163,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-12-06",
+     "gross": 1354592,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 108,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-12-13",
+     "gross": 510276,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 35,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 9435728,
+    "totalShows": 684,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 5080997,
+     "date": "$undefined"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5080997,
+     "date": "$undefined"
+    },
+    "chartPosition": "$e:1:props:allViews:date:summary:chartPosition"
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-22"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 36,
+    "title": "Frozen 2",
+    "img": "https://image.tmdb.org/t/p/original/mINJaa34MtknCYl5AjtNJzWj8cD.jpg",
+    "released": "2019-11-22",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt4520988",
+    "isRerelease": false
+   },
+   "omdb": "$e:1:props:allViews:date:omdb",
+   "cast": "$e:1:props:allViews:date:cast",
+   "crew": "$e:1:props:allViews:date:crew",
+   "companies": "$e:1:props:allViews:date:companies",
+   "ott": "$e:1:props:allViews:date:ott",
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 9435728,
+    "totalShows": 684,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 4874888,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4874888,
+     "date": "Ernakulam"
+    },
+    "chartPosition": "$e:1:props:allViews:date:summary:chartPosition"
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-22"
+   }
+  }
+ }
+}

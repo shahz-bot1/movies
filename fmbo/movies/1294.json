@@ -1,0 +1,930 @@
+{
+ "id": 1294,
+ "slug": "practical-magic-2",
+ "source_url": "https://fridaymatinee.in/boxoffice/practical-magic-2-1294",
+ "captured_at": "2026-10-01T19:57:13.388065+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1294,
+    "title": "Practical Magic 2",
+    "img": "https://image.tmdb.org/t/p/original/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+    "released": "2026-09-18",
+    "language": "English",
+    "live": "on",
+    "pretrack": "off",
+    "imdbId": "tt32588798",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "130 min",
+    "genre": "Romance, Fantasy, Comedy",
+    "plot": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "released": "2026-09-09",
+    "director": "Susanne Bier",
+    "directorSlug": "susanne-bier",
+    "actors": [
+     "Sandra Bullock",
+     "Nicole Kidman",
+     "Joey King",
+     "Maisie Williams",
+     "Xolo Maridueña",
+     "Lee Pace"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 10250,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.2",
+      "votes": 97,
+      "updatedAt": "2026-10-01T16:10:03.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T16:10:03.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sandra Bullock",
+     "character": "Sally Owens",
+     "slug": "sandra-bullock",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
+    },
+    {
+     "name": "Nicole Kidman",
+     "character": "Gillian Owens",
+     "slug": "nicole-kidman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
+    },
+    {
+     "name": "Joey King",
+     "character": "Kylie Owens",
+     "slug": "joey-king",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/94c69mPYSK9jFsAEu0OKB7Qs684.jpg"
+    },
+    {
+     "name": "Maisie Williams",
+     "character": "Antonia Owens",
+     "slug": "maisie-williams",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zk1rlBVci2fmnFhMezaPpa4kwZF.jpg"
+    },
+    {
+     "name": "Xolo Maridueña",
+     "character": "Gideon",
+     "slug": "xolo-mariduena",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tJMI7BpjlhHSMpzSz9e1XxygnKd.jpg"
+    },
+    {
+     "name": "Lee Pace",
+     "character": "Ian Wright",
+     "slug": "lee-pace",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
+    },
+    {
+     "name": "Dianne Wiest",
+     "character": "Aunt Jet",
+     "slug": "dianne-wiest",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p9mfzY68FtEbedOMNB5X4eBShhx.jpg"
+    },
+    {
+     "name": "Stockard Channing",
+     "character": "Aunt Frances",
+     "slug": "stockard-channing",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fsk0HkOVKtdcbHfsc99bQvMJep3.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Susanne Bier",
+       "slug": "susanne-bier"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Akiva Goldsman",
+       "slug": "akiva-goldsman"
+      },
+      {
+       "name": "Georgia Pritchett",
+       "slug": "georgia-pritchett"
+      },
+      {
+       "name": "Kelly Marcel",
+       "slug": "kelly-marcel"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rupert Gregson-Williams",
+       "slug": "rupert-gregson-williams"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Simon Duggan",
+       "slug": "simon-duggan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sam Williams",
+       "slug": "sam-williams"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Denise Di Novi",
+       "slug": "denise-di-novi"
+      },
+      {
+       "name": "Sandra Bullock",
+       "slug": "sandra-bullock"
+      },
+      {
+       "name": "Nicole Kidman",
+       "slug": "nicole-kidman"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Di Novi Pictures",
+     "slug": "di-novi-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/xz25F3NFQOQJCH47VscbrcI10Om.png"
+    },
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "Blossom Films",
+     "slug": "blossom-films",
+     "logo": "https://image.tmdb.org/t/p/w185/7fUmRWUJgO4grf61sPMmc4kVYVR.png"
+    },
+    {
+     "name": "Fortis Films",
+     "slug": "fortis-films",
+     "logo": "https://image.tmdb.org/t/p/w185/2AAcFwLxc1yble95qTSi6QfxKRa.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    },
+    {
+     "name": "Alcon Entertainment",
+     "slug": "alcon-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/9WOE5AQUXbOtLU6GTwfjS8OMF0v.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-18": [
+     {
+      "id": 1256,
+      "title": "Lu0026O - Law and Order",
+      "img": "https://image.tmdb.org/t/p/original/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg"
+     },
+     {
+      "id": 1257,
+      "title": "Ottam Thullal",
+      "img": "https://image.tmdb.org/t/p/original/cVp1n8FZPtVILNAvXpdlrD4XXT6.jpg"
+     },
+     {
+      "id": 1259,
+      "title": "It's A Medical Miracle",
+      "img": "https://image.tmdb.org/t/p/original/ymlqg5qqwzAC74IXi2smf8OZeN7.jpg"
+     }
+    ],
+    "2026-09-23": [
+     {
+      "id": 1273,
+      "title": "The Paradise",
+      "img": "https://image.tmdb.org/t/p/original/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-09-18",
+     "gross": 6940,
+     "sold": 24,
+     "unsold": 529,
+     "shows": 5,
+     "occ": 4.34,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 6940,
+     "lastUpdatedAt": "2026-09-18 22:48:01"
+    },
+    {
+     "label": "2026-09-19",
+     "gross": 11570,
+     "sold": 45,
+     "unsold": 789,
+     "shows": 6,
+     "occ": 5.4,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 18510,
+     "lastUpdatedAt": "2026-09-19 22:48:01"
+    },
+    {
+     "label": "2026-09-20",
+     "gross": 18673,
+     "sold": 65,
+     "unsold": 827,
+     "shows": 7,
+     "occ": 7.29,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 37183,
+     "lastUpdatedAt": "2026-09-21 00:03:01"
+    },
+    {
+     "label": "2026-09-21",
+     "gross": 3584,
+     "sold": 14,
+     "unsold": 495,
+     "shows": 5,
+     "occ": 2.75,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 40767,
+     "lastUpdatedAt": "2026-09-21 19:42:01"
+    },
+    {
+     "label": "2026-09-22",
+     "gross": 28735,
+     "sold": 132,
+     "unsold": 379,
+     "shows": 5,
+     "occ": 25.83,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 69502,
+     "lastUpdatedAt": "2026-09-22 19:28:01"
+    },
+    {
+     "label": "2026-09-23",
+     "gross": 13306,
+     "sold": 46,
+     "unsold": 463,
+     "shows": 5,
+     "occ": 9.04,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 82808,
+     "lastUpdatedAt": "2026-09-23 20:23:01"
+    },
+    {
+     "label": "2026-09-24",
+     "gross": 3400,
+     "sold": 17,
+     "unsold": 209,
+     "shows": 2,
+     "occ": 7.52,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 86208,
+     "lastUpdatedAt": "2026-09-24 18:58:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 86208,
+    "totalShows": 35,
+    "totalSeats": 4034,
+    "totalSold": 343,
+    "avgOcc": "8.5",
+    "totalDays": 7,
+    "totalHousefull": 1,
+    "totalAlmost": 1,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 5,
+     "gross": 28735,
+     "date": "2026-09-22"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 6940,
+     "date": "2026-09-18"
+    },
+    "chartPosition": null
+   },
+   "_tier": "hot",
+   "_hash": "7:3400:86208"
+  },
+  "week": {
+   "movie": {
+    "id": 1294,
+    "title": "Practical Magic 2",
+    "img": "https://image.tmdb.org/t/p/original/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+    "released": "2026-09-18",
+    "language": "English",
+    "live": "on",
+    "pretrack": "off",
+    "imdbId": "tt32588798",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "130 min",
+    "genre": "Romance, Fantasy, Comedy",
+    "plot": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "released": "2026-09-09",
+    "director": "Susanne Bier",
+    "directorSlug": "susanne-bier",
+    "actors": [
+     "Sandra Bullock",
+     "Nicole Kidman",
+     "Joey King",
+     "Maisie Williams",
+     "Xolo Maridueña",
+     "Lee Pace"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 10250,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.2",
+      "votes": 97,
+      "updatedAt": "2026-10-01T16:10:03.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T16:10:03.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sandra Bullock",
+     "character": "Sally Owens",
+     "slug": "sandra-bullock",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
+    },
+    {
+     "name": "Nicole Kidman",
+     "character": "Gillian Owens",
+     "slug": "nicole-kidman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
+    },
+    {
+     "name": "Joey King",
+     "character": "Kylie Owens",
+     "slug": "joey-king",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/94c69mPYSK9jFsAEu0OKB7Qs684.jpg"
+    },
+    {
+     "name": "Maisie Williams",
+     "character": "Antonia Owens",
+     "slug": "maisie-williams",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zk1rlBVci2fmnFhMezaPpa4kwZF.jpg"
+    },
+    {
+     "name": "Xolo Maridueña",
+     "character": "Gideon",
+     "slug": "xolo-mariduena",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tJMI7BpjlhHSMpzSz9e1XxygnKd.jpg"
+    },
+    {
+     "name": "Lee Pace",
+     "character": "Ian Wright",
+     "slug": "lee-pace",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
+    },
+    {
+     "name": "Dianne Wiest",
+     "character": "Aunt Jet",
+     "slug": "dianne-wiest",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p9mfzY68FtEbedOMNB5X4eBShhx.jpg"
+    },
+    {
+     "name": "Stockard Channing",
+     "character": "Aunt Frances",
+     "slug": "stockard-channing",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fsk0HkOVKtdcbHfsc99bQvMJep3.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Susanne Bier",
+       "slug": "susanne-bier"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Akiva Goldsman",
+       "slug": "akiva-goldsman"
+      },
+      {
+       "name": "Georgia Pritchett",
+       "slug": "georgia-pritchett"
+      },
+      {
+       "name": "Kelly Marcel",
+       "slug": "kelly-marcel"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rupert Gregson-Williams",
+       "slug": "rupert-gregson-williams"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Simon Duggan",
+       "slug": "simon-duggan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sam Williams",
+       "slug": "sam-williams"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Denise Di Novi",
+       "slug": "denise-di-novi"
+      },
+      {
+       "name": "Sandra Bullock",
+       "slug": "sandra-bullock"
+      },
+      {
+       "name": "Nicole Kidman",
+       "slug": "nicole-kidman"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Di Novi Pictures",
+     "slug": "di-novi-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/xz25F3NFQOQJCH47VscbrcI10Om.png"
+    },
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "Blossom Films",
+     "slug": "blossom-films",
+     "logo": "https://image.tmdb.org/t/p/w185/7fUmRWUJgO4grf61sPMmc4kVYVR.png"
+    },
+    {
+     "name": "Fortis Films",
+     "slug": "fortis-films",
+     "logo": "https://image.tmdb.org/t/p/w185/2AAcFwLxc1yble95qTSi6QfxKRa.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    },
+    {
+     "name": "Alcon Entertainment",
+     "slug": "alcon-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/9WOE5AQUXbOtLU6GTwfjS8OMF0v.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-18": [
+     {
+      "id": 1256,
+      "title": "Lu0026O - Law and Order",
+      "img": "https://image.tmdb.org/t/p/original/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg"
+     },
+     {
+      "id": 1257,
+      "title": "Ottam Thullal",
+      "img": "https://image.tmdb.org/t/p/original/cVp1n8FZPtVILNAvXpdlrD4XXT6.jpg"
+     },
+     {
+      "id": 1259,
+      "title": "It's A Medical Miracle",
+      "img": "https://image.tmdb.org/t/p/original/ymlqg5qqwzAC74IXi2smf8OZeN7.jpg"
+     }
+    ],
+    "2026-09-23": [
+     {
+      "id": 1273,
+      "title": "The Paradise",
+      "img": "https://image.tmdb.org/t/p/original/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-09-18",
+     "gross": 86208,
+     "sold": 343,
+     "unsold": 3691,
+     "shows": 35,
+     "occ": 8.5,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 86208,
+     "lastUpdatedAt": "2026-09-24 18:58:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 86208,
+    "totalShows": 35,
+    "totalSeats": 4034,
+    "totalSold": 343,
+    "avgOcc": "8.5",
+    "totalDays": 1,
+    "totalHousefull": 1,
+    "totalAlmost": 1,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 86208
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 86208
+    },
+    "chartPosition": null
+   },
+   "_tier": "hot",
+   "_hash": "1:86208:86208"
+  },
+  "district": {
+   "movie": {
+    "id": 1294,
+    "title": "Practical Magic 2",
+    "img": "https://image.tmdb.org/t/p/original/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+    "released": "2026-09-18",
+    "language": "English",
+    "live": "on",
+    "pretrack": "off",
+    "imdbId": "tt32588798",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "130 min",
+    "genre": "Romance, Fantasy, Comedy",
+    "plot": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+    "released": "2026-09-09",
+    "director": "Susanne Bier",
+    "directorSlug": "susanne-bier",
+    "actors": [
+     "Sandra Bullock",
+     "Nicole Kidman",
+     "Joey King",
+     "Maisie Williams",
+     "Xolo Maridueña",
+     "Lee Pace"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 10250,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.2",
+      "votes": 97,
+      "updatedAt": "2026-10-01T16:10:03.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T16:10:03.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sandra Bullock",
+     "character": "Sally Owens",
+     "slug": "sandra-bullock",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
+    },
+    {
+     "name": "Nicole Kidman",
+     "character": "Gillian Owens",
+     "slug": "nicole-kidman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
+    },
+    {
+     "name": "Joey King",
+     "character": "Kylie Owens",
+     "slug": "joey-king",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/94c69mPYSK9jFsAEu0OKB7Qs684.jpg"
+    },
+    {
+     "name": "Maisie Williams",
+     "character": "Antonia Owens",
+     "slug": "maisie-williams",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zk1rlBVci2fmnFhMezaPpa4kwZF.jpg"
+    },
+    {
+     "name": "Xolo Maridueña",
+     "character": "Gideon",
+     "slug": "xolo-mariduena",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tJMI7BpjlhHSMpzSz9e1XxygnKd.jpg"
+    },
+    {
+     "name": "Lee Pace",
+     "character": "Ian Wright",
+     "slug": "lee-pace",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
+    },
+    {
+     "name": "Dianne Wiest",
+     "character": "Aunt Jet",
+     "slug": "dianne-wiest",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p9mfzY68FtEbedOMNB5X4eBShhx.jpg"
+    },
+    {
+     "name": "Stockard Channing",
+     "character": "Aunt Frances",
+     "slug": "stockard-channing",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fsk0HkOVKtdcbHfsc99bQvMJep3.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Susanne Bier",
+       "slug": "susanne-bier"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Akiva Goldsman",
+       "slug": "akiva-goldsman"
+      },
+      {
+       "name": "Georgia Pritchett",
+       "slug": "georgia-pritchett"
+      },
+      {
+       "name": "Kelly Marcel",
+       "slug": "kelly-marcel"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rupert Gregson-Williams",
+       "slug": "rupert-gregson-williams"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Simon Duggan",
+       "slug": "simon-duggan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sam Williams",
+       "slug": "sam-williams"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Denise Di Novi",
+       "slug": "denise-di-novi"
+      },
+      {
+       "name": "Sandra Bullock",
+       "slug": "sandra-bullock"
+      },
+      {
+       "name": "Nicole Kidman",
+       "slug": "nicole-kidman"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Di Novi Pictures",
+     "slug": "di-novi-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/xz25F3NFQOQJCH47VscbrcI10Om.png"
+    },
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "Blossom Films",
+     "slug": "blossom-films",
+     "logo": "https://image.tmdb.org/t/p/w185/7fUmRWUJgO4grf61sPMmc4kVYVR.png"
+    },
+    {
+     "name": "Fortis Films",
+     "slug": "fortis-films",
+     "logo": "https://image.tmdb.org/t/p/w185/2AAcFwLxc1yble95qTSi6QfxKRa.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    },
+    {
+     "name": "Alcon Entertainment",
+     "slug": "alcon-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/9WOE5AQUXbOtLU6GTwfjS8OMF0v.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-18": [
+     {
+      "id": 1256,
+      "title": "Lu0026O - Law and Order",
+      "img": "https://image.tmdb.org/t/p/original/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg"
+     },
+     {
+      "id": 1257,
+      "title": "Ottam Thullal",
+      "img": "https://image.tmdb.org/t/p/original/cVp1n8FZPtVILNAvXpdlrD4XXT6.jpg"
+     },
+     {
+      "id": 1259,
+      "title": "It's A Medical Miracle",
+      "img": "https://image.tmdb.org/t/p/original/ymlqg5qqwzAC74IXi2smf8OZeN7.jpg"
+     }
+    ],
+    "2026-09-23": [
+     {
+      "id": 1273,
+      "title": "The Paradise",
+      "img": "https://image.tmdb.org/t/p/original/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 43132,
+     "sold": 207,
+     "unsold": 1729,
+     "shows": 15,
+     "occ": 10.69,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 43132,
+     "lastUpdatedAt": "2026-09-24 17:38:01"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 32146,
+     "sold": 96,
+     "unsold": 982,
+     "shows": 11,
+     "occ": 8.91,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 75278,
+     "lastUpdatedAt": "2026-09-24 18:58:01"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 5610,
+     "sold": 25,
+     "unsold": 275,
+     "shows": 3,
+     "occ": 8.33,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 80888,
+     "lastUpdatedAt": "2026-09-20 16:38:01"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 5320,
+     "sold": 15,
+     "unsold": 705,
+     "shows": 6,
+     "occ": 2.08,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 86208,
+     "lastUpdatedAt": "2026-09-23 13:58:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 86208,
+    "totalShows": 35,
+    "totalSeats": 4034,
+    "totalSold": 343,
+    "avgOcc": "8.5",
+    "totalDays": 4,
+    "totalHousefull": 1,
+    "totalAlmost": 1,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 43132,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 43132,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "hot",
+   "_hash": "4:5320:86208"
+  }
+ }
+}

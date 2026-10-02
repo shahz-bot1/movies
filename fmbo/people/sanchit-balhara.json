@@ -1,0 +1,55 @@
+{
+ "slug": "sanchit-balhara",
+ "name": "Sanchit Balhara",
+ "source_url": "https://fridaymatinee.in/people/sanchit-balhara",
+ "captured_at": "2026-10-02T10:06:45.223933+00:00",
+ "person": {
+  "name": "Sanchit Balhara",
+  "photo": "https://image.tmdb.org/t/p/w185/uoT1EOft58kNXQCChW083XDvFSy.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 43,
+   "movie_slug": "mamangam",
+   "title": "Mamangam",
+   "year": 2019,
+   "kerala_gross": "₹5.7 Cr"
+  },
+  {
+   "movie_id": 278,
+   "movie_slug": "pathaan",
+   "title": "Pathaan",
+   "year": 2023,
+   "kerala_gross": "₹9.5 Cr"
+  },
+  {
+   "movie_id": 386,
+   "movie_slug": "adipurush",
+   "title": "Adipurush",
+   "year": 2023,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 785,
+   "movie_slug": "war-2",
+   "title": "War 2",
+   "year": 2025,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 813,
+   "movie_slug": "baaghi-4",
+   "title": "Baaghi 4",
+   "year": 2025,
+   "kerala_gross": "₹35.3L"
+  }
+ ]
+}

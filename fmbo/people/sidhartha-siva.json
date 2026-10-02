@@ -1,0 +1,46 @@
+{
+ "slug": "sidhartha-siva",
+ "name": "Sidhartha Siva",
+ "source_url": "https://fridaymatinee.in/people/sidhartha-siva",
+ "captured_at": "2026-10-02T10:44:38.205563+00:00",
+ "person": {
+  "name": "Sidhartha Siva",
+  "photo": "https://image.tmdb.org/t/p/w185/eqTOCbSfUoEBsLnZZSL6hIaIJxI.jpg",
+  "role": "Actor and director"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 58,
+   "movie_slug": "mariyam-vannu-vilakkoothi",
+   "title": "Mariyam Vannu Vilakkoothi",
+   "year": 2020,
+   "kerala_gross": "₹23.7L"
+  },
+  {
+   "movie_id": 248,
+   "movie_slug": "saudi-vellakka",
+   "title": "Saudi Vellakka",
+   "year": 2022,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 336,
+   "movie_slug": "enthada-saji",
+   "title": "Enthada Saji",
+   "year": 2023,
+   "kerala_gross": "₹86.4L"
+  }
+ ]
+}

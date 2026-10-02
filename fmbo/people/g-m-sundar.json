@@ -1,0 +1,55 @@
+{
+ "slug": "g-m-sundar",
+ "name": "G. M. Sundar",
+ "source_url": "https://fridaymatinee.in/people/g-m-sundar",
+ "captured_at": "2026-10-01T22:23:55.347783+00:00",
+ "person": {
+  "name": "G. M. Sundar",
+  "photo": "https://image.tmdb.org/t/p/w185/hMYrf0wmw9XPiICyOWXYmDIucFV.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 109,
+   "movie_slug": "valimai",
+   "title": "Valimai",
+   "year": 2022,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 134,
+   "movie_slug": "jana-gana-mana",
+   "title": "Jana Gana Mana",
+   "year": 2022,
+   "kerala_gross": "₹19.6 Cr"
+  },
+  {
+   "movie_id": 271,
+   "movie_slug": "thunivu",
+   "title": "Thunivu",
+   "year": 2023,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 582,
+   "movie_slug": "vettaiyan",
+   "title": "Vettaiyan",
+   "year": 2024,
+   "kerala_gross": "₹13.1 Cr"
+  },
+  {
+   "movie_id": 963,
+   "movie_slug": "vaa-vaathiyaar",
+   "title": "Vaa Vaathiyaar",
+   "year": 2026,
+   "kerala_gross": "₹45.0L"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "suresh-rajan",
+ "name": "Suresh Rajan",
+ "source_url": "https://fridaymatinee.in/people/suresh-rajan",
+ "captured_at": "2026-10-02T11:09:50.022540+00:00",
+ "person": {
+  "name": "Suresh Rajan",
+  "photo": null,
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 49,
+   "movie_slug": "valiyaperunnal",
+   "title": "Valiyaperunnal",
+   "year": 2019,
+   "kerala_gross": "₹62.1L"
+  },
+  {
+   "movie_id": 142,
+   "movie_slug": "kuttavum-shikshayum",
+   "title": "Kuttavum Shikshayum",
+   "year": 2022,
+   "kerala_gross": "₹50.7L"
+  },
+  {
+   "movie_id": 451,
+   "movie_slug": "vela",
+   "title": "Vela",
+   "year": 2023,
+   "kerala_gross": "₹36.4L"
+  },
+  {
+   "movie_id": 766,
+   "movie_slug": "meesha",
+   "title": "Meesha",
+   "year": 2025,
+   "kerala_gross": "₹21.6L"
+  }
+ ]
+}

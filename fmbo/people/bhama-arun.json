@@ -1,0 +1,48 @@
+{
+ "slug": "bhama-arun",
+ "name": "Bhama Arun",
+ "source_url": "https://fridaymatinee.in/people/bhama-arun",
+ "captured_at": "2026-10-01T21:15:01.590274+00:00",
+ "person": {
+  "name": "Bhama Arun",
+  "photo": "https://image.tmdb.org/t/p/w185/tFtpSXaRTddnRDAnQonDjVOIeDX.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 349,
+   "movie_slug": "madanolsavam",
+   "title": "Madanolsavam",
+   "year": 2023,
+   "kerala_gross": "₹3.1 Cr"
+  },
+  {
+   "movie_id": 581,
+   "movie_slug": "rekhachithram",
+   "title": "Rekhachithram",
+   "year": 2025,
+   "kerala_gross": "₹21.8 Cr"
+  },
+  {
+   "movie_id": 634,
+   "movie_slug": "bazooka",
+   "title": "Bazooka",
+   "year": 2025,
+   "kerala_gross": "₹11.9 Cr"
+  },
+  {
+   "movie_id": 1085,
+   "movie_slug": "athimanoharam",
+   "title": "Athimanoharam",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

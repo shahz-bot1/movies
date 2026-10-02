@@ -1,0 +1,48 @@
+{
+ "slug": "rahman",
+ "name": "Rahman",
+ "source_url": "https://fridaymatinee.in/people/rahman",
+ "captured_at": "2026-10-02T08:28:48.536462+00:00",
+ "person": {
+  "name": "Rahman",
+  "photo": "https://image.tmdb.org/t/p/w185/3heEOBLha0ImREOUmzWm5nVKUt.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 208,
+   "movie_slug": "ponniyin-selvan",
+   "title": "Ponniyin Selvan",
+   "year": 2022,
+   "kerala_gross": "₹17.0 Cr"
+  },
+  {
+   "movie_id": 359,
+   "movie_slug": "ponniyin-selvan-part-2",
+   "title": "Ponniyin Selvan - Part 2",
+   "year": 2023,
+   "kerala_gross": "₹13.2 Cr"
+  },
+  {
+   "movie_id": 566,
+   "movie_slug": "bad-boyz",
+   "title": "Bad Boyz",
+   "year": 2024,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 995,
+   "movie_slug": "anomie",
+   "title": "Anomie",
+   "year": 2026,
+   "kerala_gross": "₹2.7 Cr"
+  }
+ ]
+}

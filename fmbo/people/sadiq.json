@@ -1,0 +1,62 @@
+{
+ "slug": "sadiq",
+ "name": "Sadiq",
+ "source_url": "https://fridaymatinee.in/people/sadiq",
+ "captured_at": "2026-10-02T09:57:33.737090+00:00",
+ "person": {
+  "name": "Sadiq",
+  "photo": "https://image.tmdb.org/t/p/w185/dLfxvjZ014CumD83Oz6yXWbtvNA.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 12,
+   "movie_slug": "ganagandharvan",
+   "title": "Ganagandharvan",
+   "year": 2019,
+   "kerala_gross": "₹24.3L"
+  },
+  {
+   "movie_id": 33,
+   "movie_slug": "jack-daniel",
+   "title": "Jack Daniel ",
+   "year": 2019,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 83,
+   "movie_slug": "nizhal",
+   "title": "Nizhal",
+   "year": 2021,
+   "kerala_gross": "₹54.2L"
+  },
+  {
+   "movie_id": 91,
+   "movie_slug": "kaaval",
+   "title": "Kaaval",
+   "year": 2021,
+   "kerala_gross": "₹2.8 Cr"
+  },
+  {
+   "movie_id": 266,
+   "movie_slug": "aanandam-paramanandam",
+   "title": "Aanandam Paramanandam",
+   "year": 2022,
+   "kerala_gross": "₹48.6L"
+  },
+  {
+   "movie_id": 336,
+   "movie_slug": "enthada-saji",
+   "title": "Enthada Saji",
+   "year": 2023,
+   "kerala_gross": "₹86.4L"
+  }
+ ]
+}

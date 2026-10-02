@@ -1,0 +1,55 @@
+{
+ "slug": "pom-klementieff",
+ "name": "Pom Klementieff",
+ "source_url": "https://fridaymatinee.in/people/pom-klementieff",
+ "captured_at": "2026-10-02T06:21:30.323726+00:00",
+ "person": {
+  "name": "Pom Klementieff",
+  "photo": "https://image.tmdb.org/t/p/w185/hfUKAI2kXTMMWjno0i4sLPJud5N.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 158,
+   "movie_slug": "thor-love-and-thunder",
+   "title": "Thor Love and Thunder",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 372,
+   "movie_slug": "guardians-of-the-galaxy-volume-3",
+   "title": "Guardians of the Galaxy Volume 3",
+   "year": 2023,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 405,
+   "movie_slug": "mission-impossible-dead-reckoning-part-one",
+   "title": "Mission: Impossible - Dead Reckoning Part One",
+   "year": 2023,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 692,
+   "movie_slug": "mission-impossible-the-final-reckoning",
+   "title": "Mission: Impossible - The Final Reckoning",
+   "year": 2025,
+   "kerala_gross": "₹3.6 Cr"
+  },
+  {
+   "movie_id": 632,
+   "movie_slug": "superman",
+   "title": "Superman",
+   "year": 2025,
+   "kerala_gross": "₹3.7 Cr"
+  }
+ ]
+}

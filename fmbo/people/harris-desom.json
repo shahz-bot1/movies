@@ -1,0 +1,48 @@
+{
+ "slug": "harris-desom",
+ "name": "Harris Desom",
+ "source_url": "https://fridaymatinee.in/people/harris-desom",
+ "captured_at": "2026-10-01T22:42:55.390145+00:00",
+ "person": {
+  "name": "Harris Desom",
+  "photo": null,
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 292,
+   "movie_slug": "momo-in-dubai",
+   "title": "Momo in Dubai",
+   "year": 2023,
+   "kerala_gross": "₹10.1L"
+  },
+  {
+   "movie_id": 549,
+   "movie_slug": "vaazha",
+   "title": "Vaazha",
+   "year": 2024,
+   "kerala_gross": "₹24.4 Cr"
+  },
+  {
+   "movie_id": 861,
+   "movie_slug": "avihitham",
+   "title": "Avihitham",
+   "year": 2025,
+   "kerala_gross": "₹36.9L"
+  },
+  {
+   "movie_id": 1048,
+   "movie_slug": "vaazha-ii",
+   "title": "Vaazha II",
+   "year": 2026,
+   "kerala_gross": "₹119.7 Cr"
+  }
+ ]
+}

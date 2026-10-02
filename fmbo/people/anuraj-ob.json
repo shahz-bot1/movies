@@ -1,0 +1,60 @@
+{
+ "slug": "anuraj-ob",
+ "name": "Anuraj OB",
+ "source_url": "https://fridaymatinee.in/people/anuraj-ob",
+ "captured_at": "2026-10-01T20:48:26.642685+00:00",
+ "person": {
+  "name": "Anuraj OB",
+  "photo": "https://image.tmdb.org/t/p/w185/3sOaLataDZ8o9mIGTcv7HxaawLt.jpg",
+  "role": "Actor and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 263,
+   "movie_slug": "oh-meri-laila",
+   "title": "Oh Meri Laila",
+   "year": 2022,
+   "kerala_gross": "₹22.0L"
+  },
+  {
+   "movie_id": 549,
+   "movie_slug": "vaazha",
+   "title": "Vaazha",
+   "year": 2024,
+   "kerala_gross": "₹24.4 Cr"
+  },
+  {
+   "movie_id": 723,
+   "movie_slug": "odum-kuthira-chaadum-kuthira",
+   "title": "Odum Kuthira Chaadum Kuthira",
+   "year": 2025,
+   "kerala_gross": "₹1.9 Cr"
+  },
+  {
+   "movie_id": 967,
+   "movie_slug": "thalaivar-thambi-thalaimaiyil",
+   "title": "Thalaivar Thambi Thalaimaiyil",
+   "year": 2026,
+   "kerala_gross": "₹88.2L"
+  },
+  {
+   "movie_id": 1286,
+   "movie_slug": "cosmic-samson",
+   "title": "Cosmic Samson",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

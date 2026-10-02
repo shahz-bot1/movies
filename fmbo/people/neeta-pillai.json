@@ -1,0 +1,41 @@
+{
+ "slug": "neeta-pillai",
+ "name": "Neeta Pillai",
+ "source_url": "https://fridaymatinee.in/people/neeta-pillai",
+ "captured_at": "2026-10-02T00:57:16.329890+00:00",
+ "person": {
+  "name": "Neeta Pillai",
+  "photo": "https://image.tmdb.org/t/p/w185/oAWK8hGRB32x5Cnz0oNt8O5VIyX.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 166,
+   "movie_slug": "paappan",
+   "title": "Paappan",
+   "year": 2022,
+   "kerala_gross": "₹13.4 Cr"
+  },
+  {
+   "movie_id": 504,
+   "movie_slug": "thankamani",
+   "title": "Thankamani",
+   "year": 2024,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 489,
+   "movie_slug": "varshangalkku-shesham",
+   "title": "Varshangalkku Shesham",
+   "year": 2024,
+   "kerala_gross": "₹31.2 Cr"
+  }
+ ]
+}

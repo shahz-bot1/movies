@@ -1,0 +1,41 @@
+{
+ "slug": "theodore-shapiro",
+ "name": "Theodore Shapiro",
+ "source_url": "https://fridaymatinee.in/people/theodore-shapiro",
+ "captured_at": "2026-10-02T11:20:08.621284+00:00",
+ "person": {
+  "name": "Theodore Shapiro",
+  "photo": "https://image.tmdb.org/t/p/w185/6tKiHkv6Mlc6yhh8gRN1koovdoI.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 814,
+   "movie_slug": "the-roses",
+   "title": "The Roses",
+   "year": 2025,
+   "kerala_gross": "₹61K"
+  },
+  {
+   "movie_id": 971,
+   "movie_slug": "the-housemaid",
+   "title": "The Housemaid",
+   "year": 2026,
+   "kerala_gross": "₹6.5L"
+  },
+  {
+   "movie_id": 1090,
+   "movie_slug": "the-devil-wears-prada-2",
+   "title": "The Devil Wears Prada 2",
+   "year": 2026,
+   "kerala_gross": "₹28.9L"
+  }
+ ]
+}

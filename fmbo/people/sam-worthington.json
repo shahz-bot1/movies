@@ -1,0 +1,48 @@
+{
+ "slug": "sam-worthington",
+ "name": "Sam Worthington",
+ "source_url": "https://fridaymatinee.in/people/sam-worthington",
+ "captured_at": "2026-10-02T10:04:00.320172+00:00",
+ "person": {
+  "name": "Sam Worthington",
+  "photo": "https://image.tmdb.org/t/p/w185/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 246,
+   "movie_slug": "avatar-the-way-of-water",
+   "title": "Avatar The Way of Water",
+   "year": 2022,
+   "kerala_gross": "₹33.3 Cr"
+  },
+  {
+   "movie_id": 801,
+   "movie_slug": "relay",
+   "title": "Relay",
+   "year": 2025,
+   "kerala_gross": "₹52K"
+  },
+  {
+   "movie_id": 793,
+   "movie_slug": "avatar-fire-and-ash",
+   "title": "Avatar: Fire and Ash",
+   "year": 2025,
+   "kerala_gross": "₹10.2 Cr"
+  },
+  {
+   "movie_id": 1088,
+   "movie_slug": "fuze",
+   "title": "Fuze",
+   "year": 2026,
+   "kerala_gross": "₹55K"
+  }
+ ]
+}

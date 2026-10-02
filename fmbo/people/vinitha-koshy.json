@@ -1,0 +1,48 @@
+{
+ "slug": "vinitha-koshy",
+ "name": "Vinitha Koshy",
+ "source_url": "https://fridaymatinee.in/people/vinitha-koshy",
+ "captured_at": "2026-10-02T11:48:38.556881+00:00",
+ "person": {
+  "name": "Vinitha Koshy",
+  "photo": "https://image.tmdb.org/t/p/w185/2IvJnduvAdfko1iHGgmFVhuLwQS.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 70,
+   "movie_slug": "operation-java",
+   "title": "Operation Java",
+   "year": 2021,
+   "kerala_gross": "₹86.0L"
+  },
+  {
+   "movie_id": 250,
+   "movie_slug": "the-teacher",
+   "title": "The Teacher",
+   "year": 2022,
+   "kerala_gross": "₹19.4L"
+  },
+  {
+   "movie_id": 272,
+   "movie_slug": "christopher",
+   "title": "Christopher",
+   "year": 2023,
+   "kerala_gross": "₹4.1 Cr"
+  },
+  {
+   "movie_id": 365,
+   "movie_slug": "2018",
+   "title": "2018",
+   "year": 2023,
+   "kerala_gross": "₹66.3 Cr"
+  }
+ ]
+}

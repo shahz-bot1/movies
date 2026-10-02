@@ -1,0 +1,48 @@
+{
+ "slug": "peter-safran",
+ "name": "Peter Safran",
+ "source_url": "https://fridaymatinee.in/people/peter-safran",
+ "captured_at": "2026-10-02T06:19:25.958471+00:00",
+ "person": {
+  "name": "Peter Safran",
+  "photo": "https://image.tmdb.org/t/p/w185/p9gR2taQgpt9FI8lMzZJXfOGrPy.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 480,
+   "movie_slug": "aquaman-and-the-lost-kingdom",
+   "title": "Aquaman and the Lost Kingdom",
+   "year": 2023,
+   "kerala_gross": "₹79.2L"
+  },
+  {
+   "movie_id": 632,
+   "movie_slug": "superman",
+   "title": "Superman",
+   "year": 2025,
+   "kerala_gross": "₹3.7 Cr"
+  },
+  {
+   "movie_id": 804,
+   "movie_slug": "the-conjuring-last-rites",
+   "title": "The Conjuring Last Rites",
+   "year": 2025,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 795,
+   "movie_slug": "supergirl",
+   "title": "Supergirl",
+   "year": 2026,
+   "kerala_gross": "₹52.7L"
+  }
+ ]
+}

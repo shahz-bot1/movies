@@ -1,0 +1,41 @@
+{
+ "slug": "vasanthi-guru",
+ "name": "Vasanthi Guru",
+ "source_url": "https://fridaymatinee.in/people/vasanthi-guru",
+ "captured_at": "2026-10-02T11:38:41.757878+00:00",
+ "person": {
+  "name": "Vasanthi Guru",
+  "photo": null,
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 144,
+   "movie_slug": "vikram",
+   "title": "Vikram",
+   "year": 2022,
+   "kerala_gross": "₹29.1 Cr"
+  },
+  {
+   "movie_id": 272,
+   "movie_slug": "christopher",
+   "title": "Christopher",
+   "year": 2023,
+   "kerala_gross": "₹4.1 Cr"
+  },
+  {
+   "movie_id": 854,
+   "movie_slug": "idli-kadai",
+   "title": "Idli Kadai",
+   "year": 2025,
+   "kerala_gross": "₹80.6L"
+  }
+ ]
+}

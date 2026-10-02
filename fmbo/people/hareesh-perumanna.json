@@ -1,0 +1,48 @@
+{
+ "slug": "hareesh-perumanna",
+ "name": "Hareesh Perumanna",
+ "source_url": "https://fridaymatinee.in/people/hareesh-perumanna",
+ "captured_at": "2026-10-01T22:40:07.049234+00:00",
+ "person": {
+  "name": "Hareesh Perumanna",
+  "photo": "https://image.tmdb.org/t/p/w185/6yMsL4628NL86MmrGQlMHQ3OSbX.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 25,
+   "movie_slug": "akasha-ganga-2",
+   "title": "Akasha Ganga 2",
+   "year": 2019,
+   "kerala_gross": "₹69.7L"
+  },
+  {
+   "movie_id": 56,
+   "movie_slug": "shylock",
+   "title": "Shylock",
+   "year": 2020,
+   "kerala_gross": "₹7.1 Cr"
+  },
+  {
+   "movie_id": 105,
+   "movie_slug": "kallan-dsouza",
+   "title": "Kallan Dsouza",
+   "year": 2022,
+   "kerala_gross": "₹27.6L"
+  },
+  {
+   "movie_id": 210,
+   "movie_slug": "mei-hoom-moosa",
+   "title": "Mei Hoom Moosa",
+   "year": 2022,
+   "kerala_gross": "₹3.3 Cr"
+  }
+ ]
+}

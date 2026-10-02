@@ -1,0 +1,41 @@
+{
+ "slug": "simon-franglen",
+ "name": "Simon Franglen",
+ "source_url": "https://fridaymatinee.in/people/simon-franglen",
+ "captured_at": "2026-10-02T10:46:03.759376+00:00",
+ "person": {
+  "name": "Simon Franglen",
+  "photo": "https://image.tmdb.org/t/p/w185/7i8uSCQ7novcO0oNvS40UkXknkm.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 199,
+   "movie_slug": "brahmastra-part-one-shiva",
+   "title": "Brahmastra Part One Shiva",
+   "year": 2022,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 246,
+   "movie_slug": "avatar-the-way-of-water",
+   "title": "Avatar The Way of Water",
+   "year": 2022,
+   "kerala_gross": "₹33.3 Cr"
+  },
+  {
+   "movie_id": 793,
+   "movie_slug": "avatar-fire-and-ash",
+   "title": "Avatar: Fire and Ash",
+   "year": 2025,
+   "kerala_gross": "₹10.2 Cr"
+  }
+ ]
+}

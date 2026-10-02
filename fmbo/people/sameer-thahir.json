@@ -1,0 +1,46 @@
+{
+ "slug": "sameer-thahir",
+ "name": "Sameer Thahir",
+ "source_url": "https://fridaymatinee.in/people/sameer-thahir",
+ "captured_at": "2026-10-02T10:04:59.582865+00:00",
+ "person": {
+  "name": "Sameer Thahir",
+  "photo": "https://image.tmdb.org/t/p/w185/m7Cr6VhwS5wYRWxBpGkX4oUwxFw.jpg",
+  "role": "Producer and cinematography"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  },
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 147,
+   "movie_slug": "dear-friend",
+   "title": "Dear Friend",
+   "year": 2022,
+   "kerala_gross": "₹34.2L"
+  },
+  {
+   "movie_id": 602,
+   "movie_slug": "sookshmadarshini",
+   "title": "Sookshmadarshini",
+   "year": 2024,
+   "kerala_gross": "₹22.1 Cr"
+  },
+  {
+   "movie_id": 1258,
+   "movie_slug": "dhoomakethu",
+   "title": "Dhoomakethu",
+   "year": 2026,
+   "kerala_gross": "₹3.7 Cr"
+  }
+ ]
+}

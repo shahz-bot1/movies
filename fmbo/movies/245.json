@@ -1,0 +1,661 @@
+{
+ "id": 245,
+ "slug": "gold",
+ "source_url": "https://fridaymatinee.in/boxoffice/gold-245",
+ "captured_at": "2026-10-01T18:07:48.641677+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 245,
+    "title": "Gold",
+    "img": "https://image.tmdb.org/t/p/original/ukMXAdr325Tn1mLGkxdG8Lab16l.jpg",
+    "released": "2022-12-01",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15340808",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "165 min",
+    "genre": "Comedy, Drama",
+    "plot": "On discovering a mysterious truck filled with illegal gold, a young man consumed with greed hatches an egotistical plan to use the treasure to his own advantage.",
+    "released": "2022-12-01",
+    "director": "Alphonse Puthren",
+    "directorSlug": "alphonse-puthren",
+    "actors": [
+     "Prithviraj Sukumaran",
+     "Nayanthara",
+     "Mallika Sukumaran",
+     "Lalu Alex",
+     "Shammi Thilakan",
+     "Ajmal Ameer"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.7",
+      "votes": 2011,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Prithviraj Sukumaran",
+     "character": "Danger Joshi",
+     "slug": "prithviraj-sukumaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1xhG42QU8tMQRTDdP1Ed3y9GRvm.jpg"
+    },
+    {
+     "name": "Nayanthara",
+     "character": "Sumangali Unnikrishnan",
+     "slug": "nayanthara",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sYUzvjsSsqeOgBblSzda6ZwwbEa.jpg"
+    },
+    {
+     "name": "Mallika Sukumaran",
+     "character": "Joshi's Mother",
+     "slug": "mallika-sukumaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qrpiTOgCrTTdDY7wDkfpVOKfCua.jpg"
+    },
+    {
+     "name": "Lalu Alex",
+     "character": "Idea Shaji",
+     "slug": "lalu-alex",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vK4aDoB3W68Ln730mNY9TuYcaTP.jpg"
+    },
+    {
+     "name": "Shammi Thilakan",
+     "character": "Unnikrishnan",
+     "slug": "shammi-thilakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7lDFgyfGXbQEFFrbnVA24XaYGW.jpg"
+    },
+    {
+     "name": "Ajmal Ameer",
+     "character": "Sunesh Shaji",
+     "slug": "ajmal-ameer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jpyj9HkcIZxy2d614imc83prftc.jpg"
+    },
+    {
+     "name": "Baburaj",
+     "character": "Rakesh Manjappra",
+     "slug": "baburaj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nuJ7GhTfuBrlGBWeMPIYr59O8kP.jpg"
+    },
+    {
+     "name": "Shanthi Krishna",
+     "character": "Subhadra",
+     "slug": "shanthi-krishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/im8Gxoa5CbCas5H2CMwdOHXOAnV.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Alphonse Puthren",
+       "slug": "alphonse-puthren"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Alphonse Puthren",
+       "slug": "alphonse-puthren"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rajesh Murugesan",
+       "slug": "rajesh-murugesan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Anend C Chandran",
+       "slug": "anend-c-chandran"
+      },
+      {
+       "name": "Viswajith Odukkathil",
+       "slug": "viswajith-odukkathil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Alphonse Puthren",
+       "slug": "alphonse-puthren"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Supriya Menon",
+       "slug": "supriya-menon"
+      },
+      {
+       "name": "Listin Stephen",
+       "slug": "listin-stephen"
+      },
+      {
+       "name": "Prithviraj Sukumaran",
+       "slug": "prithviraj-sukumaran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Magic Frames",
+     "slug": "magic-frames",
+     "logo": "https://image.tmdb.org/t/p/w185/ijEKkNlryVxGWEjVPkCAippmURD.png"
+    },
+    {
+     "name": "Prithviraj Productions",
+     "slug": "prithviraj-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/4rWMHwpIpGMMm5p5q4GFVj3U8DV.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 40357390.08,
+    "totalShows": 6417,
+    "totalDays": 16,
+    "openingDay": {
+     "day": 1,
+     "gross": 18548341.99,
+     "date": "2022-12-01"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 18548341.99,
+     "date": "2022-12-01"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 42,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-12-01"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 245,
+    "title": "Gold",
+    "img": "https://image.tmdb.org/t/p/original/ukMXAdr325Tn1mLGkxdG8Lab16l.jpg",
+    "released": "2022-12-01",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15340808",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "165 min",
+    "genre": "Comedy, Drama",
+    "plot": "On discovering a mysterious truck filled with illegal gold, a young man consumed with greed hatches an egotistical plan to use the treasure to his own advantage.",
+    "released": "2022-12-01",
+    "director": "Alphonse Puthren",
+    "directorSlug": "alphonse-puthren",
+    "actors": [
+     "Prithviraj Sukumaran",
+     "Nayanthara",
+     "Mallika Sukumaran",
+     "Lalu Alex",
+     "Shammi Thilakan",
+     "Ajmal Ameer"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.7",
+      "votes": 2011,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Prithviraj Sukumaran",
+     "character": "Danger Joshi",
+     "slug": "prithviraj-sukumaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1xhG42QU8tMQRTDdP1Ed3y9GRvm.jpg"
+    },
+    {
+     "name": "Nayanthara",
+     "character": "Sumangali Unnikrishnan",
+     "slug": "nayanthara",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sYUzvjsSsqeOgBblSzda6ZwwbEa.jpg"
+    },
+    {
+     "name": "Mallika Sukumaran",
+     "character": "Joshi's Mother",
+     "slug": "mallika-sukumaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qrpiTOgCrTTdDY7wDkfpVOKfCua.jpg"
+    },
+    {
+     "name": "Lalu Alex",
+     "character": "Idea Shaji",
+     "slug": "lalu-alex",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vK4aDoB3W68Ln730mNY9TuYcaTP.jpg"
+    },
+    {
+     "name": "Shammi Thilakan",
+     "character": "Unnikrishnan",
+     "slug": "shammi-thilakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7lDFgyfGXbQEFFrbnVA24XaYGW.jpg"
+    },
+    {
+     "name": "Ajmal Ameer",
+     "character": "Sunesh Shaji",
+     "slug": "ajmal-ameer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jpyj9HkcIZxy2d614imc83prftc.jpg"
+    },
+    {
+     "name": "Baburaj",
+     "character": "Rakesh Manjappra",
+     "slug": "baburaj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nuJ7GhTfuBrlGBWeMPIYr59O8kP.jpg"
+    },
+    {
+     "name": "Shanthi Krishna",
+     "character": "Subhadra",
+     "slug": "shanthi-krishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/im8Gxoa5CbCas5H2CMwdOHXOAnV.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Alphonse Puthren",
+       "slug": "alphonse-puthren"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Alphonse Puthren",
+       "slug": "alphonse-puthren"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rajesh Murugesan",
+       "slug": "rajesh-murugesan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Anend C Chandran",
+       "slug": "anend-c-chandran"
+      },
+      {
+       "name": "Viswajith Odukkathil",
+       "slug": "viswajith-odukkathil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Alphonse Puthren",
+       "slug": "alphonse-puthren"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Supriya Menon",
+       "slug": "supriya-menon"
+      },
+      {
+       "name": "Listin Stephen",
+       "slug": "listin-stephen"
+      },
+      {
+       "name": "Prithviraj Sukumaran",
+       "slug": "prithviraj-sukumaran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Magic Frames",
+     "slug": "magic-frames",
+     "logo": "https://image.tmdb.org/t/p/w185/ijEKkNlryVxGWEjVPkCAippmURD.png"
+    },
+    {
+     "name": "Prithviraj Productions",
+     "slug": "prithviraj-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/4rWMHwpIpGMMm5p5q4GFVj3U8DV.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2022-12-01",
+     "gross": 37390563.31999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5042,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-12-08",
+     "gross": 2792014.7600000002,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1274,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-12-15",
+     "gross": 174812,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 101,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 40357390.07999999,
+    "totalShows": 6417,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 37390563.31999999
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 37390563.31999999
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 42,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-12-01"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 245,
+    "title": "Gold",
+    "img": "https://image.tmdb.org/t/p/original/ukMXAdr325Tn1mLGkxdG8Lab16l.jpg",
+    "released": "2022-12-01",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15340808",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "165 min",
+    "genre": "Comedy, Drama",
+    "plot": "On discovering a mysterious truck filled with illegal gold, a young man consumed with greed hatches an egotistical plan to use the treasure to his own advantage.",
+    "released": "2022-12-01",
+    "director": "Alphonse Puthren",
+    "directorSlug": "alphonse-puthren",
+    "actors": [
+     "Prithviraj Sukumaran",
+     "Nayanthara",
+     "Mallika Sukumaran",
+     "Lalu Alex",
+     "Shammi Thilakan",
+     "Ajmal Ameer"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.7",
+      "votes": 2011,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Prithviraj Sukumaran",
+     "character": "Danger Joshi",
+     "slug": "prithviraj-sukumaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1xhG42QU8tMQRTDdP1Ed3y9GRvm.jpg"
+    },
+    {
+     "name": "Nayanthara",
+     "character": "Sumangali Unnikrishnan",
+     "slug": "nayanthara",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sYUzvjsSsqeOgBblSzda6ZwwbEa.jpg"
+    },
+    {
+     "name": "Mallika Sukumaran",
+     "character": "Joshi's Mother",
+     "slug": "mallika-sukumaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qrpiTOgCrTTdDY7wDkfpVOKfCua.jpg"
+    },
+    {
+     "name": "Lalu Alex",
+     "character": "Idea Shaji",
+     "slug": "lalu-alex",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vK4aDoB3W68Ln730mNY9TuYcaTP.jpg"
+    },
+    {
+     "name": "Shammi Thilakan",
+     "character": "Unnikrishnan",
+     "slug": "shammi-thilakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7lDFgyfGXbQEFFrbnVA24XaYGW.jpg"
+    },
+    {
+     "name": "Ajmal Ameer",
+     "character": "Sunesh Shaji",
+     "slug": "ajmal-ameer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jpyj9HkcIZxy2d614imc83prftc.jpg"
+    },
+    {
+     "name": "Baburaj",
+     "character": "Rakesh Manjappra",
+     "slug": "baburaj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nuJ7GhTfuBrlGBWeMPIYr59O8kP.jpg"
+    },
+    {
+     "name": "Shanthi Krishna",
+     "character": "Subhadra",
+     "slug": "shanthi-krishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/im8Gxoa5CbCas5H2CMwdOHXOAnV.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Alphonse Puthren",
+       "slug": "alphonse-puthren"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Alphonse Puthren",
+       "slug": "alphonse-puthren"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rajesh Murugesan",
+       "slug": "rajesh-murugesan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Anend C Chandran",
+       "slug": "anend-c-chandran"
+      },
+      {
+       "name": "Viswajith Odukkathil",
+       "slug": "viswajith-odukkathil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Alphonse Puthren",
+       "slug": "alphonse-puthren"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Supriya Menon",
+       "slug": "supriya-menon"
+      },
+      {
+       "name": "Listin Stephen",
+       "slug": "listin-stephen"
+      },
+      {
+       "name": "Prithviraj Sukumaran",
+       "slug": "prithviraj-sukumaran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Magic Frames",
+     "slug": "magic-frames",
+     "logo": "https://image.tmdb.org/t/p/w185/ijEKkNlryVxGWEjVPkCAippmURD.png"
+    },
+    {
+     "name": "Prithviraj Productions",
+     "slug": "prithviraj-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/4rWMHwpIpGMMm5p5q4GFVj3U8DV.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 40357390.08,
+    "totalShows": 6417,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 11218336,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 11218336,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 42,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-12-01"
+   }
+  }
+ }
+}

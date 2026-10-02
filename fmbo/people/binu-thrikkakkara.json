@@ -1,0 +1,60 @@
+{
+ "slug": "binu-thrikkakkara",
+ "name": "Binu Thrikkakkara",
+ "source_url": "https://fridaymatinee.in/people/binu-thrikkakkara",
+ "captured_at": "2026-10-01T21:19:54.413837+00:00",
+ "person": {
+  "name": "Binu Thrikkakkara",
+  "photo": "https://image.tmdb.org/t/p/w185/4n428NWZQv3vW5nZGZ6U9msclxo.jpg",
+  "role": "Actor and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 1001,
+   "movie_slug": "sukran",
+   "title": "Sukran",
+   "year": 2026,
+   "kerala_gross": "₹23.3L"
+  },
+  {
+   "movie_id": 1004,
+   "movie_slug": "koodothram",
+   "title": "Koodothram",
+   "year": 2026,
+   "kerala_gross": "₹31.1L"
+  },
+  {
+   "movie_id": 1041,
+   "movie_slug": "bhishmar",
+   "title": "Bhishmar",
+   "year": 2026,
+   "kerala_gross": "₹35.8L"
+  },
+  {
+   "movie_id": 1096,
+   "movie_slug": "revolver-rinko",
+   "title": "Revolver Rinko",
+   "year": 2026,
+   "kerala_gross": "₹25.9L"
+  },
+  {
+   "movie_id": 1257,
+   "movie_slug": "ottam-thullal",
+   "title": "Ottam Thullal",
+   "year": 2026,
+   "kerala_gross": "₹17.5L"
+  }
+ ]
+}

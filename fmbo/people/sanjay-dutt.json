@@ -1,0 +1,95 @@
+{
+ "slug": "sanjay-dutt",
+ "name": "Sanjay Dutt",
+ "source_url": "https://fridaymatinee.in/people/sanjay-dutt",
+ "captured_at": "2026-10-02T10:09:42.103374+00:00",
+ "person": {
+  "name": "Sanjay Dutt",
+  "photo": "https://image.tmdb.org/t/p/w185/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 10
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 124,
+   "movie_slug": "kgf-chapter-2",
+   "title": "KGF Chapter 2",
+   "year": 2022,
+   "kerala_gross": "₹52.5 Cr"
+  },
+  {
+   "movie_id": 417,
+   "movie_slug": "jawan",
+   "title": "Jawan",
+   "year": 2023,
+   "kerala_gross": "₹9.9 Cr"
+  },
+  {
+   "movie_id": 430,
+   "movie_slug": "leo",
+   "title": "Leo",
+   "year": 2023,
+   "kerala_gross": "₹47.4 Cr"
+  },
+  {
+   "movie_id": 813,
+   "movie_slug": "baaghi-4",
+   "title": "Baaghi 4",
+   "year": 2025,
+   "kerala_gross": "₹35.3L"
+  },
+  {
+   "movie_id": 930,
+   "movie_slug": "dhurandhar",
+   "title": "Dhurandhar",
+   "year": 2025,
+   "kerala_gross": "₹7.0 Cr"
+  },
+  {
+   "movie_id": 957,
+   "movie_slug": "the-rajasaab",
+   "title": "The Rajasaab",
+   "year": 2026,
+   "kerala_gross": "₹61K"
+  },
+  {
+   "movie_id": 1031,
+   "movie_slug": "dhurandhar-the-revenge",
+   "title": "Dhurandhar The Revenge",
+   "year": 2026,
+   "kerala_gross": "₹16.9 Cr"
+  },
+  {
+   "movie_id": 1099,
+   "movie_slug": "raja-shivaji",
+   "title": "Raja Shivaji",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 1111,
+   "movie_slug": "aakhri-sawal",
+   "title": "Aakhri Sawal",
+   "year": 2026,
+   "kerala_gross": "₹1.2L"
+  },
+  {
+   "movie_id": 1243,
+   "movie_slug": "7-dogs",
+   "title": "7 Dogs",
+   "year": 2026,
+   "kerala_gross": "₹11K"
+  }
+ ]
+}

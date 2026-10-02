@@ -1,0 +1,48 @@
+{
+ "slug": "rajiv-menon",
+ "name": "Rajiv Menon",
+ "source_url": "https://fridaymatinee.in/people/rajiv-menon",
+ "captured_at": "2026-10-02T08:34:27.549020+00:00",
+ "person": {
+  "name": "Rajiv Menon",
+  "photo": "https://image.tmdb.org/t/p/w185/gMOTcaKxG7wnzRlx77Nwuw5QUMI.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 316,
+   "movie_slug": "viduthalai-part-1",
+   "title": "Viduthalai Part 1",
+   "year": 2023,
+   "kerala_gross": "₹86.9L"
+  },
+  {
+   "movie_id": 618,
+   "movie_slug": "viduthalai-part-2",
+   "title": "Viduthalai Part - 2",
+   "year": 2024,
+   "kerala_gross": "₹66.7L"
+  },
+  {
+   "movie_id": 1081,
+   "movie_slug": "patriot",
+   "title": "Patriot",
+   "year": 2026,
+   "kerala_gross": "₹24.9 Cr"
+  },
+  {
+   "movie_id": 1225,
+   "movie_slug": "vishwanath-and-sons",
+   "title": "Vishwanath and Sons",
+   "year": 2026,
+   "kerala_gross": "₹7.2 Cr"
+  }
+ ]
+}

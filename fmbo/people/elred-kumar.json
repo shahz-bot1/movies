@@ -1,0 +1,46 @@
+{
+ "slug": "elred-kumar",
+ "name": "Elred Kumar",
+ "source_url": "https://fridaymatinee.in/people/elred-kumar",
+ "captured_at": "2026-10-01T22:11:56.940104+00:00",
+ "person": {
+  "name": "Elred Kumar",
+  "photo": null,
+  "role": "Producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 316,
+   "movie_slug": "viduthalai-part-1",
+   "title": "Viduthalai Part 1",
+   "year": 2023,
+   "kerala_gross": "₹86.9L"
+  },
+  {
+   "movie_id": 618,
+   "movie_slug": "viduthalai-part-2",
+   "title": "Viduthalai Part - 2",
+   "year": 2024,
+   "kerala_gross": "₹66.7L"
+  },
+  {
+   "movie_id": 1274,
+   "movie_slug": "mandaadi",
+   "title": "Mandaadi",
+   "year": 2026,
+   "kerala_gross": "₹2.0 Cr"
+  }
+ ]
+}

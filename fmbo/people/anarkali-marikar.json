@@ -1,0 +1,48 @@
+{
+ "slug": "anarkali-marikar",
+ "name": "Anarkali Marikar",
+ "source_url": "https://fridaymatinee.in/people/anarkali-marikar",
+ "captured_at": "2026-10-01T20:35:02.598591+00:00",
+ "person": {
+  "name": "Anarkali Marikar",
+  "photo": "https://image.tmdb.org/t/p/w185/5Nl0lsYbinDb8pE3GFB2PrNcmYj.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 154,
+   "movie_slug": "priyan-ottathilaanu",
+   "title": "Priyan Ottathilaanu",
+   "year": 2022,
+   "kerala_gross": "₹1.0 Cr"
+  },
+  {
+   "movie_id": 357,
+   "movie_slug": "sulaikha-manzil",
+   "title": "Sulaikha Manzil",
+   "year": 2023,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 521,
+   "movie_slug": "mandakini",
+   "title": "Mandakini",
+   "year": 2024,
+   "kerala_gross": "₹3.2 Cr"
+  },
+  {
+   "movie_id": 880,
+   "movie_slug": "innocent",
+   "title": "Innocent",
+   "year": 2025,
+   "kerala_gross": "₹1.0 Cr"
+  }
+ ]
+}

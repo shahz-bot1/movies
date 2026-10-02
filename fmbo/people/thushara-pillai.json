@@ -1,0 +1,55 @@
+{
+ "slug": "thushara-pillai",
+ "name": "Thushara Pillai",
+ "source_url": "https://fridaymatinee.in/people/thushara-pillai",
+ "captured_at": "2026-10-02T11:21:34.168540+00:00",
+ "person": {
+  "name": "Thushara Pillai",
+  "photo": "https://image.tmdb.org/t/p/w185/fy6MqcFVDY5dOBoCccGTZlnk4AB.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 250,
+   "movie_slug": "the-teacher",
+   "title": "The Teacher",
+   "year": 2022,
+   "kerala_gross": "₹19.4L"
+  },
+  {
+   "movie_id": 269,
+   "movie_slug": "malikappuram",
+   "title": "Malikappuram",
+   "year": 2022,
+   "kerala_gross": "₹28.1 Cr"
+  },
+  {
+   "movie_id": 699,
+   "movie_slug": "moonwalk",
+   "title": "Moonwalk",
+   "year": 2025,
+   "kerala_gross": "₹65.6L"
+  },
+  {
+   "movie_id": 1001,
+   "movie_slug": "sukran",
+   "title": "Sukran",
+   "year": 2026,
+   "kerala_gross": "₹23.3L"
+  },
+  {
+   "movie_id": 1213,
+   "movie_slug": "pluto",
+   "title": "Pluto",
+   "year": 2026,
+   "kerala_gross": "₹1.2 Cr"
+  }
+ ]
+}

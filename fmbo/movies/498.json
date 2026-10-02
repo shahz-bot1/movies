@@ -1,0 +1,714 @@
+{
+ "id": 498,
+ "slug": "dune-part-two",
+ "source_url": "https://fridaymatinee.in/boxoffice/dune-part-two-498",
+ "captured_at": "2026-10-01T18:13:37.073593+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 498,
+    "title": "Dune: Part Two",
+    "img": "https://image.tmdb.org/t/p/original/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+    "released": "2024-02-29",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15239678",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "167 min",
+    "genre": "Science Fiction, Adventure",
+    "plot": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+    "released": "2024-02-27",
+    "director": "Denis Villeneuve",
+    "directorSlug": "denis-villeneuve",
+    "actors": [
+     "Timothée Chalamet",
+     "Zendaya",
+     "Rebecca Ferguson",
+     "Javier Bardem",
+     "Josh Brolin",
+     "Austin Butler"
+    ],
+    "awards": "Won 2 Oscars. 122 wins u0026 374 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.4",
+      "votes": 795725,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.1",
+      "votes": 8603,
+      "updatedAt": "2026-09-24T19:11:03.000Z"
+     },
+     "rt": "92%",
+     "metascore": 79,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Timothée Chalamet",
+     "character": "Paul Atreides",
+     "slug": "timoth-e-chalamet",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/axENiFIrSz5B7UuWkMT7PDe7CaO.jpg"
+    },
+    {
+     "name": "Zendaya",
+     "character": "Chani",
+     "slug": "zendaya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+    },
+    {
+     "name": "Rebecca Ferguson",
+     "character": "Jessica",
+     "slug": "rebecca-ferguson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lJloTOheuQSirSLXNA3JHsrMNfH.jpg"
+    },
+    {
+     "name": "Javier Bardem",
+     "character": "Stilgar",
+     "slug": "javier-bardem",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p5xjCovj1uzvA2SXrWLH78Nh1Jf.jpg"
+    },
+    {
+     "name": "Josh Brolin",
+     "character": "Gurney Halleck",
+     "slug": "josh-brolin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+     "name": "Austin Butler",
+     "character": "Feyd-Rautha",
+     "slug": "austin-butler",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/atdAs4pFGjUQ4m2W8kJYly7N6cC.jpg"
+    },
+    {
+     "name": "Florence Pugh",
+     "character": "Princess Irulan",
+     "slug": "florence-pugh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
+    },
+    {
+     "name": "Dave Bautista",
+     "character": "Beast Rabban",
+     "slug": "dave-bautista",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Denis Villeneuve",
+       "slug": "denis-villeneuve"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Denis Villeneuve",
+       "slug": "denis-villeneuve"
+      },
+      {
+       "name": "Jon Spaihts",
+       "slug": "jon-spaihts"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hans Zimmer",
+       "slug": "hans-zimmer"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Greig Fraser",
+       "slug": "greig-fraser"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Joe Walker",
+       "slug": "joe-walker"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Cale Boyter",
+       "slug": "cale-boyter"
+      },
+      {
+       "name": "Mary Parent",
+       "slug": "mary-parent"
+      },
+      {
+       "name": "Tanya Lapointe",
+       "slug": "tanya-lapointe"
+      },
+      {
+       "name": "Patrick McCormick",
+       "slug": "patrick-mccormick"
+      },
+      {
+       "name": "Denis Villeneuve",
+       "slug": "denis-villeneuve"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Legendary Pictures",
+     "slug": "legendary-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-02-06",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 14160915,
+    "totalShows": 1054,
+    "totalDays": 35,
+    "openingDay": {
+     "day": 1,
+     "gross": 224020,
+     "date": "2024-02-29"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 1431110,
+     "date": "2024-03-03"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-02-28"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 498,
+    "title": "Dune: Part Two",
+    "img": "https://image.tmdb.org/t/p/original/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+    "released": "2024-02-29",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15239678",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "167 min",
+    "genre": "Science Fiction, Adventure",
+    "plot": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+    "released": "2024-02-27",
+    "director": "Denis Villeneuve",
+    "directorSlug": "denis-villeneuve",
+    "actors": [
+     "Timothée Chalamet",
+     "Zendaya",
+     "Rebecca Ferguson",
+     "Javier Bardem",
+     "Josh Brolin",
+     "Austin Butler"
+    ],
+    "awards": "Won 2 Oscars. 122 wins u0026 374 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.4",
+      "votes": 795725,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.1",
+      "votes": 8603,
+      "updatedAt": "2026-09-24T19:11:03.000Z"
+     },
+     "rt": "92%",
+     "metascore": 79,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Timothée Chalamet",
+     "character": "Paul Atreides",
+     "slug": "timoth-e-chalamet",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/axENiFIrSz5B7UuWkMT7PDe7CaO.jpg"
+    },
+    {
+     "name": "Zendaya",
+     "character": "Chani",
+     "slug": "zendaya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+    },
+    {
+     "name": "Rebecca Ferguson",
+     "character": "Jessica",
+     "slug": "rebecca-ferguson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lJloTOheuQSirSLXNA3JHsrMNfH.jpg"
+    },
+    {
+     "name": "Javier Bardem",
+     "character": "Stilgar",
+     "slug": "javier-bardem",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p5xjCovj1uzvA2SXrWLH78Nh1Jf.jpg"
+    },
+    {
+     "name": "Josh Brolin",
+     "character": "Gurney Halleck",
+     "slug": "josh-brolin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+     "name": "Austin Butler",
+     "character": "Feyd-Rautha",
+     "slug": "austin-butler",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/atdAs4pFGjUQ4m2W8kJYly7N6cC.jpg"
+    },
+    {
+     "name": "Florence Pugh",
+     "character": "Princess Irulan",
+     "slug": "florence-pugh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
+    },
+    {
+     "name": "Dave Bautista",
+     "character": "Beast Rabban",
+     "slug": "dave-bautista",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Denis Villeneuve",
+       "slug": "denis-villeneuve"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Denis Villeneuve",
+       "slug": "denis-villeneuve"
+      },
+      {
+       "name": "Jon Spaihts",
+       "slug": "jon-spaihts"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hans Zimmer",
+       "slug": "hans-zimmer"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Greig Fraser",
+       "slug": "greig-fraser"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Joe Walker",
+       "slug": "joe-walker"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Cale Boyter",
+       "slug": "cale-boyter"
+      },
+      {
+       "name": "Mary Parent",
+       "slug": "mary-parent"
+      },
+      {
+       "name": "Tanya Lapointe",
+       "slug": "tanya-lapointe"
+      },
+      {
+       "name": "Patrick McCormick",
+       "slug": "patrick-mccormick"
+      },
+      {
+       "name": "Denis Villeneuve",
+       "slug": "denis-villeneuve"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Legendary Pictures",
+     "slug": "legendary-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-02-06",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-02-29",
+     "gross": 5822025,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 399,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-03-07",
+     "gross": 3890642,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 223,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-03-14",
+     "gross": 2395467,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 202,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-03-21",
+     "gross": 1599438,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 176,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-03-28",
+     "gross": 453343,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 54,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 14160915,
+    "totalShows": 1054,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 5822025
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5822025
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-02-28"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 498,
+    "title": "Dune: Part Two",
+    "img": "https://image.tmdb.org/t/p/original/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+    "released": "2024-02-29",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15239678",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "167 min",
+    "genre": "Science Fiction, Adventure",
+    "plot": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+    "released": "2024-02-27",
+    "director": "Denis Villeneuve",
+    "directorSlug": "denis-villeneuve",
+    "actors": [
+     "Timothée Chalamet",
+     "Zendaya",
+     "Rebecca Ferguson",
+     "Javier Bardem",
+     "Josh Brolin",
+     "Austin Butler"
+    ],
+    "awards": "Won 2 Oscars. 122 wins u0026 374 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.4",
+      "votes": 795725,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.1",
+      "votes": 8603,
+      "updatedAt": "2026-09-24T19:11:03.000Z"
+     },
+     "rt": "92%",
+     "metascore": 79,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Timothée Chalamet",
+     "character": "Paul Atreides",
+     "slug": "timoth-e-chalamet",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/axENiFIrSz5B7UuWkMT7PDe7CaO.jpg"
+    },
+    {
+     "name": "Zendaya",
+     "character": "Chani",
+     "slug": "zendaya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+    },
+    {
+     "name": "Rebecca Ferguson",
+     "character": "Jessica",
+     "slug": "rebecca-ferguson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lJloTOheuQSirSLXNA3JHsrMNfH.jpg"
+    },
+    {
+     "name": "Javier Bardem",
+     "character": "Stilgar",
+     "slug": "javier-bardem",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p5xjCovj1uzvA2SXrWLH78Nh1Jf.jpg"
+    },
+    {
+     "name": "Josh Brolin",
+     "character": "Gurney Halleck",
+     "slug": "josh-brolin",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+     "name": "Austin Butler",
+     "character": "Feyd-Rautha",
+     "slug": "austin-butler",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/atdAs4pFGjUQ4m2W8kJYly7N6cC.jpg"
+    },
+    {
+     "name": "Florence Pugh",
+     "character": "Princess Irulan",
+     "slug": "florence-pugh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
+    },
+    {
+     "name": "Dave Bautista",
+     "character": "Beast Rabban",
+     "slug": "dave-bautista",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Denis Villeneuve",
+       "slug": "denis-villeneuve"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Denis Villeneuve",
+       "slug": "denis-villeneuve"
+      },
+      {
+       "name": "Jon Spaihts",
+       "slug": "jon-spaihts"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hans Zimmer",
+       "slug": "hans-zimmer"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Greig Fraser",
+       "slug": "greig-fraser"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Joe Walker",
+       "slug": "joe-walker"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Cale Boyter",
+       "slug": "cale-boyter"
+      },
+      {
+       "name": "Mary Parent",
+       "slug": "mary-parent"
+      },
+      {
+       "name": "Tanya Lapointe",
+       "slug": "tanya-lapointe"
+      },
+      {
+       "name": "Patrick McCormick",
+       "slug": "patrick-mccormick"
+      },
+      {
+       "name": "Denis Villeneuve",
+       "slug": "denis-villeneuve"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Legendary Pictures",
+     "slug": "legendary-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-02-06",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 14160915,
+    "totalShows": 1054,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 5048639,
+     "date": "Thiruvananthapuram"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5048639,
+     "date": "Thiruvananthapuram"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-02-28"
+   }
+  }
+ }
+}

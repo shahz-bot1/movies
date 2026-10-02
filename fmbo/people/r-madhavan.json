@@ -1,0 +1,58 @@
+{
+ "slug": "r-madhavan",
+ "name": "R. Madhavan",
+ "source_url": "https://fridaymatinee.in/people/r-madhavan",
+ "captured_at": "2026-10-02T06:34:52.873822+00:00",
+ "person": {
+  "name": "R. Madhavan",
+  "photo": "https://image.tmdb.org/t/p/w185/gaDrAdXxIrbBRCd9cX8YvJDEuLb.jpg",
+  "role": "Actor, producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 915,
+   "movie_slug": "de-de-pyaar-de-2",
+   "title": "De De Pyaar De 2",
+   "year": 2025,
+   "kerala_gross": "₹11.5L"
+  },
+  {
+   "movie_id": 930,
+   "movie_slug": "dhurandhar",
+   "title": "Dhurandhar",
+   "year": 2025,
+   "kerala_gross": "₹7.0 Cr"
+  },
+  {
+   "movie_id": 1031,
+   "movie_slug": "dhurandhar-the-revenge",
+   "title": "Dhurandhar The Revenge",
+   "year": 2026,
+   "kerala_gross": "₹16.9 Cr"
+  },
+  {
+   "movie_id": 1222,
+   "movie_slug": "g-d-n",
+   "title": "G.D.N",
+   "year": 2026,
+   "kerala_gross": "₹18.2L"
+  }
+ ]
+}

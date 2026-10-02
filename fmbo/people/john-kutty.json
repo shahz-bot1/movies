@@ -1,0 +1,97 @@
+{
+ "slug": "john-kutty",
+ "name": "John Kutty",
+ "source_url": "https://fridaymatinee.in/people/john-kutty",
+ "captured_at": "2026-10-01T23:21:34.884229+00:00",
+ "person": {
+  "name": "John Kutty",
+  "photo": "https://image.tmdb.org/t/p/w185/4eJpQPXHJzRB3llDAhy5qpWfYgO.jpg",
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 11
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 33,
+   "movie_slug": "jack-daniel",
+   "title": "Jack Daniel ",
+   "year": 2019,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 68,
+   "movie_slug": "yuvam",
+   "title": "Yuvam",
+   "year": 2021,
+   "kerala_gross": "₹10.9L"
+  },
+  {
+   "movie_id": 155,
+   "movie_slug": "ullasam",
+   "title": "Ullasam",
+   "year": 2022,
+   "kerala_gross": "₹44.2L"
+  },
+  {
+   "movie_id": 232,
+   "movie_slug": "jaya-jaya-jaya-jaya-hey",
+   "title": "Jaya Jaya Jaya Jaya Hey",
+   "year": 2022,
+   "kerala_gross": "₹21.4 Cr"
+  },
+  {
+   "movie_id": 289,
+   "movie_slug": "vedikkettu",
+   "title": "Vedikkettu",
+   "year": 2023,
+   "kerala_gross": "₹65.5L"
+  },
+  {
+   "movie_id": 518,
+   "movie_slug": "guruvayoorambala-nadayil",
+   "title": "Guruvayoorambala Nadayil",
+   "year": 2024,
+   "kerala_gross": "₹39.9 Cr"
+  },
+  {
+   "movie_id": 252,
+   "movie_slug": "oru-anweshanathinte-thudakkam",
+   "title": "Oru Anweshanathinte Thudakkam",
+   "year": 2024,
+   "kerala_gross": "₹30.8L"
+  },
+  {
+   "movie_id": 704,
+   "movie_slug": "vysanasametham-bandhumithradhikal",
+   "title": "Vysanasametham Bandhumithradhikal",
+   "year": 2025,
+   "kerala_gross": "₹5.1 Cr"
+  },
+  {
+   "movie_id": 980,
+   "movie_slug": "magic-mushrooms",
+   "title": "Magic Mushrooms",
+   "year": 2026,
+   "kerala_gross": "₹68.6L"
+  },
+  {
+   "movie_id": 1041,
+   "movie_slug": "bhishmar",
+   "title": "Bhishmar",
+   "year": 2026,
+   "kerala_gross": "₹35.8L"
+  },
+  {
+   "movie_id": 1257,
+   "movie_slug": "ottam-thullal",
+   "title": "Ottam Thullal",
+   "year": 2026,
+   "kerala_gross": "₹17.5L"
+  }
+ ]
+}

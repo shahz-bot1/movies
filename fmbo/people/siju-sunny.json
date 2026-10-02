@@ -1,0 +1,67 @@
+{
+ "slug": "siju-sunny",
+ "name": "Siju Sunny",
+ "source_url": "https://fridaymatinee.in/people/siju-sunny",
+ "captured_at": "2026-10-02T10:45:19.742773+00:00",
+ "person": {
+  "name": "Siju Sunny",
+  "photo": "https://image.tmdb.org/t/p/w185/85mAvBMgIVo0C8kkeuEgsbLfifZ.jpg",
+  "role": "Actor and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 290,
+   "movie_slug": "romancham",
+   "title": "Romancham",
+   "year": 2023,
+   "kerala_gross": "₹30.7 Cr"
+  },
+  {
+   "movie_id": 518,
+   "movie_slug": "guruvayoorambala-nadayil",
+   "title": "Guruvayoorambala Nadayil",
+   "year": 2024,
+   "kerala_gross": "₹39.9 Cr"
+  },
+  {
+   "movie_id": 549,
+   "movie_slug": "vaazha",
+   "title": "Vaazha",
+   "year": 2024,
+   "kerala_gross": "₹24.4 Cr"
+  },
+  {
+   "movie_id": 606,
+   "movie_slug": "parakramam",
+   "title": "Parakramam",
+   "year": 2024,
+   "kerala_gross": "₹22.4L"
+  },
+  {
+   "movie_id": 674,
+   "movie_slug": "maranamass",
+   "title": "Maranamass",
+   "year": 2025,
+   "kerala_gross": "₹11.4 Cr"
+  },
+  {
+   "movie_id": 704,
+   "movie_slug": "vysanasametham-bandhumithradhikal",
+   "title": "Vysanasametham Bandhumithradhikal",
+   "year": 2025,
+   "kerala_gross": "₹5.1 Cr"
+  }
+ ]
+}

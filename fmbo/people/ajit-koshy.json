@@ -1,0 +1,55 @@
+{
+ "slug": "ajit-koshy",
+ "name": "Ajit Koshy",
+ "source_url": "https://fridaymatinee.in/people/ajit-koshy",
+ "captured_at": "2026-10-01T20:17:54.745384+00:00",
+ "person": {
+  "name": "Ajit Koshy",
+  "photo": "https://image.tmdb.org/t/p/w185/qR765VN5mOHfosx23NBMTxWuw6h.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 42,
+   "movie_slug": "enai-noki-paayum-thota",
+   "title": "Enai Noki Paayum Thota",
+   "year": 2019,
+   "kerala_gross": "₹11.3L"
+  },
+  {
+   "movie_id": 585,
+   "movie_slug": "marco",
+   "title": "Marco",
+   "year": 2024,
+   "kerala_gross": "₹34.7 Cr"
+  },
+  {
+   "movie_id": 679,
+   "movie_slug": "tourist-family",
+   "title": "Tourist Family",
+   "year": 2025,
+   "kerala_gross": "₹1.3 Cr"
+  },
+  {
+   "movie_id": 1170,
+   "movie_slug": "heartin",
+   "title": "Heartin",
+   "year": 2026,
+   "kerala_gross": "₹1.4L"
+  },
+  {
+   "movie_id": 1314,
+   "movie_slug": "aaram",
+   "title": "Aaram",
+   "year": 2026,
+   "kerala_gross": "₹1.0 Cr"
+  }
+ ]
+}

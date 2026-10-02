@@ -1,0 +1,81 @@
+{
+ "slug": "shyju-khalid",
+ "name": "Shyju Khalid",
+ "source_url": "https://fridaymatinee.in/people/shyju-khalid",
+ "captured_at": "2026-10-02T10:38:20.400572+00:00",
+ "person": {
+  "name": "Shyju Khalid",
+  "photo": "https://image.tmdb.org/t/p/w185/pp5QwB4fx0zONvNT6WlTm2pb7tq.jpg",
+  "role": "Cinematography and producer"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 6
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 51,
+   "movie_slug": "anjaam-pathiraa",
+   "title": "Anjaam Pathiraa",
+   "year": 2020,
+   "kerala_gross": "₹11.0 Cr"
+  },
+  {
+   "movie_id": 81,
+   "movie_slug": "nayattu",
+   "title": "Nayattu",
+   "year": 2021,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 147,
+   "movie_slug": "dear-friend",
+   "title": "Dear Friend",
+   "year": 2022,
+   "kerala_gross": "₹34.2L"
+  },
+  {
+   "movie_id": 501,
+   "movie_slug": "manjummel-boys",
+   "title": "Manjummel Boys",
+   "year": 2024,
+   "kerala_gross": "₹55.0 Cr"
+  },
+  {
+   "movie_id": 627,
+   "movie_slug": "pravinkoodu-shappu",
+   "title": "Pravinkoodu Shappu",
+   "year": 2025,
+   "kerala_gross": "₹4.3 Cr"
+  },
+  {
+   "movie_id": 1079,
+   "movie_slug": "balan",
+   "title": "Balan",
+   "year": 2026,
+   "kerala_gross": "₹15.9 Cr"
+  },
+  {
+   "movie_id": 602,
+   "movie_slug": "sookshmadarshini",
+   "title": "Sookshmadarshini",
+   "year": 2024,
+   "kerala_gross": "₹22.1 Cr"
+  },
+  {
+   "movie_id": 1258,
+   "movie_slug": "dhoomakethu",
+   "title": "Dhoomakethu",
+   "year": 2026,
+   "kerala_gross": "₹3.7 Cr"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "slug": "anand-ekarshi",
+ "name": "Anand Ekarshi",
+ "source_url": "https://fridaymatinee.in/people/anand-ekarshi",
+ "captured_at": "2026-10-01T20:33:26.838477+00:00",
+ "person": {
+  "name": "Anand Ekarshi",
+  "photo": "https://image.tmdb.org/t/p/w185/kPc7G9Qd7NM3caoH8CeZY6laeAc.jpg",
+  "role": "Actor, director and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 746,
+   "movie_slug": "flask",
+   "title": "Flask",
+   "year": 2025,
+   "kerala_gross": "₹23.2L"
+  },
+  {
+   "movie_id": 884,
+   "movie_slug": "sarvam-maya",
+   "title": "Sarvam Maya",
+   "year": 2025,
+   "kerala_gross": "₹70.3 Cr"
+  },
+  {
+   "movie_id": 1079,
+   "movie_slug": "balan",
+   "title": "Balan",
+   "year": 2026,
+   "kerala_gross": "₹15.9 Cr"
+  }
+ ]
+}

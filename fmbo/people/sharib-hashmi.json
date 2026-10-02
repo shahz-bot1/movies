@@ -1,0 +1,48 @@
+{
+ "slug": "sharib-hashmi",
+ "name": "Sharib Hashmi",
+ "source_url": "https://fridaymatinee.in/people/sharib-hashmi",
+ "captured_at": "2026-10-02T10:28:15.076462+00:00",
+ "person": {
+  "name": "Sharib Hashmi",
+  "photo": "https://image.tmdb.org/t/p/w185/S3J1QbSDE7wqvlQjVKVF5jLHT.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 216,
+   "movie_slug": "vikram-vedha",
+   "title": "Vikram Vedha",
+   "year": 2022,
+   "kerala_gross": "₹25.8L"
+  },
+  {
+   "movie_id": 729,
+   "movie_slug": "the-diplomat",
+   "title": "The Diplomat",
+   "year": 2025,
+   "kerala_gross": "₹12.7L"
+  },
+  {
+   "movie_id": 977,
+   "movie_slug": "happy-patel-khatarnak-jasoos",
+   "title": "Happy Patel Khatarnak Jasoos",
+   "year": 2026,
+   "kerala_gross": "₹3.5L"
+  },
+  {
+   "movie_id": 1278,
+   "movie_slug": "haiwaan",
+   "title": "Haiwaan",
+   "year": 2026,
+   "kerala_gross": "₹4.2L"
+  }
+ ]
+}

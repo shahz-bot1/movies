@@ -1,0 +1,755 @@
+{
+ "id": 112,
+ "slug": "batman",
+ "source_url": "https://fridaymatinee.in/boxoffice/batman-112",
+ "captured_at": "2026-10-01T18:01:25.810990+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 112,
+    "title": "Batman",
+    "img": "https://image.tmdb.org/t/p/original/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+    "released": "2022-03-04",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt1877830",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "177 min",
+    "genre": "Crime, Mystery, Thriller",
+    "plot": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+    "released": "2022-03-01",
+    "director": "Matt Reeves",
+    "directorSlug": "matt-reeves",
+    "actors": [
+     "Robert Pattinson",
+     "Zoë Kravitz",
+     "Jeffrey Wright",
+     "Colin Farrell",
+     "Paul Dano",
+     "John Turturro"
+    ],
+    "awards": "Nominated for 3 Oscars. 40 wins u0026 176 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.8",
+      "votes": 951014,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.7",
+      "votes": 12553,
+      "updatedAt": "2026-09-25T01:10:31.000Z"
+     },
+     "rt": "85%",
+     "metascore": 72,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Robert Pattinson",
+     "character": "Bruce Wayne / The Batman",
+     "slug": "robert-pattinson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+    },
+    {
+     "name": "Zoë Kravitz",
+     "character": "Selina Kyle",
+     "slug": "zoe-kravitz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n0mhAgmY6eJQmA7kaugsTZEJgHo.jpg"
+    },
+    {
+     "name": "Jeffrey Wright",
+     "character": "Lt. James Gordon",
+     "slug": "jeffrey-wright",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/quunS3w4QtALMDnvA0y81Y2pO9N.jpg"
+    },
+    {
+     "name": "Colin Farrell",
+     "character": "Oz / The Penguin",
+     "slug": "colin-farrell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5FdalJbrbZ5UCsED5rFrXpvbqJa.jpg"
+    },
+    {
+     "name": "Paul Dano",
+     "character": "The Riddler",
+     "slug": "paul-dano",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gOD5bO0hKnzzJm7sJeGeEJjfBBw.jpg"
+    },
+    {
+     "name": "John Turturro",
+     "character": "Carmine Falcone",
+     "slug": "john-turturro",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+    },
+    {
+     "name": "Andy Serkis",
+     "character": "Alfred",
+     "slug": "andy-serkis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+    },
+    {
+     "name": "Peter Sarsgaard",
+     "character": "District Attorney Gil Colson",
+     "slug": "peter-sarsgaard",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5UANyM4co2nwYPgSEmGeNlZRm7V.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Matt Reeves",
+       "slug": "matt-reeves"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Peter Craig",
+       "slug": "peter-craig"
+      },
+      {
+       "name": "Matt Reeves",
+       "slug": "matt-reeves"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Michael Giacchino",
+       "slug": "michael-giacchino"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Greig Fraser",
+       "slug": "greig-fraser"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "William Hoy",
+       "slug": "william-hoy"
+      },
+      {
+       "name": "Tyler Nelson",
+       "slug": "tyler-nelson"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dylan Clark",
+       "slug": "dylan-clark"
+      },
+      {
+       "name": "Matt Reeves",
+       "slug": "matt-reeves"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "6th u0026 Idaho Motion Picture Company",
+     "slug": "6th-idaho-motion-picture-company",
+     "logo": "https://image.tmdb.org/t/p/w185/iusVPF9AJD1DiHEWbZEXgn1hpOf.png"
+    },
+    {
+     "name": "Dylan Clark Productions",
+     "slug": "dylan-clark-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/6F45uVsKpNYANcWvplyhgIFezFU.png"
+    },
+    {
+     "name": "DC Films",
+     "slug": "dc-films",
+     "logo": "https://image.tmdb.org/t/p/w185/13F3Jf7EFAcREU0xzZqJnVnyGXu.png"
+    },
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 16455433,
+    "totalShows": 1691,
+    "totalDays": 22,
+    "openingDay": {
+     "day": 1,
+     "gross": 3156898,
+     "date": "2022-03-04"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3156898,
+     "date": "2022-03-04"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 32,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-03-04"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 112,
+    "title": "Batman",
+    "img": "https://image.tmdb.org/t/p/original/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+    "released": "2022-03-04",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt1877830",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "177 min",
+    "genre": "Crime, Mystery, Thriller",
+    "plot": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+    "released": "2022-03-01",
+    "director": "Matt Reeves",
+    "directorSlug": "matt-reeves",
+    "actors": [
+     "Robert Pattinson",
+     "Zoë Kravitz",
+     "Jeffrey Wright",
+     "Colin Farrell",
+     "Paul Dano",
+     "John Turturro"
+    ],
+    "awards": "Nominated for 3 Oscars. 40 wins u0026 176 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.8",
+      "votes": 951014,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.7",
+      "votes": 12553,
+      "updatedAt": "2026-09-25T01:10:31.000Z"
+     },
+     "rt": "85%",
+     "metascore": 72,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Robert Pattinson",
+     "character": "Bruce Wayne / The Batman",
+     "slug": "robert-pattinson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+    },
+    {
+     "name": "Zoë Kravitz",
+     "character": "Selina Kyle",
+     "slug": "zoe-kravitz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n0mhAgmY6eJQmA7kaugsTZEJgHo.jpg"
+    },
+    {
+     "name": "Jeffrey Wright",
+     "character": "Lt. James Gordon",
+     "slug": "jeffrey-wright",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/quunS3w4QtALMDnvA0y81Y2pO9N.jpg"
+    },
+    {
+     "name": "Colin Farrell",
+     "character": "Oz / The Penguin",
+     "slug": "colin-farrell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5FdalJbrbZ5UCsED5rFrXpvbqJa.jpg"
+    },
+    {
+     "name": "Paul Dano",
+     "character": "The Riddler",
+     "slug": "paul-dano",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gOD5bO0hKnzzJm7sJeGeEJjfBBw.jpg"
+    },
+    {
+     "name": "John Turturro",
+     "character": "Carmine Falcone",
+     "slug": "john-turturro",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+    },
+    {
+     "name": "Andy Serkis",
+     "character": "Alfred",
+     "slug": "andy-serkis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+    },
+    {
+     "name": "Peter Sarsgaard",
+     "character": "District Attorney Gil Colson",
+     "slug": "peter-sarsgaard",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5UANyM4co2nwYPgSEmGeNlZRm7V.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Matt Reeves",
+       "slug": "matt-reeves"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Peter Craig",
+       "slug": "peter-craig"
+      },
+      {
+       "name": "Matt Reeves",
+       "slug": "matt-reeves"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Michael Giacchino",
+       "slug": "michael-giacchino"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Greig Fraser",
+       "slug": "greig-fraser"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "William Hoy",
+       "slug": "william-hoy"
+      },
+      {
+       "name": "Tyler Nelson",
+       "slug": "tyler-nelson"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dylan Clark",
+       "slug": "dylan-clark"
+      },
+      {
+       "name": "Matt Reeves",
+       "slug": "matt-reeves"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "6th u0026 Idaho Motion Picture Company",
+     "slug": "6th-idaho-motion-picture-company",
+     "logo": "https://image.tmdb.org/t/p/w185/iusVPF9AJD1DiHEWbZEXgn1hpOf.png"
+    },
+    {
+     "name": "Dylan Clark Productions",
+     "slug": "dylan-clark-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/6F45uVsKpNYANcWvplyhgIFezFU.png"
+    },
+    {
+     "name": "DC Films",
+     "slug": "dc-films",
+     "logo": "https://image.tmdb.org/t/p/w185/13F3Jf7EFAcREU0xzZqJnVnyGXu.png"
+    },
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-03-04",
+     "gross": 12758402,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1447,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-03-11",
+     "gross": 2972609,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 188,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-03-18",
+     "gross": 704332,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 54,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-03-25",
+     "gross": 20090,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 16455433,
+    "totalShows": 1691,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 12758402
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 12758402
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 32,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-03-04"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 112,
+    "title": "Batman",
+    "img": "https://image.tmdb.org/t/p/original/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+    "released": "2022-03-04",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt1877830",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "177 min",
+    "genre": "Crime, Mystery, Thriller",
+    "plot": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+    "released": "2022-03-01",
+    "director": "Matt Reeves",
+    "directorSlug": "matt-reeves",
+    "actors": [
+     "Robert Pattinson",
+     "Zoë Kravitz",
+     "Jeffrey Wright",
+     "Colin Farrell",
+     "Paul Dano",
+     "John Turturro"
+    ],
+    "awards": "Nominated for 3 Oscars. 40 wins u0026 176 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.8",
+      "votes": 951014,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.7",
+      "votes": 12553,
+      "updatedAt": "2026-09-25T01:10:31.000Z"
+     },
+     "rt": "85%",
+     "metascore": 72,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Robert Pattinson",
+     "character": "Bruce Wayne / The Batman",
+     "slug": "robert-pattinson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+    },
+    {
+     "name": "Zoë Kravitz",
+     "character": "Selina Kyle",
+     "slug": "zoe-kravitz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n0mhAgmY6eJQmA7kaugsTZEJgHo.jpg"
+    },
+    {
+     "name": "Jeffrey Wright",
+     "character": "Lt. James Gordon",
+     "slug": "jeffrey-wright",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/quunS3w4QtALMDnvA0y81Y2pO9N.jpg"
+    },
+    {
+     "name": "Colin Farrell",
+     "character": "Oz / The Penguin",
+     "slug": "colin-farrell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5FdalJbrbZ5UCsED5rFrXpvbqJa.jpg"
+    },
+    {
+     "name": "Paul Dano",
+     "character": "The Riddler",
+     "slug": "paul-dano",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gOD5bO0hKnzzJm7sJeGeEJjfBBw.jpg"
+    },
+    {
+     "name": "John Turturro",
+     "character": "Carmine Falcone",
+     "slug": "john-turturro",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+    },
+    {
+     "name": "Andy Serkis",
+     "character": "Alfred",
+     "slug": "andy-serkis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+    },
+    {
+     "name": "Peter Sarsgaard",
+     "character": "District Attorney Gil Colson",
+     "slug": "peter-sarsgaard",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5UANyM4co2nwYPgSEmGeNlZRm7V.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Matt Reeves",
+       "slug": "matt-reeves"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Peter Craig",
+       "slug": "peter-craig"
+      },
+      {
+       "name": "Matt Reeves",
+       "slug": "matt-reeves"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Michael Giacchino",
+       "slug": "michael-giacchino"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Greig Fraser",
+       "slug": "greig-fraser"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "William Hoy",
+       "slug": "william-hoy"
+      },
+      {
+       "name": "Tyler Nelson",
+       "slug": "tyler-nelson"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dylan Clark",
+       "slug": "dylan-clark"
+      },
+      {
+       "name": "Matt Reeves",
+       "slug": "matt-reeves"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "6th u0026 Idaho Motion Picture Company",
+     "slug": "6th-idaho-motion-picture-company",
+     "logo": "https://image.tmdb.org/t/p/w185/iusVPF9AJD1DiHEWbZEXgn1hpOf.png"
+    },
+    {
+     "name": "Dylan Clark Productions",
+     "slug": "dylan-clark-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/6F45uVsKpNYANcWvplyhgIFezFU.png"
+    },
+    {
+     "name": "DC Films",
+     "slug": "dc-films",
+     "logo": "https://image.tmdb.org/t/p/w185/13F3Jf7EFAcREU0xzZqJnVnyGXu.png"
+    },
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 16455433,
+    "totalShows": 1691,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 4857707,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4857707,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 32,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-03-04"
+   }
+  }
+ }
+}

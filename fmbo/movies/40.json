@@ -1,0 +1,597 @@
+{
+ "id": 40,
+ "slug": "kamala",
+ "source_url": "https://fridaymatinee.in/boxoffice/kamala-40",
+ "captured_at": "2026-10-01T17:57:58.103397+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 40,
+    "title": "Kamala",
+    "img": "https://image.tmdb.org/t/p/original/9v4VvuHLZJzEKkWy2CR6MrYSBGd.jpg",
+    "released": "2019-11-29",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10638274",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "125 min",
+    "genre": "Thriller",
+    "plot": "Safar, a high-level real estate broker, is on his way to one of the biggest deals of his life when he encounters Kamala. In the next 36 hours of his life, the mysterious Kamala turns Safar's perfect day into a nightmare.",
+    "released": "2019-12-05",
+    "director": "Ranjith Sankar",
+    "directorSlug": "ranjith-sankar",
+    "actors": [
+     "Aju Varghese",
+     "Ruhani Sharma",
+     "Anoop Menon",
+     "Biju Sopanam",
+     "Sunil Sukhada",
+     "Anjana Appukuttan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.4",
+      "votes": 233,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aju Varghese",
+     "character": "Safar",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Ruhani Sharma",
+     "character": "Kamala",
+     "slug": "ruhani-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/epmEZVlfYhHXNsOzTdcA0hJ35Y5.jpg"
+    },
+    {
+     "name": "Anoop Menon",
+     "character": "Agasthy",
+     "slug": "anoop-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bQTaoXeuG0Mf3GbwATsfdNFwzKN.jpg"
+    },
+    {
+     "name": "Biju Sopanam",
+     "character": "Ravi",
+     "slug": "biju-sopanam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/setC3InjgiwXdidrwkFLygn0Pvw.jpg"
+    },
+    {
+     "name": "Sunil Sukhada",
+     "character": "Pappachan",
+     "slug": "sunil-sukhada",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qgamc1v6ROT3zn6bSMs2vS6U7ht.jpg"
+    },
+    {
+     "name": "Anjana Appukuttan",
+     "character": "Malathi",
+     "slug": "anjana-appukuttan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ufxtwCHmYEy873iwHabXnv9UfAp.jpg"
+    },
+    {
+     "name": "Rajendran",
+     "character": "Thoothukudi Raja",
+     "slug": "rajendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jgIYDgHQVg1ZPbpK1P2r51W3G7M.jpg"
+    },
+    {
+     "name": "Sreeja Shyam",
+     "character": null,
+     "slug": "sreeja-shyam",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ranjith Sankar",
+       "slug": "ranjith-sankar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ranjith Sankar",
+       "slug": "ranjith-sankar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anand Madhusoodhanan",
+       "slug": "anand-madhusoodhanan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shehnad Jalal",
+       "slug": "shehnad-jalal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Adhil N Ashraf",
+       "slug": "adhil-n-ashraf"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ranjith Sankar",
+       "slug": "ranjith-sankar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Dreams N Beyond",
+     "slug": "dreams-n-beyond",
+     "logo": "https://image.tmdb.org/t/p/w185/yBxz8DfoQYcHYg8NrvqMrMPHTlh.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1697720,
+    "totalShows": 629,
+    "totalDays": 13,
+    "openingDay": {
+     "day": 1,
+     "gross": 478463,
+     "date": "2019-11-29"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 478463,
+     "date": "2019-11-29"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 21,
+     "last_week_position": 97
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-29"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 40,
+    "title": "Kamala",
+    "img": "https://image.tmdb.org/t/p/original/9v4VvuHLZJzEKkWy2CR6MrYSBGd.jpg",
+    "released": "2019-11-29",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10638274",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "125 min",
+    "genre": "Thriller",
+    "plot": "Safar, a high-level real estate broker, is on his way to one of the biggest deals of his life when he encounters Kamala. In the next 36 hours of his life, the mysterious Kamala turns Safar's perfect day into a nightmare.",
+    "released": "2019-12-05",
+    "director": "Ranjith Sankar",
+    "directorSlug": "ranjith-sankar",
+    "actors": [
+     "Aju Varghese",
+     "Ruhani Sharma",
+     "Anoop Menon",
+     "Biju Sopanam",
+     "Sunil Sukhada",
+     "Anjana Appukuttan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.4",
+      "votes": 233,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aju Varghese",
+     "character": "Safar",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Ruhani Sharma",
+     "character": "Kamala",
+     "slug": "ruhani-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/epmEZVlfYhHXNsOzTdcA0hJ35Y5.jpg"
+    },
+    {
+     "name": "Anoop Menon",
+     "character": "Agasthy",
+     "slug": "anoop-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bQTaoXeuG0Mf3GbwATsfdNFwzKN.jpg"
+    },
+    {
+     "name": "Biju Sopanam",
+     "character": "Ravi",
+     "slug": "biju-sopanam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/setC3InjgiwXdidrwkFLygn0Pvw.jpg"
+    },
+    {
+     "name": "Sunil Sukhada",
+     "character": "Pappachan",
+     "slug": "sunil-sukhada",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qgamc1v6ROT3zn6bSMs2vS6U7ht.jpg"
+    },
+    {
+     "name": "Anjana Appukuttan",
+     "character": "Malathi",
+     "slug": "anjana-appukuttan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ufxtwCHmYEy873iwHabXnv9UfAp.jpg"
+    },
+    {
+     "name": "Rajendran",
+     "character": "Thoothukudi Raja",
+     "slug": "rajendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jgIYDgHQVg1ZPbpK1P2r51W3G7M.jpg"
+    },
+    {
+     "name": "Sreeja Shyam",
+     "character": null,
+     "slug": "sreeja-shyam",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ranjith Sankar",
+       "slug": "ranjith-sankar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ranjith Sankar",
+       "slug": "ranjith-sankar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anand Madhusoodhanan",
+       "slug": "anand-madhusoodhanan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shehnad Jalal",
+       "slug": "shehnad-jalal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Adhil N Ashraf",
+       "slug": "adhil-n-ashraf"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ranjith Sankar",
+       "slug": "ranjith-sankar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Dreams N Beyond",
+     "slug": "dreams-n-beyond",
+     "logo": "https://image.tmdb.org/t/p/w185/yBxz8DfoQYcHYg8NrvqMrMPHTlh.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2019-11-29",
+     "gross": 1655646,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 616,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-12-06",
+     "gross": 42074,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 13,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1697720,
+    "totalShows": 629,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 1655646
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1655646
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 21,
+     "last_week_position": 97
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-29"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 40,
+    "title": "Kamala",
+    "img": "https://image.tmdb.org/t/p/original/9v4VvuHLZJzEKkWy2CR6MrYSBGd.jpg",
+    "released": "2019-11-29",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10638274",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "125 min",
+    "genre": "Thriller",
+    "plot": "Safar, a high-level real estate broker, is on his way to one of the biggest deals of his life when he encounters Kamala. In the next 36 hours of his life, the mysterious Kamala turns Safar's perfect day into a nightmare.",
+    "released": "2019-12-05",
+    "director": "Ranjith Sankar",
+    "directorSlug": "ranjith-sankar",
+    "actors": [
+     "Aju Varghese",
+     "Ruhani Sharma",
+     "Anoop Menon",
+     "Biju Sopanam",
+     "Sunil Sukhada",
+     "Anjana Appukuttan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.4",
+      "votes": 233,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aju Varghese",
+     "character": "Safar",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Ruhani Sharma",
+     "character": "Kamala",
+     "slug": "ruhani-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/epmEZVlfYhHXNsOzTdcA0hJ35Y5.jpg"
+    },
+    {
+     "name": "Anoop Menon",
+     "character": "Agasthy",
+     "slug": "anoop-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bQTaoXeuG0Mf3GbwATsfdNFwzKN.jpg"
+    },
+    {
+     "name": "Biju Sopanam",
+     "character": "Ravi",
+     "slug": "biju-sopanam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/setC3InjgiwXdidrwkFLygn0Pvw.jpg"
+    },
+    {
+     "name": "Sunil Sukhada",
+     "character": "Pappachan",
+     "slug": "sunil-sukhada",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qgamc1v6ROT3zn6bSMs2vS6U7ht.jpg"
+    },
+    {
+     "name": "Anjana Appukuttan",
+     "character": "Malathi",
+     "slug": "anjana-appukuttan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ufxtwCHmYEy873iwHabXnv9UfAp.jpg"
+    },
+    {
+     "name": "Rajendran",
+     "character": "Thoothukudi Raja",
+     "slug": "rajendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jgIYDgHQVg1ZPbpK1P2r51W3G7M.jpg"
+    },
+    {
+     "name": "Sreeja Shyam",
+     "character": null,
+     "slug": "sreeja-shyam",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ranjith Sankar",
+       "slug": "ranjith-sankar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ranjith Sankar",
+       "slug": "ranjith-sankar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anand Madhusoodhanan",
+       "slug": "anand-madhusoodhanan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shehnad Jalal",
+       "slug": "shehnad-jalal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Adhil N Ashraf",
+       "slug": "adhil-n-ashraf"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ranjith Sankar",
+       "slug": "ranjith-sankar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Dreams N Beyond",
+     "slug": "dreams-n-beyond",
+     "logo": "https://image.tmdb.org/t/p/w185/yBxz8DfoQYcHYg8NrvqMrMPHTlh.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1697720,
+    "totalShows": 629,
+    "totalDays": 10,
+    "openingDay": {
+     "day": 1,
+     "gross": 590696,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 590696,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 21,
+     "last_week_position": 97
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-29"
+   }
+  }
+ }
+}

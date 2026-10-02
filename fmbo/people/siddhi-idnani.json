@@ -1,0 +1,41 @@
+{
+ "slug": "siddhi-idnani",
+ "name": "Siddhi Idnani",
+ "source_url": "https://fridaymatinee.in/people/siddhi-idnani",
+ "captured_at": "2026-10-02T10:39:37.665604+00:00",
+ "person": {
+  "name": "Siddhi Idnani",
+  "photo": "https://image.tmdb.org/t/p/w185/ywLPEBJcRxkNtIQ9FwjzB59kAsJ.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 204,
+   "movie_slug": "vendhu-thanindhathu-kaadu",
+   "title": "Vendhu Thanindhathu Kaadu",
+   "year": 2022,
+   "kerala_gross": "₹40.9L"
+  },
+  {
+   "movie_id": 370,
+   "movie_slug": "the-kerala-story",
+   "title": "The Kerala Story",
+   "year": 2023,
+   "kerala_gross": "₹25.5L"
+  },
+  {
+   "movie_id": 955,
+   "movie_slug": "retta-thala",
+   "title": "Retta Thala",
+   "year": 2025,
+   "kerala_gross": "₹3.0L"
+  }
+ ]
+}

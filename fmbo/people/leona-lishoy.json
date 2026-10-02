@@ -1,0 +1,41 @@
+{
+ "slug": "leona-lishoy",
+ "name": "Leona Lishoy",
+ "source_url": "https://fridaymatinee.in/people/leona-lishoy",
+ "captured_at": "2026-10-02T00:00:59.612418+00:00",
+ "person": {
+  "name": "Leona Lishoy",
+  "photo": "https://image.tmdb.org/t/p/w185/4MKzSA8uvurHJc9xUxaGvbocI5B.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 57,
+   "movie_slug": "anveshanam",
+   "title": "Anveshanam",
+   "year": 2020,
+   "kerala_gross": "₹52.9L"
+  },
+  {
+   "movie_id": 268,
+   "movie_slug": "djinn",
+   "title": "Djinn",
+   "year": 2023,
+   "kerala_gross": "₹53.9L"
+  },
+  {
+   "movie_id": 886,
+   "movie_slug": "valathu-vashathe-kallan",
+   "title": "Valathu Vashathe Kallan",
+   "year": 2026,
+   "kerala_gross": "₹4.3 Cr"
+  }
+ ]
+}

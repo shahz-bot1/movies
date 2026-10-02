@@ -1,0 +1,46 @@
+{
+ "slug": "indra-kumar",
+ "name": "Indra Kumar",
+ "source_url": "https://fridaymatinee.in/people/indra-kumar",
+ "captured_at": "2026-10-01T22:51:58.871593+00:00",
+ "person": {
+  "name": "Indra Kumar",
+  "photo": "https://image.tmdb.org/t/p/w185/zE7yyzOnyBkcvqKSTn9oHQ6DCSF.jpg",
+  "role": "Producer and director"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 920,
+   "movie_slug": "mastiii-4",
+   "title": "Mastiii 4",
+   "year": 2025,
+   "kerala_gross": "₹4.4L"
+  },
+  {
+   "movie_id": 1190,
+   "movie_slug": "dhamaal-4",
+   "title": "Dhamaal 4",
+   "year": 2026,
+   "kerala_gross": "₹13.9L"
+  },
+  {
+   "movie_id": 1209,
+   "movie_slug": "tera-yaar-hoon-main",
+   "title": "Tera Yaar Hoon Main",
+   "year": 2026,
+   "kerala_gross": "₹1.2L"
+  }
+ ]
+}

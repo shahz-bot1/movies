@@ -1,0 +1,1417 @@
+{
+ "id": 993,
+ "slug": "aashaan",
+ "source_url": "https://fridaymatinee.in/boxoffice/aashaan-993",
+ "captured_at": "2026-10-01T18:35:25.261781+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 993,
+    "title": "Aashaan",
+    "img": "https://image.tmdb.org/t/p/original/pQxxZqUjkDQBlAqhPZ75MkWCZL3.jpg",
+    "released": "2026-02-05",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt38772234",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "159 min",
+    "genre": "Drama, Comedy",
+    "plot": "Aashaan dreams of cinema until a 150-member film crew enters his life, bringing movie magic within reach. Chasing his big break, he confronts the industry's harsh realities.",
+    "released": "2026-02-05",
+    "director": "Johnpaul George",
+    "directorSlug": "johnpaul-george",
+    "actors": [
+     "Indrans",
+     "Joemon Jyothir",
+     "Abin Bino",
+     "Naveena V M",
+     "Shobi Thilakan",
+     "Bibin Perumbily"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.5",
+      "votes": 789,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:25:55.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Indrans",
+     "character": "Aashaan",
+     "slug": "indrans",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vs5Acy2hJ4dWoM3xRGdnFKdVXzw.jpg"
+    },
+    {
+     "name": "Joemon Jyothir",
+     "character": "Anandan",
+     "slug": "joemon-jyothir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/prwllSgqHxG5c8yQGtXGnH5LbPh.jpg"
+    },
+    {
+     "name": "Abin Bino",
+     "character": "Ambaady",
+     "slug": "abin-bino",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7sXz5H8UaEOHdYmh6vzY3CdcpRF.jpg"
+    },
+    {
+     "name": "Naveena V M",
+     "character": "Dance Teacher",
+     "slug": "naveena-v-m",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Shobi Thilakan",
+     "character": "K R Shahjahan",
+     "slug": "shobi-thilakan",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Bibin Perumbily",
+     "character": "Superstar Karan Chanth",
+     "slug": "bibin-perumbily",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Madan Gowri",
+     "character": "Editor Vinodh",
+     "slug": "madan-gowri",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uLJjaLb9MPOx32an6RJdAsihqTV.jpg"
+    },
+    {
+     "name": "Raju Ponnurunni",
+     "character": "Salaam Bhai",
+     "slug": "raju-ponnurunni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kPk9zp4oLfu2PvJmeAKC64JQppq.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Johnpaul George",
+       "slug": "johnpaul-george"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Johnpaul George",
+       "slug": "johnpaul-george"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Johnpaul George",
+       "slug": "johnpaul-george"
+      },
+      {
+       "name": "Ajeesh Anto",
+       "slug": "ajeesh-anto"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vimal Jose Thachil",
+       "slug": "vimal-jose-thachil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kiran Das",
+       "slug": "kiran-das"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Johnpaul George",
+       "slug": "johnpaul-george"
+      },
+      {
+       "name": "Annam Johnpaul",
+       "slug": "annam-johnpaul"
+      },
+      {
+       "name": "Suraj Philip Jacob",
+       "slug": "suraj-philip-jacob"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Guppy Cinemas",
+     "slug": "guppy-cinemas",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-06-19",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-02-06": [
+     {
+      "id": 994,
+      "title": "Ashakal Aayiram",
+      "img": "https://image.tmdb.org/t/p/original/qnreAyzGZcHYnk2aKXhbZvT6JS1.jpg"
+     },
+     {
+      "id": 995,
+      "title": "Anomie",
+      "img": "https://image.tmdb.org/t/p/original/j0ZLUMdBimCAkblfcaBlrGzzYoq.jpg"
+     },
+     {
+      "id": 997,
+      "title": "With Love",
+      "img": "https://image.tmdb.org/t/p/original/fnq8cOUyIKXCXAQBezqtCHbUA7C.jpg"
+     }
+    ],
+    "2026-02-05": [
+     {
+      "id": 999,
+      "title": "The Strangers: Chapter 3",
+      "img": "https://image.tmdb.org/t/p/original/pD2QJSDE260exWpwbD3KK95jq3.jpg"
+     }
+    ],
+    "2026-02-13": [
+     {
+      "id": 1002,
+      "title": "Sukhamano Sukhamanu",
+      "img": "https://image.tmdb.org/t/p/original/qWUWRLCg7O2IcOYXebPL6OZe9H.jpg"
+     },
+     {
+      "id": 1003,
+      "title": "Pennum Porattum",
+      "img": "https://image.tmdb.org/t/p/original/3DNAh3pwPiBBD8FHwzLPUXqs45e.jpg"
+     },
+     {
+      "id": 1005,
+      "title": "Spa",
+      "img": "https://image.tmdb.org/t/p/original/clYMYFXcDZSpURJBvEDISnFUpSp.jpg"
+     }
+    ],
+    "2026-02-12": [
+     {
+      "id": 1004,
+      "title": "Koodothram",
+      "img": "https://image.tmdb.org/t/p/original/9BbeFxsV4lL58KtOXzgvs5Wo3E4.jpg"
+     },
+     {
+      "id": 1016,
+      "title": "Wuthering Heights",
+      "img": "https://image.tmdb.org/t/p/original/3YBce6dTh1D5oCMITXk2S5QhPt.jpg"
+     }
+    ],
+    "2026-02-14": [
+     {
+      "id": 1011,
+      "title": "Seetha Payanam",
+      "img": "https://image.tmdb.org/t/p/original/ubYKOsmUXdz4GQgVndBAze8G5UM.jpg"
+     }
+    ],
+    "2026-02-19": [
+     {
+      "id": 1013,
+      "title": "GOAT",
+      "img": "https://image.tmdb.org/t/p/original/loVFe4kTWQDLTZSwO5HvLBJDDk2.jpg"
+     }
+    ],
+    "2026-02-20": [
+     {
+      "id": 1014,
+      "title": "Do Deewane Seher Mein",
+      "img": "https://image.tmdb.org/t/p/original/p8yPjT9NAH87oD9TedclRaAW7RY.jpg"
+     },
+     {
+      "id": 1015,
+      "title": "Assi",
+      "img": "https://image.tmdb.org/t/p/original/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-02-05",
+     "gross": 2369432.399999999,
+     "sold": 14052,
+     "unsold": 85359,
+     "shows": 409,
+     "occ": 14.14,
+     "hf": "3",
+     "almost": "4",
+     "ff": "5",
+     "cumul": 2369432.399999999,
+     "lastUpdatedAt": "2026-02-05 23:28:00"
+    },
+    {
+     "label": "2026-02-06",
+     "gross": 1505609.5999999992,
+     "sold": 9042,
+     "unsold": 79425,
+     "shows": 355,
+     "occ": 10.22,
+     "hf": "0",
+     "almost": "0",
+     "ff": "1",
+     "cumul": 3875041.999999998,
+     "lastUpdatedAt": "2026-02-06 23:33:00"
+    },
+    {
+     "label": "2026-02-07",
+     "gross": 1588020.5999999994,
+     "sold": 9493,
+     "unsold": 71942,
+     "shows": 338,
+     "occ": 11.66,
+     "hf": "2",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 5463062.599999998,
+     "lastUpdatedAt": "2026-02-07 23:33:00"
+    },
+    {
+     "label": "2026-02-08",
+     "gross": 2033348.7999999993,
+     "sold": 11913,
+     "unsold": 69747,
+     "shows": 337,
+     "occ": 14.59,
+     "hf": "3",
+     "almost": "9",
+     "ff": "8",
+     "cumul": 7496411.399999997,
+     "lastUpdatedAt": "2026-02-08 23:13:00"
+    },
+    {
+     "label": "2026-02-09",
+     "gross": 952699.5999999994,
+     "sold": 6324,
+     "unsold": 64799,
+     "shows": 289,
+     "occ": 8.89,
+     "hf": "4",
+     "almost": "4",
+     "ff": "0",
+     "cumul": 8449110.999999996,
+     "lastUpdatedAt": "2026-02-09 23:03:00"
+    },
+    {
+     "label": "2026-02-10",
+     "gross": 1052299.9999999993,
+     "sold": 7107,
+     "unsold": 62642,
+     "shows": 284,
+     "occ": 10.19,
+     "hf": "6",
+     "almost": "7",
+     "ff": "0",
+     "cumul": 9501410.999999996,
+     "lastUpdatedAt": "2026-02-10 23:03:00"
+    },
+    {
+     "label": "2026-02-11",
+     "gross": 980469.7999999992,
+     "sold": 6551,
+     "unsold": 57525,
+     "shows": 262,
+     "occ": 10.22,
+     "hf": "5",
+     "almost": "6",
+     "ff": "2",
+     "cumul": 10481880.799999995,
+     "lastUpdatedAt": "2026-02-11 23:03:00"
+    },
+    {
+     "label": "2026-02-12",
+     "gross": 207911,
+     "sold": 1220,
+     "unsold": 5341,
+     "shows": 35,
+     "occ": 18.59,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 10689791.799999995,
+     "lastUpdatedAt": "2026-02-12 22:58:00"
+    },
+    {
+     "label": "2026-02-13",
+     "gross": 146715,
+     "sold": 871,
+     "unsold": 7588,
+     "shows": 44,
+     "occ": 10.3,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 10836506.799999995,
+     "lastUpdatedAt": "2026-02-13 23:43:00"
+    },
+    {
+     "label": "2026-02-14",
+     "gross": 186334,
+     "sold": 1105,
+     "unsold": 7950,
+     "shows": 46,
+     "occ": 12.2,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 11022840.799999995,
+     "lastUpdatedAt": "2026-02-14 22:43:00"
+    },
+    {
+     "label": "2026-02-15",
+     "gross": 220724,
+     "sold": 1227,
+     "unsold": 8634,
+     "shows": 49,
+     "occ": 12.44,
+     "hf": "0",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 11243564.799999995,
+     "lastUpdatedAt": "2026-02-15 22:43:00"
+    },
+    {
+     "label": "2026-02-16",
+     "gross": 108661,
+     "sold": 648,
+     "unsold": 8603,
+     "shows": 45,
+     "occ": 7,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 11352225.799999995,
+     "lastUpdatedAt": "2026-02-16 22:08:00"
+    },
+    {
+     "label": "2026-02-17",
+     "gross": 98823,
+     "sold": 750,
+     "unsold": 7634,
+     "shows": 40,
+     "occ": 8.95,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 11451048.799999995,
+     "lastUpdatedAt": "2026-02-17 22:08:00"
+    },
+    {
+     "label": "2026-02-18",
+     "gross": 83959,
+     "sold": 525,
+     "unsold": 8029,
+     "shows": 41,
+     "occ": 6.14,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 11535007.799999995,
+     "lastUpdatedAt": "2026-02-18 22:23:00"
+    },
+    {
+     "label": "2026-02-19",
+     "gross": 53783,
+     "sold": 318,
+     "unsold": 7522,
+     "shows": 36,
+     "occ": 4.06,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 11588790.799999995,
+     "lastUpdatedAt": "2026-02-19 22:23:00"
+    },
+    {
+     "label": "2026-02-20",
+     "gross": 174750,
+     "sold": 1447,
+     "unsold": 3008,
+     "shows": 21,
+     "occ": 32.48,
+     "hf": "4",
+     "almost": "4",
+     "ff": "0",
+     "cumul": 11763540.799999995,
+     "lastUpdatedAt": "2026-02-20 22:43:00"
+    },
+    {
+     "label": "2026-02-21",
+     "gross": 56020,
+     "sold": 300,
+     "unsold": 2618,
+     "shows": 16,
+     "occ": 10.28,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 11819560.799999995,
+     "lastUpdatedAt": "2026-02-21 22:48:00"
+    },
+    {
+     "label": "2026-02-22",
+     "gross": 55610,
+     "sold": 305,
+     "unsold": 3279,
+     "shows": 17,
+     "occ": 8.51,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 11875170.799999995,
+     "lastUpdatedAt": "2026-02-22 22:48:00"
+    },
+    {
+     "label": "2026-02-23",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 141,
+     "shows": 1,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 11875170.799999995,
+     "lastUpdatedAt": "2026-02-23 15:14:00"
+    },
+    {
+     "label": "2026-02-24",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 141,
+     "shows": 1,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 11875170.799999995,
+     "lastUpdatedAt": "2026-02-24 15:14:00"
+    },
+    {
+     "label": "2026-02-25",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 141,
+     "shows": 1,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 11875170.799999995,
+     "lastUpdatedAt": "2026-02-25 15:14:00"
+    },
+    {
+     "label": "2026-02-26",
+     "gross": 114450,
+     "sold": 510,
+     "unsold": 1485,
+     "shows": 14,
+     "occ": 25.56,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 11989620.799999995,
+     "lastUpdatedAt": "2026-02-26 21:43:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 11989620.799999995,
+    "totalShows": 2681,
+    "totalSeats": 637261,
+    "totalSold": 73708,
+    "avgOcc": "11.6",
+    "totalDays": 22,
+    "totalHousefull": 31,
+    "totalAlmost": 42,
+    "totalFastFilling": 16,
+    "peakDay": {
+     "day": 1,
+     "gross": 2369432.399999999,
+     "date": "2026-02-05"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 2369432.399999999,
+     "date": "2026-02-05"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "22:114450:11989620.799999995"
+  },
+  "week": {
+   "movie": {
+    "id": 993,
+    "title": "Aashaan",
+    "img": "https://image.tmdb.org/t/p/original/pQxxZqUjkDQBlAqhPZ75MkWCZL3.jpg",
+    "released": "2026-02-05",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt38772234",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "159 min",
+    "genre": "Drama, Comedy",
+    "plot": "Aashaan dreams of cinema until a 150-member film crew enters his life, bringing movie magic within reach. Chasing his big break, he confronts the industry's harsh realities.",
+    "released": "2026-02-05",
+    "director": "Johnpaul George",
+    "directorSlug": "johnpaul-george",
+    "actors": [
+     "Indrans",
+     "Joemon Jyothir",
+     "Abin Bino",
+     "Naveena V M",
+     "Shobi Thilakan",
+     "Bibin Perumbily"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.5",
+      "votes": 789,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:25:55.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Indrans",
+     "character": "Aashaan",
+     "slug": "indrans",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vs5Acy2hJ4dWoM3xRGdnFKdVXzw.jpg"
+    },
+    {
+     "name": "Joemon Jyothir",
+     "character": "Anandan",
+     "slug": "joemon-jyothir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/prwllSgqHxG5c8yQGtXGnH5LbPh.jpg"
+    },
+    {
+     "name": "Abin Bino",
+     "character": "Ambaady",
+     "slug": "abin-bino",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7sXz5H8UaEOHdYmh6vzY3CdcpRF.jpg"
+    },
+    {
+     "name": "Naveena V M",
+     "character": "Dance Teacher",
+     "slug": "naveena-v-m",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Shobi Thilakan",
+     "character": "K R Shahjahan",
+     "slug": "shobi-thilakan",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Bibin Perumbily",
+     "character": "Superstar Karan Chanth",
+     "slug": "bibin-perumbily",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Madan Gowri",
+     "character": "Editor Vinodh",
+     "slug": "madan-gowri",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uLJjaLb9MPOx32an6RJdAsihqTV.jpg"
+    },
+    {
+     "name": "Raju Ponnurunni",
+     "character": "Salaam Bhai",
+     "slug": "raju-ponnurunni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kPk9zp4oLfu2PvJmeAKC64JQppq.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Johnpaul George",
+       "slug": "johnpaul-george"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Johnpaul George",
+       "slug": "johnpaul-george"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Johnpaul George",
+       "slug": "johnpaul-george"
+      },
+      {
+       "name": "Ajeesh Anto",
+       "slug": "ajeesh-anto"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vimal Jose Thachil",
+       "slug": "vimal-jose-thachil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kiran Das",
+       "slug": "kiran-das"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Johnpaul George",
+       "slug": "johnpaul-george"
+      },
+      {
+       "name": "Annam Johnpaul",
+       "slug": "annam-johnpaul"
+      },
+      {
+       "name": "Suraj Philip Jacob",
+       "slug": "suraj-philip-jacob"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Guppy Cinemas",
+     "slug": "guppy-cinemas",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-06-19",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-02-06": [
+     {
+      "id": 994,
+      "title": "Ashakal Aayiram",
+      "img": "https://image.tmdb.org/t/p/original/qnreAyzGZcHYnk2aKXhbZvT6JS1.jpg"
+     },
+     {
+      "id": 995,
+      "title": "Anomie",
+      "img": "https://image.tmdb.org/t/p/original/j0ZLUMdBimCAkblfcaBlrGzzYoq.jpg"
+     },
+     {
+      "id": 997,
+      "title": "With Love",
+      "img": "https://image.tmdb.org/t/p/original/fnq8cOUyIKXCXAQBezqtCHbUA7C.jpg"
+     }
+    ],
+    "2026-02-05": [
+     {
+      "id": 999,
+      "title": "The Strangers: Chapter 3",
+      "img": "https://image.tmdb.org/t/p/original/pD2QJSDE260exWpwbD3KK95jq3.jpg"
+     }
+    ],
+    "2026-02-13": [
+     {
+      "id": 1002,
+      "title": "Sukhamano Sukhamanu",
+      "img": "https://image.tmdb.org/t/p/original/qWUWRLCg7O2IcOYXebPL6OZe9H.jpg"
+     },
+     {
+      "id": 1003,
+      "title": "Pennum Porattum",
+      "img": "https://image.tmdb.org/t/p/original/3DNAh3pwPiBBD8FHwzLPUXqs45e.jpg"
+     },
+     {
+      "id": 1005,
+      "title": "Spa",
+      "img": "https://image.tmdb.org/t/p/original/clYMYFXcDZSpURJBvEDISnFUpSp.jpg"
+     }
+    ],
+    "2026-02-12": [
+     {
+      "id": 1004,
+      "title": "Koodothram",
+      "img": "https://image.tmdb.org/t/p/original/9BbeFxsV4lL58KtOXzgvs5Wo3E4.jpg"
+     },
+     {
+      "id": 1016,
+      "title": "Wuthering Heights",
+      "img": "https://image.tmdb.org/t/p/original/3YBce6dTh1D5oCMITXk2S5QhPt.jpg"
+     }
+    ],
+    "2026-02-14": [
+     {
+      "id": 1011,
+      "title": "Seetha Payanam",
+      "img": "https://image.tmdb.org/t/p/original/ubYKOsmUXdz4GQgVndBAze8G5UM.jpg"
+     }
+    ],
+    "2026-02-19": [
+     {
+      "id": 1013,
+      "title": "GOAT",
+      "img": "https://image.tmdb.org/t/p/original/loVFe4kTWQDLTZSwO5HvLBJDDk2.jpg"
+     }
+    ],
+    "2026-02-20": [
+     {
+      "id": 1014,
+      "title": "Do Deewane Seher Mein",
+      "img": "https://image.tmdb.org/t/p/original/p8yPjT9NAH87oD9TedclRaAW7RY.jpg"
+     },
+     {
+      "id": 1015,
+      "title": "Assi",
+      "img": "https://image.tmdb.org/t/p/original/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-02-05",
+     "gross": 10481880.799999997,
+     "sold": 64482,
+     "unsold": 491439,
+     "shows": 2274,
+     "occ": 11.6,
+     "hf": "23",
+     "almost": "33",
+     "ff": "16",
+     "cumul": 10481880.799999997,
+     "lastUpdatedAt": "2026-02-11 23:03:00"
+    },
+    {
+     "label": "2026-02-12",
+     "gross": 1053127,
+     "sold": 6346,
+     "unsold": 53779,
+     "shows": 300,
+     "occ": 10.55,
+     "hf": "1",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 11535007.799999997,
+     "lastUpdatedAt": "2026-02-18 22:23:00"
+    },
+    {
+     "label": "2026-02-19",
+     "gross": 340163,
+     "sold": 2370,
+     "unsold": 16850,
+     "shows": 93,
+     "occ": 12.33,
+     "hf": "4",
+     "almost": "4",
+     "ff": "0",
+     "cumul": 11875170.799999997,
+     "lastUpdatedAt": "2026-02-25 15:14:00"
+    },
+    {
+     "label": "2026-02-26",
+     "gross": 114450,
+     "sold": 510,
+     "unsold": 1485,
+     "shows": 14,
+     "occ": 25.56,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 11989620.799999997,
+     "lastUpdatedAt": "2026-02-26 21:43:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 11989620.799999997,
+    "totalShows": 2681,
+    "totalSeats": 637261,
+    "totalSold": 73708,
+    "avgOcc": "11.6",
+    "totalDays": 4,
+    "totalHousefull": 31,
+    "totalAlmost": 42,
+    "totalFastFilling": 16,
+    "peakDay": {
+     "day": 1,
+     "gross": 10481880.799999997
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 10481880.799999997
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "4:114450:11989620.799999997"
+  },
+  "district": {
+   "movie": {
+    "id": 993,
+    "title": "Aashaan",
+    "img": "https://image.tmdb.org/t/p/original/pQxxZqUjkDQBlAqhPZ75MkWCZL3.jpg",
+    "released": "2026-02-05",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt38772234",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "159 min",
+    "genre": "Drama, Comedy",
+    "plot": "Aashaan dreams of cinema until a 150-member film crew enters his life, bringing movie magic within reach. Chasing his big break, he confronts the industry's harsh realities.",
+    "released": "2026-02-05",
+    "director": "Johnpaul George",
+    "directorSlug": "johnpaul-george",
+    "actors": [
+     "Indrans",
+     "Joemon Jyothir",
+     "Abin Bino",
+     "Naveena V M",
+     "Shobi Thilakan",
+     "Bibin Perumbily"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.5",
+      "votes": 789,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:25:55.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Indrans",
+     "character": "Aashaan",
+     "slug": "indrans",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vs5Acy2hJ4dWoM3xRGdnFKdVXzw.jpg"
+    },
+    {
+     "name": "Joemon Jyothir",
+     "character": "Anandan",
+     "slug": "joemon-jyothir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/prwllSgqHxG5c8yQGtXGnH5LbPh.jpg"
+    },
+    {
+     "name": "Abin Bino",
+     "character": "Ambaady",
+     "slug": "abin-bino",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7sXz5H8UaEOHdYmh6vzY3CdcpRF.jpg"
+    },
+    {
+     "name": "Naveena V M",
+     "character": "Dance Teacher",
+     "slug": "naveena-v-m",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Shobi Thilakan",
+     "character": "K R Shahjahan",
+     "slug": "shobi-thilakan",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Bibin Perumbily",
+     "character": "Superstar Karan Chanth",
+     "slug": "bibin-perumbily",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Madan Gowri",
+     "character": "Editor Vinodh",
+     "slug": "madan-gowri",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uLJjaLb9MPOx32an6RJdAsihqTV.jpg"
+    },
+    {
+     "name": "Raju Ponnurunni",
+     "character": "Salaam Bhai",
+     "slug": "raju-ponnurunni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kPk9zp4oLfu2PvJmeAKC64JQppq.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Johnpaul George",
+       "slug": "johnpaul-george"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Johnpaul George",
+       "slug": "johnpaul-george"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Johnpaul George",
+       "slug": "johnpaul-george"
+      },
+      {
+       "name": "Ajeesh Anto",
+       "slug": "ajeesh-anto"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vimal Jose Thachil",
+       "slug": "vimal-jose-thachil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kiran Das",
+       "slug": "kiran-das"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Johnpaul George",
+       "slug": "johnpaul-george"
+      },
+      {
+       "name": "Annam Johnpaul",
+       "slug": "annam-johnpaul"
+      },
+      {
+       "name": "Suraj Philip Jacob",
+       "slug": "suraj-philip-jacob"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Guppy Cinemas",
+     "slug": "guppy-cinemas",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-06-19",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-02-06": [
+     {
+      "id": 994,
+      "title": "Ashakal Aayiram",
+      "img": "https://image.tmdb.org/t/p/original/qnreAyzGZcHYnk2aKXhbZvT6JS1.jpg"
+     },
+     {
+      "id": 995,
+      "title": "Anomie",
+      "img": "https://image.tmdb.org/t/p/original/j0ZLUMdBimCAkblfcaBlrGzzYoq.jpg"
+     },
+     {
+      "id": 997,
+      "title": "With Love",
+      "img": "https://image.tmdb.org/t/p/original/fnq8cOUyIKXCXAQBezqtCHbUA7C.jpg"
+     }
+    ],
+    "2026-02-05": [
+     {
+      "id": 999,
+      "title": "The Strangers: Chapter 3",
+      "img": "https://image.tmdb.org/t/p/original/pD2QJSDE260exWpwbD3KK95jq3.jpg"
+     }
+    ],
+    "2026-02-13": [
+     {
+      "id": 1002,
+      "title": "Sukhamano Sukhamanu",
+      "img": "https://image.tmdb.org/t/p/original/qWUWRLCg7O2IcOYXebPL6OZe9H.jpg"
+     },
+     {
+      "id": 1003,
+      "title": "Pennum Porattum",
+      "img": "https://image.tmdb.org/t/p/original/3DNAh3pwPiBBD8FHwzLPUXqs45e.jpg"
+     },
+     {
+      "id": 1005,
+      "title": "Spa",
+      "img": "https://image.tmdb.org/t/p/original/clYMYFXcDZSpURJBvEDISnFUpSp.jpg"
+     }
+    ],
+    "2026-02-12": [
+     {
+      "id": 1004,
+      "title": "Koodothram",
+      "img": "https://image.tmdb.org/t/p/original/9BbeFxsV4lL58KtOXzgvs5Wo3E4.jpg"
+     },
+     {
+      "id": 1016,
+      "title": "Wuthering Heights",
+      "img": "https://image.tmdb.org/t/p/original/3YBce6dTh1D5oCMITXk2S5QhPt.jpg"
+     }
+    ],
+    "2026-02-14": [
+     {
+      "id": 1011,
+      "title": "Seetha Payanam",
+      "img": "https://image.tmdb.org/t/p/original/ubYKOsmUXdz4GQgVndBAze8G5UM.jpg"
+     }
+    ],
+    "2026-02-19": [
+     {
+      "id": 1013,
+      "title": "GOAT",
+      "img": "https://image.tmdb.org/t/p/original/loVFe4kTWQDLTZSwO5HvLBJDDk2.jpg"
+     }
+    ],
+    "2026-02-20": [
+     {
+      "id": 1014,
+      "title": "Do Deewane Seher Mein",
+      "img": "https://image.tmdb.org/t/p/original/p8yPjT9NAH87oD9TedclRaAW7RY.jpg"
+     },
+     {
+      "id": 1015,
+      "title": "Assi",
+      "img": "https://image.tmdb.org/t/p/original/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 4006297,
+     "sold": 20671,
+     "unsold": 79557,
+     "shows": 501,
+     "occ": 20.62,
+     "hf": "7",
+     "almost": "12",
+     "ff": "12",
+     "cumul": 4006297,
+     "lastUpdatedAt": "2026-02-26 20:43:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 1924113.6,
+     "sold": 11587,
+     "unsold": 61707,
+     "shows": 287,
+     "occ": 15.81,
+     "hf": "12",
+     "almost": "13",
+     "ff": "2",
+     "cumul": 5930410.6,
+     "lastUpdatedAt": "2026-02-26 14:43:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 1511202,
+     "sold": 10831,
+     "unsold": 57410,
+     "shows": 238,
+     "occ": 15.87,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 7441612.6,
+     "lastUpdatedAt": "2026-02-26 18:13:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 1324098,
+     "sold": 7337,
+     "unsold": 49693,
+     "shows": 304,
+     "occ": 12.87,
+     "hf": "1",
+     "almost": "5",
+     "ff": "1",
+     "cumul": 8765710.6,
+     "lastUpdatedAt": "2026-02-22 19:58:00"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 589503,
+     "sold": 4668,
+     "unsold": 46587,
+     "shows": 202,
+     "occ": 9.11,
+     "hf": "5",
+     "almost": "5",
+     "ff": "0",
+     "cumul": 9355213.6,
+     "lastUpdatedAt": "2026-02-19 21:08:00"
+    },
+    {
+     "label": "Kannur",
+     "gross": 578364.199999995,
+     "sold": 4034,
+     "unsold": 52551,
+     "shows": 206,
+     "occ": 7.13,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 9933577.799999995,
+     "lastUpdatedAt": "2026-02-20 19:23:00"
+    },
+    {
+     "label": "Kottayam",
+     "gross": 432175,
+     "sold": 2934,
+     "unsold": 41294,
+     "shows": 157,
+     "occ": 6.63,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 10365752.799999995,
+     "lastUpdatedAt": "2026-02-12 20:28:00"
+    },
+    {
+     "label": "Kollam",
+     "gross": 387073,
+     "sold": 2439,
+     "unsold": 57526,
+     "shows": 209,
+     "occ": 4.07,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 10752825.799999995,
+     "lastUpdatedAt": "2026-02-17 13:13:00"
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 325087,
+     "sold": 2402,
+     "unsold": 27381,
+     "shows": 145,
+     "occ": 8.07,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 11077912.799999995,
+     "lastUpdatedAt": "2026-02-22 21:23:00"
+    },
+    {
+     "label": "Pathanamthitta",
+     "gross": 297675,
+     "sold": 2114,
+     "unsold": 11928,
+     "shows": 43,
+     "occ": 15.05,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 11375587.799999995,
+     "lastUpdatedAt": "2026-02-11 20:53:00"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 285045,
+     "sold": 2416,
+     "unsold": 48804,
+     "shows": 206,
+     "occ": 4.72,
+     "hf": "0",
+     "almost": "1",
+     "ff": "1",
+     "cumul": 11660632.799999995,
+     "lastUpdatedAt": "2026-02-17 21:13:00"
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 187511,
+     "sold": 1344,
+     "unsold": 10994,
+     "shows": 71,
+     "occ": 10.89,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 11848143.799999995,
+     "lastUpdatedAt": "2026-02-18 13:28:00"
+    },
+    {
+     "label": "Idukki",
+     "gross": 133527,
+     "sold": 878,
+     "unsold": 14750,
+     "shows": 96,
+     "occ": 5.62,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 11981670.799999995,
+     "lastUpdatedAt": "2026-02-26 21:43:00"
+    },
+    {
+     "label": "Wayanad",
+     "gross": 7950,
+     "sold": 53,
+     "unsold": 3371,
+     "shows": 16,
+     "occ": 1.55,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 11989620.799999995,
+     "lastUpdatedAt": "2026-02-09 17:14:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 11989620.799999995,
+    "totalShows": 2681,
+    "totalSeats": 637261,
+    "totalSold": 73708,
+    "avgOcc": "11.6",
+    "totalDays": 14,
+    "totalHousefull": 31,
+    "totalAlmost": 42,
+    "totalFastFilling": 16,
+    "peakDay": {
+     "day": 1,
+     "gross": 4006297,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 4006297,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "14:7950:11989620.799999995"
+  }
+ }
+}

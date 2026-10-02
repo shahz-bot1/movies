@@ -1,0 +1,657 @@
+{
+ "id": 285,
+ "slug": "iratta",
+ "source_url": "https://fridaymatinee.in/boxoffice/iratta-285",
+ "captured_at": "2026-10-01T18:08:51.830513+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 285,
+    "title": "Iratta",
+    "img": "https://image.tmdb.org/t/p/original/1SEN2ymA9NrqBD8hbakBDFCO6r2.jpg",
+    "released": "2023-02-03",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt25406500",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "110 min",
+    "genre": "Drama, Thriller",
+    "plot": "After a cop is found dead, a policeman's investigation sparks a chilling search for the truth connected to his estranged twin and their fraught past.",
+    "released": "2023-02-03",
+    "director": "Rohith Krishnan",
+    "directorSlug": "rohith-krishnan",
+    "actors": [
+     "Joju George",
+     "Srikant Murali",
+     "Arya Salim",
+     "Manoj K U",
+     "Sabumon Abdusamad",
+     "Abhiram Radhakrishnan"
+    ],
+    "awards": "3 wins u0026 6 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.7",
+      "votes": 8846,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Joju George",
+     "character": "DYSP Pramod Kumar / ASI Vinod Kumar",
+     "slug": "joju-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jCObRH5idadzrTvyC9XnlnR8rXH.jpg"
+    },
+    {
+     "name": "Srikant Murali",
+     "character": "DYSP Satheesh Chandran",
+     "slug": "srikant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m82xCpAgdCzjG2D1qg1dmcj5Uhx.jpg"
+    },
+    {
+     "name": "Arya Salim",
+     "character": "SP",
+     "slug": "arya-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/upKUfyU0xYsGmNsqRtri1Xuf7nh.jpg"
+    },
+    {
+     "name": "Manoj K U",
+     "character": "ASI John",
+     "slug": "manoj-k-u",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ywBQocbo1K23rsDZG7MqBRH9qwH.jpg"
+    },
+    {
+     "name": "Sabumon Abdusamad",
+     "character": "SCPO Sandeep",
+     "slug": "sabumon-abdusamad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mI81jD0mykZh84e0k8X0TPb11Sj.jpg"
+    },
+    {
+     "name": "Abhiram Radhakrishnan",
+     "character": "CPO Bineesh",
+     "slug": "abhiram-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AjTvCsrPkiOLYblggiMlUAketU.jpg"
+    },
+    {
+     "name": "Sreeja Ajith",
+     "character": "Sreeja",
+     "slug": "sreeja-ajith",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cs3XJsMgPLzJp4HbTjAtUXU8ftO.jpg"
+    },
+    {
+     "name": "Anjali",
+     "character": "Malini",
+     "slug": "anjali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aTLJCkl6mBXnb5ekKQytd7zTfne.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rohith Krishnan",
+       "slug": "rohith-krishnan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rohith Krishnan",
+       "slug": "rohith-krishnan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vijay",
+       "slug": "vijay-11202"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Manu Antony",
+       "slug": "manu-antony"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Joju George",
+       "slug": "joju-george"
+      },
+      {
+       "name": "Martin Prakkat",
+       "slug": "martin-prakkat"
+      },
+      {
+       "name": "Sijo Vadakkan",
+       "slug": "sijo-vadakkan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Appu Pathu Pappu Production House",
+     "slug": "appu-pathu-pappu-production-house",
+     "logo": null
+    },
+    {
+     "name": "Martin Prakkat Films",
+     "slug": "martin-prakkat-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 12457365.780000001,
+    "totalShows": 2359,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1703881.2,
+     "date": "2023-02-03"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 2873045.85,
+     "date": "2023-02-05"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 89,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-02-03"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 285,
+    "title": "Iratta",
+    "img": "https://image.tmdb.org/t/p/original/1SEN2ymA9NrqBD8hbakBDFCO6r2.jpg",
+    "released": "2023-02-03",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt25406500",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "110 min",
+    "genre": "Drama, Thriller",
+    "plot": "After a cop is found dead, a policeman's investigation sparks a chilling search for the truth connected to his estranged twin and their fraught past.",
+    "released": "2023-02-03",
+    "director": "Rohith Krishnan",
+    "directorSlug": "rohith-krishnan",
+    "actors": [
+     "Joju George",
+     "Srikant Murali",
+     "Arya Salim",
+     "Manoj K U",
+     "Sabumon Abdusamad",
+     "Abhiram Radhakrishnan"
+    ],
+    "awards": "3 wins u0026 6 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.7",
+      "votes": 8846,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Joju George",
+     "character": "DYSP Pramod Kumar / ASI Vinod Kumar",
+     "slug": "joju-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jCObRH5idadzrTvyC9XnlnR8rXH.jpg"
+    },
+    {
+     "name": "Srikant Murali",
+     "character": "DYSP Satheesh Chandran",
+     "slug": "srikant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m82xCpAgdCzjG2D1qg1dmcj5Uhx.jpg"
+    },
+    {
+     "name": "Arya Salim",
+     "character": "SP",
+     "slug": "arya-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/upKUfyU0xYsGmNsqRtri1Xuf7nh.jpg"
+    },
+    {
+     "name": "Manoj K U",
+     "character": "ASI John",
+     "slug": "manoj-k-u",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ywBQocbo1K23rsDZG7MqBRH9qwH.jpg"
+    },
+    {
+     "name": "Sabumon Abdusamad",
+     "character": "SCPO Sandeep",
+     "slug": "sabumon-abdusamad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mI81jD0mykZh84e0k8X0TPb11Sj.jpg"
+    },
+    {
+     "name": "Abhiram Radhakrishnan",
+     "character": "CPO Bineesh",
+     "slug": "abhiram-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AjTvCsrPkiOLYblggiMlUAketU.jpg"
+    },
+    {
+     "name": "Sreeja Ajith",
+     "character": "Sreeja",
+     "slug": "sreeja-ajith",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cs3XJsMgPLzJp4HbTjAtUXU8ftO.jpg"
+    },
+    {
+     "name": "Anjali",
+     "character": "Malini",
+     "slug": "anjali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aTLJCkl6mBXnb5ekKQytd7zTfne.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rohith Krishnan",
+       "slug": "rohith-krishnan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rohith Krishnan",
+       "slug": "rohith-krishnan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vijay",
+       "slug": "vijay-11202"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Manu Antony",
+       "slug": "manu-antony"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Joju George",
+       "slug": "joju-george"
+      },
+      {
+       "name": "Martin Prakkat",
+       "slug": "martin-prakkat"
+      },
+      {
+       "name": "Sijo Vadakkan",
+       "slug": "sijo-vadakkan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Appu Pathu Pappu Production House",
+     "slug": "appu-pathu-pappu-production-house",
+     "logo": null
+    },
+    {
+     "name": "Martin Prakkat Films",
+     "slug": "martin-prakkat-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-02-03",
+     "gross": 10437155.78,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2064,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-02-10",
+     "gross": 2020210.0000000002,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 295,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 12457365.78,
+    "totalShows": 2359,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 10437155.78
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 10437155.78
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 89,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-02-03"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 285,
+    "title": "Iratta",
+    "img": "https://image.tmdb.org/t/p/original/1SEN2ymA9NrqBD8hbakBDFCO6r2.jpg",
+    "released": "2023-02-03",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt25406500",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "110 min",
+    "genre": "Drama, Thriller",
+    "plot": "After a cop is found dead, a policeman's investigation sparks a chilling search for the truth connected to his estranged twin and their fraught past.",
+    "released": "2023-02-03",
+    "director": "Rohith Krishnan",
+    "directorSlug": "rohith-krishnan",
+    "actors": [
+     "Joju George",
+     "Srikant Murali",
+     "Arya Salim",
+     "Manoj K U",
+     "Sabumon Abdusamad",
+     "Abhiram Radhakrishnan"
+    ],
+    "awards": "3 wins u0026 6 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.7",
+      "votes": 8846,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Joju George",
+     "character": "DYSP Pramod Kumar / ASI Vinod Kumar",
+     "slug": "joju-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jCObRH5idadzrTvyC9XnlnR8rXH.jpg"
+    },
+    {
+     "name": "Srikant Murali",
+     "character": "DYSP Satheesh Chandran",
+     "slug": "srikant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m82xCpAgdCzjG2D1qg1dmcj5Uhx.jpg"
+    },
+    {
+     "name": "Arya Salim",
+     "character": "SP",
+     "slug": "arya-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/upKUfyU0xYsGmNsqRtri1Xuf7nh.jpg"
+    },
+    {
+     "name": "Manoj K U",
+     "character": "ASI John",
+     "slug": "manoj-k-u",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ywBQocbo1K23rsDZG7MqBRH9qwH.jpg"
+    },
+    {
+     "name": "Sabumon Abdusamad",
+     "character": "SCPO Sandeep",
+     "slug": "sabumon-abdusamad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mI81jD0mykZh84e0k8X0TPb11Sj.jpg"
+    },
+    {
+     "name": "Abhiram Radhakrishnan",
+     "character": "CPO Bineesh",
+     "slug": "abhiram-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AjTvCsrPkiOLYblggiMlUAketU.jpg"
+    },
+    {
+     "name": "Sreeja Ajith",
+     "character": "Sreeja",
+     "slug": "sreeja-ajith",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cs3XJsMgPLzJp4HbTjAtUXU8ftO.jpg"
+    },
+    {
+     "name": "Anjali",
+     "character": "Malini",
+     "slug": "anjali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aTLJCkl6mBXnb5ekKQytd7zTfne.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rohith Krishnan",
+       "slug": "rohith-krishnan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rohith Krishnan",
+       "slug": "rohith-krishnan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vijay",
+       "slug": "vijay-11202"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Manu Antony",
+       "slug": "manu-antony"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Joju George",
+       "slug": "joju-george"
+      },
+      {
+       "name": "Martin Prakkat",
+       "slug": "martin-prakkat"
+      },
+      {
+       "name": "Sijo Vadakkan",
+       "slug": "sijo-vadakkan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Appu Pathu Pappu Production House",
+     "slug": "appu-pathu-pappu-production-house",
+     "logo": null
+    },
+    {
+     "name": "Martin Prakkat Films",
+     "slug": "martin-prakkat-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 12457365.78,
+    "totalShows": 2359,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 4128340,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4128340,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 89,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-02-03"
+   }
+  }
+ }
+}

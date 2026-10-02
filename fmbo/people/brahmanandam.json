@@ -1,0 +1,41 @@
+{
+ "slug": "brahmanandam",
+ "name": "Brahmanandam",
+ "source_url": "https://fridaymatinee.in/people/brahmanandam",
+ "captured_at": "2026-10-01T21:23:21.111677+00:00",
+ "person": {
+  "name": "Brahmanandam",
+  "photo": "https://image.tmdb.org/t/p/w185/zh6nWEIy3l1dsZA9EDuDezq867b.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 636,
+   "movie_slug": "game-changer",
+   "title": "Game Changer",
+   "year": 2025,
+   "kerala_gross": "₹62.3L"
+  },
+  {
+   "movie_id": 709,
+   "movie_slug": "kannappa",
+   "title": "Kannappa",
+   "year": 2025,
+   "kerala_gross": "₹64.0L"
+  },
+  {
+   "movie_id": 1149,
+   "movie_slug": "happy-be-happy",
+   "title": "Happy Be Happy",
+   "year": 2026,
+   "kerala_gross": "₹1.1 Cr"
+  }
+ ]
+}

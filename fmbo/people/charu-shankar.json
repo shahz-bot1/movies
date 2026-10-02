@@ -1,0 +1,41 @@
+{
+ "slug": "charu-shankar",
+ "name": "Charu Shankar",
+ "source_url": "https://fridaymatinee.in/people/charu-shankar",
+ "captured_at": "2026-10-01T21:32:53.956256+00:00",
+ "person": {
+  "name": "Charu Shankar",
+  "photo": "https://image.tmdb.org/t/p/w185/lh3RNfZoWSfNS4m5o0tQVVhCd3o.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 468,
+   "movie_slug": "animal",
+   "title": "Animal",
+   "year": 2023,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 976,
+   "movie_slug": "rahu-ketu",
+   "title": "Rahu Ketu",
+   "year": 2026,
+   "kerala_gross": "₹63K"
+  },
+  {
+   "movie_id": 1113,
+   "movie_slug": "chand-mera-dil",
+   "title": "Chand Mera Dil",
+   "year": 2026,
+   "kerala_gross": "₹4.2L"
+  }
+ ]
+}

@@ -1,0 +1,636 @@
+{
+ "id": 187,
+ "slug": "cobra",
+ "source_url": "https://fridaymatinee.in/boxoffice/cobra-187",
+ "captured_at": "2026-10-01T18:06:10.576520+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 187,
+    "title": "Cobra",
+    "img": "https://image.tmdb.org/t/p/original/rCN9c1NfxjfgMkTPFATOzUkNEyg.jpg",
+    "released": "2022-08-31",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt9466814",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "183 min",
+    "genre": "Action, Thriller",
+    "plot": "A genius mathematician doubles up as a hit man, assassinating people opposing a ruthless corporate behemoth. While he manages to stay ahead of the Interpol and the psychotic head of the corporation, who are after him, can he evade the mysterious hacker who is keen to unmask him?",
+    "released": "2022-08-31",
+    "director": "R. Ajay Gnanamuthu",
+    "directorSlug": "r-ajay-gnanamuthu",
+    "actors": [
+     "Vikram",
+     "Srinidhi Shetty",
+     "Irfan Pathan",
+     "K. S. Ravikumar",
+     "Roshan Mathew",
+     "Anandaraj"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 10261,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": "29%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vikram",
+     "character": "Mathiyazhagan / Kathirvelan",
+     "slug": "vikram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/o11aBHj4gFkTPgh6zsLHPq67b0b.jpg"
+    },
+    {
+     "name": "Srinidhi Shetty",
+     "character": "Bhavana Menon",
+     "slug": "srinidhi-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pTsixKDFS3n2xsvR6wDZ9J6jjfQ.jpg"
+    },
+    {
+     "name": "Irfan Pathan",
+     "character": "Aslan Yilmaz",
+     "slug": "irfan-pathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/792trPuoqQZkDJVxAE2sINxT1i8.jpg"
+    },
+    {
+     "name": "K. S. Ravikumar",
+     "character": "Nellaiappan",
+     "slug": "k-s-ravikumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8dUdM3sFvL4aXnDtLJJCkDMNEbo.jpg"
+    },
+    {
+     "name": "Roshan Mathew",
+     "character": "Rajiv Rishi",
+     "slug": "roshan-mathew",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9BzqaEdErGxF1EDELQEXpnRsqQu.jpg"
+    },
+    {
+     "name": "Anandaraj",
+     "character": "Orphanage Incharge",
+     "slug": "anandaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gZxzckfurzV0oQOME8b1ATNoMHD.jpg"
+    },
+    {
+     "name": "Robo Shankar",
+     "character": "Kumaresan",
+     "slug": "robo-shankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jjKdriPFYRaniZDlWlIw6ctdHqC.jpg"
+    },
+    {
+     "name": "Miya George",
+     "character": "Madhi and Kathir's mother",
+     "slug": "miya-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uO6GaN8qNLM5FRu6KGDeooVu6LL.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "R. Ajay Gnanamuthu",
+       "slug": "r-ajay-gnanamuthu"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "R. Ajay Gnanamuthu",
+       "slug": "r-ajay-gnanamuthu"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "A.R. Rahman",
+       "slug": "a-r-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Harish Kannan",
+       "slug": "harish-kannan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Bhuvan Srinivasan",
+       "slug": "bhuvan-srinivasan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Lalit Kumar",
+       "slug": "lalit-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Seven Screen Studios",
+     "slug": "seven-screen-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/f2fgAWy1lj4fXbxUAjVSmW9oLTV.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2758,
+      "name": "Goldmines Play Amazon Channel",
+      "logoPath": "/8uXd8H7oaWlLBszABEvF9jIQCYx.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 26954653.060000002,
+    "totalShows": 5405,
+    "totalDays": 12,
+    "openingDay": {
+     "day": 1,
+     "gross": 11444844.190000001,
+     "date": "2022-08-31"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 11444844.190000001,
+     "date": "2022-08-31"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 45,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-08-31"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 187,
+    "title": "Cobra",
+    "img": "https://image.tmdb.org/t/p/original/rCN9c1NfxjfgMkTPFATOzUkNEyg.jpg",
+    "released": "2022-08-31",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt9466814",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "183 min",
+    "genre": "Action, Thriller",
+    "plot": "A genius mathematician doubles up as a hit man, assassinating people opposing a ruthless corporate behemoth. While he manages to stay ahead of the Interpol and the psychotic head of the corporation, who are after him, can he evade the mysterious hacker who is keen to unmask him?",
+    "released": "2022-08-31",
+    "director": "R. Ajay Gnanamuthu",
+    "directorSlug": "r-ajay-gnanamuthu",
+    "actors": [
+     "Vikram",
+     "Srinidhi Shetty",
+     "Irfan Pathan",
+     "K. S. Ravikumar",
+     "Roshan Mathew",
+     "Anandaraj"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 10261,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": "29%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vikram",
+     "character": "Mathiyazhagan / Kathirvelan",
+     "slug": "vikram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/o11aBHj4gFkTPgh6zsLHPq67b0b.jpg"
+    },
+    {
+     "name": "Srinidhi Shetty",
+     "character": "Bhavana Menon",
+     "slug": "srinidhi-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pTsixKDFS3n2xsvR6wDZ9J6jjfQ.jpg"
+    },
+    {
+     "name": "Irfan Pathan",
+     "character": "Aslan Yilmaz",
+     "slug": "irfan-pathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/792trPuoqQZkDJVxAE2sINxT1i8.jpg"
+    },
+    {
+     "name": "K. S. Ravikumar",
+     "character": "Nellaiappan",
+     "slug": "k-s-ravikumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8dUdM3sFvL4aXnDtLJJCkDMNEbo.jpg"
+    },
+    {
+     "name": "Roshan Mathew",
+     "character": "Rajiv Rishi",
+     "slug": "roshan-mathew",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9BzqaEdErGxF1EDELQEXpnRsqQu.jpg"
+    },
+    {
+     "name": "Anandaraj",
+     "character": "Orphanage Incharge",
+     "slug": "anandaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gZxzckfurzV0oQOME8b1ATNoMHD.jpg"
+    },
+    {
+     "name": "Robo Shankar",
+     "character": "Kumaresan",
+     "slug": "robo-shankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jjKdriPFYRaniZDlWlIw6ctdHqC.jpg"
+    },
+    {
+     "name": "Miya George",
+     "character": "Madhi and Kathir's mother",
+     "slug": "miya-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uO6GaN8qNLM5FRu6KGDeooVu6LL.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "R. Ajay Gnanamuthu",
+       "slug": "r-ajay-gnanamuthu"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "R. Ajay Gnanamuthu",
+       "slug": "r-ajay-gnanamuthu"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "A.R. Rahman",
+       "slug": "a-r-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Harish Kannan",
+       "slug": "harish-kannan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Bhuvan Srinivasan",
+       "slug": "bhuvan-srinivasan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Lalit Kumar",
+       "slug": "lalit-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Seven Screen Studios",
+     "slug": "seven-screen-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/f2fgAWy1lj4fXbxUAjVSmW9oLTV.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2758,
+      "name": "Goldmines Play Amazon Channel",
+      "logoPath": "/8uXd8H7oaWlLBszABEvF9jIQCYx.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-08-31",
+     "gross": 25489217.599999998,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4855,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-09-07",
+     "gross": 1465435.46,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 550,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 26954653.06,
+    "totalShows": 5405,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 25489217.599999998
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 25489217.599999998
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 45,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-08-31"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 187,
+    "title": "Cobra",
+    "img": "https://image.tmdb.org/t/p/original/rCN9c1NfxjfgMkTPFATOzUkNEyg.jpg",
+    "released": "2022-08-31",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt9466814",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "183 min",
+    "genre": "Action, Thriller",
+    "plot": "A genius mathematician doubles up as a hit man, assassinating people opposing a ruthless corporate behemoth. While he manages to stay ahead of the Interpol and the psychotic head of the corporation, who are after him, can he evade the mysterious hacker who is keen to unmask him?",
+    "released": "2022-08-31",
+    "director": "R. Ajay Gnanamuthu",
+    "directorSlug": "r-ajay-gnanamuthu",
+    "actors": [
+     "Vikram",
+     "Srinidhi Shetty",
+     "Irfan Pathan",
+     "K. S. Ravikumar",
+     "Roshan Mathew",
+     "Anandaraj"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 10261,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": "29%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vikram",
+     "character": "Mathiyazhagan / Kathirvelan",
+     "slug": "vikram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/o11aBHj4gFkTPgh6zsLHPq67b0b.jpg"
+    },
+    {
+     "name": "Srinidhi Shetty",
+     "character": "Bhavana Menon",
+     "slug": "srinidhi-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pTsixKDFS3n2xsvR6wDZ9J6jjfQ.jpg"
+    },
+    {
+     "name": "Irfan Pathan",
+     "character": "Aslan Yilmaz",
+     "slug": "irfan-pathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/792trPuoqQZkDJVxAE2sINxT1i8.jpg"
+    },
+    {
+     "name": "K. S. Ravikumar",
+     "character": "Nellaiappan",
+     "slug": "k-s-ravikumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8dUdM3sFvL4aXnDtLJJCkDMNEbo.jpg"
+    },
+    {
+     "name": "Roshan Mathew",
+     "character": "Rajiv Rishi",
+     "slug": "roshan-mathew",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9BzqaEdErGxF1EDELQEXpnRsqQu.jpg"
+    },
+    {
+     "name": "Anandaraj",
+     "character": "Orphanage Incharge",
+     "slug": "anandaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gZxzckfurzV0oQOME8b1ATNoMHD.jpg"
+    },
+    {
+     "name": "Robo Shankar",
+     "character": "Kumaresan",
+     "slug": "robo-shankar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jjKdriPFYRaniZDlWlIw6ctdHqC.jpg"
+    },
+    {
+     "name": "Miya George",
+     "character": "Madhi and Kathir's mother",
+     "slug": "miya-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uO6GaN8qNLM5FRu6KGDeooVu6LL.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "R. Ajay Gnanamuthu",
+       "slug": "r-ajay-gnanamuthu"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "R. Ajay Gnanamuthu",
+       "slug": "r-ajay-gnanamuthu"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "A.R. Rahman",
+       "slug": "a-r-rahman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Harish Kannan",
+       "slug": "harish-kannan"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Bhuvan Srinivasan",
+       "slug": "bhuvan-srinivasan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Lalit Kumar",
+       "slug": "lalit-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Seven Screen Studios",
+     "slug": "seven-screen-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/f2fgAWy1lj4fXbxUAjVSmW9oLTV.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2758,
+      "name": "Goldmines Play Amazon Channel",
+      "logoPath": "/8uXd8H7oaWlLBszABEvF9jIQCYx.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 26954653.06,
+    "totalShows": 5405,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 5632262,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5632262,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 45,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-08-31"
+   }
+  }
+ }
+}

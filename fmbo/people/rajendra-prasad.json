@@ -1,0 +1,48 @@
+{
+ "slug": "rajendra-prasad",
+ "name": "Rajendra Prasad",
+ "source_url": "https://fridaymatinee.in/people/rajendra-prasad",
+ "captured_at": "2026-10-02T08:32:04.053090+00:00",
+ "person": {
+  "name": "Rajendra Prasad",
+  "photo": "https://image.tmdb.org/t/p/w185/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 54,
+   "movie_slug": "angu-vaikuntapurathu",
+   "title": "Angu Vaikuntapurathu",
+   "year": 2020,
+   "kerala_gross": "₹36.2L"
+  },
+  {
+   "movie_id": 53,
+   "movie_slug": "sarileru-neekevvaru",
+   "title": "Sarileru Neekevvaru",
+   "year": 2020,
+   "kerala_gross": "₹7.9L"
+  },
+  {
+   "movie_id": 527,
+   "movie_slug": "kalki-2898-ad",
+   "title": "Kalki 2898 AD",
+   "year": 2024,
+   "kerala_gross": "₹26.7 Cr"
+  },
+  {
+   "movie_id": 796,
+   "movie_slug": "paradha",
+   "title": "Paradha",
+   "year": 2025,
+   "kerala_gross": "₹5.1L"
+  }
+ ]
+}

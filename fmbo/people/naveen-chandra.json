@@ -1,0 +1,41 @@
+{
+ "slug": "naveen-chandra",
+ "name": "Naveen Chandra",
+ "source_url": "https://fridaymatinee.in/people/naveen-chandra",
+ "captured_at": "2026-10-02T00:54:38.941452+00:00",
+ "person": {
+  "name": "Naveen Chandra",
+  "photo": "https://image.tmdb.org/t/p/w185/6iEhNOOqRTOQ0JFSiv6agtqvwx9.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 453,
+   "movie_slug": "jigarthanda-double-x",
+   "title": "Jigarthanda Double X",
+   "year": 2023,
+   "kerala_gross": "₹2.1 Cr"
+  },
+  {
+   "movie_id": 636,
+   "movie_slug": "game-changer",
+   "title": "Game Changer",
+   "year": 2025,
+   "kerala_gross": "₹62.3L"
+  },
+  {
+   "movie_id": 952,
+   "movie_slug": "mark",
+   "title": "Mark",
+   "year": 2025,
+   "kerala_gross": "₹21K"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "karen-gillan",
+ "name": "Karen Gillan",
+ "source_url": "https://fridaymatinee.in/people/karen-gillan",
+ "captured_at": "2026-10-01T23:40:33.206157+00:00",
+ "person": {
+  "name": "Karen Gillan",
+  "photo": "https://image.tmdb.org/t/p/w185/qYx8CflXVq48nGKX1IJsDrAj0sT.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 158,
+   "movie_slug": "thor-love-and-thunder",
+   "title": "Thor Love and Thunder",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 372,
+   "movie_slug": "guardians-of-the-galaxy-volume-3",
+   "title": "Guardians of the Galaxy Volume 3",
+   "year": 2023,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 1288,
+   "movie_slug": "avengers-endgame-encore",
+   "title": "Avengers Endgame: Encore",
+   "year": 2026,
+   "kerala_gross": "₹2.3 Cr"
+  }
+ ]
+}

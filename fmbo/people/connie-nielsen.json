@@ -1,0 +1,41 @@
+{
+ "slug": "connie-nielsen",
+ "name": "Connie Nielsen",
+ "source_url": "https://fridaymatinee.in/people/connie-nielsen",
+ "captured_at": "2026-10-01T21:40:37.286208+00:00",
+ "person": {
+  "name": "Connie Nielsen",
+  "photo": "https://image.tmdb.org/t/p/w185/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 67,
+   "movie_slug": "wonder-woman-1984",
+   "title": "Wonder Woman 1984",
+   "year": 2021,
+   "kerala_gross": "₹1.9L"
+  },
+  {
+   "movie_id": 568,
+   "movie_slug": "gladiator-ii",
+   "title": "Gladiator II",
+   "year": 2024,
+   "kerala_gross": "₹32.0L"
+  },
+  {
+   "movie_id": 742,
+   "movie_slug": "nobody-2",
+   "title": "Nobody 2",
+   "year": 2025,
+   "kerala_gross": "₹17.2L"
+  }
+ ]
+}

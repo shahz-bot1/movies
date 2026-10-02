@@ -1,0 +1,81 @@
+{
+ "slug": "appu-n-bhattathiri",
+ "name": "Appu N. Bhattathiri",
+ "source_url": "https://fridaymatinee.in/people/appu-n-bhattathiri",
+ "captured_at": "2026-10-01T20:49:52.888843+00:00",
+ "person": {
+  "name": "Appu N. Bhattathiri",
+  "photo": "https://image.tmdb.org/t/p/w185/e50XC9384Cf2DBK2zC6AG6nxAus.jpg",
+  "role": "Editor and director"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 8
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 57,
+   "movie_slug": "anveshanam",
+   "title": "Anveshanam",
+   "year": 2020,
+   "kerala_gross": "₹52.9L"
+  },
+  {
+   "movie_id": 58,
+   "movie_slug": "mariyam-vannu-vilakkoothi",
+   "title": "Mariyam Vannu Vilakkoothi",
+   "year": 2020,
+   "kerala_gross": "₹23.7L"
+  },
+  {
+   "movie_id": 78,
+   "movie_slug": "anugraheethan-antony",
+   "title": "Anugraheethan Antony",
+   "year": 2021,
+   "kerala_gross": "₹1.3 Cr"
+  },
+  {
+   "movie_id": 83,
+   "movie_slug": "nizhal",
+   "title": "Nizhal",
+   "year": 2021,
+   "kerala_gross": "₹54.2L"
+  },
+  {
+   "movie_id": 198,
+   "movie_slug": "ottu",
+   "title": "Ottu",
+   "year": 2022,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 279,
+   "movie_slug": "ayisha",
+   "title": "Ayisha",
+   "year": 2023,
+   "kerala_gross": "₹60.7L"
+  },
+  {
+   "movie_id": 397,
+   "movie_slug": "madhura-manohara-moham",
+   "title": "Madhura Manohara Moham",
+   "year": 2023,
+   "kerala_gross": "₹4.4 Cr"
+  },
+  {
+   "movie_id": 1002,
+   "movie_slug": "sukhamano-sukhamanu",
+   "title": "Sukhamano Sukhamanu",
+   "year": 2026,
+   "kerala_gross": "₹70.9L"
+  }
+ ]
+}

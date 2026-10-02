@@ -1,0 +1,46 @@
+{
+ "slug": "raju-murugan",
+ "name": "Raju Murugan",
+ "source_url": "https://fridaymatinee.in/people/raju-murugan",
+ "captured_at": "2026-10-02T08:35:20.807149+00:00",
+ "person": {
+  "name": "Raju Murugan",
+  "photo": null,
+  "role": "Writer and director"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 35,
+   "movie_slug": "adithya-varma",
+   "title": "Adithya Varma",
+   "year": 2019,
+   "kerala_gross": "₹10.1L"
+  },
+  {
+   "movie_id": 454,
+   "movie_slug": "japan",
+   "title": "Japan",
+   "year": 2023,
+   "kerala_gross": "₹17.8L"
+  },
+  {
+   "movie_id": 1009,
+   "movie_slug": "my-lord",
+   "title": "My Lord",
+   "year": 2026,
+   "kerala_gross": "₹4.5L"
+  }
+ ]
+}

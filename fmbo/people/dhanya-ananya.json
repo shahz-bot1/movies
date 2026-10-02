@@ -1,0 +1,62 @@
+{
+ "slug": "dhanya-ananya",
+ "name": "Dhanya Ananya",
+ "source_url": "https://fridaymatinee.in/people/dhanya-ananya",
+ "captured_at": "2026-10-01T21:59:05.824136+00:00",
+ "person": {
+  "name": "Dhanya Ananya",
+  "photo": "https://image.tmdb.org/t/p/w185/hIJF85bDu5hi5GENM54S8nWYRWo.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 28,
+   "movie_slug": "nalpathiyonnu",
+   "title": "Nalpathiyonnu",
+   "year": 2019,
+   "kerala_gross": "₹78.4L"
+  },
+  {
+   "movie_id": 60,
+   "movie_slug": "ayyappanum-koshiyum",
+   "title": "Ayyappanum Koshiyum",
+   "year": 2020,
+   "kerala_gross": "₹7.3 Cr"
+  },
+  {
+   "movie_id": 70,
+   "movie_slug": "operation-java",
+   "title": "Operation Java",
+   "year": 2021,
+   "kerala_gross": "₹86.0L"
+  },
+  {
+   "movie_id": 134,
+   "movie_slug": "jana-gana-mana",
+   "title": "Jana Gana Mana",
+   "year": 2022,
+   "kerala_gross": "₹19.6 Cr"
+  },
+  {
+   "movie_id": 248,
+   "movie_slug": "saudi-vellakka",
+   "title": "Saudi Vellakka",
+   "year": 2022,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 653,
+   "movie_slug": "kalamkaval",
+   "title": "Kalamkaval",
+   "year": 2025,
+   "kerala_gross": "₹31.9 Cr"
+  }
+ ]
+}

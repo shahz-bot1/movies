@@ -1,0 +1,41 @@
+{
+ "slug": "bill-pope",
+ "name": "Bill Pope",
+ "source_url": "https://fridaymatinee.in/people/bill-pope",
+ "captured_at": "2026-10-01T21:18:34.891809+00:00",
+ "person": {
+  "name": "Bill Pope",
+  "photo": "https://image.tmdb.org/t/p/w185/kpakvuSrk1D9D8WMt5SOi4Rs2EV.jpg",
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 298,
+   "movie_slug": "ant-man-and-the-wasp-quantumania",
+   "title": "Ant-Man and the Wasp Quantumania",
+   "year": 2023,
+   "kerala_gross": "₹93.4L"
+  },
+  {
+   "movie_id": 725,
+   "movie_slug": "how-to-train-your-dragon",
+   "title": "How to Train Your Dragon",
+   "year": 2025,
+   "kerala_gross": "₹87.2L"
+  },
+  {
+   "movie_id": 992,
+   "movie_slug": "send-help",
+   "title": "Send Help",
+   "year": 2026,
+   "kerala_gross": "₹5.7L"
+  }
+ ]
+}

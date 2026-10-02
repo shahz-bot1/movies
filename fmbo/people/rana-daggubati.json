@@ -1,0 +1,88 @@
+{
+ "slug": "rana-daggubati",
+ "name": "Rana Daggubati",
+ "source_url": "https://fridaymatinee.in/people/rana-daggubati",
+ "captured_at": "2026-10-02T08:40:03.534054+00:00",
+ "person": {
+  "name": "Rana Daggubati",
+  "photo": "https://image.tmdb.org/t/p/w185/q0Rw0e9RogMD0zJ0Heq0GotDYoy.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 9
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 20,
+   "movie_slug": "housefull-4",
+   "title": "Housefull 4",
+   "year": 2019,
+   "kerala_gross": "₹23.7L"
+  },
+  {
+   "movie_id": 42,
+   "movie_slug": "enai-noki-paayum-thota",
+   "title": "Enai Noki Paayum Thota",
+   "year": 2019,
+   "kerala_gross": "₹11.3L"
+  },
+  {
+   "movie_id": 582,
+   "movie_slug": "vettaiyan",
+   "title": "Vettaiyan",
+   "year": 2024,
+   "kerala_gross": "₹13.1 Cr"
+  },
+  {
+   "movie_id": 749,
+   "movie_slug": "yeh-jawaani-hai-deewani",
+   "title": "Yeh Jawaani Hai Deewani",
+   "year": 2025,
+   "kerala_gross": "₹70.2L"
+  },
+  {
+   "movie_id": 717,
+   "movie_slug": "3bhk",
+   "title": "3BHK",
+   "year": 2025,
+   "kerala_gross": "₹25.2L"
+  },
+  {
+   "movie_id": 816,
+   "movie_slug": "mirai",
+   "title": "Mirai",
+   "year": 2025,
+   "kerala_gross": "₹35.9L"
+  },
+  {
+   "movie_id": 892,
+   "movie_slug": "baahubali-the-epic",
+   "title": "Baahubali: The Epic",
+   "year": 2025,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 663,
+   "movie_slug": "kaantha",
+   "title": "Kaantha",
+   "year": 2025,
+   "kerala_gross": "₹3.6 Cr"
+  },
+  {
+   "movie_id": 962,
+   "movie_slug": "parasakthi",
+   "title": "Parasakthi",
+   "year": 2026,
+   "kerala_gross": "₹1.2 Cr"
+  }
+ ]
+}

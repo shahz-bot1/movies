@@ -1,0 +1,62 @@
+{
+ "slug": "hans-zimmer",
+ "name": "Hans Zimmer",
+ "source_url": "https://fridaymatinee.in/people/hans-zimmer",
+ "captured_at": "2026-10-01T22:39:29.121955+00:00",
+ "person": {
+  "name": "Hans Zimmer",
+  "photo": "https://image.tmdb.org/t/p/w185/tpQnDeHY15szIXvpnhlprufz4d.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 67,
+   "movie_slug": "wonder-woman-1984",
+   "title": "Wonder Woman 1984",
+   "year": 2021,
+   "kerala_gross": "₹1.9L"
+  },
+  {
+   "movie_id": 141,
+   "movie_slug": "top-gun-maverick",
+   "title": "Top Gun Maverick",
+   "year": 2022,
+   "kerala_gross": "₹93.9L"
+  },
+  {
+   "movie_id": 498,
+   "movie_slug": "dune-part-two",
+   "title": "Dune: Part Two",
+   "year": 2024,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 642,
+   "movie_slug": "interstellar",
+   "title": "Interstellar",
+   "year": 2025,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 697,
+   "movie_slug": "f1-the-movie",
+   "title": "F1 The Movie",
+   "year": 2025,
+   "kerala_gross": "₹8.2 Cr"
+  },
+  {
+   "movie_id": 778,
+   "movie_slug": "dune-part-three",
+   "title": "Dune: Part Three",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

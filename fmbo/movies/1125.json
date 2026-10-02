@@ -1,0 +1,810 @@
+{
+ "id": 1125,
+ "slug": "tuner",
+ "source_url": "https://fridaymatinee.in/boxoffice/tuner-1125",
+ "captured_at": "2026-10-01T19:48:09.568614+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1125,
+    "title": "Tuner",
+    "img": "https://image.tmdb.org/t/p/original/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+    "released": "2026-05-21",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33296751",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "107 min",
+    "genre": "Crime, Thriller",
+    "plot": "A talented piano tuner's life is turned upside down when he discovers that his meticulous skills for tuning pianos can equally be applied to cracking safes.",
+    "released": "2026-05-21",
+    "director": "Daniel Roher",
+    "directorSlug": "daniel-roher",
+    "actors": [
+     "Leo Woodall",
+     "Dustin Hoffman",
+     "Havana Rose Liu",
+     "Lior Raz",
+     "Tovah Feldshuh",
+     "Jean Reno"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 31565,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 456,
+      "updatedAt": "2026-09-24T10:11:19.000Z"
+     },
+     "rt": "94%",
+     "metascore": 75,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Leo Woodall",
+     "character": "Niki White",
+     "slug": "leo-woodall",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yv2JjEVm1jLR44ynkyYfhWP4I6r.jpg"
+    },
+    {
+     "name": "Dustin Hoffman",
+     "character": "Harry Horowitz",
+     "slug": "dustin-hoffman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
+    },
+    {
+     "name": "Havana Rose Liu",
+     "character": "Ruthie Waymon",
+     "slug": "havana-rose-liu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lqdialbfdj5l4KYMSlL4aausMaV.jpg"
+    },
+    {
+     "name": "Lior Raz",
+     "character": "Uri",
+     "slug": "lior-raz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bl3KLFUQ4Q0zC9lCU4qP1Jf4qHS.jpg"
+    },
+    {
+     "name": "Tovah Feldshuh",
+     "character": "Marla Horowitz",
+     "slug": "tovah-feldshuh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c0VOkTP88UneW37YOBebtBhMHYF.jpg"
+    },
+    {
+     "name": "Jean Reno",
+     "character": "Marius Maissner",
+     "slug": "jean-reno",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mw0EZJYz3kiFq9fNxsML773gotF.jpg"
+    },
+    {
+     "name": "Nissan Sakira",
+     "character": "Benny",
+     "slug": "nissan-sakira",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hGr4YLXaNZ6nWOOQ9Wih6QNqOU.jpg"
+    },
+    {
+     "name": "Gil Cohen",
+     "character": "Yoni",
+     "slug": "gil-cohen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lHZi4fChatE5ul54xaAAWppQ8sR.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Daniel Roher",
+       "slug": "daniel-roher"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Daniel Roher",
+       "slug": "daniel-roher"
+      },
+      {
+       "name": "Robert Ramsey",
+       "slug": "robert-ramsey"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Will Bates",
+       "slug": "will-bates"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Lowell A. Meyer",
+       "slug": "lowell-a-meyer"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Greg O'Bryant",
+       "slug": "greg-o-bryant"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "JoAnne Sellar",
+       "slug": "joanne-sellar"
+      },
+      {
+       "name": "Lila Yacoub",
+       "slug": "lila-yacoub"
+      },
+      {
+       "name": "Teddy Schwarzman",
+       "slug": "teddy-schwarzman"
+      },
+      {
+       "name": "Michael Heimler",
+       "slug": "michael-heimler"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Black Bear Pictures",
+     "slug": "black-bear-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/v37N1mFeXNQfvPankg3feBhVvM7.png"
+    },
+    {
+     "name": "Elevation Pictures",
+     "slug": "elevation-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/cLEXKtCpRQs0meQwT7HK6u3QmRH.png"
+    },
+    {
+     "name": "English Breakfast Productions",
+     "slug": "english-breakfast-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-05-29": [
+     {
+      "id": 1123,
+      "title": "Return of the Jungle",
+      "img": "https://image.tmdb.org/t/p/original/kXxSc3cG5wAB2wolqX8j0QKNwjD.jpg"
+     },
+     {
+      "id": 1124,
+      "title": "The Great Grand Superhero",
+      "img": "https://image.tmdb.org/t/p/original/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-05-29",
+     "gross": 8820,
+     "sold": 38,
+     "unsold": 287,
+     "shows": 2,
+     "occ": 11.69,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 8820,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-05-30",
+     "gross": 11920,
+     "sold": 51,
+     "unsold": 276,
+     "shows": 2,
+     "occ": 15.6,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 20740,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-05-31",
+     "gross": 10870,
+     "sold": 44,
+     "unsold": 260,
+     "shows": 2,
+     "occ": 14.47,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 31610,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-06-01",
+     "gross": 3680,
+     "sold": 23,
+     "unsold": 93,
+     "shows": 1,
+     "occ": 19.83,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 35290,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-06-02",
+     "gross": 3000,
+     "sold": 25,
+     "unsold": 91,
+     "shows": 1,
+     "occ": 21.55,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 38290,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-06-03",
+     "gross": 3040,
+     "sold": 19,
+     "unsold": 97,
+     "shows": 1,
+     "occ": 16.38,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 41330,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 41330,
+    "totalShows": 9,
+    "totalSeats": 1304,
+    "totalSold": 200,
+    "avgOcc": "15.3",
+    "totalDays": 6,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 2,
+     "gross": 11920,
+     "date": "2026-05-30"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 8820,
+     "date": "2026-05-29"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "6:3040:41330"
+  },
+  "week": {
+   "movie": {
+    "id": 1125,
+    "title": "Tuner",
+    "img": "https://image.tmdb.org/t/p/original/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+    "released": "2026-05-21",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33296751",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "107 min",
+    "genre": "Crime, Thriller",
+    "plot": "A talented piano tuner's life is turned upside down when he discovers that his meticulous skills for tuning pianos can equally be applied to cracking safes.",
+    "released": "2026-05-21",
+    "director": "Daniel Roher",
+    "directorSlug": "daniel-roher",
+    "actors": [
+     "Leo Woodall",
+     "Dustin Hoffman",
+     "Havana Rose Liu",
+     "Lior Raz",
+     "Tovah Feldshuh",
+     "Jean Reno"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 31565,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 456,
+      "updatedAt": "2026-09-24T10:11:19.000Z"
+     },
+     "rt": "94%",
+     "metascore": 75,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Leo Woodall",
+     "character": "Niki White",
+     "slug": "leo-woodall",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yv2JjEVm1jLR44ynkyYfhWP4I6r.jpg"
+    },
+    {
+     "name": "Dustin Hoffman",
+     "character": "Harry Horowitz",
+     "slug": "dustin-hoffman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
+    },
+    {
+     "name": "Havana Rose Liu",
+     "character": "Ruthie Waymon",
+     "slug": "havana-rose-liu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lqdialbfdj5l4KYMSlL4aausMaV.jpg"
+    },
+    {
+     "name": "Lior Raz",
+     "character": "Uri",
+     "slug": "lior-raz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bl3KLFUQ4Q0zC9lCU4qP1Jf4qHS.jpg"
+    },
+    {
+     "name": "Tovah Feldshuh",
+     "character": "Marla Horowitz",
+     "slug": "tovah-feldshuh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c0VOkTP88UneW37YOBebtBhMHYF.jpg"
+    },
+    {
+     "name": "Jean Reno",
+     "character": "Marius Maissner",
+     "slug": "jean-reno",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mw0EZJYz3kiFq9fNxsML773gotF.jpg"
+    },
+    {
+     "name": "Nissan Sakira",
+     "character": "Benny",
+     "slug": "nissan-sakira",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hGr4YLXaNZ6nWOOQ9Wih6QNqOU.jpg"
+    },
+    {
+     "name": "Gil Cohen",
+     "character": "Yoni",
+     "slug": "gil-cohen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lHZi4fChatE5ul54xaAAWppQ8sR.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Daniel Roher",
+       "slug": "daniel-roher"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Daniel Roher",
+       "slug": "daniel-roher"
+      },
+      {
+       "name": "Robert Ramsey",
+       "slug": "robert-ramsey"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Will Bates",
+       "slug": "will-bates"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Lowell A. Meyer",
+       "slug": "lowell-a-meyer"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Greg O'Bryant",
+       "slug": "greg-o-bryant"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "JoAnne Sellar",
+       "slug": "joanne-sellar"
+      },
+      {
+       "name": "Lila Yacoub",
+       "slug": "lila-yacoub"
+      },
+      {
+       "name": "Teddy Schwarzman",
+       "slug": "teddy-schwarzman"
+      },
+      {
+       "name": "Michael Heimler",
+       "slug": "michael-heimler"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Black Bear Pictures",
+     "slug": "black-bear-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/v37N1mFeXNQfvPankg3feBhVvM7.png"
+    },
+    {
+     "name": "Elevation Pictures",
+     "slug": "elevation-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/cLEXKtCpRQs0meQwT7HK6u3QmRH.png"
+    },
+    {
+     "name": "English Breakfast Productions",
+     "slug": "english-breakfast-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-05-29": [
+     {
+      "id": 1123,
+      "title": "Return of the Jungle",
+      "img": "https://image.tmdb.org/t/p/original/kXxSc3cG5wAB2wolqX8j0QKNwjD.jpg"
+     },
+     {
+      "id": 1124,
+      "title": "The Great Grand Superhero",
+      "img": "https://image.tmdb.org/t/p/original/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-05-29",
+     "gross": 41330,
+     "sold": 200,
+     "unsold": 1104,
+     "shows": 9,
+     "occ": 15.34,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 41330,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 41330,
+    "totalShows": 9,
+    "totalSeats": 1304,
+    "totalSold": 200,
+    "avgOcc": "15.3",
+    "totalDays": 1,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 41330
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 41330
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "1:41330:41330"
+  },
+  "district": {
+   "movie": {
+    "id": 1125,
+    "title": "Tuner",
+    "img": "https://image.tmdb.org/t/p/original/kyM60vcgf7lfofmZB4F5Rj7OrHW.jpg",
+    "released": "2026-05-21",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33296751",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "107 min",
+    "genre": "Crime, Thriller",
+    "plot": "A talented piano tuner's life is turned upside down when he discovers that his meticulous skills for tuning pianos can equally be applied to cracking safes.",
+    "released": "2026-05-21",
+    "director": "Daniel Roher",
+    "directorSlug": "daniel-roher",
+    "actors": [
+     "Leo Woodall",
+     "Dustin Hoffman",
+     "Havana Rose Liu",
+     "Lior Raz",
+     "Tovah Feldshuh",
+     "Jean Reno"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.2",
+      "votes": 31565,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 456,
+      "updatedAt": "2026-09-24T10:11:19.000Z"
+     },
+     "rt": "94%",
+     "metascore": 75,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Leo Woodall",
+     "character": "Niki White",
+     "slug": "leo-woodall",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yv2JjEVm1jLR44ynkyYfhWP4I6r.jpg"
+    },
+    {
+     "name": "Dustin Hoffman",
+     "character": "Harry Horowitz",
+     "slug": "dustin-hoffman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yFjTzJHE6AFbwQifOlnNDzmiwlq.jpg"
+    },
+    {
+     "name": "Havana Rose Liu",
+     "character": "Ruthie Waymon",
+     "slug": "havana-rose-liu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lqdialbfdj5l4KYMSlL4aausMaV.jpg"
+    },
+    {
+     "name": "Lior Raz",
+     "character": "Uri",
+     "slug": "lior-raz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bl3KLFUQ4Q0zC9lCU4qP1Jf4qHS.jpg"
+    },
+    {
+     "name": "Tovah Feldshuh",
+     "character": "Marla Horowitz",
+     "slug": "tovah-feldshuh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c0VOkTP88UneW37YOBebtBhMHYF.jpg"
+    },
+    {
+     "name": "Jean Reno",
+     "character": "Marius Maissner",
+     "slug": "jean-reno",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mw0EZJYz3kiFq9fNxsML773gotF.jpg"
+    },
+    {
+     "name": "Nissan Sakira",
+     "character": "Benny",
+     "slug": "nissan-sakira",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hGr4YLXaNZ6nWOOQ9Wih6QNqOU.jpg"
+    },
+    {
+     "name": "Gil Cohen",
+     "character": "Yoni",
+     "slug": "gil-cohen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lHZi4fChatE5ul54xaAAWppQ8sR.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Daniel Roher",
+       "slug": "daniel-roher"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Daniel Roher",
+       "slug": "daniel-roher"
+      },
+      {
+       "name": "Robert Ramsey",
+       "slug": "robert-ramsey"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Will Bates",
+       "slug": "will-bates"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Lowell A. Meyer",
+       "slug": "lowell-a-meyer"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Greg O'Bryant",
+       "slug": "greg-o-bryant"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "JoAnne Sellar",
+       "slug": "joanne-sellar"
+      },
+      {
+       "name": "Lila Yacoub",
+       "slug": "lila-yacoub"
+      },
+      {
+       "name": "Teddy Schwarzman",
+       "slug": "teddy-schwarzman"
+      },
+      {
+       "name": "Michael Heimler",
+       "slug": "michael-heimler"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Black Bear Pictures",
+     "slug": "black-bear-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/v37N1mFeXNQfvPankg3feBhVvM7.png"
+    },
+    {
+     "name": "Elevation Pictures",
+     "slug": "elevation-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/cLEXKtCpRQs0meQwT7HK6u3QmRH.png"
+    },
+    {
+     "name": "English Breakfast Productions",
+     "slug": "english-breakfast-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-05-29": [
+     {
+      "id": 1123,
+      "title": "Return of the Jungle",
+      "img": "https://image.tmdb.org/t/p/original/kXxSc3cG5wAB2wolqX8j0QKNwjD.jpg"
+     },
+     {
+      "id": 1124,
+      "title": "The Great Grand Superhero",
+      "img": "https://image.tmdb.org/t/p/original/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 28930,
+     "sold": 150,
+     "unsold": 810,
+     "shows": 6,
+     "occ": 15.62,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 28930,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Trivandrum",
+     "gross": 12400,
+     "sold": 50,
+     "unsold": 294,
+     "shows": 3,
+     "occ": 14.53,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 41330,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 41330,
+    "totalShows": 9,
+    "totalSeats": 1304,
+    "totalSold": 200,
+    "avgOcc": "15.3",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 28930,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 28930,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "2:12400:41330"
+  }
+ }
+}

@@ -1,0 +1,925 @@
+{
+ "id": 1320,
+ "slug": "the-vvaan",
+ "source_url": "https://fridaymatinee.in/boxoffice/the-vvaan-1320",
+ "captured_at": "2026-10-01T19:58:46.192795+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1320,
+    "title": "The Vvaan",
+    "img": "https://image.tmdb.org/t/p/original/n0TSVS0saO1bJy8DAssE43G7pBE.jpg",
+    "released": "2026-09-25",
+    "language": "Hindi",
+    "live": "on",
+    "pretrack": "off",
+    "imdbId": "tt34498564",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": "Action, Adventure, Thriller",
+    "plot": "A rational urban man defies his ancestral forbidden forest u0026 awakens a divine goddess, only to realise that some powers exist beyond logic u0026 he must rise as the village’s only saviour to protect his people from annihilation.",
+    "released": "2026-09-25",
+    "director": "Deepak Kumar Mishra",
+    "directorSlug": "deepak-kumar-mishra",
+    "actors": [
+     "Sidharth Malhotra",
+     "Tamannaah Bhatia",
+     "Maniesh Paul",
+     "Sunil Grover",
+     "Shweta Tiwari",
+     "Anup Soni"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 4905,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T13:10:02.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sidharth Malhotra",
+     "character": "Rishi",
+     "slug": "sidharth-malhotra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uFFPFah8J17qYkc6xBq75RIkDmN.jpg"
+    },
+    {
+     "name": "Tamannaah Bhatia",
+     "character": "Mamta",
+     "slug": "tamannaah-bhatia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/t4WYoKiFAyO1Rhjv7O03EKmJHp4.jpg"
+    },
+    {
+     "name": "Maniesh Paul",
+     "character": "Ved Prakash (VP)",
+     "slug": "maniesh-paul",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pUEKvdgIJSv5TN5moW5qARu3dCk.jpg"
+    },
+    {
+     "name": "Sunil Grover",
+     "character": "Deepak",
+     "slug": "sunil-grover",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ing2HJHnpvl7uzEQpv5M7NP4XK8.jpg"
+    },
+    {
+     "name": "Shweta Tiwari",
+     "character": "Sushila",
+     "slug": "shweta-tiwari",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/va9vSbIXmVTLW8mLEpivyLOR13n.jpg"
+    },
+    {
+     "name": "Anup Soni",
+     "character": "Shashi Bhaiya",
+     "slug": "anup-soni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ublFtg8PKJ7k3L2Tn3mfdjD6Ic9.jpg"
+    },
+    {
+     "name": "Avtar Gill",
+     "character": "Sarpanch",
+     "slug": "avtar-gill",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7KW5VrxETpM3FMMXOxBXu2ppflr.jpg"
+    },
+    {
+     "name": "Milind Gunaji",
+     "character": "Priest",
+     "slug": "milind-gunaji",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tzbUSc8bQw9d8mblgQDVxUGHV91.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Deepak Kumar Mishra",
+       "slug": "deepak-kumar-mishra"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Arunabh Kumar",
+       "slug": "arunabh-kumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishal Mishra",
+       "slug": "vishal-mishra"
+      },
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      },
+      {
+       "name": "Amit Trivedi",
+       "slug": "amit-trivedi"
+      },
+      {
+       "name": "Tanishk Bagchi",
+       "slug": "tanishk-bagchi"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Manu Anand",
+       "slug": "manu-anand"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nitin Baid",
+       "slug": "nitin-baid"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ekta Kapoor",
+       "slug": "ekta-kapoor"
+      },
+      {
+       "name": "Shobha Kapoor",
+       "slug": "shobha-kapoor"
+      },
+      {
+       "name": "Arunabh Kumar",
+       "slug": "arunabh-kumar"
+      },
+      {
+       "name": "Niraj Kothari",
+       "slug": "niraj-kothari"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "TVF Motion Pictures",
+     "slug": "tvf-motion-pictures",
+     "logo": null
+    },
+    {
+     "name": "Balaji Telefilms",
+     "slug": "balaji-telefilms",
+     "logo": "https://image.tmdb.org/t/p/w185/mr29A83cH7ok59YnuVW2In5PlKi.png"
+    },
+    {
+     "name": "11:11 Productions",
+     "slug": "11-11-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-25": [
+     {
+      "id": 1224,
+      "title": "Primetime",
+      "img": "https://image.tmdb.org/t/p/original/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
+     },
+     {
+      "id": 1258,
+      "title": "Dhoomakethu",
+      "img": "https://image.tmdb.org/t/p/original/sxXFjKj3tFKcSJ9VtxRaDc3cbiw.jpg"
+     },
+     {
+      "id": 1288,
+      "title": "Avengers Endgame: Encore",
+      "img": "https://image.tmdb.org/t/p/original/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+     }
+    ],
+    "2026-10-01": [
+     {
+      "id": 1330,
+      "title": "Baththa",
+      "img": "https://m.media-amazon.com/images/M/MV5BNjRmZGFjMDctMzRiNS00MmIwLTliYmMtODY5ZGFkOTE5YmFkXkEyXkFqcGc@._V1_.jpg"
+     },
+     {
+      "id": 1331,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "img": "https://image.tmdb.org/t/p/original/wdWQA1IVCYiTTEZMSnWl1tzhBd3.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-09-25",
+     "gross": 106975,
+     "sold": 422,
+     "unsold": 1017,
+     "shows": 15,
+     "occ": 29.33,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 106975,
+     "lastUpdatedAt": "2026-09-25 23:38:01"
+    },
+    {
+     "label": "2026-09-26",
+     "gross": 175485,
+     "sold": 712,
+     "unsold": 609,
+     "shows": 13,
+     "occ": 53.9,
+     "hf": "0",
+     "almost": "3",
+     "ff": "4",
+     "cumul": 282460,
+     "lastUpdatedAt": "2026-09-26 23:14:01"
+    },
+    {
+     "label": "2026-09-27",
+     "gross": 261380,
+     "sold": 983,
+     "unsold": 706,
+     "shows": 16,
+     "occ": 58.2,
+     "hf": "2",
+     "almost": "5",
+     "ff": "3",
+     "cumul": 543840,
+     "lastUpdatedAt": "2026-09-27 23:33:01"
+    },
+    {
+     "label": "2026-09-28",
+     "gross": 70920,
+     "sold": 243,
+     "unsold": 1085,
+     "shows": 12,
+     "occ": 18.3,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 614760,
+     "lastUpdatedAt": "2026-09-28 23:08:01"
+    },
+    {
+     "label": "2026-09-29",
+     "gross": 71240,
+     "sold": 320,
+     "unsold": 831,
+     "shows": 10,
+     "occ": 27.8,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 686000,
+     "lastUpdatedAt": "2026-09-29 23:08:01"
+    },
+    {
+     "label": "2026-09-30",
+     "gross": 25024,
+     "sold": 98,
+     "unsold": 907,
+     "shows": 9,
+     "occ": 9.75,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 711024,
+     "lastUpdatedAt": "2026-09-30 23:08:01"
+    },
+    {
+     "label": "2026-10-01",
+     "gross": 32140,
+     "sold": 87,
+     "unsold": 340,
+     "shows": 5,
+     "occ": 20.37,
+     "hf": "0",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 743164,
+     "lastUpdatedAt": "2026-10-01 23:08:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 743164,
+    "totalShows": 80,
+    "totalSeats": 8360,
+    "totalSold": 2865,
+    "avgOcc": "34.3",
+    "totalDays": 7,
+    "totalHousefull": 4,
+    "totalAlmost": 11,
+    "totalFastFilling": 7,
+    "peakDay": {
+     "day": 3,
+     "gross": 261380,
+     "date": "2026-09-27"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 106975,
+     "date": "2026-09-25"
+    },
+    "chartPosition": null
+   },
+   "_tier": "hot",
+   "_hash": "7:32140:743164"
+  },
+  "week": {
+   "movie": {
+    "id": 1320,
+    "title": "The Vvaan",
+    "img": "https://image.tmdb.org/t/p/original/n0TSVS0saO1bJy8DAssE43G7pBE.jpg",
+    "released": "2026-09-25",
+    "language": "Hindi",
+    "live": "on",
+    "pretrack": "off",
+    "imdbId": "tt34498564",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": "Action, Adventure, Thriller",
+    "plot": "A rational urban man defies his ancestral forbidden forest u0026 awakens a divine goddess, only to realise that some powers exist beyond logic u0026 he must rise as the village’s only saviour to protect his people from annihilation.",
+    "released": "2026-09-25",
+    "director": "Deepak Kumar Mishra",
+    "directorSlug": "deepak-kumar-mishra",
+    "actors": [
+     "Sidharth Malhotra",
+     "Tamannaah Bhatia",
+     "Maniesh Paul",
+     "Sunil Grover",
+     "Shweta Tiwari",
+     "Anup Soni"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 4905,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T13:10:02.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sidharth Malhotra",
+     "character": "Rishi",
+     "slug": "sidharth-malhotra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uFFPFah8J17qYkc6xBq75RIkDmN.jpg"
+    },
+    {
+     "name": "Tamannaah Bhatia",
+     "character": "Mamta",
+     "slug": "tamannaah-bhatia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/t4WYoKiFAyO1Rhjv7O03EKmJHp4.jpg"
+    },
+    {
+     "name": "Maniesh Paul",
+     "character": "Ved Prakash (VP)",
+     "slug": "maniesh-paul",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pUEKvdgIJSv5TN5moW5qARu3dCk.jpg"
+    },
+    {
+     "name": "Sunil Grover",
+     "character": "Deepak",
+     "slug": "sunil-grover",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ing2HJHnpvl7uzEQpv5M7NP4XK8.jpg"
+    },
+    {
+     "name": "Shweta Tiwari",
+     "character": "Sushila",
+     "slug": "shweta-tiwari",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/va9vSbIXmVTLW8mLEpivyLOR13n.jpg"
+    },
+    {
+     "name": "Anup Soni",
+     "character": "Shashi Bhaiya",
+     "slug": "anup-soni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ublFtg8PKJ7k3L2Tn3mfdjD6Ic9.jpg"
+    },
+    {
+     "name": "Avtar Gill",
+     "character": "Sarpanch",
+     "slug": "avtar-gill",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7KW5VrxETpM3FMMXOxBXu2ppflr.jpg"
+    },
+    {
+     "name": "Milind Gunaji",
+     "character": "Priest",
+     "slug": "milind-gunaji",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tzbUSc8bQw9d8mblgQDVxUGHV91.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Deepak Kumar Mishra",
+       "slug": "deepak-kumar-mishra"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Arunabh Kumar",
+       "slug": "arunabh-kumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishal Mishra",
+       "slug": "vishal-mishra"
+      },
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      },
+      {
+       "name": "Amit Trivedi",
+       "slug": "amit-trivedi"
+      },
+      {
+       "name": "Tanishk Bagchi",
+       "slug": "tanishk-bagchi"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Manu Anand",
+       "slug": "manu-anand"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nitin Baid",
+       "slug": "nitin-baid"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ekta Kapoor",
+       "slug": "ekta-kapoor"
+      },
+      {
+       "name": "Shobha Kapoor",
+       "slug": "shobha-kapoor"
+      },
+      {
+       "name": "Arunabh Kumar",
+       "slug": "arunabh-kumar"
+      },
+      {
+       "name": "Niraj Kothari",
+       "slug": "niraj-kothari"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "TVF Motion Pictures",
+     "slug": "tvf-motion-pictures",
+     "logo": null
+    },
+    {
+     "name": "Balaji Telefilms",
+     "slug": "balaji-telefilms",
+     "logo": "https://image.tmdb.org/t/p/w185/mr29A83cH7ok59YnuVW2In5PlKi.png"
+    },
+    {
+     "name": "11:11 Productions",
+     "slug": "11-11-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-25": [
+     {
+      "id": 1224,
+      "title": "Primetime",
+      "img": "https://image.tmdb.org/t/p/original/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
+     },
+     {
+      "id": 1258,
+      "title": "Dhoomakethu",
+      "img": "https://image.tmdb.org/t/p/original/sxXFjKj3tFKcSJ9VtxRaDc3cbiw.jpg"
+     },
+     {
+      "id": 1288,
+      "title": "Avengers Endgame: Encore",
+      "img": "https://image.tmdb.org/t/p/original/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+     }
+    ],
+    "2026-10-01": [
+     {
+      "id": 1330,
+      "title": "Baththa",
+      "img": "https://m.media-amazon.com/images/M/MV5BNjRmZGFjMDctMzRiNS00MmIwLTliYmMtODY5ZGFkOTE5YmFkXkEyXkFqcGc@._V1_.jpg"
+     },
+     {
+      "id": 1331,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "img": "https://image.tmdb.org/t/p/original/wdWQA1IVCYiTTEZMSnWl1tzhBd3.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-09-25",
+     "gross": 743164,
+     "sold": 2865,
+     "unsold": 5495,
+     "shows": 80,
+     "occ": 34.27,
+     "hf": "4",
+     "almost": "11",
+     "ff": "7",
+     "cumul": 743164,
+     "lastUpdatedAt": "2026-10-01 23:08:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 743164,
+    "totalShows": 80,
+    "totalSeats": 8360,
+    "totalSold": 2865,
+    "avgOcc": "34.3",
+    "totalDays": 1,
+    "totalHousefull": 4,
+    "totalAlmost": 11,
+    "totalFastFilling": 7,
+    "peakDay": {
+     "day": 1,
+     "gross": 743164
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 743164
+    },
+    "chartPosition": null
+   },
+   "_tier": "hot",
+   "_hash": "1:743164:743164"
+  },
+  "district": {
+   "movie": {
+    "id": 1320,
+    "title": "The Vvaan",
+    "img": "https://image.tmdb.org/t/p/original/n0TSVS0saO1bJy8DAssE43G7pBE.jpg",
+    "released": "2026-09-25",
+    "language": "Hindi",
+    "live": "on",
+    "pretrack": "off",
+    "imdbId": "tt34498564",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": "Action, Adventure, Thriller",
+    "plot": "A rational urban man defies his ancestral forbidden forest u0026 awakens a divine goddess, only to realise that some powers exist beyond logic u0026 he must rise as the village’s only saviour to protect his people from annihilation.",
+    "released": "2026-09-25",
+    "director": "Deepak Kumar Mishra",
+    "directorSlug": "deepak-kumar-mishra",
+    "actors": [
+     "Sidharth Malhotra",
+     "Tamannaah Bhatia",
+     "Maniesh Paul",
+     "Sunil Grover",
+     "Shweta Tiwari",
+     "Anup Soni"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.7",
+      "votes": 4905,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T13:10:02.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sidharth Malhotra",
+     "character": "Rishi",
+     "slug": "sidharth-malhotra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uFFPFah8J17qYkc6xBq75RIkDmN.jpg"
+    },
+    {
+     "name": "Tamannaah Bhatia",
+     "character": "Mamta",
+     "slug": "tamannaah-bhatia",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/t4WYoKiFAyO1Rhjv7O03EKmJHp4.jpg"
+    },
+    {
+     "name": "Maniesh Paul",
+     "character": "Ved Prakash (VP)",
+     "slug": "maniesh-paul",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pUEKvdgIJSv5TN5moW5qARu3dCk.jpg"
+    },
+    {
+     "name": "Sunil Grover",
+     "character": "Deepak",
+     "slug": "sunil-grover",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ing2HJHnpvl7uzEQpv5M7NP4XK8.jpg"
+    },
+    {
+     "name": "Shweta Tiwari",
+     "character": "Sushila",
+     "slug": "shweta-tiwari",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/va9vSbIXmVTLW8mLEpivyLOR13n.jpg"
+    },
+    {
+     "name": "Anup Soni",
+     "character": "Shashi Bhaiya",
+     "slug": "anup-soni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ublFtg8PKJ7k3L2Tn3mfdjD6Ic9.jpg"
+    },
+    {
+     "name": "Avtar Gill",
+     "character": "Sarpanch",
+     "slug": "avtar-gill",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7KW5VrxETpM3FMMXOxBXu2ppflr.jpg"
+    },
+    {
+     "name": "Milind Gunaji",
+     "character": "Priest",
+     "slug": "milind-gunaji",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tzbUSc8bQw9d8mblgQDVxUGHV91.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Deepak Kumar Mishra",
+       "slug": "deepak-kumar-mishra"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Arunabh Kumar",
+       "slug": "arunabh-kumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishal Mishra",
+       "slug": "vishal-mishra"
+      },
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      },
+      {
+       "name": "Amit Trivedi",
+       "slug": "amit-trivedi"
+      },
+      {
+       "name": "Tanishk Bagchi",
+       "slug": "tanishk-bagchi"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Manu Anand",
+       "slug": "manu-anand"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nitin Baid",
+       "slug": "nitin-baid"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ekta Kapoor",
+       "slug": "ekta-kapoor"
+      },
+      {
+       "name": "Shobha Kapoor",
+       "slug": "shobha-kapoor"
+      },
+      {
+       "name": "Arunabh Kumar",
+       "slug": "arunabh-kumar"
+      },
+      {
+       "name": "Niraj Kothari",
+       "slug": "niraj-kothari"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "TVF Motion Pictures",
+     "slug": "tvf-motion-pictures",
+     "logo": null
+    },
+    {
+     "name": "Balaji Telefilms",
+     "slug": "balaji-telefilms",
+     "logo": "https://image.tmdb.org/t/p/w185/mr29A83cH7ok59YnuVW2In5PlKi.png"
+    },
+    {
+     "name": "11:11 Productions",
+     "slug": "11-11-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-25": [
+     {
+      "id": 1224,
+      "title": "Primetime",
+      "img": "https://image.tmdb.org/t/p/original/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
+     },
+     {
+      "id": 1258,
+      "title": "Dhoomakethu",
+      "img": "https://image.tmdb.org/t/p/original/sxXFjKj3tFKcSJ9VtxRaDc3cbiw.jpg"
+     },
+     {
+      "id": 1288,
+      "title": "Avengers Endgame: Encore",
+      "img": "https://image.tmdb.org/t/p/original/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+     }
+    ],
+    "2026-10-01": [
+     {
+      "id": 1330,
+      "title": "Baththa",
+      "img": "https://m.media-amazon.com/images/M/MV5BNjRmZGFjMDctMzRiNS00MmIwLTliYmMtODY5ZGFkOTE5YmFkXkEyXkFqcGc@._V1_.jpg"
+     },
+     {
+      "id": 1331,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "img": "https://image.tmdb.org/t/p/original/wdWQA1IVCYiTTEZMSnWl1tzhBd3.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 417945,
+     "sold": 1546,
+     "unsold": 3125,
+     "shows": 40,
+     "occ": 33.1,
+     "hf": "1",
+     "almost": "6",
+     "ff": "4",
+     "cumul": 417945,
+     "lastUpdatedAt": "2026-10-01 22:53:01"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 172000,
+     "sold": 667,
+     "unsold": 1057,
+     "shows": 25,
+     "occ": 38.69,
+     "hf": "2",
+     "almost": "4",
+     "ff": "1",
+     "cumul": 589945,
+     "lastUpdatedAt": "2026-10-01 23:08:01"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 92040,
+     "sold": 363,
+     "unsold": 540,
+     "shows": 6,
+     "occ": 40.2,
+     "hf": "1",
+     "almost": "1",
+     "ff": "1",
+     "cumul": 681985,
+     "lastUpdatedAt": "2026-09-29 17:58:01"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 42479,
+     "sold": 213,
+     "unsold": 397,
+     "shows": 5,
+     "occ": 34.92,
+     "hf": "0",
+     "almost": "0",
+     "ff": "1",
+     "cumul": 724464,
+     "lastUpdatedAt": "2026-09-30 22:23:01"
+    },
+    {
+     "label": "Kannur",
+     "gross": 18700,
+     "sold": 76,
+     "unsold": 376,
+     "shows": 4,
+     "occ": 16.81,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 743164,
+     "lastUpdatedAt": "2026-09-28 22:23:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 743164,
+    "totalShows": 80,
+    "totalSeats": 8360,
+    "totalSold": 2865,
+    "avgOcc": "34.3",
+    "totalDays": 5,
+    "totalHousefull": 4,
+    "totalAlmost": 11,
+    "totalFastFilling": 7,
+    "peakDay": {
+     "day": 1,
+     "gross": 417945,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 417945,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "hot",
+   "_hash": "5:18700:743164"
+  }
+ }
+}

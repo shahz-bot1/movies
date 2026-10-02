@@ -1,0 +1,48 @@
+{
+ "slug": "gokul-suresh",
+ "name": "Gokul Suresh",
+ "source_url": "https://fridaymatinee.in/people/gokul-suresh",
+ "captured_at": "2026-10-01T22:33:36.294182+00:00",
+ "person": {
+  "name": "Gokul Suresh",
+  "photo": "https://image.tmdb.org/t/p/w185/ukMuPYcM8I0sDu5scdhkWYKNiro.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 166,
+   "movie_slug": "paappan",
+   "title": "Paappan",
+   "year": 2022,
+   "kerala_gross": "₹13.4 Cr"
+  },
+  {
+   "movie_id": 404,
+   "movie_slug": "king-of-kotha",
+   "title": "King of Kotha",
+   "year": 2023,
+   "kerala_gross": "₹12.1 Cr"
+  },
+  {
+   "movie_id": 565,
+   "movie_slug": "dominic-and-the-ladies-purse",
+   "title": "Dominic And The Ladies Purse",
+   "year": 2025,
+   "kerala_gross": "₹7.7 Cr"
+  },
+  {
+   "movie_id": 680,
+   "movie_slug": "sumathi-valavu",
+   "title": "Sumathi Valavu",
+   "year": 2025,
+   "kerala_gross": "₹15.0 Cr"
+  }
+ ]
+}

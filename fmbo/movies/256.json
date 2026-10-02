@@ -1,0 +1,656 @@
+{
+ "id": 256,
+ "slug": "kaapa",
+ "source_url": "https://fridaymatinee.in/boxoffice/kaapa-256",
+ "captured_at": "2026-10-01T18:08:01.628474+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 256,
+    "title": "Kaapa",
+    "img": "https://image.tmdb.org/t/p/original/hllm5duftEJDHQAPjK94DHisaE.jpg",
+    "released": "2022-12-22",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15251536",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "TV-MA",
+    "runtime": "133 min",
+    "genre": "Crime, Action, Drama",
+    "plot": "When Anand learns that his wife Binu Trivikraman's name ended up in Kerala Anti-Social Activities Prevention Act (KAAPA) list by mistake, he embarks on a journey to prove her innocence, but finds himself caught in the crosshairs of a hardened gangster and a merciless war.",
+    "released": "2022-12-22",
+    "director": "Shaji Kailas",
+    "directorSlug": "shaji-kailas",
+    "actors": [
+     "Prithviraj Sukumaran",
+     "Aparna Balamurali",
+     "Asif Ali",
+     "Anna Ben",
+     "Dileesh Pothan",
+     "Jagadish"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 6682,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:30:52.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Prithviraj Sukumaran",
+     "character": "Kotta Madhu",
+     "slug": "prithviraj-sukumaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1xhG42QU8tMQRTDdP1Ed3y9GRvm.jpg"
+    },
+    {
+     "name": "Aparna Balamurali",
+     "character": "Prameela",
+     "slug": "aparna-balamurali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yhltqG1SowF0IaHxLXCVQZacz1S.jpg"
+    },
+    {
+     "name": "Asif Ali",
+     "character": "Anand",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Anna Ben",
+     "character": "Binu Thrivikraman",
+     "slug": "anna-ben",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d0vvDEO6MWeRnc6lj1d11TnIt5i.jpg"
+    },
+    {
+     "name": "Dileesh Pothan",
+     "character": "Latheef",
+     "slug": "dileesh-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Jabbar",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Senthil Krishna Rajamani",
+     "character": "Mohammad Nazeer",
+     "slug": "senthil-krishna-rajamani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wXI4Jo8M01YfE3HtUeL1YpM0eFK.jpg"
+    },
+    {
+     "name": "Nandhu",
+     "character": "Arumanayakam",
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Shaji Kailas",
+       "slug": "shaji-kailas"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "G.R. Indugopan",
+       "slug": "g-r-indugopan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Dawn Vincent",
+       "slug": "dawn-vincent"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jomon T. John",
+       "slug": "jomon-t-john"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jinu Abraham",
+       "slug": "jinu-abraham"
+      },
+      {
+       "name": "Dolwin Kuriakose",
+       "slug": "dolwin-kuriakose"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Theatre of Dreams",
+     "slug": "theatre-of-dreams",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 88380242.00999998,
+    "totalShows": 9976,
+    "totalDays": 22,
+    "openingDay": {
+     "day": 1,
+     "gross": 9216320.89,
+     "date": "2022-12-22"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 12756303.95,
+     "date": "2022-12-25"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 21,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-12-22"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 256,
+    "title": "Kaapa",
+    "img": "https://image.tmdb.org/t/p/original/hllm5duftEJDHQAPjK94DHisaE.jpg",
+    "released": "2022-12-22",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15251536",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "TV-MA",
+    "runtime": "133 min",
+    "genre": "Crime, Action, Drama",
+    "plot": "When Anand learns that his wife Binu Trivikraman's name ended up in Kerala Anti-Social Activities Prevention Act (KAAPA) list by mistake, he embarks on a journey to prove her innocence, but finds himself caught in the crosshairs of a hardened gangster and a merciless war.",
+    "released": "2022-12-22",
+    "director": "Shaji Kailas",
+    "directorSlug": "shaji-kailas",
+    "actors": [
+     "Prithviraj Sukumaran",
+     "Aparna Balamurali",
+     "Asif Ali",
+     "Anna Ben",
+     "Dileesh Pothan",
+     "Jagadish"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 6682,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:30:52.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Prithviraj Sukumaran",
+     "character": "Kotta Madhu",
+     "slug": "prithviraj-sukumaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1xhG42QU8tMQRTDdP1Ed3y9GRvm.jpg"
+    },
+    {
+     "name": "Aparna Balamurali",
+     "character": "Prameela",
+     "slug": "aparna-balamurali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yhltqG1SowF0IaHxLXCVQZacz1S.jpg"
+    },
+    {
+     "name": "Asif Ali",
+     "character": "Anand",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Anna Ben",
+     "character": "Binu Thrivikraman",
+     "slug": "anna-ben",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d0vvDEO6MWeRnc6lj1d11TnIt5i.jpg"
+    },
+    {
+     "name": "Dileesh Pothan",
+     "character": "Latheef",
+     "slug": "dileesh-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Jabbar",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Senthil Krishna Rajamani",
+     "character": "Mohammad Nazeer",
+     "slug": "senthil-krishna-rajamani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wXI4Jo8M01YfE3HtUeL1YpM0eFK.jpg"
+    },
+    {
+     "name": "Nandhu",
+     "character": "Arumanayakam",
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Shaji Kailas",
+       "slug": "shaji-kailas"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "G.R. Indugopan",
+       "slug": "g-r-indugopan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Dawn Vincent",
+       "slug": "dawn-vincent"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jomon T. John",
+       "slug": "jomon-t-john"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jinu Abraham",
+       "slug": "jinu-abraham"
+      },
+      {
+       "name": "Dolwin Kuriakose",
+       "slug": "dolwin-kuriakose"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Theatre of Dreams",
+     "slug": "theatre-of-dreams",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-12-22",
+     "gross": 57881269.90000001,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4846,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-12-29",
+     "gross": 25706183.22,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3885,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-01-05",
+     "gross": 4792788.89,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1242,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-01-12",
+     "gross": 0,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 88380242.01,
+    "totalShows": 9976,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 57881269.90000001
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 57881269.90000001
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 21,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-12-22"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 256,
+    "title": "Kaapa",
+    "img": "https://image.tmdb.org/t/p/original/hllm5duftEJDHQAPjK94DHisaE.jpg",
+    "released": "2022-12-22",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15251536",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "TV-MA",
+    "runtime": "133 min",
+    "genre": "Crime, Action, Drama",
+    "plot": "When Anand learns that his wife Binu Trivikraman's name ended up in Kerala Anti-Social Activities Prevention Act (KAAPA) list by mistake, he embarks on a journey to prove her innocence, but finds himself caught in the crosshairs of a hardened gangster and a merciless war.",
+    "released": "2022-12-22",
+    "director": "Shaji Kailas",
+    "directorSlug": "shaji-kailas",
+    "actors": [
+     "Prithviraj Sukumaran",
+     "Aparna Balamurali",
+     "Asif Ali",
+     "Anna Ben",
+     "Dileesh Pothan",
+     "Jagadish"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 6682,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:30:52.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Prithviraj Sukumaran",
+     "character": "Kotta Madhu",
+     "slug": "prithviraj-sukumaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1xhG42QU8tMQRTDdP1Ed3y9GRvm.jpg"
+    },
+    {
+     "name": "Aparna Balamurali",
+     "character": "Prameela",
+     "slug": "aparna-balamurali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yhltqG1SowF0IaHxLXCVQZacz1S.jpg"
+    },
+    {
+     "name": "Asif Ali",
+     "character": "Anand",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Anna Ben",
+     "character": "Binu Thrivikraman",
+     "slug": "anna-ben",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d0vvDEO6MWeRnc6lj1d11TnIt5i.jpg"
+    },
+    {
+     "name": "Dileesh Pothan",
+     "character": "Latheef",
+     "slug": "dileesh-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Jabbar",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Senthil Krishna Rajamani",
+     "character": "Mohammad Nazeer",
+     "slug": "senthil-krishna-rajamani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wXI4Jo8M01YfE3HtUeL1YpM0eFK.jpg"
+    },
+    {
+     "name": "Nandhu",
+     "character": "Arumanayakam",
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Shaji Kailas",
+       "slug": "shaji-kailas"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "G.R. Indugopan",
+       "slug": "g-r-indugopan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Dawn Vincent",
+       "slug": "dawn-vincent"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jomon T. John",
+       "slug": "jomon-t-john"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jinu Abraham",
+       "slug": "jinu-abraham"
+      },
+      {
+       "name": "Dolwin Kuriakose",
+       "slug": "dolwin-kuriakose"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Theatre of Dreams",
+     "slug": "theatre-of-dreams",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 88380242.01,
+    "totalShows": 9976,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 19604064,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 19604064,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 21,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-12-22"
+   }
+  }
+ }
+}

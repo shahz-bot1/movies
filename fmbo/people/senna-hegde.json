@@ -1,0 +1,56 @@
+{
+ "slug": "senna-hegde",
+ "name": "Senna Hegde",
+ "source_url": "https://fridaymatinee.in/people/senna-hegde",
+ "captured_at": "2026-10-02T10:21:43.471771+00:00",
+ "person": {
+  "name": "Senna Hegde",
+  "photo": "https://image.tmdb.org/t/p/w185/tCaOvDZEkAiUK0Aojl9QL1WD7g5.jpg",
+  "role": "Director, actor, producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  },
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 1
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 242,
+   "movie_slug": "1744-white-alto",
+   "title": "1744 White Alto",
+   "year": 2022,
+   "kerala_gross": "₹44.9L"
+  },
+  {
+   "movie_id": 402,
+   "movie_slug": "padmini",
+   "title": "Padmini",
+   "year": 2023,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 861,
+   "movie_slug": "avihitham",
+   "title": "Avihitham",
+   "year": 2025,
+   "kerala_gross": "₹36.9L"
+  }
+ ]
+}

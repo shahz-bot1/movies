@@ -1,0 +1,48 @@
+{
+ "slug": "tinnu-anand",
+ "name": "Tinnu Anand",
+ "source_url": "https://fridaymatinee.in/people/tinnu-anand",
+ "captured_at": "2026-10-02T11:23:49.214542+00:00",
+ "person": {
+  "name": "Tinnu Anand",
+  "photo": "https://image.tmdb.org/t/p/w185/6fkEiZKNp6jnOQmfQKEjVinhUeL.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 478,
+   "movie_slug": "salaar-part-1-ceasefire",
+   "title": "Salaar: Part 1 - Ceasefire",
+   "year": 2023,
+   "kerala_gross": "₹12.5 Cr"
+  },
+  {
+   "movie_id": 537,
+   "movie_slug": "lucky-baskhar",
+   "title": "Lucky Baskhar",
+   "year": 2024,
+   "kerala_gross": "₹17.4 Cr"
+  },
+  {
+   "movie_id": 664,
+   "movie_slug": "good-bad-ugly",
+   "title": "Good Bad Ugly",
+   "year": 2025,
+   "kerala_gross": "₹3.9 Cr"
+  },
+  {
+   "movie_id": 1127,
+   "movie_slug": "peddi",
+   "title": "Peddi",
+   "year": 2026,
+   "kerala_gross": "₹47.5L"
+  }
+ ]
+}

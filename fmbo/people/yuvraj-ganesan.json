@@ -1,0 +1,41 @@
+{
+ "slug": "yuvraj-ganesan",
+ "name": "Yuvraj Ganesan",
+ "source_url": "https://fridaymatinee.in/people/yuvraj-ganesan",
+ "captured_at": "2026-10-02T12:12:05.133299+00:00",
+ "person": {
+  "name": "Yuvraj Ganesan",
+  "photo": "https://image.tmdb.org/t/p/w185/iMG3z7n6xjwiCKf3KbbXiGsEcA.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 679,
+   "movie_slug": "tourist-family",
+   "title": "Tourist Family",
+   "year": 2025,
+   "kerala_gross": "₹1.3 Cr"
+  },
+  {
+   "movie_id": 1197,
+   "movie_slug": "anbe-diana",
+   "title": "Anbe Diana",
+   "year": 2026,
+   "kerala_gross": "₹2.4L"
+  },
+  {
+   "movie_id": 1255,
+   "movie_slug": "once-more",
+   "title": "Once More",
+   "year": 2026,
+   "kerala_gross": "₹2.8L"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "r-velraj",
+ "name": "R. Velraj",
+ "source_url": "https://fridaymatinee.in/people/r-velraj",
+ "captured_at": "2026-10-02T06:36:00.607120+00:00",
+ "person": {
+  "name": "R. Velraj",
+  "photo": "https://image.tmdb.org/t/p/w185/tZo7n40iNRHkiNXn6ZtEddLJrkc.jpg",
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 31,
+   "movie_slug": "sangathamizhan",
+   "title": "Sangathamizhan",
+   "year": 2019,
+   "kerala_gross": "₹4.6L"
+  },
+  {
+   "movie_id": 170,
+   "movie_slug": "legend",
+   "title": "Legend",
+   "year": 2022,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 316,
+   "movie_slug": "viduthalai-part-1",
+   "title": "Viduthalai Part 1",
+   "year": 2023,
+   "kerala_gross": "₹86.9L"
+  },
+  {
+   "movie_id": 618,
+   "movie_slug": "viduthalai-part-2",
+   "title": "Viduthalai Part - 2",
+   "year": 2024,
+   "kerala_gross": "₹66.7L"
+  }
+ ]
+}

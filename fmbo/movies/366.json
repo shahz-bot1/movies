@@ -1,0 +1,628 @@
+{
+ "id": 366,
+ "slug": "kudumbasthan",
+ "source_url": "https://fridaymatinee.in/boxoffice/kudumbasthan-366",
+ "captured_at": "2026-10-01T18:10:41.439727+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 366,
+    "title": "Kudumbasthan",
+    "img": "https://image.tmdb.org/t/p/original/76AkmAqLNMMJZZWQXQ6KntEiLjK.jpg",
+    "released": "2025-01-31",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31958285",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "153 min",
+    "genre": "Family, Drama, Comedy",
+    "plot": "Naveen's relationship with his parents becomes strained after he marries a oppressed-caste girl. Though they eventually reconcile, his sudden unemployment puts him in a difficult position. As financial pressures mount, Naveen must navigate societal challenges and personal struggles to regain stability and rebuild harmony within his middle-class family.",
+    "released": "2025-01-24",
+    "director": "Rajeshwar Kalisamy",
+    "directorSlug": "rajeshwar-kalisamy",
+    "actors": [
+     "Manikandan",
+     "Saanve Meghana",
+     "Guru Somasundaram",
+     "Sundarrajan",
+     "Nivedita Rajappan",
+     "Balaji Sakthivel"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 3434,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Manikandan",
+     "character": "Naveen",
+     "slug": "manikandan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x54nrbLPVxUaStUt5I2om0WuE6j.jpg"
+    },
+    {
+     "name": "Saanve Meghana",
+     "character": "Vennila",
+     "slug": "saanve-meghana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5lpb5ZEzocuQGxCbYemCVPCUEWu.jpg"
+    },
+    {
+     "name": "Guru Somasundaram",
+     "character": "Rajendran",
+     "slug": "guru-somasundaram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eqjEcc6LnZI5teGwOrrArAr5vko.jpg"
+    },
+    {
+     "name": "Sundarrajan",
+     "character": "Palanisamy",
+     "slug": "sundarrajan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/huopz8ux5zc04ND5FxE0Ph6rHB0.jpg"
+    },
+    {
+     "name": "Nivedita Rajappan",
+     "character": "Anitha",
+     "slug": "nivedita-rajappan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jZRhzBsUCeItiUlkUdBHwx8Fgic.jpg"
+    },
+    {
+     "name": "Balaji Sakthivel",
+     "character": "Mohan Ram",
+     "slug": "balaji-sakthivel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d4j8H4uYjQMTRMxw8CIN9igIE7.jpg"
+    },
+    {
+     "name": "Jensan Diwakar",
+     "character": "Amir",
+     "slug": "jensan-diwakar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4QAdVaCP4l1BA39Fc35WwH7mv4T.jpg"
+    },
+    {
+     "name": "Prasanna Balachandran",
+     "character": null,
+     "slug": "prasanna-balachandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIaQbaIGTxcHTtrx0CFoBccXWgS.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rajeshwar Kalisamy",
+       "slug": "rajeshwar-kalisamy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Prasanna Balachandran",
+       "slug": "prasanna-balachandran"
+      },
+      {
+       "name": "Rajeshwar Kalisamy",
+       "slug": "rajeshwar-kalisamy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vaisagh",
+       "slug": "vaisagh"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sujith Subramaniam",
+       "slug": "sujith-subramaniam"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kannan Balu",
+       "slug": "kannan-balu"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "S. Vinoth Kumar",
+       "slug": "s-vinoth-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Cinemakaaran Productions",
+     "slug": "cinemakaaran-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-03-07",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1015360,
+    "totalShows": 345,
+    "totalDays": 21,
+    "openingDay": {
+     "day": 1,
+     "gross": 187654,
+     "date": "2025-01-31"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 234679,
+     "date": "2025-02-02"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-31"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 366,
+    "title": "Kudumbasthan",
+    "img": "https://image.tmdb.org/t/p/original/76AkmAqLNMMJZZWQXQ6KntEiLjK.jpg",
+    "released": "2025-01-31",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31958285",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "153 min",
+    "genre": "Family, Drama, Comedy",
+    "plot": "Naveen's relationship with his parents becomes strained after he marries a oppressed-caste girl. Though they eventually reconcile, his sudden unemployment puts him in a difficult position. As financial pressures mount, Naveen must navigate societal challenges and personal struggles to regain stability and rebuild harmony within his middle-class family.",
+    "released": "2025-01-24",
+    "director": "Rajeshwar Kalisamy",
+    "directorSlug": "rajeshwar-kalisamy",
+    "actors": [
+     "Manikandan",
+     "Saanve Meghana",
+     "Guru Somasundaram",
+     "Sundarrajan",
+     "Nivedita Rajappan",
+     "Balaji Sakthivel"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 3434,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Manikandan",
+     "character": "Naveen",
+     "slug": "manikandan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x54nrbLPVxUaStUt5I2om0WuE6j.jpg"
+    },
+    {
+     "name": "Saanve Meghana",
+     "character": "Vennila",
+     "slug": "saanve-meghana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5lpb5ZEzocuQGxCbYemCVPCUEWu.jpg"
+    },
+    {
+     "name": "Guru Somasundaram",
+     "character": "Rajendran",
+     "slug": "guru-somasundaram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eqjEcc6LnZI5teGwOrrArAr5vko.jpg"
+    },
+    {
+     "name": "Sundarrajan",
+     "character": "Palanisamy",
+     "slug": "sundarrajan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/huopz8ux5zc04ND5FxE0Ph6rHB0.jpg"
+    },
+    {
+     "name": "Nivedita Rajappan",
+     "character": "Anitha",
+     "slug": "nivedita-rajappan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jZRhzBsUCeItiUlkUdBHwx8Fgic.jpg"
+    },
+    {
+     "name": "Balaji Sakthivel",
+     "character": "Mohan Ram",
+     "slug": "balaji-sakthivel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d4j8H4uYjQMTRMxw8CIN9igIE7.jpg"
+    },
+    {
+     "name": "Jensan Diwakar",
+     "character": "Amir",
+     "slug": "jensan-diwakar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4QAdVaCP4l1BA39Fc35WwH7mv4T.jpg"
+    },
+    {
+     "name": "Prasanna Balachandran",
+     "character": null,
+     "slug": "prasanna-balachandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIaQbaIGTxcHTtrx0CFoBccXWgS.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rajeshwar Kalisamy",
+       "slug": "rajeshwar-kalisamy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Prasanna Balachandran",
+       "slug": "prasanna-balachandran"
+      },
+      {
+       "name": "Rajeshwar Kalisamy",
+       "slug": "rajeshwar-kalisamy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vaisagh",
+       "slug": "vaisagh"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sujith Subramaniam",
+       "slug": "sujith-subramaniam"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kannan Balu",
+       "slug": "kannan-balu"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "S. Vinoth Kumar",
+       "slug": "s-vinoth-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Cinemakaaran Productions",
+     "slug": "cinemakaaran-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-03-07",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-01-31",
+     "gross": 836613,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 314,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-07",
+     "gross": 141107,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 24,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-14",
+     "gross": 37640,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 7,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1015360,
+    "totalShows": 345,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 836613
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 836613
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-31"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 366,
+    "title": "Kudumbasthan",
+    "img": "https://image.tmdb.org/t/p/original/76AkmAqLNMMJZZWQXQ6KntEiLjK.jpg",
+    "released": "2025-01-31",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31958285",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "153 min",
+    "genre": "Family, Drama, Comedy",
+    "plot": "Naveen's relationship with his parents becomes strained after he marries a oppressed-caste girl. Though they eventually reconcile, his sudden unemployment puts him in a difficult position. As financial pressures mount, Naveen must navigate societal challenges and personal struggles to regain stability and rebuild harmony within his middle-class family.",
+    "released": "2025-01-24",
+    "director": "Rajeshwar Kalisamy",
+    "directorSlug": "rajeshwar-kalisamy",
+    "actors": [
+     "Manikandan",
+     "Saanve Meghana",
+     "Guru Somasundaram",
+     "Sundarrajan",
+     "Nivedita Rajappan",
+     "Balaji Sakthivel"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 3434,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Manikandan",
+     "character": "Naveen",
+     "slug": "manikandan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x54nrbLPVxUaStUt5I2om0WuE6j.jpg"
+    },
+    {
+     "name": "Saanve Meghana",
+     "character": "Vennila",
+     "slug": "saanve-meghana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5lpb5ZEzocuQGxCbYemCVPCUEWu.jpg"
+    },
+    {
+     "name": "Guru Somasundaram",
+     "character": "Rajendran",
+     "slug": "guru-somasundaram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eqjEcc6LnZI5teGwOrrArAr5vko.jpg"
+    },
+    {
+     "name": "Sundarrajan",
+     "character": "Palanisamy",
+     "slug": "sundarrajan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/huopz8ux5zc04ND5FxE0Ph6rHB0.jpg"
+    },
+    {
+     "name": "Nivedita Rajappan",
+     "character": "Anitha",
+     "slug": "nivedita-rajappan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jZRhzBsUCeItiUlkUdBHwx8Fgic.jpg"
+    },
+    {
+     "name": "Balaji Sakthivel",
+     "character": "Mohan Ram",
+     "slug": "balaji-sakthivel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d4j8H4uYjQMTRMxw8CIN9igIE7.jpg"
+    },
+    {
+     "name": "Jensan Diwakar",
+     "character": "Amir",
+     "slug": "jensan-diwakar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4QAdVaCP4l1BA39Fc35WwH7mv4T.jpg"
+    },
+    {
+     "name": "Prasanna Balachandran",
+     "character": null,
+     "slug": "prasanna-balachandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIaQbaIGTxcHTtrx0CFoBccXWgS.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rajeshwar Kalisamy",
+       "slug": "rajeshwar-kalisamy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Prasanna Balachandran",
+       "slug": "prasanna-balachandran"
+      },
+      {
+       "name": "Rajeshwar Kalisamy",
+       "slug": "rajeshwar-kalisamy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vaisagh",
+       "slug": "vaisagh"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sujith Subramaniam",
+       "slug": "sujith-subramaniam"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kannan Balu",
+       "slug": "kannan-balu"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "S. Vinoth Kumar",
+       "slug": "s-vinoth-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Cinemakaaran Productions",
+     "slug": "cinemakaaran-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-03-07",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1015360,
+    "totalShows": 345,
+    "totalDays": 13,
+    "openingDay": {
+     "day": 1,
+     "gross": 324709,
+     "date": "Trivandrum"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 324709,
+     "date": "Trivandrum"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-31"
+   }
+  }
+ }
+}

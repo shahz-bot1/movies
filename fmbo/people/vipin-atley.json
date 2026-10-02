@@ -1,0 +1,51 @@
+{
+ "slug": "vipin-atley",
+ "name": "Vipin Atley",
+ "source_url": "https://fridaymatinee.in/people/vipin-atley",
+ "captured_at": "2026-10-02T11:49:41.933713+00:00",
+ "person": {
+  "name": "Vipin Atley",
+  "photo": "https://image.tmdb.org/t/p/w185/fglpbhB2SmLp8Q0J2ErHpFhWUVT.jpg",
+  "role": "Actor, director and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 277,
+   "movie_slug": "nanpakal-nerathu-mayakkam",
+   "title": "Nanpakal Nerathu Mayakkam",
+   "year": 2023,
+   "kerala_gross": "₹3.5 Cr"
+  },
+  {
+   "movie_id": 1198,
+   "movie_slug": "antappante-athbudha-pravarthikal",
+   "title": "Antappante Athbudha Pravarthikal",
+   "year": 2026,
+   "kerala_gross": "₹11.0L"
+  },
+  {
+   "movie_id": 1213,
+   "movie_slug": "pluto",
+   "title": "Pluto",
+   "year": 2026,
+   "kerala_gross": "₹1.2 Cr"
+  }
+ ]
+}

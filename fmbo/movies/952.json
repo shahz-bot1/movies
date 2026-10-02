@@ -1,0 +1,776 @@
+{
+ "id": 952,
+ "slug": "mark",
+ "source_url": "https://fridaymatinee.in/boxoffice/mark-952",
+ "captured_at": "2026-10-01T18:27:12.292279+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 952,
+    "title": "Mark",
+    "img": "https://image.tmdb.org/t/p/original/6LTDv6XHiHN0N77QIFg2tidVvhh.jpg",
+    "released": "2025-12-25",
+    "language": "kannada",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28961625",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "144 min",
+    "genre": "Action, Thriller",
+    "plot": "Mark is suspended from his police duties for his unruly yet effective ways of operating, but when 18 children are abducted and found dead, races to catch the criminals. With only 18 hours left, he must confront powerful foes and use unconventional tactics to succeed.",
+    "released": "2025-12-25",
+    "director": "Vijay Kartikeyaa",
+    "directorSlug": "vijay-kartikeyaa",
+    "actors": [
+     "Sudeepa",
+     "Deepshika Umapathy",
+     "Naveen Chandra",
+     "Shine Tom Chacko",
+     "Yogi Babu",
+     "Vikranth"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.2",
+      "votes": 1454,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T13:11:19.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sudeepa",
+     "character": "Ajay Markendeya",
+     "slug": "sudeepa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8c5TYgGwbkcQkvC3ZlTU41OfYBN.jpg"
+    },
+    {
+     "name": "Deepshika Umapathy",
+     "character": null,
+     "slug": "deepshika-umapathy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f20SM61Foa1U7eO4KZRA0suam3j.jpg"
+    },
+    {
+     "name": "Naveen Chandra",
+     "character": null,
+     "slug": "naveen-chandra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6iEhNOOqRTOQ0JFSiv6agtqvwx9.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": null,
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Yogi Babu",
+     "character": null,
+     "slug": "yogi-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+    },
+    {
+     "name": "Vikranth",
+     "character": null,
+     "slug": "vikranth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ksMHimRUMXLwJqrZsgGx9TzyQiN.jpg"
+    },
+    {
+     "name": "Dev Gill",
+     "character": null,
+     "slug": "dev-gill",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8Ta11Sdp6jCCbBEroTbnzoRxkvw.jpg"
+    },
+    {
+     "name": "Aruldoss",
+     "character": null,
+     "slug": "aruldoss",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gDMVbi6reJPolJm9qtqYwTWyh4p.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vijay Kartikeyaa",
+       "slug": "vijay-kartikeyaa"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vijay Kartikeyaa",
+       "slug": "vijay-kartikeyaa"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "B. Ajaneesh Loknath",
+       "slug": "b-ajaneesh-loknath"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sr Ganesh Babu",
+       "slug": "sr-ganesh-babu"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "T. G. Thyagarajan",
+       "slug": "t-g-thyagarajan"
+      },
+      {
+       "name": "Sendhil Thyagarajan",
+       "slug": "sendhil-thyagarajan"
+      },
+      {
+       "name": "Arjun Thiyagarajan",
+       "slug": "arjun-thiyagarajan"
+      },
+      {
+       "name": "Sudeepa",
+       "slug": "sudeepa"
+      },
+      {
+       "name": "Priya Sudeep",
+       "slug": "priya-sudeep"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sathya Jyothi Films",
+     "slug": "sathya-jyothi-films",
+     "logo": "https://image.tmdb.org/t/p/w185/7UcboVQox12kyfByXhVMgsTLg7b.png"
+    },
+    {
+     "name": "Kiccha Creations",
+     "slug": "kiccha-creations",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-01-23",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-12-25": [
+     {
+      "id": 829,
+      "title": "Vrusshabha",
+      "img": "https://image.tmdb.org/t/p/original/hRKxGHeQBdwKswKgkmDrrMCDqoQ.jpg"
+     },
+     {
+      "id": 884,
+      "title": "Sarvam Maya",
+      "img": "https://image.tmdb.org/t/p/original/5c5FRas3ySsaQ97uVdeFKIl83TT.jpg"
+     },
+     {
+      "id": 885,
+      "title": "Anaconda",
+      "img": "https://image.tmdb.org/t/p/original/3LCrJNlAcrRBDsGGADYTWjuI7Rw.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-12-25",
+     "gross": 15590,
+     "sold": 79,
+     "unsold": 25,
+     "shows": 1,
+     "occ": 75.96,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 15590,
+     "lastUpdatedAt": "2025-12-25 19:08:00"
+    },
+    {
+     "label": "2025-12-26",
+     "gross": 2680,
+     "sold": 12,
+     "unsold": 92,
+     "shows": 1,
+     "occ": 11.54,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 18270,
+     "lastUpdatedAt": "2025-12-26 19:13:00"
+    },
+    {
+     "label": "2025-12-27",
+     "gross": 2680,
+     "sold": 12,
+     "unsold": 92,
+     "shows": 1,
+     "occ": 11.54,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 20950,
+     "lastUpdatedAt": "2025-12-27 19:13:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 20950,
+    "totalShows": 3,
+    "totalSeats": 312,
+    "totalSold": 103,
+    "avgOcc": "33.0",
+    "totalDays": 3,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 15590,
+     "date": "2025-12-25"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 15590,
+     "date": "2025-12-25"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "3:2680:20950"
+  },
+  "week": {
+   "movie": {
+    "id": 952,
+    "title": "Mark",
+    "img": "https://image.tmdb.org/t/p/original/6LTDv6XHiHN0N77QIFg2tidVvhh.jpg",
+    "released": "2025-12-25",
+    "language": "kannada",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28961625",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "144 min",
+    "genre": "Action, Thriller",
+    "plot": "Mark is suspended from his police duties for his unruly yet effective ways of operating, but when 18 children are abducted and found dead, races to catch the criminals. With only 18 hours left, he must confront powerful foes and use unconventional tactics to succeed.",
+    "released": "2025-12-25",
+    "director": "Vijay Kartikeyaa",
+    "directorSlug": "vijay-kartikeyaa",
+    "actors": [
+     "Sudeepa",
+     "Deepshika Umapathy",
+     "Naveen Chandra",
+     "Shine Tom Chacko",
+     "Yogi Babu",
+     "Vikranth"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.2",
+      "votes": 1454,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T13:11:19.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sudeepa",
+     "character": "Ajay Markendeya",
+     "slug": "sudeepa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8c5TYgGwbkcQkvC3ZlTU41OfYBN.jpg"
+    },
+    {
+     "name": "Deepshika Umapathy",
+     "character": null,
+     "slug": "deepshika-umapathy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f20SM61Foa1U7eO4KZRA0suam3j.jpg"
+    },
+    {
+     "name": "Naveen Chandra",
+     "character": null,
+     "slug": "naveen-chandra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6iEhNOOqRTOQ0JFSiv6agtqvwx9.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": null,
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Yogi Babu",
+     "character": null,
+     "slug": "yogi-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+    },
+    {
+     "name": "Vikranth",
+     "character": null,
+     "slug": "vikranth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ksMHimRUMXLwJqrZsgGx9TzyQiN.jpg"
+    },
+    {
+     "name": "Dev Gill",
+     "character": null,
+     "slug": "dev-gill",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8Ta11Sdp6jCCbBEroTbnzoRxkvw.jpg"
+    },
+    {
+     "name": "Aruldoss",
+     "character": null,
+     "slug": "aruldoss",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gDMVbi6reJPolJm9qtqYwTWyh4p.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vijay Kartikeyaa",
+       "slug": "vijay-kartikeyaa"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vijay Kartikeyaa",
+       "slug": "vijay-kartikeyaa"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "B. Ajaneesh Loknath",
+       "slug": "b-ajaneesh-loknath"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sr Ganesh Babu",
+       "slug": "sr-ganesh-babu"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "T. G. Thyagarajan",
+       "slug": "t-g-thyagarajan"
+      },
+      {
+       "name": "Sendhil Thyagarajan",
+       "slug": "sendhil-thyagarajan"
+      },
+      {
+       "name": "Arjun Thiyagarajan",
+       "slug": "arjun-thiyagarajan"
+      },
+      {
+       "name": "Sudeepa",
+       "slug": "sudeepa"
+      },
+      {
+       "name": "Priya Sudeep",
+       "slug": "priya-sudeep"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sathya Jyothi Films",
+     "slug": "sathya-jyothi-films",
+     "logo": "https://image.tmdb.org/t/p/w185/7UcboVQox12kyfByXhVMgsTLg7b.png"
+    },
+    {
+     "name": "Kiccha Creations",
+     "slug": "kiccha-creations",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-01-23",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-12-25": [
+     {
+      "id": 829,
+      "title": "Vrusshabha",
+      "img": "https://image.tmdb.org/t/p/original/hRKxGHeQBdwKswKgkmDrrMCDqoQ.jpg"
+     },
+     {
+      "id": 884,
+      "title": "Sarvam Maya",
+      "img": "https://image.tmdb.org/t/p/original/5c5FRas3ySsaQ97uVdeFKIl83TT.jpg"
+     },
+     {
+      "id": 885,
+      "title": "Anaconda",
+      "img": "https://image.tmdb.org/t/p/original/3LCrJNlAcrRBDsGGADYTWjuI7Rw.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-12-25",
+     "gross": 20950,
+     "sold": 103,
+     "unsold": 209,
+     "shows": 3,
+     "occ": 33.01,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 20950,
+     "lastUpdatedAt": "2025-12-27 19:13:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 20950,
+    "totalShows": 3,
+    "totalSeats": 312,
+    "totalSold": 103,
+    "avgOcc": "33.0",
+    "totalDays": 1,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 20950
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 20950
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:20950:20950"
+  },
+  "district": {
+   "movie": {
+    "id": 952,
+    "title": "Mark",
+    "img": "https://image.tmdb.org/t/p/original/6LTDv6XHiHN0N77QIFg2tidVvhh.jpg",
+    "released": "2025-12-25",
+    "language": "kannada",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28961625",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "144 min",
+    "genre": "Action, Thriller",
+    "plot": "Mark is suspended from his police duties for his unruly yet effective ways of operating, but when 18 children are abducted and found dead, races to catch the criminals. With only 18 hours left, he must confront powerful foes and use unconventional tactics to succeed.",
+    "released": "2025-12-25",
+    "director": "Vijay Kartikeyaa",
+    "directorSlug": "vijay-kartikeyaa",
+    "actors": [
+     "Sudeepa",
+     "Deepshika Umapathy",
+     "Naveen Chandra",
+     "Shine Tom Chacko",
+     "Yogi Babu",
+     "Vikranth"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.2",
+      "votes": 1454,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T13:11:19.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sudeepa",
+     "character": "Ajay Markendeya",
+     "slug": "sudeepa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8c5TYgGwbkcQkvC3ZlTU41OfYBN.jpg"
+    },
+    {
+     "name": "Deepshika Umapathy",
+     "character": null,
+     "slug": "deepshika-umapathy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f20SM61Foa1U7eO4KZRA0suam3j.jpg"
+    },
+    {
+     "name": "Naveen Chandra",
+     "character": null,
+     "slug": "naveen-chandra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6iEhNOOqRTOQ0JFSiv6agtqvwx9.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": null,
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Yogi Babu",
+     "character": null,
+     "slug": "yogi-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+    },
+    {
+     "name": "Vikranth",
+     "character": null,
+     "slug": "vikranth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ksMHimRUMXLwJqrZsgGx9TzyQiN.jpg"
+    },
+    {
+     "name": "Dev Gill",
+     "character": null,
+     "slug": "dev-gill",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8Ta11Sdp6jCCbBEroTbnzoRxkvw.jpg"
+    },
+    {
+     "name": "Aruldoss",
+     "character": null,
+     "slug": "aruldoss",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gDMVbi6reJPolJm9qtqYwTWyh4p.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vijay Kartikeyaa",
+       "slug": "vijay-kartikeyaa"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vijay Kartikeyaa",
+       "slug": "vijay-kartikeyaa"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "B. Ajaneesh Loknath",
+       "slug": "b-ajaneesh-loknath"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sr Ganesh Babu",
+       "slug": "sr-ganesh-babu"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "T. G. Thyagarajan",
+       "slug": "t-g-thyagarajan"
+      },
+      {
+       "name": "Sendhil Thyagarajan",
+       "slug": "sendhil-thyagarajan"
+      },
+      {
+       "name": "Arjun Thiyagarajan",
+       "slug": "arjun-thiyagarajan"
+      },
+      {
+       "name": "Sudeepa",
+       "slug": "sudeepa"
+      },
+      {
+       "name": "Priya Sudeep",
+       "slug": "priya-sudeep"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sathya Jyothi Films",
+     "slug": "sathya-jyothi-films",
+     "logo": "https://image.tmdb.org/t/p/w185/7UcboVQox12kyfByXhVMgsTLg7b.png"
+    },
+    {
+     "name": "Kiccha Creations",
+     "slug": "kiccha-creations",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-01-23",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-12-25": [
+     {
+      "id": 829,
+      "title": "Vrusshabha",
+      "img": "https://image.tmdb.org/t/p/original/hRKxGHeQBdwKswKgkmDrrMCDqoQ.jpg"
+     },
+     {
+      "id": 884,
+      "title": "Sarvam Maya",
+      "img": "https://image.tmdb.org/t/p/original/5c5FRas3ySsaQ97uVdeFKIl83TT.jpg"
+     },
+     {
+      "id": 885,
+      "title": "Anaconda",
+      "img": "https://image.tmdb.org/t/p/original/3LCrJNlAcrRBDsGGADYTWjuI7Rw.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 20950,
+     "sold": 103,
+     "unsold": 209,
+     "shows": 3,
+     "occ": 33.01,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 20950,
+     "lastUpdatedAt": "2025-12-27 19:13:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 20950,
+    "totalShows": 3,
+    "totalSeats": 312,
+    "totalSold": 103,
+    "avgOcc": "33.0",
+    "totalDays": 1,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 20950,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 20950,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:20950:20950"
+  }
+ }
+}

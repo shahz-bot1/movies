@@ -1,0 +1,48 @@
+{
+ "slug": "chris-evans",
+ "name": "Chris Evans",
+ "source_url": "https://fridaymatinee.in/people/chris-evans",
+ "captured_at": "2026-10-01T21:35:52.018253+00:00",
+ "person": {
+  "name": "Chris Evans",
+  "photo": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 515,
+   "movie_slug": "deadpool-wolverine",
+   "title": "Deadpool u0026 Wolverine",
+   "year": 2024,
+   "kerala_gross": "₹6.7 Cr"
+  },
+  {
+   "movie_id": 726,
+   "movie_slug": "materialists",
+   "title": "Materialists",
+   "year": 2025,
+   "kerala_gross": "₹4.6L"
+  },
+  {
+   "movie_id": 1288,
+   "movie_slug": "avengers-endgame-encore",
+   "title": "Avengers Endgame: Encore",
+   "year": 2026,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 794,
+   "movie_slug": "avengers-doomsday",
+   "title": "Avengers: Doomsday",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

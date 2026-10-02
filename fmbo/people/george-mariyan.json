@@ -1,0 +1,76 @@
+{
+ "slug": "george-mariyan",
+ "name": "George Mariyan",
+ "source_url": "https://fridaymatinee.in/people/george-mariyan",
+ "captured_at": "2026-10-01T22:29:52.112838+00:00",
+ "person": {
+  "name": "George Mariyan",
+  "photo": "https://image.tmdb.org/t/p/w185/izpHGWpHeMeOV7mXlhF19Hu7IER.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 8
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 21,
+   "movie_slug": "kaithi",
+   "title": "Kaithi",
+   "year": 2019,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 87,
+   "movie_slug": "enemy",
+   "title": "Enemy",
+   "year": 2021,
+   "kerala_gross": "₹39.0L"
+  },
+  {
+   "movie_id": 236,
+   "movie_slug": "kooman",
+   "title": "Kooman",
+   "year": 2022,
+   "kerala_gross": "₹6.8 Cr"
+  },
+  {
+   "movie_id": 430,
+   "movie_slug": "leo",
+   "title": "Leo",
+   "year": 2023,
+   "kerala_gross": "₹47.4 Cr"
+  },
+  {
+   "movie_id": 501,
+   "movie_slug": "manjummel-boys",
+   "title": "Manjummel Boys",
+   "year": 2024,
+   "kerala_gross": "₹55.0 Cr"
+  },
+  {
+   "movie_id": 658,
+   "movie_slug": "dragon",
+   "title": "Dragon",
+   "year": 2025,
+   "kerala_gross": "₹3.1 Cr"
+  },
+  {
+   "movie_id": 921,
+   "movie_slug": "mask",
+   "title": "Mask",
+   "year": 2025,
+   "kerala_gross": "₹3.6L"
+  },
+  {
+   "movie_id": 1106,
+   "movie_slug": "karuppu",
+   "title": "Karuppu",
+   "year": 2026,
+   "kerala_gross": "₹11.0 Cr"
+  }
+ ]
+}

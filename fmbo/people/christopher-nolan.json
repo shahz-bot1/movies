@@ -1,0 +1,51 @@
+{
+ "slug": "christopher-nolan",
+ "name": "Christopher Nolan",
+ "source_url": "https://fridaymatinee.in/people/christopher-nolan",
+ "captured_at": "2026-10-01T21:38:30.218567+00:00",
+ "person": {
+  "name": "Christopher Nolan",
+  "photo": "https://image.tmdb.org/t/p/w185/xuAIuYSmsUzKlUMBFGVZaWsY3DZ.jpg",
+  "role": "Director, producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 403,
+   "movie_slug": "oppenheimer",
+   "title": "Oppenheimer",
+   "year": 2023,
+   "kerala_gross": "₹7.1 Cr"
+  },
+  {
+   "movie_id": 642,
+   "movie_slug": "interstellar",
+   "title": "Interstellar",
+   "year": 2025,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 777,
+   "movie_slug": "the-odyssey",
+   "title": "The Odyssey",
+   "year": 2026,
+   "kerala_gross": "₹12.6 Cr"
+  }
+ ]
+}

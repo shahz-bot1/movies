@@ -1,0 +1,41 @@
+{
+ "slug": "i-m-vijayan",
+ "name": "I. M. Vijayan",
+ "source_url": "https://fridaymatinee.in/people/i-m-vijayan",
+ "captured_at": "2026-10-01T22:49:56.137512+00:00",
+ "person": {
+  "name": "I. M. Vijayan",
+  "photo": "https://image.tmdb.org/t/p/w185/rFCrBT16tXbAjvULQ1gpRx2wjj3.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 18,
+   "movie_slug": "bigil",
+   "title": "Bigil",
+   "year": 2019,
+   "kerala_gross": "₹5.4 Cr"
+  },
+  {
+   "movie_id": 250,
+   "movie_slug": "the-teacher",
+   "title": "The Teacher",
+   "year": 2022,
+   "kerala_gross": "₹19.4L"
+  },
+  {
+   "movie_id": 579,
+   "movie_slug": "gumasthan",
+   "title": "Gumasthan",
+   "year": 2024,
+   "kerala_gross": "₹54.3L"
+  }
+ ]
+}

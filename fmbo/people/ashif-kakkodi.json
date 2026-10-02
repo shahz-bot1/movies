@@ -1,0 +1,41 @@
+{
+ "slug": "ashif-kakkodi",
+ "name": "Ashif Kakkodi",
+ "source_url": "https://fridaymatinee.in/people/ashif-kakkodi",
+ "captured_at": "2026-10-01T20:59:24.007224+00:00",
+ "person": {
+  "name": "Ashif Kakkodi",
+  "photo": null,
+  "role": "Writer"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 279,
+   "movie_slug": "ayisha",
+   "title": "Ayisha",
+   "year": 2023,
+   "kerala_gross": "₹60.7L"
+  },
+  {
+   "movie_id": 292,
+   "movie_slug": "momo-in-dubai",
+   "title": "Momo in Dubai",
+   "year": 2023,
+   "kerala_gross": "₹10.1L"
+  },
+  {
+   "movie_id": 619,
+   "movie_slug": "e-d-extra-decent",
+   "title": "E D - Extra Decent",
+   "year": 2024,
+   "kerala_gross": "₹2.1 Cr"
+  }
+ ]
+}

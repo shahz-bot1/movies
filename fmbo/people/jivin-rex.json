@@ -1,0 +1,41 @@
+{
+ "slug": "jivin-rex",
+ "name": "Jivin Rex",
+ "source_url": "https://fridaymatinee.in/people/jivin-rex",
+ "captured_at": "2026-10-01T23:17:29.156450+00:00",
+ "person": {
+  "name": "Jivin Rex",
+  "photo": null,
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 745,
+   "movie_slug": "soothravakyam",
+   "title": "Soothravakyam",
+   "year": 2025,
+   "kerala_gross": "₹40.5L"
+  },
+  {
+   "movie_id": 779,
+   "movie_slug": "maine-pyar-kiya",
+   "title": "Maine Pyar Kiya",
+   "year": 2025,
+   "kerala_gross": "₹37.1L"
+  },
+  {
+   "movie_id": 1064,
+   "movie_slug": "bharathanatyam-2-mohiniyattam",
+   "title": "Bharathanatyam 2 Mohiniyattam",
+   "year": 2026,
+   "kerala_gross": "₹23.0 Cr"
+  }
+ ]
+}

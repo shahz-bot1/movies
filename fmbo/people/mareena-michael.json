@@ -1,0 +1,48 @@
+{
+ "slug": "mareena-michael",
+ "name": "Mareena Michael",
+ "source_url": "https://fridaymatinee.in/people/mareena-michael",
+ "captured_at": "2026-10-02T00:22:17.033970+00:00",
+ "person": {
+  "name": "Mareena Michael",
+  "photo": "https://image.tmdb.org/t/p/w185/zBtoWhF9bFAILmEaIC8TWA7ucxL.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 162,
+   "movie_slug": "padma",
+   "title": "Padma",
+   "year": 2022,
+   "kerala_gross": "₹8.8L"
+  },
+  {
+   "movie_id": 1096,
+   "movie_slug": "revolver-rinko",
+   "title": "Revolver Rinko",
+   "year": 2026,
+   "kerala_gross": "₹25.9L"
+  },
+  {
+   "movie_id": 1154,
+   "movie_slug": "secret-of-kalinga",
+   "title": "Secret of Kalinga",
+   "year": 2026,
+   "kerala_gross": "₹32.1L"
+  },
+  {
+   "movie_id": 1232,
+   "movie_slug": "madhuramee-jeevitham",
+   "title": "Madhuramee Jeevitham",
+   "year": 2026,
+   "kerala_gross": "₹3K"
+  }
+ ]
+}

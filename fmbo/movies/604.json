@@ -1,0 +1,726 @@
+{
+ "id": 604,
+ "slug": "hello-mummy",
+ "source_url": "https://fridaymatinee.in/boxoffice/hello-mummy-604",
+ "captured_at": "2026-10-01T18:16:48.032574+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 604,
+    "title": "Hello Mummy",
+    "img": "https://image.tmdb.org/t/p/original/gscmBqhpsbqy52pPaxiCbiqkukR.jpg",
+    "released": "2024-11-21",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31702438",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "136 min",
+    "genre": "Fantasy, Comedy",
+    "plot": "Boney, a carefree man finds his life turned upside down after marriage when hes forced to deal with the restless spirit of his obsessive-compulsive mother-in-law.",
+    "released": "2024-11-21",
+    "director": "Vaishakh Elans",
+    "directorSlug": "vaishakh-elans",
+    "actors": [
+     "Sharafudheen",
+     "Aishwarya Lekshmi",
+     "Sunny Hinduja",
+     "Aju Varghese",
+     "Jagadish",
+     "Johny Antony"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.5",
+      "votes": 3494,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sharafudheen",
+     "character": "Bony",
+     "slug": "sharafudheen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+    },
+    {
+     "name": "Aishwarya Lekshmi",
+     "character": "Stephy",
+     "slug": "aishwarya-lekshmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b3yxjhc62X0JZghaRTYNMVrI78a.jpg"
+    },
+    {
+     "name": "Sunny Hinduja",
+     "character": "Ashabha",
+     "slug": "sunny-hinduja",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8x08qf2ESUpU5aVh1m4PfLdqBkG.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Boss",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Samuel",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Johny Antony",
+     "character": "Philip",
+     "slug": "johny-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fzNgCkDfWEmFknCDuU81Ypftmzg.jpg"
+    },
+    {
+     "name": "Bindu Panicker",
+     "character": "Kanchamma",
+     "slug": "bindu-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/18KNkcI2UpSASkztGHJCGDtw4bP.jpg"
+    },
+    {
+     "name": "Adhri Joe",
+     "character": "Thomson",
+     "slug": "adhri-joe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ig7WT04NABdtjvgy3tChK6T0ceS.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vaishakh Elans",
+       "slug": "vaishakh-elans"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sanjo Joesph",
+       "slug": "sanjo-joesph"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Praveen Kumar",
+       "slug": "praveen-kumar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Chaman Chakko",
+       "slug": "chaman-chakko"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jobin Mathew",
+       "slug": "jobin-mathew"
+      },
+      {
+       "name": "Rahul ES",
+       "slug": "rahul-es"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Hangover Films",
+     "slug": "hangover-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 65715749,
+    "totalShows": 8785,
+    "totalDays": 50,
+    "openingDay": {
+     "day": 1,
+     "gross": 2926641.0000000005,
+     "date": "2024-11-21"
+    },
+    "peakDay": {
+     "day": 11,
+     "gross": 6245339,
+     "date": "2024-12-01"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 80,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-11-21"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 604,
+    "title": "Hello Mummy",
+    "img": "https://image.tmdb.org/t/p/original/gscmBqhpsbqy52pPaxiCbiqkukR.jpg",
+    "released": "2024-11-21",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31702438",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "136 min",
+    "genre": "Fantasy, Comedy",
+    "plot": "Boney, a carefree man finds his life turned upside down after marriage when hes forced to deal with the restless spirit of his obsessive-compulsive mother-in-law.",
+    "released": "2024-11-21",
+    "director": "Vaishakh Elans",
+    "directorSlug": "vaishakh-elans",
+    "actors": [
+     "Sharafudheen",
+     "Aishwarya Lekshmi",
+     "Sunny Hinduja",
+     "Aju Varghese",
+     "Jagadish",
+     "Johny Antony"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.5",
+      "votes": 3494,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sharafudheen",
+     "character": "Bony",
+     "slug": "sharafudheen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+    },
+    {
+     "name": "Aishwarya Lekshmi",
+     "character": "Stephy",
+     "slug": "aishwarya-lekshmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b3yxjhc62X0JZghaRTYNMVrI78a.jpg"
+    },
+    {
+     "name": "Sunny Hinduja",
+     "character": "Ashabha",
+     "slug": "sunny-hinduja",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8x08qf2ESUpU5aVh1m4PfLdqBkG.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Boss",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Samuel",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Johny Antony",
+     "character": "Philip",
+     "slug": "johny-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fzNgCkDfWEmFknCDuU81Ypftmzg.jpg"
+    },
+    {
+     "name": "Bindu Panicker",
+     "character": "Kanchamma",
+     "slug": "bindu-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/18KNkcI2UpSASkztGHJCGDtw4bP.jpg"
+    },
+    {
+     "name": "Adhri Joe",
+     "character": "Thomson",
+     "slug": "adhri-joe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ig7WT04NABdtjvgy3tChK6T0ceS.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vaishakh Elans",
+       "slug": "vaishakh-elans"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sanjo Joesph",
+       "slug": "sanjo-joesph"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Praveen Kumar",
+       "slug": "praveen-kumar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Chaman Chakko",
+       "slug": "chaman-chakko"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jobin Mathew",
+       "slug": "jobin-mathew"
+      },
+      {
+       "name": "Rahul ES",
+       "slug": "rahul-es"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Hangover Films",
+     "slug": "hangover-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-11-21",
+     "gross": 19537381.200000003,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2602,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-11-28",
+     "gross": 22373366.8,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2596,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-12-05",
+     "gross": 10844217.2,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1635,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-12-12",
+     "gross": 9618899.2,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1531,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-12-19",
+     "gross": 1849254.5999999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 276,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-12-26",
+     "gross": 1086230,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 84,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-02",
+     "gross": 397400,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 56,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-09",
+     "gross": 9000,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 65715749.00000001,
+    "totalShows": 8785,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 19537381.200000003
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 22373366.8
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 80,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-11-21"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 604,
+    "title": "Hello Mummy",
+    "img": "https://image.tmdb.org/t/p/original/gscmBqhpsbqy52pPaxiCbiqkukR.jpg",
+    "released": "2024-11-21",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31702438",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "136 min",
+    "genre": "Fantasy, Comedy",
+    "plot": "Boney, a carefree man finds his life turned upside down after marriage when hes forced to deal with the restless spirit of his obsessive-compulsive mother-in-law.",
+    "released": "2024-11-21",
+    "director": "Vaishakh Elans",
+    "directorSlug": "vaishakh-elans",
+    "actors": [
+     "Sharafudheen",
+     "Aishwarya Lekshmi",
+     "Sunny Hinduja",
+     "Aju Varghese",
+     "Jagadish",
+     "Johny Antony"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.5",
+      "votes": 3494,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sharafudheen",
+     "character": "Bony",
+     "slug": "sharafudheen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+    },
+    {
+     "name": "Aishwarya Lekshmi",
+     "character": "Stephy",
+     "slug": "aishwarya-lekshmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b3yxjhc62X0JZghaRTYNMVrI78a.jpg"
+    },
+    {
+     "name": "Sunny Hinduja",
+     "character": "Ashabha",
+     "slug": "sunny-hinduja",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8x08qf2ESUpU5aVh1m4PfLdqBkG.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Boss",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Samuel",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Johny Antony",
+     "character": "Philip",
+     "slug": "johny-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fzNgCkDfWEmFknCDuU81Ypftmzg.jpg"
+    },
+    {
+     "name": "Bindu Panicker",
+     "character": "Kanchamma",
+     "slug": "bindu-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/18KNkcI2UpSASkztGHJCGDtw4bP.jpg"
+    },
+    {
+     "name": "Adhri Joe",
+     "character": "Thomson",
+     "slug": "adhri-joe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ig7WT04NABdtjvgy3tChK6T0ceS.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vaishakh Elans",
+       "slug": "vaishakh-elans"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sanjo Joesph",
+       "slug": "sanjo-joesph"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Praveen Kumar",
+       "slug": "praveen-kumar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Chaman Chakko",
+       "slug": "chaman-chakko"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jobin Mathew",
+       "slug": "jobin-mathew"
+      },
+      {
+       "name": "Rahul ES",
+       "slug": "rahul-es"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Hangover Films",
+     "slug": "hangover-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 65715748.99999999,
+    "totalShows": 8785,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 25917629,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 25917629,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 80,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-11-21"
+   }
+  }
+ }
+}

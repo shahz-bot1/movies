@@ -1,0 +1,41 @@
+{
+ "slug": "jack-black",
+ "name": "Jack Black",
+ "source_url": "https://fridaymatinee.in/people/jack-black",
+ "captured_at": "2026-10-01T22:56:27.026687+00:00",
+ "person": {
+  "name": "Jack Black",
+  "photo": "https://image.tmdb.org/t/p/w185/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 670,
+   "movie_slug": "a-minecraft-movie",
+   "title": "A Minecraft Movie",
+   "year": 2025,
+   "kerala_gross": "₹52.7L"
+  },
+  {
+   "movie_id": 885,
+   "movie_slug": "anaconda",
+   "title": "Anaconda",
+   "year": 2025,
+   "kerala_gross": "₹31.6L"
+  },
+  {
+   "movie_id": 1049,
+   "movie_slug": "the-super-mario-galaxy-movie",
+   "title": "The Super Mario Galaxy Movie",
+   "year": 2026,
+   "kerala_gross": "₹31.2L"
+  }
+ ]
+}

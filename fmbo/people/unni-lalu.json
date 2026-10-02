@@ -1,0 +1,55 @@
+{
+ "slug": "unni-lalu",
+ "name": "Unni Lalu",
+ "source_url": "https://fridaymatinee.in/people/unni-lalu",
+ "captured_at": "2026-10-02T11:33:07.641885+00:00",
+ "person": {
+  "name": "Unni Lalu",
+  "photo": "https://image.tmdb.org/t/p/w185/rqWYqbCnsV3CaOSTIsFruu4fhUy.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 654,
+   "movie_slug": "officer-on-duty",
+   "title": "Officer On Duty",
+   "year": 2025,
+   "kerala_gross": "₹23.6 Cr"
+  },
+  {
+   "movie_id": 766,
+   "movie_slug": "meesha",
+   "title": "Meesha",
+   "year": 2025,
+   "kerala_gross": "₹21.6L"
+  },
+  {
+   "movie_id": 880,
+   "movie_slug": "innocent",
+   "title": "Innocent",
+   "year": 2025,
+   "kerala_gross": "₹1.0 Cr"
+  },
+  {
+   "movie_id": 1041,
+   "movie_slug": "bhishmar",
+   "title": "Bhishmar",
+   "year": 2026,
+   "kerala_gross": "₹35.8L"
+  },
+  {
+   "movie_id": 1314,
+   "movie_slug": "aaram",
+   "title": "Aaram",
+   "year": 2026,
+   "kerala_gross": "₹1.0 Cr"
+  }
+ ]
+}

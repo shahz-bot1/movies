@@ -1,0 +1,832 @@
+{
+ "id": 1242,
+ "slug": "one-night-only",
+ "source_url": "https://fridaymatinee.in/boxoffice/one-night-only-1242",
+ "captured_at": "2026-10-01T19:53:56.539395+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1242,
+    "title": "One Night Only",
+    "img": "https://image.tmdb.org/t/p/original/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg",
+    "released": "2026-08-21",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt37853455",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "102 min",
+    "genre": "Comedy, Romance",
+    "plot": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+    "released": "2026-08-06",
+    "director": "Will Gluck",
+    "directorSlug": "will-gluck",
+    "actors": [
+     "Monica Barbaro",
+     "Callum Turner",
+     "Maya Hawke",
+     "King Princess",
+     "Molly Ringwald",
+     "LeVar Burton"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 14023,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.5",
+      "votes": 165,
+      "updatedAt": "2026-09-30T16:10:13.000Z"
+     },
+     "rt": "43%",
+     "metascore": 42,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Monica Barbaro",
+     "character": "Allie",
+     "slug": "monica-barbaro",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fcujBTiKyZgJzaDenhv5ryo9SyB.jpg"
+    },
+    {
+     "name": "Callum Turner",
+     "character": "Owen",
+     "slug": "callum-turner",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b9Sz10HU71SQ5wrx7CfWPKQ4vDJ.jpg"
+    },
+    {
+     "name": "Maya Hawke",
+     "character": "Malika",
+     "slug": "maya-hawke",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7oihORN6wlSC9qKULcpVq7Kqv1l.jpg"
+    },
+    {
+     "name": "King Princess",
+     "character": "Jacinta",
+     "slug": "king-princess",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hQFDqQj5fmprYGOsKZMVRLCPJFd.jpg"
+    },
+    {
+     "name": "Molly Ringwald",
+     "character": "Linda",
+     "slug": "molly-ringwald",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eXRphPiX18t8C3nCoOuxQFNegqP.jpg"
+    },
+    {
+     "name": "LeVar Burton",
+     "character": "Rick",
+     "slug": "levar-burton",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tC74tISKpFGmJkrw24MMLix5nNa.jpg"
+    },
+    {
+     "name": "Charlie Gillespie",
+     "character": "Ezra Strong",
+     "slug": "charlie-gillespie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wFNpaCIveZ5DXCCJhproXWdKlEi.jpg"
+    },
+    {
+     "name": "Quintessa Swindell",
+     "character": "Arya",
+     "slug": "quintessa-swindell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3rWuQThPernDgpluR1Q8xDgg3Tu.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Will Gluck",
+       "slug": "will-gluck"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Travis Braun",
+       "slug": "travis-braun"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Este Haim",
+       "slug": "este-haim"
+      },
+      {
+       "name": "Christopher Stracey",
+       "slug": "christopher-stracey"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Yaron Orbach",
+       "slug": "yaron-orbach"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Tia Nolan",
+       "slug": "tia-nolan"
+      },
+      {
+       "name": "Robert Nassau",
+       "slug": "robert-nassau"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Will Gluck",
+       "slug": "will-gluck"
+      },
+      {
+       "name": "Jacqueline Monetta",
+       "slug": "jacqueline-monetta"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Universal Pictures",
+     "slug": "universal-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8lvHyhjr8oUKOOy2dKXoALWKdp0.png"
+    },
+    {
+     "name": "Olive Bridge Entertainment",
+     "slug": "olive-bridge-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/6zGTlhcxjcMoXp0PY7T2vXtTQSo.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-08-26": [
+     {
+      "id": 669,
+      "title": "Toxic",
+      "img": "https://image.tmdb.org/t/p/original/fJBAfLiNfovSAb6KjkIndpF3Sm7.jpg"
+     }
+    ],
+    "2026-08-21": [
+     {
+      "id": 1234,
+      "title": "Bethlehem Kudumba Unit",
+      "img": "https://image.tmdb.org/t/p/original/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg"
+     },
+     {
+      "id": 1235,
+      "title": "Insidious: Out of the Further",
+      "img": "https://image.tmdb.org/t/p/original/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
+     },
+     {
+      "id": 1237,
+      "title": "PAW Patrol: The Dino Movie",
+      "img": "https://image.tmdb.org/t/p/original/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-08-21",
+     "gross": 8380,
+     "sold": 29,
+     "unsold": 799,
+     "shows": 6,
+     "occ": 3.5,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 8380,
+     "lastUpdatedAt": "2026-08-21 20:43:01"
+    },
+    {
+     "label": "2026-08-22",
+     "gross": 39050,
+     "sold": 161,
+     "unsold": 667,
+     "shows": 6,
+     "occ": 19.44,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 47430,
+     "lastUpdatedAt": "2026-08-22 20:43:01"
+    },
+    {
+     "label": "2026-08-23",
+     "gross": 10480,
+     "sold": 43,
+     "unsold": 400,
+     "shows": 3,
+     "occ": 9.71,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 57910,
+     "lastUpdatedAt": "2026-08-23 20:43:01"
+    },
+    {
+     "label": "2026-08-24",
+     "gross": 28010,
+     "sold": 119,
+     "unsold": 279,
+     "shows": 3,
+     "occ": 29.9,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 85920,
+     "lastUpdatedAt": "2026-08-24 18:23:01"
+    },
+    {
+     "label": "2026-08-25",
+     "gross": 26910,
+     "sold": 113,
+     "unsold": 285,
+     "shows": 3,
+     "occ": 28.39,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 112830,
+     "lastUpdatedAt": "2026-08-25 21:28:01"
+    },
+    {
+     "label": "2026-08-26",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 106,
+     "shows": 1,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 112830,
+     "lastUpdatedAt": "2026-08-26 21:28:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 112830,
+    "totalShows": 22,
+    "totalSeats": 3001,
+    "totalSold": 465,
+    "avgOcc": "15.5",
+    "totalDays": 6,
+    "totalHousefull": 3,
+    "totalAlmost": 3,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 2,
+     "gross": 39050,
+     "date": "2026-08-22"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 8380,
+     "date": "2026-08-21"
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "6:0:112830"
+  },
+  "week": {
+   "movie": {
+    "id": 1242,
+    "title": "One Night Only",
+    "img": "https://image.tmdb.org/t/p/original/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg",
+    "released": "2026-08-21",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt37853455",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "102 min",
+    "genre": "Comedy, Romance",
+    "plot": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+    "released": "2026-08-06",
+    "director": "Will Gluck",
+    "directorSlug": "will-gluck",
+    "actors": [
+     "Monica Barbaro",
+     "Callum Turner",
+     "Maya Hawke",
+     "King Princess",
+     "Molly Ringwald",
+     "LeVar Burton"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 14023,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.5",
+      "votes": 165,
+      "updatedAt": "2026-09-30T16:10:13.000Z"
+     },
+     "rt": "43%",
+     "metascore": 42,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Monica Barbaro",
+     "character": "Allie",
+     "slug": "monica-barbaro",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fcujBTiKyZgJzaDenhv5ryo9SyB.jpg"
+    },
+    {
+     "name": "Callum Turner",
+     "character": "Owen",
+     "slug": "callum-turner",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b9Sz10HU71SQ5wrx7CfWPKQ4vDJ.jpg"
+    },
+    {
+     "name": "Maya Hawke",
+     "character": "Malika",
+     "slug": "maya-hawke",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7oihORN6wlSC9qKULcpVq7Kqv1l.jpg"
+    },
+    {
+     "name": "King Princess",
+     "character": "Jacinta",
+     "slug": "king-princess",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hQFDqQj5fmprYGOsKZMVRLCPJFd.jpg"
+    },
+    {
+     "name": "Molly Ringwald",
+     "character": "Linda",
+     "slug": "molly-ringwald",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eXRphPiX18t8C3nCoOuxQFNegqP.jpg"
+    },
+    {
+     "name": "LeVar Burton",
+     "character": "Rick",
+     "slug": "levar-burton",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tC74tISKpFGmJkrw24MMLix5nNa.jpg"
+    },
+    {
+     "name": "Charlie Gillespie",
+     "character": "Ezra Strong",
+     "slug": "charlie-gillespie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wFNpaCIveZ5DXCCJhproXWdKlEi.jpg"
+    },
+    {
+     "name": "Quintessa Swindell",
+     "character": "Arya",
+     "slug": "quintessa-swindell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3rWuQThPernDgpluR1Q8xDgg3Tu.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Will Gluck",
+       "slug": "will-gluck"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Travis Braun",
+       "slug": "travis-braun"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Este Haim",
+       "slug": "este-haim"
+      },
+      {
+       "name": "Christopher Stracey",
+       "slug": "christopher-stracey"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Yaron Orbach",
+       "slug": "yaron-orbach"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Tia Nolan",
+       "slug": "tia-nolan"
+      },
+      {
+       "name": "Robert Nassau",
+       "slug": "robert-nassau"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Will Gluck",
+       "slug": "will-gluck"
+      },
+      {
+       "name": "Jacqueline Monetta",
+       "slug": "jacqueline-monetta"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Universal Pictures",
+     "slug": "universal-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8lvHyhjr8oUKOOy2dKXoALWKdp0.png"
+    },
+    {
+     "name": "Olive Bridge Entertainment",
+     "slug": "olive-bridge-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/6zGTlhcxjcMoXp0PY7T2vXtTQSo.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-08-26": [
+     {
+      "id": 669,
+      "title": "Toxic",
+      "img": "https://image.tmdb.org/t/p/original/fJBAfLiNfovSAb6KjkIndpF3Sm7.jpg"
+     }
+    ],
+    "2026-08-21": [
+     {
+      "id": 1234,
+      "title": "Bethlehem Kudumba Unit",
+      "img": "https://image.tmdb.org/t/p/original/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg"
+     },
+     {
+      "id": 1235,
+      "title": "Insidious: Out of the Further",
+      "img": "https://image.tmdb.org/t/p/original/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
+     },
+     {
+      "id": 1237,
+      "title": "PAW Patrol: The Dino Movie",
+      "img": "https://image.tmdb.org/t/p/original/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-08-21",
+     "gross": 112830,
+     "sold": 465,
+     "unsold": 2536,
+     "shows": 22,
+     "occ": 15.49,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 112830,
+     "lastUpdatedAt": "2026-08-26 21:28:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 112830,
+    "totalShows": 22,
+    "totalSeats": 3001,
+    "totalSold": 465,
+    "avgOcc": "15.5",
+    "totalDays": 1,
+    "totalHousefull": 3,
+    "totalAlmost": 3,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 112830
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 112830
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "1:112830:112830"
+  },
+  "district": {
+   "movie": {
+    "id": 1242,
+    "title": "One Night Only",
+    "img": "https://image.tmdb.org/t/p/original/9LGEqZvzI7Tsosf8srwEY48rZsD.jpg",
+    "released": "2026-08-21",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt37853455",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "102 min",
+    "genre": "Comedy, Romance",
+    "plot": "Two love-starved strangers crash into each other on the one night of the year when single people are allowed to have sex.",
+    "released": "2026-08-06",
+    "director": "Will Gluck",
+    "directorSlug": "will-gluck",
+    "actors": [
+     "Monica Barbaro",
+     "Callum Turner",
+     "Maya Hawke",
+     "King Princess",
+     "Molly Ringwald",
+     "LeVar Burton"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 14023,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.5",
+      "votes": 165,
+      "updatedAt": "2026-09-30T16:10:13.000Z"
+     },
+     "rt": "43%",
+     "metascore": 42,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Monica Barbaro",
+     "character": "Allie",
+     "slug": "monica-barbaro",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fcujBTiKyZgJzaDenhv5ryo9SyB.jpg"
+    },
+    {
+     "name": "Callum Turner",
+     "character": "Owen",
+     "slug": "callum-turner",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b9Sz10HU71SQ5wrx7CfWPKQ4vDJ.jpg"
+    },
+    {
+     "name": "Maya Hawke",
+     "character": "Malika",
+     "slug": "maya-hawke",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7oihORN6wlSC9qKULcpVq7Kqv1l.jpg"
+    },
+    {
+     "name": "King Princess",
+     "character": "Jacinta",
+     "slug": "king-princess",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hQFDqQj5fmprYGOsKZMVRLCPJFd.jpg"
+    },
+    {
+     "name": "Molly Ringwald",
+     "character": "Linda",
+     "slug": "molly-ringwald",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eXRphPiX18t8C3nCoOuxQFNegqP.jpg"
+    },
+    {
+     "name": "LeVar Burton",
+     "character": "Rick",
+     "slug": "levar-burton",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tC74tISKpFGmJkrw24MMLix5nNa.jpg"
+    },
+    {
+     "name": "Charlie Gillespie",
+     "character": "Ezra Strong",
+     "slug": "charlie-gillespie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wFNpaCIveZ5DXCCJhproXWdKlEi.jpg"
+    },
+    {
+     "name": "Quintessa Swindell",
+     "character": "Arya",
+     "slug": "quintessa-swindell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3rWuQThPernDgpluR1Q8xDgg3Tu.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Will Gluck",
+       "slug": "will-gluck"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Travis Braun",
+       "slug": "travis-braun"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Este Haim",
+       "slug": "este-haim"
+      },
+      {
+       "name": "Christopher Stracey",
+       "slug": "christopher-stracey"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Yaron Orbach",
+       "slug": "yaron-orbach"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Tia Nolan",
+       "slug": "tia-nolan"
+      },
+      {
+       "name": "Robert Nassau",
+       "slug": "robert-nassau"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Will Gluck",
+       "slug": "will-gluck"
+      },
+      {
+       "name": "Jacqueline Monetta",
+       "slug": "jacqueline-monetta"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Universal Pictures",
+     "slug": "universal-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8lvHyhjr8oUKOOy2dKXoALWKdp0.png"
+    },
+    {
+     "name": "Olive Bridge Entertainment",
+     "slug": "olive-bridge-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/6zGTlhcxjcMoXp0PY7T2vXtTQSo.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-08-26": [
+     {
+      "id": 669,
+      "title": "Toxic",
+      "img": "https://image.tmdb.org/t/p/original/fJBAfLiNfovSAb6KjkIndpF3Sm7.jpg"
+     }
+    ],
+    "2026-08-21": [
+     {
+      "id": 1234,
+      "title": "Bethlehem Kudumba Unit",
+      "img": "https://image.tmdb.org/t/p/original/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg"
+     },
+     {
+      "id": 1235,
+      "title": "Insidious: Out of the Further",
+      "img": "https://image.tmdb.org/t/p/original/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
+     },
+     {
+      "id": 1237,
+      "title": "PAW Patrol: The Dino Movie",
+      "img": "https://image.tmdb.org/t/p/original/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 95970,
+     "sold": 407,
+     "unsold": 1116,
+     "shows": 11,
+     "occ": 26.72,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 95970,
+     "lastUpdatedAt": "2026-08-26 21:28:01"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 8520,
+     "sold": 33,
+     "unsold": 381,
+     "shows": 3,
+     "occ": 7.97,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 104490,
+     "lastUpdatedAt": "2026-08-23 17:58:01"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 8340,
+     "sold": 25,
+     "unsold": 1039,
+     "shows": 8,
+     "occ": 2.35,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 112830,
+     "lastUpdatedAt": "2026-08-25 16:28:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 112830,
+    "totalShows": 22,
+    "totalSeats": 3001,
+    "totalSold": 465,
+    "avgOcc": "15.5",
+    "totalDays": 3,
+    "totalHousefull": 3,
+    "totalAlmost": 3,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 95970,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 95970,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "3:8340:112830"
+  }
+ }
+}

@@ -1,0 +1,693 @@
+{
+ "id": 236,
+ "slug": "kooman",
+ "source_url": "https://fridaymatinee.in/boxoffice/kooman-236",
+ "captured_at": "2026-10-01T18:07:28.037781+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 236,
+    "title": "Kooman",
+    "img": "https://images2.imgbox.com/b8/92/39AK1faf_o.jpg",
+    "released": "2022-11-04",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt17632818",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "151 min",
+    "genre": "Drama, Mystery, Thriller",
+    "plot": "The story takes place in a hilly village on the Kerala-Tamil Nadu border. The story is about a strict police officer who relocates there and the subsequent events that turn his and many other's lives upside down associated with that police station. Few normal incidents happen in the village, and some from the past suddenly appear to be abnormal. The secrets slowly start unfolding.",
+    "released": "2022-11-04",
+    "director": "Jeethu Joseph",
+    "directorSlug": "jeethu-joseph",
+    "actors": [
+     "Asif Ali",
+     "Renji Panicker",
+     "Baburaj",
+     "Jaffer Idukki",
+     "Hannah Reji Koshy",
+     "Adam Ayub"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 5376,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Asif Ali",
+     "character": "Giri Shankar",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "CI Somasekharan Pillai",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5MGztWs1yxlptGDzeofC2jG7cAm.jpg"
+    },
+    {
+     "name": "Baburaj",
+     "character": "CI Harilal",
+     "slug": "baburaj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nuJ7GhTfuBrlGBWeMPIYr59O8kP.jpg"
+    },
+    {
+     "name": "Jaffer Idukki",
+     "character": "Maniyan",
+     "slug": "jaffer-idukki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6kkv7LDD0NIGFTKZyrgGH5KGZpR.jpg"
+    },
+    {
+     "name": "Hannah Reji Koshy",
+     "character": "Lakshmi",
+     "slug": "hannah-reji-koshy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7JiW2EsAwOrQqpbEpXHM1JZmgF0.jpg"
+    },
+    {
+     "name": "Adam Ayub",
+     "character": "Acharyan",
+     "slug": "adam-ayub",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Nandhu",
+     "character": "Subbayya Swami",
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    },
+    {
+     "name": "Baiju Santhosh",
+     "character": "Thambi",
+     "slug": "baiju-santhosh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mAGYsgiYZ5A3B24jx5PZdibN87I.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "K R Krishna Kumar",
+       "slug": "k-r-krishna-kumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Shyam",
+       "slug": "vishnu-shyam"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "V S Vinayak",
+       "slug": "v-s-vinayak"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Listin Stephen",
+       "slug": "listin-stephen"
+      },
+      {
+       "name": "Alwin Antony",
+       "slug": "alwin-antony"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ananya Films",
+     "slug": "ananya-films",
+     "logo": "https://image.tmdb.org/t/p/w185/yZPYgyqgwqHVLGov1LCRx2IJMby.png"
+    },
+    {
+     "name": "Magic Frames",
+     "slug": "magic-frames",
+     "logo": "https://image.tmdb.org/t/p/w185/ijEKkNlryVxGWEjVPkCAippmURD.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-12-02",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2760,
+      "name": "Ultraplaybox Amazon Channel",
+      "logoPath": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 68449845.91,
+    "totalShows": 8142,
+    "totalDays": 30,
+    "openingDay": {
+     "day": 1,
+     "gross": 4479270.6,
+     "date": "2022-11-04"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 9365380.6,
+     "date": "2022-11-06"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 27,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-11-04"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 236,
+    "title": "Kooman",
+    "img": "https://images2.imgbox.com/b8/92/39AK1faf_o.jpg",
+    "released": "2022-11-04",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt17632818",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "151 min",
+    "genre": "Drama, Mystery, Thriller",
+    "plot": "The story takes place in a hilly village on the Kerala-Tamil Nadu border. The story is about a strict police officer who relocates there and the subsequent events that turn his and many other's lives upside down associated with that police station. Few normal incidents happen in the village, and some from the past suddenly appear to be abnormal. The secrets slowly start unfolding.",
+    "released": "2022-11-04",
+    "director": "Jeethu Joseph",
+    "directorSlug": "jeethu-joseph",
+    "actors": [
+     "Asif Ali",
+     "Renji Panicker",
+     "Baburaj",
+     "Jaffer Idukki",
+     "Hannah Reji Koshy",
+     "Adam Ayub"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 5376,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Asif Ali",
+     "character": "Giri Shankar",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "CI Somasekharan Pillai",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5MGztWs1yxlptGDzeofC2jG7cAm.jpg"
+    },
+    {
+     "name": "Baburaj",
+     "character": "CI Harilal",
+     "slug": "baburaj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nuJ7GhTfuBrlGBWeMPIYr59O8kP.jpg"
+    },
+    {
+     "name": "Jaffer Idukki",
+     "character": "Maniyan",
+     "slug": "jaffer-idukki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6kkv7LDD0NIGFTKZyrgGH5KGZpR.jpg"
+    },
+    {
+     "name": "Hannah Reji Koshy",
+     "character": "Lakshmi",
+     "slug": "hannah-reji-koshy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7JiW2EsAwOrQqpbEpXHM1JZmgF0.jpg"
+    },
+    {
+     "name": "Adam Ayub",
+     "character": "Acharyan",
+     "slug": "adam-ayub",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Nandhu",
+     "character": "Subbayya Swami",
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    },
+    {
+     "name": "Baiju Santhosh",
+     "character": "Thambi",
+     "slug": "baiju-santhosh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mAGYsgiYZ5A3B24jx5PZdibN87I.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "K R Krishna Kumar",
+       "slug": "k-r-krishna-kumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Shyam",
+       "slug": "vishnu-shyam"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "V S Vinayak",
+       "slug": "v-s-vinayak"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Listin Stephen",
+       "slug": "listin-stephen"
+      },
+      {
+       "name": "Alwin Antony",
+       "slug": "alwin-antony"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ananya Films",
+     "slug": "ananya-films",
+     "logo": "https://image.tmdb.org/t/p/w185/yZPYgyqgwqHVLGov1LCRx2IJMby.png"
+    },
+    {
+     "name": "Magic Frames",
+     "slug": "magic-frames",
+     "logo": "https://image.tmdb.org/t/p/w185/ijEKkNlryVxGWEjVPkCAippmURD.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-12-02",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2760,
+      "name": "Ultraplaybox Amazon Channel",
+      "logoPath": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-11-04",
+     "gross": 37249755.2,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2893,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-11-11",
+     "gross": 21282272.600000005,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2881,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-11-18",
+     "gross": 7689671.1099999985,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1763,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-11-25",
+     "gross": 2120937,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 581,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-12-02",
+     "gross": 107210,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 24,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 68449845.91000001,
+    "totalShows": 8142,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 37249755.2
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 37249755.2
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 27,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-11-04"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 236,
+    "title": "Kooman",
+    "img": "https://images2.imgbox.com/b8/92/39AK1faf_o.jpg",
+    "released": "2022-11-04",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt17632818",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "151 min",
+    "genre": "Drama, Mystery, Thriller",
+    "plot": "The story takes place in a hilly village on the Kerala-Tamil Nadu border. The story is about a strict police officer who relocates there and the subsequent events that turn his and many other's lives upside down associated with that police station. Few normal incidents happen in the village, and some from the past suddenly appear to be abnormal. The secrets slowly start unfolding.",
+    "released": "2022-11-04",
+    "director": "Jeethu Joseph",
+    "directorSlug": "jeethu-joseph",
+    "actors": [
+     "Asif Ali",
+     "Renji Panicker",
+     "Baburaj",
+     "Jaffer Idukki",
+     "Hannah Reji Koshy",
+     "Adam Ayub"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 5376,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Asif Ali",
+     "character": "Giri Shankar",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "CI Somasekharan Pillai",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5MGztWs1yxlptGDzeofC2jG7cAm.jpg"
+    },
+    {
+     "name": "Baburaj",
+     "character": "CI Harilal",
+     "slug": "baburaj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nuJ7GhTfuBrlGBWeMPIYr59O8kP.jpg"
+    },
+    {
+     "name": "Jaffer Idukki",
+     "character": "Maniyan",
+     "slug": "jaffer-idukki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6kkv7LDD0NIGFTKZyrgGH5KGZpR.jpg"
+    },
+    {
+     "name": "Hannah Reji Koshy",
+     "character": "Lakshmi",
+     "slug": "hannah-reji-koshy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7JiW2EsAwOrQqpbEpXHM1JZmgF0.jpg"
+    },
+    {
+     "name": "Adam Ayub",
+     "character": "Acharyan",
+     "slug": "adam-ayub",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Nandhu",
+     "character": "Subbayya Swami",
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    },
+    {
+     "name": "Baiju Santhosh",
+     "character": "Thambi",
+     "slug": "baiju-santhosh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mAGYsgiYZ5A3B24jx5PZdibN87I.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jeethu Joseph",
+       "slug": "jeethu-joseph"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "K R Krishna Kumar",
+       "slug": "k-r-krishna-kumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Shyam",
+       "slug": "vishnu-shyam"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "V S Vinayak",
+       "slug": "v-s-vinayak"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Listin Stephen",
+       "slug": "listin-stephen"
+      },
+      {
+       "name": "Alwin Antony",
+       "slug": "alwin-antony"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ananya Films",
+     "slug": "ananya-films",
+     "logo": "https://image.tmdb.org/t/p/w185/yZPYgyqgwqHVLGov1LCRx2IJMby.png"
+    },
+    {
+     "name": "Magic Frames",
+     "slug": "magic-frames",
+     "logo": "https://image.tmdb.org/t/p/w185/ijEKkNlryVxGWEjVPkCAippmURD.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-12-02",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2760,
+      "name": "Ultraplaybox Amazon Channel",
+      "logoPath": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 68449845.91,
+    "totalShows": 8142,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 19525740,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 19525740,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 27,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-11-04"
+   }
+  }
+ }
+}

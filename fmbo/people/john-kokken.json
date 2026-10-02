@@ -1,0 +1,48 @@
+{
+ "slug": "john-kokken",
+ "name": "John Kokken",
+ "source_url": "https://fridaymatinee.in/people/john-kokken",
+ "captured_at": "2026-10-01T23:21:30.201078+00:00",
+ "person": {
+  "name": "John Kokken",
+  "photo": "https://image.tmdb.org/t/p/w185/3dIc5cYnlzLYjaZYTOkrTIAg2D1.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 271,
+   "movie_slug": "thunivu",
+   "title": "Thunivu",
+   "year": 2023,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 308,
+   "movie_slug": "kabzaa",
+   "title": "Kabzaa",
+   "year": 2023,
+   "kerala_gross": "₹40.7L"
+  },
+  {
+   "movie_id": 492,
+   "movie_slug": "captain-miller",
+   "title": "Captain Miller",
+   "year": 2024,
+   "kerala_gross": "₹3.3 Cr"
+  },
+  {
+   "movie_id": 1122,
+   "movie_slug": "blast",
+   "title": "Blast",
+   "year": 2026,
+   "kerala_gross": "₹13.0 Cr"
+  }
+ ]
+}

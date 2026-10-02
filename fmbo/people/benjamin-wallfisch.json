@@ -1,0 +1,62 @@
+{
+ "slug": "benjamin-wallfisch",
+ "name": "Benjamin Wallfisch",
+ "source_url": "https://fridaymatinee.in/people/benjamin-wallfisch",
+ "captured_at": "2026-10-01T21:14:03.123070+00:00",
+ "person": {
+  "name": "Benjamin Wallfisch",
+  "photo": "https://image.tmdb.org/t/p/w185/dWcshjk0OUi3stGFFrwZIsYKZfQ.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 387,
+   "movie_slug": "the-flash",
+   "title": "The Flash",
+   "year": 2023,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 557,
+   "movie_slug": "alien-romulus",
+   "title": "Alien: Romulus",
+   "year": 2024,
+   "kerala_gross": "₹45.1L"
+  },
+  {
+   "movie_id": 774,
+   "movie_slug": "kraven-the-hunter",
+   "title": "Kraven: The Hunter",
+   "year": 2025,
+   "kerala_gross": "₹8.7L"
+  },
+  {
+   "movie_id": 804,
+   "movie_slug": "the-conjuring-last-rites",
+   "title": "The Conjuring Last Rites",
+   "year": 2025,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 877,
+   "movie_slug": "predator-badlands",
+   "title": "Predator: Badlands",
+   "year": 2025,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 1097,
+   "movie_slug": "mortal-kombat-ii",
+   "title": "Mortal Kombat II",
+   "year": 2026,
+   "kerala_gross": "₹35.3L"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "slug": "priyadarshan",
+ "name": "Priyadarshan",
+ "source_url": "https://fridaymatinee.in/people/priyadarshan",
+ "captured_at": "2026-10-02T06:32:03.964950+00:00",
+ "person": {
+  "name": "Priyadarshan",
+  "photo": "https://image.tmdb.org/t/p/w185/durYQlaO6ZuQ0hLgIpuum0SAZTF.jpg",
+  "role": "Director, producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 4
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 89,
+   "movie_slug": "marakkar",
+   "title": "Marakkar",
+   "year": 2021,
+   "kerala_gross": "₹13.7 Cr"
+  },
+  {
+   "movie_id": 334,
+   "movie_slug": "corona-papers",
+   "title": "Corona Papers",
+   "year": 2023,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 1070,
+   "movie_slug": "bhooth-bangla",
+   "title": "Bhooth Bangla",
+   "year": 2026,
+   "kerala_gross": "₹24.0L"
+  },
+  {
+   "movie_id": 1278,
+   "movie_slug": "haiwaan",
+   "title": "Haiwaan",
+   "year": 2026,
+   "kerala_gross": "₹4.2L"
+  }
+ ]
+}

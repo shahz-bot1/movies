@@ -1,0 +1,48 @@
+{
+ "slug": "prateik-smita-patil",
+ "name": "Prateik Smita Patil",
+ "source_url": "https://fridaymatinee.in/people/prateik-smita-patil",
+ "captured_at": "2026-10-02T06:28:10.438054+00:00",
+ "person": {
+  "name": "Prateik Smita Patil",
+  "photo": "https://image.tmdb.org/t/p/w185/yDUhU9C4C7fBAse1KmzQxVkSwjn.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 50,
+   "movie_slug": "darbar",
+   "title": "Darbar",
+   "year": 2020,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 673,
+   "movie_slug": "sikandar",
+   "title": "Sikandar",
+   "year": 2025,
+   "kerala_gross": "₹55.7L"
+  },
+  {
+   "movie_id": 682,
+   "movie_slug": "hit-the-third-case",
+   "title": "HIT: The Third Case",
+   "year": 2025,
+   "kerala_gross": "₹71.3L"
+  },
+  {
+   "movie_id": 1124,
+   "movie_slug": "the-great-grand-superhero",
+   "title": "The Great Grand Superhero",
+   "year": 2026,
+   "kerala_gross": "₹40K"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "anson-paul",
+ "name": "Anson Paul",
+ "source_url": "https://fridaymatinee.in/people/anson-paul",
+ "captured_at": "2026-10-01T20:44:14.136464+00:00",
+ "person": {
+  "name": "Anson Paul",
+  "photo": "https://image.tmdb.org/t/p/w185/tuuQTQFh4qMY7EOP9rgVlz0Y57y.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 45,
+   "movie_slug": "thambi",
+   "title": "Thambi",
+   "year": 2019,
+   "kerala_gross": "₹16.3L"
+  },
+  {
+   "movie_id": 566,
+   "movie_slug": "bad-boyz",
+   "title": "Bad Boyz",
+   "year": 2024,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 585,
+   "movie_slug": "marco",
+   "title": "Marco",
+   "year": 2024,
+   "kerala_gross": "₹34.7 Cr"
+  },
+  {
+   "movie_id": 1118,
+   "movie_slug": "kattalan",
+   "title": "Kattalan",
+   "year": 2026,
+   "kerala_gross": "₹4.9 Cr"
+  }
+ ]
+}

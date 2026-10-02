@@ -1,0 +1,48 @@
+{
+ "slug": "matt-damon",
+ "name": "Matt Damon",
+ "source_url": "https://fridaymatinee.in/people/matt-damon",
+ "captured_at": "2026-10-02T00:28:01.996692+00:00",
+ "person": {
+  "name": "Matt Damon",
+  "photo": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 34,
+   "movie_slug": "ford-v-ferrari",
+   "title": "Ford v Ferrari",
+   "year": 2019,
+   "kerala_gross": "₹31.7L"
+  },
+  {
+   "movie_id": 403,
+   "movie_slug": "oppenheimer",
+   "title": "Oppenheimer",
+   "year": 2023,
+   "kerala_gross": "₹7.1 Cr"
+  },
+  {
+   "movie_id": 642,
+   "movie_slug": "interstellar",
+   "title": "Interstellar",
+   "year": 2025,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 777,
+   "movie_slug": "the-odyssey",
+   "title": "The Odyssey",
+   "year": 2026,
+   "kerala_gross": "₹12.6 Cr"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "sneha-babu",
+ "name": "Sneha Babu",
+ "source_url": "https://fridaymatinee.in/people/sneha-babu",
+ "captured_at": "2026-10-02T10:48:47.689367+00:00",
+ "person": {
+  "name": "Sneha Babu",
+  "photo": "https://image.tmdb.org/t/p/w185/qpKcI5lVeBHtnkcSKSuB4ERGVb7.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 12,
+   "movie_slug": "ganagandharvan",
+   "title": "Ganagandharvan",
+   "year": 2019,
+   "kerala_gross": "₹24.3L"
+  },
+  {
+   "movie_id": 16,
+   "movie_slug": "aadya-rathri",
+   "title": "Aadya Rathri",
+   "year": 2019,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 100,
+   "movie_slug": "super-sharanya",
+   "title": "Super Sharanya",
+   "year": 2022,
+   "kerala_gross": "₹5.7 Cr"
+  }
+ ]
+}

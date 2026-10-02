@@ -1,0 +1,55 @@
+{
+ "slug": "kalidas-jayaram",
+ "name": "Kalidas Jayaram",
+ "source_url": "https://fridaymatinee.in/people/kalidas-jayaram",
+ "captured_at": "2026-10-01T23:37:18.062597+00:00",
+ "person": {
+  "name": "Kalidas Jayaram",
+  "photo": "https://image.tmdb.org/t/p/w185/hwGNxY71w6MWmULoHvhPBWtgmVw.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 39,
+   "movie_slug": "happy-sardar",
+   "title": "Happy Sardar",
+   "year": 2019,
+   "kerala_gross": "₹34.9L"
+  },
+  {
+   "movie_id": 139,
+   "movie_slug": "jack-n-jill",
+   "title": "Jack N Jill",
+   "year": 2022,
+   "kerala_gross": "₹37.5L"
+  },
+  {
+   "movie_id": 144,
+   "movie_slug": "vikram",
+   "title": "Vikram",
+   "year": 2022,
+   "kerala_gross": "₹29.1 Cr"
+  },
+  {
+   "movie_id": 547,
+   "movie_slug": "raayan",
+   "title": "Raayan",
+   "year": 2024,
+   "kerala_gross": "₹4.4 Cr"
+  },
+  {
+   "movie_id": 994,
+   "movie_slug": "ashakal-aayiram",
+   "title": "Ashakal Aayiram",
+   "year": 2026,
+   "kerala_gross": "₹5.8 Cr"
+  }
+ ]
+}

@@ -1,0 +1,1037 @@
+{
+ "id": 963,
+ "slug": "vaa-vaathiyaar",
+ "source_url": "https://fridaymatinee.in/boxoffice/vaa-vaathiyaar-963",
+ "captured_at": "2026-10-01T18:27:35.426867+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 963,
+    "title": "Vaa Vaathiyaar",
+    "img": "https://image.tmdb.org/t/p/original/2CO8y3nlDcPRHqXuOQarl8X9GZT.jpg",
+    "released": "2026-01-14",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26234108",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "129 min",
+    "genre": "Comedy, Action",
+    "plot": "After being raised as the reincarnation of a famous actor, a man finds himself clashing with his grandfather's expectations of him.",
+    "released": "2026-01-14",
+    "director": "Nalan Kumarasamy",
+    "directorSlug": "nalan-kumarasamy",
+    "actors": [
+     "Karthi",
+     "Krithi Shetty",
+     "Sathyaraj",
+     "Rajkiran",
+     "Anandaraj",
+     "Shilpa Manjunath"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.4",
+      "votes": 1342,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Karthi",
+     "character": "Rameshwaran \"Ramu\"",
+     "slug": "karthi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/npZUMAZBru1wgFefkv5kS3Ezl1z.jpg"
+    },
+    {
+     "name": "Krithi Shetty",
+     "character": "Wu",
+     "slug": "krithi-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kXwPHRs4SdrUBPpbbnuslANEc11.jpg"
+    },
+    {
+     "name": "Sathyaraj",
+     "character": "Periyasamy",
+     "slug": "sathyaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+    },
+    {
+     "name": "Rajkiran",
+     "character": "Jaiganesh",
+     "slug": "rajkiran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pOtBIgS3433WmLM23TKGdz5UGTi.jpg"
+    },
+    {
+     "name": "Anandaraj",
+     "character": "MGR's Fan",
+     "slug": "anandaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gZxzckfurzV0oQOME8b1ATNoMHD.jpg"
+    },
+    {
+     "name": "Shilpa Manjunath",
+     "character": "Malini",
+     "slug": "shilpa-manjunath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yn5FcHDVqi85o1L20fkKEm60eLi.jpg"
+    },
+    {
+     "name": "Karunakaran",
+     "character": "Govindharaman",
+     "slug": "karunakaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3unnOmeQ0r4GhAY1EDbZaCdt1N.jpg"
+    },
+    {
+     "name": "G. M. Sundar",
+     "character": "Mani",
+     "slug": "g-m-sundar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hMYrf0wmw9XPiICyOWXYmDIucFV.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nalan Kumarasamy",
+       "slug": "nalan-kumarasamy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Nalan Kumarasamy",
+       "slug": "nalan-kumarasamy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Santhosh Narayanan",
+       "slug": "santhosh-narayanan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "George C. Williams",
+       "slug": "george-c-williams"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vetre Krishnan",
+       "slug": "vetre-krishnan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "K. E. Gnanavelraja",
+       "slug": "k-e-gnanavelraja"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Studio Green",
+     "slug": "studio-green",
+     "logo": "https://image.tmdb.org/t/p/w185/htjrCpuNUCEvbMw7g9NnQ9pU2mq.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-01-28",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-01-15": [
+     {
+      "id": 967,
+      "title": "Thalaivar Thambi Thalaimaiyil",
+      "img": "https://image.tmdb.org/t/p/original/wqofJvDrFv65QgyVmNI4loi9jZZ.jpg"
+     }
+    ],
+    "2026-01-22": [
+     {
+      "id": 968,
+      "title": "Chatha Pacha: The Ring of Rowdies",
+      "img": "https://image.tmdb.org/t/p/original/a41fqMDWRcZcDqidGcq10xmRoh.jpg"
+     }
+    ],
+    "2026-01-16": [
+     {
+      "id": 975,
+      "title": "Greenland 2 Migration",
+      "img": "https://image.tmdb.org/t/p/original/oEGnHmRkpNfUsxnh0gOKuTqNeQk.jpg"
+     },
+     {
+      "id": 976,
+      "title": "Rahu Ketu",
+      "img": "https://image.tmdb.org/t/p/original/zjgWWOIsEqYNSa1fGRr82mBo3gv.jpg"
+     },
+     {
+      "id": 977,
+      "title": "Happy Patel Khatarnak Jasoos",
+      "img": "https://image.tmdb.org/t/p/original/vsCkxiY2c26C6y4RyTVkpdXIfCW.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-01-14",
+     "gross": 994876,
+     "sold": 6214,
+     "unsold": 72223,
+     "shows": 302,
+     "occ": 7.92,
+     "hf": "5",
+     "almost": "5",
+     "ff": "0",
+     "cumul": 994876,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-01-15",
+     "gross": 1032974,
+     "sold": 6152,
+     "unsold": 120528,
+     "shows": 520,
+     "occ": 4.86,
+     "hf": "6",
+     "almost": "6",
+     "ff": "0",
+     "cumul": 2027850,
+     "lastUpdatedAt": "2026-01-15 23:43:00"
+    },
+    {
+     "label": "2026-01-16",
+     "gross": 930581.8,
+     "sold": 6175,
+     "unsold": 104513,
+     "shows": 450,
+     "occ": 5.58,
+     "hf": "7",
+     "almost": "9",
+     "ff": "0",
+     "cumul": 2958431.8,
+     "lastUpdatedAt": "2026-01-16 23:28:00"
+    },
+    {
+     "label": "2026-01-17",
+     "gross": 582247.5999999999,
+     "sold": 3637,
+     "unsold": 96447,
+     "shows": 407,
+     "occ": 3.63,
+     "hf": "5",
+     "almost": "5",
+     "ff": "0",
+     "cumul": 3540679.3999999994,
+     "lastUpdatedAt": "2026-01-17 23:28:00"
+    },
+    {
+     "label": "2026-01-18",
+     "gross": 456689.5999999999,
+     "sold": 2980,
+     "unsold": 85034,
+     "shows": 352,
+     "occ": 3.39,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 3997368.9999999995,
+     "lastUpdatedAt": "2026-01-18 23:23:00"
+    },
+    {
+     "label": "2026-01-19",
+     "gross": 246230.99999999994,
+     "sold": 1724,
+     "unsold": 60223,
+     "shows": 246,
+     "occ": 2.78,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4243599.999999999,
+     "lastUpdatedAt": "2026-01-19 23:23:00"
+    },
+    {
+     "label": "2026-01-20",
+     "gross": 157455.99999999994,
+     "sold": 1202,
+     "unsold": 39845,
+     "shows": 162,
+     "occ": 2.93,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 4401055.999999999,
+     "lastUpdatedAt": "2026-01-20 23:23:00"
+    },
+    {
+     "label": "2026-01-21",
+     "gross": 87420.99999999993,
+     "sold": 638,
+     "unsold": 30131,
+     "shows": 118,
+     "occ": 2.07,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4488476.999999999,
+     "lastUpdatedAt": "2026-01-21 23:23:00"
+    },
+    {
+     "label": "2026-01-22",
+     "gross": 10685,
+     "sold": 91,
+     "unsold": 9055,
+     "shows": 37,
+     "occ": 0.99,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4499161.999999999,
+     "lastUpdatedAt": "2026-01-22 21:28:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 4499161.999999999,
+    "totalShows": 2594,
+    "totalSeats": 646812,
+    "totalSold": 28813,
+    "avgOcc": "4.5",
+    "totalDays": 9,
+    "totalHousefull": 27,
+    "totalAlmost": 29,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 2,
+     "gross": 1032974,
+     "date": "2026-01-15"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 994876,
+     "date": "2026-01-14"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "9:10685:4499161.999999999"
+  },
+  "week": {
+   "movie": {
+    "id": 963,
+    "title": "Vaa Vaathiyaar",
+    "img": "https://image.tmdb.org/t/p/original/2CO8y3nlDcPRHqXuOQarl8X9GZT.jpg",
+    "released": "2026-01-14",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26234108",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "129 min",
+    "genre": "Comedy, Action",
+    "plot": "After being raised as the reincarnation of a famous actor, a man finds himself clashing with his grandfather's expectations of him.",
+    "released": "2026-01-14",
+    "director": "Nalan Kumarasamy",
+    "directorSlug": "nalan-kumarasamy",
+    "actors": [
+     "Karthi",
+     "Krithi Shetty",
+     "Sathyaraj",
+     "Rajkiran",
+     "Anandaraj",
+     "Shilpa Manjunath"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.4",
+      "votes": 1342,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Karthi",
+     "character": "Rameshwaran \"Ramu\"",
+     "slug": "karthi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/npZUMAZBru1wgFefkv5kS3Ezl1z.jpg"
+    },
+    {
+     "name": "Krithi Shetty",
+     "character": "Wu",
+     "slug": "krithi-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kXwPHRs4SdrUBPpbbnuslANEc11.jpg"
+    },
+    {
+     "name": "Sathyaraj",
+     "character": "Periyasamy",
+     "slug": "sathyaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+    },
+    {
+     "name": "Rajkiran",
+     "character": "Jaiganesh",
+     "slug": "rajkiran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pOtBIgS3433WmLM23TKGdz5UGTi.jpg"
+    },
+    {
+     "name": "Anandaraj",
+     "character": "MGR's Fan",
+     "slug": "anandaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gZxzckfurzV0oQOME8b1ATNoMHD.jpg"
+    },
+    {
+     "name": "Shilpa Manjunath",
+     "character": "Malini",
+     "slug": "shilpa-manjunath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yn5FcHDVqi85o1L20fkKEm60eLi.jpg"
+    },
+    {
+     "name": "Karunakaran",
+     "character": "Govindharaman",
+     "slug": "karunakaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3unnOmeQ0r4GhAY1EDbZaCdt1N.jpg"
+    },
+    {
+     "name": "G. M. Sundar",
+     "character": "Mani",
+     "slug": "g-m-sundar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hMYrf0wmw9XPiICyOWXYmDIucFV.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nalan Kumarasamy",
+       "slug": "nalan-kumarasamy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Nalan Kumarasamy",
+       "slug": "nalan-kumarasamy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Santhosh Narayanan",
+       "slug": "santhosh-narayanan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "George C. Williams",
+       "slug": "george-c-williams"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vetre Krishnan",
+       "slug": "vetre-krishnan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "K. E. Gnanavelraja",
+       "slug": "k-e-gnanavelraja"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Studio Green",
+     "slug": "studio-green",
+     "logo": "https://image.tmdb.org/t/p/w185/htjrCpuNUCEvbMw7g9NnQ9pU2mq.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-01-28",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-01-15": [
+     {
+      "id": 967,
+      "title": "Thalaivar Thambi Thalaimaiyil",
+      "img": "https://image.tmdb.org/t/p/original/wqofJvDrFv65QgyVmNI4loi9jZZ.jpg"
+     }
+    ],
+    "2026-01-22": [
+     {
+      "id": 968,
+      "title": "Chatha Pacha: The Ring of Rowdies",
+      "img": "https://image.tmdb.org/t/p/original/a41fqMDWRcZcDqidGcq10xmRoh.jpg"
+     }
+    ],
+    "2026-01-16": [
+     {
+      "id": 975,
+      "title": "Greenland 2 Migration",
+      "img": "https://image.tmdb.org/t/p/original/oEGnHmRkpNfUsxnh0gOKuTqNeQk.jpg"
+     },
+     {
+      "id": 976,
+      "title": "Rahu Ketu",
+      "img": "https://image.tmdb.org/t/p/original/zjgWWOIsEqYNSa1fGRr82mBo3gv.jpg"
+     },
+     {
+      "id": 977,
+      "title": "Happy Patel Khatarnak Jasoos",
+      "img": "https://image.tmdb.org/t/p/original/vsCkxiY2c26C6y4RyTVkpdXIfCW.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-01-14",
+     "gross": 4401056,
+     "sold": 28084,
+     "unsold": 578813,
+     "shows": 2439,
+     "occ": 4.63,
+     "hf": "27",
+     "almost": "29",
+     "ff": "0",
+     "cumul": 4401056,
+     "lastUpdatedAt": "2026-01-20 23:23:00"
+    },
+    {
+     "label": "2026-01-21",
+     "gross": 98105.99999999993,
+     "sold": 729,
+     "unsold": 39186,
+     "shows": 155,
+     "occ": 1.83,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4499162,
+     "lastUpdatedAt": "2026-01-22 21:28:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 4499162,
+    "totalShows": 2594,
+    "totalSeats": 646812,
+    "totalSold": 28813,
+    "avgOcc": "4.5",
+    "totalDays": 2,
+    "totalHousefull": 27,
+    "totalAlmost": 29,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 4401056
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 4401056
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "2:98105.99999999993:4499162"
+  },
+  "district": {
+   "movie": {
+    "id": 963,
+    "title": "Vaa Vaathiyaar",
+    "img": "https://image.tmdb.org/t/p/original/2CO8y3nlDcPRHqXuOQarl8X9GZT.jpg",
+    "released": "2026-01-14",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26234108",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "129 min",
+    "genre": "Comedy, Action",
+    "plot": "After being raised as the reincarnation of a famous actor, a man finds himself clashing with his grandfather's expectations of him.",
+    "released": "2026-01-14",
+    "director": "Nalan Kumarasamy",
+    "directorSlug": "nalan-kumarasamy",
+    "actors": [
+     "Karthi",
+     "Krithi Shetty",
+     "Sathyaraj",
+     "Rajkiran",
+     "Anandaraj",
+     "Shilpa Manjunath"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.4",
+      "votes": 1342,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Karthi",
+     "character": "Rameshwaran \"Ramu\"",
+     "slug": "karthi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/npZUMAZBru1wgFefkv5kS3Ezl1z.jpg"
+    },
+    {
+     "name": "Krithi Shetty",
+     "character": "Wu",
+     "slug": "krithi-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kXwPHRs4SdrUBPpbbnuslANEc11.jpg"
+    },
+    {
+     "name": "Sathyaraj",
+     "character": "Periyasamy",
+     "slug": "sathyaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+    },
+    {
+     "name": "Rajkiran",
+     "character": "Jaiganesh",
+     "slug": "rajkiran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pOtBIgS3433WmLM23TKGdz5UGTi.jpg"
+    },
+    {
+     "name": "Anandaraj",
+     "character": "MGR's Fan",
+     "slug": "anandaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gZxzckfurzV0oQOME8b1ATNoMHD.jpg"
+    },
+    {
+     "name": "Shilpa Manjunath",
+     "character": "Malini",
+     "slug": "shilpa-manjunath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yn5FcHDVqi85o1L20fkKEm60eLi.jpg"
+    },
+    {
+     "name": "Karunakaran",
+     "character": "Govindharaman",
+     "slug": "karunakaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3unnOmeQ0r4GhAY1EDbZaCdt1N.jpg"
+    },
+    {
+     "name": "G. M. Sundar",
+     "character": "Mani",
+     "slug": "g-m-sundar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hMYrf0wmw9XPiICyOWXYmDIucFV.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nalan Kumarasamy",
+       "slug": "nalan-kumarasamy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Nalan Kumarasamy",
+       "slug": "nalan-kumarasamy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Santhosh Narayanan",
+       "slug": "santhosh-narayanan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "George C. Williams",
+       "slug": "george-c-williams"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vetre Krishnan",
+       "slug": "vetre-krishnan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "K. E. Gnanavelraja",
+       "slug": "k-e-gnanavelraja"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Studio Green",
+     "slug": "studio-green",
+     "logo": "https://image.tmdb.org/t/p/w185/htjrCpuNUCEvbMw7g9NnQ9pU2mq.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-01-28",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-01-15": [
+     {
+      "id": 967,
+      "title": "Thalaivar Thambi Thalaimaiyil",
+      "img": "https://image.tmdb.org/t/p/original/wqofJvDrFv65QgyVmNI4loi9jZZ.jpg"
+     }
+    ],
+    "2026-01-22": [
+     {
+      "id": 968,
+      "title": "Chatha Pacha: The Ring of Rowdies",
+      "img": "https://image.tmdb.org/t/p/original/a41fqMDWRcZcDqidGcq10xmRoh.jpg"
+     }
+    ],
+    "2026-01-16": [
+     {
+      "id": 975,
+      "title": "Greenland 2 Migration",
+      "img": "https://image.tmdb.org/t/p/original/oEGnHmRkpNfUsxnh0gOKuTqNeQk.jpg"
+     },
+     {
+      "id": 976,
+      "title": "Rahu Ketu",
+      "img": "https://image.tmdb.org/t/p/original/zjgWWOIsEqYNSa1fGRr82mBo3gv.jpg"
+     },
+     {
+      "id": 977,
+      "title": "Happy Patel Khatarnak Jasoos",
+      "img": "https://image.tmdb.org/t/p/original/vsCkxiY2c26C6y4RyTVkpdXIfCW.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Kozhikode",
+     "gross": 986857,
+     "sold": 6563,
+     "unsold": 49738,
+     "shows": 236,
+     "occ": 11.66,
+     "hf": "4",
+     "almost": "4",
+     "ff": "0",
+     "cumul": 986857,
+     "lastUpdatedAt": "2026-01-22 20:44:00"
+    },
+    {
+     "label": "Ernakulam",
+     "gross": 761668,
+     "sold": 3716,
+     "unsold": 66543,
+     "shows": 297,
+     "occ": 5.29,
+     "hf": "8",
+     "almost": "8",
+     "ff": "0",
+     "cumul": 1748525,
+     "lastUpdatedAt": "2026-01-21 22:23:00"
+    },
+    {
+     "label": "Kannur",
+     "gross": 595510.3999999998,
+     "sold": 4162,
+     "unsold": 40692,
+     "shows": 202,
+     "occ": 9.28,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 2344035.4,
+     "lastUpdatedAt": "2026-01-21 20:13:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 450245,
+     "sold": 2605,
+     "unsold": 51124,
+     "shows": 269,
+     "occ": 4.85,
+     "hf": "4",
+     "almost": "4",
+     "ff": "0",
+     "cumul": 2794280.4,
+     "lastUpdatedAt": "2026-01-22 21:23:00"
+    },
+    {
+     "label": "Kollam",
+     "gross": 433051,
+     "sold": 2860,
+     "unsold": 41000,
+     "shows": 169,
+     "occ": 6.52,
+     "hf": "4",
+     "almost": "6",
+     "ff": "0",
+     "cumul": 3227331.4,
+     "lastUpdatedAt": "2026-01-21 21:28:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 408243,
+     "sold": 2687,
+     "unsold": 67282,
+     "shows": 286,
+     "occ": 3.84,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 3635574.4,
+     "lastUpdatedAt": "2026-01-22 21:13:00"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 206942,
+     "sold": 1636,
+     "unsold": 98801,
+     "shows": 379,
+     "occ": 1.63,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3842516.4,
+     "lastUpdatedAt": "2026-01-22 20:29:00"
+    },
+    {
+     "label": "Kottayam",
+     "gross": 165560,
+     "sold": 1177,
+     "unsold": 35064,
+     "shows": 114,
+     "occ": 3.25,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4008076.4,
+     "lastUpdatedAt": "2026-01-22 13:28:00"
+    },
+    {
+     "label": "Trivandrum",
+     "gross": 126610,
+     "sold": 671,
+     "unsold": 6285,
+     "shows": 35,
+     "occ": 9.65,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4134686.4,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Idukki",
+     "gross": 125438,
+     "sold": 930,
+     "unsold": 25291,
+     "shows": 115,
+     "occ": 3.55,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 4260124.4,
+     "lastUpdatedAt": "2026-01-22 21:28:00"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 101316,
+     "sold": 858,
+     "unsold": 68824,
+     "shows": 214,
+     "occ": 1.23,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4361440.4,
+     "lastUpdatedAt": "2026-01-22 17:59:00"
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 78588,
+     "sold": 501,
+     "unsold": 9399,
+     "shows": 54,
+     "occ": 5.06,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4440028.4,
+     "lastUpdatedAt": "2026-01-22 13:28:00"
+    },
+    {
+     "label": "Pathanamthitta",
+     "gross": 28940,
+     "sold": 208,
+     "unsold": 9450,
+     "shows": 43,
+     "occ": 2.15,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4468968.4,
+     "lastUpdatedAt": "2026-01-21 21:18:00"
+    },
+    {
+     "label": "Wayanad",
+     "gross": 15893.6,
+     "sold": 145,
+     "unsold": 7205,
+     "shows": 39,
+     "occ": 1.97,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4484862,
+     "lastUpdatedAt": "2026-01-20 20:43:00"
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 14300,
+     "sold": 94,
+     "unsold": 41301,
+     "shows": 142,
+     "occ": 0.23,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 4499162,
+     "lastUpdatedAt": "2026-01-22 21:23:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 4499162,
+    "totalShows": 2594,
+    "totalSeats": 646812,
+    "totalSold": 28813,
+    "avgOcc": "4.5",
+    "totalDays": 15,
+    "totalHousefull": 27,
+    "totalAlmost": 29,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 986857,
+     "date": "Kozhikode"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 986857,
+     "date": "Kozhikode"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "15:14300:4499162"
+  }
+ }
+}

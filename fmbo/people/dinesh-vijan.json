@@ -1,0 +1,55 @@
+{
+ "slug": "dinesh-vijan",
+ "name": "Dinesh Vijan",
+ "source_url": "https://fridaymatinee.in/people/dinesh-vijan",
+ "captured_at": "2026-10-01T22:02:50.788401+00:00",
+ "person": {
+  "name": "Dinesh Vijan",
+  "photo": "https://image.tmdb.org/t/p/w185/mYKpPjxkGvyCXMhId8HXZKAyePb.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 22,
+   "movie_slug": "made-in-china",
+   "title": "Made In China",
+   "year": 2019,
+   "kerala_gross": "₹1.5L"
+  },
+  {
+   "movie_id": 791,
+   "movie_slug": "param-sundari",
+   "title": "Param Sundari",
+   "year": 2025,
+   "kerala_gross": "₹21.4L"
+  },
+  {
+   "movie_id": 872,
+   "movie_slug": "thamma",
+   "title": "Thamma",
+   "year": 2025,
+   "kerala_gross": "₹35.4L"
+  },
+  {
+   "movie_id": 972,
+   "movie_slug": "ikkis",
+   "title": "Ikkis",
+   "year": 2026,
+   "kerala_gross": "₹16.1L"
+  },
+  {
+   "movie_id": 1156,
+   "movie_slug": "cocktail-2",
+   "title": "Cocktail 2",
+   "year": 2026,
+   "kerala_gross": "₹32.6L"
+  }
+ ]
+}

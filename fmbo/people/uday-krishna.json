@@ -1,0 +1,55 @@
+{
+ "slug": "uday-krishna",
+ "name": "Uday Krishna",
+ "source_url": "https://fridaymatinee.in/people/uday-krishna",
+ "captured_at": "2026-10-02T11:31:49.356631+00:00",
+ "person": {
+  "name": "Uday Krishna",
+  "photo": "https://image.tmdb.org/t/p/w185/1K2CAn0IXCUeznTeOtygg2LLFBf.jpg",
+  "role": "Writer"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 107,
+   "movie_slug": "aaraattu",
+   "title": "Aaraattu",
+   "year": 2022,
+   "kerala_gross": "₹7.2 Cr"
+  },
+  {
+   "movie_id": 226,
+   "movie_slug": "monster",
+   "title": "Monster",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 272,
+   "movie_slug": "christopher",
+   "title": "Christopher",
+   "year": 2023,
+   "kerala_gross": "₹4.1 Cr"
+  },
+  {
+   "movie_id": 450,
+   "movie_slug": "bandra",
+   "title": "Bandra",
+   "year": 2023,
+   "kerala_gross": "₹2.9 Cr"
+  },
+  {
+   "movie_id": 1256,
+   "movie_slug": "l-o-law-and-order",
+   "title": "Lu0026O - Law and Order",
+   "year": 2026,
+   "kerala_gross": "₹70.9L"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slug": "vineeth-kumar",
+ "name": "Vineeth Kumar",
+ "source_url": "https://fridaymatinee.in/people/vineeth-kumar",
+ "captured_at": "2026-10-02T11:48:04.525958+00:00",
+ "person": {
+  "name": "Vineeth Kumar",
+  "photo": "https://image.tmdb.org/t/p/w185/rTtJDTHhqyQ4IGlrAyrCkHyBc33.jpg",
+  "role": "Actor and director"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 514,
+   "movie_slug": "pavi-caretaker",
+   "title": "Pavi Caretaker",
+   "year": 2024,
+   "kerala_gross": "₹6.3 Cr"
+  },
+  {
+   "movie_id": 546,
+   "movie_slug": "devadoothan",
+   "title": "Devadoothan",
+   "year": 2024,
+   "kerala_gross": "₹3.4 Cr"
+  },
+  {
+   "movie_id": 620,
+   "movie_slug": "rifle-club",
+   "title": "Rifle Club",
+   "year": 2024,
+   "kerala_gross": "₹13.0 Cr"
+  },
+  {
+   "movie_id": 1030,
+   "movie_slug": "sambhavam-adhyayam-onnu",
+   "title": "Sambhavam Adhyayam Onnu",
+   "year": 2026,
+   "kerala_gross": "₹4.5 Cr"
+  }
+ ]
+}

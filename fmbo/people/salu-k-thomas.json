@@ -1,0 +1,41 @@
+{
+ "slug": "salu-k-thomas",
+ "name": "Salu K Thomas",
+ "source_url": "https://fridaymatinee.in/people/salu-k-thomas",
+ "captured_at": "2026-10-02T10:03:01.039093+00:00",
+ "person": {
+  "name": "Salu K Thomas",
+  "photo": null,
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 458,
+   "movie_slug": "kaathal-the-core",
+   "title": "Kaathal - The Core",
+   "year": 2023,
+   "kerala_gross": "₹7.8 Cr"
+  },
+  {
+   "movie_id": 606,
+   "movie_slug": "parakramam",
+   "title": "Parakramam",
+   "year": 2024,
+   "kerala_gross": "₹22.4L"
+  },
+  {
+   "movie_id": 652,
+   "movie_slug": "daveed",
+   "title": "Daveed",
+   "year": 2025,
+   "kerala_gross": "₹4.0 Cr"
+  }
+ ]
+}

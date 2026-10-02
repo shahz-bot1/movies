@@ -1,0 +1,48 @@
+{
+ "slug": "shruti-haasan",
+ "name": "Shruti Haasan",
+ "source_url": "https://fridaymatinee.in/people/shruti-haasan",
+ "captured_at": "2026-10-02T10:36:54.928198+00:00",
+ "person": {
+  "name": "Shruti Haasan",
+  "photo": "https://image.tmdb.org/t/p/w185/1zYJuSccSA45VVBdgozpRcL99Rd.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 478,
+   "movie_slug": "salaar-part-1-ceasefire",
+   "title": "Salaar: Part 1 - Ceasefire",
+   "year": 2023,
+   "kerala_gross": "₹12.5 Cr"
+  },
+  {
+   "movie_id": 765,
+   "movie_slug": "coolie",
+   "title": "Coolie",
+   "year": 2025,
+   "kerala_gross": "₹22.9 Cr"
+  },
+  {
+   "movie_id": 1127,
+   "movie_slug": "peddi",
+   "title": "Peddi",
+   "year": 2026,
+   "kerala_gross": "₹47.5L"
+  },
+  {
+   "movie_id": 1295,
+   "movie_slug": "aakasam-lo-oka-tara",
+   "title": "Aakasam Lo Oka Tara",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "slug": "geethi-sangeetha",
+ "name": "Geethi Sangeetha",
+ "source_url": "https://fridaymatinee.in/people/geethi-sangeetha",
+ "captured_at": "2026-10-01T22:29:05.404611+00:00",
+ "person": {
+  "name": "Geethi Sangeetha",
+  "photo": "https://image.tmdb.org/t/p/w185/jk1CaJgJ8dy0Ku817Ppm7s4I4wU.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 7
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 149,
+   "movie_slug": "vaashi",
+   "title": "Vaashi",
+   "year": 2022,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 220,
+   "movie_slug": "rorschach",
+   "title": "Rorschach",
+   "year": 2022,
+   "kerala_gross": "₹14.3 Cr"
+  },
+  {
+   "movie_id": 19,
+   "movie_slug": "idi-mazha-kaattu",
+   "title": "Idi Mazha Kaattu",
+   "year": 2025,
+   "kerala_gross": "₹11.0L"
+  },
+  {
+   "movie_id": 713,
+   "movie_slug": "dheeran",
+   "title": "Dheeran",
+   "year": 2025,
+   "kerala_gross": "₹2.4 Cr"
+  },
+  {
+   "movie_id": 680,
+   "movie_slug": "sumathi-valavu",
+   "title": "Sumathi Valavu",
+   "year": 2025,
+   "kerala_gross": "₹15.0 Cr"
+  },
+  {
+   "movie_id": 948,
+   "movie_slug": "mindiyum-paranjum",
+   "title": "Mindiyum Paranjum",
+   "year": 2025,
+   "kerala_gross": "₹13.5L"
+  },
+  {
+   "movie_id": 993,
+   "movie_slug": "aashaan",
+   "title": "Aashaan",
+   "year": 2026,
+   "kerala_gross": "₹1.2 Cr"
+  }
+ ]
+}

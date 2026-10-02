@@ -1,0 +1,62 @@
+{
+ "slug": "mary-parent",
+ "name": "Mary Parent",
+ "source_url": "https://fridaymatinee.in/people/mary-parent",
+ "captured_at": "2026-10-02T00:26:16.112964+00:00",
+ "person": {
+  "name": "Mary Parent",
+  "photo": "https://image.tmdb.org/t/p/w185/jTh9ngfGF8DQvKwGM8rXSmfbQTj.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 498,
+   "movie_slug": "dune-part-two",
+   "title": "Dune: Part Two",
+   "year": 2024,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 507,
+   "movie_slug": "godzilla-x-kong-the-new-empire",
+   "title": "Godzilla x Kong: The New Empire",
+   "year": 2024,
+   "kerala_gross": "₹4.5 Cr"
+  },
+  {
+   "movie_id": 670,
+   "movie_slug": "a-minecraft-movie",
+   "title": "A Minecraft Movie",
+   "year": 2025,
+   "kerala_gross": "₹52.7L"
+  },
+  {
+   "movie_id": 833,
+   "movie_slug": "the-toxic-avenger",
+   "title": "The Toxic Avenger",
+   "year": 2025,
+   "kerala_gross": "₹8K"
+  },
+  {
+   "movie_id": 1303,
+   "movie_slug": "digger",
+   "title": "Digger",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 778,
+   "movie_slug": "dune-part-three",
+   "title": "Dune: Part Three",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

@@ -1,0 +1,635 @@
+{
+ "id": 308,
+ "slug": "kabzaa",
+ "source_url": "https://fridaymatinee.in/boxoffice/kabzaa-308",
+ "captured_at": "2026-10-01T18:09:43.300450+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 308,
+    "title": "Kabzaa",
+    "img": "https://image.tmdb.org/t/p/original/vFpw8DbiGdhrqcvzpuiuRQBZJPb.jpg",
+    "released": "2023-03-17",
+    "language": "Kannada",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11364772",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "136 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "During the British rule in India, Arakeshwara, an air force soldier and son of a freedom fighter Amareshwara,due to unavoidable circumstances, kills Khaleed, the don of Amarapura and thus gets trapped in the mafia world and later becomes the king of the underworld. However, trouble ensues for Arakeshwara as he has to deal with his rivals and Bhargav Bhakshi, a cop sent by the British to eradicate him and the underworld.",
+    "released": "2023-03-17",
+    "director": "R. Chandru",
+    "directorSlug": "r-chandru",
+    "actors": [
+     "Upendra",
+     "Shriya Saran",
+     "Murali Sharma",
+     "Sudha",
+     "Sudeepa",
+     "Suneel Puranik"
+    ],
+    "awards": "5 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "4.6",
+      "votes": 15707,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Upendra",
+     "character": "Arkeshwara",
+     "slug": "upendra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lcxwf2cFMmO2JH1fGULGzfBprk.jpg"
+    },
+    {
+     "name": "Shriya Saran",
+     "character": "Madhumitha",
+     "slug": "shriya-saran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ioOgKBSCJhOdKoZpg86ld7zANbf.jpg"
+    },
+    {
+     "name": "Murali Sharma",
+     "character": "Veer Bahadhur",
+     "slug": "murali-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8m4L7L9lK4Z2YK4Jg97pMbA0Le5.jpg"
+    },
+    {
+     "name": "Sudha",
+     "character": "Tulasi devi",
+     "slug": "sudha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eod26HfPLe95cxTk2ieT1YzNaSl.jpg"
+    },
+    {
+     "name": "Sudeepa",
+     "character": "Bhargava Bakshi",
+     "slug": "sudeepa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8c5TYgGwbkcQkvC3ZlTU41OfYBN.jpg"
+    },
+    {
+     "name": "Suneel Puranik",
+     "character": "Sankeshwar",
+     "slug": "suneel-puranik",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Pramod Shetty",
+     "character": "Jambe",
+     "slug": "pramod-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/86EdpeMO9V7tQt1tgIk3MpnKSTH.jpg"
+    },
+    {
+     "name": "Nawab Shah",
+     "character": "Bangera",
+     "slug": "nawab-shah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mx168p9eqjrGyaAc3TM6viLIG4L.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "R. Chandru",
+       "slug": "r-chandru"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "R. Chandru",
+       "slug": "r-chandru"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ravi Basrur",
+       "slug": "ravi-basrur"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "A. J. Shetty",
+       "slug": "a-j-shetty"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Mahesh S. Reddy",
+       "slug": "mahesh-s-reddy"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "R. Chandru",
+       "slug": "r-chandru"
+      },
+      {
+       "name": "Anand Pandit",
+       "slug": "anand-pandit"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Anand Pandit Motion Pictures",
+     "slug": "anand-pandit-motion-pictures",
+     "logo": null
+    },
+    {
+     "name": "Sri Siddeshwara Enterprises",
+     "slug": "sri-siddeshwara-enterprises",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4065486,
+    "totalShows": 1773,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 823911,
+     "date": "2023-03-17"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 823911,
+     "date": "2023-03-17"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-03-17"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 308,
+    "title": "Kabzaa",
+    "img": "https://image.tmdb.org/t/p/original/vFpw8DbiGdhrqcvzpuiuRQBZJPb.jpg",
+    "released": "2023-03-17",
+    "language": "Kannada",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11364772",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "136 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "During the British rule in India, Arakeshwara, an air force soldier and son of a freedom fighter Amareshwara,due to unavoidable circumstances, kills Khaleed, the don of Amarapura and thus gets trapped in the mafia world and later becomes the king of the underworld. However, trouble ensues for Arakeshwara as he has to deal with his rivals and Bhargav Bhakshi, a cop sent by the British to eradicate him and the underworld.",
+    "released": "2023-03-17",
+    "director": "R. Chandru",
+    "directorSlug": "r-chandru",
+    "actors": [
+     "Upendra",
+     "Shriya Saran",
+     "Murali Sharma",
+     "Sudha",
+     "Sudeepa",
+     "Suneel Puranik"
+    ],
+    "awards": "5 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "4.6",
+      "votes": 15707,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Upendra",
+     "character": "Arkeshwara",
+     "slug": "upendra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lcxwf2cFMmO2JH1fGULGzfBprk.jpg"
+    },
+    {
+     "name": "Shriya Saran",
+     "character": "Madhumitha",
+     "slug": "shriya-saran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ioOgKBSCJhOdKoZpg86ld7zANbf.jpg"
+    },
+    {
+     "name": "Murali Sharma",
+     "character": "Veer Bahadhur",
+     "slug": "murali-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8m4L7L9lK4Z2YK4Jg97pMbA0Le5.jpg"
+    },
+    {
+     "name": "Sudha",
+     "character": "Tulasi devi",
+     "slug": "sudha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eod26HfPLe95cxTk2ieT1YzNaSl.jpg"
+    },
+    {
+     "name": "Sudeepa",
+     "character": "Bhargava Bakshi",
+     "slug": "sudeepa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8c5TYgGwbkcQkvC3ZlTU41OfYBN.jpg"
+    },
+    {
+     "name": "Suneel Puranik",
+     "character": "Sankeshwar",
+     "slug": "suneel-puranik",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Pramod Shetty",
+     "character": "Jambe",
+     "slug": "pramod-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/86EdpeMO9V7tQt1tgIk3MpnKSTH.jpg"
+    },
+    {
+     "name": "Nawab Shah",
+     "character": "Bangera",
+     "slug": "nawab-shah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mx168p9eqjrGyaAc3TM6viLIG4L.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "R. Chandru",
+       "slug": "r-chandru"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "R. Chandru",
+       "slug": "r-chandru"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ravi Basrur",
+       "slug": "ravi-basrur"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "A. J. Shetty",
+       "slug": "a-j-shetty"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Mahesh S. Reddy",
+       "slug": "mahesh-s-reddy"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "R. Chandru",
+       "slug": "r-chandru"
+      },
+      {
+       "name": "Anand Pandit",
+       "slug": "anand-pandit"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Anand Pandit Motion Pictures",
+     "slug": "anand-pandit-motion-pictures",
+     "logo": null
+    },
+    {
+     "name": "Sri Siddeshwara Enterprises",
+     "slug": "sri-siddeshwara-enterprises",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-03-17",
+     "gross": 4065486,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1773,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4065486,
+    "totalShows": 1773,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 4065486
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4065486
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-03-17"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 308,
+    "title": "Kabzaa",
+    "img": "https://image.tmdb.org/t/p/original/vFpw8DbiGdhrqcvzpuiuRQBZJPb.jpg",
+    "released": "2023-03-17",
+    "language": "Kannada",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11364772",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "136 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "During the British rule in India, Arakeshwara, an air force soldier and son of a freedom fighter Amareshwara,due to unavoidable circumstances, kills Khaleed, the don of Amarapura and thus gets trapped in the mafia world and later becomes the king of the underworld. However, trouble ensues for Arakeshwara as he has to deal with his rivals and Bhargav Bhakshi, a cop sent by the British to eradicate him and the underworld.",
+    "released": "2023-03-17",
+    "director": "R. Chandru",
+    "directorSlug": "r-chandru",
+    "actors": [
+     "Upendra",
+     "Shriya Saran",
+     "Murali Sharma",
+     "Sudha",
+     "Sudeepa",
+     "Suneel Puranik"
+    ],
+    "awards": "5 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "4.6",
+      "votes": 15707,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Upendra",
+     "character": "Arkeshwara",
+     "slug": "upendra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lcxwf2cFMmO2JH1fGULGzfBprk.jpg"
+    },
+    {
+     "name": "Shriya Saran",
+     "character": "Madhumitha",
+     "slug": "shriya-saran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ioOgKBSCJhOdKoZpg86ld7zANbf.jpg"
+    },
+    {
+     "name": "Murali Sharma",
+     "character": "Veer Bahadhur",
+     "slug": "murali-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8m4L7L9lK4Z2YK4Jg97pMbA0Le5.jpg"
+    },
+    {
+     "name": "Sudha",
+     "character": "Tulasi devi",
+     "slug": "sudha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eod26HfPLe95cxTk2ieT1YzNaSl.jpg"
+    },
+    {
+     "name": "Sudeepa",
+     "character": "Bhargava Bakshi",
+     "slug": "sudeepa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8c5TYgGwbkcQkvC3ZlTU41OfYBN.jpg"
+    },
+    {
+     "name": "Suneel Puranik",
+     "character": "Sankeshwar",
+     "slug": "suneel-puranik",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Pramod Shetty",
+     "character": "Jambe",
+     "slug": "pramod-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/86EdpeMO9V7tQt1tgIk3MpnKSTH.jpg"
+    },
+    {
+     "name": "Nawab Shah",
+     "character": "Bangera",
+     "slug": "nawab-shah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mx168p9eqjrGyaAc3TM6viLIG4L.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "R. Chandru",
+       "slug": "r-chandru"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "R. Chandru",
+       "slug": "r-chandru"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ravi Basrur",
+       "slug": "ravi-basrur"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "A. J. Shetty",
+       "slug": "a-j-shetty"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Mahesh S. Reddy",
+       "slug": "mahesh-s-reddy"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "R. Chandru",
+       "slug": "r-chandru"
+      },
+      {
+       "name": "Anand Pandit",
+       "slug": "anand-pandit"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Anand Pandit Motion Pictures",
+     "slug": "anand-pandit-motion-pictures",
+     "logo": null
+    },
+    {
+     "name": "Sri Siddeshwara Enterprises",
+     "slug": "sri-siddeshwara-enterprises",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4065486,
+    "totalShows": 1773,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 2158646,
+     "date": "Thrissur"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2158646,
+     "date": "Thrissur"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-03-17"
+   }
+  }
+ }
+}

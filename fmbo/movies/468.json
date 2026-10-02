@@ -1,0 +1,868 @@
+{
+ "id": 468,
+ "slug": "animal",
+ "source_url": "https://fridaymatinee.in/boxoffice/animal-468",
+ "captured_at": "2026-10-01T18:12:44.790428+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 468,
+    "title": "Animal",
+    "img": "https://image.tmdb.org/t/p/original/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg",
+    "released": "2023-12-01",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt13751694",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "201 min",
+    "genre": "Action, Crime, Drama",
+    "plot": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life.",
+    "released": "2023-12-01",
+    "director": "Sandeep Reddy Vanga",
+    "directorSlug": "sandeep-reddy-vanga",
+    "actors": [
+     "Ranbir Kapoor",
+     "Rashmika Mandanna",
+     "Anil Kapoor",
+     "Bobby Deol",
+     "Triptii Dimri",
+     "Prem Chopra"
+    ],
+    "awards": "41 wins u0026 59 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 118273,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.1",
+      "votes": 210,
+      "updatedAt": "2026-09-24T19:27:14.000Z"
+     },
+     "rt": "26%",
+     "metascore": 33,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ranbir Kapoor",
+     "character": "Ranvijay Balbir Singh / Aziz Haque",
+     "slug": "ranbir-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iIdjOJNt7F7v8TX5iqjf7dcRizx.jpg"
+    },
+    {
+     "name": "Rashmika Mandanna",
+     "character": "Geetanjali Singh",
+     "slug": "rashmika-mandanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6PpadmUs2Mz8nRw6rmKEiZZGcZ5.jpg"
+    },
+    {
+     "name": "Anil Kapoor",
+     "character": "Balbir Singh",
+     "slug": "anil-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dwvnpiwg9m2zj0VHzlgzEotFl0G.jpg"
+    },
+    {
+     "name": "Bobby Deol",
+     "character": "Abrar Haque",
+     "slug": "bobby-deol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2npVa3PduichY8e7qBiE54m9VVP.jpg"
+    },
+    {
+     "name": "Triptii Dimri",
+     "character": "Zoya Riaz",
+     "slug": "triptii-dimri",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d4eKm8PqGPHdInHB6zzFDclJbxc.jpg"
+    },
+    {
+     "name": "Prem Chopra",
+     "character": "Bade Daarji",
+     "slug": "prem-chopra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4hLAhScWZA6utfg8VCivwVH6FHy.jpg"
+    },
+    {
+     "name": "Suresh Oberoi",
+     "character": "Dadaji",
+     "slug": "suresh-oberoi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eU19xoD28bzCImBXNpOQCIbhUZG.jpg"
+    },
+    {
+     "name": "Shakti Kapoor",
+     "character": "Mishra",
+     "slug": "shakti-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8bkl6B8i8cgW5xVjCoHQkxEqqke.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sandeep Reddy Vanga",
+       "slug": "sandeep-reddy-vanga"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Suresh Bandaru",
+       "slug": "suresh-bandaru"
+      },
+      {
+       "name": "Sandeep Reddy Vanga",
+       "slug": "sandeep-reddy-vanga"
+      },
+      {
+       "name": "Pranay Reddy Vanga",
+       "slug": "pranay-reddy-vanga"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Harshavardhan Rameshwar",
+       "slug": "harshavardhan-rameshwar"
+      },
+      {
+       "name": "Vishal Mishra",
+       "slug": "vishal-mishra"
+      },
+      {
+       "name": "Manan Bhardwaj",
+       "slug": "manan-bhardwaj"
+      },
+      {
+       "name": "Jaani",
+       "slug": "jaani"
+      },
+      {
+       "name": "Shreyas Puranik",
+       "slug": "shreyas-puranik"
+      },
+      {
+       "name": "Pritam Chakraborty",
+       "slug": "pritam-chakraborty"
+      },
+      {
+       "name": "Gurinder Seagal",
+       "slug": "gurinder-seagal"
+      },
+      {
+       "name": "Ashim Kemson",
+       "slug": "ashim-kemson"
+      },
+      {
+       "name": "Bhupinder Babbal",
+       "slug": "bhupinder-babbal"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Amit Roy",
+       "slug": "amit-roy"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sandeep Reddy Vanga",
+       "slug": "sandeep-reddy-vanga"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Bhushan Kumar",
+       "slug": "bhushan-kumar"
+      },
+      {
+       "name": "Murad Khetani",
+       "slug": "murad-khetani"
+      },
+      {
+       "name": "Krishan Kumar",
+       "slug": "krishan-kumar"
+      },
+      {
+       "name": "Pranay Reddy Vanga",
+       "slug": "pranay-reddy-vanga"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "T-Series",
+     "slug": "t-series",
+     "logo": "https://image.tmdb.org/t/p/w185/d3u51JgEP5KwPfxS13ocqvtzZeX.png"
+    },
+    {
+     "name": "Bhadrakali Pictures",
+     "slug": "bhadrakali-pictures",
+     "logo": null
+    },
+    {
+     "name": "ST Film",
+     "slug": "st-film",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-01-26",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 38359493.970000006,
+    "totalShows": 4370,
+    "totalDays": 42,
+    "openingDay": {
+     "day": 1,
+     "gross": 3392349,
+     "date": "2023-12-01"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 4149852.8000000003,
+     "date": "2023-12-03"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 71,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-12-01"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 468,
+    "title": "Animal",
+    "img": "https://image.tmdb.org/t/p/original/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg",
+    "released": "2023-12-01",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt13751694",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "201 min",
+    "genre": "Action, Crime, Drama",
+    "plot": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life.",
+    "released": "2023-12-01",
+    "director": "Sandeep Reddy Vanga",
+    "directorSlug": "sandeep-reddy-vanga",
+    "actors": [
+     "Ranbir Kapoor",
+     "Rashmika Mandanna",
+     "Anil Kapoor",
+     "Bobby Deol",
+     "Triptii Dimri",
+     "Prem Chopra"
+    ],
+    "awards": "41 wins u0026 59 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 118273,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.1",
+      "votes": 210,
+      "updatedAt": "2026-09-24T19:27:14.000Z"
+     },
+     "rt": "26%",
+     "metascore": 33,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ranbir Kapoor",
+     "character": "Ranvijay Balbir Singh / Aziz Haque",
+     "slug": "ranbir-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iIdjOJNt7F7v8TX5iqjf7dcRizx.jpg"
+    },
+    {
+     "name": "Rashmika Mandanna",
+     "character": "Geetanjali Singh",
+     "slug": "rashmika-mandanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6PpadmUs2Mz8nRw6rmKEiZZGcZ5.jpg"
+    },
+    {
+     "name": "Anil Kapoor",
+     "character": "Balbir Singh",
+     "slug": "anil-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dwvnpiwg9m2zj0VHzlgzEotFl0G.jpg"
+    },
+    {
+     "name": "Bobby Deol",
+     "character": "Abrar Haque",
+     "slug": "bobby-deol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2npVa3PduichY8e7qBiE54m9VVP.jpg"
+    },
+    {
+     "name": "Triptii Dimri",
+     "character": "Zoya Riaz",
+     "slug": "triptii-dimri",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d4eKm8PqGPHdInHB6zzFDclJbxc.jpg"
+    },
+    {
+     "name": "Prem Chopra",
+     "character": "Bade Daarji",
+     "slug": "prem-chopra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4hLAhScWZA6utfg8VCivwVH6FHy.jpg"
+    },
+    {
+     "name": "Suresh Oberoi",
+     "character": "Dadaji",
+     "slug": "suresh-oberoi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eU19xoD28bzCImBXNpOQCIbhUZG.jpg"
+    },
+    {
+     "name": "Shakti Kapoor",
+     "character": "Mishra",
+     "slug": "shakti-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8bkl6B8i8cgW5xVjCoHQkxEqqke.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sandeep Reddy Vanga",
+       "slug": "sandeep-reddy-vanga"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Suresh Bandaru",
+       "slug": "suresh-bandaru"
+      },
+      {
+       "name": "Sandeep Reddy Vanga",
+       "slug": "sandeep-reddy-vanga"
+      },
+      {
+       "name": "Pranay Reddy Vanga",
+       "slug": "pranay-reddy-vanga"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Harshavardhan Rameshwar",
+       "slug": "harshavardhan-rameshwar"
+      },
+      {
+       "name": "Vishal Mishra",
+       "slug": "vishal-mishra"
+      },
+      {
+       "name": "Manan Bhardwaj",
+       "slug": "manan-bhardwaj"
+      },
+      {
+       "name": "Jaani",
+       "slug": "jaani"
+      },
+      {
+       "name": "Shreyas Puranik",
+       "slug": "shreyas-puranik"
+      },
+      {
+       "name": "Pritam Chakraborty",
+       "slug": "pritam-chakraborty"
+      },
+      {
+       "name": "Gurinder Seagal",
+       "slug": "gurinder-seagal"
+      },
+      {
+       "name": "Ashim Kemson",
+       "slug": "ashim-kemson"
+      },
+      {
+       "name": "Bhupinder Babbal",
+       "slug": "bhupinder-babbal"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Amit Roy",
+       "slug": "amit-roy"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sandeep Reddy Vanga",
+       "slug": "sandeep-reddy-vanga"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Bhushan Kumar",
+       "slug": "bhushan-kumar"
+      },
+      {
+       "name": "Murad Khetani",
+       "slug": "murad-khetani"
+      },
+      {
+       "name": "Krishan Kumar",
+       "slug": "krishan-kumar"
+      },
+      {
+       "name": "Pranay Reddy Vanga",
+       "slug": "pranay-reddy-vanga"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "T-Series",
+     "slug": "t-series",
+     "logo": "https://image.tmdb.org/t/p/w185/d3u51JgEP5KwPfxS13ocqvtzZeX.png"
+    },
+    {
+     "name": "Bhadrakali Pictures",
+     "slug": "bhadrakali-pictures",
+     "logo": null
+    },
+    {
+     "name": "ST Film",
+     "slug": "st-film",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-01-26",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-12-01",
+     "gross": 19248968.8,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1562,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-12-08",
+     "gross": 11649798.68,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1392,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-12-15",
+     "gross": 5509395.49,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1216,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-12-22",
+     "gross": 1008818,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 95,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-12-29",
+     "gross": 586753,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 59,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-01-05",
+     "gross": 355760,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 46,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 38359493.97,
+    "totalShows": 4370,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 19248968.8
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 19248968.8
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 71,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-12-01"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 468,
+    "title": "Animal",
+    "img": "https://image.tmdb.org/t/p/original/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg",
+    "released": "2023-12-01",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt13751694",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "201 min",
+    "genre": "Action, Crime, Drama",
+    "plot": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life.",
+    "released": "2023-12-01",
+    "director": "Sandeep Reddy Vanga",
+    "directorSlug": "sandeep-reddy-vanga",
+    "actors": [
+     "Ranbir Kapoor",
+     "Rashmika Mandanna",
+     "Anil Kapoor",
+     "Bobby Deol",
+     "Triptii Dimri",
+     "Prem Chopra"
+    ],
+    "awards": "41 wins u0026 59 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.2",
+      "votes": 118273,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.1",
+      "votes": 210,
+      "updatedAt": "2026-09-24T19:27:14.000Z"
+     },
+     "rt": "26%",
+     "metascore": 33,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ranbir Kapoor",
+     "character": "Ranvijay Balbir Singh / Aziz Haque",
+     "slug": "ranbir-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iIdjOJNt7F7v8TX5iqjf7dcRizx.jpg"
+    },
+    {
+     "name": "Rashmika Mandanna",
+     "character": "Geetanjali Singh",
+     "slug": "rashmika-mandanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6PpadmUs2Mz8nRw6rmKEiZZGcZ5.jpg"
+    },
+    {
+     "name": "Anil Kapoor",
+     "character": "Balbir Singh",
+     "slug": "anil-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dwvnpiwg9m2zj0VHzlgzEotFl0G.jpg"
+    },
+    {
+     "name": "Bobby Deol",
+     "character": "Abrar Haque",
+     "slug": "bobby-deol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2npVa3PduichY8e7qBiE54m9VVP.jpg"
+    },
+    {
+     "name": "Triptii Dimri",
+     "character": "Zoya Riaz",
+     "slug": "triptii-dimri",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d4eKm8PqGPHdInHB6zzFDclJbxc.jpg"
+    },
+    {
+     "name": "Prem Chopra",
+     "character": "Bade Daarji",
+     "slug": "prem-chopra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4hLAhScWZA6utfg8VCivwVH6FHy.jpg"
+    },
+    {
+     "name": "Suresh Oberoi",
+     "character": "Dadaji",
+     "slug": "suresh-oberoi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eU19xoD28bzCImBXNpOQCIbhUZG.jpg"
+    },
+    {
+     "name": "Shakti Kapoor",
+     "character": "Mishra",
+     "slug": "shakti-kapoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8bkl6B8i8cgW5xVjCoHQkxEqqke.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Sandeep Reddy Vanga",
+       "slug": "sandeep-reddy-vanga"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Suresh Bandaru",
+       "slug": "suresh-bandaru"
+      },
+      {
+       "name": "Sandeep Reddy Vanga",
+       "slug": "sandeep-reddy-vanga"
+      },
+      {
+       "name": "Pranay Reddy Vanga",
+       "slug": "pranay-reddy-vanga"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Harshavardhan Rameshwar",
+       "slug": "harshavardhan-rameshwar"
+      },
+      {
+       "name": "Vishal Mishra",
+       "slug": "vishal-mishra"
+      },
+      {
+       "name": "Manan Bhardwaj",
+       "slug": "manan-bhardwaj"
+      },
+      {
+       "name": "Jaani",
+       "slug": "jaani"
+      },
+      {
+       "name": "Shreyas Puranik",
+       "slug": "shreyas-puranik"
+      },
+      {
+       "name": "Pritam Chakraborty",
+       "slug": "pritam-chakraborty"
+      },
+      {
+       "name": "Gurinder Seagal",
+       "slug": "gurinder-seagal"
+      },
+      {
+       "name": "Ashim Kemson",
+       "slug": "ashim-kemson"
+      },
+      {
+       "name": "Bhupinder Babbal",
+       "slug": "bhupinder-babbal"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Amit Roy",
+       "slug": "amit-roy"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sandeep Reddy Vanga",
+       "slug": "sandeep-reddy-vanga"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Bhushan Kumar",
+       "slug": "bhushan-kumar"
+      },
+      {
+       "name": "Murad Khetani",
+       "slug": "murad-khetani"
+      },
+      {
+       "name": "Krishan Kumar",
+       "slug": "krishan-kumar"
+      },
+      {
+       "name": "Pranay Reddy Vanga",
+       "slug": "pranay-reddy-vanga"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "T-Series",
+     "slug": "t-series",
+     "logo": "https://image.tmdb.org/t/p/w185/d3u51JgEP5KwPfxS13ocqvtzZeX.png"
+    },
+    {
+     "name": "Bhadrakali Pictures",
+     "slug": "bhadrakali-pictures",
+     "logo": null
+    },
+    {
+     "name": "ST Film",
+     "slug": "st-film",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-01-26",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 38359493.97,
+    "totalShows": 4370,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 16299038,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 16299038,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 71,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-12-01"
+   }
+  }
+ }
+}

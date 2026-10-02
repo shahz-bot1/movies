@@ -1,0 +1,723 @@
+{
+ "id": 63,
+ "slug": "forensic",
+ "source_url": "https://fridaymatinee.in/boxoffice/forensic-63",
+ "captured_at": "2026-10-01T17:59:36.492695+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 63,
+    "title": "Forensic",
+    "img": "https://image.tmdb.org/t/p/original/5nnOFdY23oTr1f8NjsebvREjJdf.jpg",
+    "released": "2020-02-28",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10187680",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "134 min",
+    "genre": "Crime, Thriller",
+    "plot": "A forensic analyst and an investigation officer are on a chase to hunt down a gruesome serial killer and crack one of the most famous cold cases in the history of their departments.",
+    "released": "2020-02-28",
+    "director": "Akhil Paul",
+    "directorSlug": "akhil-paul",
+    "actors": [
+     "Tovino Thomas",
+     "Mamta Mohandas",
+     "Reba Monica John",
+     "Renji Panicker",
+     "Mohan Sharma",
+     "Srikant Murali"
+    ],
+    "awards": "2 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 7188,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": "25%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tovino Thomas",
+     "character": "Samuel John Kattookkaran",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Mamta Mohandas",
+     "character": "Rithika Xavier",
+     "slug": "mamta-mohandas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ce9B8AG0IN77F9GR3b8gj13CP1q.jpg"
+    },
+    {
+     "name": "Reba Monica John",
+     "character": "Shikha Damodar",
+     "slug": "reba-monica-john",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dYW3cCnwzEIzKaeZjSopXYd2a50.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "Abdul Wahab",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5MGztWs1yxlptGDzeofC2jG7cAm.jpg"
+    },
+    {
+     "name": "Mohan Sharma",
+     "character": "John Kattookkaran",
+     "slug": "mohan-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k6YSmsli27fpceT3ymTNUry8T7A.jpg"
+    },
+    {
+     "name": "Srikant Murali",
+     "character": "SP Isaac",
+     "slug": "srikant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m82xCpAgdCzjG2D1qg1dmcj5Uhx.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Xavier John Kattokkaran",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Prathap Pothan",
+     "character": "Dr. Jayakumar Menon",
+     "slug": "prathap-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wDnpGLXgsBax5NE0LgSsV6EWrje.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Akhil Paul",
+       "slug": "akhil-paul"
+      },
+      {
+       "name": "Anas Khan",
+       "slug": "anas-khan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Akhil Paul",
+       "slug": "akhil-paul"
+      },
+      {
+       "name": "Anas Khan",
+       "slug": "anas-khan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Akhil George",
+       "slug": "akhil-george"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Navis Xaviour",
+       "slug": "navis-xaviour"
+      },
+      {
+       "name": "Siju Mathew",
+       "slug": "siju-mathew"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Juvis Production",
+     "slug": "juvis-production",
+     "logo": null
+    },
+    {
+     "name": "Ragam Movies",
+     "slug": "ragam-movies",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 41775565,
+    "totalShows": 3127,
+    "totalDays": 12,
+    "openingDay": {
+     "day": 1,
+     "gross": 5762947,
+     "date": "2020-02-28"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 8543175,
+     "date": "2020-03-01"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 54,
+     "peak_position": 10,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2021-02-28"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 63,
+    "title": "Forensic",
+    "img": "https://image.tmdb.org/t/p/original/5nnOFdY23oTr1f8NjsebvREjJdf.jpg",
+    "released": "2020-02-28",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10187680",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "134 min",
+    "genre": "Crime, Thriller",
+    "plot": "A forensic analyst and an investigation officer are on a chase to hunt down a gruesome serial killer and crack one of the most famous cold cases in the history of their departments.",
+    "released": "2020-02-28",
+    "director": "Akhil Paul",
+    "directorSlug": "akhil-paul",
+    "actors": [
+     "Tovino Thomas",
+     "Mamta Mohandas",
+     "Reba Monica John",
+     "Renji Panicker",
+     "Mohan Sharma",
+     "Srikant Murali"
+    ],
+    "awards": "2 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 7188,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": "25%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tovino Thomas",
+     "character": "Samuel John Kattookkaran",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Mamta Mohandas",
+     "character": "Rithika Xavier",
+     "slug": "mamta-mohandas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ce9B8AG0IN77F9GR3b8gj13CP1q.jpg"
+    },
+    {
+     "name": "Reba Monica John",
+     "character": "Shikha Damodar",
+     "slug": "reba-monica-john",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dYW3cCnwzEIzKaeZjSopXYd2a50.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "Abdul Wahab",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5MGztWs1yxlptGDzeofC2jG7cAm.jpg"
+    },
+    {
+     "name": "Mohan Sharma",
+     "character": "John Kattookkaran",
+     "slug": "mohan-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k6YSmsli27fpceT3ymTNUry8T7A.jpg"
+    },
+    {
+     "name": "Srikant Murali",
+     "character": "SP Isaac",
+     "slug": "srikant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m82xCpAgdCzjG2D1qg1dmcj5Uhx.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Xavier John Kattokkaran",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Prathap Pothan",
+     "character": "Dr. Jayakumar Menon",
+     "slug": "prathap-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wDnpGLXgsBax5NE0LgSsV6EWrje.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Akhil Paul",
+       "slug": "akhil-paul"
+      },
+      {
+       "name": "Anas Khan",
+       "slug": "anas-khan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Akhil Paul",
+       "slug": "akhil-paul"
+      },
+      {
+       "name": "Anas Khan",
+       "slug": "anas-khan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Akhil George",
+       "slug": "akhil-george"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Navis Xaviour",
+       "slug": "navis-xaviour"
+      },
+      {
+       "name": "Siju Mathew",
+       "slug": "siju-mathew"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Juvis Production",
+     "slug": "juvis-production",
+     "logo": null
+    },
+    {
+     "name": "Ragam Movies",
+     "slug": "ragam-movies",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2020-02-28",
+     "gross": 30117305,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1870,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2020-03-06",
+     "gross": 11658260,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1257,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 41775565,
+    "totalShows": 3127,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 30117305
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 30117305
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 54,
+     "peak_position": 10,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2021-02-28"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 63,
+    "title": "Forensic",
+    "img": "https://image.tmdb.org/t/p/original/5nnOFdY23oTr1f8NjsebvREjJdf.jpg",
+    "released": "2020-02-28",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10187680",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "134 min",
+    "genre": "Crime, Thriller",
+    "plot": "A forensic analyst and an investigation officer are on a chase to hunt down a gruesome serial killer and crack one of the most famous cold cases in the history of their departments.",
+    "released": "2020-02-28",
+    "director": "Akhil Paul",
+    "directorSlug": "akhil-paul",
+    "actors": [
+     "Tovino Thomas",
+     "Mamta Mohandas",
+     "Reba Monica John",
+     "Renji Panicker",
+     "Mohan Sharma",
+     "Srikant Murali"
+    ],
+    "awards": "2 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 7188,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": "25%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tovino Thomas",
+     "character": "Samuel John Kattookkaran",
+     "slug": "tovino-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uySCXY4TZxEDcVJD8WOjDQmMHc9.jpg"
+    },
+    {
+     "name": "Mamta Mohandas",
+     "character": "Rithika Xavier",
+     "slug": "mamta-mohandas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ce9B8AG0IN77F9GR3b8gj13CP1q.jpg"
+    },
+    {
+     "name": "Reba Monica John",
+     "character": "Shikha Damodar",
+     "slug": "reba-monica-john",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dYW3cCnwzEIzKaeZjSopXYd2a50.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "Abdul Wahab",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5MGztWs1yxlptGDzeofC2jG7cAm.jpg"
+    },
+    {
+     "name": "Mohan Sharma",
+     "character": "John Kattookkaran",
+     "slug": "mohan-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/k6YSmsli27fpceT3ymTNUry8T7A.jpg"
+    },
+    {
+     "name": "Srikant Murali",
+     "character": "SP Isaac",
+     "slug": "srikant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/m82xCpAgdCzjG2D1qg1dmcj5Uhx.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Xavier John Kattokkaran",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Prathap Pothan",
+     "character": "Dr. Jayakumar Menon",
+     "slug": "prathap-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wDnpGLXgsBax5NE0LgSsV6EWrje.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Akhil Paul",
+       "slug": "akhil-paul"
+      },
+      {
+       "name": "Anas Khan",
+       "slug": "anas-khan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Akhil Paul",
+       "slug": "akhil-paul"
+      },
+      {
+       "name": "Anas Khan",
+       "slug": "anas-khan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Akhil George",
+       "slug": "akhil-george"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Navis Xaviour",
+       "slug": "navis-xaviour"
+      },
+      {
+       "name": "Siju Mathew",
+       "slug": "siju-mathew"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Juvis Production",
+     "slug": "juvis-production",
+     "logo": null
+    },
+    {
+     "name": "Ragam Movies",
+     "slug": "ragam-movies",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 41775565,
+    "totalShows": 3127,
+    "totalDays": 11,
+    "openingDay": {
+     "day": 1,
+     "gross": 16022473,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 16022473,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 54,
+     "peak_position": 10,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2021-02-28"
+   }
+  }
+ }
+}

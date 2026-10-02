@@ -1,0 +1,55 @@
+{
+ "slug": "james-eliya",
+ "name": "James Eliya",
+ "source_url": "https://fridaymatinee.in/people/james-eliya",
+ "captured_at": "2026-10-01T23:00:09.088313+00:00",
+ "person": {
+  "name": "James Eliya",
+  "photo": "https://image.tmdb.org/t/p/w185/gs7FxTeGhu1AK3NkKwsqHniu0rF.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 49,
+   "movie_slug": "valiyaperunnal",
+   "title": "Valiyaperunnal",
+   "year": 2019,
+   "kerala_gross": "₹62.1L"
+  },
+  {
+   "movie_id": 117,
+   "movie_slug": "pathrosinte-padappukal",
+   "title": "Pathrosinte Padappukal",
+   "year": 2022,
+   "kerala_gross": "₹13.7L"
+  },
+  {
+   "movie_id": 179,
+   "movie_slug": "thallumaala",
+   "title": "Thallumaala",
+   "year": 2022,
+   "kerala_gross": "₹18.9 Cr"
+  },
+  {
+   "movie_id": 402,
+   "movie_slug": "padmini",
+   "title": "Padmini",
+   "year": 2023,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 969,
+   "movie_slug": "baby-girl",
+   "title": "Baby Girl",
+   "year": 2026,
+   "kerala_gross": "₹3.3 Cr"
+  }
+ ]
+}

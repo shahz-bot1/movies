@@ -1,0 +1,716 @@
+{
+ "id": 801,
+ "slug": "relay",
+ "source_url": "https://fridaymatinee.in/boxoffice/relay-801",
+ "captured_at": "2026-10-01T18:22:52.146100+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 801,
+    "title": "Relay",
+    "img": "https://image.tmdb.org/t/p/original/mpwccO2L8LUVtVTJTdgUVgoQqAo.jpg",
+    "released": "2025-08-22",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11539996",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "112 min",
+    "genre": "Action, Drama, Thriller",
+    "plot": "A broker of lucrative payoffs between corrupt corporations and the individuals who threaten them breaks his own rules when a new client seeks his protection to stay alive.",
+    "released": "2025-08-21",
+    "director": "David Mackenzie",
+    "directorSlug": "david-mackenzie",
+    "actors": [
+     "Riz Ahmed",
+     "Lily James",
+     "Sam Worthington",
+     "Willa Fitzgerald",
+     "Eisa Davis",
+     "Matthew Maher"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.0",
+      "votes": 41120,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.0",
+      "votes": 525,
+      "updatedAt": "2026-09-24T16:10:34.000Z"
+     },
+     "rt": "82%",
+     "metascore": 70,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Riz Ahmed",
+     "character": "Ash",
+     "slug": "riz-ahmed",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg"
+    },
+    {
+     "name": "Lily James",
+     "character": "Sarah",
+     "slug": "lily-james",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7UN8GVsDzccK9UVYzMx3hooLyzZ.jpg"
+    },
+    {
+     "name": "Sam Worthington",
+     "character": "Dawson",
+     "slug": "sam-worthington",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+    },
+    {
+     "name": "Willa Fitzgerald",
+     "character": "Rosetti",
+     "slug": "willa-fitzgerald",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hXvCqRAtmrfjozHtVNrBgXFzzao.jpg"
+    },
+    {
+     "name": "Eisa Davis",
+     "character": "Wash",
+     "slug": "eisa-davis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8zFgKVCJHsyQFO3JD6ftUe4NiXr.jpg"
+    },
+    {
+     "name": "Matthew Maher",
+     "character": "Hoffman",
+     "slug": "matthew-maher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3RPEUaliXJ9lcoL5R5IbcAOwd5D.jpg"
+    },
+    {
+     "name": "Victor Garber",
+     "character": "McVie",
+     "slug": "victor-garber",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/FdhXl8qxsKgj22Ip99SRM9jUx1.jpg"
+    },
+    {
+     "name": "Jared Abrahamson",
+     "character": "Ryan",
+     "slug": "jared-abrahamson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3hShByAdCj1Qom9mXeeqJL9zu8d.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "David Mackenzie",
+       "slug": "david-mackenzie"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Justin Piasecki",
+       "slug": "justin-piasecki"
+      },
+      {
+       "name": "David Mackenzie",
+       "slug": "david-mackenzie"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Tony Doogan",
+       "slug": "tony-doogan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Giles Nuttgens",
+       "slug": "giles-nuttgens"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Matt Mayer",
+       "slug": "matt-mayer"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Teddy Schwarzman",
+       "slug": "teddy-schwarzman"
+      },
+      {
+       "name": "Basil Iwanyk",
+       "slug": "basil-iwanyk"
+      },
+      {
+       "name": "David Mackenzie",
+       "slug": "david-mackenzie"
+      },
+      {
+       "name": "Gillian Berrie",
+       "slug": "gillian-berrie"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Thunder Road",
+     "slug": "thunder-road",
+     "logo": "https://image.tmdb.org/t/p/w185/cCzCClIzIh81Fa79hpW5nXoUsHK.png"
+    },
+    {
+     "name": "Sigma Films",
+     "slug": "sigma-films",
+     "logo": "https://image.tmdb.org/t/p/w185/mZJMAPElHQBIuWWXSyHtyaMf26C.png"
+    },
+    {
+     "name": "Black Bear Pictures",
+     "slug": "black-bear-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/v37N1mFeXNQfvPankg3feBhVvM7.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-15",
+    "platforms": [
+     {
+      "id": 561,
+      "name": "Lionsgate Play",
+      "logoPath": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2053,
+      "name": "Lionsgate Play Apple TV Channel",
+      "logoPath": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2074,
+      "name": "Lionsgate Play Amazon Channel",
+      "logoPath": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 51650,
+    "totalShows": 13,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 22850,
+     "date": "2025-08-22"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 22850,
+     "date": "2025-08-22"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-22"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 801,
+    "title": "Relay",
+    "img": "https://image.tmdb.org/t/p/original/mpwccO2L8LUVtVTJTdgUVgoQqAo.jpg",
+    "released": "2025-08-22",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11539996",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "112 min",
+    "genre": "Action, Drama, Thriller",
+    "plot": "A broker of lucrative payoffs between corrupt corporations and the individuals who threaten them breaks his own rules when a new client seeks his protection to stay alive.",
+    "released": "2025-08-21",
+    "director": "David Mackenzie",
+    "directorSlug": "david-mackenzie",
+    "actors": [
+     "Riz Ahmed",
+     "Lily James",
+     "Sam Worthington",
+     "Willa Fitzgerald",
+     "Eisa Davis",
+     "Matthew Maher"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.0",
+      "votes": 41120,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.0",
+      "votes": 525,
+      "updatedAt": "2026-09-24T16:10:34.000Z"
+     },
+     "rt": "82%",
+     "metascore": 70,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Riz Ahmed",
+     "character": "Ash",
+     "slug": "riz-ahmed",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg"
+    },
+    {
+     "name": "Lily James",
+     "character": "Sarah",
+     "slug": "lily-james",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7UN8GVsDzccK9UVYzMx3hooLyzZ.jpg"
+    },
+    {
+     "name": "Sam Worthington",
+     "character": "Dawson",
+     "slug": "sam-worthington",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+    },
+    {
+     "name": "Willa Fitzgerald",
+     "character": "Rosetti",
+     "slug": "willa-fitzgerald",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hXvCqRAtmrfjozHtVNrBgXFzzao.jpg"
+    },
+    {
+     "name": "Eisa Davis",
+     "character": "Wash",
+     "slug": "eisa-davis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8zFgKVCJHsyQFO3JD6ftUe4NiXr.jpg"
+    },
+    {
+     "name": "Matthew Maher",
+     "character": "Hoffman",
+     "slug": "matthew-maher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3RPEUaliXJ9lcoL5R5IbcAOwd5D.jpg"
+    },
+    {
+     "name": "Victor Garber",
+     "character": "McVie",
+     "slug": "victor-garber",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/FdhXl8qxsKgj22Ip99SRM9jUx1.jpg"
+    },
+    {
+     "name": "Jared Abrahamson",
+     "character": "Ryan",
+     "slug": "jared-abrahamson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3hShByAdCj1Qom9mXeeqJL9zu8d.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "David Mackenzie",
+       "slug": "david-mackenzie"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Justin Piasecki",
+       "slug": "justin-piasecki"
+      },
+      {
+       "name": "David Mackenzie",
+       "slug": "david-mackenzie"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Tony Doogan",
+       "slug": "tony-doogan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Giles Nuttgens",
+       "slug": "giles-nuttgens"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Matt Mayer",
+       "slug": "matt-mayer"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Teddy Schwarzman",
+       "slug": "teddy-schwarzman"
+      },
+      {
+       "name": "Basil Iwanyk",
+       "slug": "basil-iwanyk"
+      },
+      {
+       "name": "David Mackenzie",
+       "slug": "david-mackenzie"
+      },
+      {
+       "name": "Gillian Berrie",
+       "slug": "gillian-berrie"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Thunder Road",
+     "slug": "thunder-road",
+     "logo": "https://image.tmdb.org/t/p/w185/cCzCClIzIh81Fa79hpW5nXoUsHK.png"
+    },
+    {
+     "name": "Sigma Films",
+     "slug": "sigma-films",
+     "logo": "https://image.tmdb.org/t/p/w185/mZJMAPElHQBIuWWXSyHtyaMf26C.png"
+    },
+    {
+     "name": "Black Bear Pictures",
+     "slug": "black-bear-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/v37N1mFeXNQfvPankg3feBhVvM7.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-15",
+    "platforms": [
+     {
+      "id": 561,
+      "name": "Lionsgate Play",
+      "logoPath": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2053,
+      "name": "Lionsgate Play Apple TV Channel",
+      "logoPath": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2074,
+      "name": "Lionsgate Play Amazon Channel",
+      "logoPath": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-08-22",
+     "gross": 51650,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 13,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 51650,
+    "totalShows": 13,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 51650
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 51650
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-22"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 801,
+    "title": "Relay",
+    "img": "https://image.tmdb.org/t/p/original/mpwccO2L8LUVtVTJTdgUVgoQqAo.jpg",
+    "released": "2025-08-22",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11539996",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "112 min",
+    "genre": "Action, Drama, Thriller",
+    "plot": "A broker of lucrative payoffs between corrupt corporations and the individuals who threaten them breaks his own rules when a new client seeks his protection to stay alive.",
+    "released": "2025-08-21",
+    "director": "David Mackenzie",
+    "directorSlug": "david-mackenzie",
+    "actors": [
+     "Riz Ahmed",
+     "Lily James",
+     "Sam Worthington",
+     "Willa Fitzgerald",
+     "Eisa Davis",
+     "Matthew Maher"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.0",
+      "votes": 41120,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.0",
+      "votes": 525,
+      "updatedAt": "2026-09-24T16:10:34.000Z"
+     },
+     "rt": "82%",
+     "metascore": 70,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Riz Ahmed",
+     "character": "Ash",
+     "slug": "riz-ahmed",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg"
+    },
+    {
+     "name": "Lily James",
+     "character": "Sarah",
+     "slug": "lily-james",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7UN8GVsDzccK9UVYzMx3hooLyzZ.jpg"
+    },
+    {
+     "name": "Sam Worthington",
+     "character": "Dawson",
+     "slug": "sam-worthington",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+    },
+    {
+     "name": "Willa Fitzgerald",
+     "character": "Rosetti",
+     "slug": "willa-fitzgerald",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hXvCqRAtmrfjozHtVNrBgXFzzao.jpg"
+    },
+    {
+     "name": "Eisa Davis",
+     "character": "Wash",
+     "slug": "eisa-davis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8zFgKVCJHsyQFO3JD6ftUe4NiXr.jpg"
+    },
+    {
+     "name": "Matthew Maher",
+     "character": "Hoffman",
+     "slug": "matthew-maher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3RPEUaliXJ9lcoL5R5IbcAOwd5D.jpg"
+    },
+    {
+     "name": "Victor Garber",
+     "character": "McVie",
+     "slug": "victor-garber",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/FdhXl8qxsKgj22Ip99SRM9jUx1.jpg"
+    },
+    {
+     "name": "Jared Abrahamson",
+     "character": "Ryan",
+     "slug": "jared-abrahamson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3hShByAdCj1Qom9mXeeqJL9zu8d.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "David Mackenzie",
+       "slug": "david-mackenzie"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Justin Piasecki",
+       "slug": "justin-piasecki"
+      },
+      {
+       "name": "David Mackenzie",
+       "slug": "david-mackenzie"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Tony Doogan",
+       "slug": "tony-doogan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Giles Nuttgens",
+       "slug": "giles-nuttgens"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Matt Mayer",
+       "slug": "matt-mayer"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Teddy Schwarzman",
+       "slug": "teddy-schwarzman"
+      },
+      {
+       "name": "Basil Iwanyk",
+       "slug": "basil-iwanyk"
+      },
+      {
+       "name": "David Mackenzie",
+       "slug": "david-mackenzie"
+      },
+      {
+       "name": "Gillian Berrie",
+       "slug": "gillian-berrie"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Thunder Road",
+     "slug": "thunder-road",
+     "logo": "https://image.tmdb.org/t/p/w185/cCzCClIzIh81Fa79hpW5nXoUsHK.png"
+    },
+    {
+     "name": "Sigma Films",
+     "slug": "sigma-films",
+     "logo": "https://image.tmdb.org/t/p/w185/mZJMAPElHQBIuWWXSyHtyaMf26C.png"
+    },
+    {
+     "name": "Black Bear Pictures",
+     "slug": "black-bear-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/v37N1mFeXNQfvPankg3feBhVvM7.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-15",
+    "platforms": [
+     {
+      "id": 561,
+      "name": "Lionsgate Play",
+      "logoPath": "/vvUYyCXlJMfKEo24vw4cEMavzvu.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2053,
+      "name": "Lionsgate Play Apple TV Channel",
+      "logoPath": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2074,
+      "name": "Lionsgate Play Amazon Channel",
+      "logoPath": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 51650,
+    "totalShows": 13,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 39390,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 39390,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-22"
+   }
+  }
+ }
+}

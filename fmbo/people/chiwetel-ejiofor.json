@@ -1,0 +1,41 @@
+{
+ "slug": "chiwetel-ejiofor",
+ "name": "Chiwetel Ejiofor",
+ "source_url": "https://fridaymatinee.in/people/chiwetel-ejiofor",
+ "captured_at": "2026-10-01T21:34:45.316590+00:00",
+ "person": {
+  "name": "Chiwetel Ejiofor",
+  "photo": "https://image.tmdb.org/t/p/w185/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 136,
+   "movie_slug": "doctor-strange-in-the-multiverse-of-madness",
+   "title": "Doctor Strange in the Multiverse of Madness",
+   "year": 2022,
+   "kerala_gross": "₹4.5 Cr"
+  },
+  {
+   "movie_id": 572,
+   "movie_slug": "venom-the-last-dance",
+   "title": "Venom: The Last Dance",
+   "year": 2024,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 1139,
+   "movie_slug": "backrooms",
+   "title": "Backrooms",
+   "year": 2026,
+   "kerala_gross": "₹24.4L"
+  }
+ ]
+}

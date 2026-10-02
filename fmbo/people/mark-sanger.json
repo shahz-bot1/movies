@@ -1,0 +1,41 @@
+{
+ "slug": "mark-sanger",
+ "name": "Mark Sanger",
+ "source_url": "https://fridaymatinee.in/people/mark-sanger",
+ "captured_at": "2026-10-02T00:24:39.253200+00:00",
+ "person": {
+  "name": "Mark Sanger",
+  "photo": "https://image.tmdb.org/t/p/w185/2YjCk24z0rCYZ3xIG49AhX3pOer.jpg",
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 145,
+   "movie_slug": "jurassic-world-dominion",
+   "title": "Jurassic World Dominion",
+   "year": 2022,
+   "kerala_gross": "₹2.0 Cr"
+  },
+  {
+   "movie_id": 572,
+   "movie_slug": "venom-the-last-dance",
+   "title": "Venom: The Last Dance",
+   "year": 2024,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 684,
+   "movie_slug": "snow-white",
+   "title": "Snow White",
+   "year": 2025,
+   "kerala_gross": "₹17.6L"
+  }
+ ]
+}

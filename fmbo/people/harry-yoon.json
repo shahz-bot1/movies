@@ -1,0 +1,41 @@
+{
+ "slug": "harry-yoon",
+ "name": "Harry Yoon",
+ "source_url": "https://fridaymatinee.in/people/harry-yoon",
+ "captured_at": "2026-10-01T22:43:23.091476+00:00",
+ "person": {
+  "name": "Harry Yoon",
+  "photo": "https://image.tmdb.org/t/p/w185/jtJEPNDcKHfNGti58ox6IYlWI0I.jpg",
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 687,
+   "movie_slug": "thunderbolts",
+   "title": "Thunderbolts*",
+   "year": 2025,
+   "kerala_gross": "₹1.0 Cr"
+  },
+  {
+   "movie_id": 1080,
+   "movie_slug": "michael",
+   "title": "Michael",
+   "year": 2026,
+   "kerala_gross": "₹5.6 Cr"
+  },
+  {
+   "movie_id": 675,
+   "movie_slug": "spider-man-brand-new-day",
+   "title": "Spider-Man: Brand New Day",
+   "year": 2026,
+   "kerala_gross": "₹35.7 Cr"
+  }
+ ]
+}

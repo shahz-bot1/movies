@@ -1,0 +1,756 @@
+{
+ "id": 642,
+ "slug": "interstellar",
+ "source_url": "https://fridaymatinee.in/boxoffice/interstellar-642",
+ "captured_at": "2026-10-01T18:17:48.912637+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 642,
+    "title": "Interstellar",
+    "img": "https://image.tmdb.org/t/p/original/9d1sCoMSGJZtghS2X9us1h9u8lW.jpg",
+    "released": "2025-02-07",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt0816692",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "169 min",
+    "genre": "Adventure, Drama, Science Fiction",
+    "plot": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "released": "2014-11-05",
+    "director": "Christopher Nolan",
+    "directorSlug": "christopher-nolan",
+    "actors": [
+     "Matthew McConaughey",
+     "Anne Hathaway",
+     "Michael Caine",
+     "Jessica Chastain",
+     "Casey Affleck",
+     "Wes Bentley"
+    ],
+    "awards": "Won 1 Oscar. 45 wins u0026 148 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.7",
+      "votes": 2612199,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.5",
+      "votes": 41244,
+      "updatedAt": "2026-09-24T19:10:24.000Z"
+     },
+     "rt": "73%",
+     "metascore": 74,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Matthew McConaughey",
+     "character": "Cooper",
+     "slug": "matthew-mcconaughey",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+    },
+    {
+     "name": "Anne Hathaway",
+     "character": "Brand",
+     "slug": "anne-hathaway",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+    },
+    {
+     "name": "Michael Caine",
+     "character": "Professor Brand",
+     "slug": "michael-caine",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+    },
+    {
+     "name": "Jessica Chastain",
+     "character": "Murph",
+     "slug": "jessica-chastain",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg"
+    },
+    {
+     "name": "Casey Affleck",
+     "character": "Tom",
+     "slug": "casey-affleck",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+    },
+    {
+     "name": "Wes Bentley",
+     "character": "Doyle",
+     "slug": "wes-bentley",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+    },
+    {
+     "name": "Topher Grace",
+     "character": "Getty",
+     "slug": "topher-grace",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oJQxl4DG0KSCtOGrpWNhYz9gUZA.jpg"
+    },
+    {
+     "name": "Mackenzie Foy",
+     "character": "Murph (10 Yrs.)",
+     "slug": "mackenzie-foy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wzH60SrqWp2XMkBfLgdBhx5EJ82.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Christopher Nolan",
+       "slug": "christopher-nolan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jonathan Nolan",
+       "slug": "jonathan-nolan"
+      },
+      {
+       "name": "Christopher Nolan",
+       "slug": "christopher-nolan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hans Zimmer",
+       "slug": "hans-zimmer"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Hoyte van Hoytema",
+       "slug": "hoyte-van-hoytema"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Lee Smith",
+       "slug": "lee-smith"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Christopher Nolan",
+       "slug": "christopher-nolan"
+      },
+      {
+       "name": "Lynda Obst",
+       "slug": "lynda-obst"
+      },
+      {
+       "name": "Emma Thomas",
+       "slug": "emma-thomas"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Legendary Pictures",
+     "slug": "legendary-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png"
+    },
+    {
+     "name": "Syncopy",
+     "slug": "syncopy",
+     "logo": "https://image.tmdb.org/t/p/w185/3tvBqYsBhxWeHlu62SIJ1el93O7.png"
+    },
+    {
+     "name": "Lynda Obst Productions",
+     "slug": "lynda-obst-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2014-11-07",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 38168890,
+    "totalShows": 1598,
+    "totalDays": 35,
+    "openingDay": {
+     "day": 1,
+     "gross": 3412226,
+     "date": "2025-02-07"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 4364208,
+     "date": "2025-02-09"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-02-07"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 642,
+    "title": "Interstellar",
+    "img": "https://image.tmdb.org/t/p/original/9d1sCoMSGJZtghS2X9us1h9u8lW.jpg",
+    "released": "2025-02-07",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt0816692",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "169 min",
+    "genre": "Adventure, Drama, Science Fiction",
+    "plot": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "released": "2014-11-05",
+    "director": "Christopher Nolan",
+    "directorSlug": "christopher-nolan",
+    "actors": [
+     "Matthew McConaughey",
+     "Anne Hathaway",
+     "Michael Caine",
+     "Jessica Chastain",
+     "Casey Affleck",
+     "Wes Bentley"
+    ],
+    "awards": "Won 1 Oscar. 45 wins u0026 148 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.7",
+      "votes": 2612199,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.5",
+      "votes": 41244,
+      "updatedAt": "2026-09-24T19:10:24.000Z"
+     },
+     "rt": "73%",
+     "metascore": 74,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Matthew McConaughey",
+     "character": "Cooper",
+     "slug": "matthew-mcconaughey",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+    },
+    {
+     "name": "Anne Hathaway",
+     "character": "Brand",
+     "slug": "anne-hathaway",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+    },
+    {
+     "name": "Michael Caine",
+     "character": "Professor Brand",
+     "slug": "michael-caine",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+    },
+    {
+     "name": "Jessica Chastain",
+     "character": "Murph",
+     "slug": "jessica-chastain",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg"
+    },
+    {
+     "name": "Casey Affleck",
+     "character": "Tom",
+     "slug": "casey-affleck",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+    },
+    {
+     "name": "Wes Bentley",
+     "character": "Doyle",
+     "slug": "wes-bentley",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+    },
+    {
+     "name": "Topher Grace",
+     "character": "Getty",
+     "slug": "topher-grace",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oJQxl4DG0KSCtOGrpWNhYz9gUZA.jpg"
+    },
+    {
+     "name": "Mackenzie Foy",
+     "character": "Murph (10 Yrs.)",
+     "slug": "mackenzie-foy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wzH60SrqWp2XMkBfLgdBhx5EJ82.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Christopher Nolan",
+       "slug": "christopher-nolan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jonathan Nolan",
+       "slug": "jonathan-nolan"
+      },
+      {
+       "name": "Christopher Nolan",
+       "slug": "christopher-nolan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hans Zimmer",
+       "slug": "hans-zimmer"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Hoyte van Hoytema",
+       "slug": "hoyte-van-hoytema"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Lee Smith",
+       "slug": "lee-smith"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Christopher Nolan",
+       "slug": "christopher-nolan"
+      },
+      {
+       "name": "Lynda Obst",
+       "slug": "lynda-obst"
+      },
+      {
+       "name": "Emma Thomas",
+       "slug": "emma-thomas"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Legendary Pictures",
+     "slug": "legendary-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png"
+    },
+    {
+     "name": "Syncopy",
+     "slug": "syncopy",
+     "logo": "https://image.tmdb.org/t/p/w185/3tvBqYsBhxWeHlu62SIJ1el93O7.png"
+    },
+    {
+     "name": "Lynda Obst Productions",
+     "slug": "lynda-obst-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2014-11-07",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-02-07",
+     "gross": 26629028,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 688,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-03-14",
+     "gross": 7705365,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 727,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-03-21",
+     "gross": 2877775,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 135,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-03-28",
+     "gross": 646022,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 41,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-04-04",
+     "gross": 310700,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 7,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 38168890,
+    "totalShows": 1598,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 26629028
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 26629028
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-02-07"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 642,
+    "title": "Interstellar",
+    "img": "https://image.tmdb.org/t/p/original/9d1sCoMSGJZtghS2X9us1h9u8lW.jpg",
+    "released": "2025-02-07",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt0816692",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "169 min",
+    "genre": "Adventure, Drama, Science Fiction",
+    "plot": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "released": "2014-11-05",
+    "director": "Christopher Nolan",
+    "directorSlug": "christopher-nolan",
+    "actors": [
+     "Matthew McConaughey",
+     "Anne Hathaway",
+     "Michael Caine",
+     "Jessica Chastain",
+     "Casey Affleck",
+     "Wes Bentley"
+    ],
+    "awards": "Won 1 Oscar. 45 wins u0026 148 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.7",
+      "votes": 2612199,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.5",
+      "votes": 41244,
+      "updatedAt": "2026-09-24T19:10:24.000Z"
+     },
+     "rt": "73%",
+     "metascore": 74,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Matthew McConaughey",
+     "character": "Cooper",
+     "slug": "matthew-mcconaughey",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+    },
+    {
+     "name": "Anne Hathaway",
+     "character": "Brand",
+     "slug": "anne-hathaway",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+    },
+    {
+     "name": "Michael Caine",
+     "character": "Professor Brand",
+     "slug": "michael-caine",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+    },
+    {
+     "name": "Jessica Chastain",
+     "character": "Murph",
+     "slug": "jessica-chastain",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg"
+    },
+    {
+     "name": "Casey Affleck",
+     "character": "Tom",
+     "slug": "casey-affleck",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+    },
+    {
+     "name": "Wes Bentley",
+     "character": "Doyle",
+     "slug": "wes-bentley",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+    },
+    {
+     "name": "Topher Grace",
+     "character": "Getty",
+     "slug": "topher-grace",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oJQxl4DG0KSCtOGrpWNhYz9gUZA.jpg"
+    },
+    {
+     "name": "Mackenzie Foy",
+     "character": "Murph (10 Yrs.)",
+     "slug": "mackenzie-foy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wzH60SrqWp2XMkBfLgdBhx5EJ82.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Christopher Nolan",
+       "slug": "christopher-nolan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jonathan Nolan",
+       "slug": "jonathan-nolan"
+      },
+      {
+       "name": "Christopher Nolan",
+       "slug": "christopher-nolan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hans Zimmer",
+       "slug": "hans-zimmer"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Hoyte van Hoytema",
+       "slug": "hoyte-van-hoytema"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Lee Smith",
+       "slug": "lee-smith"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Christopher Nolan",
+       "slug": "christopher-nolan"
+      },
+      {
+       "name": "Lynda Obst",
+       "slug": "lynda-obst"
+      },
+      {
+       "name": "Emma Thomas",
+       "slug": "emma-thomas"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Legendary Pictures",
+     "slug": "legendary-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png"
+    },
+    {
+     "name": "Syncopy",
+     "slug": "syncopy",
+     "logo": "https://image.tmdb.org/t/p/w185/3tvBqYsBhxWeHlu62SIJ1el93O7.png"
+    },
+    {
+     "name": "Lynda Obst Productions",
+     "slug": "lynda-obst-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2014-11-07",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 38168890,
+    "totalShows": 1598,
+    "totalDays": 13,
+    "openingDay": {
+     "day": 1,
+     "gross": 19717956,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 19717956,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-02-07"
+   }
+  }
+ }
+}

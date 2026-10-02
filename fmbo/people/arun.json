@@ -1,0 +1,62 @@
+{
+ "slug": "arun",
+ "name": "Arun",
+ "source_url": "https://fridaymatinee.in/people/arun",
+ "captured_at": "2026-10-01T20:55:55.443503+00:00",
+ "person": {
+  "name": "Arun",
+  "photo": "https://image.tmdb.org/t/p/w185/eCeMZszcSFwCvyacaB6Stfj6gZZ.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 26,
+   "movie_slug": "under-world",
+   "title": "Under World",
+   "year": 2019,
+   "kerala_gross": "₹35.9L"
+  },
+  {
+   "movie_id": 48,
+   "movie_slug": "driving-licence",
+   "title": "Driving Licence",
+   "year": 2019,
+   "kerala_gross": "₹7.6 Cr"
+  },
+  {
+   "movie_id": 72,
+   "movie_slug": "tsunami",
+   "title": "Tsunami",
+   "year": 2021,
+   "kerala_gross": "₹5.0L"
+  },
+  {
+   "movie_id": 604,
+   "movie_slug": "hello-mummy",
+   "title": "Hello Mummy",
+   "year": 2024,
+   "kerala_gross": "₹6.6 Cr"
+  },
+  {
+   "movie_id": 705,
+   "movie_slug": "ronth",
+   "title": "Ronth",
+   "year": 2025,
+   "kerala_gross": "₹5.3 Cr"
+  },
+  {
+   "movie_id": 1214,
+   "movie_slug": "unmadham",
+   "title": "Unmadham",
+   "year": 2026,
+   "kerala_gross": "₹3.6 Cr"
+  }
+ ]
+}

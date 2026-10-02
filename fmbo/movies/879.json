@@ -1,0 +1,966 @@
+{
+ "id": 879,
+ "slug": "the-running-man",
+ "source_url": "https://fridaymatinee.in/boxoffice/the-running-man-879",
+ "captured_at": "2026-10-01T18:25:03.712200+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 879,
+    "title": "The Running Man",
+    "img": "https://image.tmdb.org/t/p/original/yhWKTCYa0LK9kS6zcKGYc5Dx9xQ.jpg",
+    "released": "2025-11-12",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14107334",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "133 min",
+    "genre": "Action, Thriller, Science Fiction",
+    "plot": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite — and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
+    "released": "2025-11-11",
+    "director": "Edgar Wright",
+    "directorSlug": "edgar-wright",
+    "actors": [
+     "Glen Powell",
+     "William H. Macy",
+     "Lee Pace",
+     "Michael Cera",
+     "Emilia Jones",
+     "Daniel Ezra"
+    ],
+    "awards": "8 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 124953,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.7",
+      "votes": 1988,
+      "updatedAt": "2026-09-24T16:10:04.000Z"
+     },
+     "rt": "61%",
+     "metascore": 56,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Glen Powell",
+     "character": "Ben Richards",
+     "slug": "glen-powell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fUnIaJkdgvQTztyR1nLeUceSzly.jpg"
+    },
+    {
+     "name": "William H. Macy",
+     "character": "Molie Jernigan",
+     "slug": "william-h-macy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+    },
+    {
+     "name": "Lee Pace",
+     "character": "Evan McCone",
+     "slug": "lee-pace",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
+    },
+    {
+     "name": "Michael Cera",
+     "character": "Elton Perrakis",
+     "slug": "michael-cera",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
+    },
+    {
+     "name": "Emilia Jones",
+     "character": "Amelia Williams",
+     "slug": "emilia-jones",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rnvwYNLkwur5VYHvbMuFny2aXyM.jpg"
+    },
+    {
+     "name": "Daniel Ezra",
+     "character": "Bradley",
+     "slug": "daniel-ezra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/43AIgx8PEABQKkK08OCJ9239OK6.jpg"
+    },
+    {
+     "name": "Jayme Lawson",
+     "character": "Sheila Richards",
+     "slug": "jayme-lawson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1PQmquJ3LRnTnUnut0UZBLZuBuO.jpg"
+    },
+    {
+     "name": "Sean Hayes",
+     "character": "Gary Greenbacks",
+     "slug": "sean-hayes",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/31TI5l5QvcZHN4fh0NpejZyJtP.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Edgar Wright",
+       "slug": "edgar-wright"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Michael Bacall",
+       "slug": "michael-bacall"
+      },
+      {
+       "name": "Edgar Wright",
+       "slug": "edgar-wright"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Steven Price",
+       "slug": "steven-price"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Chung Chung-hoon",
+       "slug": "chung-chung-hoon"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Paul Machliss",
+       "slug": "paul-machliss"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Simon Kinberg",
+       "slug": "simon-kinberg"
+      },
+      {
+       "name": "Nira Park",
+       "slug": "nira-park"
+      },
+      {
+       "name": "Edgar Wright",
+       "slug": "edgar-wright"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+     "name": "Complete Fiction",
+     "slug": "complete-fiction",
+     "logo": "https://image.tmdb.org/t/p/w185/9Gk6sEs92Eshc1mZm4r2JEebran.png"
+    },
+    {
+     "name": "Genre Films",
+     "slug": "genre-films",
+     "logo": "https://image.tmdb.org/t/p/w185/Aqomtf9oh5dKtxBNEagkdlp3aGv.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-12-11",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-11-14": [
+     {
+      "id": 663,
+      "title": "Kaantha",
+      "img": "https://image.tmdb.org/t/p/original/qsWKspeAPrh0QyhCAIUb7Ex9tH.jpg"
+     },
+     {
+      "id": 882,
+      "title": "Athibheekara Kaamukan",
+      "img": "https://image.tmdb.org/t/p/original/dKo7UDzLAuIOOdiaDV8X0KAFRoR.jpg"
+     },
+     {
+      "id": 916,
+      "title": "JHope Tour Hope On The Stage The Movie",
+      "img": "https://image.tmdb.org/t/p/original/g0DUaDV8Vn61MU62SVmmWpyeViV.jpg"
+     }
+    ],
+    "2025-11-16": [
+     {
+      "id": 923,
+      "title": "Wicked: For Good",
+      "img": "https://image.tmdb.org/t/p/original/si9tolnefLSUKaqQEGz1bWArOaL.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-11-14",
+     "gross": 173635,
+     "sold": 741,
+     "unsold": 6096,
+     "shows": 37,
+     "occ": 10.84,
+     "hf": "4",
+     "almost": "4",
+     "ff": "0",
+     "cumul": 173635,
+     "lastUpdatedAt": "2025-11-14 22:53:00"
+    },
+    {
+     "label": "2025-11-15",
+     "gross": 104985,
+     "sold": 408,
+     "unsold": 4666,
+     "shows": 29,
+     "occ": 8.04,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 278620,
+     "lastUpdatedAt": "2025-11-15 22:53:00"
+    },
+    {
+     "label": "2025-11-16",
+     "gross": 161805,
+     "sold": 449,
+     "unsold": 2451,
+     "shows": 18,
+     "occ": 15.48,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 440425,
+     "lastUpdatedAt": "2025-11-16 22:53:00"
+    },
+    {
+     "label": "2025-11-17",
+     "gross": 137160,
+     "sold": 441,
+     "unsold": 1584,
+     "shows": 13,
+     "occ": 21.78,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 577585,
+     "lastUpdatedAt": "2025-11-17 23:48:00"
+    },
+    {
+     "label": "2025-11-18",
+     "gross": 32273,
+     "sold": 158,
+     "unsold": 1765,
+     "shows": 12,
+     "occ": 8.22,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 609858,
+     "lastUpdatedAt": "2025-11-18 22:53:00"
+    },
+    {
+     "label": "2025-11-19",
+     "gross": 30150,
+     "sold": 108,
+     "unsold": 1892,
+     "shows": 13,
+     "occ": 5.4,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 640008,
+     "lastUpdatedAt": "2025-11-19 22:53:00"
+    },
+    {
+     "label": "2025-11-20",
+     "gross": 106932,
+     "sold": 311,
+     "unsold": 1308,
+     "shows": 11,
+     "occ": 19.21,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 746940,
+     "lastUpdatedAt": "2025-11-20 22:53:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 746940,
+    "totalShows": 133,
+    "totalSeats": 22378,
+    "totalSold": 2616,
+    "avgOcc": "11.7",
+    "totalDays": 7,
+    "totalHousefull": 9,
+    "totalAlmost": 9,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 173635,
+     "date": "2025-11-14"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 173635,
+     "date": "2025-11-14"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "7:106932:746940"
+  },
+  "week": {
+   "movie": {
+    "id": 879,
+    "title": "The Running Man",
+    "img": "https://image.tmdb.org/t/p/original/yhWKTCYa0LK9kS6zcKGYc5Dx9xQ.jpg",
+    "released": "2025-11-12",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14107334",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "133 min",
+    "genre": "Action, Thriller, Science Fiction",
+    "plot": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite — and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
+    "released": "2025-11-11",
+    "director": "Edgar Wright",
+    "directorSlug": "edgar-wright",
+    "actors": [
+     "Glen Powell",
+     "William H. Macy",
+     "Lee Pace",
+     "Michael Cera",
+     "Emilia Jones",
+     "Daniel Ezra"
+    ],
+    "awards": "8 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 124953,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.7",
+      "votes": 1988,
+      "updatedAt": "2026-09-24T16:10:04.000Z"
+     },
+     "rt": "61%",
+     "metascore": 56,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Glen Powell",
+     "character": "Ben Richards",
+     "slug": "glen-powell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fUnIaJkdgvQTztyR1nLeUceSzly.jpg"
+    },
+    {
+     "name": "William H. Macy",
+     "character": "Molie Jernigan",
+     "slug": "william-h-macy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+    },
+    {
+     "name": "Lee Pace",
+     "character": "Evan McCone",
+     "slug": "lee-pace",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
+    },
+    {
+     "name": "Michael Cera",
+     "character": "Elton Perrakis",
+     "slug": "michael-cera",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
+    },
+    {
+     "name": "Emilia Jones",
+     "character": "Amelia Williams",
+     "slug": "emilia-jones",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rnvwYNLkwur5VYHvbMuFny2aXyM.jpg"
+    },
+    {
+     "name": "Daniel Ezra",
+     "character": "Bradley",
+     "slug": "daniel-ezra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/43AIgx8PEABQKkK08OCJ9239OK6.jpg"
+    },
+    {
+     "name": "Jayme Lawson",
+     "character": "Sheila Richards",
+     "slug": "jayme-lawson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1PQmquJ3LRnTnUnut0UZBLZuBuO.jpg"
+    },
+    {
+     "name": "Sean Hayes",
+     "character": "Gary Greenbacks",
+     "slug": "sean-hayes",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/31TI5l5QvcZHN4fh0NpejZyJtP.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Edgar Wright",
+       "slug": "edgar-wright"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Michael Bacall",
+       "slug": "michael-bacall"
+      },
+      {
+       "name": "Edgar Wright",
+       "slug": "edgar-wright"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Steven Price",
+       "slug": "steven-price"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Chung Chung-hoon",
+       "slug": "chung-chung-hoon"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Paul Machliss",
+       "slug": "paul-machliss"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Simon Kinberg",
+       "slug": "simon-kinberg"
+      },
+      {
+       "name": "Nira Park",
+       "slug": "nira-park"
+      },
+      {
+       "name": "Edgar Wright",
+       "slug": "edgar-wright"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+     "name": "Complete Fiction",
+     "slug": "complete-fiction",
+     "logo": "https://image.tmdb.org/t/p/w185/9Gk6sEs92Eshc1mZm4r2JEebran.png"
+    },
+    {
+     "name": "Genre Films",
+     "slug": "genre-films",
+     "logo": "https://image.tmdb.org/t/p/w185/Aqomtf9oh5dKtxBNEagkdlp3aGv.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-12-11",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-11-14": [
+     {
+      "id": 663,
+      "title": "Kaantha",
+      "img": "https://image.tmdb.org/t/p/original/qsWKspeAPrh0QyhCAIUb7Ex9tH.jpg"
+     },
+     {
+      "id": 882,
+      "title": "Athibheekara Kaamukan",
+      "img": "https://image.tmdb.org/t/p/original/dKo7UDzLAuIOOdiaDV8X0KAFRoR.jpg"
+     },
+     {
+      "id": 916,
+      "title": "JHope Tour Hope On The Stage The Movie",
+      "img": "https://image.tmdb.org/t/p/original/g0DUaDV8Vn61MU62SVmmWpyeViV.jpg"
+     }
+    ],
+    "2025-11-16": [
+     {
+      "id": 923,
+      "title": "Wicked: For Good",
+      "img": "https://image.tmdb.org/t/p/original/si9tolnefLSUKaqQEGz1bWArOaL.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-11-14",
+     "gross": 746940,
+     "sold": 2616,
+     "unsold": 19762,
+     "shows": 133,
+     "occ": 11.69,
+     "hf": "9",
+     "almost": "9",
+     "ff": "0",
+     "cumul": 746940,
+     "lastUpdatedAt": "2025-11-20 22:53:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 746940,
+    "totalShows": 133,
+    "totalSeats": 22378,
+    "totalSold": 2616,
+    "avgOcc": "11.7",
+    "totalDays": 1,
+    "totalHousefull": 9,
+    "totalAlmost": 9,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 746940
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 746940
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:746940:746940"
+  },
+  "district": {
+   "movie": {
+    "id": 879,
+    "title": "The Running Man",
+    "img": "https://image.tmdb.org/t/p/original/yhWKTCYa0LK9kS6zcKGYc5Dx9xQ.jpg",
+    "released": "2025-11-12",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14107334",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "133 min",
+    "genre": "Action, Thriller, Science Fiction",
+    "plot": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite — and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
+    "released": "2025-11-11",
+    "director": "Edgar Wright",
+    "directorSlug": "edgar-wright",
+    "actors": [
+     "Glen Powell",
+     "William H. Macy",
+     "Lee Pace",
+     "Michael Cera",
+     "Emilia Jones",
+     "Daniel Ezra"
+    ],
+    "awards": "8 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 124953,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.7",
+      "votes": 1988,
+      "updatedAt": "2026-09-24T16:10:04.000Z"
+     },
+     "rt": "61%",
+     "metascore": 56,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Glen Powell",
+     "character": "Ben Richards",
+     "slug": "glen-powell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fUnIaJkdgvQTztyR1nLeUceSzly.jpg"
+    },
+    {
+     "name": "William H. Macy",
+     "character": "Molie Jernigan",
+     "slug": "william-h-macy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+    },
+    {
+     "name": "Lee Pace",
+     "character": "Evan McCone",
+     "slug": "lee-pace",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
+    },
+    {
+     "name": "Michael Cera",
+     "character": "Elton Perrakis",
+     "slug": "michael-cera",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
+    },
+    {
+     "name": "Emilia Jones",
+     "character": "Amelia Williams",
+     "slug": "emilia-jones",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rnvwYNLkwur5VYHvbMuFny2aXyM.jpg"
+    },
+    {
+     "name": "Daniel Ezra",
+     "character": "Bradley",
+     "slug": "daniel-ezra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/43AIgx8PEABQKkK08OCJ9239OK6.jpg"
+    },
+    {
+     "name": "Jayme Lawson",
+     "character": "Sheila Richards",
+     "slug": "jayme-lawson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1PQmquJ3LRnTnUnut0UZBLZuBuO.jpg"
+    },
+    {
+     "name": "Sean Hayes",
+     "character": "Gary Greenbacks",
+     "slug": "sean-hayes",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/31TI5l5QvcZHN4fh0NpejZyJtP.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Edgar Wright",
+       "slug": "edgar-wright"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Michael Bacall",
+       "slug": "michael-bacall"
+      },
+      {
+       "name": "Edgar Wright",
+       "slug": "edgar-wright"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Steven Price",
+       "slug": "steven-price"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Chung Chung-hoon",
+       "slug": "chung-chung-hoon"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Paul Machliss",
+       "slug": "paul-machliss"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Simon Kinberg",
+       "slug": "simon-kinberg"
+      },
+      {
+       "name": "Nira Park",
+       "slug": "nira-park"
+      },
+      {
+       "name": "Edgar Wright",
+       "slug": "edgar-wright"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+     "name": "Complete Fiction",
+     "slug": "complete-fiction",
+     "logo": "https://image.tmdb.org/t/p/w185/9Gk6sEs92Eshc1mZm4r2JEebran.png"
+    },
+    {
+     "name": "Genre Films",
+     "slug": "genre-films",
+     "logo": "https://image.tmdb.org/t/p/w185/Aqomtf9oh5dKtxBNEagkdlp3aGv.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-12-11",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-11-14": [
+     {
+      "id": 663,
+      "title": "Kaantha",
+      "img": "https://image.tmdb.org/t/p/original/qsWKspeAPrh0QyhCAIUb7Ex9tH.jpg"
+     },
+     {
+      "id": 882,
+      "title": "Athibheekara Kaamukan",
+      "img": "https://image.tmdb.org/t/p/original/dKo7UDzLAuIOOdiaDV8X0KAFRoR.jpg"
+     },
+     {
+      "id": 916,
+      "title": "JHope Tour Hope On The Stage The Movie",
+      "img": "https://image.tmdb.org/t/p/original/g0DUaDV8Vn61MU62SVmmWpyeViV.jpg"
+     }
+    ],
+    "2025-11-16": [
+     {
+      "id": 923,
+      "title": "Wicked: For Good",
+      "img": "https://image.tmdb.org/t/p/original/si9tolnefLSUKaqQEGz1bWArOaL.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 453099,
+     "sold": 1378,
+     "unsold": 6901,
+     "shows": 52,
+     "occ": 16.64,
+     "hf": "4",
+     "almost": "4",
+     "ff": "0",
+     "cumul": 453099,
+     "lastUpdatedAt": "2025-11-20 22:53:00"
+    },
+    {
+     "label": "Kannur",
+     "gross": 115340,
+     "sold": 564,
+     "unsold": 1488,
+     "shows": 12,
+     "occ": 27.49,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 568439,
+     "lastUpdatedAt": "2025-11-20 11:38:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 109870,
+     "sold": 335,
+     "unsold": 3527,
+     "shows": 29,
+     "occ": 8.67,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 678309,
+     "lastUpdatedAt": "2025-11-20 19:33:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 54256,
+     "sold": 253,
+     "unsold": 2965,
+     "shows": 24,
+     "occ": 7.86,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 732565,
+     "lastUpdatedAt": "2025-11-20 17:58:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 9930,
+     "sold": 53,
+     "unsold": 801,
+     "shows": 7,
+     "occ": 6.21,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 742495,
+     "lastUpdatedAt": "2025-11-18 16:38:00"
+    },
+    {
+     "label": "Kottayam",
+     "gross": 4185,
+     "sold": 31,
+     "unsold": 2501,
+     "shows": 6,
+     "occ": 1.22,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 746680,
+     "lastUpdatedAt": "2025-11-16 10:43:00"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 260,
+     "sold": 2,
+     "unsold": 1579,
+     "shows": 3,
+     "occ": 0.13,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 746940,
+     "lastUpdatedAt": "2025-11-15 11:08:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 746940,
+    "totalShows": 133,
+    "totalSeats": 22378,
+    "totalSold": 2616,
+    "avgOcc": "11.7",
+    "totalDays": 7,
+    "totalHousefull": 9,
+    "totalAlmost": 9,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 453099,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 453099,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "7:260:746940"
+  }
+ }
+}

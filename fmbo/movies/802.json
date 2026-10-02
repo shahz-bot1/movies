@@ -1,0 +1,602 @@
+{
+ "id": 802,
+ "slug": "the-case-diary",
+ "source_url": "https://fridaymatinee.in/boxoffice/the-case-diary-802",
+ "captured_at": "2026-10-01T18:22:54.968539+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 802,
+    "title": "The Case Diary",
+    "img": "https://image.tmdb.org/t/p/w1280/uAvdm9pTSgjZINlQ0OtnHYwB4XF.jpg",
+    "released": "2025-08-22",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt37962349",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "137 min",
+    "genre": "Crime, Thriller",
+    "plot": "CI Christy Sam goes to Tamil Nadu as part of capturing some interstate criminals, and at the end of that mission, he happens to find out the fact that his long-lost twin brother, Aju from the orphanage, had died under suspicious circumstances. Christy starts investigation to find out his brother's killer.",
+    "released": "2025-08-21",
+    "director": "Dileep Narayanan",
+    "directorSlug": "dileep-narayanan",
+    "actors": [
+     "Ashkar Saudan",
+     "Rahul Madhav",
+     "Vijayaraghavan",
+     "Sakshi Agarwal",
+     "Riyaz Khan",
+     "Ameer Niyaz"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "2.2",
+      "votes": 192,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:34.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ashkar Saudan",
+     "character": "C.I Cristy Sam",
+     "slug": "ashkar-saudan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z49ADsR3zZDeePaaA2nFbq7SLIo.jpg"
+    },
+    {
+     "name": "Rahul Madhav",
+     "character": "Kannan",
+     "slug": "rahul-madhav",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6jW9kQ5LwptZuOUPc2muC5hwgwf.jpg"
+    },
+    {
+     "name": "Vijayaraghavan",
+     "character": "Sam Koshy",
+     "slug": "vijayaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3AE7r02YPbSrEUIfP7gUN7lLNfI.jpg"
+    },
+    {
+     "name": "Sakshi Agarwal",
+     "character": "Dr. Bhanu",
+     "slug": "sakshi-agarwal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jhPzUpTf5QpahtImv3JscZ4H7Wb.jpg"
+    },
+    {
+     "name": "Riyaz Khan",
+     "character": "Morris Pedro Alvarez",
+     "slug": "riyaz-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pwl6in6HaayAmiSQjx8Hp3eimw9.jpg"
+    },
+    {
+     "name": "Ameer Niyaz",
+     "character": "Roshan",
+     "slug": "ameer-niyaz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2UKbg37vfFYGgtNc1CXV45daLCp.jpg"
+    },
+    {
+     "name": "Kichu Tellus",
+     "character": "Giri",
+     "slug": "kichu-tellus",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ilo7dTpCUZ31qmCsaqtGUrQ0VaH.jpg"
+    },
+    {
+     "name": "Gokulan",
+     "character": "S.I Vladimir",
+     "slug": "gokulan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y36ZVFg40z8XKo7nhpZkC6N0S4N.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Dileep Narayanan",
+       "slug": "dileep-narayanan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "A K Santhosh",
+       "slug": "a-k-santhosh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Prakash Alex",
+       "slug": "prakash-alex"
+      },
+      {
+       "name": "Vishnu Mohan Sithara",
+       "slug": "vishnu-mohan-sithara"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "P. Sukumar",
+       "slug": "p-sukumar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Lijo Paul",
+       "slug": "lijo-paul"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "KV Abdul Nazar",
+       "slug": "kv-abdul-nazar"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2146979,
+    "totalShows": 742,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 426324,
+     "date": "2025-08-22"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 426324,
+     "date": "2025-08-22"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-22"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 802,
+    "title": "The Case Diary",
+    "img": "https://image.tmdb.org/t/p/w1280/uAvdm9pTSgjZINlQ0OtnHYwB4XF.jpg",
+    "released": "2025-08-22",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt37962349",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "137 min",
+    "genre": "Crime, Thriller",
+    "plot": "CI Christy Sam goes to Tamil Nadu as part of capturing some interstate criminals, and at the end of that mission, he happens to find out the fact that his long-lost twin brother, Aju from the orphanage, had died under suspicious circumstances. Christy starts investigation to find out his brother's killer.",
+    "released": "2025-08-21",
+    "director": "Dileep Narayanan",
+    "directorSlug": "dileep-narayanan",
+    "actors": [
+     "Ashkar Saudan",
+     "Rahul Madhav",
+     "Vijayaraghavan",
+     "Sakshi Agarwal",
+     "Riyaz Khan",
+     "Ameer Niyaz"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "2.2",
+      "votes": 192,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:34.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ashkar Saudan",
+     "character": "C.I Cristy Sam",
+     "slug": "ashkar-saudan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z49ADsR3zZDeePaaA2nFbq7SLIo.jpg"
+    },
+    {
+     "name": "Rahul Madhav",
+     "character": "Kannan",
+     "slug": "rahul-madhav",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6jW9kQ5LwptZuOUPc2muC5hwgwf.jpg"
+    },
+    {
+     "name": "Vijayaraghavan",
+     "character": "Sam Koshy",
+     "slug": "vijayaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3AE7r02YPbSrEUIfP7gUN7lLNfI.jpg"
+    },
+    {
+     "name": "Sakshi Agarwal",
+     "character": "Dr. Bhanu",
+     "slug": "sakshi-agarwal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jhPzUpTf5QpahtImv3JscZ4H7Wb.jpg"
+    },
+    {
+     "name": "Riyaz Khan",
+     "character": "Morris Pedro Alvarez",
+     "slug": "riyaz-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pwl6in6HaayAmiSQjx8Hp3eimw9.jpg"
+    },
+    {
+     "name": "Ameer Niyaz",
+     "character": "Roshan",
+     "slug": "ameer-niyaz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2UKbg37vfFYGgtNc1CXV45daLCp.jpg"
+    },
+    {
+     "name": "Kichu Tellus",
+     "character": "Giri",
+     "slug": "kichu-tellus",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ilo7dTpCUZ31qmCsaqtGUrQ0VaH.jpg"
+    },
+    {
+     "name": "Gokulan",
+     "character": "S.I Vladimir",
+     "slug": "gokulan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y36ZVFg40z8XKo7nhpZkC6N0S4N.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Dileep Narayanan",
+       "slug": "dileep-narayanan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "A K Santhosh",
+       "slug": "a-k-santhosh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Prakash Alex",
+       "slug": "prakash-alex"
+      },
+      {
+       "name": "Vishnu Mohan Sithara",
+       "slug": "vishnu-mohan-sithara"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "P. Sukumar",
+       "slug": "p-sukumar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Lijo Paul",
+       "slug": "lijo-paul"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "KV Abdul Nazar",
+       "slug": "kv-abdul-nazar"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-08-22",
+     "gross": 2146979,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 742,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2146979,
+    "totalShows": 742,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 2146979
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2146979
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-22"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 802,
+    "title": "The Case Diary",
+    "img": "https://image.tmdb.org/t/p/w1280/uAvdm9pTSgjZINlQ0OtnHYwB4XF.jpg",
+    "released": "2025-08-22",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt37962349",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "137 min",
+    "genre": "Crime, Thriller",
+    "plot": "CI Christy Sam goes to Tamil Nadu as part of capturing some interstate criminals, and at the end of that mission, he happens to find out the fact that his long-lost twin brother, Aju from the orphanage, had died under suspicious circumstances. Christy starts investigation to find out his brother's killer.",
+    "released": "2025-08-21",
+    "director": "Dileep Narayanan",
+    "directorSlug": "dileep-narayanan",
+    "actors": [
+     "Ashkar Saudan",
+     "Rahul Madhav",
+     "Vijayaraghavan",
+     "Sakshi Agarwal",
+     "Riyaz Khan",
+     "Ameer Niyaz"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "2.2",
+      "votes": 192,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:34.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ashkar Saudan",
+     "character": "C.I Cristy Sam",
+     "slug": "ashkar-saudan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z49ADsR3zZDeePaaA2nFbq7SLIo.jpg"
+    },
+    {
+     "name": "Rahul Madhav",
+     "character": "Kannan",
+     "slug": "rahul-madhav",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6jW9kQ5LwptZuOUPc2muC5hwgwf.jpg"
+    },
+    {
+     "name": "Vijayaraghavan",
+     "character": "Sam Koshy",
+     "slug": "vijayaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3AE7r02YPbSrEUIfP7gUN7lLNfI.jpg"
+    },
+    {
+     "name": "Sakshi Agarwal",
+     "character": "Dr. Bhanu",
+     "slug": "sakshi-agarwal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jhPzUpTf5QpahtImv3JscZ4H7Wb.jpg"
+    },
+    {
+     "name": "Riyaz Khan",
+     "character": "Morris Pedro Alvarez",
+     "slug": "riyaz-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pwl6in6HaayAmiSQjx8Hp3eimw9.jpg"
+    },
+    {
+     "name": "Ameer Niyaz",
+     "character": "Roshan",
+     "slug": "ameer-niyaz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2UKbg37vfFYGgtNc1CXV45daLCp.jpg"
+    },
+    {
+     "name": "Kichu Tellus",
+     "character": "Giri",
+     "slug": "kichu-tellus",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ilo7dTpCUZ31qmCsaqtGUrQ0VaH.jpg"
+    },
+    {
+     "name": "Gokulan",
+     "character": "S.I Vladimir",
+     "slug": "gokulan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y36ZVFg40z8XKo7nhpZkC6N0S4N.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Dileep Narayanan",
+       "slug": "dileep-narayanan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "A K Santhosh",
+       "slug": "a-k-santhosh"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Prakash Alex",
+       "slug": "prakash-alex"
+      },
+      {
+       "name": "Vishnu Mohan Sithara",
+       "slug": "vishnu-mohan-sithara"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "P. Sukumar",
+       "slug": "p-sukumar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Lijo Paul",
+       "slug": "lijo-paul"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "KV Abdul Nazar",
+       "slug": "kv-abdul-nazar"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2146979,
+    "totalShows": 742,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 539128,
+     "date": "Thrissur"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 539128,
+     "date": "Thrissur"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-22"
+   }
+  }
+ }
+}

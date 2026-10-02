@@ -1,0 +1,55 @@
+{
+ "slug": "nyla-usha",
+ "name": "Nyla Usha",
+ "source_url": "https://fridaymatinee.in/people/nyla-usha",
+ "captured_at": "2026-10-02T01:07:38.370378+00:00",
+ "person": {
+  "name": "Nyla Usha",
+  "photo": "https://image.tmdb.org/t/p/w185/8k5OhuVdhp8kTXSxCQ9KZDtHSCn.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 154,
+   "movie_slug": "priyan-ottathilaanu",
+   "title": "Priyan Ottathilaanu",
+   "year": 2022,
+   "kerala_gross": "₹1.0 Cr"
+  },
+  {
+   "movie_id": 166,
+   "movie_slug": "paappan",
+   "title": "Paappan",
+   "year": 2022,
+   "kerala_gross": "₹13.4 Cr"
+  },
+  {
+   "movie_id": 404,
+   "movie_slug": "king-of-kotha",
+   "title": "King of Kotha",
+   "year": 2023,
+   "kerala_gross": "₹12.1 Cr"
+  },
+  {
+   "movie_id": 470,
+   "movie_slug": "antony",
+   "title": "Antony",
+   "year": 2023,
+   "kerala_gross": "₹5.5 Cr"
+  },
+  {
+   "movie_id": 667,
+   "movie_slug": "lucifer",
+   "title": "Lucifer",
+   "year": 2025,
+   "kerala_gross": "₹32.3L"
+  }
+ ]
+}

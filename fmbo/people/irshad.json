@@ -1,0 +1,83 @@
+{
+ "slug": "irshad",
+ "name": "Irshad",
+ "source_url": "https://fridaymatinee.in/people/irshad",
+ "captured_at": "2026-10-01T22:52:57.693738+00:00",
+ "person": {
+  "name": "Irshad",
+  "photo": "https://image.tmdb.org/t/p/w185/fQNMwd91fjYETkiWe8QDD8wNdV.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 9
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 55,
+   "movie_slug": "big-brother",
+   "title": "Big Brother ",
+   "year": 2020,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 70,
+   "movie_slug": "operation-java",
+   "title": "Operation Java",
+   "year": 2021,
+   "kerala_gross": "₹86.0L"
+  },
+  {
+   "movie_id": 164,
+   "movie_slug": "malayankunju",
+   "title": "Malayankunju",
+   "year": 2022,
+   "kerala_gross": "₹5.9 Cr"
+  },
+  {
+   "movie_id": 518,
+   "movie_slug": "guruvayoorambala-nadayil",
+   "title": "Guruvayoorambala Nadayil",
+   "year": 2024,
+   "kerala_gross": "₹39.9 Cr"
+  },
+  {
+   "movie_id": 593,
+   "movie_slug": "thudarum",
+   "title": "Thudarum",
+   "year": 2025,
+   "kerala_gross": "₹107.2 Cr"
+  },
+  {
+   "movie_id": 961,
+   "movie_slug": "pennu-case",
+   "title": "Pennu Case",
+   "year": 2026,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 886,
+   "movie_slug": "valathu-vashathe-kallan",
+   "title": "Valathu Vashathe Kallan",
+   "year": 2026,
+   "kerala_gross": "₹4.3 Cr"
+  },
+  {
+   "movie_id": 1012,
+   "movie_slug": "drishyam-3",
+   "title": "Drishyam 3",
+   "year": 2026,
+   "kerala_gross": "₹82.0 Cr"
+  },
+  {
+   "movie_id": 1085,
+   "movie_slug": "athimanoharam",
+   "title": "Athimanoharam",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

@@ -1,0 +1,1436 @@
+{
+ "id": 1133,
+ "slug": "masters-of-the-universe",
+ "source_url": "https://fridaymatinee.in/boxoffice/masters-of-the-universe-1133",
+ "captured_at": "2026-10-01T19:48:26.123420+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1133,
+    "title": "Masters of the Universe",
+    "img": "https://image.tmdb.org/t/p/original/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+    "released": "2026-06-05",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt0427340",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "141 min",
+    "genre": "Action, Fantasy, Science Fiction",
+    "plot": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+    "released": "2026-06-03",
+    "director": "Travis Knight",
+    "directorSlug": "travis-knight",
+    "actors": [
+     "Nicholas Galitzine",
+     "Camila Mendes",
+     "Idris Elba",
+     "Jared Leto",
+     "Alison Brie",
+     "Jóhannes Haukur Jóhannesson"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 125667,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.1",
+      "votes": 2158,
+      "updatedAt": "2026-09-24T10:11:17.000Z"
+     },
+     "rt": null,
+     "metascore": 52,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Nicholas Galitzine",
+     "character": "Adam / He-Man",
+     "slug": "nicholas-galitzine",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hG4rH7eBMs117746bBOd8fUa4PA.jpg"
+    },
+    {
+     "name": "Camila Mendes",
+     "character": "Teela",
+     "slug": "camila-mendes",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+    },
+    {
+     "name": "Idris Elba",
+     "character": "Duncan",
+     "slug": "idris-elba",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+     "name": "Jared Leto",
+     "character": "Skeletor",
+     "slug": "jared-leto",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
+    },
+    {
+     "name": "Alison Brie",
+     "character": "Evil-Lyn",
+     "slug": "alison-brie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/smqYVStfIHDYKTu8T1BA2LnhdF9.jpg"
+    },
+    {
+     "name": "Jóhannes Haukur Jóhannesson",
+     "character": "Fisto",
+     "slug": "johannes-haukur-johannesson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oqZftP0WS1rD5NFpR7vLp6JU52I.jpg"
+    },
+    {
+     "name": "Jon Xue Zhang",
+     "character": "Ram Man",
+     "slug": "jon-xue-zhang",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/olCEAjH9KeWte5ei24ej8MJAkZz.jpg"
+    },
+    {
+     "name": "Sam C. Wilson",
+     "character": "Trap Jaw",
+     "slug": "sam-c-wilson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/riwTkODF3CH1bJZG6K7U3dTUHhb.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Travis Knight",
+       "slug": "travis-knight"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Chris Butler",
+       "slug": "chris-butler"
+      },
+      {
+       "name": "Aaron Nee",
+       "slug": "aaron-nee"
+      },
+      {
+       "name": "Adam Nee",
+       "slug": "adam-nee"
+      },
+      {
+       "name": "David Callaham",
+       "slug": "david-callaham"
+      },
+      {
+       "name": "Alex Litvak",
+       "slug": "alex-litvak"
+      },
+      {
+       "name": "Michael Finch",
+       "slug": "michael-finch"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Daniel Pemberton",
+       "slug": "daniel-pemberton"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Fabian Wagner",
+       "slug": "fabian-wagner"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Paul Rubell",
+       "slug": "paul-rubell"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Robbie Brenner",
+       "slug": "robbie-brenner"
+      },
+      {
+       "name": "Todd Black",
+       "slug": "todd-black"
+      },
+      {
+       "name": "Jason Blumenthal",
+       "slug": "jason-blumenthal"
+      },
+      {
+       "name": "DeVon Franklin",
+       "slug": "devon-franklin"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Escape Artists",
+     "slug": "escape-artists",
+     "logo": "https://image.tmdb.org/t/p/w185/gzvsPHV9WqcQMrvI8pq5hbuvEZ5.png"
+    },
+    {
+     "name": "Mattel Studios",
+     "slug": "mattel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/omEguKifcJixMvKWq85sUp4lFdT.png"
+    },
+    {
+     "name": "Amazon MGM Studios",
+     "slug": "amazon-mgm-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-06-18": [
+     {
+      "id": 1063,
+      "title": "Colony",
+      "img": "https://image.tmdb.org/t/p/original/tzjoWjgro6HllRGei0wb11e6AEt.jpg"
+     },
+     {
+      "id": 1154,
+      "title": "Secret of Kalinga",
+      "img": "https://image.tmdb.org/t/p/original/8VsD78ZxP68dLtYYhKgqXbfSQbR.jpg"
+     }
+    ],
+    "2026-06-19": [
+     {
+      "id": 1079,
+      "title": "Balan",
+      "img": "https://image.tmdb.org/t/p/original/c6mFtfkOWplAUm3rniSBi7h1wsv.jpg"
+     },
+     {
+      "id": 1155,
+      "title": "Chinna Chinna Aasai",
+      "img": "https://image.tmdb.org/t/p/original/9uBqlrtZAoq160hEXyhmCv1NXcX.jpg"
+     },
+     {
+      "id": 1156,
+      "title": "Cocktail 2",
+      "img": "https://image.tmdb.org/t/p/original/hkDo2RN8tDsFl3J8wi4j7jy3sXU.jpg"
+     }
+    ],
+    "2026-06-05": [
+     {
+      "id": 1092,
+      "title": "Mollywood Times",
+      "img": "https://image.tmdb.org/t/p/original/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg"
+     },
+     {
+      "id": 1138,
+      "title": "Parimala and Co",
+      "img": "https://image.tmdb.org/t/p/original/vN2TOTKin83av7hwYnwAKSd3EG8.jpg"
+     }
+    ],
+    "2026-06-11": [
+     {
+      "id": 1139,
+      "title": "Backrooms",
+      "img": "https://image.tmdb.org/t/p/original/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+     }
+    ],
+    "2026-06-10": [
+     {
+      "id": 1143,
+      "title": "Disclosure Day",
+      "img": "https://image.tmdb.org/t/p/original/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
+     }
+    ],
+    "2026-06-12": [
+     {
+      "id": 1145,
+      "title": "Bharat Bhhagya Viddhaata",
+      "img": "https://image.tmdb.org/t/p/original/bNXFBZYX50ttN0SYdOc0hPyDlpP.jpg"
+     },
+     {
+      "id": 1146,
+      "title": "Governor",
+      "img": "https://image.tmdb.org/t/p/original/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg"
+     },
+     {
+      "id": 1147,
+      "title": "Main Vaapas Aaunga",
+      "img": "https://image.tmdb.org/t/p/original/qVoRgy52uGlvEESuLuSLdlojk74.jpg"
+     }
+    ],
+    "2026-06-25": [
+     {
+      "id": 1180,
+      "title": "Ananthan Kaadu",
+      "img": "https://image.tmdb.org/t/p/original/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-06-05",
+     "gross": 938529,
+     "sold": 3990,
+     "unsold": 27677,
+     "shows": 180,
+     "occ": 12.6,
+     "hf": "4",
+     "almost": "5",
+     "ff": "1",
+     "cumul": 938529,
+     "lastUpdatedAt": "2026-06-05 23:58:01"
+    },
+    {
+     "label": "2026-06-06",
+     "gross": 1234178,
+     "sold": 4733,
+     "unsold": 22178,
+     "shows": 158,
+     "occ": 17.59,
+     "hf": "4",
+     "almost": "7",
+     "ff": "2",
+     "cumul": 2172707,
+     "lastUpdatedAt": "2026-06-06 23:47:01"
+    },
+    {
+     "label": "2026-06-07",
+     "gross": 1346041,
+     "sold": 5566,
+     "unsold": 18116,
+     "shows": 137,
+     "occ": 23.5,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 3518748,
+     "lastUpdatedAt": "2026-06-07 23:43:02"
+    },
+    {
+     "label": "2026-06-08",
+     "gross": 394199,
+     "sold": 1898,
+     "unsold": 16238,
+     "shows": 107,
+     "occ": 10.47,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 3912947,
+     "lastUpdatedAt": "2026-06-08 23:28:01"
+    },
+    {
+     "label": "2026-06-09",
+     "gross": 441094,
+     "sold": 1764,
+     "unsold": 12221,
+     "shows": 83,
+     "occ": 12.61,
+     "hf": "1",
+     "almost": "2",
+     "ff": "1",
+     "cumul": 4354041,
+     "lastUpdatedAt": "2026-06-09 23:18:01"
+    },
+    {
+     "label": "2026-06-10",
+     "gross": 273057,
+     "sold": 1158,
+     "unsold": 12492,
+     "shows": 82,
+     "occ": 8.48,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 4627098,
+     "lastUpdatedAt": "2026-06-10 23:18:01"
+    },
+    {
+     "label": "2026-06-11",
+     "gross": 321265,
+     "sold": 1423,
+     "unsold": 10431,
+     "shows": 70,
+     "occ": 12,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 4948363,
+     "lastUpdatedAt": "2026-06-11 23:18:01"
+    },
+    {
+     "label": "2026-06-12",
+     "gross": 82990,
+     "sold": 291,
+     "unsold": 1130,
+     "shows": 13,
+     "occ": 20.48,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5031353,
+     "lastUpdatedAt": "2026-06-12 20:23:01"
+    },
+    {
+     "label": "2026-06-13",
+     "gross": 159435,
+     "sold": 600,
+     "unsold": 777,
+     "shows": 13,
+     "occ": 43.57,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5190788,
+     "lastUpdatedAt": "2026-06-13 20:23:01"
+    },
+    {
+     "label": "2026-06-14",
+     "gross": 232350,
+     "sold": 808,
+     "unsold": 613,
+     "shows": 13,
+     "occ": 56.86,
+     "hf": "0",
+     "almost": "3",
+     "ff": "3",
+     "cumul": 5423138,
+     "lastUpdatedAt": "2026-06-14 20:23:01"
+    },
+    {
+     "label": "2026-06-15",
+     "gross": 40720,
+     "sold": 139,
+     "unsold": 1660,
+     "shows": 15,
+     "occ": 7.73,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5463858,
+     "lastUpdatedAt": "2026-06-15 23:53:01"
+    },
+    {
+     "label": "2026-06-16",
+     "gross": 69226,
+     "sold": 398,
+     "unsold": 1401,
+     "shows": 15,
+     "occ": 22.12,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5533084,
+     "lastUpdatedAt": "2026-06-16 23:58:01"
+    },
+    {
+     "label": "2026-06-17",
+     "gross": 72410,
+     "sold": 281,
+     "unsold": 1517,
+     "shows": 15,
+     "occ": 15.63,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 5605494,
+     "lastUpdatedAt": "2026-06-17 23:53:01"
+    },
+    {
+     "label": "2026-06-18",
+     "gross": 50160,
+     "sold": 184,
+     "unsold": 1508,
+     "shows": 14,
+     "occ": 10.87,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5655654,
+     "lastUpdatedAt": "2026-06-18 23:33:01"
+    },
+    {
+     "label": "2026-06-19",
+     "gross": 21139,
+     "sold": 50,
+     "unsold": 376,
+     "shows": 5,
+     "occ": 11.74,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5676793,
+     "lastUpdatedAt": "2026-06-19 17:43:01"
+    },
+    {
+     "label": "2026-06-20",
+     "gross": 42480,
+     "sold": 113,
+     "unsold": 426,
+     "shows": 5,
+     "occ": 20.96,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5719273,
+     "lastUpdatedAt": "2026-06-20 17:43:01"
+    },
+    {
+     "label": "2026-06-21",
+     "gross": 78720,
+     "sold": 195,
+     "unsold": 344,
+     "shows": 5,
+     "occ": 36.18,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5797993,
+     "lastUpdatedAt": "2026-06-21 17:43:01"
+    },
+    {
+     "label": "2026-06-22",
+     "gross": 12000,
+     "sold": 39,
+     "unsold": 326,
+     "shows": 3,
+     "occ": 10.68,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5809993,
+     "lastUpdatedAt": "2026-06-22 17:13:01"
+    },
+    {
+     "label": "2026-06-23",
+     "gross": 3582,
+     "sold": 18,
+     "unsold": 98,
+     "shows": 1,
+     "occ": 15.52,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5813575,
+     "lastUpdatedAt": "2026-06-23 11:43:01"
+    },
+    {
+     "label": "2026-06-24",
+     "gross": 8000,
+     "sold": 22,
+     "unsold": 174,
+     "shows": 2,
+     "occ": 11.22,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5821575,
+     "lastUpdatedAt": "2026-06-24 17:13:01"
+    },
+    {
+     "label": "2026-06-25",
+     "gross": 7550,
+     "sold": 19,
+     "unsold": 177,
+     "shows": 2,
+     "occ": 9.69,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5829125,
+     "lastUpdatedAt": "2026-06-25 19:23:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 5829125,
+    "totalShows": 938,
+    "totalSeats": 153569,
+    "totalSold": 23689,
+    "avgOcc": "15.4",
+    "totalDays": 21,
+    "totalHousefull": 20,
+    "totalAlmost": 28,
+    "totalFastFilling": 7,
+    "peakDay": {
+     "day": 3,
+     "gross": 1346041,
+     "date": "2026-06-07"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 938529,
+     "date": "2026-06-05"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "21:7550:5829125"
+  },
+  "week": {
+   "movie": {
+    "id": 1133,
+    "title": "Masters of the Universe",
+    "img": "https://image.tmdb.org/t/p/original/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+    "released": "2026-06-05",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt0427340",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "141 min",
+    "genre": "Action, Fantasy, Science Fiction",
+    "plot": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+    "released": "2026-06-03",
+    "director": "Travis Knight",
+    "directorSlug": "travis-knight",
+    "actors": [
+     "Nicholas Galitzine",
+     "Camila Mendes",
+     "Idris Elba",
+     "Jared Leto",
+     "Alison Brie",
+     "Jóhannes Haukur Jóhannesson"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 125667,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.1",
+      "votes": 2158,
+      "updatedAt": "2026-09-24T10:11:17.000Z"
+     },
+     "rt": null,
+     "metascore": 52,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Nicholas Galitzine",
+     "character": "Adam / He-Man",
+     "slug": "nicholas-galitzine",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hG4rH7eBMs117746bBOd8fUa4PA.jpg"
+    },
+    {
+     "name": "Camila Mendes",
+     "character": "Teela",
+     "slug": "camila-mendes",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+    },
+    {
+     "name": "Idris Elba",
+     "character": "Duncan",
+     "slug": "idris-elba",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+     "name": "Jared Leto",
+     "character": "Skeletor",
+     "slug": "jared-leto",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
+    },
+    {
+     "name": "Alison Brie",
+     "character": "Evil-Lyn",
+     "slug": "alison-brie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/smqYVStfIHDYKTu8T1BA2LnhdF9.jpg"
+    },
+    {
+     "name": "Jóhannes Haukur Jóhannesson",
+     "character": "Fisto",
+     "slug": "johannes-haukur-johannesson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oqZftP0WS1rD5NFpR7vLp6JU52I.jpg"
+    },
+    {
+     "name": "Jon Xue Zhang",
+     "character": "Ram Man",
+     "slug": "jon-xue-zhang",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/olCEAjH9KeWte5ei24ej8MJAkZz.jpg"
+    },
+    {
+     "name": "Sam C. Wilson",
+     "character": "Trap Jaw",
+     "slug": "sam-c-wilson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/riwTkODF3CH1bJZG6K7U3dTUHhb.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Travis Knight",
+       "slug": "travis-knight"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Chris Butler",
+       "slug": "chris-butler"
+      },
+      {
+       "name": "Aaron Nee",
+       "slug": "aaron-nee"
+      },
+      {
+       "name": "Adam Nee",
+       "slug": "adam-nee"
+      },
+      {
+       "name": "David Callaham",
+       "slug": "david-callaham"
+      },
+      {
+       "name": "Alex Litvak",
+       "slug": "alex-litvak"
+      },
+      {
+       "name": "Michael Finch",
+       "slug": "michael-finch"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Daniel Pemberton",
+       "slug": "daniel-pemberton"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Fabian Wagner",
+       "slug": "fabian-wagner"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Paul Rubell",
+       "slug": "paul-rubell"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Robbie Brenner",
+       "slug": "robbie-brenner"
+      },
+      {
+       "name": "Todd Black",
+       "slug": "todd-black"
+      },
+      {
+       "name": "Jason Blumenthal",
+       "slug": "jason-blumenthal"
+      },
+      {
+       "name": "DeVon Franklin",
+       "slug": "devon-franklin"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Escape Artists",
+     "slug": "escape-artists",
+     "logo": "https://image.tmdb.org/t/p/w185/gzvsPHV9WqcQMrvI8pq5hbuvEZ5.png"
+    },
+    {
+     "name": "Mattel Studios",
+     "slug": "mattel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/omEguKifcJixMvKWq85sUp4lFdT.png"
+    },
+    {
+     "name": "Amazon MGM Studios",
+     "slug": "amazon-mgm-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-06-18": [
+     {
+      "id": 1063,
+      "title": "Colony",
+      "img": "https://image.tmdb.org/t/p/original/tzjoWjgro6HllRGei0wb11e6AEt.jpg"
+     },
+     {
+      "id": 1154,
+      "title": "Secret of Kalinga",
+      "img": "https://image.tmdb.org/t/p/original/8VsD78ZxP68dLtYYhKgqXbfSQbR.jpg"
+     }
+    ],
+    "2026-06-19": [
+     {
+      "id": 1079,
+      "title": "Balan",
+      "img": "https://image.tmdb.org/t/p/original/c6mFtfkOWplAUm3rniSBi7h1wsv.jpg"
+     },
+     {
+      "id": 1155,
+      "title": "Chinna Chinna Aasai",
+      "img": "https://image.tmdb.org/t/p/original/9uBqlrtZAoq160hEXyhmCv1NXcX.jpg"
+     },
+     {
+      "id": 1156,
+      "title": "Cocktail 2",
+      "img": "https://image.tmdb.org/t/p/original/hkDo2RN8tDsFl3J8wi4j7jy3sXU.jpg"
+     }
+    ],
+    "2026-06-05": [
+     {
+      "id": 1092,
+      "title": "Mollywood Times",
+      "img": "https://image.tmdb.org/t/p/original/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg"
+     },
+     {
+      "id": 1138,
+      "title": "Parimala and Co",
+      "img": "https://image.tmdb.org/t/p/original/vN2TOTKin83av7hwYnwAKSd3EG8.jpg"
+     }
+    ],
+    "2026-06-11": [
+     {
+      "id": 1139,
+      "title": "Backrooms",
+      "img": "https://image.tmdb.org/t/p/original/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+     }
+    ],
+    "2026-06-10": [
+     {
+      "id": 1143,
+      "title": "Disclosure Day",
+      "img": "https://image.tmdb.org/t/p/original/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
+     }
+    ],
+    "2026-06-12": [
+     {
+      "id": 1145,
+      "title": "Bharat Bhhagya Viddhaata",
+      "img": "https://image.tmdb.org/t/p/original/bNXFBZYX50ttN0SYdOc0hPyDlpP.jpg"
+     },
+     {
+      "id": 1146,
+      "title": "Governor",
+      "img": "https://image.tmdb.org/t/p/original/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg"
+     },
+     {
+      "id": 1147,
+      "title": "Main Vaapas Aaunga",
+      "img": "https://image.tmdb.org/t/p/original/qVoRgy52uGlvEESuLuSLdlojk74.jpg"
+     }
+    ],
+    "2026-06-25": [
+     {
+      "id": 1180,
+      "title": "Ananthan Kaadu",
+      "img": "https://image.tmdb.org/t/p/original/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-06-05",
+     "gross": 4948363,
+     "sold": 20532,
+     "unsold": 119353,
+     "shows": 817,
+     "occ": 14.68,
+     "hf": "19",
+     "almost": "24",
+     "ff": "4",
+     "cumul": 4948363,
+     "lastUpdatedAt": "2026-06-11 23:18:01"
+    },
+    {
+     "label": "2026-06-12",
+     "gross": 707291,
+     "sold": 2701,
+     "unsold": 8606,
+     "shows": 98,
+     "occ": 23.89,
+     "hf": "1",
+     "almost": "4",
+     "ff": "3",
+     "cumul": 5655654,
+     "lastUpdatedAt": "2026-06-18 23:33:01"
+    },
+    {
+     "label": "2026-06-19",
+     "gross": 173471,
+     "sold": 456,
+     "unsold": 1921,
+     "shows": 23,
+     "occ": 19.18,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5829125,
+     "lastUpdatedAt": "2026-06-25 19:23:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 5829125,
+    "totalShows": 938,
+    "totalSeats": 153569,
+    "totalSold": 23689,
+    "avgOcc": "15.4",
+    "totalDays": 3,
+    "totalHousefull": 20,
+    "totalAlmost": 28,
+    "totalFastFilling": 7,
+    "peakDay": {
+     "day": 1,
+     "gross": 4948363
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 4948363
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "3:173471:5829125"
+  },
+  "district": {
+   "movie": {
+    "id": 1133,
+    "title": "Masters of the Universe",
+    "img": "https://image.tmdb.org/t/p/original/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+    "released": "2026-06-05",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt0427340",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "141 min",
+    "genre": "Action, Fantasy, Science Fiction",
+    "plot": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+    "released": "2026-06-03",
+    "director": "Travis Knight",
+    "directorSlug": "travis-knight",
+    "actors": [
+     "Nicholas Galitzine",
+     "Camila Mendes",
+     "Idris Elba",
+     "Jared Leto",
+     "Alison Brie",
+     "Jóhannes Haukur Jóhannesson"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 125667,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.1",
+      "votes": 2158,
+      "updatedAt": "2026-09-24T10:11:17.000Z"
+     },
+     "rt": null,
+     "metascore": 52,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Nicholas Galitzine",
+     "character": "Adam / He-Man",
+     "slug": "nicholas-galitzine",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hG4rH7eBMs117746bBOd8fUa4PA.jpg"
+    },
+    {
+     "name": "Camila Mendes",
+     "character": "Teela",
+     "slug": "camila-mendes",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pZAWRHdJtJlDcWuQHlgIwX12s02.jpg"
+    },
+    {
+     "name": "Idris Elba",
+     "character": "Duncan",
+     "slug": "idris-elba",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+     "name": "Jared Leto",
+     "character": "Skeletor",
+     "slug": "jared-leto",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
+    },
+    {
+     "name": "Alison Brie",
+     "character": "Evil-Lyn",
+     "slug": "alison-brie",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/smqYVStfIHDYKTu8T1BA2LnhdF9.jpg"
+    },
+    {
+     "name": "Jóhannes Haukur Jóhannesson",
+     "character": "Fisto",
+     "slug": "johannes-haukur-johannesson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oqZftP0WS1rD5NFpR7vLp6JU52I.jpg"
+    },
+    {
+     "name": "Jon Xue Zhang",
+     "character": "Ram Man",
+     "slug": "jon-xue-zhang",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/olCEAjH9KeWte5ei24ej8MJAkZz.jpg"
+    },
+    {
+     "name": "Sam C. Wilson",
+     "character": "Trap Jaw",
+     "slug": "sam-c-wilson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/riwTkODF3CH1bJZG6K7U3dTUHhb.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Travis Knight",
+       "slug": "travis-knight"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Chris Butler",
+       "slug": "chris-butler"
+      },
+      {
+       "name": "Aaron Nee",
+       "slug": "aaron-nee"
+      },
+      {
+       "name": "Adam Nee",
+       "slug": "adam-nee"
+      },
+      {
+       "name": "David Callaham",
+       "slug": "david-callaham"
+      },
+      {
+       "name": "Alex Litvak",
+       "slug": "alex-litvak"
+      },
+      {
+       "name": "Michael Finch",
+       "slug": "michael-finch"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Daniel Pemberton",
+       "slug": "daniel-pemberton"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Fabian Wagner",
+       "slug": "fabian-wagner"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Paul Rubell",
+       "slug": "paul-rubell"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Robbie Brenner",
+       "slug": "robbie-brenner"
+      },
+      {
+       "name": "Todd Black",
+       "slug": "todd-black"
+      },
+      {
+       "name": "Jason Blumenthal",
+       "slug": "jason-blumenthal"
+      },
+      {
+       "name": "DeVon Franklin",
+       "slug": "devon-franklin"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Escape Artists",
+     "slug": "escape-artists",
+     "logo": "https://image.tmdb.org/t/p/w185/gzvsPHV9WqcQMrvI8pq5hbuvEZ5.png"
+    },
+    {
+     "name": "Mattel Studios",
+     "slug": "mattel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/omEguKifcJixMvKWq85sUp4lFdT.png"
+    },
+    {
+     "name": "Amazon MGM Studios",
+     "slug": "amazon-mgm-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-06-18": [
+     {
+      "id": 1063,
+      "title": "Colony",
+      "img": "https://image.tmdb.org/t/p/original/tzjoWjgro6HllRGei0wb11e6AEt.jpg"
+     },
+     {
+      "id": 1154,
+      "title": "Secret of Kalinga",
+      "img": "https://image.tmdb.org/t/p/original/8VsD78ZxP68dLtYYhKgqXbfSQbR.jpg"
+     }
+    ],
+    "2026-06-19": [
+     {
+      "id": 1079,
+      "title": "Balan",
+      "img": "https://image.tmdb.org/t/p/original/c6mFtfkOWplAUm3rniSBi7h1wsv.jpg"
+     },
+     {
+      "id": 1155,
+      "title": "Chinna Chinna Aasai",
+      "img": "https://image.tmdb.org/t/p/original/9uBqlrtZAoq160hEXyhmCv1NXcX.jpg"
+     },
+     {
+      "id": 1156,
+      "title": "Cocktail 2",
+      "img": "https://image.tmdb.org/t/p/original/hkDo2RN8tDsFl3J8wi4j7jy3sXU.jpg"
+     }
+    ],
+    "2026-06-05": [
+     {
+      "id": 1092,
+      "title": "Mollywood Times",
+      "img": "https://image.tmdb.org/t/p/original/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg"
+     },
+     {
+      "id": 1138,
+      "title": "Parimala and Co",
+      "img": "https://image.tmdb.org/t/p/original/vN2TOTKin83av7hwYnwAKSd3EG8.jpg"
+     }
+    ],
+    "2026-06-11": [
+     {
+      "id": 1139,
+      "title": "Backrooms",
+      "img": "https://image.tmdb.org/t/p/original/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
+     }
+    ],
+    "2026-06-10": [
+     {
+      "id": 1143,
+      "title": "Disclosure Day",
+      "img": "https://image.tmdb.org/t/p/original/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
+     }
+    ],
+    "2026-06-12": [
+     {
+      "id": 1145,
+      "title": "Bharat Bhhagya Viddhaata",
+      "img": "https://image.tmdb.org/t/p/original/bNXFBZYX50ttN0SYdOc0hPyDlpP.jpg"
+     },
+     {
+      "id": 1146,
+      "title": "Governor",
+      "img": "https://image.tmdb.org/t/p/original/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg"
+     },
+     {
+      "id": 1147,
+      "title": "Main Vaapas Aaunga",
+      "img": "https://image.tmdb.org/t/p/original/qVoRgy52uGlvEESuLuSLdlojk74.jpg"
+     }
+    ],
+    "2026-06-25": [
+     {
+      "id": 1180,
+      "title": "Ananthan Kaadu",
+      "img": "https://image.tmdb.org/t/p/original/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 2434226,
+     "sold": 8690,
+     "unsold": 27878,
+     "shows": 260,
+     "occ": 23.76,
+     "hf": "5",
+     "almost": "12",
+     "ff": "6",
+     "cumul": 2434226,
+     "lastUpdatedAt": "2026-06-25 12:08:01"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 1563374,
+     "sold": 4720,
+     "unsold": 22244,
+     "shows": 160,
+     "occ": 17.5,
+     "hf": "2",
+     "almost": "3",
+     "ff": "1",
+     "cumul": 3997600,
+     "lastUpdatedAt": "2026-06-25 19:23:01"
+    },
+    {
+     "label": "Kollam",
+     "gross": 580536,
+     "sold": 3923,
+     "unsold": 12255,
+     "shows": 78,
+     "occ": 24.25,
+     "hf": "9",
+     "almost": "9",
+     "ff": "0",
+     "cumul": 4578136,
+     "lastUpdatedAt": "2026-06-11 18:08:01"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 469031,
+     "sold": 2091,
+     "unsold": 16271,
+     "shows": 104,
+     "occ": 11.39,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5047167,
+     "lastUpdatedAt": "2026-06-22 10:28:01"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 302441,
+     "sold": 1412,
+     "unsold": 9748,
+     "shows": 83,
+     "occ": 12.65,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5349608,
+     "lastUpdatedAt": "2026-06-18 16:42:01"
+    },
+    {
+     "label": "Kannur",
+     "gross": 131492,
+     "sold": 576,
+     "unsold": 3576,
+     "shows": 34,
+     "occ": 13.87,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 5481100,
+     "lastUpdatedAt": "2026-06-17 17:33:01"
+    },
+    {
+     "label": "Pathanamthitta",
+     "gross": 80900,
+     "sold": 547,
+     "unsold": 4862,
+     "shows": 27,
+     "occ": 10.11,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 5562000,
+     "lastUpdatedAt": "2026-06-11 13:53:01"
+    },
+    {
+     "label": "Kottayam",
+     "gross": 59025,
+     "sold": 397,
+     "unsold": 7800,
+     "shows": 38,
+     "occ": 4.84,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5621025,
+     "lastUpdatedAt": "2026-06-11 16:13:01"
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 54281,
+     "sold": 379,
+     "unsold": 1153,
+     "shows": 8,
+     "occ": 24.74,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 5675306,
+     "lastUpdatedAt": "2026-06-08 10:28:01"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 48870,
+     "sold": 301,
+     "unsold": 8967,
+     "shows": 38,
+     "occ": 3.25,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5724176,
+     "lastUpdatedAt": "2026-06-11 15:58:01"
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 42030,
+     "sold": 257,
+     "unsold": 7262,
+     "shows": 48,
+     "occ": 3.42,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5766206,
+     "lastUpdatedAt": "2026-06-11 15:29:01"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 38072,
+     "sold": 221,
+     "unsold": 3475,
+     "shows": 26,
+     "occ": 5.98,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5804278,
+     "lastUpdatedAt": "2026-06-09 18:43:01"
+    },
+    {
+     "label": "Idukki",
+     "gross": 17787,
+     "sold": 116,
+     "unsold": 3692,
+     "shows": 28,
+     "occ": 3.05,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5822065,
+     "lastUpdatedAt": "2026-06-11 18:23:01"
+    },
+    {
+     "label": "Wayanad",
+     "gross": 7060,
+     "sold": 59,
+     "unsold": 697,
+     "shows": 6,
+     "occ": 7.8,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 5829125,
+     "lastUpdatedAt": "2026-06-07 14:13:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 5829125,
+    "totalShows": 938,
+    "totalSeats": 153569,
+    "totalSold": 23689,
+    "avgOcc": "15.4",
+    "totalDays": 14,
+    "totalHousefull": 20,
+    "totalAlmost": 28,
+    "totalFastFilling": 7,
+    "peakDay": {
+     "day": 1,
+     "gross": 2434226,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 2434226,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "14:7060:5829125"
+  }
+ }
+}

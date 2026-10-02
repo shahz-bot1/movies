@@ -1,0 +1,41 @@
+{
+ "slug": "sarjano-khalid",
+ "name": "Sarjano Khalid",
+ "source_url": "https://fridaymatinee.in/people/sarjano-khalid",
+ "captured_at": "2026-10-02T10:15:06.427494+00:00",
+ "person": {
+  "name": "Sarjano Khalid",
+  "photo": "https://image.tmdb.org/t/p/w185/uZmaG7NYJUDFxuOKggmTvBTzDzT.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 55,
+   "movie_slug": "big-brother",
+   "title": "Big Brother ",
+   "year": 2020,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 187,
+   "movie_slug": "cobra",
+   "title": "Cobra",
+   "year": 2022,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 554,
+   "movie_slug": "demonte-colony-2",
+   "title": "Demonte Colony 2",
+   "year": 2024,
+   "kerala_gross": "₹34.6L"
+  }
+ ]
+}

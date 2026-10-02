@@ -1,0 +1,48 @@
+{
+ "slug": "aliyar",
+ "name": "Aliyar",
+ "source_url": "https://fridaymatinee.in/people/aliyar",
+ "captured_at": "2026-10-01T20:25:53.852891+00:00",
+ "person": {
+  "name": "Aliyar",
+  "photo": "https://image.tmdb.org/t/p/w185/axS0z6HdjsgQSIYQYcATFNag403.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 514,
+   "movie_slug": "pavi-caretaker",
+   "title": "Pavi Caretaker",
+   "year": 2024,
+   "kerala_gross": "₹6.3 Cr"
+  },
+  {
+   "movie_id": 1096,
+   "movie_slug": "revolver-rinko",
+   "title": "Revolver Rinko",
+   "year": 2026,
+   "kerala_gross": "₹25.9L"
+  },
+  {
+   "movie_id": 1102,
+   "movie_slug": "angam-attahasam",
+   "title": "Angam Attahasam",
+   "year": 2026,
+   "kerala_gross": "₹15.5L"
+  },
+  {
+   "movie_id": 991,
+   "movie_slug": "padayaatra",
+   "title": "Padayaatra",
+   "year": 2027,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

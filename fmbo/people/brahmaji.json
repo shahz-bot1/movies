@@ -1,0 +1,76 @@
+{
+ "slug": "brahmaji",
+ "name": "Brahmaji",
+ "source_url": "https://fridaymatinee.in/people/brahmaji",
+ "captured_at": "2026-10-01T21:23:17.443336+00:00",
+ "person": {
+  "name": "Brahmaji",
+  "photo": "https://image.tmdb.org/t/p/w185/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 8
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 54,
+   "movie_slug": "angu-vaikuntapurathu",
+   "title": "Angu Vaikuntapurathu",
+   "year": 2020,
+   "kerala_gross": "₹36.2L"
+  },
+  {
+   "movie_id": 53,
+   "movie_slug": "sarileru-neekevvaru",
+   "title": "Sarileru Neekevvaru",
+   "year": 2020,
+   "kerala_gross": "₹7.9L"
+  },
+  {
+   "movie_id": 94,
+   "movie_slug": "pushpa-the-rise-part-01",
+   "title": "Pushpa The Rise Part 01",
+   "year": 2021,
+   "kerala_gross": "₹7.7 Cr"
+  },
+  {
+   "movie_id": 218,
+   "movie_slug": "godfather",
+   "title": "Godfather",
+   "year": 2022,
+   "kerala_gross": "₹8.6L"
+  },
+  {
+   "movie_id": 607,
+   "movie_slug": "pushpa-2-the-rule",
+   "title": "Pushpa 2 - The Rule",
+   "year": 2024,
+   "kerala_gross": "₹15.1 Cr"
+  },
+  {
+   "movie_id": 709,
+   "movie_slug": "kannappa",
+   "title": "Kannappa",
+   "year": 2025,
+   "kerala_gross": "₹64.0L"
+  },
+  {
+   "movie_id": 1059,
+   "movie_slug": "biker",
+   "title": "Biker",
+   "year": 2026,
+   "kerala_gross": "₹1.3L"
+  },
+  {
+   "movie_id": 1061,
+   "movie_slug": "raakaasa",
+   "title": "Raakaasa",
+   "year": 2026,
+   "kerala_gross": "₹58K"
+  }
+ ]
+}

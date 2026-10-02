@@ -1,0 +1,48 @@
+{
+ "slug": "varalaxmi-sarathkumar",
+ "name": "Varalaxmi Sarathkumar",
+ "source_url": "https://fridaymatinee.in/people/varalaxmi-sarathkumar",
+ "captured_at": "2026-10-02T11:37:27.966814+00:00",
+ "person": {
+  "name": "Varalaxmi Sarathkumar",
+  "photo": "https://image.tmdb.org/t/p/w185/vudH16iDpzft1uWIMMgcCRxBTXa.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 361,
+   "movie_slug": "agent",
+   "title": "Agent",
+   "year": 2023,
+   "kerala_gross": "₹45.2L"
+  },
+  {
+   "movie_id": 495,
+   "movie_slug": "hanu-man",
+   "title": "Hanu-Man",
+   "year": 2024,
+   "kerala_gross": "₹16.0L"
+  },
+  {
+   "movie_id": 547,
+   "movie_slug": "raayan",
+   "title": "Raayan",
+   "year": 2024,
+   "kerala_gross": "₹4.4 Cr"
+  },
+  {
+   "movie_id": 932,
+   "movie_slug": "dheeram",
+   "title": "Dheeram",
+   "year": 2025,
+   "kerala_gross": "₹85.6L"
+  }
+ ]
+}

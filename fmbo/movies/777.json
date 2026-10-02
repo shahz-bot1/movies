@@ -1,0 +1,2602 @@
+{
+ "id": 777,
+ "slug": "the-odyssey",
+ "source_url": "https://fridaymatinee.in/boxoffice/the-odyssey-777",
+ "captured_at": "2026-10-01T18:22:10.754973+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 777,
+    "title": "The Odyssey",
+    "img": "https://image.tmdb.org/t/p/original/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "released": "2026-07-17",
+    "language": "english",
+    "live": "on",
+    "pretrack": "off",
+    "imdbId": "tt33764258",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": "Adventure, Drama, Fantasy",
+    "plot": "Odysseus, the legendary Greek king of Ithaca, embarks on a long and perilous journey home following the Trojan War, chronicling his encounters with mythical beings such as the Cyclops Polyphemus, the Sirens, and the witch-goddess Circe, while attempting to reunite with his wife, Penelope.",
+    "released": "2026-07-15",
+    "director": "Christopher Nolan",
+    "directorSlug": "christopher-nolan",
+    "actors": [
+     "Matt Damon",
+     "Tom Holland",
+     "Anne Hathaway",
+     "Robert Pattinson",
+     "Himesh Patel",
+     "Charlize Theron"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "8.4",
+      "votes": 513362,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.0",
+      "votes": 3978,
+      "updatedAt": "2026-09-30T22:10:04.000Z"
+     },
+     "rt": "93%",
+     "metascore": 88,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Matt Damon",
+     "character": "Odysseus",
+     "slug": "matt-damon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+    },
+    {
+     "name": "Tom Holland",
+     "character": "Telemachus",
+     "slug": "tom-holland",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5OK84Wn1bIEIThFKcVoaN087mLj.jpg"
+    },
+    {
+     "name": "Anne Hathaway",
+     "character": "Penelope",
+     "slug": "anne-hathaway",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+    },
+    {
+     "name": "Robert Pattinson",
+     "character": "Antinous",
+     "slug": "robert-pattinson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+    },
+    {
+     "name": "Himesh Patel",
+     "character": "Eurylochus",
+     "slug": "himesh-patel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icqsXLmU0FxBGTv63kkA0GcrecO.jpg"
+    },
+    {
+     "name": "Charlize Theron",
+     "character": "Calypso",
+     "slug": "charlize-theron",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+    },
+    {
+     "name": "John Leguizamo",
+     "character": "Eumaeus",
+     "slug": "john-leguizamo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+     "name": "Travis Scott",
+     "character": "Bard",
+     "slug": "travis-scott",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Christopher Nolan",
+       "slug": "christopher-nolan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Christopher Nolan",
+       "slug": "christopher-nolan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ludwig Göransson",
+       "slug": "ludwig-goransson"
+      },
+      {
+       "name": "Callum Armstrong",
+       "slug": "callum-armstrong"
+      },
+      {
+       "name": "Rosa Fragorapti",
+       "slug": "rosa-fragorapti"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Hoyte van Hoytema",
+       "slug": "hoyte-van-hoytema"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jennifer Lame",
+       "slug": "jennifer-lame"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Christopher Nolan",
+       "slug": "christopher-nolan"
+      },
+      {
+       "name": "Emma Thomas",
+       "slug": "emma-thomas"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Universal Pictures",
+     "slug": "universal-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8lvHyhjr8oUKOOy2dKXoALWKdp0.png"
+    },
+    {
+     "name": "Syncopy",
+     "slug": "syncopy",
+     "logo": "https://image.tmdb.org/t/p/w185/3tvBqYsBhxWeHlu62SIJ1el93O7.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-03": [
+     {
+      "id": 662,
+      "title": "Im Game",
+      "img": "https://image.tmdb.org/t/p/original/pHek88ShMFFkueZ6GsrfsN0sc2L.jpg"
+     },
+     {
+      "id": 1262,
+      "title": "Romanchakam",
+      "img": "https://image.tmdb.org/t/p/original/je7UWolj1vzWbIobarorosMHKXk.jpg"
+     }
+    ],
+    "2026-08-26": [
+     {
+      "id": 669,
+      "title": "Toxic",
+      "img": "https://image.tmdb.org/t/p/original/fJBAfLiNfovSAb6KjkIndpF3Sm7.jpg"
+     }
+    ],
+    "2026-07-30": [
+     {
+      "id": 675,
+      "title": "Spider-Man: Brand New Day",
+      "img": "https://image.tmdb.org/t/p/original/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg"
+     },
+     {
+      "id": 1213,
+      "title": "Pluto",
+      "img": "https://image.tmdb.org/t/p/original/pPxsw4KnZbsklyHUCTKSCHKaC8F.jpg"
+     }
+    ],
+    "2026-07-23": [
+     {
+      "id": 956,
+      "title": "Jana Nayagan",
+      "img": "https://image.tmdb.org/t/p/original/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg"
+     }
+    ],
+    "2026-07-17": [
+     {
+      "id": 1197,
+      "title": "Anbe Diana",
+      "img": "https://image.tmdb.org/t/p/original/201CEvG6ayNj71iSLxxEk7pUv0N.jpg"
+     },
+     {
+      "id": 1198,
+      "title": "Antappante Athbudha Pravarthikal",
+      "img": "https://image.tmdb.org/t/p/original/gWH0TP2AKO98pFErOJTgrLma8l5.jpg"
+     }
+    ],
+    "2026-07-19": [
+     {
+      "id": 1200,
+      "title": "FIFA World Cup 2026 Final",
+      "img": "https://i.ibb.co/0jp8dX5b/Chat-GPT-Image-Jul-19-2026-10-21-26-PM.png"
+     }
+    ],
+    "2026-07-24": [
+     {
+      "id": 1206,
+      "title": "Maharaja Hostel",
+      "img": "https://image.tmdb.org/t/p/w1280/chOX9HKEfCJCxedKHHu4OKyrntF.jpg"
+     },
+     {
+      "id": 1207,
+      "title": "Attack on Titan: THE LAST ATTACK",
+      "img": "https://image.tmdb.org/t/p/original/wgwldDDlTDDMrluOMkpSA8lyKjv.jpg"
+     },
+     {
+      "id": 1209,
+      "title": "Tera Yaar Hoon Main",
+      "img": "https://image.tmdb.org/t/p/original/cFLVe7dfz7m3AT3egd97As3oC0Y.jpg"
+     }
+    ],
+    "2026-07-31": [
+     {
+      "id": 1214,
+      "title": "Unmadham",
+      "img": "https://image.tmdb.org/t/p/original/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg"
+     }
+    ],
+    "2026-08-07": [
+     {
+      "id": 1215,
+      "title": "Thudakkam",
+      "img": "https://image.tmdb.org/t/p/original/hMS6YwXo1iw6vVZL53YwSf9MgVo.jpg"
+     },
+     {
+      "id": 1216,
+      "title": "DC",
+      "img": "https://image.tmdb.org/t/p/original/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg"
+     },
+     {
+      "id": 1218,
+      "title": "Vivaah",
+      "img": "https://image.tmdb.org/t/p/original/x0U4ZSi740GBPCBGJvh2k2mA3W8.jpg"
+     }
+    ],
+    "2026-08-14": [
+     {
+      "id": 1225,
+      "title": "Vishwanath and Sons",
+      "img": "https://image.tmdb.org/t/p/original/sUF4PcGaV4PcsFJh9rv5CujxIKL.jpg"
+     },
+     {
+      "id": 1226,
+      "title": "Awarapan 2",
+      "img": "https://image.tmdb.org/t/p/original/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg"
+     },
+     {
+      "id": 1227,
+      "title": "The End of Oak Street",
+      "img": "https://image.tmdb.org/t/p/original/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg"
+     }
+    ],
+    "2026-08-20": [
+     {
+      "id": 1233,
+      "title": "Khalifa",
+      "img": "https://image.tmdb.org/t/p/original/cAl7uuRojdxysptYBj9Mg0czGmI.jpg"
+     }
+    ],
+    "2026-08-21": [
+     {
+      "id": 1234,
+      "title": "Bethlehem Kudumba Unit",
+      "img": "https://image.tmdb.org/t/p/original/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg"
+     },
+     {
+      "id": 1235,
+      "title": "Insidious: Out of the Further",
+      "img": "https://image.tmdb.org/t/p/original/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
+     },
+     {
+      "id": 1237,
+      "title": "PAW Patrol: The Dino Movie",
+      "img": "https://image.tmdb.org/t/p/original/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg"
+     }
+    ],
+    "2026-08-28": [
+     {
+      "id": 1253,
+      "title": "Hi!",
+      "img": "https://image.tmdb.org/t/p/original/4oXPb2fRTWBmIOxyyj2M64Nx33C.jpg"
+     },
+     {
+      "id": 1254,
+      "title": "Tony",
+      "img": "https://image.tmdb.org/t/p/original/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg"
+     },
+     {
+      "id": 1255,
+      "title": "Once More",
+      "img": "https://image.tmdb.org/t/p/original/ljk9oaU1AtLYZWULmNLtJdtAKzX.jpg"
+     }
+    ],
+    "2026-09-18": [
+     {
+      "id": 1256,
+      "title": "Lu0026O - Law and Order",
+      "img": "https://image.tmdb.org/t/p/original/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg"
+     },
+     {
+      "id": 1257,
+      "title": "Ottam Thullal",
+      "img": "https://image.tmdb.org/t/p/original/cVp1n8FZPtVILNAvXpdlrD4XXT6.jpg"
+     },
+     {
+      "id": 1259,
+      "title": "It's A Medical Miracle",
+      "img": "https://image.tmdb.org/t/p/original/ymlqg5qqwzAC74IXi2smf8OZeN7.jpg"
+     }
+    ],
+    "2026-09-11": [
+     {
+      "id": 1260,
+      "title": "Pradhama Dhrishtya Kuttakkar",
+      "img": "https://image.tmdb.org/t/p/original/zcxFgdE2aHOQq3tlKDDn6RYdVWr.jpg"
+     },
+     {
+      "id": 1269,
+      "title": "Aasha",
+      "img": "https://image.tmdb.org/t/p/original/dXxtdHQ1e8Rd7FcMWG8SkMIAXtT.jpg"
+     },
+     {
+      "id": 1278,
+      "title": "Haiwaan",
+      "img": "https://image.tmdb.org/t/p/original/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg"
+     }
+    ],
+    "2026-09-04": [
+     {
+      "id": 1261,
+      "title": "Mirzapur: The Movie",
+      "img": "https://image.tmdb.org/t/p/original/duaKd6Hx13P633GCmF9njjG0DfA.jpg"
+     },
+     {
+      "id": 1263,
+      "title": "The Magic Faraway Tree",
+      "img": "https://image.tmdb.org/t/p/original/mtS8mW6aLuartATut8TrD39zTIG.jpg"
+     },
+     {
+      "id": 1264,
+      "title": "Onslaught",
+      "img": "https://image.tmdb.org/t/p/original/7z8u7dviOrmKVyZxXyIMNX8Q3JB.jpg"
+     }
+    ],
+    "2026-09-07": [
+     {
+      "id": 1270,
+      "title": "Wild Tamil Nadu",
+      "img": "https://image.tmdb.org/t/p/original/95Re0iL8rZ8TD5kF19tHQCkiHZS.jpg"
+     }
+    ],
+    "2026-09-23": [
+     {
+      "id": 1273,
+      "title": "The Paradise",
+      "img": "https://image.tmdb.org/t/p/original/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg"
+     }
+    ],
+    "2026-09-10": [
+     {
+      "id": 1274,
+      "title": "Mandaadi",
+      "img": "https://image.tmdb.org/t/p/original/xRIsVUcCBRVGh2pt9VgzRIw2tK5.jpg"
+     },
+     {
+      "id": 1276,
+      "title": "Sardar 2",
+      "img": "https://image.tmdb.org/t/p/original/wzUPBxLV36ZbkacDsPHDNPznWzk.jpg"
+     }
+    ],
+    "2026-09-17": [
+     {
+      "id": 1289,
+      "title": "Resident Evil",
+      "img": "https://image.tmdb.org/t/p/original/zP83bIkBViw5b1s9bDemYJ3AAgX.jpg"
+     },
+     {
+      "id": 1292,
+      "title": "Enna Vilai",
+      "img": "https://image.tmdb.org/t/p/original/cfDAwfo6z4KRAe9Cqv7mOzhc2I5.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-07-17",
+     "gross": 11472809.2,
+     "sold": 42823,
+     "unsold": 119171,
+     "shows": 687,
+     "occ": 26.43,
+     "hf": "3",
+     "almost": "23",
+     "ff": "33",
+     "cumul": 11472809.2,
+     "lastUpdatedAt": "2026-07-18 00:08:01"
+    },
+    {
+     "label": "2026-07-18",
+     "gross": 13669938.200000001,
+     "sold": 56268,
+     "unsold": 114200,
+     "shows": 730,
+     "occ": 33.01,
+     "hf": "5",
+     "almost": "32",
+     "ff": "49",
+     "cumul": 25142747.4,
+     "lastUpdatedAt": "2026-07-19 00:08:01"
+    },
+    {
+     "label": "2026-07-19",
+     "gross": 13053484.2,
+     "sold": 53687,
+     "unsold": 120102,
+     "shows": 753,
+     "occ": 30.89,
+     "hf": "9",
+     "almost": "29",
+     "ff": "40",
+     "cumul": 38196231.599999994,
+     "lastUpdatedAt": "2026-07-20 00:08:01"
+    },
+    {
+     "label": "2026-07-20",
+     "gross": 7150384.399999999,
+     "sold": 27562,
+     "unsold": 146348,
+     "shows": 730,
+     "occ": 15.85,
+     "hf": "6",
+     "almost": "15",
+     "ff": "14",
+     "cumul": 45346615.99999999,
+     "lastUpdatedAt": "2026-07-20 23:58:01"
+    },
+    {
+     "label": "2026-07-21",
+     "gross": 6199773.6,
+     "sold": 22308,
+     "unsold": 138963,
+     "shows": 682,
+     "occ": 13.83,
+     "hf": "3",
+     "almost": "7",
+     "ff": "11",
+     "cumul": 51546389.599999994,
+     "lastUpdatedAt": "2026-07-21 23:58:01"
+    },
+    {
+     "label": "2026-07-22",
+     "gross": 5772699.6,
+     "sold": 19871,
+     "unsold": 139082,
+     "shows": 677,
+     "occ": 12.5,
+     "hf": "2",
+     "almost": "4",
+     "ff": "9",
+     "cumul": 57319089.199999996,
+     "lastUpdatedAt": "2026-07-22 23:58:01"
+    },
+    {
+     "label": "2026-07-23",
+     "gross": 4763904.6,
+     "sold": 14694,
+     "unsold": 67207,
+     "shows": 435,
+     "occ": 17.94,
+     "hf": "6",
+     "almost": "9",
+     "ff": "11",
+     "cumul": 62082993.8,
+     "lastUpdatedAt": "2026-07-24 00:08:01"
+    },
+    {
+     "label": "2026-07-24",
+     "gross": 5228706,
+     "sold": 15028,
+     "unsold": 65736,
+     "shows": 409,
+     "occ": 18.61,
+     "hf": "3",
+     "almost": "8",
+     "ff": "10",
+     "cumul": 67311699.8,
+     "lastUpdatedAt": "2026-07-24 23:57:01"
+    },
+    {
+     "label": "2026-07-25",
+     "gross": 6949095.600000001,
+     "sold": 21906,
+     "unsold": 58486,
+     "shows": 411,
+     "occ": 27.25,
+     "hf": "0",
+     "almost": "16",
+     "ff": "24",
+     "cumul": 74260795.39999999,
+     "lastUpdatedAt": "2026-07-25 23:57:01"
+    },
+    {
+     "label": "2026-07-26",
+     "gross": 7322858.6,
+     "sold": 23507,
+     "unsold": 59779,
+     "shows": 425,
+     "occ": 28.22,
+     "hf": "1",
+     "almost": "19",
+     "ff": "28",
+     "cumul": 81583653.99999999,
+     "lastUpdatedAt": "2026-07-26 23:57:01"
+    },
+    {
+     "label": "2026-07-27",
+     "gross": 3528004,
+     "sold": 10534,
+     "unsold": 68408,
+     "shows": 410,
+     "occ": 13.34,
+     "hf": "4",
+     "almost": "5",
+     "ff": "5",
+     "cumul": 85111657.99999999,
+     "lastUpdatedAt": "2026-07-27 23:58:01"
+    },
+    {
+     "label": "2026-07-28",
+     "gross": 3621572.6,
+     "sold": 11561,
+     "unsold": 62135,
+     "shows": 381,
+     "occ": 15.69,
+     "hf": "4",
+     "almost": "6",
+     "ff": "8",
+     "cumul": 88733230.59999998,
+     "lastUpdatedAt": "2026-07-28 23:58:01"
+    },
+    {
+     "label": "2026-07-29",
+     "gross": 3597460.3999999994,
+     "sold": 10357,
+     "unsold": 60263,
+     "shows": 369,
+     "occ": 14.67,
+     "hf": "5",
+     "almost": "8",
+     "ff": "7",
+     "cumul": 92330690.99999999,
+     "lastUpdatedAt": "2026-07-29 23:58:01"
+    },
+    {
+     "label": "2026-07-30",
+     "gross": 1797603,
+     "sold": 4025,
+     "unsold": 11579,
+     "shows": 84,
+     "occ": 25.79,
+     "hf": "2",
+     "almost": "3",
+     "ff": "1",
+     "cumul": 94128293.99999999,
+     "lastUpdatedAt": "2026-07-30 23:43:01"
+    },
+    {
+     "label": "2026-07-31",
+     "gross": 2076831,
+     "sold": 4397,
+     "unsold": 5668,
+     "shows": 59,
+     "occ": 43.69,
+     "hf": "1",
+     "almost": "2",
+     "ff": "1",
+     "cumul": 96205124.99999999,
+     "lastUpdatedAt": "2026-07-31 23:43:01"
+    },
+    {
+     "label": "2026-08-01",
+     "gross": 2747810,
+     "sold": 5474,
+     "unsold": 4283,
+     "shows": 57,
+     "occ": 56.1,
+     "hf": "0",
+     "almost": "7",
+     "ff": "16",
+     "cumul": 98952934.99999999,
+     "lastUpdatedAt": "2026-08-01 23:43:01"
+    },
+    {
+     "label": "2026-08-02",
+     "gross": 2882188,
+     "sold": 6362,
+     "unsold": 3949,
+     "shows": 62,
+     "occ": 61.7,
+     "hf": "1",
+     "almost": "10",
+     "ff": "20",
+     "cumul": 101835122.99999999,
+     "lastUpdatedAt": "2026-08-02 23:43:01"
+    },
+    {
+     "label": "2026-08-03",
+     "gross": 1547293,
+     "sold": 3519,
+     "unsold": 7457,
+     "shows": 64,
+     "occ": 32.06,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 103382415.99999999,
+     "lastUpdatedAt": "2026-08-03 23:43:01"
+    },
+    {
+     "label": "2026-08-04",
+     "gross": 1573414,
+     "sold": 4293,
+     "unsold": 6555,
+     "shows": 62,
+     "occ": 39.57,
+     "hf": "1",
+     "almost": "5",
+     "ff": "5",
+     "cumul": 104955829.99999999,
+     "lastUpdatedAt": "2026-08-04 23:43:01"
+    },
+    {
+     "label": "2026-08-05",
+     "gross": 1542524,
+     "sold": 3679,
+     "unsold": 7829,
+     "shows": 68,
+     "occ": 31.97,
+     "hf": "1",
+     "almost": "2",
+     "ff": "2",
+     "cumul": 106498353.99999999,
+     "lastUpdatedAt": "2026-08-05 23:43:01"
+    },
+    {
+     "label": "2026-08-06",
+     "gross": 1353006,
+     "sold": 3158,
+     "unsold": 8024,
+     "shows": 66,
+     "occ": 28.24,
+     "hf": "1",
+     "almost": "2",
+     "ff": "1",
+     "cumul": 107851359.99999999,
+     "lastUpdatedAt": "2026-08-06 23:28:01"
+    },
+    {
+     "label": "2026-08-07",
+     "gross": 1260069,
+     "sold": 2421,
+     "unsold": 3559,
+     "shows": 35,
+     "occ": 40.48,
+     "hf": "0",
+     "almost": "2",
+     "ff": "2",
+     "cumul": 109111428.99999999,
+     "lastUpdatedAt": "2026-08-07 23:53:01"
+    },
+    {
+     "label": "2026-08-08",
+     "gross": 1844322,
+     "sold": 3503,
+     "unsold": 2537,
+     "shows": 35,
+     "occ": 58,
+     "hf": "0",
+     "almost": "3",
+     "ff": "8",
+     "cumul": 110955750.99999999,
+     "lastUpdatedAt": "2026-08-08 23:53:01"
+    },
+    {
+     "label": "2026-08-09",
+     "gross": 1908100,
+     "sold": 3784,
+     "unsold": 2293,
+     "shows": 36,
+     "occ": 62.27,
+     "hf": "3",
+     "almost": "4",
+     "ff": "6",
+     "cumul": 112863850.99999999,
+     "lastUpdatedAt": "2026-08-09 23:53:01"
+    },
+    {
+     "label": "2026-08-10",
+     "gross": 814199,
+     "sold": 1648,
+     "unsold": 4144,
+     "shows": 34,
+     "occ": 28.45,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 113678049.99999999,
+     "lastUpdatedAt": "2026-08-10 23:53:01"
+    },
+    {
+     "label": "2026-08-11",
+     "gross": 882339,
+     "sold": 2025,
+     "unsold": 3754,
+     "shows": 33,
+     "occ": 35.04,
+     "hf": "0",
+     "almost": "1",
+     "ff": "3",
+     "cumul": 114560388.99999999,
+     "lastUpdatedAt": "2026-08-11 23:28:01"
+    },
+    {
+     "label": "2026-08-12",
+     "gross": 1042676,
+     "sold": 2036,
+     "unsold": 3699,
+     "shows": 33,
+     "occ": 35.5,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 115603064.99999999,
+     "lastUpdatedAt": "2026-08-12 23:53:01"
+    },
+    {
+     "label": "2026-08-13",
+     "gross": 690180,
+     "sold": 1357,
+     "unsold": 3469,
+     "shows": 27,
+     "occ": 28.12,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 116293244.99999999,
+     "lastUpdatedAt": "2026-08-13 23:53:01"
+    },
+    {
+     "label": "2026-08-14",
+     "gross": 496516,
+     "sold": 1003,
+     "unsold": 1621,
+     "shows": 15,
+     "occ": 38.22,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 116789760.99999999,
+     "lastUpdatedAt": "2026-08-14 23:43:01"
+    },
+    {
+     "label": "2026-08-15",
+     "gross": 931906,
+     "sold": 1720,
+     "unsold": 904,
+     "shows": 15,
+     "occ": 65.55,
+     "hf": "0",
+     "almost": "2",
+     "ff": "5",
+     "cumul": 117721666.99999999,
+     "lastUpdatedAt": "2026-08-15 23:43:01"
+    },
+    {
+     "label": "2026-08-16",
+     "gross": 845410,
+     "sold": 1523,
+     "unsold": 1104,
+     "shows": 15,
+     "occ": 57.97,
+     "hf": "0",
+     "almost": "1",
+     "ff": "3",
+     "cumul": 118567076.99999999,
+     "lastUpdatedAt": "2026-08-16 23:43:01"
+    },
+    {
+     "label": "2026-08-17",
+     "gross": 329077,
+     "sold": 730,
+     "unsold": 2227,
+     "shows": 17,
+     "occ": 24.69,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 118896153.99999999,
+     "lastUpdatedAt": "2026-08-17 23:58:01"
+    },
+    {
+     "label": "2026-08-18",
+     "gross": 433526,
+     "sold": 1130,
+     "unsold": 1833,
+     "shows": 17,
+     "occ": 38.14,
+     "hf": "0",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 119329679.99999999,
+     "lastUpdatedAt": "2026-08-18 22:43:01"
+    },
+    {
+     "label": "2026-08-19",
+     "gross": 297417,
+     "sold": 608,
+     "unsold": 1453,
+     "shows": 12,
+     "occ": 29.5,
+     "hf": "0",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 119627096.99999999,
+     "lastUpdatedAt": "2026-08-19 23:58:01"
+    },
+    {
+     "label": "2026-08-20",
+     "gross": 317104,
+     "sold": 681,
+     "unsold": 2047,
+     "shows": 13,
+     "occ": 24.96,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 119944200.99999999,
+     "lastUpdatedAt": "2026-08-20 23:58:01"
+    },
+    {
+     "label": "2026-08-21",
+     "gross": 381010,
+     "sold": 731,
+     "unsold": 2068,
+     "shows": 12,
+     "occ": 26.12,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 120325210.99999999,
+     "lastUpdatedAt": "2026-08-21 23:48:01"
+    },
+    {
+     "label": "2026-08-22",
+     "gross": 569120,
+     "sold": 1054,
+     "unsold": 1745,
+     "shows": 12,
+     "occ": 37.66,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 120894330.99999999,
+     "lastUpdatedAt": "2026-08-22 23:48:01"
+    },
+    {
+     "label": "2026-08-23",
+     "gross": 698930,
+     "sold": 1288,
+     "unsold": 1515,
+     "shows": 12,
+     "occ": 45.95,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 121593260.99999999,
+     "lastUpdatedAt": "2026-08-23 23:48:01"
+    },
+    {
+     "label": "2026-08-24",
+     "gross": 371326,
+     "sold": 741,
+     "unsold": 2058,
+     "shows": 12,
+     "occ": 26.47,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 121964586.99999999,
+     "lastUpdatedAt": "2026-08-24 23:58:01"
+    },
+    {
+     "label": "2026-08-25",
+     "gross": 470747,
+     "sold": 999,
+     "unsold": 1576,
+     "shows": 11,
+     "occ": 38.8,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 122435333.99999999,
+     "lastUpdatedAt": "2026-08-25 23:48:01"
+    },
+    {
+     "label": "2026-08-26",
+     "gross": 28770,
+     "sold": 99,
+     "unsold": 21,
+     "shows": 1,
+     "occ": 82.5,
+     "hf": "0",
+     "almost": "0",
+     "ff": "1",
+     "cumul": 122464103.99999999,
+     "lastUpdatedAt": "2026-08-26 19:28:01"
+    },
+    {
+     "label": "2026-08-27",
+     "gross": 11900,
+     "sold": 45,
+     "unsold": 75,
+     "shows": 1,
+     "occ": 37.5,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 122476003.99999999,
+     "lastUpdatedAt": "2026-08-27 19:28:01"
+    },
+    {
+     "label": "2026-08-28",
+     "gross": 200280,
+     "sold": 334,
+     "unsold": 507,
+     "shows": 4,
+     "occ": 39.71,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 122676283.99999999,
+     "lastUpdatedAt": "2026-08-28 19:33:01"
+    },
+    {
+     "label": "2026-08-29",
+     "gross": 239440,
+     "sold": 446,
+     "unsold": 395,
+     "shows": 4,
+     "occ": 53.03,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 122915723.99999999,
+     "lastUpdatedAt": "2026-08-29 19:33:01"
+    },
+    {
+     "label": "2026-08-30",
+     "gross": 291130,
+     "sold": 511,
+     "unsold": 330,
+     "shows": 4,
+     "occ": 60.76,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 123206853.99999999,
+     "lastUpdatedAt": "2026-08-30 23:13:01"
+    },
+    {
+     "label": "2026-08-31",
+     "gross": 100810,
+     "sold": 221,
+     "unsold": 620,
+     "shows": 4,
+     "occ": 26.28,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 123307663.99999999,
+     "lastUpdatedAt": "2026-08-31 19:14:01"
+    },
+    {
+     "label": "2026-09-01",
+     "gross": 141680,
+     "sold": 297,
+     "unsold": 544,
+     "shows": 4,
+     "occ": 35.32,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 123449343.99999999,
+     "lastUpdatedAt": "2026-09-01 19:14:01"
+    },
+    {
+     "label": "2026-09-02",
+     "gross": 134640,
+     "sold": 258,
+     "unsold": 357,
+     "shows": 3,
+     "occ": 41.95,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 123583983.99999999,
+     "lastUpdatedAt": "2026-09-02 19:14:01"
+    },
+    {
+     "label": "2026-09-03",
+     "gross": 137730,
+     "sold": 289,
+     "unsold": 552,
+     "shows": 4,
+     "occ": 34.36,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 123721713.99999999,
+     "lastUpdatedAt": "2026-09-03 19:33:01"
+    },
+    {
+     "label": "2026-09-04",
+     "gross": 172800,
+     "sold": 332,
+     "unsold": 1004,
+     "shows": 6,
+     "occ": 24.85,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 123894513.99999999,
+     "lastUpdatedAt": "2026-09-04 23:58:01"
+    },
+    {
+     "label": "2026-09-05",
+     "gross": 199660,
+     "sold": 378,
+     "unsold": 732,
+     "shows": 5,
+     "occ": 34.05,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 124094173.99999999,
+     "lastUpdatedAt": "2026-09-05 19:43:01"
+    },
+    {
+     "label": "2026-09-06",
+     "gross": 286070,
+     "sold": 523,
+     "unsold": 587,
+     "shows": 5,
+     "occ": 47.12,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 124380243.99999999,
+     "lastUpdatedAt": "2026-09-06 19:43:01"
+    },
+    {
+     "label": "2026-09-07",
+     "gross": 103140,
+     "sold": 260,
+     "unsold": 933,
+     "shows": 5,
+     "occ": 21.79,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 124483383.99999999,
+     "lastUpdatedAt": "2026-09-07 19:43:01"
+    },
+    {
+     "label": "2026-09-08",
+     "gross": 99380,
+     "sold": 258,
+     "unsold": 935,
+     "shows": 5,
+     "occ": 21.63,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 124582763.99999999,
+     "lastUpdatedAt": "2026-09-08 19:43:01"
+    },
+    {
+     "label": "2026-09-09",
+     "gross": 105410,
+     "sold": 270,
+     "unsold": 1149,
+     "shows": 6,
+     "occ": 19.03,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 124688173.99999999,
+     "lastUpdatedAt": "2026-09-09 23:53:01"
+    },
+    {
+     "label": "2026-09-10",
+     "gross": 84460,
+     "sold": 215,
+     "unsold": 935,
+     "shows": 5,
+     "occ": 18.7,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 124772633.99999999,
+     "lastUpdatedAt": "2026-09-10 23:58:01"
+    },
+    {
+     "label": "2026-09-11",
+     "gross": 83010,
+     "sold": 199,
+     "unsold": 725,
+     "shows": 4,
+     "occ": 21.54,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 124855643.99999999,
+     "lastUpdatedAt": "2026-09-11 23:03:01"
+    },
+    {
+     "label": "2026-09-12",
+     "gross": 170750,
+     "sold": 374,
+     "unsold": 550,
+     "shows": 4,
+     "occ": 40.48,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125026393.99999999,
+     "lastUpdatedAt": "2026-09-12 23:03:01"
+    },
+    {
+     "label": "2026-09-13",
+     "gross": 153750,
+     "sold": 313,
+     "unsold": 385,
+     "shows": 3,
+     "occ": 44.84,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125180143.99999999,
+     "lastUpdatedAt": "2026-09-13 16:23:00"
+    },
+    {
+     "label": "2026-09-14",
+     "gross": 84850,
+     "sold": 248,
+     "unsold": 677,
+     "shows": 4,
+     "occ": 26.81,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125264993.99999999,
+     "lastUpdatedAt": "2026-09-14 23:03:01"
+    },
+    {
+     "label": "2026-09-15",
+     "gross": 85120,
+     "sold": 242,
+     "unsold": 1134,
+     "shows": 6,
+     "occ": 17.59,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125350113.99999999,
+     "lastUpdatedAt": "2026-09-15 23:18:01"
+    },
+    {
+     "label": "2026-09-16",
+     "gross": 88220,
+     "sold": 248,
+     "unsold": 1128,
+     "shows": 6,
+     "occ": 18.02,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125438333.99999999,
+     "lastUpdatedAt": "2026-09-16 23:43:01"
+    },
+    {
+     "label": "2026-09-17",
+     "gross": 43550,
+     "sold": 131,
+     "unsold": 590,
+     "shows": 3,
+     "occ": 18.17,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125481883.99999999,
+     "lastUpdatedAt": "2026-09-17 15:28:01"
+    },
+    {
+     "label": "2026-09-18",
+     "gross": 12530,
+     "sold": 28,
+     "unsold": 241,
+     "shows": 1,
+     "occ": 10.41,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125494413.99999999,
+     "lastUpdatedAt": "2026-09-18 17:23:01"
+    },
+    {
+     "label": "2026-09-19",
+     "gross": 74910,
+     "sold": 181,
+     "unsold": 314,
+     "shows": 2,
+     "occ": 36.57,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125569323.99999999,
+     "lastUpdatedAt": "2026-09-19 17:23:01"
+    },
+    {
+     "label": "2026-09-20",
+     "gross": 129390,
+     "sold": 286,
+     "unsold": 211,
+     "shows": 2,
+     "occ": 57.55,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125698713.99999999,
+     "lastUpdatedAt": "2026-09-20 17:23:01"
+    },
+    {
+     "label": "2026-09-21",
+     "gross": 41850,
+     "sold": 105,
+     "unsold": 390,
+     "shows": 2,
+     "occ": 21.21,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125740563.99999999,
+     "lastUpdatedAt": "2026-09-21 17:23:01"
+    },
+    {
+     "label": "2026-09-22",
+     "gross": 49760,
+     "sold": 125,
+     "unsold": 596,
+     "shows": 3,
+     "occ": 17.34,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125790323.99999999,
+     "lastUpdatedAt": "2026-09-22 20:28:01"
+    },
+    {
+     "label": "2026-09-23",
+     "gross": 57870,
+     "sold": 141,
+     "unsold": 580,
+     "shows": 3,
+     "occ": 19.56,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125848193.99999999,
+     "lastUpdatedAt": "2026-09-23 20:28:01"
+    },
+    {
+     "label": "2026-09-24",
+     "gross": 81650,
+     "sold": 204,
+     "unsold": 517,
+     "shows": 3,
+     "occ": 28.29,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125929843.99999999,
+     "lastUpdatedAt": "2026-09-24 20:28:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 125929843.99999999,
+    "totalShows": 8129,
+    "totalSeats": 1738100,
+    "totalSold": 401556,
+    "avgOcc": "23.1",
+    "totalDays": 70,
+    "totalHousefull": 63,
+    "totalAlmost": 229,
+    "totalFastFilling": 323,
+    "peakDay": {
+     "day": 2,
+     "gross": 13669938.200000001,
+     "date": "2026-07-18"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 11472809.2,
+     "date": "2026-07-17"
+    },
+    "chartPosition": {
+     "current_position": 82,
+     "weeks_on_chart": 0,
+     "peak_position": 81,
+     "last_week_position": 82
+    }
+   },
+   "_tier": "hot",
+   "_hash": "70:81650:125929843.99999999"
+  },
+  "week": {
+   "movie": {
+    "id": 777,
+    "title": "The Odyssey",
+    "img": "https://image.tmdb.org/t/p/original/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "released": "2026-07-17",
+    "language": "english",
+    "live": "on",
+    "pretrack": "off",
+    "imdbId": "tt33764258",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": "Adventure, Drama, Fantasy",
+    "plot": "Odysseus, the legendary Greek king of Ithaca, embarks on a long and perilous journey home following the Trojan War, chronicling his encounters with mythical beings such as the Cyclops Polyphemus, the Sirens, and the witch-goddess Circe, while attempting to reunite with his wife, Penelope.",
+    "released": "2026-07-15",
+    "director": "Christopher Nolan",
+    "directorSlug": "christopher-nolan",
+    "actors": [
+     "Matt Damon",
+     "Tom Holland",
+     "Anne Hathaway",
+     "Robert Pattinson",
+     "Himesh Patel",
+     "Charlize Theron"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "8.4",
+      "votes": 513362,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.0",
+      "votes": 3978,
+      "updatedAt": "2026-09-30T22:10:04.000Z"
+     },
+     "rt": "93%",
+     "metascore": 88,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Matt Damon",
+     "character": "Odysseus",
+     "slug": "matt-damon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+    },
+    {
+     "name": "Tom Holland",
+     "character": "Telemachus",
+     "slug": "tom-holland",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5OK84Wn1bIEIThFKcVoaN087mLj.jpg"
+    },
+    {
+     "name": "Anne Hathaway",
+     "character": "Penelope",
+     "slug": "anne-hathaway",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+    },
+    {
+     "name": "Robert Pattinson",
+     "character": "Antinous",
+     "slug": "robert-pattinson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+    },
+    {
+     "name": "Himesh Patel",
+     "character": "Eurylochus",
+     "slug": "himesh-patel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icqsXLmU0FxBGTv63kkA0GcrecO.jpg"
+    },
+    {
+     "name": "Charlize Theron",
+     "character": "Calypso",
+     "slug": "charlize-theron",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+    },
+    {
+     "name": "John Leguizamo",
+     "character": "Eumaeus",
+     "slug": "john-leguizamo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+     "name": "Travis Scott",
+     "character": "Bard",
+     "slug": "travis-scott",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Christopher Nolan",
+       "slug": "christopher-nolan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Christopher Nolan",
+       "slug": "christopher-nolan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ludwig Göransson",
+       "slug": "ludwig-goransson"
+      },
+      {
+       "name": "Callum Armstrong",
+       "slug": "callum-armstrong"
+      },
+      {
+       "name": "Rosa Fragorapti",
+       "slug": "rosa-fragorapti"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Hoyte van Hoytema",
+       "slug": "hoyte-van-hoytema"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jennifer Lame",
+       "slug": "jennifer-lame"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Christopher Nolan",
+       "slug": "christopher-nolan"
+      },
+      {
+       "name": "Emma Thomas",
+       "slug": "emma-thomas"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Universal Pictures",
+     "slug": "universal-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8lvHyhjr8oUKOOy2dKXoALWKdp0.png"
+    },
+    {
+     "name": "Syncopy",
+     "slug": "syncopy",
+     "logo": "https://image.tmdb.org/t/p/w185/3tvBqYsBhxWeHlu62SIJ1el93O7.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-03": [
+     {
+      "id": 662,
+      "title": "Im Game",
+      "img": "https://image.tmdb.org/t/p/original/pHek88ShMFFkueZ6GsrfsN0sc2L.jpg"
+     },
+     {
+      "id": 1262,
+      "title": "Romanchakam",
+      "img": "https://image.tmdb.org/t/p/original/je7UWolj1vzWbIobarorosMHKXk.jpg"
+     }
+    ],
+    "2026-08-26": [
+     {
+      "id": 669,
+      "title": "Toxic",
+      "img": "https://image.tmdb.org/t/p/original/fJBAfLiNfovSAb6KjkIndpF3Sm7.jpg"
+     }
+    ],
+    "2026-07-30": [
+     {
+      "id": 675,
+      "title": "Spider-Man: Brand New Day",
+      "img": "https://image.tmdb.org/t/p/original/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg"
+     },
+     {
+      "id": 1213,
+      "title": "Pluto",
+      "img": "https://image.tmdb.org/t/p/original/pPxsw4KnZbsklyHUCTKSCHKaC8F.jpg"
+     }
+    ],
+    "2026-07-23": [
+     {
+      "id": 956,
+      "title": "Jana Nayagan",
+      "img": "https://image.tmdb.org/t/p/original/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg"
+     }
+    ],
+    "2026-07-17": [
+     {
+      "id": 1197,
+      "title": "Anbe Diana",
+      "img": "https://image.tmdb.org/t/p/original/201CEvG6ayNj71iSLxxEk7pUv0N.jpg"
+     },
+     {
+      "id": 1198,
+      "title": "Antappante Athbudha Pravarthikal",
+      "img": "https://image.tmdb.org/t/p/original/gWH0TP2AKO98pFErOJTgrLma8l5.jpg"
+     }
+    ],
+    "2026-07-19": [
+     {
+      "id": 1200,
+      "title": "FIFA World Cup 2026 Final",
+      "img": "https://i.ibb.co/0jp8dX5b/Chat-GPT-Image-Jul-19-2026-10-21-26-PM.png"
+     }
+    ],
+    "2026-07-24": [
+     {
+      "id": 1206,
+      "title": "Maharaja Hostel",
+      "img": "https://image.tmdb.org/t/p/w1280/chOX9HKEfCJCxedKHHu4OKyrntF.jpg"
+     },
+     {
+      "id": 1207,
+      "title": "Attack on Titan: THE LAST ATTACK",
+      "img": "https://image.tmdb.org/t/p/original/wgwldDDlTDDMrluOMkpSA8lyKjv.jpg"
+     },
+     {
+      "id": 1209,
+      "title": "Tera Yaar Hoon Main",
+      "img": "https://image.tmdb.org/t/p/original/cFLVe7dfz7m3AT3egd97As3oC0Y.jpg"
+     }
+    ],
+    "2026-07-31": [
+     {
+      "id": 1214,
+      "title": "Unmadham",
+      "img": "https://image.tmdb.org/t/p/original/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg"
+     }
+    ],
+    "2026-08-07": [
+     {
+      "id": 1215,
+      "title": "Thudakkam",
+      "img": "https://image.tmdb.org/t/p/original/hMS6YwXo1iw6vVZL53YwSf9MgVo.jpg"
+     },
+     {
+      "id": 1216,
+      "title": "DC",
+      "img": "https://image.tmdb.org/t/p/original/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg"
+     },
+     {
+      "id": 1218,
+      "title": "Vivaah",
+      "img": "https://image.tmdb.org/t/p/original/x0U4ZSi740GBPCBGJvh2k2mA3W8.jpg"
+     }
+    ],
+    "2026-08-14": [
+     {
+      "id": 1225,
+      "title": "Vishwanath and Sons",
+      "img": "https://image.tmdb.org/t/p/original/sUF4PcGaV4PcsFJh9rv5CujxIKL.jpg"
+     },
+     {
+      "id": 1226,
+      "title": "Awarapan 2",
+      "img": "https://image.tmdb.org/t/p/original/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg"
+     },
+     {
+      "id": 1227,
+      "title": "The End of Oak Street",
+      "img": "https://image.tmdb.org/t/p/original/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg"
+     }
+    ],
+    "2026-08-20": [
+     {
+      "id": 1233,
+      "title": "Khalifa",
+      "img": "https://image.tmdb.org/t/p/original/cAl7uuRojdxysptYBj9Mg0czGmI.jpg"
+     }
+    ],
+    "2026-08-21": [
+     {
+      "id": 1234,
+      "title": "Bethlehem Kudumba Unit",
+      "img": "https://image.tmdb.org/t/p/original/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg"
+     },
+     {
+      "id": 1235,
+      "title": "Insidious: Out of the Further",
+      "img": "https://image.tmdb.org/t/p/original/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
+     },
+     {
+      "id": 1237,
+      "title": "PAW Patrol: The Dino Movie",
+      "img": "https://image.tmdb.org/t/p/original/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg"
+     }
+    ],
+    "2026-08-28": [
+     {
+      "id": 1253,
+      "title": "Hi!",
+      "img": "https://image.tmdb.org/t/p/original/4oXPb2fRTWBmIOxyyj2M64Nx33C.jpg"
+     },
+     {
+      "id": 1254,
+      "title": "Tony",
+      "img": "https://image.tmdb.org/t/p/original/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg"
+     },
+     {
+      "id": 1255,
+      "title": "Once More",
+      "img": "https://image.tmdb.org/t/p/original/ljk9oaU1AtLYZWULmNLtJdtAKzX.jpg"
+     }
+    ],
+    "2026-09-18": [
+     {
+      "id": 1256,
+      "title": "Lu0026O - Law and Order",
+      "img": "https://image.tmdb.org/t/p/original/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg"
+     },
+     {
+      "id": 1257,
+      "title": "Ottam Thullal",
+      "img": "https://image.tmdb.org/t/p/original/cVp1n8FZPtVILNAvXpdlrD4XXT6.jpg"
+     },
+     {
+      "id": 1259,
+      "title": "It's A Medical Miracle",
+      "img": "https://image.tmdb.org/t/p/original/ymlqg5qqwzAC74IXi2smf8OZeN7.jpg"
+     }
+    ],
+    "2026-09-11": [
+     {
+      "id": 1260,
+      "title": "Pradhama Dhrishtya Kuttakkar",
+      "img": "https://image.tmdb.org/t/p/original/zcxFgdE2aHOQq3tlKDDn6RYdVWr.jpg"
+     },
+     {
+      "id": 1269,
+      "title": "Aasha",
+      "img": "https://image.tmdb.org/t/p/original/dXxtdHQ1e8Rd7FcMWG8SkMIAXtT.jpg"
+     },
+     {
+      "id": 1278,
+      "title": "Haiwaan",
+      "img": "https://image.tmdb.org/t/p/original/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg"
+     }
+    ],
+    "2026-09-04": [
+     {
+      "id": 1261,
+      "title": "Mirzapur: The Movie",
+      "img": "https://image.tmdb.org/t/p/original/duaKd6Hx13P633GCmF9njjG0DfA.jpg"
+     },
+     {
+      "id": 1263,
+      "title": "The Magic Faraway Tree",
+      "img": "https://image.tmdb.org/t/p/original/mtS8mW6aLuartATut8TrD39zTIG.jpg"
+     },
+     {
+      "id": 1264,
+      "title": "Onslaught",
+      "img": "https://image.tmdb.org/t/p/original/7z8u7dviOrmKVyZxXyIMNX8Q3JB.jpg"
+     }
+    ],
+    "2026-09-07": [
+     {
+      "id": 1270,
+      "title": "Wild Tamil Nadu",
+      "img": "https://image.tmdb.org/t/p/original/95Re0iL8rZ8TD5kF19tHQCkiHZS.jpg"
+     }
+    ],
+    "2026-09-23": [
+     {
+      "id": 1273,
+      "title": "The Paradise",
+      "img": "https://image.tmdb.org/t/p/original/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg"
+     }
+    ],
+    "2026-09-10": [
+     {
+      "id": 1274,
+      "title": "Mandaadi",
+      "img": "https://image.tmdb.org/t/p/original/xRIsVUcCBRVGh2pt9VgzRIw2tK5.jpg"
+     },
+     {
+      "id": 1276,
+      "title": "Sardar 2",
+      "img": "https://image.tmdb.org/t/p/original/wzUPBxLV36ZbkacDsPHDNPznWzk.jpg"
+     }
+    ],
+    "2026-09-17": [
+     {
+      "id": 1289,
+      "title": "Resident Evil",
+      "img": "https://image.tmdb.org/t/p/original/zP83bIkBViw5b1s9bDemYJ3AAgX.jpg"
+     },
+     {
+      "id": 1292,
+      "title": "Enna Vilai",
+      "img": "https://image.tmdb.org/t/p/original/cfDAwfo6z4KRAe9Cqv7mOzhc2I5.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-07-17",
+     "gross": 62082993.79999998,
+     "sold": 237213,
+     "unsold": 845073,
+     "shows": 4694,
+     "occ": 21.92,
+     "hf": "34",
+     "almost": "119",
+     "ff": "167",
+     "cumul": 62082993.79999998,
+     "lastUpdatedAt": "2026-07-24 00:08:01"
+    },
+    {
+     "label": "2026-07-24",
+     "gross": 32045300.199999996,
+     "sold": 96918,
+     "unsold": 386386,
+     "shows": 2489,
+     "occ": 20.05,
+     "hf": "19",
+     "almost": "65",
+     "ff": "83",
+     "cumul": 94128293.99999997,
+     "lastUpdatedAt": "2026-07-30 23:43:01"
+    },
+    {
+     "label": "2026-07-31",
+     "gross": 13723066,
+     "sold": 30882,
+     "unsold": 43765,
+     "shows": 438,
+     "occ": 41.37,
+     "hf": "5",
+     "almost": "28",
+     "ff": "45",
+     "cumul": 107851359.99999997,
+     "lastUpdatedAt": "2026-08-06 23:28:01"
+    },
+    {
+     "label": "2026-08-07",
+     "gross": 8441885,
+     "sold": 16774,
+     "unsold": 23455,
+     "shows": 233,
+     "occ": 41.7,
+     "hf": "4",
+     "almost": "11",
+     "ff": "19",
+     "cumul": 116293244.99999997,
+     "lastUpdatedAt": "2026-08-13 23:53:01"
+    },
+    {
+     "label": "2026-08-14",
+     "gross": 3650956,
+     "sold": 7395,
+     "unsold": 11189,
+     "shows": 104,
+     "occ": 39.79,
+     "hf": "1",
+     "almost": "6",
+     "ff": "8",
+     "cumul": 119944200.99999997,
+     "lastUpdatedAt": "2026-08-20 23:58:01"
+    },
+    {
+     "label": "2026-08-21",
+     "gross": 2531803,
+     "sold": 4957,
+     "unsold": 9058,
+     "shows": 61,
+     "occ": 35.37,
+     "hf": "0",
+     "almost": "0",
+     "ff": "1",
+     "cumul": 122476003.99999997,
+     "lastUpdatedAt": "2026-08-27 19:28:01"
+    },
+    {
+     "label": "2026-08-28",
+     "gross": 1245710,
+     "sold": 2356,
+     "unsold": 3305,
+     "shows": 27,
+     "occ": 41.62,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 123721713.99999997,
+     "lastUpdatedAt": "2026-09-03 19:33:01"
+    },
+    {
+     "label": "2026-09-04",
+     "gross": 1050920,
+     "sold": 2236,
+     "unsold": 6275,
+     "shows": 37,
+     "occ": 26.27,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 124772633.99999997,
+     "lastUpdatedAt": "2026-09-10 23:58:01"
+    },
+    {
+     "label": "2026-09-11",
+     "gross": 709250,
+     "sold": 1755,
+     "unsold": 5189,
+     "shows": 30,
+     "occ": 25.27,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125481883.99999997,
+     "lastUpdatedAt": "2026-09-17 15:28:01"
+    },
+    {
+     "label": "2026-09-18",
+     "gross": 447960,
+     "sold": 1070,
+     "unsold": 2849,
+     "shows": 16,
+     "occ": 27.3,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125929843.99999997,
+     "lastUpdatedAt": "2026-09-24 20:28:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 125929843.99999997,
+    "totalShows": 8129,
+    "totalSeats": 1738100,
+    "totalSold": 401556,
+    "avgOcc": "23.1",
+    "totalDays": 10,
+    "totalHousefull": 63,
+    "totalAlmost": 229,
+    "totalFastFilling": 323,
+    "peakDay": {
+     "day": 1,
+     "gross": 62082993.79999998
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 62082993.79999998
+    },
+    "chartPosition": {
+     "current_position": 82,
+     "weeks_on_chart": 0,
+     "peak_position": 81,
+     "last_week_position": 82
+    }
+   },
+   "_tier": "hot",
+   "_hash": "10:447960:125929843.99999997"
+  },
+  "district": {
+   "movie": {
+    "id": 777,
+    "title": "The Odyssey",
+    "img": "https://image.tmdb.org/t/p/original/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "released": "2026-07-17",
+    "language": "english",
+    "live": "on",
+    "pretrack": "off",
+    "imdbId": "tt33764258",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": null,
+    "genre": "Adventure, Drama, Fantasy",
+    "plot": "Odysseus, the legendary Greek king of Ithaca, embarks on a long and perilous journey home following the Trojan War, chronicling his encounters with mythical beings such as the Cyclops Polyphemus, the Sirens, and the witch-goddess Circe, while attempting to reunite with his wife, Penelope.",
+    "released": "2026-07-15",
+    "director": "Christopher Nolan",
+    "directorSlug": "christopher-nolan",
+    "actors": [
+     "Matt Damon",
+     "Tom Holland",
+     "Anne Hathaway",
+     "Robert Pattinson",
+     "Himesh Patel",
+     "Charlize Theron"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "8.4",
+      "votes": 513362,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.0",
+      "votes": 3978,
+      "updatedAt": "2026-09-30T22:10:04.000Z"
+     },
+     "rt": "93%",
+     "metascore": 88,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Matt Damon",
+     "character": "Odysseus",
+     "slug": "matt-damon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+    },
+    {
+     "name": "Tom Holland",
+     "character": "Telemachus",
+     "slug": "tom-holland",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5OK84Wn1bIEIThFKcVoaN087mLj.jpg"
+    },
+    {
+     "name": "Anne Hathaway",
+     "character": "Penelope",
+     "slug": "anne-hathaway",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+    },
+    {
+     "name": "Robert Pattinson",
+     "character": "Antinous",
+     "slug": "robert-pattinson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+    },
+    {
+     "name": "Himesh Patel",
+     "character": "Eurylochus",
+     "slug": "himesh-patel",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icqsXLmU0FxBGTv63kkA0GcrecO.jpg"
+    },
+    {
+     "name": "Charlize Theron",
+     "character": "Calypso",
+     "slug": "charlize-theron",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+    },
+    {
+     "name": "John Leguizamo",
+     "character": "Eumaeus",
+     "slug": "john-leguizamo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+     "name": "Travis Scott",
+     "character": "Bard",
+     "slug": "travis-scott",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Christopher Nolan",
+       "slug": "christopher-nolan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Christopher Nolan",
+       "slug": "christopher-nolan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ludwig Göransson",
+       "slug": "ludwig-goransson"
+      },
+      {
+       "name": "Callum Armstrong",
+       "slug": "callum-armstrong"
+      },
+      {
+       "name": "Rosa Fragorapti",
+       "slug": "rosa-fragorapti"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Hoyte van Hoytema",
+       "slug": "hoyte-van-hoytema"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jennifer Lame",
+       "slug": "jennifer-lame"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Christopher Nolan",
+       "slug": "christopher-nolan"
+      },
+      {
+       "name": "Emma Thomas",
+       "slug": "emma-thomas"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Universal Pictures",
+     "slug": "universal-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8lvHyhjr8oUKOOy2dKXoALWKdp0.png"
+    },
+    {
+     "name": "Syncopy",
+     "slug": "syncopy",
+     "logo": "https://image.tmdb.org/t/p/w185/3tvBqYsBhxWeHlu62SIJ1el93O7.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-03": [
+     {
+      "id": 662,
+      "title": "Im Game",
+      "img": "https://image.tmdb.org/t/p/original/pHek88ShMFFkueZ6GsrfsN0sc2L.jpg"
+     },
+     {
+      "id": 1262,
+      "title": "Romanchakam",
+      "img": "https://image.tmdb.org/t/p/original/je7UWolj1vzWbIobarorosMHKXk.jpg"
+     }
+    ],
+    "2026-08-26": [
+     {
+      "id": 669,
+      "title": "Toxic",
+      "img": "https://image.tmdb.org/t/p/original/fJBAfLiNfovSAb6KjkIndpF3Sm7.jpg"
+     }
+    ],
+    "2026-07-30": [
+     {
+      "id": 675,
+      "title": "Spider-Man: Brand New Day",
+      "img": "https://image.tmdb.org/t/p/original/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg"
+     },
+     {
+      "id": 1213,
+      "title": "Pluto",
+      "img": "https://image.tmdb.org/t/p/original/pPxsw4KnZbsklyHUCTKSCHKaC8F.jpg"
+     }
+    ],
+    "2026-07-23": [
+     {
+      "id": 956,
+      "title": "Jana Nayagan",
+      "img": "https://image.tmdb.org/t/p/original/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg"
+     }
+    ],
+    "2026-07-17": [
+     {
+      "id": 1197,
+      "title": "Anbe Diana",
+      "img": "https://image.tmdb.org/t/p/original/201CEvG6ayNj71iSLxxEk7pUv0N.jpg"
+     },
+     {
+      "id": 1198,
+      "title": "Antappante Athbudha Pravarthikal",
+      "img": "https://image.tmdb.org/t/p/original/gWH0TP2AKO98pFErOJTgrLma8l5.jpg"
+     }
+    ],
+    "2026-07-19": [
+     {
+      "id": 1200,
+      "title": "FIFA World Cup 2026 Final",
+      "img": "https://i.ibb.co/0jp8dX5b/Chat-GPT-Image-Jul-19-2026-10-21-26-PM.png"
+     }
+    ],
+    "2026-07-24": [
+     {
+      "id": 1206,
+      "title": "Maharaja Hostel",
+      "img": "https://image.tmdb.org/t/p/w1280/chOX9HKEfCJCxedKHHu4OKyrntF.jpg"
+     },
+     {
+      "id": 1207,
+      "title": "Attack on Titan: THE LAST ATTACK",
+      "img": "https://image.tmdb.org/t/p/original/wgwldDDlTDDMrluOMkpSA8lyKjv.jpg"
+     },
+     {
+      "id": 1209,
+      "title": "Tera Yaar Hoon Main",
+      "img": "https://image.tmdb.org/t/p/original/cFLVe7dfz7m3AT3egd97As3oC0Y.jpg"
+     }
+    ],
+    "2026-07-31": [
+     {
+      "id": 1214,
+      "title": "Unmadham",
+      "img": "https://image.tmdb.org/t/p/original/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg"
+     }
+    ],
+    "2026-08-07": [
+     {
+      "id": 1215,
+      "title": "Thudakkam",
+      "img": "https://image.tmdb.org/t/p/original/hMS6YwXo1iw6vVZL53YwSf9MgVo.jpg"
+     },
+     {
+      "id": 1216,
+      "title": "DC",
+      "img": "https://image.tmdb.org/t/p/original/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg"
+     },
+     {
+      "id": 1218,
+      "title": "Vivaah",
+      "img": "https://image.tmdb.org/t/p/original/x0U4ZSi740GBPCBGJvh2k2mA3W8.jpg"
+     }
+    ],
+    "2026-08-14": [
+     {
+      "id": 1225,
+      "title": "Vishwanath and Sons",
+      "img": "https://image.tmdb.org/t/p/original/sUF4PcGaV4PcsFJh9rv5CujxIKL.jpg"
+     },
+     {
+      "id": 1226,
+      "title": "Awarapan 2",
+      "img": "https://image.tmdb.org/t/p/original/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg"
+     },
+     {
+      "id": 1227,
+      "title": "The End of Oak Street",
+      "img": "https://image.tmdb.org/t/p/original/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg"
+     }
+    ],
+    "2026-08-20": [
+     {
+      "id": 1233,
+      "title": "Khalifa",
+      "img": "https://image.tmdb.org/t/p/original/cAl7uuRojdxysptYBj9Mg0czGmI.jpg"
+     }
+    ],
+    "2026-08-21": [
+     {
+      "id": 1234,
+      "title": "Bethlehem Kudumba Unit",
+      "img": "https://image.tmdb.org/t/p/original/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg"
+     },
+     {
+      "id": 1235,
+      "title": "Insidious: Out of the Further",
+      "img": "https://image.tmdb.org/t/p/original/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg"
+     },
+     {
+      "id": 1237,
+      "title": "PAW Patrol: The Dino Movie",
+      "img": "https://image.tmdb.org/t/p/original/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg"
+     }
+    ],
+    "2026-08-28": [
+     {
+      "id": 1253,
+      "title": "Hi!",
+      "img": "https://image.tmdb.org/t/p/original/4oXPb2fRTWBmIOxyyj2M64Nx33C.jpg"
+     },
+     {
+      "id": 1254,
+      "title": "Tony",
+      "img": "https://image.tmdb.org/t/p/original/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg"
+     },
+     {
+      "id": 1255,
+      "title": "Once More",
+      "img": "https://image.tmdb.org/t/p/original/ljk9oaU1AtLYZWULmNLtJdtAKzX.jpg"
+     }
+    ],
+    "2026-09-18": [
+     {
+      "id": 1256,
+      "title": "Lu0026O - Law and Order",
+      "img": "https://image.tmdb.org/t/p/original/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg"
+     },
+     {
+      "id": 1257,
+      "title": "Ottam Thullal",
+      "img": "https://image.tmdb.org/t/p/original/cVp1n8FZPtVILNAvXpdlrD4XXT6.jpg"
+     },
+     {
+      "id": 1259,
+      "title": "It's A Medical Miracle",
+      "img": "https://image.tmdb.org/t/p/original/ymlqg5qqwzAC74IXi2smf8OZeN7.jpg"
+     }
+    ],
+    "2026-09-11": [
+     {
+      "id": 1260,
+      "title": "Pradhama Dhrishtya Kuttakkar",
+      "img": "https://image.tmdb.org/t/p/original/zcxFgdE2aHOQq3tlKDDn6RYdVWr.jpg"
+     },
+     {
+      "id": 1269,
+      "title": "Aasha",
+      "img": "https://image.tmdb.org/t/p/original/dXxtdHQ1e8Rd7FcMWG8SkMIAXtT.jpg"
+     },
+     {
+      "id": 1278,
+      "title": "Haiwaan",
+      "img": "https://image.tmdb.org/t/p/original/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg"
+     }
+    ],
+    "2026-09-04": [
+     {
+      "id": 1261,
+      "title": "Mirzapur: The Movie",
+      "img": "https://image.tmdb.org/t/p/original/duaKd6Hx13P633GCmF9njjG0DfA.jpg"
+     },
+     {
+      "id": 1263,
+      "title": "The Magic Faraway Tree",
+      "img": "https://image.tmdb.org/t/p/original/mtS8mW6aLuartATut8TrD39zTIG.jpg"
+     },
+     {
+      "id": 1264,
+      "title": "Onslaught",
+      "img": "https://image.tmdb.org/t/p/original/7z8u7dviOrmKVyZxXyIMNX8Q3JB.jpg"
+     }
+    ],
+    "2026-09-07": [
+     {
+      "id": 1270,
+      "title": "Wild Tamil Nadu",
+      "img": "https://image.tmdb.org/t/p/original/95Re0iL8rZ8TD5kF19tHQCkiHZS.jpg"
+     }
+    ],
+    "2026-09-23": [
+     {
+      "id": 1273,
+      "title": "The Paradise",
+      "img": "https://image.tmdb.org/t/p/original/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg"
+     }
+    ],
+    "2026-09-10": [
+     {
+      "id": 1274,
+      "title": "Mandaadi",
+      "img": "https://image.tmdb.org/t/p/original/xRIsVUcCBRVGh2pt9VgzRIw2tK5.jpg"
+     },
+     {
+      "id": 1276,
+      "title": "Sardar 2",
+      "img": "https://image.tmdb.org/t/p/original/wzUPBxLV36ZbkacDsPHDNPznWzk.jpg"
+     }
+    ],
+    "2026-09-17": [
+     {
+      "id": 1289,
+      "title": "Resident Evil",
+      "img": "https://image.tmdb.org/t/p/original/zP83bIkBViw5b1s9bDemYJ3AAgX.jpg"
+     },
+     {
+      "id": 1292,
+      "title": "Enna Vilai",
+      "img": "https://image.tmdb.org/t/p/original/cfDAwfo6z4KRAe9Cqv7mOzhc2I5.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 52393615,
+     "sold": 123700,
+     "unsold": 247364,
+     "shows": 1941,
+     "occ": 33.34,
+     "hf": "12",
+     "almost": "100",
+     "ff": "157",
+     "cumul": 52393615,
+     "lastUpdatedAt": "2026-09-24 20:28:01"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 34231158,
+     "sold": 77338,
+     "unsold": 190057,
+     "shows": 1132,
+     "occ": 28.92,
+     "hf": "15",
+     "almost": "36",
+     "ff": "54",
+     "cumul": 86624773,
+     "lastUpdatedAt": "2026-09-24 17:23:01"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 12086822.600000001,
+     "sold": 53394,
+     "unsold": 142256,
+     "shows": 1003,
+     "occ": 27.29,
+     "hf": "23",
+     "almost": "46",
+     "ff": "50",
+     "cumul": 98711595.6,
+     "lastUpdatedAt": "2026-09-16 15:58:01"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 9505611,
+     "sold": 40139,
+     "unsold": 161197,
+     "shows": 920,
+     "occ": 19.94,
+     "hf": "8",
+     "almost": "30",
+     "ff": "37",
+     "cumul": 108217206.6,
+     "lastUpdatedAt": "2026-08-20 22:33:01"
+    },
+    {
+     "label": "Kannur",
+     "gross": 3549995.7999999993,
+     "sold": 19846,
+     "unsold": 108387,
+     "shows": 666,
+     "occ": 15.48,
+     "hf": "5",
+     "almost": "6",
+     "ff": "4",
+     "cumul": 111767202.39999999,
+     "lastUpdatedAt": "2026-08-15 16:38:01"
+    },
+    {
+     "label": "Kollam",
+     "gross": 2967755,
+     "sold": 16966,
+     "unsold": 99498,
+     "shows": 495,
+     "occ": 14.57,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 114734957.39999999,
+     "lastUpdatedAt": "2026-08-06 11:13:01"
+    },
+    {
+     "label": "Kottayam",
+     "gross": 2467350,
+     "sold": 15251,
+     "unsold": 91337,
+     "shows": 375,
+     "occ": 14.31,
+     "hf": "0",
+     "almost": "0",
+     "ff": "1",
+     "cumul": 117202307.39999999,
+     "lastUpdatedAt": "2026-08-06 13:08:01"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 2431987.5999999996,
+     "sold": 15105,
+     "unsold": 89606,
+     "shows": 495,
+     "occ": 14.43,
+     "hf": "0",
+     "almost": "6",
+     "ff": "12",
+     "cumul": 119634294.99999999,
+     "lastUpdatedAt": "2026-08-13 12:28:01"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 2419891,
+     "sold": 15837,
+     "unsold": 75558,
+     "shows": 416,
+     "occ": 17.33,
+     "hf": "0",
+     "almost": "5",
+     "ff": "7",
+     "cumul": 122054185.99999999,
+     "lastUpdatedAt": "2026-08-09 11:58:01"
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 1647790,
+     "sold": 9619,
+     "unsold": 64306,
+     "shows": 302,
+     "occ": 13.01,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 123701975.99999999,
+     "lastUpdatedAt": "2026-08-06 21:59:01"
+    },
+    {
+     "label": "Idukki",
+     "gross": 800407,
+     "sold": 4933,
+     "unsold": 25458,
+     "shows": 123,
+     "occ": 16.23,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 124502382.99999999,
+     "lastUpdatedAt": "2026-07-30 18:28:01"
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 518458,
+     "sold": 3146,
+     "unsold": 11445,
+     "shows": 78,
+     "occ": 21.56,
+     "hf": "0",
+     "almost": "0",
+     "ff": "1",
+     "cumul": 125020840.99999999,
+     "lastUpdatedAt": "2026-07-29 20:23:01"
+    },
+    {
+     "label": "Pathanamthitta",
+     "gross": 458900,
+     "sold": 2695,
+     "unsold": 18605,
+     "shows": 94,
+     "occ": 12.65,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125479740.99999999,
+     "lastUpdatedAt": "2026-07-30 15:58:01"
+    },
+    {
+     "label": "Wayanad",
+     "gross": 450103,
+     "sold": 3587,
+     "unsold": 11470,
+     "shows": 89,
+     "occ": 23.82,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 125929843.99999999,
+     "lastUpdatedAt": "2026-07-29 19:43:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 125929843.99999999,
+    "totalShows": 8129,
+    "totalSeats": 1738100,
+    "totalSold": 401556,
+    "avgOcc": "23.1",
+    "totalDays": 14,
+    "totalHousefull": 63,
+    "totalAlmost": 229,
+    "totalFastFilling": 323,
+    "peakDay": {
+     "day": 1,
+     "gross": 52393615,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 52393615,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 82,
+     "weeks_on_chart": 0,
+     "peak_position": 81,
+     "last_week_position": 82
+    }
+   },
+   "_tier": "hot",
+   "_hash": "14:450103:125929843.99999999"
+  }
+ }
+}

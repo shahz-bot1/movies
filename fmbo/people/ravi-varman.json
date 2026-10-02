@@ -1,0 +1,55 @@
+{
+ "slug": "ravi-varman",
+ "name": "Ravi Varman",
+ "source_url": "https://fridaymatinee.in/people/ravi-varman",
+ "captured_at": "2026-10-02T08:45:14.943562+00:00",
+ "person": {
+  "name": "Ravi Varman",
+  "photo": "https://image.tmdb.org/t/p/w185/mIhH5PYAfWLkEzanZh7UdnDPHXc.jpg",
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 208,
+   "movie_slug": "ponniyin-selvan",
+   "title": "Ponniyin Selvan",
+   "year": 2022,
+   "kerala_gross": "₹17.0 Cr"
+  },
+  {
+   "movie_id": 359,
+   "movie_slug": "ponniyin-selvan-part-2",
+   "title": "Ponniyin Selvan - Part 2",
+   "year": 2023,
+   "kerala_gross": "₹13.2 Cr"
+  },
+  {
+   "movie_id": 454,
+   "movie_slug": "japan",
+   "title": "Japan",
+   "year": 2023,
+   "kerala_gross": "₹17.8L"
+  },
+  {
+   "movie_id": 535,
+   "movie_slug": "indian-2",
+   "title": "Indian 2",
+   "year": 2024,
+   "kerala_gross": "₹4.5 Cr"
+  },
+  {
+   "movie_id": 1065,
+   "movie_slug": "love-insurance-kompany",
+   "title": "Love Insurance Kompany",
+   "year": 2026,
+   "kerala_gross": "₹54.0L"
+  }
+ ]
+}

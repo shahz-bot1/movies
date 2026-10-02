@@ -1,0 +1,55 @@
+{
+ "slug": "sharis-mohammed",
+ "name": "Sharis Mohammed",
+ "source_url": "https://fridaymatinee.in/people/sharis-mohammed",
+ "captured_at": "2026-10-02T10:28:19.712398+00:00",
+ "person": {
+  "name": "Sharis Mohammed",
+  "photo": null,
+  "role": "Writer"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 16,
+   "movie_slug": "aadya-rathri",
+   "title": "Aadya Rathri",
+   "year": 2019,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 90,
+   "movie_slug": "ellam-sheriyakum",
+   "title": "Ellam Sheriyakum",
+   "year": 2021,
+   "kerala_gross": "₹98.6L"
+  },
+  {
+   "movie_id": 134,
+   "movie_slug": "jana-gana-mana",
+   "title": "Jana Gana Mana",
+   "year": 2022,
+   "kerala_gross": "₹19.6 Cr"
+  },
+  {
+   "movie_id": 516,
+   "movie_slug": "malayalee-from-india",
+   "title": "Malayalee From India",
+   "year": 2024,
+   "kerala_gross": "₹8.4 Cr"
+  },
+  {
+   "movie_id": 681,
+   "movie_slug": "prince-and-family",
+   "title": "Prince And Family",
+   "year": 2025,
+   "kerala_gross": "₹14.8 Cr"
+  }
+ ]
+}

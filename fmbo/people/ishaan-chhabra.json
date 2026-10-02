@@ -1,0 +1,41 @@
+{
+ "slug": "ishaan-chhabra",
+ "name": "Ishaan Chhabra",
+ "source_url": "https://fridaymatinee.in/people/ishaan-chhabra",
+ "captured_at": "2026-10-01T22:53:46.899785+00:00",
+ "person": {
+  "name": "Ishaan Chhabra",
+  "photo": null,
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 163,
+   "movie_slug": "mahaveeryar",
+   "title": "Mahaveeryar",
+   "year": 2022,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 729,
+   "movie_slug": "the-diplomat",
+   "title": "The Diplomat",
+   "year": 2025,
+   "kerala_gross": "₹12.7L"
+  },
+  {
+   "movie_id": 1005,
+   "movie_slug": "spa",
+   "title": "Spa",
+   "year": 2026,
+   "kerala_gross": "₹38.6L"
+  }
+ ]
+}

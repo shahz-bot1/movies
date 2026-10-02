@@ -1,0 +1,55 @@
+{
+ "slug": "g-marimuthu",
+ "name": "G. Marimuthu",
+ "source_url": "https://fridaymatinee.in/people/g-marimuthu",
+ "captured_at": "2026-10-01T22:23:59.227031+00:00",
+ "person": {
+  "name": "G. Marimuthu",
+  "photo": "https://image.tmdb.org/t/p/w185/gDBqLLiwYqYtKdhHowX7ppCmko8.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 31,
+   "movie_slug": "sangathamizhan",
+   "title": "Sangathamizhan",
+   "year": 2019,
+   "kerala_gross": "₹4.6L"
+  },
+  {
+   "movie_id": 87,
+   "movie_slug": "enemy",
+   "title": "Enemy",
+   "year": 2021,
+   "kerala_gross": "₹39.0L"
+  },
+  {
+   "movie_id": 144,
+   "movie_slug": "vikram",
+   "title": "Vikram",
+   "year": 2022,
+   "kerala_gross": "₹29.1 Cr"
+  },
+  {
+   "movie_id": 414,
+   "movie_slug": "jailer",
+   "title": "Jailer",
+   "year": 2023,
+   "kerala_gross": "₹42.4 Cr"
+  },
+  {
+   "movie_id": 868,
+   "movie_slug": "diesel",
+   "title": "Diesel",
+   "year": 2025,
+   "kerala_gross": "₹9.5L"
+  }
+ ]
+}

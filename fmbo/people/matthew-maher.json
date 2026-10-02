@@ -1,0 +1,41 @@
+{
+ "slug": "matthew-maher",
+ "name": "Matthew Maher",
+ "source_url": "https://fridaymatinee.in/people/matthew-maher",
+ "captured_at": "2026-10-02T00:29:31.127094+00:00",
+ "person": {
+  "name": "Matthew Maher",
+  "photo": "https://image.tmdb.org/t/p/w185/3RPEUaliXJ9lcoL5R5IbcAOwd5D.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 801,
+   "movie_slug": "relay",
+   "title": "Relay",
+   "year": 2025,
+   "kerala_gross": "₹52K"
+  },
+  {
+   "movie_id": 631,
+   "movie_slug": "the-bride",
+   "title": "The Bride",
+   "year": 2026,
+   "kerala_gross": "₹7.9L"
+  },
+  {
+   "movie_id": 1224,
+   "movie_slug": "primetime",
+   "title": "Primetime",
+   "year": 2026,
+   "kerala_gross": "₹2.6L"
+  }
+ ]
+}

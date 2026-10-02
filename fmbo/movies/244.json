@@ -1,0 +1,581 @@
+{
+ "id": 244,
+ "slug": "shefeekkinte-santhosham",
+ "source_url": "https://fridaymatinee.in/boxoffice/shefeekkinte-santhosham-244",
+ "captured_at": "2026-10-01T18:07:46.131838+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 244,
+    "title": "Shefeekkinte Santhosham",
+    "img": "https://image.tmdb.org/t/p/original/iBLOC8FpCehImg7ih3yUdqDZRCA.jpg",
+    "released": "2022-11-25",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15263194",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "128 min",
+    "genre": "Drama, Comedy, Family",
+    "plot": "Shefeek, an expatriate, is a good samaritan who is loved by everybody around him. During his short visit to his hometown for his wedding, he gets into an issue which brings out the true colours of his kith and kin.",
+    "released": "2022-11-25",
+    "director": "Anup Pandalam",
+    "directorSlug": "anup-pandalam",
+    "actors": [
+     "Unni Mukundan",
+     "Divya Pillai",
+     "Athmeeya Rajan",
+     "Vyshnavi Raj",
+     "Unni Nair",
+     "Manoj K Jayan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.9",
+      "votes": 751,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:51.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Unni Mukundan",
+     "character": "Shefeek",
+     "slug": "unni-mukundan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7Pn9GASysyTG6ZnPhsuRq4ESArC.jpg"
+    },
+    {
+     "name": "Divya Pillai",
+     "character": "Sainaba",
+     "slug": "divya-pillai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n0BfTrgMiF0pAHvwl4Q3xvjHWlL.jpg"
+    },
+    {
+     "name": "Athmeeya Rajan",
+     "character": "Merlin",
+     "slug": "athmeeya-rajan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xoRwDLXMoKxAFX5XTApSS5cdElu.jpg"
+    },
+    {
+     "name": "Vyshnavi Raj",
+     "character": null,
+     "slug": "vyshnavi-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bLPmTDTtvLdX2eCwc4G73CQBcvV.jpg"
+    },
+    {
+     "name": "Unni Nair",
+     "character": null,
+     "slug": "unni-nair",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Manoj K Jayan",
+     "character": "Subair",
+     "slug": "manoj-k-jayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jTKRE7c208lvZLNwrLtMleiV8DS.jpg"
+    },
+    {
+     "name": "Bala",
+     "character": "Ameer",
+     "slug": "bala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l76ZJjEaTOix5twXeYy5k2xY9e7.jpg"
+    },
+    {
+     "name": "Shaheen Siddique",
+     "character": null,
+     "slug": "shaheen-siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sZ3Jj90QULclR4QEu6EnRtXzFrc.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anup Pandalam",
+       "slug": "anup-pandalam"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Anup Pandalam",
+       "slug": "anup-pandalam"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Shaan Rahman",
+       "slug": "shaan-rahman"
+      },
+      {
+       "name": "Ranjin Raj",
+       "slug": "ranjin-raj"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Eldho Issac",
+       "slug": "eldho-issac"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Noufal Abdulla",
+       "slug": "noufal-abdulla"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Unni Mukundan",
+       "slug": "unni-mukundan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Unni Mukundan Films",
+     "slug": "unni-mukundan-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-01-06",
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5007744.2,
+    "totalShows": 1577,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 1002178.2000000001,
+     "date": "2022-11-25"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 1318961.2,
+     "date": "2022-11-27"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-11-25"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 244,
+    "title": "Shefeekkinte Santhosham",
+    "img": "https://image.tmdb.org/t/p/original/iBLOC8FpCehImg7ih3yUdqDZRCA.jpg",
+    "released": "2022-11-25",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15263194",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "128 min",
+    "genre": "Drama, Comedy, Family",
+    "plot": "Shefeek, an expatriate, is a good samaritan who is loved by everybody around him. During his short visit to his hometown for his wedding, he gets into an issue which brings out the true colours of his kith and kin.",
+    "released": "2022-11-25",
+    "director": "Anup Pandalam",
+    "directorSlug": "anup-pandalam",
+    "actors": [
+     "Unni Mukundan",
+     "Divya Pillai",
+     "Athmeeya Rajan",
+     "Vyshnavi Raj",
+     "Unni Nair",
+     "Manoj K Jayan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.9",
+      "votes": 751,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:51.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Unni Mukundan",
+     "character": "Shefeek",
+     "slug": "unni-mukundan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7Pn9GASysyTG6ZnPhsuRq4ESArC.jpg"
+    },
+    {
+     "name": "Divya Pillai",
+     "character": "Sainaba",
+     "slug": "divya-pillai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n0BfTrgMiF0pAHvwl4Q3xvjHWlL.jpg"
+    },
+    {
+     "name": "Athmeeya Rajan",
+     "character": "Merlin",
+     "slug": "athmeeya-rajan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xoRwDLXMoKxAFX5XTApSS5cdElu.jpg"
+    },
+    {
+     "name": "Vyshnavi Raj",
+     "character": null,
+     "slug": "vyshnavi-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bLPmTDTtvLdX2eCwc4G73CQBcvV.jpg"
+    },
+    {
+     "name": "Unni Nair",
+     "character": null,
+     "slug": "unni-nair",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Manoj K Jayan",
+     "character": "Subair",
+     "slug": "manoj-k-jayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jTKRE7c208lvZLNwrLtMleiV8DS.jpg"
+    },
+    {
+     "name": "Bala",
+     "character": "Ameer",
+     "slug": "bala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l76ZJjEaTOix5twXeYy5k2xY9e7.jpg"
+    },
+    {
+     "name": "Shaheen Siddique",
+     "character": null,
+     "slug": "shaheen-siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sZ3Jj90QULclR4QEu6EnRtXzFrc.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anup Pandalam",
+       "slug": "anup-pandalam"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Anup Pandalam",
+       "slug": "anup-pandalam"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Shaan Rahman",
+       "slug": "shaan-rahman"
+      },
+      {
+       "name": "Ranjin Raj",
+       "slug": "ranjin-raj"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Eldho Issac",
+       "slug": "eldho-issac"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Noufal Abdulla",
+       "slug": "noufal-abdulla"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Unni Mukundan",
+       "slug": "unni-mukundan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Unni Mukundan Films",
+     "slug": "unni-mukundan-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-01-06",
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2022-11-25",
+     "gross": 5007744.199999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1577,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5007744.199999999,
+    "totalShows": 1577,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 5007744.199999999
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5007744.199999999
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-11-25"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 244,
+    "title": "Shefeekkinte Santhosham",
+    "img": "https://image.tmdb.org/t/p/original/iBLOC8FpCehImg7ih3yUdqDZRCA.jpg",
+    "released": "2022-11-25",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15263194",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "128 min",
+    "genre": "Drama, Comedy, Family",
+    "plot": "Shefeek, an expatriate, is a good samaritan who is loved by everybody around him. During his short visit to his hometown for his wedding, he gets into an issue which brings out the true colours of his kith and kin.",
+    "released": "2022-11-25",
+    "director": "Anup Pandalam",
+    "directorSlug": "anup-pandalam",
+    "actors": [
+     "Unni Mukundan",
+     "Divya Pillai",
+     "Athmeeya Rajan",
+     "Vyshnavi Raj",
+     "Unni Nair",
+     "Manoj K Jayan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.9",
+      "votes": 751,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:51.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Unni Mukundan",
+     "character": "Shefeek",
+     "slug": "unni-mukundan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7Pn9GASysyTG6ZnPhsuRq4ESArC.jpg"
+    },
+    {
+     "name": "Divya Pillai",
+     "character": "Sainaba",
+     "slug": "divya-pillai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n0BfTrgMiF0pAHvwl4Q3xvjHWlL.jpg"
+    },
+    {
+     "name": "Athmeeya Rajan",
+     "character": "Merlin",
+     "slug": "athmeeya-rajan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xoRwDLXMoKxAFX5XTApSS5cdElu.jpg"
+    },
+    {
+     "name": "Vyshnavi Raj",
+     "character": null,
+     "slug": "vyshnavi-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bLPmTDTtvLdX2eCwc4G73CQBcvV.jpg"
+    },
+    {
+     "name": "Unni Nair",
+     "character": null,
+     "slug": "unni-nair",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Manoj K Jayan",
+     "character": "Subair",
+     "slug": "manoj-k-jayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jTKRE7c208lvZLNwrLtMleiV8DS.jpg"
+    },
+    {
+     "name": "Bala",
+     "character": "Ameer",
+     "slug": "bala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l76ZJjEaTOix5twXeYy5k2xY9e7.jpg"
+    },
+    {
+     "name": "Shaheen Siddique",
+     "character": null,
+     "slug": "shaheen-siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sZ3Jj90QULclR4QEu6EnRtXzFrc.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anup Pandalam",
+       "slug": "anup-pandalam"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Anup Pandalam",
+       "slug": "anup-pandalam"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Shaan Rahman",
+       "slug": "shaan-rahman"
+      },
+      {
+       "name": "Ranjin Raj",
+       "slug": "ranjin-raj"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Eldho Issac",
+       "slug": "eldho-issac"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Noufal Abdulla",
+       "slug": "noufal-abdulla"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Unni Mukundan",
+       "slug": "unni-mukundan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Unni Mukundan Films",
+     "slug": "unni-mukundan-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-01-06",
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5007744.199999999,
+    "totalShows": 1577,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 835183,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 835183,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-11-25"
+   }
+  }
+ }
+}

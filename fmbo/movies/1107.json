@@ -1,0 +1,734 @@
+{
+ "id": 1107,
+ "slug": "billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d",
+ "source_url": "https://fridaymatinee.in/boxoffice/billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d-1107",
+ "captured_at": "2026-10-01T19:46:52.255728+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1107,
+    "title": "Billie Eilish Hit Me Hard And Soft The Tour Live In 3D",
+    "img": "https://image.tmdb.org/t/p/original/5fudu2BSuUcwsMycHDNA0l1FDPH.jpg",
+    "released": "2026-05-06",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt39018643",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "114 min",
+    "genre": "Music, Documentary",
+    "plot": "Captured during Billie Eilish's sold-out world tour, a concert experience from one of the most celebrated and successful artists of her generation, presented in immersive 3D.",
+    "released": "2026-05-06",
+    "director": "James Cameron",
+    "directorSlug": "james-cameron",
+    "actors": [
+     "Billie Eilish",
+     "FINNEAS",
+     "Andrew Marshall",
+     "Solomon Smith",
+     "Abraham Nouri",
+     "Tom Crouch"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 3785,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.3",
+      "votes": 70,
+      "updatedAt": "2026-09-24T10:11:30.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Billie Eilish",
+     "character": "Self - Vocals, Piano, Guitar",
+     "slug": "billie-eilish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4K69OtW6PVQ8gDozNB9Ja4j5iQS.jpg"
+    },
+    {
+     "name": "FINNEAS",
+     "character": "Self - Vocals, Piano, Guitar",
+     "slug": "finneas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v23y9ynke6fkWA7oxDIPEtJOWQ.jpg"
+    },
+    {
+     "name": "Andrew Marshall",
+     "character": "Self - Drums",
+     "slug": "andrew-marshall",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Solomon Smith",
+     "character": "Self - Bass",
+     "slug": "solomon-smith",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2yqzKBoRXZDlLmC8AUFYO1mcRdF.jpg"
+    },
+    {
+     "name": "Abraham Nouri",
+     "character": "Self - Keys, Guitar",
+     "slug": "abraham-nouri",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Tom Crouch",
+     "character": "Self - Keys, Guitar",
+     "slug": "tom-crouch",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Jane Horner",
+     "character": "Self - Background Vocals",
+     "slug": "jane-horner",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Ava Horner",
+     "character": "Self - Background Vocals",
+     "slug": "ava-horner",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      },
+      {
+       "name": "Billie Eilish",
+       "slug": "billie-eilish"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Tarik Mikou",
+       "slug": "tarik-mikou"
+      },
+      {
+       "name": "Billie Eilish",
+       "slug": "billie-eilish"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "John Brooks",
+       "slug": "john-brooks"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ben Wainwright-Pearce",
+       "slug": "ben-wainwright-pearce"
+      },
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Billie Eilish",
+       "slug": "billie-eilish"
+      },
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      },
+      {
+       "name": "Maggie Baird",
+       "slug": "maggie-baird"
+      },
+      {
+       "name": "Maria Wilhelm",
+       "slug": "maria-wilhelm"
+      },
+      {
+       "name": "John Brooks",
+       "slug": "john-brooks"
+      },
+      {
+       "name": "Geoff Burdick",
+       "slug": "geoff-burdick"
+      },
+      {
+       "name": "Paul Clarke",
+       "slug": "paul-clarke"
+      },
+      {
+       "name": "Justin Lubliner",
+       "slug": "justin-lubliner"
+      },
+      {
+       "name": "John Janick",
+       "slug": "john-janick"
+      },
+      {
+       "name": "Steve Berman",
+       "slug": "steve-berman"
+      },
+      {
+       "name": "Chelsea Dodson",
+       "slug": "chelsea-dodson"
+      },
+      {
+       "name": "Jason Owen",
+       "slug": "jason-owen"
+      },
+      {
+       "name": "Michelle An",
+       "slug": "michelle-an"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Interscope Films",
+     "slug": "interscope-films",
+     "logo": "https://image.tmdb.org/t/p/w185/jXGMxHQREYFoojxN9BaLBbdkglQ.png"
+    },
+    {
+     "name": "Darkroom Records",
+     "slug": "darkroom-records",
+     "logo": "https://image.tmdb.org/t/p/w185/dA2j4MdFjmcs9T8Vwpx6RtKRMRM.png"
+    },
+    {
+     "name": "Lightstorm Earth",
+     "slug": "lightstorm-earth",
+     "logo": "https://image.tmdb.org/t/p/w185/25ZDfKhnnloS2VmLtEMxNLNgOnS.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {},
+   "boxoffice": [],
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalSeats": 0,
+    "totalSold": 0,
+    "avgOcc": 0,
+    "totalDays": 0,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": null,
+    "openingDay": null,
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "0:0:0"
+  },
+  "week": {
+   "movie": {
+    "id": 1107,
+    "title": "Billie Eilish Hit Me Hard And Soft The Tour Live In 3D",
+    "img": "https://image.tmdb.org/t/p/original/5fudu2BSuUcwsMycHDNA0l1FDPH.jpg",
+    "released": "2026-05-06",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt39018643",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "114 min",
+    "genre": "Music, Documentary",
+    "plot": "Captured during Billie Eilish's sold-out world tour, a concert experience from one of the most celebrated and successful artists of her generation, presented in immersive 3D.",
+    "released": "2026-05-06",
+    "director": "James Cameron",
+    "directorSlug": "james-cameron",
+    "actors": [
+     "Billie Eilish",
+     "FINNEAS",
+     "Andrew Marshall",
+     "Solomon Smith",
+     "Abraham Nouri",
+     "Tom Crouch"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 3785,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.3",
+      "votes": 70,
+      "updatedAt": "2026-09-24T10:11:30.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Billie Eilish",
+     "character": "Self - Vocals, Piano, Guitar",
+     "slug": "billie-eilish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4K69OtW6PVQ8gDozNB9Ja4j5iQS.jpg"
+    },
+    {
+     "name": "FINNEAS",
+     "character": "Self - Vocals, Piano, Guitar",
+     "slug": "finneas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v23y9ynke6fkWA7oxDIPEtJOWQ.jpg"
+    },
+    {
+     "name": "Andrew Marshall",
+     "character": "Self - Drums",
+     "slug": "andrew-marshall",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Solomon Smith",
+     "character": "Self - Bass",
+     "slug": "solomon-smith",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2yqzKBoRXZDlLmC8AUFYO1mcRdF.jpg"
+    },
+    {
+     "name": "Abraham Nouri",
+     "character": "Self - Keys, Guitar",
+     "slug": "abraham-nouri",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Tom Crouch",
+     "character": "Self - Keys, Guitar",
+     "slug": "tom-crouch",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Jane Horner",
+     "character": "Self - Background Vocals",
+     "slug": "jane-horner",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Ava Horner",
+     "character": "Self - Background Vocals",
+     "slug": "ava-horner",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      },
+      {
+       "name": "Billie Eilish",
+       "slug": "billie-eilish"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Tarik Mikou",
+       "slug": "tarik-mikou"
+      },
+      {
+       "name": "Billie Eilish",
+       "slug": "billie-eilish"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "John Brooks",
+       "slug": "john-brooks"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ben Wainwright-Pearce",
+       "slug": "ben-wainwright-pearce"
+      },
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Billie Eilish",
+       "slug": "billie-eilish"
+      },
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      },
+      {
+       "name": "Maggie Baird",
+       "slug": "maggie-baird"
+      },
+      {
+       "name": "Maria Wilhelm",
+       "slug": "maria-wilhelm"
+      },
+      {
+       "name": "John Brooks",
+       "slug": "john-brooks"
+      },
+      {
+       "name": "Geoff Burdick",
+       "slug": "geoff-burdick"
+      },
+      {
+       "name": "Paul Clarke",
+       "slug": "paul-clarke"
+      },
+      {
+       "name": "Justin Lubliner",
+       "slug": "justin-lubliner"
+      },
+      {
+       "name": "John Janick",
+       "slug": "john-janick"
+      },
+      {
+       "name": "Steve Berman",
+       "slug": "steve-berman"
+      },
+      {
+       "name": "Chelsea Dodson",
+       "slug": "chelsea-dodson"
+      },
+      {
+       "name": "Jason Owen",
+       "slug": "jason-owen"
+      },
+      {
+       "name": "Michelle An",
+       "slug": "michelle-an"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Interscope Films",
+     "slug": "interscope-films",
+     "logo": "https://image.tmdb.org/t/p/w185/jXGMxHQREYFoojxN9BaLBbdkglQ.png"
+    },
+    {
+     "name": "Darkroom Records",
+     "slug": "darkroom-records",
+     "logo": "https://image.tmdb.org/t/p/w185/dA2j4MdFjmcs9T8Vwpx6RtKRMRM.png"
+    },
+    {
+     "name": "Lightstorm Earth",
+     "slug": "lightstorm-earth",
+     "logo": "https://image.tmdb.org/t/p/w185/25ZDfKhnnloS2VmLtEMxNLNgOnS.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {},
+   "boxoffice": [],
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalSeats": 0,
+    "totalSold": 0,
+    "avgOcc": 0,
+    "totalDays": 0,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": null,
+    "openingDay": null,
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "0:0:0"
+  },
+  "district": {
+   "movie": {
+    "id": 1107,
+    "title": "Billie Eilish Hit Me Hard And Soft The Tour Live In 3D",
+    "img": "https://image.tmdb.org/t/p/original/5fudu2BSuUcwsMycHDNA0l1FDPH.jpg",
+    "released": "2026-05-06",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt39018643",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "114 min",
+    "genre": "Music, Documentary",
+    "plot": "Captured during Billie Eilish's sold-out world tour, a concert experience from one of the most celebrated and successful artists of her generation, presented in immersive 3D.",
+    "released": "2026-05-06",
+    "director": "James Cameron",
+    "directorSlug": "james-cameron",
+    "actors": [
+     "Billie Eilish",
+     "FINNEAS",
+     "Andrew Marshall",
+     "Solomon Smith",
+     "Abraham Nouri",
+     "Tom Crouch"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 3785,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.3",
+      "votes": 70,
+      "updatedAt": "2026-09-24T10:11:30.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Billie Eilish",
+     "character": "Self - Vocals, Piano, Guitar",
+     "slug": "billie-eilish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4K69OtW6PVQ8gDozNB9Ja4j5iQS.jpg"
+    },
+    {
+     "name": "FINNEAS",
+     "character": "Self - Vocals, Piano, Guitar",
+     "slug": "finneas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v23y9ynke6fkWA7oxDIPEtJOWQ.jpg"
+    },
+    {
+     "name": "Andrew Marshall",
+     "character": "Self - Drums",
+     "slug": "andrew-marshall",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Solomon Smith",
+     "character": "Self - Bass",
+     "slug": "solomon-smith",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2yqzKBoRXZDlLmC8AUFYO1mcRdF.jpg"
+    },
+    {
+     "name": "Abraham Nouri",
+     "character": "Self - Keys, Guitar",
+     "slug": "abraham-nouri",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Tom Crouch",
+     "character": "Self - Keys, Guitar",
+     "slug": "tom-crouch",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Jane Horner",
+     "character": "Self - Background Vocals",
+     "slug": "jane-horner",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Ava Horner",
+     "character": "Self - Background Vocals",
+     "slug": "ava-horner",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      },
+      {
+       "name": "Billie Eilish",
+       "slug": "billie-eilish"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Tarik Mikou",
+       "slug": "tarik-mikou"
+      },
+      {
+       "name": "Billie Eilish",
+       "slug": "billie-eilish"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "John Brooks",
+       "slug": "john-brooks"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ben Wainwright-Pearce",
+       "slug": "ben-wainwright-pearce"
+      },
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Billie Eilish",
+       "slug": "billie-eilish"
+      },
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      },
+      {
+       "name": "Maggie Baird",
+       "slug": "maggie-baird"
+      },
+      {
+       "name": "Maria Wilhelm",
+       "slug": "maria-wilhelm"
+      },
+      {
+       "name": "John Brooks",
+       "slug": "john-brooks"
+      },
+      {
+       "name": "Geoff Burdick",
+       "slug": "geoff-burdick"
+      },
+      {
+       "name": "Paul Clarke",
+       "slug": "paul-clarke"
+      },
+      {
+       "name": "Justin Lubliner",
+       "slug": "justin-lubliner"
+      },
+      {
+       "name": "John Janick",
+       "slug": "john-janick"
+      },
+      {
+       "name": "Steve Berman",
+       "slug": "steve-berman"
+      },
+      {
+       "name": "Chelsea Dodson",
+       "slug": "chelsea-dodson"
+      },
+      {
+       "name": "Jason Owen",
+       "slug": "jason-owen"
+      },
+      {
+       "name": "Michelle An",
+       "slug": "michelle-an"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Interscope Films",
+     "slug": "interscope-films",
+     "logo": "https://image.tmdb.org/t/p/w185/jXGMxHQREYFoojxN9BaLBbdkglQ.png"
+    },
+    {
+     "name": "Darkroom Records",
+     "slug": "darkroom-records",
+     "logo": "https://image.tmdb.org/t/p/w185/dA2j4MdFjmcs9T8Vwpx6RtKRMRM.png"
+    },
+    {
+     "name": "Lightstorm Earth",
+     "slug": "lightstorm-earth",
+     "logo": "https://image.tmdb.org/t/p/w185/25ZDfKhnnloS2VmLtEMxNLNgOnS.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {},
+   "boxoffice": [],
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalSeats": 0,
+    "totalSold": 0,
+    "avgOcc": 0,
+    "totalDays": 0,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": null,
+    "openingDay": null,
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "0:0:0"
+  }
+ }
+}

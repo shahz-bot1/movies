@@ -1,0 +1,55 @@
+{
+ "slug": "benedict-cumberbatch",
+ "name": "Benedict Cumberbatch",
+ "source_url": "https://fridaymatinee.in/people/benedict-cumberbatch",
+ "captured_at": "2026-10-01T21:13:26.122385+00:00",
+ "person": {
+  "name": "Benedict Cumberbatch",
+  "photo": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 96,
+   "movie_slug": "spider-man-no-way-home",
+   "title": "Spider Man No Way Home",
+   "year": 2021,
+   "kerala_gross": "₹11.5 Cr"
+  },
+  {
+   "movie_id": 136,
+   "movie_slug": "doctor-strange-in-the-multiverse-of-madness",
+   "title": "Doctor Strange in the Multiverse of Madness",
+   "year": 2022,
+   "kerala_gross": "₹4.5 Cr"
+  },
+  {
+   "movie_id": 748,
+   "movie_slug": "the-phoenician-scheme",
+   "title": "The Phoenician Scheme",
+   "year": 2025,
+   "kerala_gross": "₹1.0L"
+  },
+  {
+   "movie_id": 814,
+   "movie_slug": "the-roses",
+   "title": "The Roses",
+   "year": 2025,
+   "kerala_gross": "₹61K"
+  },
+  {
+   "movie_id": 1288,
+   "movie_slug": "avengers-endgame-encore",
+   "title": "Avengers Endgame: Encore",
+   "year": 2026,
+   "kerala_gross": "₹2.3 Cr"
+  }
+ ]
+}

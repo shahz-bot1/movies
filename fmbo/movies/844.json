@@ -1,0 +1,708 @@
+{
+ "id": 844,
+ "slug": "balti",
+ "source_url": "https://fridaymatinee.in/boxoffice/balti-844",
+ "captured_at": "2026-10-01T18:24:14.050233+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 844,
+    "title": "Balti",
+    "img": "https://image.tmdb.org/t/p/original/tpgbGGIM76Vk44KLxTNM2UkzmLG.jpg",
+    "released": "2025-09-26",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt34942608",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "151 min",
+    "genre": "Action, Drama, Romance",
+    "plot": "A star kabaddi player's life takes a dangerous turn when he's pulled into the criminal underworld.",
+    "released": "2025-09-26",
+    "director": "Unni Sivalingam",
+    "directorSlug": "unni-sivalingam",
+    "actors": [
+     "Shane Nigam",
+     "Shanthanu Bhagyaraj",
+     "Preethi Asrani",
+     "Shiva Hariharan",
+     "Alphonse Puthren",
+     "Selvaraghavan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 2443,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:18.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shane Nigam",
+     "character": "Udhayan / Balti",
+     "slug": "shane-nigam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9KJqx2V9aRwcTuMh2FQmWj5HrAO.jpg"
+    },
+    {
+     "name": "Shanthanu Bhagyaraj",
+     "character": "Kumar / Dash",
+     "slug": "shanthanu-bhagyaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sbNZuxJr7XCCXPxx9lcXMPKVvVF.jpg"
+    },
+    {
+     "name": "Preethi Asrani",
+     "character": "Kaveri",
+     "slug": "preethi-asrani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y0CwythRWa7WEyc29t0EWYML0jv.jpg"
+    },
+    {
+     "name": "Shiva Hariharan",
+     "character": "Ramesh",
+     "slug": "shiva-hariharan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jbfqEgcI2foZSTkO40i9nr4v780.jpg"
+    },
+    {
+     "name": "Alphonse Puthren",
+     "character": "Soda Babu",
+     "slug": "alphonse-puthren",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bizV6LQMKMCEAVzeIh5rEOty7av.jpg"
+    },
+    {
+     "name": "Selvaraghavan",
+     "character": "Porthamarai Bhairavan",
+     "slug": "selvaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iTEdyvN5XoB0fl6kMg0tChBY4Ml.jpg"
+    },
+    {
+     "name": "Poornima Indrajith",
+     "character": "G-Maa",
+     "slug": "poornima-indrajith",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/saMMFRY4XtypkotzfE07kvWD5q2.jpg"
+    },
+    {
+     "name": "Jeckson Johnson",
+     "character": "Mani",
+     "slug": "jeckson-johnson",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Unni Sivalingam",
+       "slug": "unni-sivalingam"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Unni Sivalingam",
+       "slug": "unni-sivalingam"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sai Abhyankkar",
+       "slug": "sai-abhyankkar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Alex J. Pulickal",
+       "slug": "alex-j-pulickal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shivkumar V. Panicker",
+       "slug": "shivkumar-v-panicker"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Santhosh T. Kuruvilla",
+       "slug": "santhosh-t-kuruvilla"
+      },
+      {
+       "name": "Binu Alexander George",
+       "slug": "binu-alexander-george"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Binu George Alexander Production",
+     "slug": "binu-george-alexander-production",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-07-10",
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 79287262.60000001,
+    "totalShows": 10491,
+    "totalDays": 56,
+    "openingDay": {
+     "day": 1,
+     "gross": 7255282.8,
+     "date": "2025-09-26"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 11001286.2,
+     "date": "2025-09-28"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 85,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-26"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 844,
+    "title": "Balti",
+    "img": "https://image.tmdb.org/t/p/original/tpgbGGIM76Vk44KLxTNM2UkzmLG.jpg",
+    "released": "2025-09-26",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt34942608",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "151 min",
+    "genre": "Action, Drama, Romance",
+    "plot": "A star kabaddi player's life takes a dangerous turn when he's pulled into the criminal underworld.",
+    "released": "2025-09-26",
+    "director": "Unni Sivalingam",
+    "directorSlug": "unni-sivalingam",
+    "actors": [
+     "Shane Nigam",
+     "Shanthanu Bhagyaraj",
+     "Preethi Asrani",
+     "Shiva Hariharan",
+     "Alphonse Puthren",
+     "Selvaraghavan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 2443,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:18.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shane Nigam",
+     "character": "Udhayan / Balti",
+     "slug": "shane-nigam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9KJqx2V9aRwcTuMh2FQmWj5HrAO.jpg"
+    },
+    {
+     "name": "Shanthanu Bhagyaraj",
+     "character": "Kumar / Dash",
+     "slug": "shanthanu-bhagyaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sbNZuxJr7XCCXPxx9lcXMPKVvVF.jpg"
+    },
+    {
+     "name": "Preethi Asrani",
+     "character": "Kaveri",
+     "slug": "preethi-asrani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y0CwythRWa7WEyc29t0EWYML0jv.jpg"
+    },
+    {
+     "name": "Shiva Hariharan",
+     "character": "Ramesh",
+     "slug": "shiva-hariharan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jbfqEgcI2foZSTkO40i9nr4v780.jpg"
+    },
+    {
+     "name": "Alphonse Puthren",
+     "character": "Soda Babu",
+     "slug": "alphonse-puthren",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bizV6LQMKMCEAVzeIh5rEOty7av.jpg"
+    },
+    {
+     "name": "Selvaraghavan",
+     "character": "Porthamarai Bhairavan",
+     "slug": "selvaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iTEdyvN5XoB0fl6kMg0tChBY4Ml.jpg"
+    },
+    {
+     "name": "Poornima Indrajith",
+     "character": "G-Maa",
+     "slug": "poornima-indrajith",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/saMMFRY4XtypkotzfE07kvWD5q2.jpg"
+    },
+    {
+     "name": "Jeckson Johnson",
+     "character": "Mani",
+     "slug": "jeckson-johnson",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Unni Sivalingam",
+       "slug": "unni-sivalingam"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Unni Sivalingam",
+       "slug": "unni-sivalingam"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sai Abhyankkar",
+       "slug": "sai-abhyankkar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Alex J. Pulickal",
+       "slug": "alex-j-pulickal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shivkumar V. Panicker",
+       "slug": "shivkumar-v-panicker"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Santhosh T. Kuruvilla",
+       "slug": "santhosh-t-kuruvilla"
+      },
+      {
+       "name": "Binu Alexander George",
+       "slug": "binu-alexander-george"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Binu George Alexander Production",
+     "slug": "binu-george-alexander-production",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-07-10",
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-09-26",
+     "gross": 53711350.00000001,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5331,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-10-03",
+     "gross": 15105083.800000003,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3164,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-10-10",
+     "gross": 7041838.199999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1329,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-10-17",
+     "gross": 1326252.6000000006,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 377,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-10-24",
+     "gross": 873870,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 117,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-10-31",
+     "gross": 663607,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 70,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-11-07",
+     "gross": 485095,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 63,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-11-14",
+     "gross": 80166,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 40,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 79287262.60000001,
+    "totalShows": 10491,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 53711350.00000001
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 53711350.00000001
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 85,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-26"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 844,
+    "title": "Balti",
+    "img": "https://image.tmdb.org/t/p/original/tpgbGGIM76Vk44KLxTNM2UkzmLG.jpg",
+    "released": "2025-09-26",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt34942608",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "151 min",
+    "genre": "Action, Drama, Romance",
+    "plot": "A star kabaddi player's life takes a dangerous turn when he's pulled into the criminal underworld.",
+    "released": "2025-09-26",
+    "director": "Unni Sivalingam",
+    "directorSlug": "unni-sivalingam",
+    "actors": [
+     "Shane Nigam",
+     "Shanthanu Bhagyaraj",
+     "Preethi Asrani",
+     "Shiva Hariharan",
+     "Alphonse Puthren",
+     "Selvaraghavan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.1",
+      "votes": 2443,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:18.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shane Nigam",
+     "character": "Udhayan / Balti",
+     "slug": "shane-nigam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9KJqx2V9aRwcTuMh2FQmWj5HrAO.jpg"
+    },
+    {
+     "name": "Shanthanu Bhagyaraj",
+     "character": "Kumar / Dash",
+     "slug": "shanthanu-bhagyaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sbNZuxJr7XCCXPxx9lcXMPKVvVF.jpg"
+    },
+    {
+     "name": "Preethi Asrani",
+     "character": "Kaveri",
+     "slug": "preethi-asrani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y0CwythRWa7WEyc29t0EWYML0jv.jpg"
+    },
+    {
+     "name": "Shiva Hariharan",
+     "character": "Ramesh",
+     "slug": "shiva-hariharan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jbfqEgcI2foZSTkO40i9nr4v780.jpg"
+    },
+    {
+     "name": "Alphonse Puthren",
+     "character": "Soda Babu",
+     "slug": "alphonse-puthren",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bizV6LQMKMCEAVzeIh5rEOty7av.jpg"
+    },
+    {
+     "name": "Selvaraghavan",
+     "character": "Porthamarai Bhairavan",
+     "slug": "selvaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iTEdyvN5XoB0fl6kMg0tChBY4Ml.jpg"
+    },
+    {
+     "name": "Poornima Indrajith",
+     "character": "G-Maa",
+     "slug": "poornima-indrajith",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/saMMFRY4XtypkotzfE07kvWD5q2.jpg"
+    },
+    {
+     "name": "Jeckson Johnson",
+     "character": "Mani",
+     "slug": "jeckson-johnson",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Unni Sivalingam",
+       "slug": "unni-sivalingam"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Unni Sivalingam",
+       "slug": "unni-sivalingam"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sai Abhyankkar",
+       "slug": "sai-abhyankkar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Alex J. Pulickal",
+       "slug": "alex-j-pulickal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shivkumar V. Panicker",
+       "slug": "shivkumar-v-panicker"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Santhosh T. Kuruvilla",
+       "slug": "santhosh-t-kuruvilla"
+      },
+      {
+       "name": "Binu Alexander George",
+       "slug": "binu-alexander-george"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Binu George Alexander Production",
+     "slug": "binu-george-alexander-production",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-07-10",
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 79287262.6,
+    "totalShows": 10491,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 19002502,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 19002502,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 85,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-26"
+   }
+  }
+ }
+}

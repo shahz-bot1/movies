@@ -1,0 +1,41 @@
+{
+ "slug": "john-mathieson",
+ "name": "John Mathieson",
+ "source_url": "https://fridaymatinee.in/people/john-mathieson",
+ "captured_at": "2026-10-01T23:22:05.585299+00:00",
+ "person": {
+  "name": "John Mathieson",
+  "photo": "https://image.tmdb.org/t/p/w185/AkWm67UMEWHhF3BDfH32HkRl5oM.jpg",
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 136,
+   "movie_slug": "doctor-strange-in-the-multiverse-of-madness",
+   "title": "Doctor Strange in the Multiverse of Madness",
+   "year": 2022,
+   "kerala_gross": "₹4.5 Cr"
+  },
+  {
+   "movie_id": 568,
+   "movie_slug": "gladiator-ii",
+   "title": "Gladiator II",
+   "year": 2024,
+   "kerala_gross": "₹32.0L"
+  },
+  {
+   "movie_id": 714,
+   "movie_slug": "jurassic-world-rebirth",
+   "title": "Jurassic World Rebirth",
+   "year": 2025,
+   "kerala_gross": "₹5.8 Cr"
+  }
+ ]
+}

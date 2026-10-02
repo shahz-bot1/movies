@@ -1,0 +1,41 @@
+{
+ "slug": "vaiyapuri",
+ "name": "Vaiyapuri",
+ "source_url": "https://fridaymatinee.in/people/vaiyapuri",
+ "captured_at": "2026-10-02T11:36:27.333455+00:00",
+ "person": {
+  "name": "Vaiyapuri",
+  "photo": "https://image.tmdb.org/t/p/w185/dXWg4R0zuJEOuEIPZo0ibu355aA.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 701,
+   "movie_slug": "thug-life",
+   "title": "Thug Life",
+   "year": 2025,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 663,
+   "movie_slug": "kaantha",
+   "title": "Kaantha",
+   "year": 2025,
+   "kerala_gross": "₹3.6 Cr"
+  },
+  {
+   "movie_id": 1072,
+   "movie_slug": "tn-2026",
+   "title": "TN 2026",
+   "year": 2026,
+   "kerala_gross": "₹25K"
+  }
+ ]
+}

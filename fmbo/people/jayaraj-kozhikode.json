@@ -1,0 +1,41 @@
+{
+ "slug": "jayaraj-kozhikode",
+ "name": "Jayaraj Kozhikode",
+ "source_url": "https://fridaymatinee.in/people/jayaraj-kozhikode",
+ "captured_at": "2026-10-01T23:06:09.991758+00:00",
+ "person": {
+  "name": "Jayaraj Kozhikode",
+  "photo": "https://image.tmdb.org/t/p/w185/23qHFvZObYsChoitDcJUjy9OqfT.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 30,
+   "movie_slug": "helen",
+   "title": "Helen",
+   "year": 2019,
+   "kerala_gross": "₹2.8 Cr"
+  },
+  {
+   "movie_id": 41,
+   "movie_slug": "puzhikkadakan",
+   "title": "Puzhikkadakan",
+   "year": 2019,
+   "kerala_gross": "₹13.8L"
+  },
+  {
+   "movie_id": 932,
+   "movie_slug": "dheeram",
+   "title": "Dheeram",
+   "year": 2025,
+   "kerala_gross": "₹85.6L"
+  }
+ ]
+}

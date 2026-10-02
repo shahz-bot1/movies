@@ -1,0 +1,623 @@
+{
+ "id": 755,
+ "slug": "flow",
+ "source_url": "https://fridaymatinee.in/boxoffice/flow-755",
+ "captured_at": "2026-10-01T18:21:28.257387+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 755,
+    "title": "Flow",
+    "img": "https://image.tmdb.org/t/p/original/y8ktRKBV2ZZvmx79y5Ax0pUj9GZ.jpg",
+    "released": "2025-02-28",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt4772188",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG",
+    "runtime": "85 min",
+    "genre": "Animation, Adventure, Fantasy, Family",
+    "plot": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+    "released": "2024-08-29",
+    "director": "Gints Zilbalodis",
+    "directorSlug": "gints-zilbalodis",
+    "actors": [],
+    "awards": "Won 1 Oscar. 57 wins u0026 79 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.8",
+      "votes": 153879,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.1",
+      "votes": 3073,
+      "updatedAt": "2026-09-24T16:10:48.000Z"
+     },
+     "rt": "97%",
+     "metascore": 87,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Gints Zilbalodis",
+       "slug": "gints-zilbalodis"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Matīss Kaža",
+       "slug": "matiss-kaza"
+      },
+      {
+       "name": "Gints Zilbalodis",
+       "slug": "gints-zilbalodis"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Gints Zilbalodis",
+       "slug": "gints-zilbalodis"
+      },
+      {
+       "name": "Rihards Zaļupe",
+       "slug": "rihards-zalupe"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Gints Zilbalodis",
+       "slug": "gints-zilbalodis"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Gints Zilbalodis",
+       "slug": "gints-zilbalodis"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ron Dyens",
+       "slug": "ron-dyens"
+      },
+      {
+       "name": "Matīss Kaža",
+       "slug": "matiss-kaza"
+      },
+      {
+       "name": "Gints Zilbalodis",
+       "slug": "gints-zilbalodis"
+      },
+      {
+       "name": "Gregory Zalcman",
+       "slug": "gregory-zalcman"
+      },
+      {
+       "name": "Alon Knoll",
+       "slug": "alon-knoll"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Dream Well Studio",
+     "slug": "dream-well-studio",
+     "logo": "https://image.tmdb.org/t/p/w185/bEsO7l12cRGAY25Uqt1a66Ife1U.png"
+    },
+    {
+     "name": "Sacrebleu Productions",
+     "slug": "sacrebleu-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/sKu7Gr83ie8w6waDwYNHMBEaSah.png"
+    },
+    {
+     "name": "Take Five",
+     "slug": "take-five",
+     "logo": "https://image.tmdb.org/t/p/w185/q7ynwvgbkht96N8qPFexUW3QFeR.png"
+    },
+    {
+     "name": "ARTE France Cinéma",
+     "slug": "arte-france-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/huC7HqorvUThGIrENrbcHmQVUA0.png"
+    },
+    {
+     "name": "RTBF",
+     "slug": "rtbf",
+     "logo": "https://image.tmdb.org/t/p/w185/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-01-07",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 463017,
+    "totalShows": 66,
+    "totalDays": 27,
+    "openingDay": {
+     "day": 1,
+     "gross": 21660,
+     "date": "2025-02-28"
+    },
+    "peakDay": {
+     "day": 9,
+     "gross": 37950,
+     "date": "2025-03-08"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-02-28"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 755,
+    "title": "Flow",
+    "img": "https://image.tmdb.org/t/p/original/y8ktRKBV2ZZvmx79y5Ax0pUj9GZ.jpg",
+    "released": "2025-02-28",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt4772188",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG",
+    "runtime": "85 min",
+    "genre": "Animation, Adventure, Fantasy, Family",
+    "plot": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+    "released": "2024-08-29",
+    "director": "Gints Zilbalodis",
+    "directorSlug": "gints-zilbalodis",
+    "actors": [],
+    "awards": "Won 1 Oscar. 57 wins u0026 79 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.8",
+      "votes": 153879,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.1",
+      "votes": 3073,
+      "updatedAt": "2026-09-24T16:10:48.000Z"
+     },
+     "rt": "97%",
+     "metascore": 87,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Gints Zilbalodis",
+       "slug": "gints-zilbalodis"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Matīss Kaža",
+       "slug": "matiss-kaza"
+      },
+      {
+       "name": "Gints Zilbalodis",
+       "slug": "gints-zilbalodis"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Gints Zilbalodis",
+       "slug": "gints-zilbalodis"
+      },
+      {
+       "name": "Rihards Zaļupe",
+       "slug": "rihards-zalupe"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Gints Zilbalodis",
+       "slug": "gints-zilbalodis"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Gints Zilbalodis",
+       "slug": "gints-zilbalodis"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ron Dyens",
+       "slug": "ron-dyens"
+      },
+      {
+       "name": "Matīss Kaža",
+       "slug": "matiss-kaza"
+      },
+      {
+       "name": "Gints Zilbalodis",
+       "slug": "gints-zilbalodis"
+      },
+      {
+       "name": "Gregory Zalcman",
+       "slug": "gregory-zalcman"
+      },
+      {
+       "name": "Alon Knoll",
+       "slug": "alon-knoll"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Dream Well Studio",
+     "slug": "dream-well-studio",
+     "logo": "https://image.tmdb.org/t/p/w185/bEsO7l12cRGAY25Uqt1a66Ife1U.png"
+    },
+    {
+     "name": "Sacrebleu Productions",
+     "slug": "sacrebleu-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/sKu7Gr83ie8w6waDwYNHMBEaSah.png"
+    },
+    {
+     "name": "Take Five",
+     "slug": "take-five",
+     "logo": "https://image.tmdb.org/t/p/w185/q7ynwvgbkht96N8qPFexUW3QFeR.png"
+    },
+    {
+     "name": "ARTE France Cinéma",
+     "slug": "arte-france-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/huC7HqorvUThGIrENrbcHmQVUA0.png"
+    },
+    {
+     "name": "RTBF",
+     "slug": "rtbf",
+     "logo": "https://image.tmdb.org/t/p/w185/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-01-07",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-02-28",
+     "gross": 170480,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 19,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-03-07",
+     "gross": 127790,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 20,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-03-14",
+     "gross": 86060,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 15,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-03-21",
+     "gross": 78687,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 12,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 463017,
+    "totalShows": 66,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 170480
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 170480
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-02-28"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 755,
+    "title": "Flow",
+    "img": "https://image.tmdb.org/t/p/original/y8ktRKBV2ZZvmx79y5Ax0pUj9GZ.jpg",
+    "released": "2025-02-28",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt4772188",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG",
+    "runtime": "85 min",
+    "genre": "Animation, Adventure, Fantasy, Family",
+    "plot": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+    "released": "2024-08-29",
+    "director": "Gints Zilbalodis",
+    "directorSlug": "gints-zilbalodis",
+    "actors": [],
+    "awards": "Won 1 Oscar. 57 wins u0026 79 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.8",
+      "votes": 153879,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.1",
+      "votes": 3073,
+      "updatedAt": "2026-09-24T16:10:48.000Z"
+     },
+     "rt": "97%",
+     "metascore": 87,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Gints Zilbalodis",
+       "slug": "gints-zilbalodis"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Matīss Kaža",
+       "slug": "matiss-kaza"
+      },
+      {
+       "name": "Gints Zilbalodis",
+       "slug": "gints-zilbalodis"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Gints Zilbalodis",
+       "slug": "gints-zilbalodis"
+      },
+      {
+       "name": "Rihards Zaļupe",
+       "slug": "rihards-zalupe"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Gints Zilbalodis",
+       "slug": "gints-zilbalodis"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Gints Zilbalodis",
+       "slug": "gints-zilbalodis"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ron Dyens",
+       "slug": "ron-dyens"
+      },
+      {
+       "name": "Matīss Kaža",
+       "slug": "matiss-kaza"
+      },
+      {
+       "name": "Gints Zilbalodis",
+       "slug": "gints-zilbalodis"
+      },
+      {
+       "name": "Gregory Zalcman",
+       "slug": "gregory-zalcman"
+      },
+      {
+       "name": "Alon Knoll",
+       "slug": "alon-knoll"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Dream Well Studio",
+     "slug": "dream-well-studio",
+     "logo": "https://image.tmdb.org/t/p/w185/bEsO7l12cRGAY25Uqt1a66Ife1U.png"
+    },
+    {
+     "name": "Sacrebleu Productions",
+     "slug": "sacrebleu-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/sKu7Gr83ie8w6waDwYNHMBEaSah.png"
+    },
+    {
+     "name": "Take Five",
+     "slug": "take-five",
+     "logo": "https://image.tmdb.org/t/p/w185/q7ynwvgbkht96N8qPFexUW3QFeR.png"
+    },
+    {
+     "name": "ARTE France Cinéma",
+     "slug": "arte-france-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/huC7HqorvUThGIrENrbcHmQVUA0.png"
+    },
+    {
+     "name": "RTBF",
+     "slug": "rtbf",
+     "logo": "https://image.tmdb.org/t/p/w185/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-01-07",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 463017,
+    "totalShows": 66,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 439677,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 439677,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-02-28"
+   }
+  }
+ }
+}

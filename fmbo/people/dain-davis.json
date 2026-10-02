@@ -1,0 +1,41 @@
+{
+ "slug": "dain-davis",
+ "name": "Dain Davis",
+ "source_url": "https://fridaymatinee.in/people/dain-davis",
+ "captured_at": "2026-10-01T21:42:55.451165+00:00",
+ "person": {
+  "name": "Dain Davis",
+  "photo": "https://image.tmdb.org/t/p/w185/cPTO0YqXAbe7XAPxgFEGeKKsuZm.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 71,
+   "movie_slug": "varthamanam",
+   "title": "Varthamanam",
+   "year": 2021,
+   "kerala_gross": "₹4.2L"
+  },
+  {
+   "movie_id": 300,
+   "movie_slug": "boomerang",
+   "title": "Boomerang",
+   "year": 2023,
+   "kerala_gross": "₹9.6L"
+  },
+  {
+   "movie_id": 555,
+   "movie_slug": "hunt",
+   "title": "Hunt",
+   "year": 2024,
+   "kerala_gross": "₹37.6L"
+  }
+ ]
+}

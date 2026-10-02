@@ -1,0 +1,48 @@
+{
+ "slug": "vadivukarasi",
+ "name": "Vadivukarasi",
+ "source_url": "https://fridaymatinee.in/people/vadivukarasi",
+ "captured_at": "2026-10-02T11:35:36.648041+00:00",
+ "person": {
+  "name": "Vadivukarasi",
+  "photo": "https://image.tmdb.org/t/p/w185/cGfFXJ20h1KECAzSPfo7zURtdqI.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 854,
+   "movie_slug": "idli-kadai",
+   "title": "Idli Kadai",
+   "year": 2025,
+   "kerala_gross": "₹80.6L"
+  },
+  {
+   "movie_id": 963,
+   "movie_slug": "vaa-vaathiyaar",
+   "title": "Vaa Vaathiyaar",
+   "year": 2026,
+   "kerala_gross": "₹45.0L"
+  },
+  {
+   "movie_id": 1072,
+   "movie_slug": "tn-2026",
+   "title": "TN 2026",
+   "year": 2026,
+   "kerala_gross": "₹25K"
+  },
+  {
+   "movie_id": 1171,
+   "movie_slug": "con-city",
+   "title": "Con City",
+   "year": 2026,
+   "kerala_gross": "₹3.3L"
+  }
+ ]
+}

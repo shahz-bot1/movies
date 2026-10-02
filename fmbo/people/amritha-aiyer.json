@@ -1,0 +1,41 @@
+{
+ "slug": "amritha-aiyer",
+ "name": "Amritha Aiyer",
+ "source_url": "https://fridaymatinee.in/people/amritha-aiyer",
+ "captured_at": "2026-10-01T20:31:34.534639+00:00",
+ "person": {
+  "name": "Amritha Aiyer",
+  "photo": "https://image.tmdb.org/t/p/w185/sjhXrtTkB9Nh8qyjrH4UwBEL4K7.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 18,
+   "movie_slug": "bigil",
+   "title": "Bigil",
+   "year": 2019,
+   "kerala_gross": "₹5.4 Cr"
+  },
+  {
+   "movie_id": 495,
+   "movie_slug": "hanu-man",
+   "title": "Hanu-Man",
+   "year": 2024,
+   "kerala_gross": "₹16.0L"
+  },
+  {
+   "movie_id": 1052,
+   "movie_slug": "leader",
+   "title": "Leader",
+   "year": 2026,
+   "kerala_gross": "₹2.8L"
+  }
+ ]
+}

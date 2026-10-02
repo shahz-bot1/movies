@@ -1,0 +1,62 @@
+{
+ "slug": "getup-srinu",
+ "name": "Getup Srinu",
+ "source_url": "https://fridaymatinee.in/people/getup-srinu",
+ "captured_at": "2026-10-01T22:30:49.484896+00:00",
+ "person": {
+  "name": "Getup Srinu",
+  "photo": "https://image.tmdb.org/t/p/w185/xb2lJ213oU3DS6kMkDuqlf7EFeG.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 183,
+   "movie_slug": "liger",
+   "title": "Liger",
+   "year": 2022,
+   "kerala_gross": "₹33.1L"
+  },
+  {
+   "movie_id": 218,
+   "movie_slug": "godfather",
+   "title": "Godfather",
+   "year": 2022,
+   "kerala_gross": "₹8.6L"
+  },
+  {
+   "movie_id": 495,
+   "movie_slug": "hanu-man",
+   "title": "Hanu-Man",
+   "year": 2024,
+   "kerala_gross": "₹16.0L"
+  },
+  {
+   "movie_id": 816,
+   "movie_slug": "mirai",
+   "title": "Mirai",
+   "year": 2025,
+   "kerala_gross": "₹35.9L"
+  },
+  {
+   "movie_id": 974,
+   "movie_slug": "bhartha-mahasayulaku-wignyapthi",
+   "title": "Bhartha Mahasayulaku Wignyapthi",
+   "year": 2026,
+   "kerala_gross": "₹72K"
+  },
+  {
+   "movie_id": 1061,
+   "movie_slug": "raakaasa",
+   "title": "Raakaasa",
+   "year": 2026,
+   "kerala_gross": "₹58K"
+  }
+ ]
+}

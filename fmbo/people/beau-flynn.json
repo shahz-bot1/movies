@@ -1,0 +1,41 @@
+{
+ "slug": "beau-flynn",
+ "name": "Beau Flynn",
+ "source_url": "https://fridaymatinee.in/people/beau-flynn",
+ "captured_at": "2026-10-01T21:11:59.691852+00:00",
+ "person": {
+  "name": "Beau Flynn",
+  "photo": "https://image.tmdb.org/t/p/w185/wKknGP4ONNSuIOrQpO3z4CYwTkm.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 224,
+   "movie_slug": "black-adam",
+   "title": "Black Adam",
+   "year": 2022,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 823,
+   "movie_slug": "the-smashing-machine",
+   "title": "The Smashing Machine",
+   "year": 2025,
+   "kerala_gross": "₹88K"
+  },
+  {
+   "movie_id": 1185,
+   "movie_slug": "moana",
+   "title": "Moana",
+   "year": 2026,
+   "kerala_gross": "₹21.9L"
+  }
+ ]
+}

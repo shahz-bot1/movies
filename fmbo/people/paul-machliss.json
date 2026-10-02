@@ -1,0 +1,41 @@
+{
+ "slug": "paul-machliss",
+ "name": "Paul Machliss",
+ "source_url": "https://fridaymatinee.in/people/paul-machliss",
+ "captured_at": "2026-10-02T01:15:32.839354+00:00",
+ "person": {
+  "name": "Paul Machliss",
+  "photo": "https://image.tmdb.org/t/p/w185/z53dUMSEHuspGr41KOsH9I3w2qQ.jpg",
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 387,
+   "movie_slug": "the-flash",
+   "title": "The Flash",
+   "year": 2023,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 879,
+   "movie_slug": "the-running-man",
+   "title": "The Running Man",
+   "year": 2025,
+   "kerala_gross": "₹7.5L"
+  },
+  {
+   "movie_id": 1095,
+   "movie_slug": "the-sheep-detectives",
+   "title": "The Sheep Detectives",
+   "year": 2026,
+   "kerala_gross": "₹22.1L"
+  }
+ ]
+}

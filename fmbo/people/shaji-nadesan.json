@@ -1,0 +1,41 @@
+{
+ "slug": "shaji-nadesan",
+ "name": "Shaji Nadesan",
+ "source_url": "https://fridaymatinee.in/people/shaji-nadesan",
+ "captured_at": "2026-10-02T10:24:32.711962+00:00",
+ "person": {
+  "name": "Shaji Nadesan",
+  "photo": null,
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 198,
+   "movie_slug": "ottu",
+   "title": "Ottu",
+   "year": 2022,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 523,
+   "movie_slug": "grrr",
+   "title": "Grrr..",
+   "year": 2024,
+   "kerala_gross": "₹2.9 Cr"
+  },
+  {
+   "movie_id": 886,
+   "movie_slug": "valathu-vashathe-kallan",
+   "title": "Valathu Vashathe Kallan",
+   "year": 2026,
+   "kerala_gross": "₹4.3 Cr"
+  }
+ ]
+}

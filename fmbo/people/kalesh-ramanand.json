@@ -1,0 +1,48 @@
+{
+ "slug": "kalesh-ramanand",
+ "name": "Kalesh Ramanand",
+ "source_url": "https://fridaymatinee.in/people/kalesh-ramanand",
+ "captured_at": "2026-10-01T23:37:10.791848+00:00",
+ "person": {
+  "name": "Kalesh Ramanand",
+  "photo": "https://image.tmdb.org/t/p/w185/865gFRupfBT3zPRNNl7AHnjcFwT.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 481,
+   "movie_slug": "neru",
+   "title": "Neru",
+   "year": 2023,
+   "kerala_gross": "₹35.9 Cr"
+  },
+  {
+   "movie_id": 489,
+   "movie_slug": "varshangalkku-shesham",
+   "title": "Varshangalkku Shesham",
+   "year": 2024,
+   "kerala_gross": "₹31.2 Cr"
+  },
+  {
+   "movie_id": 545,
+   "movie_slug": "secret",
+   "title": "Secret",
+   "year": 2024,
+   "kerala_gross": "₹15.6L"
+  },
+  {
+   "movie_id": 771,
+   "movie_slug": "vadakkan",
+   "title": "Vadakkan",
+   "year": 2025,
+   "kerala_gross": "₹25.5L"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slug": "santhi-mayadevi",
+ "name": "Santhi Mayadevi",
+ "source_url": "https://fridaymatinee.in/people/santhi-mayadevi",
+ "captured_at": "2026-10-02T10:11:22.180922+00:00",
+ "person": {
+  "name": "Santhi Mayadevi",
+  "photo": "https://image.tmdb.org/t/p/w185/pGnYtrkP2Duj7LPMvNMXCCMtilR.jpg",
+  "role": "Actor and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 12,
+   "movie_slug": "ganagandharvan",
+   "title": "Ganagandharvan",
+   "year": 2019,
+   "kerala_gross": "₹24.3L"
+  },
+  {
+   "movie_id": 264,
+   "movie_slug": "naalam-mura",
+   "title": "Naalam Mura",
+   "year": 2022,
+   "kerala_gross": "₹48.9L"
+  },
+  {
+   "movie_id": 481,
+   "movie_slug": "neru",
+   "title": "Neru",
+   "year": 2023,
+   "kerala_gross": "₹35.9 Cr"
+  },
+  {
+   "movie_id": 1012,
+   "movie_slug": "drishyam-3",
+   "title": "Drishyam 3",
+   "year": 2026,
+   "kerala_gross": "₹82.0 Cr"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "slug": "miya-george",
+ "name": "Miya George",
+ "source_url": "https://fridaymatinee.in/people/miya-george",
+ "captured_at": "2026-10-02T00:41:54.980244+00:00",
+ "person": {
+  "name": "Miya George",
+  "photo": "https://image.tmdb.org/t/p/w185/uO6GaN8qNLM5FRu6KGDeooVu6LL.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 48,
+   "movie_slug": "driving-licence",
+   "title": "Driving Licence",
+   "year": 2019,
+   "kerala_gross": "₹7.6 Cr"
+  },
+  {
+   "movie_id": 187,
+   "movie_slug": "cobra",
+   "title": "Cobra",
+   "year": 2022,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 302,
+   "movie_slug": "pranaya-vilasam",
+   "title": "Pranaya Vilasam",
+   "year": 2023,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 522,
+   "movie_slug": "thalavan",
+   "title": "Thalavan",
+   "year": 2024,
+   "kerala_gross": "₹11.1 Cr"
+  },
+  {
+   "movie_id": 1215,
+   "movie_slug": "thudakkam",
+   "title": "Thudakkam",
+   "year": 2026,
+   "kerala_gross": "₹22.3 Cr"
+  },
+  {
+   "movie_id": 1286,
+   "movie_slug": "cosmic-samson",
+   "title": "Cosmic Samson",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

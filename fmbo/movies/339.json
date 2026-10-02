@@ -1,0 +1,626 @@
+{
+ "id": 339,
+ "slug": "madraskaaran",
+ "source_url": "https://fridaymatinee.in/boxoffice/madraskaaran-339",
+ "captured_at": "2026-10-01T18:10:07.816741+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 339,
+    "title": "Madraskaaran",
+    "img": "https://image.tmdb.org/t/p/original/zw4imaAGB8cWa4mrwABxHiVS0KR.jpg",
+    "released": "2025-01-10",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt30985064",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "121 min",
+    "genre": "Action, Thriller",
+    "plot": "A minor argument between two strangers escalates into a life-altering conflict, exploring how a seemingly insignificant event can drastically alter a person's perception and circumstances.",
+    "released": "2025-01-10",
+    "director": "Vaali Mohan Das",
+    "directorSlug": "vaali-mohan-das",
+    "actors": [
+     "Shane Nigam",
+     "Kalaiyarasan",
+     "Niharika Konidela",
+     "Aishwarya Dutta",
+     "Karunas",
+     "Pandiarajan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.5",
+      "votes": 1499,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:29.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shane Nigam",
+     "character": "Sathyamurthy",
+     "slug": "shane-nigam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9KJqx2V9aRwcTuMh2FQmWj5HrAO.jpg"
+    },
+    {
+     "name": "Kalaiyarasan",
+     "character": "Durai Singam",
+     "slug": "kalaiyarasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4xaAqc7EFfcJXIS23yVJb6vZhLt.jpg"
+    },
+    {
+     "name": "Niharika Konidela",
+     "character": "Meera",
+     "slug": "niharika-konidela",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nWvUKPPjIA258PHmyvSFwLa5TEE.jpg"
+    },
+    {
+     "name": "Aishwarya Dutta",
+     "character": "Kalyani",
+     "slug": "aishwarya-dutta",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fugEK8RAF336R5Z0ZOIIj1Ry3Ui.jpg"
+    },
+    {
+     "name": "Karunas",
+     "character": null,
+     "slug": "karunas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dnh00MeOyiWFQ21l5az3UVJ5rhp.jpg"
+    },
+    {
+     "name": "Pandiarajan",
+     "character": null,
+     "slug": "pandiarajan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3h5prTq5zNecUqr3Z9dcepypxdy.jpg"
+    },
+    {
+     "name": "Super Subbarayan",
+     "character": null,
+     "slug": "super-subbarayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vPmu4SofjBtYSwOf5A4Mcnx2y90.jpg"
+    },
+    {
+     "name": "Geetha Kailasam",
+     "character": null,
+     "slug": "geetha-kailasam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8hOXtSmjgIVEq2LhSJAxNirTN95.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vaali Mohan Das",
+       "slug": "vaali-mohan-das"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vaali Mohan Das",
+       "slug": "vaali-mohan-das"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Prasanna S. Kumar",
+       "slug": "prasanna-s-kumar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "R Vasanthakumar",
+       "slug": "r-vasanthakumar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "B. Jagadish",
+       "slug": "b-jagadish"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "SR Productions",
+     "slug": "sr-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2053,
+      "name": "Lionsgate Play Apple TV Channel",
+      "logoPath": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2074,
+      "name": "Lionsgate Play Amazon Channel",
+      "logoPath": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 154870,
+    "totalShows": 69,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 107010,
+     "date": "2025-01-10"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 107010,
+     "date": "2025-01-10"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-10"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 339,
+    "title": "Madraskaaran",
+    "img": "https://image.tmdb.org/t/p/original/zw4imaAGB8cWa4mrwABxHiVS0KR.jpg",
+    "released": "2025-01-10",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt30985064",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "121 min",
+    "genre": "Action, Thriller",
+    "plot": "A minor argument between two strangers escalates into a life-altering conflict, exploring how a seemingly insignificant event can drastically alter a person's perception and circumstances.",
+    "released": "2025-01-10",
+    "director": "Vaali Mohan Das",
+    "directorSlug": "vaali-mohan-das",
+    "actors": [
+     "Shane Nigam",
+     "Kalaiyarasan",
+     "Niharika Konidela",
+     "Aishwarya Dutta",
+     "Karunas",
+     "Pandiarajan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.5",
+      "votes": 1499,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:29.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shane Nigam",
+     "character": "Sathyamurthy",
+     "slug": "shane-nigam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9KJqx2V9aRwcTuMh2FQmWj5HrAO.jpg"
+    },
+    {
+     "name": "Kalaiyarasan",
+     "character": "Durai Singam",
+     "slug": "kalaiyarasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4xaAqc7EFfcJXIS23yVJb6vZhLt.jpg"
+    },
+    {
+     "name": "Niharika Konidela",
+     "character": "Meera",
+     "slug": "niharika-konidela",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nWvUKPPjIA258PHmyvSFwLa5TEE.jpg"
+    },
+    {
+     "name": "Aishwarya Dutta",
+     "character": "Kalyani",
+     "slug": "aishwarya-dutta",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fugEK8RAF336R5Z0ZOIIj1Ry3Ui.jpg"
+    },
+    {
+     "name": "Karunas",
+     "character": null,
+     "slug": "karunas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dnh00MeOyiWFQ21l5az3UVJ5rhp.jpg"
+    },
+    {
+     "name": "Pandiarajan",
+     "character": null,
+     "slug": "pandiarajan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3h5prTq5zNecUqr3Z9dcepypxdy.jpg"
+    },
+    {
+     "name": "Super Subbarayan",
+     "character": null,
+     "slug": "super-subbarayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vPmu4SofjBtYSwOf5A4Mcnx2y90.jpg"
+    },
+    {
+     "name": "Geetha Kailasam",
+     "character": null,
+     "slug": "geetha-kailasam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8hOXtSmjgIVEq2LhSJAxNirTN95.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vaali Mohan Das",
+       "slug": "vaali-mohan-das"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vaali Mohan Das",
+       "slug": "vaali-mohan-das"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Prasanna S. Kumar",
+       "slug": "prasanna-s-kumar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "R Vasanthakumar",
+       "slug": "r-vasanthakumar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "B. Jagadish",
+       "slug": "b-jagadish"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "SR Productions",
+     "slug": "sr-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2053,
+      "name": "Lionsgate Play Apple TV Channel",
+      "logoPath": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2074,
+      "name": "Lionsgate Play Amazon Channel",
+      "logoPath": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-01-10",
+     "gross": 154870,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 69,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 154870,
+    "totalShows": 69,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 154870
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 154870
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-10"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 339,
+    "title": "Madraskaaran",
+    "img": "https://image.tmdb.org/t/p/original/zw4imaAGB8cWa4mrwABxHiVS0KR.jpg",
+    "released": "2025-01-10",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt30985064",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "121 min",
+    "genre": "Action, Thriller",
+    "plot": "A minor argument between two strangers escalates into a life-altering conflict, exploring how a seemingly insignificant event can drastically alter a person's perception and circumstances.",
+    "released": "2025-01-10",
+    "director": "Vaali Mohan Das",
+    "directorSlug": "vaali-mohan-das",
+    "actors": [
+     "Shane Nigam",
+     "Kalaiyarasan",
+     "Niharika Konidela",
+     "Aishwarya Dutta",
+     "Karunas",
+     "Pandiarajan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.5",
+      "votes": 1499,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:29.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shane Nigam",
+     "character": "Sathyamurthy",
+     "slug": "shane-nigam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9KJqx2V9aRwcTuMh2FQmWj5HrAO.jpg"
+    },
+    {
+     "name": "Kalaiyarasan",
+     "character": "Durai Singam",
+     "slug": "kalaiyarasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4xaAqc7EFfcJXIS23yVJb6vZhLt.jpg"
+    },
+    {
+     "name": "Niharika Konidela",
+     "character": "Meera",
+     "slug": "niharika-konidela",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nWvUKPPjIA258PHmyvSFwLa5TEE.jpg"
+    },
+    {
+     "name": "Aishwarya Dutta",
+     "character": "Kalyani",
+     "slug": "aishwarya-dutta",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fugEK8RAF336R5Z0ZOIIj1Ry3Ui.jpg"
+    },
+    {
+     "name": "Karunas",
+     "character": null,
+     "slug": "karunas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dnh00MeOyiWFQ21l5az3UVJ5rhp.jpg"
+    },
+    {
+     "name": "Pandiarajan",
+     "character": null,
+     "slug": "pandiarajan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3h5prTq5zNecUqr3Z9dcepypxdy.jpg"
+    },
+    {
+     "name": "Super Subbarayan",
+     "character": null,
+     "slug": "super-subbarayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vPmu4SofjBtYSwOf5A4Mcnx2y90.jpg"
+    },
+    {
+     "name": "Geetha Kailasam",
+     "character": null,
+     "slug": "geetha-kailasam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8hOXtSmjgIVEq2LhSJAxNirTN95.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vaali Mohan Das",
+       "slug": "vaali-mohan-das"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vaali Mohan Das",
+       "slug": "vaali-mohan-das"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Prasanna S. Kumar",
+       "slug": "prasanna-s-kumar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "R Vasanthakumar",
+       "slug": "r-vasanthakumar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "B. Jagadish",
+       "slug": "b-jagadish"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "SR Productions",
+     "slug": "sr-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2053,
+      "name": "Lionsgate Play Apple TV Channel",
+      "logoPath": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2074,
+      "name": "Lionsgate Play Amazon Channel",
+      "logoPath": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 154870,
+    "totalShows": 69,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 154870,
+     "date": "Trivandrum"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 154870,
+     "date": "Trivandrum"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-10"
+   }
+  }
+ }
+}

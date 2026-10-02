@@ -1,0 +1,55 @@
+{
+ "slug": "chunky-panday",
+ "name": "Chunky Panday",
+ "source_url": "https://fridaymatinee.in/people/chunky-panday",
+ "captured_at": "2026-10-01T21:38:55.176990+00:00",
+ "person": {
+  "name": "Chunky Panday",
+  "photo": "https://image.tmdb.org/t/p/w185/2dG7abdDNs3MVmrAa6HEBFKhch4.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 20,
+   "movie_slug": "housefull-4",
+   "title": "Housefull 4",
+   "year": 2019,
+   "kerala_gross": "₹23.7L"
+  },
+  {
+   "movie_id": 183,
+   "movie_slug": "liger",
+   "title": "Liger",
+   "year": 2022,
+   "kerala_gross": "₹33.1L"
+  },
+  {
+   "movie_id": 228,
+   "movie_slug": "sardar",
+   "title": "Sardar",
+   "year": 2022,
+   "kerala_gross": "₹94.9L"
+  },
+  {
+   "movie_id": 782,
+   "movie_slug": "son-of-sardaar-2",
+   "title": "Son of Sardaar 2",
+   "year": 2025,
+   "kerala_gross": "₹6.4L"
+  },
+  {
+   "movie_id": 976,
+   "movie_slug": "rahu-ketu",
+   "title": "Rahu Ketu",
+   "year": 2026,
+   "kerala_gross": "₹63K"
+  }
+ ]
+}

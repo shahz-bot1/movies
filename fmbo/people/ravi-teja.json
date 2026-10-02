@@ -1,0 +1,41 @@
+{
+ "slug": "ravi-teja",
+ "name": "Ravi Teja",
+ "source_url": "https://fridaymatinee.in/people/ravi-teja",
+ "captured_at": "2026-10-02T08:45:03.618818+00:00",
+ "person": {
+  "name": "Ravi Teja",
+  "photo": "https://image.tmdb.org/t/p/w185/5a9g645O30Qzhe3VFjvkhjnNfm2.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 495,
+   "movie_slug": "hanu-man",
+   "title": "Hanu-Man",
+   "year": 2024,
+   "kerala_gross": "₹16.0L"
+  },
+  {
+   "movie_id": 974,
+   "movie_slug": "bhartha-mahasayulaku-wignyapthi",
+   "title": "Bhartha Mahasayulaku Wignyapthi",
+   "year": 2026,
+   "kerala_gross": "₹72K"
+  },
+  {
+   "movie_id": 1239,
+   "movie_slug": "irumudi",
+   "title": "Irumudi",
+   "year": 2026,
+   "kerala_gross": "₹10.1L"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "slug": "karthik-subbaraj",
+ "name": "Karthik Subbaraj",
+ "source_url": "https://fridaymatinee.in/people/karthik-subbaraj",
+ "captured_at": "2026-10-01T23:41:21.893543+00:00",
+ "person": {
+  "name": "Karthik Subbaraj",
+  "photo": "https://image.tmdb.org/t/p/w185/7rituWQCNBfiOcxZ7vmaiIyMk7f.jpg",
+  "role": "Writer and director"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 4
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 453,
+   "movie_slug": "jigarthanda-double-x",
+   "title": "Jigarthanda Double X",
+   "year": 2023,
+   "kerala_gross": "₹2.1 Cr"
+  },
+  {
+   "movie_id": 636,
+   "movie_slug": "game-changer",
+   "title": "Game Changer",
+   "year": 2025,
+   "kerala_gross": "₹62.3L"
+  },
+  {
+   "movie_id": 678,
+   "movie_slug": "retro",
+   "title": "Retro",
+   "year": 2025,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 1318,
+   "movie_slug": "dorothy",
+   "title": "Dorothy",
+   "year": 2026,
+   "kerala_gross": "₹37.3L"
+  }
+ ]
+}

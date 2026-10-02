@@ -1,0 +1,309 @@
+{
+ "id": 39,
+ "slug": "happy-sardar",
+ "source_url": "https://fridaymatinee.in/boxoffice/happy-sardar-39",
+ "captured_at": "2026-10-01T17:57:55.880125+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 39,
+    "title": "Happy Sardar",
+    "img": "https://image.tmdb.org/t/p/original/vFtYwtid8mKT8Yaest5oiOZcROX.jpg",
+    "released": "2019-11-28",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt9808564",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "150 min",
+    "genre": "Comedy, Romance",
+    "plot": "Happy, a timid Sardar living in Patiala, finds his life turned upside down when he falls in love with Mary, a Malayali Knanaya Christian girl. His folks want a Punjabi wedding and Mary's father is adamant about having a Christian wedding.",
+    "released": "2019-11-28",
+    "director": "Geethika Sudip",
+    "directorSlug": "geethika-sudip",
+    "actors": [
+     "Kalidas Jayaram",
+     "Siddique",
+     "Javed Jaffrey",
+     "Sreenath Bhasi",
+     "Sharafudheen",
+     "Balu Varghese"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.3",
+      "votes": 304,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:58.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kalidas Jayaram",
+     "character": "Happy Singh",
+     "slug": "kalidas-jayaram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hwGNxY71w6MWmULoHvhPBWtgmVw.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Joysy Kochara",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Javed Jaffrey",
+     "character": "Inderpal Singh",
+     "slug": "javed-jaffrey",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5JvPPxLsDEUFy6qDVawM3Itl6NV.jpg"
+    },
+    {
+     "name": "Sreenath Bhasi",
+     "character": "Sharaf",
+     "slug": "sreenath-bhasi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oPsXUtaE0ZslhaGRdtww0ZpMRe7.jpg"
+    },
+    {
+     "name": "Sharafudheen",
+     "character": "Kakku",
+     "slug": "sharafudheen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/icEHwPLrRp2sAk3gzylO8ar4Hey.jpg"
+    },
+    {
+     "name": "Balu Varghese",
+     "character": "Iqbal Moos",
+     "slug": "balu-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v1Ydyfxe3bFxXiHB4cU5Hmoh5hV.jpg"
+    },
+    {
+     "name": "Merin Philip",
+     "character": "Mary Kochara",
+     "slug": "merin-philip",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ecbdRhiPF8v8obAUE3RE58GQAN6.jpg"
+    },
+    {
+     "name": "Siddhi Mahajankatti",
+     "character": "Pammi",
+     "slug": "siddhi-mahajankatti",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kzae0ancmePw8HpcPYyqnMCMaXl.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Geethika Sudip",
+       "slug": "geethika-sudip"
+      },
+      {
+       "name": "Sudip Joshy",
+       "slug": "sudip-joshy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sudip Joshy",
+       "slug": "sudip-joshy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Abinandhan Ramanujam",
+       "slug": "abinandhan-ramanujam"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Achicha Cinemas",
+     "slug": "achicha-cinemas",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3486954,
+    "totalShows": 819,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 561266,
+     "date": "2019-11-28"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 658643,
+     "date": "2019-12-01"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 16,
+     "last_week_position": 96
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-28"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 39,
+    "title": "Happy Sardar",
+    "img": "https://image.tmdb.org/t/p/original/vFtYwtid8mKT8Yaest5oiOZcROX.jpg",
+    "released": "2019-11-28",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt9808564",
+    "isRerelease": false
+   },
+   "omdb": "$e:1:props:allViews:date:omdb",
+   "cast": "$e:1:props:allViews:date:cast",
+   "crew": "$e:1:props:allViews:date:crew",
+   "companies": "$e:1:props:allViews:date:companies",
+   "ott": "$e:1:props:allViews:date:ott",
+   "boxoffice": [
+    {
+     "label": "2019-11-28",
+     "gross": 3128498,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 715,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-12-05",
+     "gross": 358456,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 104,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3486954,
+    "totalShows": 819,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 3128498,
+     "date": "$undefined"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3128498,
+     "date": "$undefined"
+    },
+    "chartPosition": "$e:1:props:allViews:date:summary:chartPosition"
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-28"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 39,
+    "title": "Happy Sardar",
+    "img": "https://image.tmdb.org/t/p/original/vFtYwtid8mKT8Yaest5oiOZcROX.jpg",
+    "released": "2019-11-28",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt9808564",
+    "isRerelease": false
+   },
+   "omdb": "$e:1:props:allViews:date:omdb",
+   "cast": "$e:1:props:allViews:date:cast",
+   "crew": "$e:1:props:allViews:date:crew",
+   "companies": "$e:1:props:allViews:date:companies",
+   "ott": "$e:1:props:allViews:date:ott",
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3486954,
+    "totalShows": 819,
+    "totalDays": 11,
+    "openingDay": {
+     "day": 1,
+     "gross": 1323166,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1323166,
+     "date": "Ernakulam"
+    },
+    "chartPosition": "$e:1:props:allViews:date:summary:chartPosition"
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-28"
+   }
+  }
+ }
+}

@@ -1,0 +1,1511 @@
+{
+ "id": 869,
+ "slug": "dude",
+ "source_url": "https://fridaymatinee.in/boxoffice/dude-869",
+ "captured_at": "2026-10-01T18:24:40.757280+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 869,
+    "title": "Dude",
+    "img": "https://image.tmdb.org/t/p/original/6DoLxt1LLXcBuNeByHsSGLiAB0L.jpg",
+    "released": "2025-10-17",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt36388163",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "140 min",
+    "genre": "Action, Comedy, Drama, Romance",
+    "plot": "Childhood friends Agan and Kural are inseparable. When Kural encounters romantic troubles, Agan must balance his hidden feelings for her with his desire to ensure her happiness.",
+    "released": "2025-10-17",
+    "director": "Keerthiswaran",
+    "directorSlug": "keerthiswaran",
+    "actors": [
+     "Pradeep Ranganathan",
+     "Mamitha Baiju",
+     "R. Sarathkumar",
+     "Hridhu Haroon",
+     "Neha Shetty",
+     "Dravid Selvam"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 10574,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.5",
+      "votes": 52,
+      "updatedAt": "2026-09-24T16:10:10.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Pradeep Ranganathan",
+     "character": "Agan",
+     "slug": "pradeep-ranganathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yfATc50b77UwlNxz9OrokPYnwRj.jpg"
+    },
+    {
+     "name": "Mamitha Baiju",
+     "character": "Kural",
+     "slug": "mamitha-baiju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uQ5PhUbDPSaSzulViEzlWqphDPH.jpg"
+    },
+    {
+     "name": "R. Sarathkumar",
+     "character": "Minister Athiyamaan Azhagappan",
+     "slug": "r-sarathkumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x2Bx2mxOvgvRzaLFlpKNGmKYkK2.jpg"
+    },
+    {
+     "name": "Hridhu Haroon",
+     "character": "Paari",
+     "slug": "hridhu-haroon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9Dz4Liv3a4EcQkNk3fCfIGheZCB.jpg"
+    },
+    {
+     "name": "Neha Shetty",
+     "character": "Amudha (cameo appearance)",
+     "slug": "neha-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qjU2jiwvU3DnXZ67M1IXe4HRZ3K.jpg"
+    },
+    {
+     "name": "Dravid Selvam",
+     "character": "Lux",
+     "slug": "dravid-selvam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aQdJr95KI1EWjum65eRF3NbHZIL.jpg"
+    },
+    {
+     "name": "Rohini",
+     "character": "Parvathy",
+     "slug": "rohini",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oeT5DXeqsTY17DtJLTGpQec91fr.jpg"
+    },
+    {
+     "name": "Aishwarya Sharma",
+     "character": "Samyuktha",
+     "slug": "aishwarya-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dyj581yl9XHWaRGLF0M1Tm758ZV.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Keerthiswaran",
+       "slug": "keerthiswaran"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Keerthiswaran",
+       "slug": "keerthiswaran"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sai Abhyankkar",
+       "slug": "sai-abhyankkar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Niketh Bommi",
+       "slug": "niketh-bommi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Barath Vikraman",
+       "slug": "barath-vikraman"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Naveen Yerneni",
+       "slug": "naveen-yerneni"
+      },
+      {
+       "name": "Y. Ravi Shankar",
+       "slug": "y-ravi-shankar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mythri Movie Makers",
+     "slug": "mythri-movie-makers",
+     "logo": "https://image.tmdb.org/t/p/w185/7kRvsVRhT76VTbhGLgJ2CrTgdpa.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-14",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-10-24": [
+     {
+      "id": 841,
+      "title": "Nellikkampoyil Night Riders",
+      "img": "https://image.tmdb.org/t/p/original/r12uu7c1tiuVBYNsveakFEkI8fj.jpg"
+     }
+    ],
+    "2025-10-17": [
+     {
+      "id": 866,
+      "title": "Paathirathri",
+      "img": "https://image.tmdb.org/t/p/original/utpxOviVGA0Qum2C4tTt0TTLTHz.jpg"
+     },
+     {
+      "id": 867,
+      "title": "Bison Kaalamaadan",
+      "img": "https://image.tmdb.org/t/p/original/5IPFJ2XFbYjdIw4912ZufCMolX.jpg"
+     },
+     {
+      "id": 868,
+      "title": "Diesel",
+      "img": "https://image.tmdb.org/t/p/original/8wAvlj7nh2sSmj3knqoZEJdJeu1.jpg"
+     }
+    ],
+    "2025-10-21": [
+     {
+      "id": 872,
+      "title": "Thamma",
+      "img": "https://image.tmdb.org/t/p/original/udkbDwBbysCGEydt0FHnl9dVO2k.jpg"
+     },
+     {
+      "id": 875,
+      "title": "Ek Deewane Ki Deewaniyat",
+      "img": "https://image.tmdb.org/t/p/original/1AfKrRPRPT0TtCTiK9uyBCgFjZS.jpg"
+     }
+    ],
+    "2025-10-30": [
+     {
+      "id": 876,
+      "title": "Dies Irae",
+      "img": "https://image.tmdb.org/t/p/original/123DlTiiezgLaJruVe7RiSi0RFf.jpg"
+     }
+    ],
+    "2025-11-07": [
+     {
+      "id": 877,
+      "title": "Predator: Badlands",
+      "img": "https://image.tmdb.org/t/p/original/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg"
+     },
+     {
+      "id": 880,
+      "title": "Innocent",
+      "img": "https://image.tmdb.org/t/p/original/A1z6Uhk63p6kh43mkuTfECIkcRQ.jpg"
+     },
+     {
+      "id": 899,
+      "title": "Ithiri Neram",
+      "img": "https://image.tmdb.org/t/p/original/vpyf5DG2SE3kMeR9zexiMglZy2P.jpg"
+     }
+    ],
+    "2025-11-12": [
+     {
+      "id": 878,
+      "title": "Now You See Me: Now You Dont",
+      "img": "https://image.tmdb.org/t/p/original/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
+     },
+     {
+      "id": 879,
+      "title": "The Running Man",
+      "img": "https://image.tmdb.org/t/p/original/yhWKTCYa0LK9kS6zcKGYc5Dx9xQ.jpg"
+     }
+    ],
+    "2025-10-31": [
+     {
+      "id": 887,
+      "title": "Aaryan",
+      "img": "https://image.tmdb.org/t/p/original/rRjh3zumdW89fNMe4tdjmALB1xG.jpg"
+     },
+     {
+      "id": 888,
+      "title": "Bugonia",
+      "img": "https://image.tmdb.org/t/p/original/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg"
+     },
+     {
+      "id": 889,
+      "title": "COMONDRA ALIEN",
+      "img": "https://image.tmdb.org/t/p/original/jIXzLgGIuamgAhwVYd70XO9Dj7f.jpg"
+     }
+    ],
+    "2025-11-13": [
+     {
+      "id": 915,
+      "title": "De De Pyaar De 2",
+      "img": "https://image.tmdb.org/t/p/original/g3J7r2t3L9HEgyWMX0Fki04Swtu.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-10-17",
+     "gross": 4615972,
+     "sold": 28002,
+     "unsold": 94836,
+     "shows": 477,
+     "occ": 22.8,
+     "hf": "0",
+     "almost": "15",
+     "ff": "25",
+     "cumul": 4615972,
+     "lastUpdatedAt": "2025-10-17 23:43:00"
+    },
+    {
+     "label": "2025-10-18",
+     "gross": 4934596.2,
+     "sold": 30132,
+     "unsold": 110038,
+     "shows": 553,
+     "occ": 21.5,
+     "hf": "2",
+     "almost": "12",
+     "ff": "20",
+     "cumul": 9550568.2,
+     "lastUpdatedAt": "2025-10-18 23:52:00"
+    },
+    {
+     "label": "2025-10-19",
+     "gross": 6167963,
+     "sold": 38640,
+     "unsold": 101043,
+     "shows": 555,
+     "occ": 27.66,
+     "hf": "3",
+     "almost": "21",
+     "ff": "30",
+     "cumul": 15718531.2,
+     "lastUpdatedAt": "2025-10-19 23:58:00"
+    },
+    {
+     "label": "2025-10-20",
+     "gross": 4452951.4,
+     "sold": 28630,
+     "unsold": 107665,
+     "shows": 552,
+     "occ": 21.01,
+     "hf": "0",
+     "almost": "8",
+     "ff": "11",
+     "cumul": 20171482.6,
+     "lastUpdatedAt": "2025-10-20 23:58:00"
+    },
+    {
+     "label": "2025-10-21",
+     "gross": 2321039.4,
+     "sold": 14985,
+     "unsold": 115172,
+     "shows": 526,
+     "occ": 11.51,
+     "hf": "2",
+     "almost": "7",
+     "ff": "5",
+     "cumul": 22492522,
+     "lastUpdatedAt": "2025-10-21 23:53:00"
+    },
+    {
+     "label": "2025-10-22",
+     "gross": 1813997.8,
+     "sold": 11665,
+     "unsold": 116454,
+     "shows": 511,
+     "occ": 9.1,
+     "hf": "1",
+     "almost": "2",
+     "ff": "1",
+     "cumul": 24306519.8,
+     "lastUpdatedAt": "2025-10-22 23:53:00"
+    },
+    {
+     "label": "2025-10-23",
+     "gross": 1578868.8,
+     "sold": 10210,
+     "unsold": 112366,
+     "shows": 490,
+     "occ": 8.33,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 25885388.6,
+     "lastUpdatedAt": "2025-10-23 23:53:00"
+    },
+    {
+     "label": "2025-10-24",
+     "gross": 1130846,
+     "sold": 7073,
+     "unsold": 70472,
+     "shows": 313,
+     "occ": 9.12,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 27016234.6,
+     "lastUpdatedAt": "2025-10-24 23:23:00"
+    },
+    {
+     "label": "2025-10-25",
+     "gross": 1622232,
+     "sold": 10034,
+     "unsold": 66363,
+     "shows": 308,
+     "occ": 13.13,
+     "hf": "1",
+     "almost": "2",
+     "ff": "2",
+     "cumul": 28638466.6,
+     "lastUpdatedAt": "2025-10-25 23:23:00"
+    },
+    {
+     "label": "2025-10-26",
+     "gross": 1827481,
+     "sold": 11478,
+     "unsold": 67132,
+     "shows": 312,
+     "occ": 14.6,
+     "hf": "0",
+     "almost": "3",
+     "ff": "5",
+     "cumul": 30465947.6,
+     "lastUpdatedAt": "2025-10-26 23:23:00"
+    },
+    {
+     "label": "2025-10-27",
+     "gross": 842289,
+     "sold": 5440,
+     "unsold": 67556,
+     "shows": 292,
+     "occ": 7.45,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 31308236.6,
+     "lastUpdatedAt": "2025-10-27 23:23:00"
+    },
+    {
+     "label": "2025-10-28",
+     "gross": 796256,
+     "sold": 5611,
+     "unsold": 64862,
+     "shows": 284,
+     "occ": 7.96,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 32104492.6,
+     "lastUpdatedAt": "2025-10-28 23:23:00"
+    },
+    {
+     "label": "2025-10-29",
+     "gross": 793900,
+     "sold": 5125,
+     "unsold": 62532,
+     "shows": 264,
+     "occ": 7.57,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 32898392.6,
+     "lastUpdatedAt": "2025-10-29 23:23:00"
+    },
+    {
+     "label": "2025-10-30",
+     "gross": 607271,
+     "sold": 3999,
+     "unsold": 48666,
+     "shows": 219,
+     "occ": 7.59,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 33505663.6,
+     "lastUpdatedAt": "2025-10-30 23:23:00"
+    },
+    {
+     "label": "2025-10-31",
+     "gross": 102983,
+     "sold": 532,
+     "unsold": 4997,
+     "shows": 33,
+     "occ": 9.62,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 33608646.6,
+     "lastUpdatedAt": "2025-10-31 23:28:00"
+    },
+    {
+     "label": "2025-11-01",
+     "gross": 113687,
+     "sold": 628,
+     "unsold": 4032,
+     "shows": 26,
+     "occ": 13.48,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 33722333.6,
+     "lastUpdatedAt": "2025-11-01 22:58:00"
+    },
+    {
+     "label": "2025-11-02",
+     "gross": 148329,
+     "sold": 798,
+     "unsold": 3771,
+     "shows": 25,
+     "occ": 17.47,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 33870662.6,
+     "lastUpdatedAt": "2025-11-02 21:28:00"
+    },
+    {
+     "label": "2025-11-03",
+     "gross": 68556,
+     "sold": 357,
+     "unsold": 3975,
+     "shows": 24,
+     "occ": 8.24,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 33939218.6,
+     "lastUpdatedAt": "2025-11-03 21:28:00"
+    },
+    {
+     "label": "2025-11-04",
+     "gross": 33531,
+     "sold": 305,
+     "unsold": 3403,
+     "shows": 19,
+     "occ": 8.23,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 33972749.6,
+     "lastUpdatedAt": "2025-11-04 21:28:00"
+    },
+    {
+     "label": "2025-11-05",
+     "gross": 30479,
+     "sold": 173,
+     "unsold": 3731,
+     "shows": 20,
+     "occ": 4.43,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 34003228.6,
+     "lastUpdatedAt": "2025-11-05 21:28:00"
+    },
+    {
+     "label": "2025-11-06",
+     "gross": 31681,
+     "sold": 183,
+     "unsold": 3199,
+     "shows": 17,
+     "occ": 5.41,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 34034909.6,
+     "lastUpdatedAt": "2025-11-06 21:28:00"
+    },
+    {
+     "label": "2025-11-07",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 173,
+     "shows": 1,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 34034909.6,
+     "lastUpdatedAt": "2025-11-07 14:13:00"
+    },
+    {
+     "label": "2025-11-08",
+     "gross": 24710,
+     "sold": 145,
+     "unsold": 294,
+     "shows": 3,
+     "occ": 33.03,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 34059619.6,
+     "lastUpdatedAt": "2025-11-08 22:53:00"
+    },
+    {
+     "label": "2025-11-09",
+     "gross": 27940,
+     "sold": 166,
+     "unsold": 272,
+     "shows": 3,
+     "occ": 37.9,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 34087559.6,
+     "lastUpdatedAt": "2025-11-09 23:03:00"
+    },
+    {
+     "label": "2025-11-10",
+     "gross": 9940,
+     "sold": 52,
+     "unsold": 413,
+     "shows": 3,
+     "occ": 11.18,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 34097499.6,
+     "lastUpdatedAt": "2025-11-10 23:03:00"
+    },
+    {
+     "label": "2025-11-11",
+     "gross": 12271,
+     "sold": 119,
+     "unsold": 228,
+     "shows": 2,
+     "occ": 34.29,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 34109770.6,
+     "lastUpdatedAt": "2025-11-11 23:03:00"
+    },
+    {
+     "label": "2025-11-12",
+     "gross": 8000,
+     "sold": 48,
+     "unsold": 417,
+     "shows": 3,
+     "occ": 10.32,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 34117770.6,
+     "lastUpdatedAt": "2025-11-12 23:03:00"
+    },
+    {
+     "label": "2025-11-13",
+     "gross": 8100,
+     "sold": 46,
+     "unsold": 419,
+     "shows": 3,
+     "occ": 9.89,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 34125870.6,
+     "lastUpdatedAt": "2025-11-13 23:03:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 34125870.6,
+    "totalShows": 5838,
+    "totalSeats": 1449057,
+    "totalSold": 214576,
+    "avgOcc": "14.8",
+    "totalDays": 28,
+    "totalHousefull": 25,
+    "totalAlmost": 86,
+    "totalFastFilling": 99,
+    "peakDay": {
+     "day": 3,
+     "gross": 6167963,
+     "date": "2025-10-19"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 4615972,
+     "date": "2025-10-17"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "28:8100:34125870.6"
+  },
+  "week": {
+   "movie": {
+    "id": 869,
+    "title": "Dude",
+    "img": "https://image.tmdb.org/t/p/original/6DoLxt1LLXcBuNeByHsSGLiAB0L.jpg",
+    "released": "2025-10-17",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt36388163",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "140 min",
+    "genre": "Action, Comedy, Drama, Romance",
+    "plot": "Childhood friends Agan and Kural are inseparable. When Kural encounters romantic troubles, Agan must balance his hidden feelings for her with his desire to ensure her happiness.",
+    "released": "2025-10-17",
+    "director": "Keerthiswaran",
+    "directorSlug": "keerthiswaran",
+    "actors": [
+     "Pradeep Ranganathan",
+     "Mamitha Baiju",
+     "R. Sarathkumar",
+     "Hridhu Haroon",
+     "Neha Shetty",
+     "Dravid Selvam"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 10574,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.5",
+      "votes": 52,
+      "updatedAt": "2026-09-24T16:10:10.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Pradeep Ranganathan",
+     "character": "Agan",
+     "slug": "pradeep-ranganathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yfATc50b77UwlNxz9OrokPYnwRj.jpg"
+    },
+    {
+     "name": "Mamitha Baiju",
+     "character": "Kural",
+     "slug": "mamitha-baiju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uQ5PhUbDPSaSzulViEzlWqphDPH.jpg"
+    },
+    {
+     "name": "R. Sarathkumar",
+     "character": "Minister Athiyamaan Azhagappan",
+     "slug": "r-sarathkumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x2Bx2mxOvgvRzaLFlpKNGmKYkK2.jpg"
+    },
+    {
+     "name": "Hridhu Haroon",
+     "character": "Paari",
+     "slug": "hridhu-haroon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9Dz4Liv3a4EcQkNk3fCfIGheZCB.jpg"
+    },
+    {
+     "name": "Neha Shetty",
+     "character": "Amudha (cameo appearance)",
+     "slug": "neha-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qjU2jiwvU3DnXZ67M1IXe4HRZ3K.jpg"
+    },
+    {
+     "name": "Dravid Selvam",
+     "character": "Lux",
+     "slug": "dravid-selvam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aQdJr95KI1EWjum65eRF3NbHZIL.jpg"
+    },
+    {
+     "name": "Rohini",
+     "character": "Parvathy",
+     "slug": "rohini",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oeT5DXeqsTY17DtJLTGpQec91fr.jpg"
+    },
+    {
+     "name": "Aishwarya Sharma",
+     "character": "Samyuktha",
+     "slug": "aishwarya-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dyj581yl9XHWaRGLF0M1Tm758ZV.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Keerthiswaran",
+       "slug": "keerthiswaran"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Keerthiswaran",
+       "slug": "keerthiswaran"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sai Abhyankkar",
+       "slug": "sai-abhyankkar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Niketh Bommi",
+       "slug": "niketh-bommi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Barath Vikraman",
+       "slug": "barath-vikraman"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Naveen Yerneni",
+       "slug": "naveen-yerneni"
+      },
+      {
+       "name": "Y. Ravi Shankar",
+       "slug": "y-ravi-shankar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mythri Movie Makers",
+     "slug": "mythri-movie-makers",
+     "logo": "https://image.tmdb.org/t/p/w185/7kRvsVRhT76VTbhGLgJ2CrTgdpa.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-14",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-10-24": [
+     {
+      "id": 841,
+      "title": "Nellikkampoyil Night Riders",
+      "img": "https://image.tmdb.org/t/p/original/r12uu7c1tiuVBYNsveakFEkI8fj.jpg"
+     }
+    ],
+    "2025-10-17": [
+     {
+      "id": 866,
+      "title": "Paathirathri",
+      "img": "https://image.tmdb.org/t/p/original/utpxOviVGA0Qum2C4tTt0TTLTHz.jpg"
+     },
+     {
+      "id": 867,
+      "title": "Bison Kaalamaadan",
+      "img": "https://image.tmdb.org/t/p/original/5IPFJ2XFbYjdIw4912ZufCMolX.jpg"
+     },
+     {
+      "id": 868,
+      "title": "Diesel",
+      "img": "https://image.tmdb.org/t/p/original/8wAvlj7nh2sSmj3knqoZEJdJeu1.jpg"
+     }
+    ],
+    "2025-10-21": [
+     {
+      "id": 872,
+      "title": "Thamma",
+      "img": "https://image.tmdb.org/t/p/original/udkbDwBbysCGEydt0FHnl9dVO2k.jpg"
+     },
+     {
+      "id": 875,
+      "title": "Ek Deewane Ki Deewaniyat",
+      "img": "https://image.tmdb.org/t/p/original/1AfKrRPRPT0TtCTiK9uyBCgFjZS.jpg"
+     }
+    ],
+    "2025-10-30": [
+     {
+      "id": 876,
+      "title": "Dies Irae",
+      "img": "https://image.tmdb.org/t/p/original/123DlTiiezgLaJruVe7RiSi0RFf.jpg"
+     }
+    ],
+    "2025-11-07": [
+     {
+      "id": 877,
+      "title": "Predator: Badlands",
+      "img": "https://image.tmdb.org/t/p/original/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg"
+     },
+     {
+      "id": 880,
+      "title": "Innocent",
+      "img": "https://image.tmdb.org/t/p/original/A1z6Uhk63p6kh43mkuTfECIkcRQ.jpg"
+     },
+     {
+      "id": 899,
+      "title": "Ithiri Neram",
+      "img": "https://image.tmdb.org/t/p/original/vpyf5DG2SE3kMeR9zexiMglZy2P.jpg"
+     }
+    ],
+    "2025-11-12": [
+     {
+      "id": 878,
+      "title": "Now You See Me: Now You Dont",
+      "img": "https://image.tmdb.org/t/p/original/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
+     },
+     {
+      "id": 879,
+      "title": "The Running Man",
+      "img": "https://image.tmdb.org/t/p/original/yhWKTCYa0LK9kS6zcKGYc5Dx9xQ.jpg"
+     }
+    ],
+    "2025-10-31": [
+     {
+      "id": 887,
+      "title": "Aaryan",
+      "img": "https://image.tmdb.org/t/p/original/rRjh3zumdW89fNMe4tdjmALB1xG.jpg"
+     },
+     {
+      "id": 888,
+      "title": "Bugonia",
+      "img": "https://image.tmdb.org/t/p/original/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg"
+     },
+     {
+      "id": 889,
+      "title": "COMONDRA ALIEN",
+      "img": "https://image.tmdb.org/t/p/original/jIXzLgGIuamgAhwVYd70XO9Dj7f.jpg"
+     }
+    ],
+    "2025-11-13": [
+     {
+      "id": 915,
+      "title": "De De Pyaar De 2",
+      "img": "https://image.tmdb.org/t/p/original/g3J7r2t3L9HEgyWMX0Fki04Swtu.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-10-17",
+     "gross": 25885388.599999998,
+     "sold": 162264,
+     "unsold": 757574,
+     "shows": 3664,
+     "occ": 17.64,
+     "hf": "10",
+     "almost": "67",
+     "ff": "92",
+     "cumul": 25885388.599999998,
+     "lastUpdatedAt": "2025-10-23 23:53:00"
+    },
+    {
+     "label": "2025-10-24",
+     "gross": 7620275,
+     "sold": 48760,
+     "unsold": 447583,
+     "shows": 1992,
+     "occ": 9.82,
+     "hf": "10",
+     "almost": "14",
+     "ff": "7",
+     "cumul": 33505663.599999998,
+     "lastUpdatedAt": "2025-10-30 23:23:00"
+    },
+    {
+     "label": "2025-10-31",
+     "gross": 529246,
+     "sold": 2976,
+     "unsold": 27108,
+     "shows": 164,
+     "occ": 9.89,
+     "hf": "5",
+     "almost": "5",
+     "ff": "0",
+     "cumul": 34034909.599999994,
+     "lastUpdatedAt": "2025-11-06 21:28:00"
+    },
+    {
+     "label": "2025-11-07",
+     "gross": 90961,
+     "sold": 576,
+     "unsold": 2216,
+     "shows": 18,
+     "occ": 20.63,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 34125870.599999994,
+     "lastUpdatedAt": "2025-11-13 23:03:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 34125870.599999994,
+    "totalShows": 5838,
+    "totalSeats": 1449057,
+    "totalSold": 214576,
+    "avgOcc": "14.8",
+    "totalDays": 4,
+    "totalHousefull": 25,
+    "totalAlmost": 86,
+    "totalFastFilling": 99,
+    "peakDay": {
+     "day": 1,
+     "gross": 25885388.599999998
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 25885388.599999998
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "4:90961:34125870.599999994"
+  },
+  "district": {
+   "movie": {
+    "id": 869,
+    "title": "Dude",
+    "img": "https://image.tmdb.org/t/p/original/6DoLxt1LLXcBuNeByHsSGLiAB0L.jpg",
+    "released": "2025-10-17",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt36388163",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "140 min",
+    "genre": "Action, Comedy, Drama, Romance",
+    "plot": "Childhood friends Agan and Kural are inseparable. When Kural encounters romantic troubles, Agan must balance his hidden feelings for her with his desire to ensure her happiness.",
+    "released": "2025-10-17",
+    "director": "Keerthiswaran",
+    "directorSlug": "keerthiswaran",
+    "actors": [
+     "Pradeep Ranganathan",
+     "Mamitha Baiju",
+     "R. Sarathkumar",
+     "Hridhu Haroon",
+     "Neha Shetty",
+     "Dravid Selvam"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 10574,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.5",
+      "votes": 52,
+      "updatedAt": "2026-09-24T16:10:10.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Pradeep Ranganathan",
+     "character": "Agan",
+     "slug": "pradeep-ranganathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yfATc50b77UwlNxz9OrokPYnwRj.jpg"
+    },
+    {
+     "name": "Mamitha Baiju",
+     "character": "Kural",
+     "slug": "mamitha-baiju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uQ5PhUbDPSaSzulViEzlWqphDPH.jpg"
+    },
+    {
+     "name": "R. Sarathkumar",
+     "character": "Minister Athiyamaan Azhagappan",
+     "slug": "r-sarathkumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x2Bx2mxOvgvRzaLFlpKNGmKYkK2.jpg"
+    },
+    {
+     "name": "Hridhu Haroon",
+     "character": "Paari",
+     "slug": "hridhu-haroon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9Dz4Liv3a4EcQkNk3fCfIGheZCB.jpg"
+    },
+    {
+     "name": "Neha Shetty",
+     "character": "Amudha (cameo appearance)",
+     "slug": "neha-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qjU2jiwvU3DnXZ67M1IXe4HRZ3K.jpg"
+    },
+    {
+     "name": "Dravid Selvam",
+     "character": "Lux",
+     "slug": "dravid-selvam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aQdJr95KI1EWjum65eRF3NbHZIL.jpg"
+    },
+    {
+     "name": "Rohini",
+     "character": "Parvathy",
+     "slug": "rohini",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oeT5DXeqsTY17DtJLTGpQec91fr.jpg"
+    },
+    {
+     "name": "Aishwarya Sharma",
+     "character": "Samyuktha",
+     "slug": "aishwarya-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dyj581yl9XHWaRGLF0M1Tm758ZV.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Keerthiswaran",
+       "slug": "keerthiswaran"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Keerthiswaran",
+       "slug": "keerthiswaran"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sai Abhyankkar",
+       "slug": "sai-abhyankkar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Niketh Bommi",
+       "slug": "niketh-bommi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Barath Vikraman",
+       "slug": "barath-vikraman"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Naveen Yerneni",
+       "slug": "naveen-yerneni"
+      },
+      {
+       "name": "Y. Ravi Shankar",
+       "slug": "y-ravi-shankar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mythri Movie Makers",
+     "slug": "mythri-movie-makers",
+     "logo": "https://image.tmdb.org/t/p/w185/7kRvsVRhT76VTbhGLgJ2CrTgdpa.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-14",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-10-24": [
+     {
+      "id": 841,
+      "title": "Nellikkampoyil Night Riders",
+      "img": "https://image.tmdb.org/t/p/original/r12uu7c1tiuVBYNsveakFEkI8fj.jpg"
+     }
+    ],
+    "2025-10-17": [
+     {
+      "id": 866,
+      "title": "Paathirathri",
+      "img": "https://image.tmdb.org/t/p/original/utpxOviVGA0Qum2C4tTt0TTLTHz.jpg"
+     },
+     {
+      "id": 867,
+      "title": "Bison Kaalamaadan",
+      "img": "https://image.tmdb.org/t/p/original/5IPFJ2XFbYjdIw4912ZufCMolX.jpg"
+     },
+     {
+      "id": 868,
+      "title": "Diesel",
+      "img": "https://image.tmdb.org/t/p/original/8wAvlj7nh2sSmj3knqoZEJdJeu1.jpg"
+     }
+    ],
+    "2025-10-21": [
+     {
+      "id": 872,
+      "title": "Thamma",
+      "img": "https://image.tmdb.org/t/p/original/udkbDwBbysCGEydt0FHnl9dVO2k.jpg"
+     },
+     {
+      "id": 875,
+      "title": "Ek Deewane Ki Deewaniyat",
+      "img": "https://image.tmdb.org/t/p/original/1AfKrRPRPT0TtCTiK9uyBCgFjZS.jpg"
+     }
+    ],
+    "2025-10-30": [
+     {
+      "id": 876,
+      "title": "Dies Irae",
+      "img": "https://image.tmdb.org/t/p/original/123DlTiiezgLaJruVe7RiSi0RFf.jpg"
+     }
+    ],
+    "2025-11-07": [
+     {
+      "id": 877,
+      "title": "Predator: Badlands",
+      "img": "https://image.tmdb.org/t/p/original/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg"
+     },
+     {
+      "id": 880,
+      "title": "Innocent",
+      "img": "https://image.tmdb.org/t/p/original/A1z6Uhk63p6kh43mkuTfECIkcRQ.jpg"
+     },
+     {
+      "id": 899,
+      "title": "Ithiri Neram",
+      "img": "https://image.tmdb.org/t/p/original/vpyf5DG2SE3kMeR9zexiMglZy2P.jpg"
+     }
+    ],
+    "2025-11-12": [
+     {
+      "id": 878,
+      "title": "Now You See Me: Now You Dont",
+      "img": "https://image.tmdb.org/t/p/original/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
+     },
+     {
+      "id": 879,
+      "title": "The Running Man",
+      "img": "https://image.tmdb.org/t/p/original/yhWKTCYa0LK9kS6zcKGYc5Dx9xQ.jpg"
+     }
+    ],
+    "2025-10-31": [
+     {
+      "id": 887,
+      "title": "Aaryan",
+      "img": "https://image.tmdb.org/t/p/original/rRjh3zumdW89fNMe4tdjmALB1xG.jpg"
+     },
+     {
+      "id": 888,
+      "title": "Bugonia",
+      "img": "https://image.tmdb.org/t/p/original/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg"
+     },
+     {
+      "id": 889,
+      "title": "COMONDRA ALIEN",
+      "img": "https://image.tmdb.org/t/p/original/jIXzLgGIuamgAhwVYd70XO9Dj7f.jpg"
+     }
+    ],
+    "2025-11-13": [
+     {
+      "id": 915,
+      "title": "De De Pyaar De 2",
+      "img": "https://image.tmdb.org/t/p/original/g3J7r2t3L9HEgyWMX0Fki04Swtu.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 8320549,
+     "sold": 43268,
+     "unsold": 187079,
+     "shows": 833,
+     "occ": 18.78,
+     "hf": "5",
+     "almost": "16",
+     "ff": "28",
+     "cumul": 8320549,
+     "lastUpdatedAt": "2025-11-13 23:03:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 6562066,
+     "sold": 36785,
+     "unsold": 163266,
+     "shows": 862,
+     "occ": 18.39,
+     "hf": "1",
+     "almost": "18",
+     "ff": "21",
+     "cumul": 14882615,
+     "lastUpdatedAt": "2025-11-13 14:13:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 3654455,
+     "sold": 25539,
+     "unsold": 156410,
+     "shows": 654,
+     "occ": 14.04,
+     "hf": "0",
+     "almost": "3",
+     "ff": "6",
+     "cumul": 18537070,
+     "lastUpdatedAt": "2025-11-06 21:28:00"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 3583836,
+     "sold": 27928,
+     "unsold": 184855,
+     "shows": 812,
+     "occ": 13.13,
+     "hf": "0",
+     "almost": "7",
+     "ff": "12",
+     "cumul": 22120906,
+     "lastUpdatedAt": "2025-11-06 17:53:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 2889055,
+     "sold": 16888,
+     "unsold": 69336,
+     "shows": 445,
+     "occ": 19.59,
+     "hf": "11",
+     "almost": "14",
+     "ff": "4",
+     "cumul": 25009961,
+     "lastUpdatedAt": "2025-10-31 15:48:00"
+    },
+    {
+     "label": "Kollam",
+     "gross": 1772104,
+     "sold": 11409,
+     "unsold": 96499,
+     "shows": 412,
+     "occ": 10.57,
+     "hf": "0",
+     "almost": "2",
+     "ff": "5",
+     "cumul": 26782065,
+     "lastUpdatedAt": "2025-10-30 21:28:00"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 1703066.6,
+     "sold": 13222,
+     "unsold": 69507,
+     "shows": 463,
+     "occ": 15.98,
+     "hf": "3",
+     "almost": "18",
+     "ff": "17",
+     "cumul": 28485131.6,
+     "lastUpdatedAt": "2025-10-30 22:43:00"
+    },
+    {
+     "label": "Kannur",
+     "gross": 1289671,
+     "sold": 8653,
+     "unsold": 47345,
+     "shows": 287,
+     "occ": 15.45,
+     "hf": "4",
+     "almost": "5",
+     "ff": "3",
+     "cumul": 29774802.6,
+     "lastUpdatedAt": "2025-11-01 19:38:00"
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 1047913,
+     "sold": 8245,
+     "unsold": 26426,
+     "shows": 118,
+     "occ": 23.78,
+     "hf": "0",
+     "almost": "0",
+     "ff": "1",
+     "cumul": 30822715.6,
+     "lastUpdatedAt": "2025-10-30 17:18:00"
+    },
+    {
+     "label": "Kottayam",
+     "gross": 955595,
+     "sold": 6436,
+     "unsold": 77408,
+     "shows": 268,
+     "occ": 7.68,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 31778310.6,
+     "lastUpdatedAt": "2025-10-30 20:38:00"
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 921144,
+     "sold": 6228,
+     "unsold": 64548,
+     "shows": 231,
+     "occ": 8.8,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 32699454.6,
+     "lastUpdatedAt": "2025-10-30 21:08:00"
+    },
+    {
+     "label": "Idukki",
+     "gross": 606464,
+     "sold": 4012,
+     "unsold": 51391,
+     "shows": 215,
+     "occ": 7.24,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 33305918.6,
+     "lastUpdatedAt": "2025-10-30 21:28:00"
+    },
+    {
+     "label": "Wayanad",
+     "gross": 481900,
+     "sold": 3947,
+     "unsold": 26865,
+     "shows": 159,
+     "occ": 12.81,
+     "hf": "0",
+     "almost": "2",
+     "ff": "2",
+     "cumul": 33787818.6,
+     "lastUpdatedAt": "2025-10-30 20:43:00"
+    },
+    {
+     "label": "Pathanamthitta",
+     "gross": 283275,
+     "sold": 1720,
+     "unsold": 10094,
+     "shows": 65,
+     "occ": 14.56,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 34071093.6,
+     "lastUpdatedAt": "2025-10-30 18:38:00"
+    },
+    {
+     "label": "Trivandrum",
+     "gross": 54777,
+     "sold": 296,
+     "unsold": 3452,
+     "shows": 14,
+     "occ": 7.9,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 34125870.6,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 34125870.6,
+    "totalShows": 5838,
+    "totalSeats": 1449057,
+    "totalSold": 214576,
+    "avgOcc": "14.8",
+    "totalDays": 15,
+    "totalHousefull": 25,
+    "totalAlmost": 86,
+    "totalFastFilling": 99,
+    "peakDay": {
+     "day": 1,
+     "gross": 8320549,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 8320549,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "15:54777:34125870.6"
+  }
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "slug": "lal",
+ "name": "Lal",
+ "source_url": "https://fridaymatinee.in/people/lal",
+ "captured_at": "2026-10-01T23:57:34.269150+00:00",
+ "person": {
+  "name": "Lal",
+  "photo": "https://image.tmdb.org/t/p/w185/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg",
+  "role": "Actor, director and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 16
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 30,
+   "movie_slug": "helen",
+   "title": "Helen",
+   "year": 2019,
+   "kerala_gross": "₹2.8 Cr"
+  },
+  {
+   "movie_id": 57,
+   "movie_slug": "anveshanam",
+   "title": "Anveshanam",
+   "year": 2020,
+   "kerala_gross": "₹52.9L"
+  },
+  {
+   "movie_id": 75,
+   "movie_slug": "kala",
+   "title": "Kala",
+   "year": 2021,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 83,
+   "movie_slug": "nizhal",
+   "title": "Nizhal",
+   "year": 2021,
+   "kerala_gross": "₹54.2L"
+  },
+  {
+   "movie_id": 163,
+   "movie_slug": "mahaveeryar",
+   "title": "Mahaveeryar",
+   "year": 2022,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 296,
+   "movie_slug": "dear-vaappi",
+   "title": "Dear Vaappi",
+   "year": 2023,
+   "kerala_gross": "₹17.9L"
+  },
+  {
+   "movie_id": 359,
+   "movie_slug": "ponniyin-selvan-part-2",
+   "title": "Ponniyin Selvan - Part 2",
+   "year": 2023,
+   "kerala_gross": "₹13.2 Cr"
+  },
+  {
+   "movie_id": 365,
+   "movie_slug": "2018",
+   "title": "2018",
+   "year": 2023,
+   "kerala_gross": "₹66.3 Cr"
+  },
+  {
+   "movie_id": 399,
+   "movie_slug": "maamannan",
+   "title": "Maamannan",
+   "year": 2023,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 416,
+   "movie_slug": "rdx-robert-dony-xavier",
+   "title": "RDX - Robert Dony Xavier",
+   "year": 2023,
+   "kerala_gross": "₹39.7 Cr"
+  },
+  {
+   "movie_id": 517,
+   "movie_slug": "nadikar",
+   "title": "Nadikar",
+   "year": 2024,
+   "kerala_gross": "₹3.0 Cr"
+  },
+  {
+   "movie_id": 698,
+   "movie_slug": "azadi",
+   "title": "Azadi",
+   "year": 2025,
+   "kerala_gross": "₹56.9L"
+  },
+  {
+   "movie_id": 723,
+   "movie_slug": "odum-kuthira-chaadum-kuthira",
+   "title": "Odum Kuthira Chaadum Kuthira",
+   "year": 2025,
+   "kerala_gross": "₹1.9 Cr"
+  },
+  {
+   "movie_id": 867,
+   "movie_slug": "bison-kaalamaadan",
+   "title": "Bison Kaalamaadan",
+   "year": 2025,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 1052,
+   "movie_slug": "leader",
+   "title": "Leader",
+   "year": 2026,
+   "kerala_gross": "₹2.8L"
+  },
+  {
+   "movie_id": 1306,
+   "movie_slug": "scene",
+   "title": "Scene",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

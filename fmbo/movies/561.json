@@ -1,0 +1,600 @@
+{
+ "id": 561,
+ "slug": "kondal",
+ "source_url": "https://fridaymatinee.in/boxoffice/kondal-561",
+ "captured_at": "2026-10-01T18:15:32.997540+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 561,
+    "title": "Kondal",
+    "img": "https://image.tmdb.org/t/p/original/lrkHnb08iTaljhZ4wV5JfpWdUUO.jpg",
+    "released": "2024-09-13",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29929060",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "144 min",
+    "genre": "Action, Drama",
+    "plot": "Manuel had to leave Munambam Harbour to work on St. Anthony's boat due to a serious problem in his hometown, Anchuthengu. Unexpected events on the boat changes the lives of Manuel and the people working there.",
+    "released": "2024-09-13",
+    "director": "Ajith Mampally",
+    "directorSlug": "ajith-mampally",
+    "actors": [
+     "Antony Varghese",
+     "Gauthami Nair",
+     "Raj B Shetty",
+     "Shabeer Kallarakkal",
+     "Sarath Sabha",
+     "Nebish Benson"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.3",
+      "votes": 864,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:45.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Antony Varghese",
+     "character": "Manuel",
+     "slug": "antony-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dKRa8ghSXw6J1OTcxMziZh3l1jb.jpg"
+    },
+    {
+     "name": "Gauthami Nair",
+     "character": "Ancy",
+     "slug": "gauthami-nair",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1wIExj47XEfvFfxMbsPGGqD73Vq.jpg"
+    },
+    {
+     "name": "Raj B Shetty",
+     "character": "Daniel",
+     "slug": "raj-b-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vlNvrGhaYzmRxhkd4GOKFNfSkHY.jpg"
+    },
+    {
+     "name": "Shabeer Kallarakkal",
+     "character": "Jude",
+     "slug": "shabeer-kallarakkal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b8yuWNUzW8d6jpLW15oE8lMQcXr.jpg"
+    },
+    {
+     "name": "Sarath Sabha",
+     "character": null,
+     "slug": "sarath-sabha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2gbYLvq36VCI23mLjnLm6HsgkpQ.jpg"
+    },
+    {
+     "name": "Nebish Benson",
+     "character": null,
+     "slug": "nebish-benson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w2jyWyV1A56r3BSTjwAPCeurxZW.jpg"
+    },
+    {
+     "name": "Jaya Kurup",
+     "character": null,
+     "slug": "jaya-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xLfDVFVXZANPixBPVVGM5Eo4q8B.jpg"
+    },
+    {
+     "name": "Prathibha",
+     "character": null,
+     "slug": "prathibha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fZDIIdX9A0kBhTEV7NqZHfe5YTY.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ajith Mampally",
+       "slug": "ajith-mampally"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ajith Mampally",
+       "slug": "ajith-mampally"
+      },
+      {
+       "name": "Roylin Robert",
+       "slug": "roylin-robert"
+      },
+      {
+       "name": "Satheesh Thonnakal",
+       "slug": "satheesh-thonnakal"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreejith Sarang",
+       "slug": "sreejith-sarang"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sophia Paul",
+       "slug": "sophia-paul"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Weekend Blockbusters",
+     "slug": "weekend-blockbusters",
+     "logo": "https://image.tmdb.org/t/p/w185/sXyxmudHMS51IqoSEadeydPqlK0.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-10-13",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 24385449.4,
+    "totalShows": 4906,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 4697558.399999999,
+     "date": "2024-09-13"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 4843288.000000001,
+     "date": "2024-09-15"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-09-13"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 561,
+    "title": "Kondal",
+    "img": "https://image.tmdb.org/t/p/original/lrkHnb08iTaljhZ4wV5JfpWdUUO.jpg",
+    "released": "2024-09-13",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29929060",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "144 min",
+    "genre": "Action, Drama",
+    "plot": "Manuel had to leave Munambam Harbour to work on St. Anthony's boat due to a serious problem in his hometown, Anchuthengu. Unexpected events on the boat changes the lives of Manuel and the people working there.",
+    "released": "2024-09-13",
+    "director": "Ajith Mampally",
+    "directorSlug": "ajith-mampally",
+    "actors": [
+     "Antony Varghese",
+     "Gauthami Nair",
+     "Raj B Shetty",
+     "Shabeer Kallarakkal",
+     "Sarath Sabha",
+     "Nebish Benson"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.3",
+      "votes": 864,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:45.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Antony Varghese",
+     "character": "Manuel",
+     "slug": "antony-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dKRa8ghSXw6J1OTcxMziZh3l1jb.jpg"
+    },
+    {
+     "name": "Gauthami Nair",
+     "character": "Ancy",
+     "slug": "gauthami-nair",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1wIExj47XEfvFfxMbsPGGqD73Vq.jpg"
+    },
+    {
+     "name": "Raj B Shetty",
+     "character": "Daniel",
+     "slug": "raj-b-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vlNvrGhaYzmRxhkd4GOKFNfSkHY.jpg"
+    },
+    {
+     "name": "Shabeer Kallarakkal",
+     "character": "Jude",
+     "slug": "shabeer-kallarakkal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b8yuWNUzW8d6jpLW15oE8lMQcXr.jpg"
+    },
+    {
+     "name": "Sarath Sabha",
+     "character": null,
+     "slug": "sarath-sabha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2gbYLvq36VCI23mLjnLm6HsgkpQ.jpg"
+    },
+    {
+     "name": "Nebish Benson",
+     "character": null,
+     "slug": "nebish-benson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w2jyWyV1A56r3BSTjwAPCeurxZW.jpg"
+    },
+    {
+     "name": "Jaya Kurup",
+     "character": null,
+     "slug": "jaya-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xLfDVFVXZANPixBPVVGM5Eo4q8B.jpg"
+    },
+    {
+     "name": "Prathibha",
+     "character": null,
+     "slug": "prathibha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fZDIIdX9A0kBhTEV7NqZHfe5YTY.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ajith Mampally",
+       "slug": "ajith-mampally"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ajith Mampally",
+       "slug": "ajith-mampally"
+      },
+      {
+       "name": "Roylin Robert",
+       "slug": "roylin-robert"
+      },
+      {
+       "name": "Satheesh Thonnakal",
+       "slug": "satheesh-thonnakal"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreejith Sarang",
+       "slug": "sreejith-sarang"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sophia Paul",
+       "slug": "sophia-paul"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Weekend Blockbusters",
+     "slug": "weekend-blockbusters",
+     "logo": "https://image.tmdb.org/t/p/w185/sXyxmudHMS51IqoSEadeydPqlK0.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-10-13",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-09-13",
+     "gross": 22316755.400000002,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4154,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-09-20",
+     "gross": 2068694,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 752,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 24385449.400000002,
+    "totalShows": 4906,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 22316755.400000002
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 22316755.400000002
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-09-13"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 561,
+    "title": "Kondal",
+    "img": "https://image.tmdb.org/t/p/original/lrkHnb08iTaljhZ4wV5JfpWdUUO.jpg",
+    "released": "2024-09-13",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29929060",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "144 min",
+    "genre": "Action, Drama",
+    "plot": "Manuel had to leave Munambam Harbour to work on St. Anthony's boat due to a serious problem in his hometown, Anchuthengu. Unexpected events on the boat changes the lives of Manuel and the people working there.",
+    "released": "2024-09-13",
+    "director": "Ajith Mampally",
+    "directorSlug": "ajith-mampally",
+    "actors": [
+     "Antony Varghese",
+     "Gauthami Nair",
+     "Raj B Shetty",
+     "Shabeer Kallarakkal",
+     "Sarath Sabha",
+     "Nebish Benson"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.3",
+      "votes": 864,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:45.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Antony Varghese",
+     "character": "Manuel",
+     "slug": "antony-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dKRa8ghSXw6J1OTcxMziZh3l1jb.jpg"
+    },
+    {
+     "name": "Gauthami Nair",
+     "character": "Ancy",
+     "slug": "gauthami-nair",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1wIExj47XEfvFfxMbsPGGqD73Vq.jpg"
+    },
+    {
+     "name": "Raj B Shetty",
+     "character": "Daniel",
+     "slug": "raj-b-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vlNvrGhaYzmRxhkd4GOKFNfSkHY.jpg"
+    },
+    {
+     "name": "Shabeer Kallarakkal",
+     "character": "Jude",
+     "slug": "shabeer-kallarakkal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/b8yuWNUzW8d6jpLW15oE8lMQcXr.jpg"
+    },
+    {
+     "name": "Sarath Sabha",
+     "character": null,
+     "slug": "sarath-sabha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2gbYLvq36VCI23mLjnLm6HsgkpQ.jpg"
+    },
+    {
+     "name": "Nebish Benson",
+     "character": null,
+     "slug": "nebish-benson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w2jyWyV1A56r3BSTjwAPCeurxZW.jpg"
+    },
+    {
+     "name": "Jaya Kurup",
+     "character": null,
+     "slug": "jaya-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xLfDVFVXZANPixBPVVGM5Eo4q8B.jpg"
+    },
+    {
+     "name": "Prathibha",
+     "character": null,
+     "slug": "prathibha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fZDIIdX9A0kBhTEV7NqZHfe5YTY.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ajith Mampally",
+       "slug": "ajith-mampally"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ajith Mampally",
+       "slug": "ajith-mampally"
+      },
+      {
+       "name": "Roylin Robert",
+       "slug": "roylin-robert"
+      },
+      {
+       "name": "Satheesh Thonnakal",
+       "slug": "satheesh-thonnakal"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sreejith Sarang",
+       "slug": "sreejith-sarang"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sophia Paul",
+       "slug": "sophia-paul"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Weekend Blockbusters",
+     "slug": "weekend-blockbusters",
+     "logo": "https://image.tmdb.org/t/p/w185/sXyxmudHMS51IqoSEadeydPqlK0.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-10-13",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 24385449.4,
+    "totalShows": 4906,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 5034217,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5034217,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-09-13"
+   }
+  }
+ }
+}

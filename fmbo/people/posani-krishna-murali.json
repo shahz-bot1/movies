@@ -1,0 +1,41 @@
+{
+ "slug": "posani-krishna-murali",
+ "name": "Posani Krishna Murali",
+ "source_url": "https://fridaymatinee.in/people/posani-krishna-murali",
+ "captured_at": "2026-10-02T06:22:42.027281+00:00",
+ "person": {
+  "name": "Posani Krishna Murali",
+  "photo": "https://image.tmdb.org/t/p/w185/mJHo1EvOORv2FAK12zpFESDQfM.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 53,
+   "movie_slug": "sarileru-neekevvaru",
+   "title": "Sarileru Neekevvaru",
+   "year": 2020,
+   "kerala_gross": "₹7.9L"
+  },
+  {
+   "movie_id": 308,
+   "movie_slug": "kabzaa",
+   "title": "Kabzaa",
+   "year": 2023,
+   "kerala_gross": "₹40.7L"
+  },
+  {
+   "movie_id": 361,
+   "movie_slug": "agent",
+   "title": "Agent",
+   "year": 2023,
+   "kerala_gross": "₹45.2L"
+  }
+ ]
+}

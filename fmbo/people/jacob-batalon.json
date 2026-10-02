@@ -1,0 +1,41 @@
+{
+ "slug": "jacob-batalon",
+ "name": "Jacob Batalon",
+ "source_url": "https://fridaymatinee.in/people/jacob-batalon",
+ "captured_at": "2026-10-01T22:57:14.258509+00:00",
+ "person": {
+  "name": "Jacob Batalon",
+  "photo": "https://image.tmdb.org/t/p/w185/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 96,
+   "movie_slug": "spider-man-no-way-home",
+   "title": "Spider Man No Way Home",
+   "year": 2021,
+   "kerala_gross": "₹11.5 Cr"
+  },
+  {
+   "movie_id": 234,
+   "movie_slug": "novocaine",
+   "title": "Novocaine",
+   "year": 2025,
+   "kerala_gross": "₹2.2L"
+  },
+  {
+   "movie_id": 675,
+   "movie_slug": "spider-man-brand-new-day",
+   "title": "Spider-Man: Brand New Day",
+   "year": 2026,
+   "kerala_gross": "₹35.7 Cr"
+  }
+ ]
+}

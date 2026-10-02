@@ -1,0 +1,650 @@
+{
+ "id": 109,
+ "slug": "valimai",
+ "source_url": "https://fridaymatinee.in/boxoffice/valimai-109",
+ "captured_at": "2026-10-01T18:01:17.677984+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 109,
+    "title": "Valimai",
+    "img": "https://image.tmdb.org/t/p/original/zlh80l4fmOZy8KL34QVBtVjqYFs.jpg",
+    "released": "2022-02-23",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10806040",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "179 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "A honest cop tries to track down the brain behind a series of robberies and murders, but things turn personal when his family become pawns in the criminal's game.",
+    "released": "2022-02-24",
+    "director": "H. Vinoth",
+    "directorSlug": "h-vinoth",
+    "actors": [
+     "Ajith Kumar",
+     "Huma Qureshi",
+     "Kartikeya Gummakonda",
+     "Gurbani Judge",
+     "Sumithra",
+     "Achyuth Kumar"
+    ],
+    "awards": "4 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 21598,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": "40%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ajith Kumar",
+     "character": "ACP Arjun Kumar IPS",
+     "slug": "ajith-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bCS0pp7YNHoXJvHObBLoOJRUUYs.jpg"
+    },
+    {
+     "name": "Huma Qureshi",
+     "character": "Sophia",
+     "slug": "huma-qureshi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nJWauZQdRjMJxwY3UP4SXrqh9CM.jpg"
+    },
+    {
+     "name": "Kartikeya Gummakonda",
+     "character": "'Wolf Ranga' Naren",
+     "slug": "kartikeya-gummakonda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gp8vG7ePvuiP7yVZYdLVrTqx7Y3.jpg"
+    },
+    {
+     "name": "Gurbani Judge",
+     "character": "Sara",
+     "slug": "gurbani-judge",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vV8ohzVAaTCWG4rbYiIk2veBGSr.jpg"
+    },
+    {
+     "name": "Sumithra",
+     "character": "Lakshmi",
+     "slug": "sumithra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yqK5REqTdG5wPPw4wkOAT46NwxL.jpg"
+    },
+    {
+     "name": "Achyuth Kumar",
+     "character": "Kothandam",
+     "slug": "achyuth-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zO1MoCgaz0RxILjga8VYXguROMp.jpg"
+    },
+    {
+     "name": "G. M. Sundar",
+     "character": "IG Arasu",
+     "slug": "g-m-sundar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hMYrf0wmw9XPiICyOWXYmDIucFV.jpg"
+    },
+    {
+     "name": "Raj Aiyyappa",
+     "character": "'Kutty' Ashok",
+     "slug": "raj-aiyyappa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eKzfkAr7tK1tUZrLw9id473NRYn.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "H. Vinoth",
+       "slug": "h-vinoth"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "H. Vinoth",
+       "slug": "h-vinoth"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Yuvan Shankar Raja",
+       "slug": "yuvan-shankar-raja"
+      },
+      {
+       "name": "Ghibran",
+       "slug": "ghibran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nirav Shah",
+       "slug": "nirav-shah"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vijay Velukutty",
+       "slug": "vijay-velukutty"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Boney Kapoor",
+       "slug": "boney-kapoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Bayview Projects",
+     "slug": "bayview-projects",
+     "logo": null
+    },
+    {
+     "name": "Zee Studios",
+     "slug": "zee-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-03-25",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 14848172,
+    "totalShows": 2581,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 6016315,
+     "date": "2022-02-24"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 6016315,
+     "date": "2022-02-24"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 33,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-02-23"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 109,
+    "title": "Valimai",
+    "img": "https://image.tmdb.org/t/p/original/zlh80l4fmOZy8KL34QVBtVjqYFs.jpg",
+    "released": "2022-02-23",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10806040",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "179 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "A honest cop tries to track down the brain behind a series of robberies and murders, but things turn personal when his family become pawns in the criminal's game.",
+    "released": "2022-02-24",
+    "director": "H. Vinoth",
+    "directorSlug": "h-vinoth",
+    "actors": [
+     "Ajith Kumar",
+     "Huma Qureshi",
+     "Kartikeya Gummakonda",
+     "Gurbani Judge",
+     "Sumithra",
+     "Achyuth Kumar"
+    ],
+    "awards": "4 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 21598,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": "40%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ajith Kumar",
+     "character": "ACP Arjun Kumar IPS",
+     "slug": "ajith-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bCS0pp7YNHoXJvHObBLoOJRUUYs.jpg"
+    },
+    {
+     "name": "Huma Qureshi",
+     "character": "Sophia",
+     "slug": "huma-qureshi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nJWauZQdRjMJxwY3UP4SXrqh9CM.jpg"
+    },
+    {
+     "name": "Kartikeya Gummakonda",
+     "character": "'Wolf Ranga' Naren",
+     "slug": "kartikeya-gummakonda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gp8vG7ePvuiP7yVZYdLVrTqx7Y3.jpg"
+    },
+    {
+     "name": "Gurbani Judge",
+     "character": "Sara",
+     "slug": "gurbani-judge",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vV8ohzVAaTCWG4rbYiIk2veBGSr.jpg"
+    },
+    {
+     "name": "Sumithra",
+     "character": "Lakshmi",
+     "slug": "sumithra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yqK5REqTdG5wPPw4wkOAT46NwxL.jpg"
+    },
+    {
+     "name": "Achyuth Kumar",
+     "character": "Kothandam",
+     "slug": "achyuth-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zO1MoCgaz0RxILjga8VYXguROMp.jpg"
+    },
+    {
+     "name": "G. M. Sundar",
+     "character": "IG Arasu",
+     "slug": "g-m-sundar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hMYrf0wmw9XPiICyOWXYmDIucFV.jpg"
+    },
+    {
+     "name": "Raj Aiyyappa",
+     "character": "'Kutty' Ashok",
+     "slug": "raj-aiyyappa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eKzfkAr7tK1tUZrLw9id473NRYn.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "H. Vinoth",
+       "slug": "h-vinoth"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "H. Vinoth",
+       "slug": "h-vinoth"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Yuvan Shankar Raja",
+       "slug": "yuvan-shankar-raja"
+      },
+      {
+       "name": "Ghibran",
+       "slug": "ghibran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nirav Shah",
+       "slug": "nirav-shah"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vijay Velukutty",
+       "slug": "vijay-velukutty"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Boney Kapoor",
+       "slug": "boney-kapoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Bayview Projects",
+     "slug": "bayview-projects",
+     "logo": null
+    },
+    {
+     "name": "Zee Studios",
+     "slug": "zee-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-03-25",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-02-24",
+     "gross": 14848172,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2581,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 14848172,
+    "totalShows": 2581,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 14848172
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 14848172
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 33,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-02-23"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 109,
+    "title": "Valimai",
+    "img": "https://image.tmdb.org/t/p/original/zlh80l4fmOZy8KL34QVBtVjqYFs.jpg",
+    "released": "2022-02-23",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10806040",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "179 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "A honest cop tries to track down the brain behind a series of robberies and murders, but things turn personal when his family become pawns in the criminal's game.",
+    "released": "2022-02-24",
+    "director": "H. Vinoth",
+    "directorSlug": "h-vinoth",
+    "actors": [
+     "Ajith Kumar",
+     "Huma Qureshi",
+     "Kartikeya Gummakonda",
+     "Gurbani Judge",
+     "Sumithra",
+     "Achyuth Kumar"
+    ],
+    "awards": "4 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 21598,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": "40%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Ajith Kumar",
+     "character": "ACP Arjun Kumar IPS",
+     "slug": "ajith-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bCS0pp7YNHoXJvHObBLoOJRUUYs.jpg"
+    },
+    {
+     "name": "Huma Qureshi",
+     "character": "Sophia",
+     "slug": "huma-qureshi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nJWauZQdRjMJxwY3UP4SXrqh9CM.jpg"
+    },
+    {
+     "name": "Kartikeya Gummakonda",
+     "character": "'Wolf Ranga' Naren",
+     "slug": "kartikeya-gummakonda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gp8vG7ePvuiP7yVZYdLVrTqx7Y3.jpg"
+    },
+    {
+     "name": "Gurbani Judge",
+     "character": "Sara",
+     "slug": "gurbani-judge",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vV8ohzVAaTCWG4rbYiIk2veBGSr.jpg"
+    },
+    {
+     "name": "Sumithra",
+     "character": "Lakshmi",
+     "slug": "sumithra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yqK5REqTdG5wPPw4wkOAT46NwxL.jpg"
+    },
+    {
+     "name": "Achyuth Kumar",
+     "character": "Kothandam",
+     "slug": "achyuth-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zO1MoCgaz0RxILjga8VYXguROMp.jpg"
+    },
+    {
+     "name": "G. M. Sundar",
+     "character": "IG Arasu",
+     "slug": "g-m-sundar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hMYrf0wmw9XPiICyOWXYmDIucFV.jpg"
+    },
+    {
+     "name": "Raj Aiyyappa",
+     "character": "'Kutty' Ashok",
+     "slug": "raj-aiyyappa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eKzfkAr7tK1tUZrLw9id473NRYn.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "H. Vinoth",
+       "slug": "h-vinoth"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "H. Vinoth",
+       "slug": "h-vinoth"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Yuvan Shankar Raja",
+       "slug": "yuvan-shankar-raja"
+      },
+      {
+       "name": "Ghibran",
+       "slug": "ghibran"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Nirav Shah",
+       "slug": "nirav-shah"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vijay Velukutty",
+       "slug": "vijay-velukutty"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Boney Kapoor",
+       "slug": "boney-kapoor"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Bayview Projects",
+     "slug": "bayview-projects",
+     "logo": null
+    },
+    {
+     "name": "Zee Studios",
+     "slug": "zee-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-03-25",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 14848172,
+    "totalShows": 2581,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 3368320,
+     "date": "Thiruvananthapuram"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3368320,
+     "date": "Thiruvananthapuram"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 33,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-02-23"
+   }
+  }
+ }
+}

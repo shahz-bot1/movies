@@ -1,0 +1,41 @@
+{
+ "slug": "rajesh-kumar",
+ "name": "Rajesh Kumar",
+ "source_url": "https://fridaymatinee.in/people/rajesh-kumar",
+ "captured_at": "2026-10-02T08:32:49.259568+00:00",
+ "person": {
+  "name": "Rajesh Kumar",
+  "photo": "https://image.tmdb.org/t/p/w185/vat8qbqIeumutuToGX0VrtA06M6.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 732,
+   "movie_slug": "saiyaara",
+   "title": "Saiyaara",
+   "year": 2025,
+   "kerala_gross": "₹2.3 Cr"
+  },
+  {
+   "movie_id": 840,
+   "movie_slug": "nishaanchi",
+   "title": "Nishaanchi",
+   "year": 2025,
+   "kerala_gross": "₹52K"
+  },
+  {
+   "movie_id": 1220,
+   "movie_slug": "ohh-my-dog",
+   "title": "Ohh My Dog",
+   "year": 2026,
+   "kerala_gross": "₹57K"
+  }
+ ]
+}

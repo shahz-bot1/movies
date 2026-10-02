@@ -1,0 +1,670 @@
+{
+ "id": 305,
+ "slug": "anpodu-kanmani",
+ "source_url": "https://fridaymatinee.in/boxoffice/anpodu-kanmani-305",
+ "captured_at": "2026-10-01T18:09:35.443119+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 305,
+    "title": "Anpodu Kanmani",
+    "img": "https://image.tmdb.org/t/p/original/111yzi89ZQlF4IAgM4ZYlshMobx.jpg",
+    "released": "2025-01-24",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31616118",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "119 min",
+    "genre": "Drama, Family",
+    "plot": "A newlywed couple faces the amusing challenges of balancing their modern lifestyle with traditional family expectations in Kerala, leading to a series of heartwarming and comedic situations.",
+    "released": "2025-01-24",
+    "director": "Liju Thomaz",
+    "directorSlug": "liju-thomaz",
+    "actors": [
+     "Arjun Ashokan",
+     "Anagha Narayanan",
+     "Mridul Nair",
+     "Althaf Salim",
+     "Maala Parvathi",
+     "Navas Vallikkunnu"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.2",
+      "votes": 2454,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:35.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Arjun Ashokan",
+     "character": "Nakulan",
+     "slug": "arjun-ashokan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fA9V9ImvGlLGQ9HWB68j8d8eo0J.jpg"
+    },
+    {
+     "name": "Anagha Narayanan",
+     "character": "Shalini",
+     "slug": "anagha-narayanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/drJKQc62Ezhq5BljdZM1ljoJ9AE.jpg"
+    },
+    {
+     "name": "Mridul Nair",
+     "character": "Jithu",
+     "slug": "mridul-nair",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Althaf Salim",
+     "character": "Rafeeq",
+     "slug": "althaf-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wYFAsF8f4Ak26c4t5J1IfBBxP0W.jpg"
+    },
+    {
+     "name": "Maala Parvathi",
+     "character": "Raajamma",
+     "slug": "maala-parvathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l0iW1LfapmsXcvJaLPuwb68L5Ll.jpg"
+    },
+    {
+     "name": "Navas Vallikkunnu",
+     "character": "Shukoor",
+     "slug": "navas-vallikkunnu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u94P7HiF3zvMcoyRhSgATlXT96h.jpg"
+    },
+    {
+     "name": "Johny Antony",
+     "character": "Dr. Rajeev",
+     "slug": "johny-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fzNgCkDfWEmFknCDuU81Ypftmzg.jpg"
+    },
+    {
+     "name": "Unni Raja",
+     "character": "Babu",
+     "slug": "unni-raja",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2LYy0cp2fOCRJB6zficuXB21Ubv.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Liju Thomaz",
+       "slug": "liju-thomaz"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Aneesh Koduvally",
+       "slug": "aneesh-koduvally"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Samuel Aby",
+       "slug": "samuel-aby"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sarin Raveendran",
+       "slug": "sarin-raveendran"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sunil S. Pillai",
+       "slug": "sunil-s-pillai"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vipin Pavithran",
+       "slug": "vipin-pavithran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Kreativefish",
+     "slug": "kreativefish",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 7340013,
+    "totalShows": 1981,
+    "totalDays": 18,
+    "openingDay": {
+     "day": 1,
+     "gross": 1036675,
+     "date": "2025-01-24"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 1419466,
+     "date": "2025-01-26"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-24"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 305,
+    "title": "Anpodu Kanmani",
+    "img": "https://image.tmdb.org/t/p/original/111yzi89ZQlF4IAgM4ZYlshMobx.jpg",
+    "released": "2025-01-24",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31616118",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "119 min",
+    "genre": "Drama, Family",
+    "plot": "A newlywed couple faces the amusing challenges of balancing their modern lifestyle with traditional family expectations in Kerala, leading to a series of heartwarming and comedic situations.",
+    "released": "2025-01-24",
+    "director": "Liju Thomaz",
+    "directorSlug": "liju-thomaz",
+    "actors": [
+     "Arjun Ashokan",
+     "Anagha Narayanan",
+     "Mridul Nair",
+     "Althaf Salim",
+     "Maala Parvathi",
+     "Navas Vallikkunnu"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.2",
+      "votes": 2454,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:35.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Arjun Ashokan",
+     "character": "Nakulan",
+     "slug": "arjun-ashokan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fA9V9ImvGlLGQ9HWB68j8d8eo0J.jpg"
+    },
+    {
+     "name": "Anagha Narayanan",
+     "character": "Shalini",
+     "slug": "anagha-narayanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/drJKQc62Ezhq5BljdZM1ljoJ9AE.jpg"
+    },
+    {
+     "name": "Mridul Nair",
+     "character": "Jithu",
+     "slug": "mridul-nair",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Althaf Salim",
+     "character": "Rafeeq",
+     "slug": "althaf-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wYFAsF8f4Ak26c4t5J1IfBBxP0W.jpg"
+    },
+    {
+     "name": "Maala Parvathi",
+     "character": "Raajamma",
+     "slug": "maala-parvathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l0iW1LfapmsXcvJaLPuwb68L5Ll.jpg"
+    },
+    {
+     "name": "Navas Vallikkunnu",
+     "character": "Shukoor",
+     "slug": "navas-vallikkunnu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u94P7HiF3zvMcoyRhSgATlXT96h.jpg"
+    },
+    {
+     "name": "Johny Antony",
+     "character": "Dr. Rajeev",
+     "slug": "johny-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fzNgCkDfWEmFknCDuU81Ypftmzg.jpg"
+    },
+    {
+     "name": "Unni Raja",
+     "character": "Babu",
+     "slug": "unni-raja",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2LYy0cp2fOCRJB6zficuXB21Ubv.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Liju Thomaz",
+       "slug": "liju-thomaz"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Aneesh Koduvally",
+       "slug": "aneesh-koduvally"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Samuel Aby",
+       "slug": "samuel-aby"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sarin Raveendran",
+       "slug": "sarin-raveendran"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sunil S. Pillai",
+       "slug": "sunil-s-pillai"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vipin Pavithran",
+       "slug": "vipin-pavithran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Kreativefish",
+     "slug": "kreativefish",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-01-24",
+     "gross": 6474928,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1755,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-31",
+     "gross": 864175,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 210,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-07",
+     "gross": 910,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 16,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 7340013,
+    "totalShows": 1981,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 6474928
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 6474928
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-24"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 305,
+    "title": "Anpodu Kanmani",
+    "img": "https://image.tmdb.org/t/p/original/111yzi89ZQlF4IAgM4ZYlshMobx.jpg",
+    "released": "2025-01-24",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31616118",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "119 min",
+    "genre": "Drama, Family",
+    "plot": "A newlywed couple faces the amusing challenges of balancing their modern lifestyle with traditional family expectations in Kerala, leading to a series of heartwarming and comedic situations.",
+    "released": "2025-01-24",
+    "director": "Liju Thomaz",
+    "directorSlug": "liju-thomaz",
+    "actors": [
+     "Arjun Ashokan",
+     "Anagha Narayanan",
+     "Mridul Nair",
+     "Althaf Salim",
+     "Maala Parvathi",
+     "Navas Vallikkunnu"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.2",
+      "votes": 2454,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:35.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Arjun Ashokan",
+     "character": "Nakulan",
+     "slug": "arjun-ashokan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fA9V9ImvGlLGQ9HWB68j8d8eo0J.jpg"
+    },
+    {
+     "name": "Anagha Narayanan",
+     "character": "Shalini",
+     "slug": "anagha-narayanan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/drJKQc62Ezhq5BljdZM1ljoJ9AE.jpg"
+    },
+    {
+     "name": "Mridul Nair",
+     "character": "Jithu",
+     "slug": "mridul-nair",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Althaf Salim",
+     "character": "Rafeeq",
+     "slug": "althaf-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wYFAsF8f4Ak26c4t5J1IfBBxP0W.jpg"
+    },
+    {
+     "name": "Maala Parvathi",
+     "character": "Raajamma",
+     "slug": "maala-parvathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l0iW1LfapmsXcvJaLPuwb68L5Ll.jpg"
+    },
+    {
+     "name": "Navas Vallikkunnu",
+     "character": "Shukoor",
+     "slug": "navas-vallikkunnu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u94P7HiF3zvMcoyRhSgATlXT96h.jpg"
+    },
+    {
+     "name": "Johny Antony",
+     "character": "Dr. Rajeev",
+     "slug": "johny-antony",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fzNgCkDfWEmFknCDuU81Ypftmzg.jpg"
+    },
+    {
+     "name": "Unni Raja",
+     "character": "Babu",
+     "slug": "unni-raja",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2LYy0cp2fOCRJB6zficuXB21Ubv.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Liju Thomaz",
+       "slug": "liju-thomaz"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Aneesh Koduvally",
+       "slug": "aneesh-koduvally"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Samuel Aby",
+       "slug": "samuel-aby"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Sarin Raveendran",
+       "slug": "sarin-raveendran"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sunil S. Pillai",
+       "slug": "sunil-s-pillai"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vipin Pavithran",
+       "slug": "vipin-pavithran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Kreativefish",
+     "slug": "kreativefish",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 7340013,
+    "totalShows": 1981,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1998786,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1998786,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-24"
+   }
+  }
+ }
+}

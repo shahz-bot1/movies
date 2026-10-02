@@ -1,0 +1,55 @@
+{
+ "slug": "pranav-mohanlal",
+ "name": "Pranav Mohanlal",
+ "source_url": "https://fridaymatinee.in/people/pranav-mohanlal",
+ "captured_at": "2026-10-02T06:25:30.151033+00:00",
+ "person": {
+  "name": "Pranav Mohanlal",
+  "photo": "https://image.tmdb.org/t/p/w185/nubzHZimxhAHdSBW7rkFXRPCajO.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 103,
+   "movie_slug": "hridayam",
+   "title": "Hridayam",
+   "year": 2022,
+   "kerala_gross": "₹18.9 Cr"
+  },
+  {
+   "movie_id": 489,
+   "movie_slug": "varshangalkku-shesham",
+   "title": "Varshangalkku Shesham",
+   "year": 2024,
+   "kerala_gross": "₹31.2 Cr"
+  },
+  {
+   "movie_id": 876,
+   "movie_slug": "dies-irae",
+   "title": "Dies Irae",
+   "year": 2025,
+   "kerala_gross": "₹32.8 Cr"
+  },
+  {
+   "movie_id": 89,
+   "movie_slug": "marakkar",
+   "title": "Marakkar",
+   "year": 2021,
+   "kerala_gross": "₹13.7 Cr"
+  },
+  {
+   "movie_id": 538,
+   "movie_slug": "barroz",
+   "title": "Barroz",
+   "year": 2024,
+   "kerala_gross": "₹8.6 Cr"
+  }
+ ]
+}

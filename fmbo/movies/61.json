@@ -1,0 +1,709 @@
+{
+ "id": 61,
+ "slug": "trance",
+ "source_url": "https://fridaymatinee.in/boxoffice/trance-61",
+ "captured_at": "2026-10-01T17:59:31.218527+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 61,
+    "title": "Trance",
+    "img": "https://image.tmdb.org/t/p/original/jur8vAsFMtwxqyAngXeXKZnqMSe.jpg",
+    "released": "2020-02-20",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt6720802",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "170 min",
+    "genre": "Thriller, Drama",
+    "plot": "A disheartened motivational speaker gets hired by a corporate to become a preacher until his live stint on television puts him and his service under the scanner.",
+    "released": "2020-02-20",
+    "director": "Anwar Rasheed",
+    "directorSlug": "anwar-rasheed",
+    "actors": [
+     "Fahadh Faasil",
+     "Nazriya Nazim",
+     "Dileesh Pothan",
+     "Gautham Vasudev Menon",
+     "Chemban Vinod Jose",
+     "Vinayakan"
+    ],
+    "awards": "8 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 10692,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.8",
+      "votes": 65,
+      "updatedAt": "2026-09-25T01:10:49.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Fahadh Faasil",
+     "character": "Viju Prasad / Pastor Joshua Carlton",
+     "slug": "fahadh-faasil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wmkwZWFHqMptqdt4HacMIAe8OBP.jpg"
+    },
+    {
+     "name": "Nazriya Nazim",
+     "character": "Esther Lopez",
+     "slug": "nazriya-nazim-fahadh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uLjyjyGFLzmCZgiwLwUJX2lzbMU.jpg"
+    },
+    {
+     "name": "Dileesh Pothan",
+     "character": "Avarachan",
+     "slug": "dileesh-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg"
+    },
+    {
+     "name": "Gautham Vasudev Menon",
+     "character": "Solomon Davis",
+     "slug": "gautham-vasudev-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+     "name": "Chemban Vinod Jose",
+     "character": "Isaac Thomas",
+     "slug": "chemban-vinod-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4bCAqhHMcPeoI41Emi4BBSXwZaj.jpg"
+    },
+    {
+     "name": "Vinayakan",
+     "character": "Thomas",
+     "slug": "vinayakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rUjCPYP3BtgO6MKNquikzLHLzym.jpg"
+    },
+    {
+     "name": "Soubin Shahir",
+     "character": "Mathews Thomas",
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Sreenath Bhasi",
+     "character": "Kunjan",
+     "slug": "sreenath-bhasi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oPsXUtaE0ZslhaGRdtww0ZpMRe7.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anwar Rasheed",
+       "slug": "anwar-rasheed"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vincent Vadakkan",
+       "slug": "vincent-vadakkan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sushin Shyam",
+       "slug": "sushin-shyam"
+      },
+      {
+       "name": "Jackson Vijayan",
+       "slug": "jackson-vijayan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Amal Neerad",
+       "slug": "amal-neerad"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen Prabhakar",
+       "slug": "praveen-prabhakar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Anwar Rasheed",
+       "slug": "anwar-rasheed"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Anwar Rasheed Entertainments",
+     "slug": "anwar-rasheed-entertainments",
+     "logo": "https://image.tmdb.org/t/p/w185/111WzUf5RFAfRaVrZeoFUKKUOar.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 38408755,
+    "totalShows": 3490,
+    "totalDays": 20,
+    "openingDay": {
+     "day": 1,
+     "gross": 8880510,
+     "date": "2020-02-20"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 8880510,
+     "date": "2020-02-20"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 1,
+     "peak_position": 10,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2021-02-20"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 61,
+    "title": "Trance",
+    "img": "https://image.tmdb.org/t/p/original/jur8vAsFMtwxqyAngXeXKZnqMSe.jpg",
+    "released": "2020-02-20",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt6720802",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "170 min",
+    "genre": "Thriller, Drama",
+    "plot": "A disheartened motivational speaker gets hired by a corporate to become a preacher until his live stint on television puts him and his service under the scanner.",
+    "released": "2020-02-20",
+    "director": "Anwar Rasheed",
+    "directorSlug": "anwar-rasheed",
+    "actors": [
+     "Fahadh Faasil",
+     "Nazriya Nazim",
+     "Dileesh Pothan",
+     "Gautham Vasudev Menon",
+     "Chemban Vinod Jose",
+     "Vinayakan"
+    ],
+    "awards": "8 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 10692,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.8",
+      "votes": 65,
+      "updatedAt": "2026-09-25T01:10:49.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Fahadh Faasil",
+     "character": "Viju Prasad / Pastor Joshua Carlton",
+     "slug": "fahadh-faasil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wmkwZWFHqMptqdt4HacMIAe8OBP.jpg"
+    },
+    {
+     "name": "Nazriya Nazim",
+     "character": "Esther Lopez",
+     "slug": "nazriya-nazim-fahadh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uLjyjyGFLzmCZgiwLwUJX2lzbMU.jpg"
+    },
+    {
+     "name": "Dileesh Pothan",
+     "character": "Avarachan",
+     "slug": "dileesh-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg"
+    },
+    {
+     "name": "Gautham Vasudev Menon",
+     "character": "Solomon Davis",
+     "slug": "gautham-vasudev-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+     "name": "Chemban Vinod Jose",
+     "character": "Isaac Thomas",
+     "slug": "chemban-vinod-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4bCAqhHMcPeoI41Emi4BBSXwZaj.jpg"
+    },
+    {
+     "name": "Vinayakan",
+     "character": "Thomas",
+     "slug": "vinayakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rUjCPYP3BtgO6MKNquikzLHLzym.jpg"
+    },
+    {
+     "name": "Soubin Shahir",
+     "character": "Mathews Thomas",
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Sreenath Bhasi",
+     "character": "Kunjan",
+     "slug": "sreenath-bhasi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oPsXUtaE0ZslhaGRdtww0ZpMRe7.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anwar Rasheed",
+       "slug": "anwar-rasheed"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vincent Vadakkan",
+       "slug": "vincent-vadakkan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sushin Shyam",
+       "slug": "sushin-shyam"
+      },
+      {
+       "name": "Jackson Vijayan",
+       "slug": "jackson-vijayan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Amal Neerad",
+       "slug": "amal-neerad"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen Prabhakar",
+       "slug": "praveen-prabhakar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Anwar Rasheed",
+       "slug": "anwar-rasheed"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Anwar Rasheed Entertainments",
+     "slug": "anwar-rasheed-entertainments",
+     "logo": "https://image.tmdb.org/t/p/w185/111WzUf5RFAfRaVrZeoFUKKUOar.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2020-02-20",
+     "gross": 29815875,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2060,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2020-02-27",
+     "gross": 5896280,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 997,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2020-03-05",
+     "gross": 2696600,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 433,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 38408755,
+    "totalShows": 3490,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 29815875
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 29815875
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 1,
+     "peak_position": 10,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2021-02-20"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 61,
+    "title": "Trance",
+    "img": "https://image.tmdb.org/t/p/original/jur8vAsFMtwxqyAngXeXKZnqMSe.jpg",
+    "released": "2020-02-20",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt6720802",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "170 min",
+    "genre": "Thriller, Drama",
+    "plot": "A disheartened motivational speaker gets hired by a corporate to become a preacher until his live stint on television puts him and his service under the scanner.",
+    "released": "2020-02-20",
+    "director": "Anwar Rasheed",
+    "directorSlug": "anwar-rasheed",
+    "actors": [
+     "Fahadh Faasil",
+     "Nazriya Nazim",
+     "Dileesh Pothan",
+     "Gautham Vasudev Menon",
+     "Chemban Vinod Jose",
+     "Vinayakan"
+    ],
+    "awards": "8 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 10692,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.8",
+      "votes": 65,
+      "updatedAt": "2026-09-25T01:10:49.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Fahadh Faasil",
+     "character": "Viju Prasad / Pastor Joshua Carlton",
+     "slug": "fahadh-faasil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wmkwZWFHqMptqdt4HacMIAe8OBP.jpg"
+    },
+    {
+     "name": "Nazriya Nazim",
+     "character": "Esther Lopez",
+     "slug": "nazriya-nazim-fahadh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uLjyjyGFLzmCZgiwLwUJX2lzbMU.jpg"
+    },
+    {
+     "name": "Dileesh Pothan",
+     "character": "Avarachan",
+     "slug": "dileesh-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg"
+    },
+    {
+     "name": "Gautham Vasudev Menon",
+     "character": "Solomon Davis",
+     "slug": "gautham-vasudev-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+     "name": "Chemban Vinod Jose",
+     "character": "Isaac Thomas",
+     "slug": "chemban-vinod-jose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4bCAqhHMcPeoI41Emi4BBSXwZaj.jpg"
+    },
+    {
+     "name": "Vinayakan",
+     "character": "Thomas",
+     "slug": "vinayakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rUjCPYP3BtgO6MKNquikzLHLzym.jpg"
+    },
+    {
+     "name": "Soubin Shahir",
+     "character": "Mathews Thomas",
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Sreenath Bhasi",
+     "character": "Kunjan",
+     "slug": "sreenath-bhasi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oPsXUtaE0ZslhaGRdtww0ZpMRe7.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Anwar Rasheed",
+       "slug": "anwar-rasheed"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vincent Vadakkan",
+       "slug": "vincent-vadakkan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sushin Shyam",
+       "slug": "sushin-shyam"
+      },
+      {
+       "name": "Jackson Vijayan",
+       "slug": "jackson-vijayan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Amal Neerad",
+       "slug": "amal-neerad"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen Prabhakar",
+       "slug": "praveen-prabhakar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Anwar Rasheed",
+       "slug": "anwar-rasheed"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Anwar Rasheed Entertainments",
+     "slug": "anwar-rasheed-entertainments",
+     "logo": "https://image.tmdb.org/t/p/w185/111WzUf5RFAfRaVrZeoFUKKUOar.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 38408755,
+    "totalShows": 3490,
+    "totalDays": 13,
+    "openingDay": {
+     "day": 1,
+     "gross": 16328508,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 16328508,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 1,
+     "peak_position": 10,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2021-02-20"
+   }
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "raveena-ravi",
+ "name": "Raveena Ravi",
+ "source_url": "https://fridaymatinee.in/people/raveena-ravi",
+ "captured_at": "2026-10-02T08:43:33.203616+00:00",
+ "person": {
+  "name": "Raveena Ravi",
+  "photo": "https://image.tmdb.org/t/p/w185/xFBHKFjcMp1ujk5UJeiuhf2vGwO.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 33,
+   "movie_slug": "jack-daniel",
+   "title": "Jack Daniel ",
+   "year": 2019,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 47,
+   "movie_slug": "thrissur-pooram",
+   "title": "Thrissur Pooram",
+   "year": 2019,
+   "kerala_gross": "₹66.6L"
+  },
+  {
+   "movie_id": 399,
+   "movie_slug": "maamannan",
+   "title": "Maamannan",
+   "year": 2023,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 698,
+   "movie_slug": "azadi",
+   "title": "Azadi",
+   "year": 2025,
+   "kerala_gross": "₹56.9L"
+  },
+  {
+   "movie_id": 832,
+   "movie_slug": "vala-story-of-a-bangle",
+   "title": "Vala - Story of a Bangle",
+   "year": 2025,
+   "kerala_gross": "₹83.7L"
+  }
+ ]
+}

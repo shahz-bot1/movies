@@ -1,0 +1,62 @@
+{
+ "slug": "ganga-meera",
+ "name": "Ganga Meera",
+ "source_url": "https://fridaymatinee.in/people/ganga-meera",
+ "captured_at": "2026-10-01T22:26:22.076846+00:00",
+ "person": {
+  "name": "Ganga Meera",
+  "photo": "https://image.tmdb.org/t/p/w185/wwJWbMN7p1AD42svmBcIFvIoxgb.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 27,
+   "movie_slug": "android-kunjappan",
+   "title": "Android Kunjappan",
+   "year": 2019,
+   "kerala_gross": "₹4.3 Cr"
+  },
+  {
+   "movie_id": 79,
+   "movie_slug": "aarkkariyam",
+   "title": "Aarkkariyam",
+   "year": 2021,
+   "kerala_gross": "₹7.4L"
+  },
+  {
+   "movie_id": 335,
+   "movie_slug": "pookkaalam",
+   "title": "Pookkaalam",
+   "year": 2023,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 604,
+   "movie_slug": "hello-mummy",
+   "title": "Hello Mummy",
+   "year": 2024,
+   "kerala_gross": "₹6.6 Cr"
+  },
+  {
+   "movie_id": 693,
+   "movie_slug": "lovely",
+   "title": "Lovely",
+   "year": 2025,
+   "kerala_gross": "₹37.0L"
+  },
+  {
+   "movie_id": 1105,
+   "movie_slug": "athiradi",
+   "title": "Athiradi",
+   "year": 2026,
+   "kerala_gross": "₹32.6 Cr"
+  }
+ ]
+}

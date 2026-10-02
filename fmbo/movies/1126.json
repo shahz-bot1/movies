@@ -1,0 +1,827 @@
+{
+ "id": 1126,
+ "slug": "passenger",
+ "source_url": "https://fridaymatinee.in/boxoffice/passenger-1126",
+ "captured_at": "2026-10-01T19:48:15.611324+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1126,
+    "title": "Passenger",
+    "img": "https://image.tmdb.org/t/p/original/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+    "released": "2026-05-20",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33763941",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "94 min",
+    "genre": "Horror, Thriller",
+    "plot": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
+    "released": "2026-05-20",
+    "director": "André Øvredal",
+    "directorSlug": "andre-vredal",
+    "actors": [
+     "Jacob Scipio",
+     "Lou Llobell",
+     "Melissa Leo",
+     "Joseph Lopez",
+     "Miles Fowler",
+     "Alan Trong"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.5",
+      "votes": 23183,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 899,
+      "updatedAt": "2026-09-24T10:11:18.000Z"
+     },
+     "rt": "46%",
+     "metascore": 52,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jacob Scipio",
+     "character": "Tyler Genocchio",
+     "slug": "jacob-scipio",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gcZSJy9LZ8DUDP480Q2K1OhL1Ct.jpg"
+    },
+    {
+     "name": "Lou Llobell",
+     "character": "Maddie Brecker",
+     "slug": "lou-llobell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vjCaa2EhEFgkraE6l2Vypzb93fz.jpg"
+    },
+    {
+     "name": "Melissa Leo",
+     "character": "Diana Larson",
+     "slug": "melissa-leo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ueAIX0MH68xCei3N8vFLS0EUEjY.jpg"
+    },
+    {
+     "name": "Joseph Lopez",
+     "character": "The Passenger",
+     "slug": "joseph-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tmhwEUByCT6iXlxmJvpTsX97Css.jpg"
+    },
+    {
+     "name": "Miles Fowler",
+     "character": "Lucas Tedesco",
+     "slug": "miles-fowler",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kDIkqRupU6ma4fNAvganW5cJgCq.jpg"
+    },
+    {
+     "name": "Alan Trong",
+     "character": "Daniel",
+     "slug": "alan-trong",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qdi0reLvACza2dQQO0AUITlW9Lv.jpg"
+    },
+    {
+     "name": "Devielle Johnson",
+     "character": "Neighborhood Watch Volunteer",
+     "slug": "devielle-johnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aLTVHMv4EMniPAXXzMmDoItCLvi.jpg"
+    },
+    {
+     "name": "James William Clark",
+     "character": "Brad Fuller",
+     "slug": "james-william-clark",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "André Øvredal",
+       "slug": "andre-vredal"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "T.W. Burgess",
+       "slug": "t-w-burgess"
+      },
+      {
+       "name": "Zachary Donohue",
+       "slug": "zachary-donohue"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Christopher Young",
+       "slug": "christopher-young"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Federico Verardi",
+       "slug": "federico-verardi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Martin Bernfeld",
+       "slug": "martin-bernfeld"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Walter Hamada",
+       "slug": "walter-hamada"
+      },
+      {
+       "name": "Gary Dauberman",
+       "slug": "gary-dauberman"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "18Hz Productions",
+     "slug": "18hz-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/27MdBWUI30G7TTcKIFRhZo1DvdE.png"
+    },
+    {
+     "name": "Coin Operated",
+     "slug": "coin-operated",
+     "logo": "https://image.tmdb.org/t/p/w185/w0ARek3q2bIKGfoM2WRsFOqyYCB.png"
+    },
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-05-29": [
+     {
+      "id": 1123,
+      "title": "Return of the Jungle",
+      "img": "https://image.tmdb.org/t/p/original/kXxSc3cG5wAB2wolqX8j0QKNwjD.jpg"
+     },
+     {
+      "id": 1124,
+      "title": "The Great Grand Superhero",
+      "img": "https://image.tmdb.org/t/p/original/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-05-29",
+     "gross": 23410,
+     "sold": 107,
+     "unsold": 682,
+     "shows": 6,
+     "occ": 13.56,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 23410,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-05-30",
+     "gross": 80670,
+     "sold": 319,
+     "unsold": 459,
+     "shows": 6,
+     "occ": 41,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 104080,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-05-31",
+     "gross": 40410,
+     "sold": 165,
+     "unsold": 497,
+     "shows": 5,
+     "occ": 24.92,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 144490,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-06-01",
+     "gross": 5750,
+     "sold": 27,
+     "unsold": 142,
+     "shows": 2,
+     "occ": 15.98,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 150240,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-06-02",
+     "gross": 14650,
+     "sold": 65,
+     "unsold": 0,
+     "shows": 1,
+     "occ": 100,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 164890,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-06-03",
+     "gross": 2820,
+     "sold": 14,
+     "unsold": 90,
+     "shows": 1,
+     "occ": 13.46,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 167710,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 167710,
+    "totalShows": 21,
+    "totalSeats": 2567,
+    "totalSold": 697,
+    "avgOcc": "27.2",
+    "totalDays": 6,
+    "totalHousefull": 3,
+    "totalAlmost": 3,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 2,
+     "gross": 80670,
+     "date": "2026-05-30"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 23410,
+     "date": "2026-05-29"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "6:2820:167710"
+  },
+  "week": {
+   "movie": {
+    "id": 1126,
+    "title": "Passenger",
+    "img": "https://image.tmdb.org/t/p/original/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+    "released": "2026-05-20",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33763941",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "94 min",
+    "genre": "Horror, Thriller",
+    "plot": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
+    "released": "2026-05-20",
+    "director": "André Øvredal",
+    "directorSlug": "andre-vredal",
+    "actors": [
+     "Jacob Scipio",
+     "Lou Llobell",
+     "Melissa Leo",
+     "Joseph Lopez",
+     "Miles Fowler",
+     "Alan Trong"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.5",
+      "votes": 23183,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 899,
+      "updatedAt": "2026-09-24T10:11:18.000Z"
+     },
+     "rt": "46%",
+     "metascore": 52,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jacob Scipio",
+     "character": "Tyler Genocchio",
+     "slug": "jacob-scipio",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gcZSJy9LZ8DUDP480Q2K1OhL1Ct.jpg"
+    },
+    {
+     "name": "Lou Llobell",
+     "character": "Maddie Brecker",
+     "slug": "lou-llobell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vjCaa2EhEFgkraE6l2Vypzb93fz.jpg"
+    },
+    {
+     "name": "Melissa Leo",
+     "character": "Diana Larson",
+     "slug": "melissa-leo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ueAIX0MH68xCei3N8vFLS0EUEjY.jpg"
+    },
+    {
+     "name": "Joseph Lopez",
+     "character": "The Passenger",
+     "slug": "joseph-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tmhwEUByCT6iXlxmJvpTsX97Css.jpg"
+    },
+    {
+     "name": "Miles Fowler",
+     "character": "Lucas Tedesco",
+     "slug": "miles-fowler",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kDIkqRupU6ma4fNAvganW5cJgCq.jpg"
+    },
+    {
+     "name": "Alan Trong",
+     "character": "Daniel",
+     "slug": "alan-trong",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qdi0reLvACza2dQQO0AUITlW9Lv.jpg"
+    },
+    {
+     "name": "Devielle Johnson",
+     "character": "Neighborhood Watch Volunteer",
+     "slug": "devielle-johnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aLTVHMv4EMniPAXXzMmDoItCLvi.jpg"
+    },
+    {
+     "name": "James William Clark",
+     "character": "Brad Fuller",
+     "slug": "james-william-clark",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "André Øvredal",
+       "slug": "andre-vredal"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "T.W. Burgess",
+       "slug": "t-w-burgess"
+      },
+      {
+       "name": "Zachary Donohue",
+       "slug": "zachary-donohue"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Christopher Young",
+       "slug": "christopher-young"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Federico Verardi",
+       "slug": "federico-verardi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Martin Bernfeld",
+       "slug": "martin-bernfeld"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Walter Hamada",
+       "slug": "walter-hamada"
+      },
+      {
+       "name": "Gary Dauberman",
+       "slug": "gary-dauberman"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "18Hz Productions",
+     "slug": "18hz-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/27MdBWUI30G7TTcKIFRhZo1DvdE.png"
+    },
+    {
+     "name": "Coin Operated",
+     "slug": "coin-operated",
+     "logo": "https://image.tmdb.org/t/p/w185/w0ARek3q2bIKGfoM2WRsFOqyYCB.png"
+    },
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-05-29": [
+     {
+      "id": 1123,
+      "title": "Return of the Jungle",
+      "img": "https://image.tmdb.org/t/p/original/kXxSc3cG5wAB2wolqX8j0QKNwjD.jpg"
+     },
+     {
+      "id": 1124,
+      "title": "The Great Grand Superhero",
+      "img": "https://image.tmdb.org/t/p/original/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-05-29",
+     "gross": 167710,
+     "sold": 697,
+     "unsold": 1870,
+     "shows": 21,
+     "occ": 27.15,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 167710,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 167710,
+    "totalShows": 21,
+    "totalSeats": 2567,
+    "totalSold": 697,
+    "avgOcc": "27.2",
+    "totalDays": 1,
+    "totalHousefull": 3,
+    "totalAlmost": 3,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 167710
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 167710
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "1:167710:167710"
+  },
+  "district": {
+   "movie": {
+    "id": 1126,
+    "title": "Passenger",
+    "img": "https://image.tmdb.org/t/p/original/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+    "released": "2026-05-20",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33763941",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "94 min",
+    "genre": "Horror, Thriller",
+    "plot": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
+    "released": "2026-05-20",
+    "director": "André Øvredal",
+    "directorSlug": "andre-vredal",
+    "actors": [
+     "Jacob Scipio",
+     "Lou Llobell",
+     "Melissa Leo",
+     "Joseph Lopez",
+     "Miles Fowler",
+     "Alan Trong"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.5",
+      "votes": 23183,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 899,
+      "updatedAt": "2026-09-24T10:11:18.000Z"
+     },
+     "rt": "46%",
+     "metascore": 52,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Jacob Scipio",
+     "character": "Tyler Genocchio",
+     "slug": "jacob-scipio",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gcZSJy9LZ8DUDP480Q2K1OhL1Ct.jpg"
+    },
+    {
+     "name": "Lou Llobell",
+     "character": "Maddie Brecker",
+     "slug": "lou-llobell",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vjCaa2EhEFgkraE6l2Vypzb93fz.jpg"
+    },
+    {
+     "name": "Melissa Leo",
+     "character": "Diana Larson",
+     "slug": "melissa-leo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ueAIX0MH68xCei3N8vFLS0EUEjY.jpg"
+    },
+    {
+     "name": "Joseph Lopez",
+     "character": "The Passenger",
+     "slug": "joseph-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tmhwEUByCT6iXlxmJvpTsX97Css.jpg"
+    },
+    {
+     "name": "Miles Fowler",
+     "character": "Lucas Tedesco",
+     "slug": "miles-fowler",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kDIkqRupU6ma4fNAvganW5cJgCq.jpg"
+    },
+    {
+     "name": "Alan Trong",
+     "character": "Daniel",
+     "slug": "alan-trong",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qdi0reLvACza2dQQO0AUITlW9Lv.jpg"
+    },
+    {
+     "name": "Devielle Johnson",
+     "character": "Neighborhood Watch Volunteer",
+     "slug": "devielle-johnson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aLTVHMv4EMniPAXXzMmDoItCLvi.jpg"
+    },
+    {
+     "name": "James William Clark",
+     "character": "Brad Fuller",
+     "slug": "james-william-clark",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "André Øvredal",
+       "slug": "andre-vredal"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "T.W. Burgess",
+       "slug": "t-w-burgess"
+      },
+      {
+       "name": "Zachary Donohue",
+       "slug": "zachary-donohue"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Christopher Young",
+       "slug": "christopher-young"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Federico Verardi",
+       "slug": "federico-verardi"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Martin Bernfeld",
+       "slug": "martin-bernfeld"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Walter Hamada",
+       "slug": "walter-hamada"
+      },
+      {
+       "name": "Gary Dauberman",
+       "slug": "gary-dauberman"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "18Hz Productions",
+     "slug": "18hz-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/27MdBWUI30G7TTcKIFRhZo1DvdE.png"
+    },
+    {
+     "name": "Coin Operated",
+     "slug": "coin-operated",
+     "logo": "https://image.tmdb.org/t/p/w185/w0ARek3q2bIKGfoM2WRsFOqyYCB.png"
+    },
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-05-29": [
+     {
+      "id": 1123,
+      "title": "Return of the Jungle",
+      "img": "https://image.tmdb.org/t/p/original/kXxSc3cG5wAB2wolqX8j0QKNwjD.jpg"
+     },
+     {
+      "id": 1124,
+      "title": "The Great Grand Superhero",
+      "img": "https://image.tmdb.org/t/p/original/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 71200,
+     "sold": 308,
+     "unsold": 997,
+     "shows": 9,
+     "occ": 23.6,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 71200,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 53800,
+     "sold": 194,
+     "unsold": 228,
+     "shows": 3,
+     "occ": 45.97,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 125000,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Trivandrum",
+     "gross": 34510,
+     "sold": 157,
+     "unsold": 445,
+     "shows": 7,
+     "occ": 26.08,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 159510,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Thrissur",
+     "gross": 8200,
+     "sold": 38,
+     "unsold": 200,
+     "shows": 2,
+     "occ": 15.97,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 167710,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 167710,
+    "totalShows": 21,
+    "totalSeats": 2567,
+    "totalSold": 697,
+    "avgOcc": "27.2",
+    "totalDays": 4,
+    "totalHousefull": 3,
+    "totalAlmost": 3,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 71200,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 71200,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "4:8200:167710"
+  }
+ }
+}

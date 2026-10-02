@@ -1,0 +1,51 @@
+{
+ "slug": "mani-ratnam",
+ "name": "Mani Ratnam",
+ "source_url": "https://fridaymatinee.in/people/mani-ratnam",
+ "captured_at": "2026-10-02T00:17:08.018325+00:00",
+ "person": {
+  "name": "Mani Ratnam",
+  "photo": "https://image.tmdb.org/t/p/w185/iXRdku91Hp8nHSL3uWxnInxN6TH.jpg",
+  "role": "Director, producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 208,
+   "movie_slug": "ponniyin-selvan",
+   "title": "Ponniyin Selvan",
+   "year": 2022,
+   "kerala_gross": "₹17.0 Cr"
+  },
+  {
+   "movie_id": 359,
+   "movie_slug": "ponniyin-selvan-part-2",
+   "title": "Ponniyin Selvan - Part 2",
+   "year": 2023,
+   "kerala_gross": "₹13.2 Cr"
+  },
+  {
+   "movie_id": 701,
+   "movie_slug": "thug-life",
+   "title": "Thug Life",
+   "year": 2025,
+   "kerala_gross": "₹2.2 Cr"
+  }
+ ]
+}

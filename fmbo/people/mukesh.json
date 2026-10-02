@@ -1,0 +1,90 @@
+{
+ "slug": "mukesh",
+ "name": "Mukesh",
+ "source_url": "https://fridaymatinee.in/people/mukesh",
+ "captured_at": "2026-10-02T00:46:45.100131+00:00",
+ "person": {
+  "name": "Mukesh",
+  "photo": "https://image.tmdb.org/t/p/w185/pr71Cnvv2ouNKGDRmfPoMnSgWlh.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 10
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 12,
+   "movie_slug": "ganagandharvan",
+   "title": "Ganagandharvan",
+   "year": 2019,
+   "kerala_gross": "₹24.3L"
+  },
+  {
+   "movie_id": 26,
+   "movie_slug": "under-world",
+   "title": "Under World",
+   "year": 2019,
+   "kerala_gross": "₹35.9L"
+  },
+  {
+   "movie_id": 72,
+   "movie_slug": "tsunami",
+   "title": "Tsunami",
+   "year": 2021,
+   "kerala_gross": "₹5.0L"
+  },
+  {
+   "movie_id": 74,
+   "movie_slug": "mohan-kumar-fans",
+   "title": "Mohan Kumar Fans",
+   "year": 2021,
+   "kerala_gross": "₹54.1L"
+  },
+  {
+   "movie_id": 89,
+   "movie_slug": "marakkar",
+   "title": "Marakkar",
+   "year": 2021,
+   "kerala_gross": "₹13.7 Cr"
+  },
+  {
+   "movie_id": 130,
+   "movie_slug": "cbi-5-the-brain",
+   "title": "CBI 5 The Brain",
+   "year": 2022,
+   "kerala_gross": "₹11.7 Cr"
+  },
+  {
+   "movie_id": 362,
+   "movie_slug": "pachuvum-athbhuthavilakkum",
+   "title": "Pachuvum Athbhuthavilakkum",
+   "year": 2023,
+   "kerala_gross": "₹8.2 Cr"
+  },
+  {
+   "movie_id": 252,
+   "movie_slug": "oru-anweshanathinte-thudakkam",
+   "title": "Oru Anweshanathinte Thudakkam",
+   "year": 2024,
+   "kerala_gross": "₹30.8L"
+  },
+  {
+   "movie_id": 1286,
+   "movie_slug": "cosmic-samson",
+   "title": "Cosmic Samson",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 1085,
+   "movie_slug": "athimanoharam",
+   "title": "Athimanoharam",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

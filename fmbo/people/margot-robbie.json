@@ -1,0 +1,46 @@
+{
+ "slug": "margot-robbie",
+ "name": "Margot Robbie",
+ "source_url": "https://fridaymatinee.in/people/margot-robbie",
+ "captured_at": "2026-10-02T00:22:30.651077+00:00",
+ "person": {
+  "name": "Margot Robbie",
+  "photo": "https://image.tmdb.org/t/p/w185/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 412,
+   "movie_slug": "barbie",
+   "title": "Barbie",
+   "year": 2023,
+   "kerala_gross": "₹75.5L"
+  },
+  {
+   "movie_id": 824,
+   "movie_slug": "a-big-bold-beautiful-journey",
+   "title": "A Big Bold Beautiful Journey",
+   "year": 2025,
+   "kerala_gross": "₹1.4L"
+  },
+  {
+   "movie_id": 1016,
+   "movie_slug": "wuthering-heights",
+   "title": "Wuthering Heights",
+   "year": 2026,
+   "kerala_gross": "₹40K"
+  }
+ ]
+}

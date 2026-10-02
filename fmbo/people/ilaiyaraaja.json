@@ -1,0 +1,41 @@
+{
+ "slug": "ilaiyaraaja",
+ "name": "Ilaiyaraaja",
+ "source_url": "https://fridaymatinee.in/people/ilaiyaraaja",
+ "captured_at": "2026-10-01T22:51:07.887551+00:00",
+ "person": {
+  "name": "Ilaiyaraaja",
+  "photo": "https://image.tmdb.org/t/p/w185/eBiHTgm2cbOl9uIO3Q21UrLx9hF.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 316,
+   "movie_slug": "viduthalai-part-1",
+   "title": "Viduthalai Part 1",
+   "year": 2023,
+   "kerala_gross": "₹86.9L"
+  },
+  {
+   "movie_id": 618,
+   "movie_slug": "viduthalai-part-2",
+   "title": "Viduthalai Part - 2",
+   "year": 2024,
+   "kerala_gross": "₹66.7L"
+  },
+  {
+   "movie_id": 1318,
+   "movie_slug": "dorothy",
+   "title": "Dorothy",
+   "year": 2026,
+   "kerala_gross": "₹37.3L"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "greig-fraser",
+ "name": "Greig Fraser",
+ "source_url": "https://fridaymatinee.in/people/greig-fraser",
+ "captured_at": "2026-10-01T22:36:10.034666+00:00",
+ "person": {
+  "name": "Greig Fraser",
+  "photo": "https://image.tmdb.org/t/p/w185/cwj0aValmr7TGQ2OOQk5CAy1PWf.jpg",
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 112,
+   "movie_slug": "batman",
+   "title": "Batman",
+   "year": 2022,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 498,
+   "movie_slug": "dune-part-two",
+   "title": "Dune: Part Two",
+   "year": 2024,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 990,
+   "movie_slug": "project-hail-mary",
+   "title": "Project Hail Mary",
+   "year": 2026,
+   "kerala_gross": "₹5.1 Cr"
+  }
+ ]
+}

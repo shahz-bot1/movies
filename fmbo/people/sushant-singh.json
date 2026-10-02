@@ -1,0 +1,41 @@
+{
+ "slug": "sushant-singh",
+ "name": "Sushant Singh",
+ "source_url": "https://fridaymatinee.in/people/sushant-singh",
+ "captured_at": "2026-10-02T11:10:29.945061+00:00",
+ "person": {
+  "name": "Sushant Singh",
+  "photo": "https://image.tmdb.org/t/p/w185/cAXp9JphzW3E90OHhxyBB7JXyiO.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 361,
+   "movie_slug": "agent",
+   "title": "Agent",
+   "year": 2023,
+   "kerala_gross": "₹45.2L"
+  },
+  {
+   "movie_id": 937,
+   "movie_slug": "kis-kisko-pyaar-karoon-2",
+   "title": "Kis Kisko Pyaar Karoon 2",
+   "year": 2025,
+   "kerala_gross": "₹2.0L"
+  },
+  {
+   "movie_id": 1261,
+   "movie_slug": "mirzapur-the-movie",
+   "title": "Mirzapur: The Movie",
+   "year": 2026,
+   "kerala_gross": "₹28.4L"
+  }
+ ]
+}

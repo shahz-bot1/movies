@@ -1,0 +1,48 @@
+{
+ "slug": "kriti-sanon",
+ "name": "Kriti Sanon",
+ "source_url": "https://fridaymatinee.in/people/kriti-sanon",
+ "captured_at": "2026-10-01T23:53:58.564730+00:00",
+ "person": {
+  "name": "Kriti Sanon",
+  "photo": "https://image.tmdb.org/t/p/w185/go8GUz7poytTvm9P9HNHQ3T84N1.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 20,
+   "movie_slug": "housefull-4",
+   "title": "Housefull 4",
+   "year": 2019,
+   "kerala_gross": "₹23.7L"
+  },
+  {
+   "movie_id": 386,
+   "movie_slug": "adipurush",
+   "title": "Adipurush",
+   "year": 2023,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 929,
+   "movie_slug": "tere-ishk-mein",
+   "title": "Tere Ishk Mein",
+   "year": 2025,
+   "kerala_gross": "₹41.3L"
+  },
+  {
+   "movie_id": 1156,
+   "movie_slug": "cocktail-2",
+   "title": "Cocktail 2",
+   "year": 2026,
+   "kerala_gross": "₹32.6L"
+  }
+ ]
+}

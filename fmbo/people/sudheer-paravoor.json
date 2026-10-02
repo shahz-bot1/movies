@@ -1,0 +1,55 @@
+{
+ "slug": "sudheer-paravoor",
+ "name": "Sudheer Paravoor",
+ "source_url": "https://fridaymatinee.in/people/sudheer-paravoor",
+ "captured_at": "2026-10-02T11:02:07.355602+00:00",
+ "person": {
+  "name": "Sudheer Paravoor",
+  "photo": "https://image.tmdb.org/t/p/w185/97rWmHoGzFU1QfaxqRowmG0gmDP.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 163,
+   "movie_slug": "mahaveeryar",
+   "title": "Mahaveeryar",
+   "year": 2022,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 232,
+   "movie_slug": "jaya-jaya-jaya-jaya-hey",
+   "title": "Jaya Jaya Jaya Jaya Hey",
+   "year": 2022,
+   "kerala_gross": "₹21.4 Cr"
+  },
+  {
+   "movie_id": 240,
+   "movie_slug": "mukundan-unni-associates",
+   "title": "Mukundan Unni Associates",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 273,
+   "movie_slug": "ennalum-ente-aliya",
+   "title": "Ennalum Ente Aliya",
+   "year": 2023,
+   "kerala_gross": "₹59.8L"
+  },
+  {
+   "movie_id": 994,
+   "movie_slug": "ashakal-aayiram",
+   "title": "Ashakal Aayiram",
+   "year": 2026,
+   "kerala_gross": "₹5.8 Cr"
+  }
+ ]
+}

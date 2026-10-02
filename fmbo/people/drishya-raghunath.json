@@ -1,0 +1,48 @@
+{
+ "slug": "drishya-raghunath",
+ "name": "Drishya Raghunath",
+ "source_url": "https://fridaymatinee.in/people/drishya-raghunath",
+ "captured_at": "2026-10-01T22:07:04.799614+00:00",
+ "person": {
+  "name": "Drishya Raghunath",
+  "photo": "https://image.tmdb.org/t/p/w185/71WykSyGR50s2NSfa8cVzbBqpYm.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 143,
+   "movie_slug": "john-luther",
+   "title": "John Luther",
+   "year": 2022,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 882,
+   "movie_slug": "athibheekara-kaamukan",
+   "title": "Athibheekara Kaamukan",
+   "year": 2025,
+   "kerala_gross": "₹41.6L"
+  },
+  {
+   "movie_id": 995,
+   "movie_slug": "anomie",
+   "title": "Anomie",
+   "year": 2026,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 1117,
+   "movie_slug": "dose",
+   "title": "Dose",
+   "year": 2026,
+   "kerala_gross": "₹8.2L"
+  }
+ ]
+}

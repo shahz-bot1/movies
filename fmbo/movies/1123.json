@@ -1,0 +1,389 @@
+{
+ "id": 1123,
+ "slug": "return-of-the-jungle",
+ "source_url": "https://fridaymatinee.in/boxoffice/return-of-the-jungle-1123",
+ "captured_at": "2026-10-01T19:48:01.346348+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1123,
+    "title": "Return of the Jungle",
+    "img": "https://image.tmdb.org/t/p/original/kXxSc3cG5wAB2wolqX8j0QKNwjD.jpg",
+    "released": "2026-05-29",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32361990",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "105 min",
+    "genre": "Animation, Comedy",
+    "plot": "Nine year old Mihir and his friends are faced with the daunting task of outwitting the biggest, meanest bully in school, Rahul Malhotra. To help them ride through this impossible journey, they turn to Thatha and his fantastic tales of inspiration from the ancient Jungles of India. Together, they must build a ruthless dinosaur, fight a nerve- racking game of cricket and travel all the way to Rajasthan, to rediscover the power of friendship, compassion and determination.",
+    "released": "2026-05-29",
+    "director": "Vaibhav Kumaresh",
+    "directorSlug": "vaibhav-kumaresh",
+    "actors": [],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "8.4",
+      "votes": 2302,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T10:11:21.000Z"
+    }
+   },
+   "cast": [],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vaibhav Kumaresh",
+       "slug": "vaibhav-kumaresh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vaibhav Kumaresh",
+       "slug": "vaibhav-kumaresh"
+      },
+      {
+       "name": "Prosenjit Ganguly",
+       "slug": "prosenjit-ganguly"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Vaibhav Studios",
+     "slug": "vaibhav-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/2mVGAZgWkjsIjEL266WWnnRYh6i.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-05-29": [
+     {
+      "id": 1124,
+      "title": "The Great Grand Superhero",
+      "img": "https://image.tmdb.org/t/p/original/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-05-29",
+     "gross": 10750,
+     "sold": 45,
+     "unsold": 269,
+     "shows": 3,
+     "occ": 14.33,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 10750,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-05-30",
+     "gross": 15900,
+     "sold": 68,
+     "unsold": 201,
+     "shows": 3,
+     "occ": 25.28,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 26650,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 26650,
+    "totalShows": 6,
+    "totalSeats": 583,
+    "totalSold": 113,
+    "avgOcc": "19.4",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 2,
+     "gross": 15900,
+     "date": "2026-05-30"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 10750,
+     "date": "2026-05-29"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "2:15900:26650"
+  },
+  "week": {
+   "movie": {
+    "id": 1123,
+    "title": "Return of the Jungle",
+    "img": "https://image.tmdb.org/t/p/original/kXxSc3cG5wAB2wolqX8j0QKNwjD.jpg",
+    "released": "2026-05-29",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32361990",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "105 min",
+    "genre": "Animation, Comedy",
+    "plot": "Nine year old Mihir and his friends are faced with the daunting task of outwitting the biggest, meanest bully in school, Rahul Malhotra. To help them ride through this impossible journey, they turn to Thatha and his fantastic tales of inspiration from the ancient Jungles of India. Together, they must build a ruthless dinosaur, fight a nerve- racking game of cricket and travel all the way to Rajasthan, to rediscover the power of friendship, compassion and determination.",
+    "released": "2026-05-29",
+    "director": "Vaibhav Kumaresh",
+    "directorSlug": "vaibhav-kumaresh",
+    "actors": [],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "8.4",
+      "votes": 2302,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T10:11:21.000Z"
+    }
+   },
+   "cast": [],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vaibhav Kumaresh",
+       "slug": "vaibhav-kumaresh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vaibhav Kumaresh",
+       "slug": "vaibhav-kumaresh"
+      },
+      {
+       "name": "Prosenjit Ganguly",
+       "slug": "prosenjit-ganguly"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Vaibhav Studios",
+     "slug": "vaibhav-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/2mVGAZgWkjsIjEL266WWnnRYh6i.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-05-29": [
+     {
+      "id": 1124,
+      "title": "The Great Grand Superhero",
+      "img": "https://image.tmdb.org/t/p/original/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-05-29",
+     "gross": 26650,
+     "sold": 113,
+     "unsold": 470,
+     "shows": 6,
+     "occ": 19.38,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 26650,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 26650,
+    "totalShows": 6,
+    "totalSeats": 583,
+    "totalSold": 113,
+    "avgOcc": "19.4",
+    "totalDays": 1,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 26650
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 26650
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "1:26650:26650"
+  },
+  "district": {
+   "movie": {
+    "id": 1123,
+    "title": "Return of the Jungle",
+    "img": "https://image.tmdb.org/t/p/original/kXxSc3cG5wAB2wolqX8j0QKNwjD.jpg",
+    "released": "2026-05-29",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32361990",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "105 min",
+    "genre": "Animation, Comedy",
+    "plot": "Nine year old Mihir and his friends are faced with the daunting task of outwitting the biggest, meanest bully in school, Rahul Malhotra. To help them ride through this impossible journey, they turn to Thatha and his fantastic tales of inspiration from the ancient Jungles of India. Together, they must build a ruthless dinosaur, fight a nerve- racking game of cricket and travel all the way to Rajasthan, to rediscover the power of friendship, compassion and determination.",
+    "released": "2026-05-29",
+    "director": "Vaibhav Kumaresh",
+    "directorSlug": "vaibhav-kumaresh",
+    "actors": [],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "8.4",
+      "votes": 2302,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T10:11:21.000Z"
+    }
+   },
+   "cast": [],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vaibhav Kumaresh",
+       "slug": "vaibhav-kumaresh"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vaibhav Kumaresh",
+       "slug": "vaibhav-kumaresh"
+      },
+      {
+       "name": "Prosenjit Ganguly",
+       "slug": "prosenjit-ganguly"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Vaibhav Studios",
+     "slug": "vaibhav-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/2mVGAZgWkjsIjEL266WWnnRYh6i.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-05-29": [
+     {
+      "id": 1124,
+      "title": "The Great Grand Superhero",
+      "img": "https://image.tmdb.org/t/p/original/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Trivandrum",
+     "gross": 13700,
+     "sold": 58,
+     "unsold": 172,
+     "shows": 3,
+     "occ": 25.22,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 13700,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Ernakulam",
+     "gross": 12950,
+     "sold": 55,
+     "unsold": 298,
+     "shows": 3,
+     "occ": 15.58,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 26650,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 26650,
+    "totalShows": 6,
+    "totalSeats": 583,
+    "totalSold": 113,
+    "avgOcc": "19.4",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 13700,
+     "date": "Trivandrum"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 13700,
+     "date": "Trivandrum"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "2:12950:26650"
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "vivek-prasanna",
+ "name": "Vivek Prasanna",
+ "source_url": "https://fridaymatinee.in/people/vivek-prasanna",
+ "captured_at": "2026-10-02T11:54:41.805512+00:00",
+ "person": {
+  "name": "Vivek Prasanna",
+  "photo": "https://image.tmdb.org/t/p/w185/2Gzfur5QCXWmopdWcLlmNuZcFDt.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 717,
+   "movie_slug": "3bhk",
+   "title": "3BHK",
+   "year": 2025,
+   "kerala_gross": "₹25.2L"
+  },
+  {
+   "movie_id": 733,
+   "movie_slug": "maareesan",
+   "title": "Maareesan",
+   "year": 2025,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 868,
+   "movie_slug": "diesel",
+   "title": "Diesel",
+   "year": 2025,
+   "kerala_gross": "₹9.5L"
+  },
+  {
+   "movie_id": 1008,
+   "movie_slug": "pookie",
+   "title": "Pookie",
+   "year": 2026,
+   "kerala_gross": "₹4.2L"
+  },
+  {
+   "movie_id": 1122,
+   "movie_slug": "blast",
+   "title": "Blast",
+   "year": 2026,
+   "kerala_gross": "₹13.0 Cr"
+  }
+ ]
+}

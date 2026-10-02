@@ -1,0 +1,55 @@
+{
+ "slug": "arjun-radhakrishnan",
+ "name": "Arjun Radhakrishnan",
+ "source_url": "https://fridaymatinee.in/people/arjun-radhakrishnan",
+ "captured_at": "2026-10-01T20:53:23.005469+00:00",
+ "person": {
+  "name": "Arjun Radhakrishnan",
+  "photo": "https://image.tmdb.org/t/p/w185/xcxu1R28Hl7bzLQagFdeUsTiHjg.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 147,
+   "movie_slug": "dear-friend",
+   "title": "Dear Friend",
+   "year": 2022,
+   "kerala_gross": "₹34.2L"
+  },
+  {
+   "movie_id": 426,
+   "movie_slug": "kannur-squad",
+   "title": "Kannur Squad",
+   "year": 2023,
+   "kerala_gross": "₹32.9 Cr"
+  },
+  {
+   "movie_id": 525,
+   "movie_slug": "ullozhukku",
+   "title": "Ullozhukku",
+   "year": 2024,
+   "kerala_gross": "₹3.5 Cr"
+  },
+  {
+   "movie_id": 616,
+   "movie_slug": "identity",
+   "title": "Identity",
+   "year": 2025,
+   "kerala_gross": "₹6.9 Cr"
+  },
+  {
+   "movie_id": 832,
+   "movie_slug": "vala-story-of-a-bangle",
+   "title": "Vala - Story of a Bangle",
+   "year": 2025,
+   "kerala_gross": "₹83.7L"
+  }
+ ]
+}

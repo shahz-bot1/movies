@@ -1,0 +1,55 @@
+{
+ "slug": "shaji-kailas",
+ "name": "Shaji Kailas",
+ "source_url": "https://fridaymatinee.in/people/shaji-kailas",
+ "captured_at": "2026-10-02T10:24:20.448189+00:00",
+ "person": {
+  "name": "Shaji Kailas",
+  "photo": "https://image.tmdb.org/t/p/w185/3ZJ4ZGvzyZxHvkyA6JTgUKbhE23.jpg",
+  "role": "Director"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 160,
+   "movie_slug": "kaduva",
+   "title": "Kaduva",
+   "year": 2022,
+   "kerala_gross": "₹17.0 Cr"
+  },
+  {
+   "movie_id": 256,
+   "movie_slug": "kaapa",
+   "title": "Kaapa",
+   "year": 2022,
+   "kerala_gross": "₹8.8 Cr"
+  },
+  {
+   "movie_id": 275,
+   "movie_slug": "alone",
+   "title": "Alone",
+   "year": 2023,
+   "kerala_gross": "₹51.5L"
+  },
+  {
+   "movie_id": 555,
+   "movie_slug": "hunt",
+   "title": "Hunt",
+   "year": 2024,
+   "kerala_gross": "₹37.6L"
+  },
+  {
+   "movie_id": 1194,
+   "movie_slug": "varavu",
+   "title": "Varavu",
+   "year": 2026,
+   "kerala_gross": "₹5.0 Cr"
+  }
+ ]
+}

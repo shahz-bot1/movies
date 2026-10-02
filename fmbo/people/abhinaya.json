@@ -1,0 +1,41 @@
+{
+ "slug": "abhinaya",
+ "name": "Abhinaya",
+ "source_url": "https://fridaymatinee.in/people/abhinaya",
+ "captured_at": "2026-10-01T20:06:39.574842+00:00",
+ "person": {
+  "name": "Abhinaya",
+  "photo": "https://image.tmdb.org/t/p/w185/jZSoiKuWYNWXJgPtTDro009rGiN.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 424,
+   "movie_slug": "mark-antony",
+   "title": "Mark Antony",
+   "year": 2023,
+   "kerala_gross": "₹2.5 Cr"
+  },
+  {
+   "movie_id": 584,
+   "movie_slug": "pani",
+   "title": "Pani",
+   "year": 2024,
+   "kerala_gross": "₹16.7 Cr"
+  },
+  {
+   "movie_id": 1062,
+   "movie_slug": "carmeni-selvam",
+   "title": "Carmeni Selvam",
+   "year": 2026,
+   "kerala_gross": "₹51K"
+  }
+ ]
+}

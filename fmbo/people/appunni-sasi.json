@@ -1,0 +1,55 @@
+{
+ "slug": "appunni-sasi",
+ "name": "Appunni Sasi",
+ "source_url": "https://fridaymatinee.in/people/appunni-sasi",
+ "captured_at": "2026-10-01T20:50:05.622052+00:00",
+ "person": {
+  "name": "Appunni Sasi",
+  "photo": "https://image.tmdb.org/t/p/w185/w1r8hrMHtBp7bjmco3tI269byMB.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 57,
+   "movie_slug": "anveshanam",
+   "title": "Anveshanam",
+   "year": 2020,
+   "kerala_gross": "₹52.9L"
+  },
+  {
+   "movie_id": 296,
+   "movie_slug": "dear-vaappi",
+   "title": "Dear Vaappi",
+   "year": 2023,
+   "kerala_gross": "₹17.9L"
+  },
+  {
+   "movie_id": 573,
+   "movie_slug": "kadha-innuvare",
+   "title": "Kadha Innuvare",
+   "year": 2024,
+   "kerala_gross": "₹96.7L"
+  },
+  {
+   "movie_id": 677,
+   "movie_slug": "narivetta",
+   "title": "Narivetta",
+   "year": 2025,
+   "kerala_gross": "₹14.9 Cr"
+  },
+  {
+   "movie_id": 1314,
+   "movie_slug": "aaram",
+   "title": "Aaram",
+   "year": 2026,
+   "kerala_gross": "₹1.0 Cr"
+  }
+ ]
+}

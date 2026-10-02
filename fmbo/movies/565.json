@@ -1,0 +1,667 @@
+{
+ "id": 565,
+ "slug": "dominic-and-the-ladies-purse",
+ "source_url": "https://fridaymatinee.in/boxoffice/dominic-and-the-ladies-purse-565",
+ "captured_at": "2026-10-01T18:15:44.858352+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 565,
+    "title": "Dominic And The Ladies Purse",
+    "img": "https://image.tmdb.org/t/p/original/q6gPdbrCZ0h1h3r10iTvYfEvRox.jpg",
+    "released": "2025-01-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32887317",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "151 min",
+    "genre": "Thriller, Mystery",
+    "plot": "Dominic, a disgraced ex-cop turned detective, takes on a seemingly simple case to locate a purse's owner, which unveils a dark web of missing persons, murder, a stalker and the mysterious dancer Nandhita.",
+    "released": "2025-01-23",
+    "director": "Gautham Vasudev Menon",
+    "directorSlug": "gautham-vasudev-menon",
+    "actors": [
+     "Mammootty",
+     "Gokul Suresh",
+     "Viji Venkatesh",
+     "Wafa Khadeeja Rahman",
+     "Siddique",
+     "Vijay Babu"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 5327,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:43.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mammootty",
+     "character": "C.I Dominic",
+     "slug": "mammootty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
+    },
+    {
+     "name": "Gokul Suresh",
+     "character": "Vicky",
+     "slug": "gokul-suresh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ukMuPYcM8I0sDu5scdhkWYKNiro.jpg"
+    },
+    {
+     "name": "Viji Venkatesh",
+     "character": "Madhuri",
+     "slug": "viji-venkatesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dkqTF8AjIrrsRrXxQL7yZmKCRhR.jpg"
+    },
+    {
+     "name": "Wafa Khadeeja Rahman",
+     "character": "Jhansi",
+     "slug": "wafa-khadeeja-rahman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qsdhuOA0wEXWxQYbdY0qDPus6lC.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Soman Pillai",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Vijay Babu",
+     "character": "Tony Joseph",
+     "slug": "vijay-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8ThAZXd4Sjfopth5QhDpuJg7Z3q.jpg"
+    },
+    {
+     "name": "Lenaa",
+     "character": "Lakshmi",
+     "slug": "lenaa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1qugxYSQRahuBfk8Nh6g3Qq2MAS.jpg"
+    },
+    {
+     "name": "Sushmitha Bhat",
+     "character": "Nandhita",
+     "slug": "sushmitha-bhat",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bQW98KlIoo15qIUn4X4nEM5PvBx.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Gautham Vasudev Menon",
+       "slug": "gautham-vasudev-menon"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sooraj Rajan",
+       "slug": "sooraj-neeraj"
+      },
+      {
+       "name": "Gautham Vasudev Menon",
+       "slug": "gautham-vasudev-menon"
+      },
+      {
+       "name": "Neeraj Rajan",
+       "slug": "neeraj-rajan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Darbuka Siva",
+       "slug": "darbuka-siva"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vishnu Dev",
+       "slug": "vishnu-dev"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Anthony",
+       "slug": "anthony"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mammootty Kampany",
+     "slug": "mammootty-kampany",
+     "logo": "https://image.tmdb.org/t/p/w185/2Z9qU90XOHAp5DsbH3eEnawlDm4.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-12-19",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 76941539.79999998,
+    "totalShows": 9569,
+    "totalDays": 36,
+    "openingDay": {
+     "day": 1,
+     "gross": 14956616.4,
+     "date": "2025-01-23"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 14956616.4,
+     "date": "2025-01-23"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 73,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-23"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 565,
+    "title": "Dominic And The Ladies Purse",
+    "img": "https://image.tmdb.org/t/p/original/q6gPdbrCZ0h1h3r10iTvYfEvRox.jpg",
+    "released": "2025-01-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32887317",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "151 min",
+    "genre": "Thriller, Mystery",
+    "plot": "Dominic, a disgraced ex-cop turned detective, takes on a seemingly simple case to locate a purse's owner, which unveils a dark web of missing persons, murder, a stalker and the mysterious dancer Nandhita.",
+    "released": "2025-01-23",
+    "director": "Gautham Vasudev Menon",
+    "directorSlug": "gautham-vasudev-menon",
+    "actors": [
+     "Mammootty",
+     "Gokul Suresh",
+     "Viji Venkatesh",
+     "Wafa Khadeeja Rahman",
+     "Siddique",
+     "Vijay Babu"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 5327,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:43.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mammootty",
+     "character": "C.I Dominic",
+     "slug": "mammootty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
+    },
+    {
+     "name": "Gokul Suresh",
+     "character": "Vicky",
+     "slug": "gokul-suresh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ukMuPYcM8I0sDu5scdhkWYKNiro.jpg"
+    },
+    {
+     "name": "Viji Venkatesh",
+     "character": "Madhuri",
+     "slug": "viji-venkatesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dkqTF8AjIrrsRrXxQL7yZmKCRhR.jpg"
+    },
+    {
+     "name": "Wafa Khadeeja Rahman",
+     "character": "Jhansi",
+     "slug": "wafa-khadeeja-rahman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qsdhuOA0wEXWxQYbdY0qDPus6lC.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Soman Pillai",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Vijay Babu",
+     "character": "Tony Joseph",
+     "slug": "vijay-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8ThAZXd4Sjfopth5QhDpuJg7Z3q.jpg"
+    },
+    {
+     "name": "Lenaa",
+     "character": "Lakshmi",
+     "slug": "lenaa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1qugxYSQRahuBfk8Nh6g3Qq2MAS.jpg"
+    },
+    {
+     "name": "Sushmitha Bhat",
+     "character": "Nandhita",
+     "slug": "sushmitha-bhat",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bQW98KlIoo15qIUn4X4nEM5PvBx.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Gautham Vasudev Menon",
+       "slug": "gautham-vasudev-menon"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sooraj Rajan",
+       "slug": "sooraj-neeraj"
+      },
+      {
+       "name": "Gautham Vasudev Menon",
+       "slug": "gautham-vasudev-menon"
+      },
+      {
+       "name": "Neeraj Rajan",
+       "slug": "neeraj-rajan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Darbuka Siva",
+       "slug": "darbuka-siva"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vishnu Dev",
+       "slug": "vishnu-dev"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Anthony",
+       "slug": "anthony"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mammootty Kampany",
+     "slug": "mammootty-kampany",
+     "logo": "https://image.tmdb.org/t/p/w185/2Z9qU90XOHAp5DsbH3eEnawlDm4.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-12-19",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-01-23",
+     "gross": 62560535,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5971,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-30",
+     "gross": 12117071.799999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3176,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-06",
+     "gross": 1723861,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 343,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-13",
+     "gross": 341069,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 60,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-20",
+     "gross": 196663,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 18,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-27",
+     "gross": 2340,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 76941539.8,
+    "totalShows": 9569,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 62560535
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 62560535
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 73,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-23"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 565,
+    "title": "Dominic And The Ladies Purse",
+    "img": "https://image.tmdb.org/t/p/original/q6gPdbrCZ0h1h3r10iTvYfEvRox.jpg",
+    "released": "2025-01-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32887317",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "151 min",
+    "genre": "Thriller, Mystery",
+    "plot": "Dominic, a disgraced ex-cop turned detective, takes on a seemingly simple case to locate a purse's owner, which unveils a dark web of missing persons, murder, a stalker and the mysterious dancer Nandhita.",
+    "released": "2025-01-23",
+    "director": "Gautham Vasudev Menon",
+    "directorSlug": "gautham-vasudev-menon",
+    "actors": [
+     "Mammootty",
+     "Gokul Suresh",
+     "Viji Venkatesh",
+     "Wafa Khadeeja Rahman",
+     "Siddique",
+     "Vijay Babu"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.6",
+      "votes": 5327,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:43.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mammootty",
+     "character": "C.I Dominic",
+     "slug": "mammootty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
+    },
+    {
+     "name": "Gokul Suresh",
+     "character": "Vicky",
+     "slug": "gokul-suresh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ukMuPYcM8I0sDu5scdhkWYKNiro.jpg"
+    },
+    {
+     "name": "Viji Venkatesh",
+     "character": "Madhuri",
+     "slug": "viji-venkatesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dkqTF8AjIrrsRrXxQL7yZmKCRhR.jpg"
+    },
+    {
+     "name": "Wafa Khadeeja Rahman",
+     "character": "Jhansi",
+     "slug": "wafa-khadeeja-rahman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qsdhuOA0wEXWxQYbdY0qDPus6lC.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Soman Pillai",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Vijay Babu",
+     "character": "Tony Joseph",
+     "slug": "vijay-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8ThAZXd4Sjfopth5QhDpuJg7Z3q.jpg"
+    },
+    {
+     "name": "Lenaa",
+     "character": "Lakshmi",
+     "slug": "lenaa",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1qugxYSQRahuBfk8Nh6g3Qq2MAS.jpg"
+    },
+    {
+     "name": "Sushmitha Bhat",
+     "character": "Nandhita",
+     "slug": "sushmitha-bhat",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bQW98KlIoo15qIUn4X4nEM5PvBx.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Gautham Vasudev Menon",
+       "slug": "gautham-vasudev-menon"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sooraj Rajan",
+       "slug": "sooraj-neeraj"
+      },
+      {
+       "name": "Gautham Vasudev Menon",
+       "slug": "gautham-vasudev-menon"
+      },
+      {
+       "name": "Neeraj Rajan",
+       "slug": "neeraj-rajan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Darbuka Siva",
+       "slug": "darbuka-siva"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vishnu Dev",
+       "slug": "vishnu-dev"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Anthony",
+       "slug": "anthony"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mammootty Kampany",
+     "slug": "mammootty-kampany",
+     "logo": "https://image.tmdb.org/t/p/w185/2Z9qU90XOHAp5DsbH3eEnawlDm4.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-12-19",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 76941539.8,
+    "totalShows": 9569,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 21800750,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 21800750,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 73,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-01-23"
+   }
+  }
+ }
+}

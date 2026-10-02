@@ -1,0 +1,46 @@
+{
+ "slug": "samantha-ruth-prabhu",
+ "name": "Samantha Ruth Prabhu",
+ "source_url": "https://fridaymatinee.in/people/samantha-ruth-prabhu",
+ "captured_at": "2026-10-02T10:04:12.972140+00:00",
+ "person": {
+  "name": "Samantha Ruth Prabhu",
+  "photo": "https://image.tmdb.org/t/p/w185/FFGYlhLQK7FWzPLtmOb1QHTDAh.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 135,
+   "movie_slug": "kaathuvaakula-rendu-kadhal",
+   "title": "Kaathuvaakula Rendu Kadhal",
+   "year": 2022,
+   "kerala_gross": "₹45.7L"
+  },
+  {
+   "movie_id": 350,
+   "movie_slug": "shaakuntalam",
+   "title": "Shaakuntalam",
+   "year": 2023,
+   "kerala_gross": "₹4.2L"
+  },
+  {
+   "movie_id": 1162,
+   "movie_slug": "maa-inti-bangaram",
+   "title": "Maa Inti Bangaram",
+   "year": 2026,
+   "kerala_gross": "₹14.9L"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "manikuttan",
+ "name": "Manikuttan",
+ "source_url": "https://fridaymatinee.in/people/manikuttan",
+ "captured_at": "2026-10-02T00:17:39.600679+00:00",
+ "person": {
+  "name": "Manikuttan",
+  "photo": "https://image.tmdb.org/t/p/w185/sL6Lc8oTNzh5PJe8i4iJ0aXPKZ5.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 43,
+   "movie_slug": "mamangam",
+   "title": "Mamangam",
+   "year": 2019,
+   "kerala_gross": "₹5.7 Cr"
+  },
+  {
+   "movie_id": 47,
+   "movie_slug": "thrissur-pooram",
+   "title": "Thrissur Pooram",
+   "year": 2019,
+   "kerala_gross": "₹66.6L"
+  },
+  {
+   "movie_id": 545,
+   "movie_slug": "secret",
+   "title": "Secret",
+   "year": 2024,
+   "kerala_gross": "₹15.6L"
+  },
+  {
+   "movie_id": 1002,
+   "movie_slug": "sukhamano-sukhamanu",
+   "title": "Sukhamano Sukhamanu",
+   "year": 2026,
+   "kerala_gross": "₹70.9L"
+  }
+ ]
+}

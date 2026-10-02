@@ -1,0 +1,683 @@
+{
+ "id": 1303,
+ "slug": "digger",
+ "source_url": "https://fridaymatinee.in/boxoffice/digger-1303",
+ "captured_at": "2026-10-01T19:57:30.201991+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1303,
+    "title": "Digger",
+    "img": "https://image.tmdb.org/t/p/original/fBEVkH6Usmz8hR0MkXxXC5v4lkA.jpg",
+    "released": "2026-10-02",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31450459",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "129 min",
+    "genre": "Comedy",
+    "plot": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "released": "2026-09-28",
+    "director": "Alejandro G. Iñárritu",
+    "directorSlug": "alejandro-g-inarritu",
+    "actors": [
+     "Tom Cruise",
+     "Riz Ahmed",
+     "John Goodman",
+     "Sandra Hüller",
+     "Michael Stuhlbarg",
+     "Jesse Plemons"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T19:10:07.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tom Cruise",
+     "character": "Digger Rockwell / Curtis Markson",
+     "slug": "tom-cruise",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+    },
+    {
+     "name": "Riz Ahmed",
+     "character": "Ganesh",
+     "slug": "riz-ahmed",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg"
+    },
+    {
+     "name": "John Goodman",
+     "character": "President Compson",
+     "slug": "john-goodman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+    },
+    {
+     "name": "Sandra Hüller",
+     "character": "Emma",
+     "slug": "sandra-huller",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
+    },
+    {
+     "name": "Michael Stuhlbarg",
+     "character": "Vice President",
+     "slug": "michael-stuhlbarg",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+    },
+    {
+     "name": "Jesse Plemons",
+     "character": "Kenny",
+     "slug": "jesse-plemons",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/og4I51GsuwohdPgoELOHVMMqMre.jpg"
+    },
+    {
+     "name": "Robert John Burke",
+     "character": "Fitzgerald",
+     "slug": "robert-john-burke",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uWEaY5gypb6cp1bdUYG4uCKw4sK.jpg"
+    },
+    {
+     "name": "Emma D'Arcy",
+     "character": "Lena",
+     "slug": "emma-d-arcy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Alejandro G. Iñárritu",
+       "slug": "alejandro-g-inarritu"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Alejandro G. Iñárritu",
+       "slug": "alejandro-g-inarritu"
+      },
+      {
+       "name": "Sabina Berman",
+       "slug": "sabina-berman"
+      },
+      {
+       "name": "Jez Butterworth",
+       "slug": "jez-butterworth"
+      },
+      {
+       "name": "Alexander Dinelaris",
+       "slug": "alexander-dinelaris"
+      },
+      {
+       "name": "Nicolás Giacobone",
+       "slug": "nicolas-giacobone"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Cosmo Sheldrake",
+       "slug": "cosmo-sheldrake-13942"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Emmanuel Lubezki",
+       "slug": "emmanuel-lubezki"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Conor O'Neill",
+       "slug": "conor-o-neill"
+      },
+      {
+       "name": "Stephen Mirrione",
+       "slug": "stephen-mirrione"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Alejandro G. Iñárritu",
+       "slug": "alejandro-g-inarritu"
+      },
+      {
+       "name": "Tom Cruise",
+       "slug": "tom-cruise"
+      },
+      {
+       "name": "Mary Parent",
+       "slug": "mary-parent"
+      },
+      {
+       "name": "Michael Sharp",
+       "slug": "michael-sharp"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "Legendary Pictures",
+     "slug": "legendary-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png"
+    },
+    {
+     "name": "TC Productions",
+     "slug": "tc-productions",
+     "logo": null
+    },
+    {
+     "name": "M Productions",
+     "slug": "m-productions",
+     "logo": null
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {},
+   "boxoffice": [],
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalSeats": 0,
+    "totalSold": 0,
+    "avgOcc": 0,
+    "totalDays": 0,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": null,
+    "openingDay": null,
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "0:0:0"
+  },
+  "week": {
+   "movie": {
+    "id": 1303,
+    "title": "Digger",
+    "img": "https://image.tmdb.org/t/p/original/fBEVkH6Usmz8hR0MkXxXC5v4lkA.jpg",
+    "released": "2026-10-02",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31450459",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "129 min",
+    "genre": "Comedy",
+    "plot": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "released": "2026-09-28",
+    "director": "Alejandro G. Iñárritu",
+    "directorSlug": "alejandro-g-inarritu",
+    "actors": [
+     "Tom Cruise",
+     "Riz Ahmed",
+     "John Goodman",
+     "Sandra Hüller",
+     "Michael Stuhlbarg",
+     "Jesse Plemons"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T19:10:07.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tom Cruise",
+     "character": "Digger Rockwell / Curtis Markson",
+     "slug": "tom-cruise",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+    },
+    {
+     "name": "Riz Ahmed",
+     "character": "Ganesh",
+     "slug": "riz-ahmed",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg"
+    },
+    {
+     "name": "John Goodman",
+     "character": "President Compson",
+     "slug": "john-goodman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+    },
+    {
+     "name": "Sandra Hüller",
+     "character": "Emma",
+     "slug": "sandra-huller",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
+    },
+    {
+     "name": "Michael Stuhlbarg",
+     "character": "Vice President",
+     "slug": "michael-stuhlbarg",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+    },
+    {
+     "name": "Jesse Plemons",
+     "character": "Kenny",
+     "slug": "jesse-plemons",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/og4I51GsuwohdPgoELOHVMMqMre.jpg"
+    },
+    {
+     "name": "Robert John Burke",
+     "character": "Fitzgerald",
+     "slug": "robert-john-burke",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uWEaY5gypb6cp1bdUYG4uCKw4sK.jpg"
+    },
+    {
+     "name": "Emma D'Arcy",
+     "character": "Lena",
+     "slug": "emma-d-arcy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Alejandro G. Iñárritu",
+       "slug": "alejandro-g-inarritu"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Alejandro G. Iñárritu",
+       "slug": "alejandro-g-inarritu"
+      },
+      {
+       "name": "Sabina Berman",
+       "slug": "sabina-berman"
+      },
+      {
+       "name": "Jez Butterworth",
+       "slug": "jez-butterworth"
+      },
+      {
+       "name": "Alexander Dinelaris",
+       "slug": "alexander-dinelaris"
+      },
+      {
+       "name": "Nicolás Giacobone",
+       "slug": "nicolas-giacobone"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Cosmo Sheldrake",
+       "slug": "cosmo-sheldrake-13942"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Emmanuel Lubezki",
+       "slug": "emmanuel-lubezki"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Conor O'Neill",
+       "slug": "conor-o-neill"
+      },
+      {
+       "name": "Stephen Mirrione",
+       "slug": "stephen-mirrione"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Alejandro G. Iñárritu",
+       "slug": "alejandro-g-inarritu"
+      },
+      {
+       "name": "Tom Cruise",
+       "slug": "tom-cruise"
+      },
+      {
+       "name": "Mary Parent",
+       "slug": "mary-parent"
+      },
+      {
+       "name": "Michael Sharp",
+       "slug": "michael-sharp"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "Legendary Pictures",
+     "slug": "legendary-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png"
+    },
+    {
+     "name": "TC Productions",
+     "slug": "tc-productions",
+     "logo": null
+    },
+    {
+     "name": "M Productions",
+     "slug": "m-productions",
+     "logo": null
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {},
+   "boxoffice": [],
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalSeats": 0,
+    "totalSold": 0,
+    "avgOcc": 0,
+    "totalDays": 0,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": null,
+    "openingDay": null,
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "0:0:0"
+  },
+  "district": {
+   "movie": {
+    "id": 1303,
+    "title": "Digger",
+    "img": "https://image.tmdb.org/t/p/original/fBEVkH6Usmz8hR0MkXxXC5v4lkA.jpg",
+    "released": "2026-10-02",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31450459",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "129 min",
+    "genre": "Comedy",
+    "plot": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+    "released": "2026-09-28",
+    "director": "Alejandro G. Iñárritu",
+    "directorSlug": "alejandro-g-inarritu",
+    "actors": [
+     "Tom Cruise",
+     "Riz Ahmed",
+     "John Goodman",
+     "Sandra Hüller",
+     "Michael Stuhlbarg",
+     "Jesse Plemons"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T19:10:07.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Tom Cruise",
+     "character": "Digger Rockwell / Curtis Markson",
+     "slug": "tom-cruise",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+    },
+    {
+     "name": "Riz Ahmed",
+     "character": "Ganesh",
+     "slug": "riz-ahmed",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg"
+    },
+    {
+     "name": "John Goodman",
+     "character": "President Compson",
+     "slug": "john-goodman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yyYqoyKHO7hE1zpgEV2XlqYWcNV.jpg"
+    },
+    {
+     "name": "Sandra Hüller",
+     "character": "Emma",
+     "slug": "sandra-huller",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
+    },
+    {
+     "name": "Michael Stuhlbarg",
+     "character": "Vice President",
+     "slug": "michael-stuhlbarg",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+    },
+    {
+     "name": "Jesse Plemons",
+     "character": "Kenny",
+     "slug": "jesse-plemons",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/og4I51GsuwohdPgoELOHVMMqMre.jpg"
+    },
+    {
+     "name": "Robert John Burke",
+     "character": "Fitzgerald",
+     "slug": "robert-john-burke",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uWEaY5gypb6cp1bdUYG4uCKw4sK.jpg"
+    },
+    {
+     "name": "Emma D'Arcy",
+     "character": "Lena",
+     "slug": "emma-d-arcy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9Zlmb7VmtVCxkLq5yqFFRRxCaED.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Alejandro G. Iñárritu",
+       "slug": "alejandro-g-inarritu"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Alejandro G. Iñárritu",
+       "slug": "alejandro-g-inarritu"
+      },
+      {
+       "name": "Sabina Berman",
+       "slug": "sabina-berman"
+      },
+      {
+       "name": "Jez Butterworth",
+       "slug": "jez-butterworth"
+      },
+      {
+       "name": "Alexander Dinelaris",
+       "slug": "alexander-dinelaris"
+      },
+      {
+       "name": "Nicolás Giacobone",
+       "slug": "nicolas-giacobone"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Cosmo Sheldrake",
+       "slug": "cosmo-sheldrake-13942"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Emmanuel Lubezki",
+       "slug": "emmanuel-lubezki"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Conor O'Neill",
+       "slug": "conor-o-neill"
+      },
+      {
+       "name": "Stephen Mirrione",
+       "slug": "stephen-mirrione"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Alejandro G. Iñárritu",
+       "slug": "alejandro-g-inarritu"
+      },
+      {
+       "name": "Tom Cruise",
+       "slug": "tom-cruise"
+      },
+      {
+       "name": "Mary Parent",
+       "slug": "mary-parent"
+      },
+      {
+       "name": "Michael Sharp",
+       "slug": "michael-sharp"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Warner Bros. Pictures",
+     "slug": "warner-bros-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "Legendary Pictures",
+     "slug": "legendary-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png"
+    },
+    {
+     "name": "TC Productions",
+     "slug": "tc-productions",
+     "logo": null
+    },
+    {
+     "name": "M Productions",
+     "slug": "m-productions",
+     "logo": null
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {},
+   "boxoffice": [],
+   "summary": {
+    "totalGross": 0,
+    "totalShows": 0,
+    "totalSeats": 0,
+    "totalSold": 0,
+    "avgOcc": 0,
+    "totalDays": 0,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": null,
+    "openingDay": null,
+    "chartPosition": null
+   },
+   "_tier": "warm",
+   "_hash": "0:0:0"
+  }
+ }
+}

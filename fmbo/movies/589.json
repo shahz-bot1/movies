@@ -1,0 +1,722 @@
+{
+ "id": 589,
+ "slug": "amaran",
+ "source_url": "https://fridaymatinee.in/boxoffice/amaran-589",
+ "captured_at": "2026-10-01T18:16:22.923150+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 589,
+    "title": "Amaran",
+    "img": "https://image.tmdb.org/t/p/original/bsUy2Cc2M5Cl7M84AzrMnsoG0Yt.jpg",
+    "released": "2024-10-31",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27118357",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "169 min",
+    "genre": "Action, Drama, Adventure, War",
+    "plot": "A heroic true story of Major Mukund Varadarajan, an Indian Army officer who displayed extraordinary bravery during a counterterrorism mission in Kashmir’s Shopian district. The film captures his courage in protecting his nation and the devotion of his wife Indhu Rebecaa Varghese.",
+    "released": "2024-10-31",
+    "director": "Rajkumar Periasamy",
+    "directorSlug": "rajkumar-periasamy",
+    "actors": [
+     "Sivakarthikeyan",
+     "Sai Pallavi",
+     "Rahul Bose",
+     "Bhuvan Arora",
+     "Lallu Prasath",
+     "Shyam Mohan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "8.1",
+      "votes": 24541,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.4",
+      "votes": 264,
+      "updatedAt": "2026-09-24T19:10:37.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sivakarthikeyan",
+     "character": "Major Mukund Varadarajan",
+     "slug": "sivakarthikeyan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jgy9y3V8QqZmu5r8sMxrGCzXuyp.jpg"
+    },
+    {
+     "name": "Sai Pallavi",
+     "character": "Indhu Rebecca Varghese",
+     "slug": "sai-pallavi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qAPdGKUIUEzLibdgVCey7oKvvME.jpg"
+    },
+    {
+     "name": "Rahul Bose",
+     "character": "Colonel Amit Singh Dabas",
+     "slug": "rahul-bose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6T0xhsganOB8SI48HCGd99XKj9l.jpg"
+    },
+    {
+     "name": "Bhuvan Arora",
+     "character": "Vikram Singh",
+     "slug": "bhuvan-arora",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AtEfX9ta8LZTWh7yZ4dVc2wpIRO.jpg"
+    },
+    {
+     "name": "Lallu Prasath",
+     "character": "Ravi Shankar",
+     "slug": "lallu-prasath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f6TVtddrbG1Qk1brFASrpPehpQh.jpg"
+    },
+    {
+     "name": "Shyam Mohan",
+     "character": "Indhu's brother",
+     "slug": "shyam-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wqUndf8mfVUxKtus68hrh7dlBhX.jpg"
+    },
+    {
+     "name": "Mir Salman",
+     "character": "Saifudeen K",
+     "slug": "mir-salman",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Shyamaprasad",
+     "character": "R. Varadarajan",
+     "slug": "shyamaprasad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7XmS8tF5OGt7y9YdpyySIWBECkH.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rajkumar Periasamy",
+       "slug": "rajkumar-periasamy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rajkumar Periasamy",
+       "slug": "rajkumar-periasamy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "G. V. Prakash Kumar",
+       "slug": "g-v-prakash-kumar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "C. H. Sai",
+       "slug": "c-h-sai"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "R. Kalaivanan",
+       "slug": "r-kalaivanan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kamal Haasan",
+       "slug": "kamal-haasan"
+      },
+      {
+       "name": "R. Mahendran",
+       "slug": "r-mahendran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Raajkamal Films International",
+     "slug": "raajkamal-films-international",
+     "logo": "https://image.tmdb.org/t/p/w185/tanmRcGlEgtAZhdcU7kMGZvYFbr.png"
+    },
+    {
+     "name": "Sony Pictures International Productions",
+     "slug": "sony-pictures-international-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/ytQNtv7i4wtkuLyguqRLC0FX8GL.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 96576092.19999997,
+    "totalShows": 10925,
+    "totalDays": 43,
+    "openingDay": {
+     "day": 1,
+     "gross": 8829675,
+     "date": "2024-10-31"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 9143327.4,
+     "date": "2024-11-03"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 57,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-10-31"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 589,
+    "title": "Amaran",
+    "img": "https://image.tmdb.org/t/p/original/bsUy2Cc2M5Cl7M84AzrMnsoG0Yt.jpg",
+    "released": "2024-10-31",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27118357",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "169 min",
+    "genre": "Action, Drama, Adventure, War",
+    "plot": "A heroic true story of Major Mukund Varadarajan, an Indian Army officer who displayed extraordinary bravery during a counterterrorism mission in Kashmir’s Shopian district. The film captures his courage in protecting his nation and the devotion of his wife Indhu Rebecaa Varghese.",
+    "released": "2024-10-31",
+    "director": "Rajkumar Periasamy",
+    "directorSlug": "rajkumar-periasamy",
+    "actors": [
+     "Sivakarthikeyan",
+     "Sai Pallavi",
+     "Rahul Bose",
+     "Bhuvan Arora",
+     "Lallu Prasath",
+     "Shyam Mohan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "8.1",
+      "votes": 24541,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.4",
+      "votes": 264,
+      "updatedAt": "2026-09-24T19:10:37.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sivakarthikeyan",
+     "character": "Major Mukund Varadarajan",
+     "slug": "sivakarthikeyan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jgy9y3V8QqZmu5r8sMxrGCzXuyp.jpg"
+    },
+    {
+     "name": "Sai Pallavi",
+     "character": "Indhu Rebecca Varghese",
+     "slug": "sai-pallavi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qAPdGKUIUEzLibdgVCey7oKvvME.jpg"
+    },
+    {
+     "name": "Rahul Bose",
+     "character": "Colonel Amit Singh Dabas",
+     "slug": "rahul-bose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6T0xhsganOB8SI48HCGd99XKj9l.jpg"
+    },
+    {
+     "name": "Bhuvan Arora",
+     "character": "Vikram Singh",
+     "slug": "bhuvan-arora",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AtEfX9ta8LZTWh7yZ4dVc2wpIRO.jpg"
+    },
+    {
+     "name": "Lallu Prasath",
+     "character": "Ravi Shankar",
+     "slug": "lallu-prasath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f6TVtddrbG1Qk1brFASrpPehpQh.jpg"
+    },
+    {
+     "name": "Shyam Mohan",
+     "character": "Indhu's brother",
+     "slug": "shyam-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wqUndf8mfVUxKtus68hrh7dlBhX.jpg"
+    },
+    {
+     "name": "Mir Salman",
+     "character": "Saifudeen K",
+     "slug": "mir-salman",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Shyamaprasad",
+     "character": "R. Varadarajan",
+     "slug": "shyamaprasad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7XmS8tF5OGt7y9YdpyySIWBECkH.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rajkumar Periasamy",
+       "slug": "rajkumar-periasamy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rajkumar Periasamy",
+       "slug": "rajkumar-periasamy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "G. V. Prakash Kumar",
+       "slug": "g-v-prakash-kumar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "C. H. Sai",
+       "slug": "c-h-sai"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "R. Kalaivanan",
+       "slug": "r-kalaivanan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kamal Haasan",
+       "slug": "kamal-haasan"
+      },
+      {
+       "name": "R. Mahendran",
+       "slug": "r-mahendran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Raajkamal Films International",
+     "slug": "raajkamal-films-international",
+     "logo": "https://image.tmdb.org/t/p/w185/tanmRcGlEgtAZhdcU7kMGZvYFbr.png"
+    },
+    {
+     "name": "Sony Pictures International Productions",
+     "slug": "sony-pictures-international-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/ytQNtv7i4wtkuLyguqRLC0FX8GL.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-10-31",
+     "gross": 43502606.19999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3915,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-11-07",
+     "gross": 29093946.19999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2980,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-11-14",
+     "gross": 15026427.199999997,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2160,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-11-21",
+     "gross": 6665870.4,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1377,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-11-28",
+     "gross": 1988542.2,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 451,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-12-05",
+     "gross": 280850,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 36,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-12-12",
+     "gross": 17850,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 6,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 96576092.19999999,
+    "totalShows": 10925,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 43502606.19999999
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 43502606.19999999
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 57,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-10-31"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 589,
+    "title": "Amaran",
+    "img": "https://image.tmdb.org/t/p/original/bsUy2Cc2M5Cl7M84AzrMnsoG0Yt.jpg",
+    "released": "2024-10-31",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27118357",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "169 min",
+    "genre": "Action, Drama, Adventure, War",
+    "plot": "A heroic true story of Major Mukund Varadarajan, an Indian Army officer who displayed extraordinary bravery during a counterterrorism mission in Kashmir’s Shopian district. The film captures his courage in protecting his nation and the devotion of his wife Indhu Rebecaa Varghese.",
+    "released": "2024-10-31",
+    "director": "Rajkumar Periasamy",
+    "directorSlug": "rajkumar-periasamy",
+    "actors": [
+     "Sivakarthikeyan",
+     "Sai Pallavi",
+     "Rahul Bose",
+     "Bhuvan Arora",
+     "Lallu Prasath",
+     "Shyam Mohan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "8.1",
+      "votes": 24541,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.4",
+      "votes": 264,
+      "updatedAt": "2026-09-24T19:10:37.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sivakarthikeyan",
+     "character": "Major Mukund Varadarajan",
+     "slug": "sivakarthikeyan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jgy9y3V8QqZmu5r8sMxrGCzXuyp.jpg"
+    },
+    {
+     "name": "Sai Pallavi",
+     "character": "Indhu Rebecca Varghese",
+     "slug": "sai-pallavi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qAPdGKUIUEzLibdgVCey7oKvvME.jpg"
+    },
+    {
+     "name": "Rahul Bose",
+     "character": "Colonel Amit Singh Dabas",
+     "slug": "rahul-bose",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6T0xhsganOB8SI48HCGd99XKj9l.jpg"
+    },
+    {
+     "name": "Bhuvan Arora",
+     "character": "Vikram Singh",
+     "slug": "bhuvan-arora",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AtEfX9ta8LZTWh7yZ4dVc2wpIRO.jpg"
+    },
+    {
+     "name": "Lallu Prasath",
+     "character": "Ravi Shankar",
+     "slug": "lallu-prasath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f6TVtddrbG1Qk1brFASrpPehpQh.jpg"
+    },
+    {
+     "name": "Shyam Mohan",
+     "character": "Indhu's brother",
+     "slug": "shyam-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wqUndf8mfVUxKtus68hrh7dlBhX.jpg"
+    },
+    {
+     "name": "Mir Salman",
+     "character": "Saifudeen K",
+     "slug": "mir-salman",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Shyamaprasad",
+     "character": "R. Varadarajan",
+     "slug": "shyamaprasad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7XmS8tF5OGt7y9YdpyySIWBECkH.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rajkumar Periasamy",
+       "slug": "rajkumar-periasamy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rajkumar Periasamy",
+       "slug": "rajkumar-periasamy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "G. V. Prakash Kumar",
+       "slug": "g-v-prakash-kumar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "C. H. Sai",
+       "slug": "c-h-sai"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "R. Kalaivanan",
+       "slug": "r-kalaivanan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kamal Haasan",
+       "slug": "kamal-haasan"
+      },
+      {
+       "name": "R. Mahendran",
+       "slug": "r-mahendran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Raajkamal Films International",
+     "slug": "raajkamal-films-international",
+     "logo": "https://image.tmdb.org/t/p/w185/tanmRcGlEgtAZhdcU7kMGZvYFbr.png"
+    },
+    {
+     "name": "Sony Pictures International Productions",
+     "slug": "sony-pictures-international-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/ytQNtv7i4wtkuLyguqRLC0FX8GL.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 96576092.2,
+    "totalShows": 10925,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 23373392,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 23373392,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 57,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-10-31"
+   }
+  }
+ }
+}

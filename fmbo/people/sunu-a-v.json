@@ -1,0 +1,41 @@
+{
+ "slug": "sunu-a-v",
+ "name": "Sunu A V",
+ "source_url": "https://fridaymatinee.in/people/sunu-a-v",
+ "captured_at": "2026-10-02T11:07:38.788151+00:00",
+ "person": {
+  "name": "Sunu A V",
+  "photo": null,
+  "role": "Writer"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 302,
+   "movie_slug": "pranaya-vilasam",
+   "title": "Pranaya Vilasam",
+   "year": 2023,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 841,
+   "movie_slug": "nellikkampoyil-night-riders",
+   "title": "Nellikkampoyil Night Riders",
+   "year": 2025,
+   "kerala_gross": "₹3.2 Cr"
+  },
+  {
+   "movie_id": 961,
+   "movie_slug": "pennu-case",
+   "title": "Pennu Case",
+   "year": 2026,
+   "kerala_gross": "₹1.5 Cr"
+  }
+ ]
+}

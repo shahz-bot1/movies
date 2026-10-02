@@ -1,0 +1,55 @@
+{
+ "slug": "vikram",
+ "name": "Vikram",
+ "source_url": "https://fridaymatinee.in/people/vikram",
+ "captured_at": "2026-10-02T11:45:41.581283+00:00",
+ "person": {
+  "name": "Vikram",
+  "photo": "https://image.tmdb.org/t/p/w185/c171LQMyHtULZC0RmuIHiiFDOjv.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 187,
+   "movie_slug": "cobra",
+   "title": "Cobra",
+   "year": 2022,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 208,
+   "movie_slug": "ponniyin-selvan",
+   "title": "Ponniyin Selvan",
+   "year": 2022,
+   "kerala_gross": "₹17.0 Cr"
+  },
+  {
+   "movie_id": 359,
+   "movie_slug": "ponniyin-selvan-part-2",
+   "title": "Ponniyin Selvan - Part 2",
+   "year": 2023,
+   "kerala_gross": "₹13.2 Cr"
+  },
+  {
+   "movie_id": 552,
+   "movie_slug": "thangalaan",
+   "title": "Thangalaan",
+   "year": 2024,
+   "kerala_gross": "₹2.3 Cr"
+  },
+  {
+   "movie_id": 671,
+   "movie_slug": "veera-dheera-sooran-part-2",
+   "title": "Veera Dheera Sooran: Part 2",
+   "year": 2025,
+   "kerala_gross": "₹3.1 Cr"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "askar-ali",
+ "name": "Askar Ali",
+ "source_url": "https://fridaymatinee.in/people/askar-ali",
+ "captured_at": "2026-10-01T21:01:23.765688+00:00",
+ "person": {
+  "name": "Askar Ali",
+  "photo": "https://image.tmdb.org/t/p/w185/2kCACIpB95RkIW9sLY8ggKTnPbI.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 724,
+   "movie_slug": "jsk-janaki-v-vs-state-of-kerala",
+   "title": "Jsk - Janaki V Vs State Of Kerala",
+   "year": 2025,
+   "kerala_gross": "₹4.6 Cr"
+  },
+  {
+   "movie_id": 779,
+   "movie_slug": "maine-pyar-kiya",
+   "title": "Maine Pyar Kiya",
+   "year": 2025,
+   "kerala_gross": "₹37.1L"
+  },
+  {
+   "movie_id": 1030,
+   "movie_slug": "sambhavam-adhyayam-onnu",
+   "title": "Sambhavam Adhyayam Onnu",
+   "year": 2026,
+   "kerala_gross": "₹4.5 Cr"
+  },
+  {
+   "movie_id": 1314,
+   "movie_slug": "aaram",
+   "title": "Aaram",
+   "year": 2026,
+   "kerala_gross": "₹1.0 Cr"
+  }
+ ]
+}

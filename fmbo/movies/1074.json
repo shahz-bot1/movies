@@ -1,0 +1,903 @@
+{
+ "id": 1074,
+ "slug": "normal",
+ "source_url": "https://fridaymatinee.in/boxoffice/normal-1074",
+ "captured_at": "2026-10-01T19:21:20.748711+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1074,
+    "title": "Normal",
+    "img": "https://image.tmdb.org/t/p/original/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg",
+    "released": "2026-04-17",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31195136",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "91 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
+    "released": "2026-04-16",
+    "director": "Ben Wheatley",
+    "directorSlug": "ben-wheatley",
+    "actors": [
+     "Bob Odenkirk",
+     "Henry Winkler",
+     "Lena Headey",
+     "Billy MacLellan",
+     "Ryan Allen",
+     "Reena Jolly"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 35131,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 600,
+      "updatedAt": "2026-09-24T13:10:07.000Z"
+     },
+     "rt": "77%",
+     "metascore": 63,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Bob Odenkirk",
+     "character": "Ulysses Richardson",
+     "slug": "bob-odenkirk",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+    },
+    {
+     "name": "Henry Winkler",
+     "character": "Mayor Kibner",
+     "slug": "henry-winkler",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mGlSRA5RDswEDmY8oWEizXliShp.jpg"
+    },
+    {
+     "name": "Lena Headey",
+     "character": "Moira",
+     "slug": "lena-headey",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
+    },
+    {
+     "name": "Billy MacLellan",
+     "character": "Deputy Mike Nelson",
+     "slug": "billy-maclellan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9ObnhjbbeVEhk8g941FrLq4W0r7.jpg"
+    },
+    {
+     "name": "Ryan Allen",
+     "character": "Deputy Blaine Anderson",
+     "slug": "ryan-allen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/99O5NjoOmO4uCmTYaQhipj1qMNx.jpg"
+    },
+    {
+     "name": "Reena Jolly",
+     "character": "Lori",
+     "slug": "reena-jolly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zd29cqltwMWnRVPJ08vsV02CYYQ.jpg"
+    },
+    {
+     "name": "Brendan Fletcher",
+     "character": "Keith",
+     "slug": "brendan-fletcher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/azeMOxQdCw18ABRwwOMIo3lV1If.jpg"
+    },
+    {
+     "name": "Peter Shinkoda",
+     "character": "Joe",
+     "slug": "peter-shinkoda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lCQl28poQr4bLwqZjhryGkV73jO.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ben Wheatley",
+       "slug": "ben-wheatley"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Derek Kolstad",
+       "slug": "derek-kolstad"
+      },
+      {
+       "name": "Bob Odenkirk",
+       "slug": "bob-odenkirk"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Harry Gregson-Williams",
+       "slug": "harry-gregson-williams"
+      },
+      {
+       "name": "Ryder McNair",
+       "slug": "ryder-mcnair"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Armando Salas",
+       "slug": "armando-salas"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jonathan Amos",
+       "slug": "jonathan-amos"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Marc Provissiero",
+       "slug": "marc-provissiero"
+      },
+      {
+       "name": "Bob Odenkirk",
+       "slug": "bob-odenkirk"
+      },
+      {
+       "name": "Derek Kolstad",
+       "slug": "derek-kolstad"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aperture Media Partners",
+     "slug": "aperture-media-partners",
+     "logo": "https://image.tmdb.org/t/p/w185/56Lrmj9izLx7SEa0uPp0fVvssea.png"
+    },
+    {
+     "name": "QWGmire",
+     "slug": "qwgmire",
+     "logo": "https://image.tmdb.org/t/p/w185/lXW15vGgeQIIGia0oFycQgALb9Y.png"
+    },
+    {
+     "name": "OPE Partners",
+     "slug": "ope-partners",
+     "logo": "https://image.tmdb.org/t/p/w185/jefZmEJlxUAkuuwkH9CHQchgmJX.png"
+    },
+    {
+     "name": "Le Foole",
+     "slug": "le-foole",
+     "logo": null
+    },
+    {
+     "name": "Tradecraft",
+     "slug": "tradecraft",
+     "logo": null
+    },
+    {
+     "name": "Normal Films",
+     "slug": "normal-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-05-19",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-04-18": [
+     {
+      "id": 1071,
+      "title": "BTS World Tour 'Arirang' in Japan: Live Viewing",
+      "img": "https://image.tmdb.org/t/p/original/iNBzpdLRX7OfajlnwNdJNlW0bCB.jpg"
+     }
+    ],
+    "2026-04-17": [
+     {
+      "id": 1075,
+      "title": "Bad Boy Karthik",
+      "img": "https://image.tmdb.org/t/p/original/uApbYo8FnHRNFCqvruo9wfQtyC6.jpg"
+     }
+    ],
+    "2026-04-22": [
+     {
+      "id": 1080,
+      "title": "Michael",
+      "img": "https://image.tmdb.org/t/p/original/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-04-17",
+     "gross": 22480,
+     "sold": 80,
+     "unsold": 188,
+     "shows": 2,
+     "occ": 29.85,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 22480,
+     "lastUpdatedAt": "2026-04-17 20:18:00"
+    },
+    {
+     "label": "2026-04-18",
+     "gross": 10080,
+     "sold": 35,
+     "unsold": 231,
+     "shows": 2,
+     "occ": 13.16,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 32560,
+     "lastUpdatedAt": "2026-04-18 20:18:00"
+    },
+    {
+     "label": "2026-04-19",
+     "gross": 15390,
+     "sold": 58,
+     "unsold": 209,
+     "shows": 2,
+     "occ": 21.72,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 47950,
+     "lastUpdatedAt": "2026-04-19 20:18:00"
+    },
+    {
+     "label": "2026-04-20",
+     "gross": 910,
+     "sold": 4,
+     "unsold": 141,
+     "shows": 1,
+     "occ": 2.76,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 48860,
+     "lastUpdatedAt": "2026-04-20 11:13:00"
+    },
+    {
+     "label": "2026-04-21",
+     "gross": 2085,
+     "sold": 19,
+     "unsold": 126,
+     "shows": 1,
+     "occ": 13.1,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 50945,
+     "lastUpdatedAt": "2026-04-21 11:13:00"
+    },
+    {
+     "label": "2026-04-22",
+     "gross": 1625,
+     "sold": 14,
+     "unsold": 131,
+     "shows": 1,
+     "occ": 9.66,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 52570,
+     "lastUpdatedAt": "2026-04-22 11:13:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 52570,
+    "totalShows": 9,
+    "totalSeats": 1236,
+    "totalSold": 210,
+    "avgOcc": "17.0",
+    "totalDays": 6,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 22480,
+     "date": "2026-04-17"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 22480,
+     "date": "2026-04-17"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "6:1625:52570"
+  },
+  "week": {
+   "movie": {
+    "id": 1074,
+    "title": "Normal",
+    "img": "https://image.tmdb.org/t/p/original/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg",
+    "released": "2026-04-17",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31195136",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "91 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
+    "released": "2026-04-16",
+    "director": "Ben Wheatley",
+    "directorSlug": "ben-wheatley",
+    "actors": [
+     "Bob Odenkirk",
+     "Henry Winkler",
+     "Lena Headey",
+     "Billy MacLellan",
+     "Ryan Allen",
+     "Reena Jolly"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 35131,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 600,
+      "updatedAt": "2026-09-24T13:10:07.000Z"
+     },
+     "rt": "77%",
+     "metascore": 63,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Bob Odenkirk",
+     "character": "Ulysses Richardson",
+     "slug": "bob-odenkirk",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+    },
+    {
+     "name": "Henry Winkler",
+     "character": "Mayor Kibner",
+     "slug": "henry-winkler",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mGlSRA5RDswEDmY8oWEizXliShp.jpg"
+    },
+    {
+     "name": "Lena Headey",
+     "character": "Moira",
+     "slug": "lena-headey",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
+    },
+    {
+     "name": "Billy MacLellan",
+     "character": "Deputy Mike Nelson",
+     "slug": "billy-maclellan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9ObnhjbbeVEhk8g941FrLq4W0r7.jpg"
+    },
+    {
+     "name": "Ryan Allen",
+     "character": "Deputy Blaine Anderson",
+     "slug": "ryan-allen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/99O5NjoOmO4uCmTYaQhipj1qMNx.jpg"
+    },
+    {
+     "name": "Reena Jolly",
+     "character": "Lori",
+     "slug": "reena-jolly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zd29cqltwMWnRVPJ08vsV02CYYQ.jpg"
+    },
+    {
+     "name": "Brendan Fletcher",
+     "character": "Keith",
+     "slug": "brendan-fletcher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/azeMOxQdCw18ABRwwOMIo3lV1If.jpg"
+    },
+    {
+     "name": "Peter Shinkoda",
+     "character": "Joe",
+     "slug": "peter-shinkoda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lCQl28poQr4bLwqZjhryGkV73jO.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ben Wheatley",
+       "slug": "ben-wheatley"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Derek Kolstad",
+       "slug": "derek-kolstad"
+      },
+      {
+       "name": "Bob Odenkirk",
+       "slug": "bob-odenkirk"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Harry Gregson-Williams",
+       "slug": "harry-gregson-williams"
+      },
+      {
+       "name": "Ryder McNair",
+       "slug": "ryder-mcnair"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Armando Salas",
+       "slug": "armando-salas"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jonathan Amos",
+       "slug": "jonathan-amos"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Marc Provissiero",
+       "slug": "marc-provissiero"
+      },
+      {
+       "name": "Bob Odenkirk",
+       "slug": "bob-odenkirk"
+      },
+      {
+       "name": "Derek Kolstad",
+       "slug": "derek-kolstad"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aperture Media Partners",
+     "slug": "aperture-media-partners",
+     "logo": "https://image.tmdb.org/t/p/w185/56Lrmj9izLx7SEa0uPp0fVvssea.png"
+    },
+    {
+     "name": "QWGmire",
+     "slug": "qwgmire",
+     "logo": "https://image.tmdb.org/t/p/w185/lXW15vGgeQIIGia0oFycQgALb9Y.png"
+    },
+    {
+     "name": "OPE Partners",
+     "slug": "ope-partners",
+     "logo": "https://image.tmdb.org/t/p/w185/jefZmEJlxUAkuuwkH9CHQchgmJX.png"
+    },
+    {
+     "name": "Le Foole",
+     "slug": "le-foole",
+     "logo": null
+    },
+    {
+     "name": "Tradecraft",
+     "slug": "tradecraft",
+     "logo": null
+    },
+    {
+     "name": "Normal Films",
+     "slug": "normal-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-05-19",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-04-18": [
+     {
+      "id": 1071,
+      "title": "BTS World Tour 'Arirang' in Japan: Live Viewing",
+      "img": "https://image.tmdb.org/t/p/original/iNBzpdLRX7OfajlnwNdJNlW0bCB.jpg"
+     }
+    ],
+    "2026-04-17": [
+     {
+      "id": 1075,
+      "title": "Bad Boy Karthik",
+      "img": "https://image.tmdb.org/t/p/original/uApbYo8FnHRNFCqvruo9wfQtyC6.jpg"
+     }
+    ],
+    "2026-04-22": [
+     {
+      "id": 1080,
+      "title": "Michael",
+      "img": "https://image.tmdb.org/t/p/original/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-04-17",
+     "gross": 52570,
+     "sold": 210,
+     "unsold": 1026,
+     "shows": 9,
+     "occ": 16.99,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 52570,
+     "lastUpdatedAt": "2026-04-22 11:13:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 52570,
+    "totalShows": 9,
+    "totalSeats": 1236,
+    "totalSold": 210,
+    "avgOcc": "17.0",
+    "totalDays": 1,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 52570
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 52570
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "1:52570:52570"
+  },
+  "district": {
+   "movie": {
+    "id": 1074,
+    "title": "Normal",
+    "img": "https://image.tmdb.org/t/p/original/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg",
+    "released": "2026-04-17",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31195136",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "91 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
+    "released": "2026-04-16",
+    "director": "Ben Wheatley",
+    "directorSlug": "ben-wheatley",
+    "actors": [
+     "Bob Odenkirk",
+     "Henry Winkler",
+     "Lena Headey",
+     "Billy MacLellan",
+     "Ryan Allen",
+     "Reena Jolly"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.3",
+      "votes": 35131,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.3",
+      "votes": 600,
+      "updatedAt": "2026-09-24T13:10:07.000Z"
+     },
+     "rt": "77%",
+     "metascore": 63,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Bob Odenkirk",
+     "character": "Ulysses Richardson",
+     "slug": "bob-odenkirk",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+    },
+    {
+     "name": "Henry Winkler",
+     "character": "Mayor Kibner",
+     "slug": "henry-winkler",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mGlSRA5RDswEDmY8oWEizXliShp.jpg"
+    },
+    {
+     "name": "Lena Headey",
+     "character": "Moira",
+     "slug": "lena-headey",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
+    },
+    {
+     "name": "Billy MacLellan",
+     "character": "Deputy Mike Nelson",
+     "slug": "billy-maclellan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9ObnhjbbeVEhk8g941FrLq4W0r7.jpg"
+    },
+    {
+     "name": "Ryan Allen",
+     "character": "Deputy Blaine Anderson",
+     "slug": "ryan-allen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/99O5NjoOmO4uCmTYaQhipj1qMNx.jpg"
+    },
+    {
+     "name": "Reena Jolly",
+     "character": "Lori",
+     "slug": "reena-jolly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zd29cqltwMWnRVPJ08vsV02CYYQ.jpg"
+    },
+    {
+     "name": "Brendan Fletcher",
+     "character": "Keith",
+     "slug": "brendan-fletcher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/azeMOxQdCw18ABRwwOMIo3lV1If.jpg"
+    },
+    {
+     "name": "Peter Shinkoda",
+     "character": "Joe",
+     "slug": "peter-shinkoda",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lCQl28poQr4bLwqZjhryGkV73jO.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ben Wheatley",
+       "slug": "ben-wheatley"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Derek Kolstad",
+       "slug": "derek-kolstad"
+      },
+      {
+       "name": "Bob Odenkirk",
+       "slug": "bob-odenkirk"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Harry Gregson-Williams",
+       "slug": "harry-gregson-williams"
+      },
+      {
+       "name": "Ryder McNair",
+       "slug": "ryder-mcnair"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Armando Salas",
+       "slug": "armando-salas"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Jonathan Amos",
+       "slug": "jonathan-amos"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Marc Provissiero",
+       "slug": "marc-provissiero"
+      },
+      {
+       "name": "Bob Odenkirk",
+       "slug": "bob-odenkirk"
+      },
+      {
+       "name": "Derek Kolstad",
+       "slug": "derek-kolstad"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aperture Media Partners",
+     "slug": "aperture-media-partners",
+     "logo": "https://image.tmdb.org/t/p/w185/56Lrmj9izLx7SEa0uPp0fVvssea.png"
+    },
+    {
+     "name": "QWGmire",
+     "slug": "qwgmire",
+     "logo": "https://image.tmdb.org/t/p/w185/lXW15vGgeQIIGia0oFycQgALb9Y.png"
+    },
+    {
+     "name": "OPE Partners",
+     "slug": "ope-partners",
+     "logo": "https://image.tmdb.org/t/p/w185/jefZmEJlxUAkuuwkH9CHQchgmJX.png"
+    },
+    {
+     "name": "Le Foole",
+     "slug": "le-foole",
+     "logo": null
+    },
+    {
+     "name": "Tradecraft",
+     "slug": "tradecraft",
+     "logo": null
+    },
+    {
+     "name": "Normal Films",
+     "slug": "normal-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-05-19",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-04-18": [
+     {
+      "id": 1071,
+      "title": "BTS World Tour 'Arirang' in Japan: Live Viewing",
+      "img": "https://image.tmdb.org/t/p/original/iNBzpdLRX7OfajlnwNdJNlW0bCB.jpg"
+     }
+    ],
+    "2026-04-17": [
+     {
+      "id": 1075,
+      "title": "Bad Boy Karthik",
+      "img": "https://image.tmdb.org/t/p/original/uApbYo8FnHRNFCqvruo9wfQtyC6.jpg"
+     }
+    ],
+    "2026-04-22": [
+     {
+      "id": 1080,
+      "title": "Michael",
+      "img": "https://image.tmdb.org/t/p/original/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 37400,
+     "sold": 144,
+     "unsold": 726,
+     "shows": 6,
+     "occ": 16.55,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 37400,
+     "lastUpdatedAt": "2026-04-22 11:13:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 15170,
+     "sold": 66,
+     "unsold": 300,
+     "shows": 3,
+     "occ": 18.03,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 52570,
+     "lastUpdatedAt": "2026-04-19 20:13:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 52570,
+    "totalShows": 9,
+    "totalSeats": 1236,
+    "totalSold": 210,
+    "avgOcc": "17.0",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 37400,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 37400,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "2:15170:52570"
+  }
+ }
+}

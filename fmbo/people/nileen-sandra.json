@@ -1,0 +1,46 @@
+{
+ "slug": "nileen-sandra",
+ "name": "Nileen Sandra",
+ "source_url": "https://fridaymatinee.in/people/nileen-sandra",
+ "captured_at": "2026-10-02T01:01:47.629672+00:00",
+ "person": {
+  "name": "Nileen Sandra",
+  "photo": "https://image.tmdb.org/t/p/w185/wNvwgBEofXZT0qAJn61gKenpYC2.jpg",
+  "role": "Actor and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 365,
+   "movie_slug": "2018",
+   "title": "2018",
+   "year": 2023,
+   "kerala_gross": "₹66.3 Cr"
+  },
+  {
+   "movie_id": 652,
+   "movie_slug": "daveed",
+   "title": "Daveed",
+   "year": 2025,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 1259,
+   "movie_slug": "it-s-a-medical-miracle",
+   "title": "It's A Medical Miracle",
+   "year": 2026,
+   "kerala_gross": "₹2.2 Cr"
+  }
+ ]
+}

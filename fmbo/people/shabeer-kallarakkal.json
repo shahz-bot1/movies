@@ -1,0 +1,41 @@
+{
+ "slug": "shabeer-kallarakkal",
+ "name": "Shabeer Kallarakkal",
+ "source_url": "https://fridaymatinee.in/people/shabeer-kallarakkal",
+ "captured_at": "2026-10-02T10:23:02.971649+00:00",
+ "person": {
+  "name": "Shabeer Kallarakkal",
+  "photo": "https://image.tmdb.org/t/p/w185/b8yuWNUzW8d6jpLW15oE8lMQcXr.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 404,
+   "movie_slug": "king-of-kotha",
+   "title": "King of Kotha",
+   "year": 2023,
+   "kerala_gross": "₹12.1 Cr"
+  },
+  {
+   "movie_id": 561,
+   "movie_slug": "kondal",
+   "title": "Kondal",
+   "year": 2024,
+   "kerala_gross": "₹2.4 Cr"
+  },
+  {
+   "movie_id": 807,
+   "movie_slug": "madharaasi",
+   "title": "Madharaasi",
+   "year": 2025,
+   "kerala_gross": "₹1.5 Cr"
+  }
+ ]
+}

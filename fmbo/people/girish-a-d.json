@@ -1,0 +1,77 @@
+{
+ "slug": "girish-a-d",
+ "name": "Girish A. D.",
+ "source_url": "https://fridaymatinee.in/people/girish-a-d",
+ "captured_at": "2026-10-01T22:32:31.798575+00:00",
+ "person": {
+  "name": "Girish A. D.",
+  "photo": "https://image.tmdb.org/t/p/w185/pjRaOmlTs2J7fDqWgHcZWwah0zF.jpg",
+  "role": "Director, actor, producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 4
+  },
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 2
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 100,
+   "movie_slug": "super-sharanya",
+   "title": "Super Sharanya",
+   "year": 2022,
+   "kerala_gross": "₹5.7 Cr"
+  },
+  {
+   "movie_id": 500,
+   "movie_slug": "premalu",
+   "title": "Premalu",
+   "year": 2024,
+   "kerala_gross": "₹49.2 Cr"
+  },
+  {
+   "movie_id": 588,
+   "movie_slug": "i-am-kathalan",
+   "title": "I Am Kathalan",
+   "year": 2024,
+   "kerala_gross": "₹3.2 Cr"
+  },
+  {
+   "movie_id": 1234,
+   "movie_slug": "bethlehem-kudumba-unit",
+   "title": "Bethlehem Kudumba Unit",
+   "year": 2026,
+   "kerala_gross": "₹145.2 Cr"
+  },
+  {
+   "movie_id": 280,
+   "movie_slug": "poovan",
+   "title": "Poovan",
+   "year": 2023,
+   "kerala_gross": "₹29.9L"
+  },
+  {
+   "movie_id": 1079,
+   "movie_slug": "balan",
+   "title": "Balan",
+   "year": 2026,
+   "kerala_gross": "₹15.9 Cr"
+  }
+ ]
+}

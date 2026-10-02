@@ -1,0 +1,519 @@
+{
+ "id": 1089,
+ "slug": "achappas-album",
+ "source_url": "https://fridaymatinee.in/boxoffice/achappas-album-1089",
+ "captured_at": "2026-10-01T19:45:50.150085+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1089,
+    "title": "Achappas Album",
+    "img": "https://m.media-amazon.com/images/M/MV5BYzI1MzA5OGEtMmY2Mi00YjFkLTk0MTktNTNmOGQ0NzM0YjBhXkEyXkFqcGc@._V1_.jpg",
+    "released": "2026-04-24",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt36691757",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "121 min",
+    "genre": "Fantasy",
+    "plot": "A fantasy film about family relationships involving time travel, about a father and a son stepping into each other's shoes, and shirts, shorts, socks...to live each other's life.",
+    "released": null,
+    "director": null,
+    "directorSlug": null,
+    "actors": [],
+    "awards": null,
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T10:11:39.000Z"
+    }
+   },
+   "cast": [],
+   "crew": [],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-04-30": [
+     {
+      "id": 1084,
+      "title": "Kara",
+      "img": "https://image.tmdb.org/t/p/original/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg"
+     }
+    ],
+    "2026-04-24": [
+     {
+      "id": 1088,
+      "title": "Fuze",
+      "img": "https://image.tmdb.org/t/p/original/oWehDe6fFR4eUdUMDy4jz6XiinO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-04-24",
+     "gross": 60120.00000000004,
+     "sold": 286,
+     "unsold": 8249,
+     "shows": 60,
+     "occ": 3.35,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 60120.00000000004,
+     "lastUpdatedAt": "2026-04-24 22:38:00"
+    },
+    {
+     "label": "2026-04-25",
+     "gross": 224821.80000000005,
+     "sold": 950,
+     "unsold": 5803,
+     "shows": 50,
+     "occ": 14.07,
+     "hf": "7",
+     "almost": "7",
+     "ff": "0",
+     "cumul": 284941.8000000001,
+     "lastUpdatedAt": "2026-04-25 23:33:00"
+    },
+    {
+     "label": "2026-04-26",
+     "gross": 112020.00000000003,
+     "sold": 453,
+     "unsold": 3788,
+     "shows": 31,
+     "occ": 10.68,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 396961.80000000016,
+     "lastUpdatedAt": "2026-04-26 22:23:00"
+    },
+    {
+     "label": "2026-04-27",
+     "gross": 5499,
+     "sold": 27,
+     "unsold": 1549,
+     "shows": 11,
+     "occ": 1.71,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 402460.80000000016,
+     "lastUpdatedAt": "2026-04-27 20:13:00"
+    },
+    {
+     "label": "2026-04-28",
+     "gross": 10348,
+     "sold": 59,
+     "unsold": 1448,
+     "shows": 10,
+     "occ": 3.92,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 412808.80000000016,
+     "lastUpdatedAt": "2026-04-28 20:13:00"
+    },
+    {
+     "label": "2026-04-29",
+     "gross": 5067,
+     "sold": 31,
+     "unsold": 1509,
+     "shows": 9,
+     "occ": 2.01,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 417875.80000000016,
+     "lastUpdatedAt": "2026-04-29 20:13:00"
+    },
+    {
+     "label": "2026-04-30",
+     "gross": 315,
+     "sold": 3,
+     "unsold": 270,
+     "shows": 2,
+     "occ": 1.1,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 418190.80000000016,
+     "lastUpdatedAt": "2026-04-30 18:18:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 418190.80000000016,
+    "totalShows": 173,
+    "totalSeats": 24425,
+    "totalSold": 1809,
+    "avgOcc": "7.4",
+    "totalDays": 7,
+    "totalHousefull": 11,
+    "totalAlmost": 11,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 2,
+     "gross": 224821.80000000005,
+     "date": "2026-04-25"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 60120.00000000004,
+     "date": "2026-04-24"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "7:315:418190.80000000016"
+  },
+  "week": {
+   "movie": {
+    "id": 1089,
+    "title": "Achappas Album",
+    "img": "https://m.media-amazon.com/images/M/MV5BYzI1MzA5OGEtMmY2Mi00YjFkLTk0MTktNTNmOGQ0NzM0YjBhXkEyXkFqcGc@._V1_.jpg",
+    "released": "2026-04-24",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt36691757",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "121 min",
+    "genre": "Fantasy",
+    "plot": "A fantasy film about family relationships involving time travel, about a father and a son stepping into each other's shoes, and shirts, shorts, socks...to live each other's life.",
+    "released": null,
+    "director": null,
+    "directorSlug": null,
+    "actors": [],
+    "awards": null,
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T10:11:39.000Z"
+    }
+   },
+   "cast": [],
+   "crew": [],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-04-30": [
+     {
+      "id": 1084,
+      "title": "Kara",
+      "img": "https://image.tmdb.org/t/p/original/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg"
+     }
+    ],
+    "2026-04-24": [
+     {
+      "id": 1088,
+      "title": "Fuze",
+      "img": "https://image.tmdb.org/t/p/original/oWehDe6fFR4eUdUMDy4jz6XiinO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-04-24",
+     "gross": 418190.8000000001,
+     "sold": 1809,
+     "unsold": 22616,
+     "shows": 173,
+     "occ": 7.41,
+     "hf": "11",
+     "almost": "11",
+     "ff": "0",
+     "cumul": 418190.8000000001,
+     "lastUpdatedAt": "2026-04-30 18:18:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 418190.8000000001,
+    "totalShows": 173,
+    "totalSeats": 24425,
+    "totalSold": 1809,
+    "avgOcc": "7.4",
+    "totalDays": 1,
+    "totalHousefull": 11,
+    "totalAlmost": 11,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 418190.8000000001
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 418190.8000000001
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "1:418190.8000000001:418190.8000000001"
+  },
+  "district": {
+   "movie": {
+    "id": 1089,
+    "title": "Achappas Album",
+    "img": "https://m.media-amazon.com/images/M/MV5BYzI1MzA5OGEtMmY2Mi00YjFkLTk0MTktNTNmOGQ0NzM0YjBhXkEyXkFqcGc@._V1_.jpg",
+    "released": "2026-04-24",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt36691757",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "121 min",
+    "genre": "Fantasy",
+    "plot": "A fantasy film about family relationships involving time travel, about a father and a son stepping into each other's shoes, and shirts, shorts, socks...to live each other's life.",
+    "released": null,
+    "director": null,
+    "directorSlug": null,
+    "actors": [],
+    "awards": null,
+    "ratings": {
+     "imdb": null,
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T10:11:39.000Z"
+    }
+   },
+   "cast": [],
+   "crew": [],
+   "companies": [],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-04-30": [
+     {
+      "id": 1084,
+      "title": "Kara",
+      "img": "https://image.tmdb.org/t/p/original/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg"
+     }
+    ],
+    "2026-04-24": [
+     {
+      "id": 1088,
+      "title": "Fuze",
+      "img": "https://image.tmdb.org/t/p/original/oWehDe6fFR4eUdUMDy4jz6XiinO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Kozhikode",
+     "gross": 146447,
+     "sold": 589,
+     "unsold": 4078,
+     "shows": 30,
+     "occ": 12.62,
+     "hf": "4",
+     "almost": "4",
+     "ff": "0",
+     "cumul": 146447,
+     "lastUpdatedAt": "2026-04-30 13:42:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 89268,
+     "sold": 446,
+     "unsold": 4621,
+     "shows": 36,
+     "occ": 8.8,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 235715,
+     "lastUpdatedAt": "2026-04-30 18:18:00"
+    },
+    {
+     "label": "Ernakulam",
+     "gross": 83560,
+     "sold": 364,
+     "unsold": 2642,
+     "shows": 24,
+     "occ": 12.11,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 319275,
+     "lastUpdatedAt": "2026-04-28 20:13:00"
+    },
+    {
+     "label": "Kannur",
+     "gross": 60814.80000000011,
+     "sold": 177,
+     "unsold": 3133,
+     "shows": 23,
+     "occ": 5.35,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 380089.8000000001,
+     "lastUpdatedAt": "2026-04-29 17:23:00"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 11826,
+     "sold": 84,
+     "unsold": 1992,
+     "shows": 11,
+     "occ": 4.05,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 391915.8000000001,
+     "lastUpdatedAt": "2026-04-29 14:23:00"
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 10990,
+     "sold": 68,
+     "unsold": 494,
+     "shows": 4,
+     "occ": 12.1,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 402905.8000000001,
+     "lastUpdatedAt": "2026-04-25 16:28:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 9060,
+     "sold": 37,
+     "unsold": 971,
+     "shows": 8,
+     "occ": 3.67,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 411965.8000000001,
+     "lastUpdatedAt": "2026-04-29 20:13:00"
+    },
+    {
+     "label": "Pathanamthitta",
+     "gross": 3450,
+     "sold": 23,
+     "unsold": 307,
+     "shows": 3,
+     "occ": 6.97,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 415415.8000000001,
+     "lastUpdatedAt": "2026-04-26 14:23:00"
+    },
+    {
+     "label": "Kottayam",
+     "gross": 1515,
+     "sold": 13,
+     "unsold": 613,
+     "shows": 2,
+     "occ": 2.08,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 416930.8000000001,
+     "lastUpdatedAt": "2026-04-24 17:43:00"
+    },
+    {
+     "label": "Kollam",
+     "gross": 900,
+     "sold": 5,
+     "unsold": 1059,
+     "shows": 12,
+     "occ": 0.47,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 417830.8000000001,
+     "lastUpdatedAt": "2026-04-29 18:58:00"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 360,
+     "sold": 3,
+     "unsold": 770,
+     "shows": 7,
+     "occ": 0.39,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 418190.8000000001,
+     "lastUpdatedAt": "2026-04-25 14:14:00"
+    },
+    {
+     "label": "Idukki",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 300,
+     "shows": 3,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 418190.8000000001,
+     "lastUpdatedAt": "2026-04-25 12:23:00"
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 0,
+     "sold": 0,
+     "unsold": 1636,
+     "shows": 10,
+     "occ": 0,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 418190.8000000001,
+     "lastUpdatedAt": "2026-04-29 13:23:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 418190.8000000001,
+    "totalShows": 173,
+    "totalSeats": 24425,
+    "totalSold": 1809,
+    "avgOcc": "7.4",
+    "totalDays": 13,
+    "totalHousefull": 11,
+    "totalAlmost": 11,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 146447,
+     "date": "Kozhikode"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 146447,
+     "date": "Kozhikode"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "13:0:418190.8000000001"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "ridha",
+ "name": "Ridha",
+ "source_url": "https://fridaymatinee.in/people/ridha",
+ "captured_at": "2026-10-02T09:42:41.269863+00:00",
+ "person": {
+  "name": "Ridha",
+  "photo": "https://image.tmdb.org/t/p/w185/1WOBv913uJpGkdETWxAOkKw7k95.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 299,
+   "movie_slug": "ntikkakkakkoru-premondarnn",
+   "title": "Ntikkakkakkoru Premondarnn",
+   "year": 2023,
+   "kerala_gross": "₹44.3L"
+  },
+  {
+   "movie_id": 357,
+   "movie_slug": "sulaikha-manzil",
+   "title": "Sulaikha Manzil",
+   "year": 2023,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 1117,
+   "movie_slug": "dose",
+   "title": "Dose",
+   "year": 2026,
+   "kerala_gross": "₹8.2L"
+  }
+ ]
+}

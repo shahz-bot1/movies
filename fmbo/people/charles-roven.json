@@ -1,0 +1,41 @@
+{
+ "slug": "charles-roven",
+ "name": "Charles Roven",
+ "source_url": "https://fridaymatinee.in/people/charles-roven",
+ "captured_at": "2026-10-01T21:32:04.785799+00:00",
+ "person": {
+  "name": "Charles Roven",
+  "photo": "https://image.tmdb.org/t/p/w185/5fxOnoI6jKicdLBtbeumKxxV9Jp.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 67,
+   "movie_slug": "wonder-woman-1984",
+   "title": "Wonder Woman 1984",
+   "year": 2021,
+   "kerala_gross": "₹1.9L"
+  },
+  {
+   "movie_id": 403,
+   "movie_slug": "oppenheimer",
+   "title": "Oppenheimer",
+   "year": 2023,
+   "kerala_gross": "₹7.1 Cr"
+  },
+  {
+   "movie_id": 985,
+   "movie_slug": "mercy",
+   "title": "Mercy",
+   "year": 2026,
+   "kerala_gross": "₹2.8L"
+  }
+ ]
+}

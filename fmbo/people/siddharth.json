@@ -1,0 +1,41 @@
+{
+ "slug": "siddharth",
+ "name": "Siddharth",
+ "source_url": "https://fridaymatinee.in/people/siddharth",
+ "captured_at": "2026-10-02T10:39:01.690457+00:00",
+ "person": {
+  "name": "Siddharth",
+  "photo": "https://image.tmdb.org/t/p/w185/9XrTuJp9lnB1rsBPzTaoXdp1ig8.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 494,
+   "movie_slug": "ayalaan",
+   "title": "Ayalaan",
+   "year": 2024,
+   "kerala_gross": "₹50.4L"
+  },
+  {
+   "movie_id": 535,
+   "movie_slug": "indian-2",
+   "title": "Indian 2",
+   "year": 2024,
+   "kerala_gross": "₹4.5 Cr"
+  },
+  {
+   "movie_id": 717,
+   "movie_slug": "3bhk",
+   "title": "3BHK",
+   "year": 2025,
+   "kerala_gross": "₹25.2L"
+  }
+ ]
+}

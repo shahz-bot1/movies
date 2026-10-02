@@ -1,0 +1,41 @@
+{
+ "slug": "eddie-hamilton",
+ "name": "Eddie Hamilton",
+ "source_url": "https://fridaymatinee.in/people/eddie-hamilton",
+ "captured_at": "2026-10-01T22:08:41.272199+00:00",
+ "person": {
+  "name": "Eddie Hamilton",
+  "photo": "https://image.tmdb.org/t/p/w185/5W8cpMNYl2fHg5HQF4OprvEYXIY.jpg",
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 141,
+   "movie_slug": "top-gun-maverick",
+   "title": "Top Gun Maverick",
+   "year": 2022,
+   "kerala_gross": "₹93.9L"
+  },
+  {
+   "movie_id": 405,
+   "movie_slug": "mission-impossible-dead-reckoning-part-one",
+   "title": "Mission: Impossible - Dead Reckoning Part One",
+   "year": 2023,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 692,
+   "movie_slug": "mission-impossible-the-final-reckoning",
+   "title": "Mission: Impossible - The Final Reckoning",
+   "year": 2025,
+   "kerala_gross": "₹3.6 Cr"
+  }
+ ]
+}

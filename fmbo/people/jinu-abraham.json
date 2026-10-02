@@ -1,0 +1,65 @@
+{
+ "slug": "jinu-abraham",
+ "name": "Jinu Abraham",
+ "source_url": "https://fridaymatinee.in/people/jinu-abraham",
+ "captured_at": "2026-10-01T23:15:25.544414+00:00",
+ "person": {
+  "name": "Jinu Abraham",
+  "photo": "https://image.tmdb.org/t/p/w185/xLv8znq2oSy9B09WmkZhV90P7PP.jpg",
+  "role": "Producer, actor and writer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  },
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 256,
+   "movie_slug": "kaapa",
+   "title": "Kaapa",
+   "year": 2022,
+   "kerala_gross": "₹8.8 Cr"
+  },
+  {
+   "movie_id": 497,
+   "movie_slug": "anweshippin-kandethum",
+   "title": "Anweshippin Kandethum",
+   "year": 2024,
+   "kerala_gross": "₹7.6 Cr"
+  },
+  {
+   "movie_id": 634,
+   "movie_slug": "bazooka",
+   "title": "Bazooka",
+   "year": 2025,
+   "kerala_gross": "₹11.9 Cr"
+  },
+  {
+   "movie_id": 1233,
+   "movie_slug": "khalifa",
+   "title": "Khalifa",
+   "year": 2026,
+   "kerala_gross": "₹20.0 Cr"
+  },
+  {
+   "movie_id": 160,
+   "movie_slug": "kaduva",
+   "title": "Kaduva",
+   "year": 2022,
+   "kerala_gross": "₹17.0 Cr"
+  }
+ ]
+}

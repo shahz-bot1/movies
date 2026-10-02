@@ -1,0 +1,55 @@
+{
+ "slug": "rajesh-murugesan",
+ "name": "Rajesh Murugesan",
+ "source_url": "https://fridaymatinee.in/people/rajesh-murugesan",
+ "captured_at": "2026-10-02T08:33:07.032116+00:00",
+ "person": {
+  "name": "Rajesh Murugesan",
+  "photo": "https://image.tmdb.org/t/p/w185/h1U21vJdZ9cbTvmeTjUmWMmRXMD.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 245,
+   "movie_slug": "gold",
+   "title": "Gold",
+   "year": 2022,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 691,
+   "movie_slug": "padakkalam",
+   "title": "Padakkalam",
+   "year": 2025,
+   "kerala_gross": "₹10.6 Cr"
+  },
+  {
+   "movie_id": 762,
+   "movie_slug": "house-mates",
+   "title": "House Mates",
+   "year": 2025,
+   "kerala_gross": "₹1.1L"
+  },
+  {
+   "movie_id": 858,
+   "movie_slug": "the-pet-detective",
+   "title": "The Pet Detective",
+   "year": 2025,
+   "kerala_gross": "₹9.7 Cr"
+  },
+  {
+   "movie_id": 1170,
+   "movie_slug": "heartin",
+   "title": "Heartin",
+   "year": 2026,
+   "kerala_gross": "₹1.4L"
+  }
+ ]
+}

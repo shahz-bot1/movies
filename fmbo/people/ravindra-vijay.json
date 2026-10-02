@@ -1,0 +1,48 @@
+{
+ "slug": "ravindra-vijay",
+ "name": "Ravindra Vijay",
+ "source_url": "https://fridaymatinee.in/people/ravindra-vijay",
+ "captured_at": "2026-10-02T08:45:23.442122+00:00",
+ "person": {
+  "name": "Ravindra Vijay",
+  "photo": "https://image.tmdb.org/t/p/w185/2mw4VbANE3QtI9dzQXdrG74RizL.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 513,
+   "movie_slug": "jai-ganesh",
+   "title": "Jai Ganesh",
+   "year": 2024,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 682,
+   "movie_slug": "hit-the-third-case",
+   "title": "HIT: The Third Case",
+   "year": 2025,
+   "kerala_gross": "₹71.3L"
+  },
+  {
+   "movie_id": 663,
+   "movie_slug": "kaantha",
+   "title": "Kaantha",
+   "year": 2025,
+   "kerala_gross": "₹3.6 Cr"
+  },
+  {
+   "movie_id": 1274,
+   "movie_slug": "mandaadi",
+   "title": "Mandaadi",
+   "year": 2026,
+   "kerala_gross": "₹2.0 Cr"
+  }
+ ]
+}

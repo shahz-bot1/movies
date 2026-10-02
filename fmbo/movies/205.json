@@ -1,0 +1,769 @@
+{
+ "id": 205,
+ "slug": "chup",
+ "source_url": "https://fridaymatinee.in/boxoffice/chup-205",
+ "captured_at": "2026-10-01T18:06:35.625048+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 205,
+    "title": "Chup",
+    "img": "https://image.tmdb.org/t/p/original/n3tJMHzqCa3R1CA9lW4n6obJvxJ.jpg",
+    "released": "2022-09-23",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15654262",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "130 min",
+    "genre": "Crime, Thriller",
+    "plot": "A series of bizarre and disturbing murders rock the city of Mumbai. Film critics are being killed week after week with the release of every new film. Arvind Mathur, Head of Crime Branch Mumbai, is tasked with solving the case. With the help of Zenobia, a criminal psychologist, he tries to understand the mind of the killer to trap him.",
+    "released": "2022-09-23",
+    "director": "R. Balki",
+    "directorSlug": "r-balki",
+    "actors": [
+     "Dulquer Salmaan",
+     "Sunny Deol",
+     "Shreya Dhanwanthary",
+     "Pooja Bhatt",
+     "Saranya Ponvannan",
+     "Adhyayan Suman"
+    ],
+    "awards": "3 wins u0026 5 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.4",
+      "votes": 27867,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.7",
+      "votes": 51,
+      "updatedAt": "2026-09-24T22:11:02.000Z"
+     },
+     "rt": "40%",
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dulquer Salmaan",
+     "character": "Danny",
+     "slug": "dulquer-salmaan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AT3qDRakZQSZ6HVj7sQFUzN07N.jpg"
+    },
+    {
+     "name": "Sunny Deol",
+     "character": "Arvind Mathur",
+     "slug": "sunny-deol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w9RenJriQVys2k5fa9ojkXpYMwO.jpg"
+    },
+    {
+     "name": "Shreya Dhanwanthary",
+     "character": "Nila Menon",
+     "slug": "shreya-dhanwanthary",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kzLK1i4bQeajhzRAMPZAonAM6b7.jpg"
+    },
+    {
+     "name": "Pooja Bhatt",
+     "character": "Dr. Zenobia Shroff",
+     "slug": "pooja-bhatt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y9Tv1hsfjJEFVnK7cauLFuA2pg7.jpg"
+    },
+    {
+     "name": "Saranya Ponvannan",
+     "character": "Mrs. Menon",
+     "slug": "saranya-ponvannan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iFKB2AQi0iL78HykQlaSFLxErfA.jpg"
+    },
+    {
+     "name": "Adhyayan Suman",
+     "character": "Purab Kapoor",
+     "slug": "adhyayan-suman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cFJFOjpNn4pQIge9Ty52j1UiKmb.jpg"
+    },
+    {
+     "name": "Pravishi Das",
+     "character": "Reshma",
+     "slug": "pravishi-das",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rajeev Ravindranathan",
+     "character": null,
+     "slug": "rajeev-ravindranathan",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "R. Balki",
+       "slug": "r-balki"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "R. Balki",
+       "slug": "r-balki"
+      },
+      {
+       "name": "Rishi Virmani",
+       "slug": "rishi-virmani"
+      },
+      {
+       "name": "Raja Sen",
+       "slug": "raja-sen"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Amit Trivedi",
+       "slug": "amit-trivedi"
+      },
+      {
+       "name": "Sachin Dev Burman",
+       "slug": "sachin-dev-burman"
+      },
+      {
+       "name": "Aman Pant",
+       "slug": "aman-pant"
+      },
+      {
+       "name": "Sneha Khanwalkar",
+       "slug": "sneha-khanwalkar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vishal Sinha",
+       "slug": "vishal-sinha"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nayan Haresh Bhadra",
+       "slug": "nayan-haresh-bhadra"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "R. Balki",
+       "slug": "r-balki"
+      },
+      {
+       "name": "Rakesh Jhunjhunwala",
+       "slug": "rakesh-jhunjhunwala"
+      },
+      {
+       "name": "Anil Naidu",
+       "slug": "anil-naidu"
+      },
+      {
+       "name": "Jayantilal Gada",
+       "slug": "jayantilal-gada"
+      },
+      {
+       "name": "Gauri Shinde",
+       "slug": "gauri-shinde"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Hope Productions",
+     "slug": "hope-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4949904,
+    "totalShows": 1073,
+    "totalDays": 16,
+    "openingDay": {
+     "day": 1,
+     "gross": 879888,
+     "date": "2022-09-23"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 1078622,
+     "date": "2022-09-25"
+    },
+    "chartPosition": {
+     "current_position": 97,
+     "weeks_on_chart": 0,
+     "peak_position": 97,
+     "last_week_position": 97
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-09-23"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 205,
+    "title": "Chup",
+    "img": "https://image.tmdb.org/t/p/original/n3tJMHzqCa3R1CA9lW4n6obJvxJ.jpg",
+    "released": "2022-09-23",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15654262",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "130 min",
+    "genre": "Crime, Thriller",
+    "plot": "A series of bizarre and disturbing murders rock the city of Mumbai. Film critics are being killed week after week with the release of every new film. Arvind Mathur, Head of Crime Branch Mumbai, is tasked with solving the case. With the help of Zenobia, a criminal psychologist, he tries to understand the mind of the killer to trap him.",
+    "released": "2022-09-23",
+    "director": "R. Balki",
+    "directorSlug": "r-balki",
+    "actors": [
+     "Dulquer Salmaan",
+     "Sunny Deol",
+     "Shreya Dhanwanthary",
+     "Pooja Bhatt",
+     "Saranya Ponvannan",
+     "Adhyayan Suman"
+    ],
+    "awards": "3 wins u0026 5 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.4",
+      "votes": 27867,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.7",
+      "votes": 51,
+      "updatedAt": "2026-09-24T22:11:02.000Z"
+     },
+     "rt": "40%",
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dulquer Salmaan",
+     "character": "Danny",
+     "slug": "dulquer-salmaan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AT3qDRakZQSZ6HVj7sQFUzN07N.jpg"
+    },
+    {
+     "name": "Sunny Deol",
+     "character": "Arvind Mathur",
+     "slug": "sunny-deol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w9RenJriQVys2k5fa9ojkXpYMwO.jpg"
+    },
+    {
+     "name": "Shreya Dhanwanthary",
+     "character": "Nila Menon",
+     "slug": "shreya-dhanwanthary",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kzLK1i4bQeajhzRAMPZAonAM6b7.jpg"
+    },
+    {
+     "name": "Pooja Bhatt",
+     "character": "Dr. Zenobia Shroff",
+     "slug": "pooja-bhatt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y9Tv1hsfjJEFVnK7cauLFuA2pg7.jpg"
+    },
+    {
+     "name": "Saranya Ponvannan",
+     "character": "Mrs. Menon",
+     "slug": "saranya-ponvannan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iFKB2AQi0iL78HykQlaSFLxErfA.jpg"
+    },
+    {
+     "name": "Adhyayan Suman",
+     "character": "Purab Kapoor",
+     "slug": "adhyayan-suman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cFJFOjpNn4pQIge9Ty52j1UiKmb.jpg"
+    },
+    {
+     "name": "Pravishi Das",
+     "character": "Reshma",
+     "slug": "pravishi-das",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rajeev Ravindranathan",
+     "character": null,
+     "slug": "rajeev-ravindranathan",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "R. Balki",
+       "slug": "r-balki"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "R. Balki",
+       "slug": "r-balki"
+      },
+      {
+       "name": "Rishi Virmani",
+       "slug": "rishi-virmani"
+      },
+      {
+       "name": "Raja Sen",
+       "slug": "raja-sen"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Amit Trivedi",
+       "slug": "amit-trivedi"
+      },
+      {
+       "name": "Sachin Dev Burman",
+       "slug": "sachin-dev-burman"
+      },
+      {
+       "name": "Aman Pant",
+       "slug": "aman-pant"
+      },
+      {
+       "name": "Sneha Khanwalkar",
+       "slug": "sneha-khanwalkar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vishal Sinha",
+       "slug": "vishal-sinha"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nayan Haresh Bhadra",
+       "slug": "nayan-haresh-bhadra"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "R. Balki",
+       "slug": "r-balki"
+      },
+      {
+       "name": "Rakesh Jhunjhunwala",
+       "slug": "rakesh-jhunjhunwala"
+      },
+      {
+       "name": "Anil Naidu",
+       "slug": "anil-naidu"
+      },
+      {
+       "name": "Jayantilal Gada",
+       "slug": "jayantilal-gada"
+      },
+      {
+       "name": "Gauri Shinde",
+       "slug": "gauri-shinde"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Hope Productions",
+     "slug": "hope-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-09-23",
+     "gross": 4380967,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 971,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-09-30",
+     "gross": 557937,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 100,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-10-07",
+     "gross": 11000,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4949904,
+    "totalShows": 1073,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 4380967
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4380967
+    },
+    "chartPosition": {
+     "current_position": 97,
+     "weeks_on_chart": 0,
+     "peak_position": 97,
+     "last_week_position": 97
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-09-23"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 205,
+    "title": "Chup",
+    "img": "https://image.tmdb.org/t/p/original/n3tJMHzqCa3R1CA9lW4n6obJvxJ.jpg",
+    "released": "2022-09-23",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15654262",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "130 min",
+    "genre": "Crime, Thriller",
+    "plot": "A series of bizarre and disturbing murders rock the city of Mumbai. Film critics are being killed week after week with the release of every new film. Arvind Mathur, Head of Crime Branch Mumbai, is tasked with solving the case. With the help of Zenobia, a criminal psychologist, he tries to understand the mind of the killer to trap him.",
+    "released": "2022-09-23",
+    "director": "R. Balki",
+    "directorSlug": "r-balki",
+    "actors": [
+     "Dulquer Salmaan",
+     "Sunny Deol",
+     "Shreya Dhanwanthary",
+     "Pooja Bhatt",
+     "Saranya Ponvannan",
+     "Adhyayan Suman"
+    ],
+    "awards": "3 wins u0026 5 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.4",
+      "votes": 27867,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.7",
+      "votes": 51,
+      "updatedAt": "2026-09-24T22:11:02.000Z"
+     },
+     "rt": "40%",
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dulquer Salmaan",
+     "character": "Danny",
+     "slug": "dulquer-salmaan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8AT3qDRakZQSZ6HVj7sQFUzN07N.jpg"
+    },
+    {
+     "name": "Sunny Deol",
+     "character": "Arvind Mathur",
+     "slug": "sunny-deol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w9RenJriQVys2k5fa9ojkXpYMwO.jpg"
+    },
+    {
+     "name": "Shreya Dhanwanthary",
+     "character": "Nila Menon",
+     "slug": "shreya-dhanwanthary",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kzLK1i4bQeajhzRAMPZAonAM6b7.jpg"
+    },
+    {
+     "name": "Pooja Bhatt",
+     "character": "Dr. Zenobia Shroff",
+     "slug": "pooja-bhatt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y9Tv1hsfjJEFVnK7cauLFuA2pg7.jpg"
+    },
+    {
+     "name": "Saranya Ponvannan",
+     "character": "Mrs. Menon",
+     "slug": "saranya-ponvannan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iFKB2AQi0iL78HykQlaSFLxErfA.jpg"
+    },
+    {
+     "name": "Adhyayan Suman",
+     "character": "Purab Kapoor",
+     "slug": "adhyayan-suman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cFJFOjpNn4pQIge9Ty52j1UiKmb.jpg"
+    },
+    {
+     "name": "Pravishi Das",
+     "character": "Reshma",
+     "slug": "pravishi-das",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rajeev Ravindranathan",
+     "character": null,
+     "slug": "rajeev-ravindranathan",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "R. Balki",
+       "slug": "r-balki"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "R. Balki",
+       "slug": "r-balki"
+      },
+      {
+       "name": "Rishi Virmani",
+       "slug": "rishi-virmani"
+      },
+      {
+       "name": "Raja Sen",
+       "slug": "raja-sen"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Amit Trivedi",
+       "slug": "amit-trivedi"
+      },
+      {
+       "name": "Sachin Dev Burman",
+       "slug": "sachin-dev-burman"
+      },
+      {
+       "name": "Aman Pant",
+       "slug": "aman-pant"
+      },
+      {
+       "name": "Sneha Khanwalkar",
+       "slug": "sneha-khanwalkar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vishal Sinha",
+       "slug": "vishal-sinha"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nayan Haresh Bhadra",
+       "slug": "nayan-haresh-bhadra"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "R. Balki",
+       "slug": "r-balki"
+      },
+      {
+       "name": "Rakesh Jhunjhunwala",
+       "slug": "rakesh-jhunjhunwala"
+      },
+      {
+       "name": "Anil Naidu",
+       "slug": "anil-naidu"
+      },
+      {
+       "name": "Jayantilal Gada",
+       "slug": "jayantilal-gada"
+      },
+      {
+       "name": "Gauri Shinde",
+       "slug": "gauri-shinde"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Hope Productions",
+     "slug": "hope-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4949904,
+    "totalShows": 1073,
+    "totalDays": 11,
+    "openingDay": {
+     "day": 1,
+     "gross": 1965965,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1965965,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 97,
+     "weeks_on_chart": 0,
+     "peak_position": 97,
+     "last_week_position": 97
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-09-23"
+   }
+  }
+ }
+}

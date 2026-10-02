@@ -1,0 +1,669 @@
+{
+ "id": 673,
+ "slug": "sikandar",
+ "source_url": "https://fridaymatinee.in/boxoffice/sikandar-673",
+ "captured_at": "2026-10-01T18:18:54.592465+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 673,
+    "title": "Sikandar",
+    "img": "https://image.tmdb.org/t/p/original/41s42CRXafa3OuRGvCtfYPEBmse.jpg",
+    "released": "2025-03-30",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31712434",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "133 min",
+    "genre": "Action, Drama",
+    "plot": "A tragic accident pushes the powerful Sikandar to protect the less fortunate by standing up to corruption and greed — using any means necessary.",
+    "released": "2025-03-29",
+    "director": "A. R. Murugadoss",
+    "directorSlug": "a-r-murugadoss",
+    "actors": [
+     "Salman Khan",
+     "Rashmika Mandanna",
+     "Sathyaraj",
+     "Sharman Joshi",
+     "Prateik Smita Patil",
+     "Kajal Aggarwal"
+    ],
+    "awards": "2 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "3.6",
+      "votes": 53982,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "4.9",
+      "votes": 69,
+      "updatedAt": "2026-09-24T16:11:14.000Z"
+     },
+     "rt": "5%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Salman Khan",
+     "character": "Sanjay Rajkot \"Sikandar\"",
+     "slug": "salman-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n7pKtccmf2jVOz8Qn90q2ThqLge.jpg"
+    },
+    {
+     "name": "Rashmika Mandanna",
+     "character": "Saisri Rajkot",
+     "slug": "rashmika-mandanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c1wQq0OAzU9nFhGYn4iOoi7dmqD.jpg"
+    },
+    {
+     "name": "Sathyaraj",
+     "character": "Minister Rakesh Pradhan",
+     "slug": "sathyaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+    },
+    {
+     "name": "Sharman Joshi",
+     "character": "Amar",
+     "slug": "sharman-joshi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mQr8ynFFVq08qgQ4aSNl5B0ko8v.jpg"
+    },
+    {
+     "name": "Prateik Smita Patil",
+     "character": "Arjun Pradhan",
+     "slug": "prateik-smita-patil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yDUhU9C4C7fBAse1KmzQxVkSwjn.jpg"
+    },
+    {
+     "name": "Kajal Aggarwal",
+     "character": "Vaidehi",
+     "slug": "kajal-aggarwal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wDzYjnDRNzyigCPBEwc9gf1hZ0Q.jpg"
+    },
+    {
+     "name": "Nawab Shah",
+     "character": "Virat Bakshi",
+     "slug": "nawab-shah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mx168p9eqjrGyaAc3TM6viLIG4L.jpg"
+    },
+    {
+     "name": "Kishore",
+     "character": "Inspector Prakash",
+     "slug": "kishore",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/njLrsTMxiUfnqOvWegFT3e2Sj6T.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "A. R. Murugadoss",
+       "slug": "a-r-murugadoss"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "A. R. Murugadoss",
+       "slug": "a-r-murugadoss"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Pritam Chakraborty",
+       "slug": "pritam-chakraborty"
+      },
+      {
+       "name": "Santhosh Narayanan",
+       "slug": "santhosh-narayanan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "S. Thirunavukkarasu",
+       "slug": "s-thirunavukkarasu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vivek Harshan",
+       "slug": "vivek-harshan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sajid Nadiadwala",
+       "slug": "sajid-nadiadwala"
+      },
+      {
+       "name": "Salman Khan",
+       "slug": "salman-khan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Nadiadwala Grandson Entertainment",
+     "slug": "nadiadwala-grandson-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/chMIfiURhqvr6eWCrzxIwuaWVeN.png"
+    },
+    {
+     "name": "Salman Khan Films",
+     "slug": "salman-khan-films",
+     "logo": "https://image.tmdb.org/t/p/w185/eNG6SYSrJZgXpqo1l7UwvuWio76.png"
+    },
+    {
+     "name": "Pen Studios",
+     "slug": "pen-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/bjJ6phaG9F8cGm3RYBjly8wYuH5.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-05-25",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5572102.999999999,
+    "totalShows": 896,
+    "totalDays": 11,
+    "openingDay": {
+     "day": 1,
+     "gross": 1596856.7999999998,
+     "date": "2025-03-30"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1596856.7999999998,
+     "date": "2025-03-30"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-03-30"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 673,
+    "title": "Sikandar",
+    "img": "https://image.tmdb.org/t/p/original/41s42CRXafa3OuRGvCtfYPEBmse.jpg",
+    "released": "2025-03-30",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31712434",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "133 min",
+    "genre": "Action, Drama",
+    "plot": "A tragic accident pushes the powerful Sikandar to protect the less fortunate by standing up to corruption and greed — using any means necessary.",
+    "released": "2025-03-29",
+    "director": "A. R. Murugadoss",
+    "directorSlug": "a-r-murugadoss",
+    "actors": [
+     "Salman Khan",
+     "Rashmika Mandanna",
+     "Sathyaraj",
+     "Sharman Joshi",
+     "Prateik Smita Patil",
+     "Kajal Aggarwal"
+    ],
+    "awards": "2 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "3.6",
+      "votes": 53982,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "4.9",
+      "votes": 69,
+      "updatedAt": "2026-09-24T16:11:14.000Z"
+     },
+     "rt": "5%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Salman Khan",
+     "character": "Sanjay Rajkot \"Sikandar\"",
+     "slug": "salman-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n7pKtccmf2jVOz8Qn90q2ThqLge.jpg"
+    },
+    {
+     "name": "Rashmika Mandanna",
+     "character": "Saisri Rajkot",
+     "slug": "rashmika-mandanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c1wQq0OAzU9nFhGYn4iOoi7dmqD.jpg"
+    },
+    {
+     "name": "Sathyaraj",
+     "character": "Minister Rakesh Pradhan",
+     "slug": "sathyaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+    },
+    {
+     "name": "Sharman Joshi",
+     "character": "Amar",
+     "slug": "sharman-joshi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mQr8ynFFVq08qgQ4aSNl5B0ko8v.jpg"
+    },
+    {
+     "name": "Prateik Smita Patil",
+     "character": "Arjun Pradhan",
+     "slug": "prateik-smita-patil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yDUhU9C4C7fBAse1KmzQxVkSwjn.jpg"
+    },
+    {
+     "name": "Kajal Aggarwal",
+     "character": "Vaidehi",
+     "slug": "kajal-aggarwal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wDzYjnDRNzyigCPBEwc9gf1hZ0Q.jpg"
+    },
+    {
+     "name": "Nawab Shah",
+     "character": "Virat Bakshi",
+     "slug": "nawab-shah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mx168p9eqjrGyaAc3TM6viLIG4L.jpg"
+    },
+    {
+     "name": "Kishore",
+     "character": "Inspector Prakash",
+     "slug": "kishore",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/njLrsTMxiUfnqOvWegFT3e2Sj6T.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "A. R. Murugadoss",
+       "slug": "a-r-murugadoss"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "A. R. Murugadoss",
+       "slug": "a-r-murugadoss"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Pritam Chakraborty",
+       "slug": "pritam-chakraborty"
+      },
+      {
+       "name": "Santhosh Narayanan",
+       "slug": "santhosh-narayanan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "S. Thirunavukkarasu",
+       "slug": "s-thirunavukkarasu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vivek Harshan",
+       "slug": "vivek-harshan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sajid Nadiadwala",
+       "slug": "sajid-nadiadwala"
+      },
+      {
+       "name": "Salman Khan",
+       "slug": "salman-khan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Nadiadwala Grandson Entertainment",
+     "slug": "nadiadwala-grandson-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/chMIfiURhqvr6eWCrzxIwuaWVeN.png"
+    },
+    {
+     "name": "Salman Khan Films",
+     "slug": "salman-khan-films",
+     "logo": "https://image.tmdb.org/t/p/w185/eNG6SYSrJZgXpqo1l7UwvuWio76.png"
+    },
+    {
+     "name": "Pen Studios",
+     "slug": "pen-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/bjJ6phaG9F8cGm3RYBjly8wYuH5.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-05-25",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-03-30",
+     "gross": 5194290,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 707,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-04-06",
+     "gross": 377813,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 189,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5572103,
+    "totalShows": 896,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 5194290
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5194290
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-03-30"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 673,
+    "title": "Sikandar",
+    "img": "https://image.tmdb.org/t/p/original/41s42CRXafa3OuRGvCtfYPEBmse.jpg",
+    "released": "2025-03-30",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31712434",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "133 min",
+    "genre": "Action, Drama",
+    "plot": "A tragic accident pushes the powerful Sikandar to protect the less fortunate by standing up to corruption and greed — using any means necessary.",
+    "released": "2025-03-29",
+    "director": "A. R. Murugadoss",
+    "directorSlug": "a-r-murugadoss",
+    "actors": [
+     "Salman Khan",
+     "Rashmika Mandanna",
+     "Sathyaraj",
+     "Sharman Joshi",
+     "Prateik Smita Patil",
+     "Kajal Aggarwal"
+    ],
+    "awards": "2 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "3.6",
+      "votes": 53982,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "4.9",
+      "votes": 69,
+      "updatedAt": "2026-09-24T16:11:14.000Z"
+     },
+     "rt": "5%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Salman Khan",
+     "character": "Sanjay Rajkot \"Sikandar\"",
+     "slug": "salman-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n7pKtccmf2jVOz8Qn90q2ThqLge.jpg"
+    },
+    {
+     "name": "Rashmika Mandanna",
+     "character": "Saisri Rajkot",
+     "slug": "rashmika-mandanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c1wQq0OAzU9nFhGYn4iOoi7dmqD.jpg"
+    },
+    {
+     "name": "Sathyaraj",
+     "character": "Minister Rakesh Pradhan",
+     "slug": "sathyaraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+    },
+    {
+     "name": "Sharman Joshi",
+     "character": "Amar",
+     "slug": "sharman-joshi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mQr8ynFFVq08qgQ4aSNl5B0ko8v.jpg"
+    },
+    {
+     "name": "Prateik Smita Patil",
+     "character": "Arjun Pradhan",
+     "slug": "prateik-smita-patil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yDUhU9C4C7fBAse1KmzQxVkSwjn.jpg"
+    },
+    {
+     "name": "Kajal Aggarwal",
+     "character": "Vaidehi",
+     "slug": "kajal-aggarwal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wDzYjnDRNzyigCPBEwc9gf1hZ0Q.jpg"
+    },
+    {
+     "name": "Nawab Shah",
+     "character": "Virat Bakshi",
+     "slug": "nawab-shah",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mx168p9eqjrGyaAc3TM6viLIG4L.jpg"
+    },
+    {
+     "name": "Kishore",
+     "character": "Inspector Prakash",
+     "slug": "kishore",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/njLrsTMxiUfnqOvWegFT3e2Sj6T.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "A. R. Murugadoss",
+       "slug": "a-r-murugadoss"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "A. R. Murugadoss",
+       "slug": "a-r-murugadoss"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Pritam Chakraborty",
+       "slug": "pritam-chakraborty"
+      },
+      {
+       "name": "Santhosh Narayanan",
+       "slug": "santhosh-narayanan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "S. Thirunavukkarasu",
+       "slug": "s-thirunavukkarasu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Vivek Harshan",
+       "slug": "vivek-harshan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sajid Nadiadwala",
+       "slug": "sajid-nadiadwala"
+      },
+      {
+       "name": "Salman Khan",
+       "slug": "salman-khan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Nadiadwala Grandson Entertainment",
+     "slug": "nadiadwala-grandson-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/chMIfiURhqvr6eWCrzxIwuaWVeN.png"
+    },
+    {
+     "name": "Salman Khan Films",
+     "slug": "salman-khan-films",
+     "logo": "https://image.tmdb.org/t/p/w185/eNG6SYSrJZgXpqo1l7UwvuWio76.png"
+    },
+    {
+     "name": "Pen Studios",
+     "slug": "pen-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/bjJ6phaG9F8cGm3RYBjly8wYuH5.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-05-25",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 5572103,
+    "totalShows": 896,
+    "totalDays": 12,
+    "openingDay": {
+     "day": 1,
+     "gross": 2593792,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2593792,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-03-30"
+   }
+  }
+ }
+}

@@ -1,0 +1,666 @@
+{
+ "id": 298,
+ "slug": "ant-man-and-the-wasp-quantumania",
+ "source_url": "https://fridaymatinee.in/boxoffice/ant-man-and-the-wasp-quantumania-298",
+ "captured_at": "2026-10-01T18:09:20.586889+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 298,
+    "title": "Ant-Man and the Wasp Quantumania",
+    "img": "https://image.tmdb.org/t/p/original/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+    "released": "2023-02-17",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10954600",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "125 min",
+    "genre": "Action, Adventure, Science Fiction",
+    "plot": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
+    "released": "2023-02-15",
+    "director": "Peyton Reed",
+    "directorSlug": "peyton-reed",
+    "actors": [
+     "Paul Rudd",
+     "Evangeline Lilly",
+     "Michael Douglas",
+     "Michelle Pfeiffer",
+     "Jonathan Majors",
+     "Kathryn Newton"
+    ],
+    "awards": "14 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 279669,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.2",
+      "votes": 6114,
+      "updatedAt": "2026-09-24T22:10:37.000Z"
+     },
+     "rt": "46%",
+     "metascore": 48,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Paul Rudd",
+     "character": "Scott Lang / Ant-Man",
+     "slug": "paul-rudd",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+     "name": "Evangeline Lilly",
+     "character": "Hope Van Dyne / The Wasp",
+     "slug": "evangeline-lilly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pJHX2jd7ytre3NQbF9nlyWUqxH3.jpg"
+    },
+    {
+     "name": "Michael Douglas",
+     "character": "Dr. Hank Pym",
+     "slug": "michael-douglas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kVYGPIZowzXLEQfAGUNOqKjAbBb.jpg"
+    },
+    {
+     "name": "Michelle Pfeiffer",
+     "character": "Janet Van Dyne",
+     "slug": "michelle-pfeiffer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oGUmQBU87QXAsnaGleYaAjAXSlj.jpg"
+    },
+    {
+     "name": "Jonathan Majors",
+     "character": "Kang the Conqueror",
+     "slug": "jonathan-majors",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nsxnMbkl9Lpc12AmYwKi9SmsJ7e.jpg"
+    },
+    {
+     "name": "Kathryn Newton",
+     "character": "Cassie Lang",
+     "slug": "kathryn-newton",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/exZuDe36AV1FSfEWxLISHXRPwJy.jpg"
+    },
+    {
+     "name": "Corey Stoll",
+     "character": "M.O.D.O.K.",
+     "slug": "corey-stoll",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/isWjevgnGKoVowmFf8HSov7mLJo.jpg"
+    },
+    {
+     "name": "Bill Murray",
+     "character": "Lord Krylar",
+     "slug": "bill-murray",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Peyton Reed",
+       "slug": "peyton-reed"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jeff Loveness",
+       "slug": "jeff-loveness"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Christophe Beck",
+       "slug": "christophe-beck"
+      },
+      {
+       "name": "Michael Paraskevas",
+       "slug": "michael-paraskevas"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Bill Pope",
+       "slug": "bill-pope"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Laura Jennings",
+       "slug": "laura-jennings"
+      },
+      {
+       "name": "Adam Gerstel",
+       "slug": "adam-gerstel"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Stephen Broussard",
+       "slug": "stephen-broussard"
+      },
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Kevin Feige Productions",
+     "slug": "kevin-feige-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-05-17",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 9340819.6,
+    "totalShows": 1454,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 2250573.29,
+     "date": "2023-02-17"
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 3042375.1399999997,
+     "date": "2023-02-18"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-02-17"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 298,
+    "title": "Ant-Man and the Wasp Quantumania",
+    "img": "https://image.tmdb.org/t/p/original/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+    "released": "2023-02-17",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10954600",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "125 min",
+    "genre": "Action, Adventure, Science Fiction",
+    "plot": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
+    "released": "2023-02-15",
+    "director": "Peyton Reed",
+    "directorSlug": "peyton-reed",
+    "actors": [
+     "Paul Rudd",
+     "Evangeline Lilly",
+     "Michael Douglas",
+     "Michelle Pfeiffer",
+     "Jonathan Majors",
+     "Kathryn Newton"
+    ],
+    "awards": "14 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 279669,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.2",
+      "votes": 6114,
+      "updatedAt": "2026-09-24T22:10:37.000Z"
+     },
+     "rt": "46%",
+     "metascore": 48,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Paul Rudd",
+     "character": "Scott Lang / Ant-Man",
+     "slug": "paul-rudd",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+     "name": "Evangeline Lilly",
+     "character": "Hope Van Dyne / The Wasp",
+     "slug": "evangeline-lilly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pJHX2jd7ytre3NQbF9nlyWUqxH3.jpg"
+    },
+    {
+     "name": "Michael Douglas",
+     "character": "Dr. Hank Pym",
+     "slug": "michael-douglas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kVYGPIZowzXLEQfAGUNOqKjAbBb.jpg"
+    },
+    {
+     "name": "Michelle Pfeiffer",
+     "character": "Janet Van Dyne",
+     "slug": "michelle-pfeiffer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oGUmQBU87QXAsnaGleYaAjAXSlj.jpg"
+    },
+    {
+     "name": "Jonathan Majors",
+     "character": "Kang the Conqueror",
+     "slug": "jonathan-majors",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nsxnMbkl9Lpc12AmYwKi9SmsJ7e.jpg"
+    },
+    {
+     "name": "Kathryn Newton",
+     "character": "Cassie Lang",
+     "slug": "kathryn-newton",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/exZuDe36AV1FSfEWxLISHXRPwJy.jpg"
+    },
+    {
+     "name": "Corey Stoll",
+     "character": "M.O.D.O.K.",
+     "slug": "corey-stoll",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/isWjevgnGKoVowmFf8HSov7mLJo.jpg"
+    },
+    {
+     "name": "Bill Murray",
+     "character": "Lord Krylar",
+     "slug": "bill-murray",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Peyton Reed",
+       "slug": "peyton-reed"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jeff Loveness",
+       "slug": "jeff-loveness"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Christophe Beck",
+       "slug": "christophe-beck"
+      },
+      {
+       "name": "Michael Paraskevas",
+       "slug": "michael-paraskevas"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Bill Pope",
+       "slug": "bill-pope"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Laura Jennings",
+       "slug": "laura-jennings"
+      },
+      {
+       "name": "Adam Gerstel",
+       "slug": "adam-gerstel"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Stephen Broussard",
+       "slug": "stephen-broussard"
+      },
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Kevin Feige Productions",
+     "slug": "kevin-feige-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-05-17",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-02-17",
+     "gross": 9179574.6,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1425,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-02-24",
+     "gross": 161245,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 29,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 9340819.6,
+    "totalShows": 1454,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 9179574.6
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 9179574.6
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-02-17"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 298,
+    "title": "Ant-Man and the Wasp Quantumania",
+    "img": "https://image.tmdb.org/t/p/original/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+    "released": "2023-02-17",
+    "language": "English",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10954600",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "125 min",
+    "genre": "Action, Adventure, Science Fiction",
+    "plot": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
+    "released": "2023-02-15",
+    "director": "Peyton Reed",
+    "directorSlug": "peyton-reed",
+    "actors": [
+     "Paul Rudd",
+     "Evangeline Lilly",
+     "Michael Douglas",
+     "Michelle Pfeiffer",
+     "Jonathan Majors",
+     "Kathryn Newton"
+    ],
+    "awards": "14 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 279669,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.2",
+      "votes": 6114,
+      "updatedAt": "2026-09-24T22:10:37.000Z"
+     },
+     "rt": "46%",
+     "metascore": 48,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Paul Rudd",
+     "character": "Scott Lang / Ant-Man",
+     "slug": "paul-rudd",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+     "name": "Evangeline Lilly",
+     "character": "Hope Van Dyne / The Wasp",
+     "slug": "evangeline-lilly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pJHX2jd7ytre3NQbF9nlyWUqxH3.jpg"
+    },
+    {
+     "name": "Michael Douglas",
+     "character": "Dr. Hank Pym",
+     "slug": "michael-douglas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kVYGPIZowzXLEQfAGUNOqKjAbBb.jpg"
+    },
+    {
+     "name": "Michelle Pfeiffer",
+     "character": "Janet Van Dyne",
+     "slug": "michelle-pfeiffer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oGUmQBU87QXAsnaGleYaAjAXSlj.jpg"
+    },
+    {
+     "name": "Jonathan Majors",
+     "character": "Kang the Conqueror",
+     "slug": "jonathan-majors",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nsxnMbkl9Lpc12AmYwKi9SmsJ7e.jpg"
+    },
+    {
+     "name": "Kathryn Newton",
+     "character": "Cassie Lang",
+     "slug": "kathryn-newton",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/exZuDe36AV1FSfEWxLISHXRPwJy.jpg"
+    },
+    {
+     "name": "Corey Stoll",
+     "character": "M.O.D.O.K.",
+     "slug": "corey-stoll",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/isWjevgnGKoVowmFf8HSov7mLJo.jpg"
+    },
+    {
+     "name": "Bill Murray",
+     "character": "Lord Krylar",
+     "slug": "bill-murray",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Peyton Reed",
+       "slug": "peyton-reed"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Jeff Loveness",
+       "slug": "jeff-loveness"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Christophe Beck",
+       "slug": "christophe-beck"
+      },
+      {
+       "name": "Michael Paraskevas",
+       "slug": "michael-paraskevas"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Bill Pope",
+       "slug": "bill-pope"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Laura Jennings",
+       "slug": "laura-jennings"
+      },
+      {
+       "name": "Adam Gerstel",
+       "slug": "adam-gerstel"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Stephen Broussard",
+       "slug": "stephen-broussard"
+      },
+      {
+       "name": "Kevin Feige",
+       "slug": "kevin-feige"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Marvel Studios",
+     "slug": "marvel-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Kevin Feige Productions",
+     "slug": "kevin-feige-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-05-17",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 9340819.6,
+    "totalShows": 1454,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 3393587,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3393587,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-02-17"
+   }
+  }
+ }
+}

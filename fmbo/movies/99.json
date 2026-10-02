@@ -1,0 +1,685 @@
+{
+ "id": 99,
+ "slug": "meow",
+ "source_url": "https://fridaymatinee.in/boxoffice/meow-99",
+ "captured_at": "2026-10-01T18:00:59.478478+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 99,
+    "title": "Meow",
+    "img": "https://i.postimg.cc/fZBs7TdR/mwq.jpg?dl=1",
+    "released": "2021-12-24",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13671954",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "145 min",
+    "genre": "Drama, Comedy",
+    "plot": "Follows Dasthakeer and Sulekha, a married couple that moves to Dubai with their three children for a better living.",
+    "released": "2021-12-24",
+    "director": "Lal Jose",
+    "directorSlug": "lal-jose",
+    "actors": [
+     "Soubin Shahir",
+     "Mamta Mohandas",
+     "Salim Kumar",
+     "Bhagath Abrid",
+     "Harisree Yousuf",
+     "Shyamaprasad"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 2090,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:36.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Soubin Shahir",
+     "character": "Dasthakir",
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Mamta Mohandas",
+     "character": "Sulekha",
+     "slug": "mamta-mohandas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ce9B8AG0IN77F9GR3b8gj13CP1q.jpg"
+    },
+    {
+     "name": "Salim Kumar",
+     "character": "Usthad",
+     "slug": "salim-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h8KKhTw56M7CoG1MkeYP9zMenq7.jpg"
+    },
+    {
+     "name": "Bhagath Abrid",
+     "character": "Azeem",
+     "slug": "bhagath-abrid",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Harisree Yousuf",
+     "character": "Chandrettan",
+     "slug": "harisree-yousuf",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u8FSllaLMoT0hJA85pzM5CbYwm4.jpg"
+    },
+    {
+     "name": "Shyamaprasad",
+     "character": "Dr.Balachandran",
+     "slug": "shyamaprasad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7XmS8tF5OGt7y9YdpyySIWBECkH.jpg"
+    },
+    {
+     "name": "Yasmina Alidodova",
+     "character": "Jameela",
+     "slug": "yasmina-alidodova",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Thamanna Pramod",
+     "character": "Dilruba",
+     "slug": "thamanna-pramod",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Lal Jose",
+       "slug": "lal-jose"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Iqbal Kuttippuram",
+       "slug": "iqbal-kuttippuram"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Justin Varghese",
+       "slug": "justin-varghese"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ajmal Sabu",
+       "slug": "ajmal-sabu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ranjan Abraham",
+       "slug": "ranjan-abraham"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Thomas Thiruvalla",
+       "slug": "thomas-thiruvalla"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Thomas Thiruvalla Films",
+     "slug": "thomas-thiruvalla-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2708,
+      "name": " AP International South Cinema Amazon Channel",
+      "logoPath": "/qe5IxHppN6JWNGf8xqSo2dgAbR4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 7401173,
+    "totalShows": 1854,
+    "totalDays": 18,
+    "openingDay": {
+     "day": 1,
+     "gross": 1199076,
+     "date": "2021-12-24"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 1728857,
+     "date": "2021-12-26"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 43,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-12-24"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 99,
+    "title": "Meow",
+    "img": "https://i.postimg.cc/fZBs7TdR/mwq.jpg?dl=1",
+    "released": "2021-12-24",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13671954",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "145 min",
+    "genre": "Drama, Comedy",
+    "plot": "Follows Dasthakeer and Sulekha, a married couple that moves to Dubai with their three children for a better living.",
+    "released": "2021-12-24",
+    "director": "Lal Jose",
+    "directorSlug": "lal-jose",
+    "actors": [
+     "Soubin Shahir",
+     "Mamta Mohandas",
+     "Salim Kumar",
+     "Bhagath Abrid",
+     "Harisree Yousuf",
+     "Shyamaprasad"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 2090,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:36.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Soubin Shahir",
+     "character": "Dasthakir",
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Mamta Mohandas",
+     "character": "Sulekha",
+     "slug": "mamta-mohandas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ce9B8AG0IN77F9GR3b8gj13CP1q.jpg"
+    },
+    {
+     "name": "Salim Kumar",
+     "character": "Usthad",
+     "slug": "salim-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h8KKhTw56M7CoG1MkeYP9zMenq7.jpg"
+    },
+    {
+     "name": "Bhagath Abrid",
+     "character": "Azeem",
+     "slug": "bhagath-abrid",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Harisree Yousuf",
+     "character": "Chandrettan",
+     "slug": "harisree-yousuf",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u8FSllaLMoT0hJA85pzM5CbYwm4.jpg"
+    },
+    {
+     "name": "Shyamaprasad",
+     "character": "Dr.Balachandran",
+     "slug": "shyamaprasad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7XmS8tF5OGt7y9YdpyySIWBECkH.jpg"
+    },
+    {
+     "name": "Yasmina Alidodova",
+     "character": "Jameela",
+     "slug": "yasmina-alidodova",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Thamanna Pramod",
+     "character": "Dilruba",
+     "slug": "thamanna-pramod",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Lal Jose",
+       "slug": "lal-jose"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Iqbal Kuttippuram",
+       "slug": "iqbal-kuttippuram"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Justin Varghese",
+       "slug": "justin-varghese"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ajmal Sabu",
+       "slug": "ajmal-sabu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ranjan Abraham",
+       "slug": "ranjan-abraham"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Thomas Thiruvalla",
+       "slug": "thomas-thiruvalla"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Thomas Thiruvalla Films",
+     "slug": "thomas-thiruvalla-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2708,
+      "name": " AP International South Cinema Amazon Channel",
+      "logoPath": "/qe5IxHppN6JWNGf8xqSo2dgAbR4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2021-12-24",
+     "gross": 7063512,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1733,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-12-31",
+     "gross": 333059,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 115,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-01-07",
+     "gross": 4602,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 6,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 7401173,
+    "totalShows": 1854,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 7063512
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 7063512
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 43,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-12-24"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 99,
+    "title": "Meow",
+    "img": "https://i.postimg.cc/fZBs7TdR/mwq.jpg?dl=1",
+    "released": "2021-12-24",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13671954",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "145 min",
+    "genre": "Drama, Comedy",
+    "plot": "Follows Dasthakeer and Sulekha, a married couple that moves to Dubai with their three children for a better living.",
+    "released": "2021-12-24",
+    "director": "Lal Jose",
+    "directorSlug": "lal-jose",
+    "actors": [
+     "Soubin Shahir",
+     "Mamta Mohandas",
+     "Salim Kumar",
+     "Bhagath Abrid",
+     "Harisree Yousuf",
+     "Shyamaprasad"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 2090,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:36.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Soubin Shahir",
+     "character": "Dasthakir",
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Mamta Mohandas",
+     "character": "Sulekha",
+     "slug": "mamta-mohandas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ce9B8AG0IN77F9GR3b8gj13CP1q.jpg"
+    },
+    {
+     "name": "Salim Kumar",
+     "character": "Usthad",
+     "slug": "salim-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h8KKhTw56M7CoG1MkeYP9zMenq7.jpg"
+    },
+    {
+     "name": "Bhagath Abrid",
+     "character": "Azeem",
+     "slug": "bhagath-abrid",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Harisree Yousuf",
+     "character": "Chandrettan",
+     "slug": "harisree-yousuf",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u8FSllaLMoT0hJA85pzM5CbYwm4.jpg"
+    },
+    {
+     "name": "Shyamaprasad",
+     "character": "Dr.Balachandran",
+     "slug": "shyamaprasad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7XmS8tF5OGt7y9YdpyySIWBECkH.jpg"
+    },
+    {
+     "name": "Yasmina Alidodova",
+     "character": "Jameela",
+     "slug": "yasmina-alidodova",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Thamanna Pramod",
+     "character": "Dilruba",
+     "slug": "thamanna-pramod",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Lal Jose",
+       "slug": "lal-jose"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Iqbal Kuttippuram",
+       "slug": "iqbal-kuttippuram"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Justin Varghese",
+       "slug": "justin-varghese"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ajmal Sabu",
+       "slug": "ajmal-sabu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ranjan Abraham",
+       "slug": "ranjan-abraham"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Thomas Thiruvalla",
+       "slug": "thomas-thiruvalla"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Thomas Thiruvalla Films",
+     "slug": "thomas-thiruvalla-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2708,
+      "name": " AP International South Cinema Amazon Channel",
+      "logoPath": "/qe5IxHppN6JWNGf8xqSo2dgAbR4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 7401173,
+    "totalShows": 1854,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1546275,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1546275,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 43,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-12-24"
+   }
+  }
+ }
+}

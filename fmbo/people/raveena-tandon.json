@@ -1,0 +1,41 @@
+{
+ "slug": "raveena-tandon",
+ "name": "Raveena Tandon",
+ "source_url": "https://fridaymatinee.in/people/raveena-tandon",
+ "captured_at": "2026-10-02T08:43:37.771074+00:00",
+ "person": {
+  "name": "Raveena Tandon",
+  "photo": "https://image.tmdb.org/t/p/w185/4z0X9ZMgyNZRHfJG4G2Z10rhLpu.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 124,
+   "movie_slug": "kgf-chapter-2",
+   "title": "KGF Chapter 2",
+   "year": 2022,
+   "kerala_gross": "₹52.5 Cr"
+  },
+  {
+   "movie_id": 1181,
+   "movie_slug": "welcome-to-the-jungle",
+   "title": "Welcome to the Jungle",
+   "year": 2026,
+   "kerala_gross": "₹12.9L"
+  },
+  {
+   "movie_id": 1225,
+   "movie_slug": "vishwanath-and-sons",
+   "title": "Vishwanath and Sons",
+   "year": 2026,
+   "kerala_gross": "₹7.2 Cr"
+  }
+ ]
+}

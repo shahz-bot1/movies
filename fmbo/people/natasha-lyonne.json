@@ -1,0 +1,41 @@
+{
+ "slug": "natasha-lyonne",
+ "name": "Natasha Lyonne",
+ "source_url": "https://fridaymatinee.in/people/natasha-lyonne",
+ "captured_at": "2026-10-02T00:53:45.521566+00:00",
+ "person": {
+  "name": "Natasha Lyonne",
+  "photo": "https://image.tmdb.org/t/p/w185/2QJoTBEIeYyjGSDot9qxv2ayPH3.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 760,
+   "movie_slug": "smurfs",
+   "title": "Smurfs",
+   "year": 2025,
+   "kerala_gross": "₹3.1L"
+  },
+  {
+   "movie_id": 734,
+   "movie_slug": "the-fantastic-four-first-steps",
+   "title": "The Fantastic Four: First Steps",
+   "year": 2025,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 783,
+   "movie_slug": "the-bad-guys-2",
+   "title": "The Bad Guys 2",
+   "year": 2025,
+   "kerala_gross": "₹2.7L"
+  }
+ ]
+}

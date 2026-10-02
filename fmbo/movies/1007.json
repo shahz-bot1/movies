@@ -1,0 +1,1326 @@
+{
+ "id": 1007,
+ "slug": "crime-101",
+ "source_url": "https://fridaymatinee.in/boxoffice/crime-101-1007",
+ "captured_at": "2026-10-01T18:36:30.284401+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1007,
+    "title": "Crime 101",
+    "img": "https://image.tmdb.org/t/p/original/5SdVfKcBka1RczF2gWV1GUsM243.jpg",
+    "released": "2026-02-13",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32430579",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "141 min",
+    "genre": "Crime, Thriller",
+    "plot": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
+    "released": "2026-02-11",
+    "director": "Bart Layton",
+    "directorSlug": "bart-layton",
+    "actors": [
+     "Chris Hemsworth",
+     "Mark Ruffalo",
+     "Halle Berry",
+     "Barry Keoghan",
+     "Monica Barbaro",
+     "Nick Nolte"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 97020,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.0",
+      "votes": 1372,
+      "updatedAt": "2026-09-24T13:10:43.000Z"
+     },
+     "rt": "88%",
+     "metascore": 68,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Chris Hemsworth",
+     "character": "Davis",
+     "slug": "chris-hemsworth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+     "name": "Mark Ruffalo",
+     "character": "Lou",
+     "slug": "mark-ruffalo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+     "name": "Halle Berry",
+     "character": "Sharon",
+     "slug": "halle-berry",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wtFetpWV8kjBsvzYKN9uEEmPdpy.jpg"
+    },
+    {
+     "name": "Barry Keoghan",
+     "character": "Ormon",
+     "slug": "barry-keoghan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ngoitknM6hw8fffLywyvjzy6Iti.jpg"
+    },
+    {
+     "name": "Monica Barbaro",
+     "character": "Maya",
+     "slug": "monica-barbaro",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fcujBTiKyZgJzaDenhv5ryo9SyB.jpg"
+    },
+    {
+     "name": "Nick Nolte",
+     "character": "Money",
+     "slug": "nick-nolte",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+     "name": "Corey Hawkins",
+     "character": "Tillman",
+     "slug": "corey-hawkins",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wRt0Bc0chN5BSjvYzmg2evgqNzp.jpg"
+    },
+    {
+     "name": "Jennifer Jason Leigh",
+     "character": "Angie",
+     "slug": "jennifer-jason-leigh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9nT2mbQ9P8UpCXirssDxDT75jlm.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Bart Layton",
+       "slug": "bart-layton"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Bart Layton",
+       "slug": "bart-layton"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Benjamin John Power",
+       "slug": "benjamin-john-power"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Erik Wilson",
+       "slug": "erik-wilson"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Julian Hart",
+       "slug": "julian-hart"
+      },
+      {
+       "name": "Jacob Secher Schulsinger",
+       "slug": "jacob-secher-schulsinger"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ben Grayson",
+       "slug": "ben-grayson"
+      },
+      {
+       "name": "Derrin Schlesinger",
+       "slug": "derrin-schlesinger"
+      },
+      {
+       "name": "Chris Hemsworth",
+       "slug": "chris-hemsworth"
+      },
+      {
+       "name": "Eric Fellner",
+       "slug": "eric-fellner"
+      },
+      {
+       "name": "Shane Salerno",
+       "slug": "shane-salerno"
+      },
+      {
+       "name": "Tim Bevan",
+       "slug": "tim-bevan"
+      },
+      {
+       "name": "Bart Layton",
+       "slug": "bart-layton"
+      },
+      {
+       "name": "Dimitri Doganis",
+       "slug": "dimitri-doganis"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Working Title",
+     "slug": "working-title-films",
+     "logo": "https://image.tmdb.org/t/p/w185/16KWBMmfPX0aJzDExDrPxSLj0Pg.png"
+    },
+    {
+     "name": "The Story Factory",
+     "slug": "the-story-factory",
+     "logo": null
+    },
+    {
+     "name": "RAW",
+     "slug": "raw",
+     "logo": "https://image.tmdb.org/t/p/w185/3QFwomSxcZZgMQGBkdUPuJEnSFB.png"
+    },
+    {
+     "name": "Amazon MGM Studios",
+     "slug": "amazon-mgm-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+     "name": "Wild State",
+     "slug": "wild-state",
+     "logo": "https://image.tmdb.org/t/p/w185/8G6CbTenzORJdoep1AaghtSEQrY.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-03-04": [
+     {
+      "id": 631,
+      "title": "The Bride",
+      "img": "https://image.tmdb.org/t/p/original/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+     }
+    ],
+    "2026-02-13": [
+     {
+      "id": 1002,
+      "title": "Sukhamano Sukhamanu",
+      "img": "https://image.tmdb.org/t/p/original/qWUWRLCg7O2IcOYXebPL6OZe9H.jpg"
+     },
+     {
+      "id": 1003,
+      "title": "Pennum Porattum",
+      "img": "https://image.tmdb.org/t/p/original/3DNAh3pwPiBBD8FHwzLPUXqs45e.jpg"
+     },
+     {
+      "id": 1005,
+      "title": "Spa",
+      "img": "https://image.tmdb.org/t/p/original/clYMYFXcDZSpURJBvEDISnFUpSp.jpg"
+     }
+    ],
+    "2026-02-14": [
+     {
+      "id": 1011,
+      "title": "Seetha Payanam",
+      "img": "https://image.tmdb.org/t/p/original/ubYKOsmUXdz4GQgVndBAze8G5UM.jpg"
+     }
+    ],
+    "2026-02-19": [
+     {
+      "id": 1013,
+      "title": "GOAT",
+      "img": "https://image.tmdb.org/t/p/original/loVFe4kTWQDLTZSwO5HvLBJDDk2.jpg"
+     }
+    ],
+    "2026-02-20": [
+     {
+      "id": 1014,
+      "title": "Do Deewane Seher Mein",
+      "img": "https://image.tmdb.org/t/p/original/p8yPjT9NAH87oD9TedclRaAW7RY.jpg"
+     },
+     {
+      "id": 1015,
+      "title": "Assi",
+      "img": "https://image.tmdb.org/t/p/original/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg"
+     }
+    ],
+    "2026-02-27": [
+     {
+      "id": 1019,
+      "title": "Hamnet",
+      "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+     },
+     {
+      "id": 1020,
+      "title": "Masthishka Maranam",
+      "img": "https://image.tmdb.org/t/p/original/tC6dhwbZ7LDCx9RyDNiPOaLvMId.jpg"
+     },
+     {
+      "id": 1022,
+      "title": "The Kerala Story 2 Goes Beyond",
+      "img": "https://image.tmdb.org/t/p/original/5btAk8YTRT3FLsqQBumN5eCk8xO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-02-13",
+     "gross": 94949,
+     "sold": 330,
+     "unsold": 3324,
+     "shows": 25,
+     "occ": 9.03,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 94949,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-14",
+     "gross": 125028,
+     "sold": 422,
+     "unsold": 3192,
+     "shows": 25,
+     "occ": 11.68,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 219977,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-15",
+     "gross": 137110,
+     "sold": 449,
+     "unsold": 2877,
+     "shows": 23,
+     "occ": 13.5,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 357087,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-16",
+     "gross": 185488,
+     "sold": 653,
+     "unsold": 2288,
+     "shows": 19,
+     "occ": 22.2,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 542575,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-17",
+     "gross": 67361,
+     "sold": 252,
+     "unsold": 2201,
+     "shows": 16,
+     "occ": 10.27,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 609936,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-18",
+     "gross": 128832,
+     "sold": 373,
+     "unsold": 1673,
+     "shows": 13,
+     "occ": 18.23,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 738768,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-19",
+     "gross": 130212,
+     "sold": 405,
+     "unsold": 1737,
+     "shows": 13,
+     "occ": 18.91,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 868980,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-20",
+     "gross": 17190,
+     "sold": 61,
+     "unsold": 156,
+     "shows": 2,
+     "occ": 28.11,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 886170,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-21",
+     "gross": 17470,
+     "sold": 66,
+     "unsold": 151,
+     "shows": 2,
+     "occ": 30.41,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 903640,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-22",
+     "gross": 15540,
+     "sold": 56,
+     "unsold": 160,
+     "shows": 2,
+     "occ": 25.93,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 919180,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-23",
+     "gross": 7880,
+     "sold": 31,
+     "unsold": 186,
+     "shows": 2,
+     "occ": 14.29,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 927060,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-24",
+     "gross": 6896,
+     "sold": 56,
+     "unsold": 163,
+     "shows": 2,
+     "occ": 25.57,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 933956,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-25",
+     "gross": 8780,
+     "sold": 33,
+     "unsold": 184,
+     "shows": 2,
+     "occ": 15.21,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 942736,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-26",
+     "gross": 3950,
+     "sold": 16,
+     "unsold": 201,
+     "shows": 2,
+     "occ": 7.37,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 946686,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-27",
+     "gross": 1440,
+     "sold": 8,
+     "unsold": 92,
+     "shows": 1,
+     "occ": 8,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 948126,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-28",
+     "gross": 5850,
+     "sold": 31,
+     "unsold": 69,
+     "shows": 1,
+     "occ": 31,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 953976,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-01",
+     "gross": 4800,
+     "sold": 22,
+     "unsold": 78,
+     "shows": 1,
+     "occ": 22,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 958776,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-02",
+     "gross": 3150,
+     "sold": 13,
+     "unsold": 88,
+     "shows": 1,
+     "occ": 12.87,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 961926,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-04",
+     "gross": 2860,
+     "sold": 16,
+     "unsold": 84,
+     "shows": 1,
+     "occ": 16,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 964786,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-03-05",
+     "gross": 2320,
+     "sold": 10,
+     "unsold": 90,
+     "shows": 1,
+     "occ": 10,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 967106,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 967106,
+    "totalShows": 154,
+    "totalSeats": 22297,
+    "totalSold": 3303,
+    "avgOcc": "14.8",
+    "totalDays": 20,
+    "totalHousefull": 4,
+    "totalAlmost": 4,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 4,
+     "gross": 185488,
+     "date": "2026-02-16"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 94949,
+     "date": "2026-02-13"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "20:2320:967106"
+  },
+  "week": {
+   "movie": {
+    "id": 1007,
+    "title": "Crime 101",
+    "img": "https://image.tmdb.org/t/p/original/5SdVfKcBka1RczF2gWV1GUsM243.jpg",
+    "released": "2026-02-13",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32430579",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "141 min",
+    "genre": "Crime, Thriller",
+    "plot": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
+    "released": "2026-02-11",
+    "director": "Bart Layton",
+    "directorSlug": "bart-layton",
+    "actors": [
+     "Chris Hemsworth",
+     "Mark Ruffalo",
+     "Halle Berry",
+     "Barry Keoghan",
+     "Monica Barbaro",
+     "Nick Nolte"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 97020,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.0",
+      "votes": 1372,
+      "updatedAt": "2026-09-24T13:10:43.000Z"
+     },
+     "rt": "88%",
+     "metascore": 68,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Chris Hemsworth",
+     "character": "Davis",
+     "slug": "chris-hemsworth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+     "name": "Mark Ruffalo",
+     "character": "Lou",
+     "slug": "mark-ruffalo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+     "name": "Halle Berry",
+     "character": "Sharon",
+     "slug": "halle-berry",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wtFetpWV8kjBsvzYKN9uEEmPdpy.jpg"
+    },
+    {
+     "name": "Barry Keoghan",
+     "character": "Ormon",
+     "slug": "barry-keoghan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ngoitknM6hw8fffLywyvjzy6Iti.jpg"
+    },
+    {
+     "name": "Monica Barbaro",
+     "character": "Maya",
+     "slug": "monica-barbaro",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fcujBTiKyZgJzaDenhv5ryo9SyB.jpg"
+    },
+    {
+     "name": "Nick Nolte",
+     "character": "Money",
+     "slug": "nick-nolte",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+     "name": "Corey Hawkins",
+     "character": "Tillman",
+     "slug": "corey-hawkins",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wRt0Bc0chN5BSjvYzmg2evgqNzp.jpg"
+    },
+    {
+     "name": "Jennifer Jason Leigh",
+     "character": "Angie",
+     "slug": "jennifer-jason-leigh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9nT2mbQ9P8UpCXirssDxDT75jlm.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Bart Layton",
+       "slug": "bart-layton"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Bart Layton",
+       "slug": "bart-layton"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Benjamin John Power",
+       "slug": "benjamin-john-power"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Erik Wilson",
+       "slug": "erik-wilson"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Julian Hart",
+       "slug": "julian-hart"
+      },
+      {
+       "name": "Jacob Secher Schulsinger",
+       "slug": "jacob-secher-schulsinger"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ben Grayson",
+       "slug": "ben-grayson"
+      },
+      {
+       "name": "Derrin Schlesinger",
+       "slug": "derrin-schlesinger"
+      },
+      {
+       "name": "Chris Hemsworth",
+       "slug": "chris-hemsworth"
+      },
+      {
+       "name": "Eric Fellner",
+       "slug": "eric-fellner"
+      },
+      {
+       "name": "Shane Salerno",
+       "slug": "shane-salerno"
+      },
+      {
+       "name": "Tim Bevan",
+       "slug": "tim-bevan"
+      },
+      {
+       "name": "Bart Layton",
+       "slug": "bart-layton"
+      },
+      {
+       "name": "Dimitri Doganis",
+       "slug": "dimitri-doganis"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Working Title",
+     "slug": "working-title-films",
+     "logo": "https://image.tmdb.org/t/p/w185/16KWBMmfPX0aJzDExDrPxSLj0Pg.png"
+    },
+    {
+     "name": "The Story Factory",
+     "slug": "the-story-factory",
+     "logo": null
+    },
+    {
+     "name": "RAW",
+     "slug": "raw",
+     "logo": "https://image.tmdb.org/t/p/w185/3QFwomSxcZZgMQGBkdUPuJEnSFB.png"
+    },
+    {
+     "name": "Amazon MGM Studios",
+     "slug": "amazon-mgm-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+     "name": "Wild State",
+     "slug": "wild-state",
+     "logo": "https://image.tmdb.org/t/p/w185/8G6CbTenzORJdoep1AaghtSEQrY.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-03-04": [
+     {
+      "id": 631,
+      "title": "The Bride",
+      "img": "https://image.tmdb.org/t/p/original/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+     }
+    ],
+    "2026-02-13": [
+     {
+      "id": 1002,
+      "title": "Sukhamano Sukhamanu",
+      "img": "https://image.tmdb.org/t/p/original/qWUWRLCg7O2IcOYXebPL6OZe9H.jpg"
+     },
+     {
+      "id": 1003,
+      "title": "Pennum Porattum",
+      "img": "https://image.tmdb.org/t/p/original/3DNAh3pwPiBBD8FHwzLPUXqs45e.jpg"
+     },
+     {
+      "id": 1005,
+      "title": "Spa",
+      "img": "https://image.tmdb.org/t/p/original/clYMYFXcDZSpURJBvEDISnFUpSp.jpg"
+     }
+    ],
+    "2026-02-14": [
+     {
+      "id": 1011,
+      "title": "Seetha Payanam",
+      "img": "https://image.tmdb.org/t/p/original/ubYKOsmUXdz4GQgVndBAze8G5UM.jpg"
+     }
+    ],
+    "2026-02-19": [
+     {
+      "id": 1013,
+      "title": "GOAT",
+      "img": "https://image.tmdb.org/t/p/original/loVFe4kTWQDLTZSwO5HvLBJDDk2.jpg"
+     }
+    ],
+    "2026-02-20": [
+     {
+      "id": 1014,
+      "title": "Do Deewane Seher Mein",
+      "img": "https://image.tmdb.org/t/p/original/p8yPjT9NAH87oD9TedclRaAW7RY.jpg"
+     },
+     {
+      "id": 1015,
+      "title": "Assi",
+      "img": "https://image.tmdb.org/t/p/original/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg"
+     }
+    ],
+    "2026-02-27": [
+     {
+      "id": 1019,
+      "title": "Hamnet",
+      "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+     },
+     {
+      "id": 1020,
+      "title": "Masthishka Maranam",
+      "img": "https://image.tmdb.org/t/p/original/tC6dhwbZ7LDCx9RyDNiPOaLvMId.jpg"
+     },
+     {
+      "id": 1022,
+      "title": "The Kerala Story 2 Goes Beyond",
+      "img": "https://image.tmdb.org/t/p/original/5btAk8YTRT3FLsqQBumN5eCk8xO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-02-13",
+     "gross": 868980,
+     "sold": 2884,
+     "unsold": 17292,
+     "shows": 134,
+     "occ": 14.29,
+     "hf": "4",
+     "almost": "4",
+     "ff": "0",
+     "cumul": 868980,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-20",
+     "gross": 77706,
+     "sold": 319,
+     "unsold": 1201,
+     "shows": 14,
+     "occ": 20.99,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 946686,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-02-27",
+     "gross": 20420,
+     "sold": 100,
+     "unsold": 501,
+     "shows": 6,
+     "occ": 16.64,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 967106,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 967106,
+    "totalShows": 154,
+    "totalSeats": 22297,
+    "totalSold": 3303,
+    "avgOcc": "14.8",
+    "totalDays": 3,
+    "totalHousefull": 4,
+    "totalAlmost": 4,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 868980
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 868980
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "3:20420:967106"
+  },
+  "district": {
+   "movie": {
+    "id": 1007,
+    "title": "Crime 101",
+    "img": "https://image.tmdb.org/t/p/original/5SdVfKcBka1RczF2gWV1GUsM243.jpg",
+    "released": "2026-02-13",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32430579",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "141 min",
+    "genre": "Crime, Thriller",
+    "plot": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
+    "released": "2026-02-11",
+    "director": "Bart Layton",
+    "directorSlug": "bart-layton",
+    "actors": [
+     "Chris Hemsworth",
+     "Mark Ruffalo",
+     "Halle Berry",
+     "Barry Keoghan",
+     "Monica Barbaro",
+     "Nick Nolte"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 97020,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.0",
+      "votes": 1372,
+      "updatedAt": "2026-09-24T13:10:43.000Z"
+     },
+     "rt": "88%",
+     "metascore": 68,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Chris Hemsworth",
+     "character": "Davis",
+     "slug": "chris-hemsworth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+     "name": "Mark Ruffalo",
+     "character": "Lou",
+     "slug": "mark-ruffalo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+     "name": "Halle Berry",
+     "character": "Sharon",
+     "slug": "halle-berry",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wtFetpWV8kjBsvzYKN9uEEmPdpy.jpg"
+    },
+    {
+     "name": "Barry Keoghan",
+     "character": "Ormon",
+     "slug": "barry-keoghan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ngoitknM6hw8fffLywyvjzy6Iti.jpg"
+    },
+    {
+     "name": "Monica Barbaro",
+     "character": "Maya",
+     "slug": "monica-barbaro",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fcujBTiKyZgJzaDenhv5ryo9SyB.jpg"
+    },
+    {
+     "name": "Nick Nolte",
+     "character": "Money",
+     "slug": "nick-nolte",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jpYzFBi6zfn8CHVaXmqgiOTas4V.jpg"
+    },
+    {
+     "name": "Corey Hawkins",
+     "character": "Tillman",
+     "slug": "corey-hawkins",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wRt0Bc0chN5BSjvYzmg2evgqNzp.jpg"
+    },
+    {
+     "name": "Jennifer Jason Leigh",
+     "character": "Angie",
+     "slug": "jennifer-jason-leigh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9nT2mbQ9P8UpCXirssDxDT75jlm.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Bart Layton",
+       "slug": "bart-layton"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Bart Layton",
+       "slug": "bart-layton"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Benjamin John Power",
+       "slug": "benjamin-john-power"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Erik Wilson",
+       "slug": "erik-wilson"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Julian Hart",
+       "slug": "julian-hart"
+      },
+      {
+       "name": "Jacob Secher Schulsinger",
+       "slug": "jacob-secher-schulsinger"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ben Grayson",
+       "slug": "ben-grayson"
+      },
+      {
+       "name": "Derrin Schlesinger",
+       "slug": "derrin-schlesinger"
+      },
+      {
+       "name": "Chris Hemsworth",
+       "slug": "chris-hemsworth"
+      },
+      {
+       "name": "Eric Fellner",
+       "slug": "eric-fellner"
+      },
+      {
+       "name": "Shane Salerno",
+       "slug": "shane-salerno"
+      },
+      {
+       "name": "Tim Bevan",
+       "slug": "tim-bevan"
+      },
+      {
+       "name": "Bart Layton",
+       "slug": "bart-layton"
+      },
+      {
+       "name": "Dimitri Doganis",
+       "slug": "dimitri-doganis"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Working Title",
+     "slug": "working-title-films",
+     "logo": "https://image.tmdb.org/t/p/w185/16KWBMmfPX0aJzDExDrPxSLj0Pg.png"
+    },
+    {
+     "name": "The Story Factory",
+     "slug": "the-story-factory",
+     "logo": null
+    },
+    {
+     "name": "RAW",
+     "slug": "raw",
+     "logo": "https://image.tmdb.org/t/p/w185/3QFwomSxcZZgMQGBkdUPuJEnSFB.png"
+    },
+    {
+     "name": "Amazon MGM Studios",
+     "slug": "amazon-mgm-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+     "name": "Wild State",
+     "slug": "wild-state",
+     "logo": "https://image.tmdb.org/t/p/w185/8G6CbTenzORJdoep1AaghtSEQrY.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-03-04": [
+     {
+      "id": 631,
+      "title": "The Bride",
+      "img": "https://image.tmdb.org/t/p/original/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+     }
+    ],
+    "2026-02-13": [
+     {
+      "id": 1002,
+      "title": "Sukhamano Sukhamanu",
+      "img": "https://image.tmdb.org/t/p/original/qWUWRLCg7O2IcOYXebPL6OZe9H.jpg"
+     },
+     {
+      "id": 1003,
+      "title": "Pennum Porattum",
+      "img": "https://image.tmdb.org/t/p/original/3DNAh3pwPiBBD8FHwzLPUXqs45e.jpg"
+     },
+     {
+      "id": 1005,
+      "title": "Spa",
+      "img": "https://image.tmdb.org/t/p/original/clYMYFXcDZSpURJBvEDISnFUpSp.jpg"
+     }
+    ],
+    "2026-02-14": [
+     {
+      "id": 1011,
+      "title": "Seetha Payanam",
+      "img": "https://image.tmdb.org/t/p/original/ubYKOsmUXdz4GQgVndBAze8G5UM.jpg"
+     }
+    ],
+    "2026-02-19": [
+     {
+      "id": 1013,
+      "title": "GOAT",
+      "img": "https://image.tmdb.org/t/p/original/loVFe4kTWQDLTZSwO5HvLBJDDk2.jpg"
+     }
+    ],
+    "2026-02-20": [
+     {
+      "id": 1014,
+      "title": "Do Deewane Seher Mein",
+      "img": "https://image.tmdb.org/t/p/original/p8yPjT9NAH87oD9TedclRaAW7RY.jpg"
+     },
+     {
+      "id": 1015,
+      "title": "Assi",
+      "img": "https://image.tmdb.org/t/p/original/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg"
+     }
+    ],
+    "2026-02-27": [
+     {
+      "id": 1019,
+      "title": "Hamnet",
+      "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+     },
+     {
+      "id": 1020,
+      "title": "Masthishka Maranam",
+      "img": "https://image.tmdb.org/t/p/original/tC6dhwbZ7LDCx9RyDNiPOaLvMId.jpg"
+     },
+     {
+      "id": 1022,
+      "title": "The Kerala Story 2 Goes Beyond",
+      "img": "https://image.tmdb.org/t/p/original/5btAk8YTRT3FLsqQBumN5eCk8xO.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 552342,
+     "sold": 1652,
+     "unsold": 6105,
+     "shows": 53,
+     "occ": 21.3,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 552342,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Trivandrum",
+     "gross": 281157,
+     "sold": 1092,
+     "unsold": 6595,
+     "shows": 49,
+     "occ": 14.21,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 833499,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 86716,
+     "sold": 382,
+     "unsold": 4249,
+     "shows": 31,
+     "occ": 8.25,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 920215,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Thrissur",
+     "gross": 46891,
+     "sold": 177,
+     "unsold": 2045,
+     "shows": 21,
+     "occ": 7.97,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 967106,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 967106,
+    "totalShows": 154,
+    "totalSeats": 22297,
+    "totalSold": 3303,
+    "avgOcc": "14.8",
+    "totalDays": 4,
+    "totalHousefull": 4,
+    "totalAlmost": 4,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 552342,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 552342,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "4:46891:967106"
+  }
+ }
+}

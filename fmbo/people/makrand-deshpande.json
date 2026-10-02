@@ -1,0 +1,48 @@
+{
+ "slug": "makrand-deshpande",
+ "name": "Makrand Deshpande",
+ "source_url": "https://fridaymatinee.in/people/makrand-deshpande",
+ "captured_at": "2026-10-02T00:14:16.799358+00:00",
+ "person": {
+  "name": "Makrand Deshpande",
+  "photo": "https://image.tmdb.org/t/p/w185/aGA9mjohVWWTeTmutXikSSCYq9x.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 118,
+   "movie_slug": "rrr",
+   "title": "Rrr",
+   "year": 2022,
+   "kerala_gross": "₹17.1 Cr"
+  },
+  {
+   "movie_id": 183,
+   "movie_slug": "liger",
+   "title": "Liger",
+   "year": 2022,
+   "kerala_gross": "₹33.1L"
+  },
+  {
+   "movie_id": 406,
+   "movie_slug": "voice-of-sathyanathan",
+   "title": "Voice Of Sathyanathan",
+   "year": 2023,
+   "kerala_gross": "₹10.1 Cr"
+  },
+  {
+   "movie_id": 731,
+   "movie_slug": "hari-hara-veera-mallu-part-1-sword-vs-spirit",
+   "title": "Hari Hara Veera Mallu - Part 1 Sword Vs Spirit",
+   "year": 2025,
+   "kerala_gross": "₹20.0L"
+  }
+ ]
+}

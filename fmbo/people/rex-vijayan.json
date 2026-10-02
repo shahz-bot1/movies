@@ -1,0 +1,48 @@
+{
+ "slug": "rex-vijayan",
+ "name": "Rex Vijayan",
+ "source_url": "https://fridaymatinee.in/people/rex-vijayan",
+ "captured_at": "2026-10-02T09:41:59.618135+00:00",
+ "person": {
+  "name": "Rex Vijayan",
+  "photo": "https://image.tmdb.org/t/p/w185/3HVWQY4t53em9BgJqRGlUEY9sXt.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 49,
+   "movie_slug": "valiyaperunnal",
+   "title": "Valiyaperunnal",
+   "year": 2019,
+   "kerala_gross": "₹62.1L"
+  },
+  {
+   "movie_id": 354,
+   "movie_slug": "neelavelicham",
+   "title": "Neelavelicham",
+   "year": 2023,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 620,
+   "movie_slug": "rifle-club",
+   "title": "Rifle Club",
+   "year": 2024,
+   "kerala_gross": "₹13.0 Cr"
+  },
+  {
+   "movie_id": 1307,
+   "movie_slug": "mattancherry-mafia",
+   "title": "Mattancherry Mafia",
+   "year": 2027,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "slug": "abhinav-sunder-nayak",
+ "name": "Abhinav Sunder Nayak",
+ "source_url": "https://fridaymatinee.in/people/abhinav-sunder-nayak",
+ "captured_at": "2026-10-01T20:06:34.703683+00:00",
+ "person": {
+  "name": "Abhinav Sunder Nayak",
+  "photo": "https://image.tmdb.org/t/p/w185/iTnKDZZBicyM3DYgII9vgK8HBVy.jpg",
+  "role": "Editor, director and writer"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 3
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 2
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 240,
+   "movie_slug": "mukundan-unni-associates",
+   "title": "Mukundan Unni Associates",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 858,
+   "movie_slug": "the-pet-detective",
+   "title": "The Pet Detective",
+   "year": 2025,
+   "kerala_gross": "₹9.7 Cr"
+  },
+  {
+   "movie_id": 1092,
+   "movie_slug": "mollywood-times",
+   "title": "Mollywood Times",
+   "year": 2026,
+   "kerala_gross": "₹8.4 Cr"
+  }
+ ]
+}

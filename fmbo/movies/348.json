@@ -1,0 +1,603 @@
+{
+ "id": 348,
+ "slug": "adi",
+ "source_url": "https://fridaymatinee.in/boxoffice/adi-348",
+ "captured_at": "2026-10-01T18:10:10.684021+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 348,
+    "title": "Adi",
+    "img": "https://image.tmdb.org/t/p/original/7md5bWSbJpN97wbL4DtL6QC8zrz.jpg",
+    "released": "2023-04-14",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt13671946",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "131 min",
+    "genre": "Comedy, Drama, Family",
+    "plot": "Nandu, has been earning a living in Saudi and is engaged to Geethika. They get married but while returning from the church they get in a fight with two men on a bike.",
+    "released": "2023-04-14",
+    "director": "Prasobh VIjayan",
+    "directorSlug": "prasobh-vijayan",
+    "actors": [
+     "Shine Tom Chacko",
+     "Ahaana Krishna",
+     "Dhruvan",
+     "Bitto Davis",
+     "Sreekanth Dasan",
+     "Anu Joseph"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.4",
+      "votes": 812,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:29.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Sajeev Nair",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Ahaana Krishna",
+     "character": "Geethika",
+     "slug": "ahaana-krishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f9V6wi9FF8b4tcgaJxOiTKTLtl3.jpg"
+    },
+    {
+     "name": "Dhruvan",
+     "character": "Joby Varghese",
+     "slug": "dhruvan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gVQfWlQyNuK13pIl1cTFB4QUnNM.jpg"
+    },
+    {
+     "name": "Bitto Davis",
+     "character": "Thankachaayan",
+     "slug": "bitto-davis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hOgWT8Sr9gYDPA9MGVT1PpUqgvD.jpg"
+    },
+    {
+     "name": "Sreekanth Dasan",
+     "character": "Kunjaava",
+     "slug": "sreekanth-dasan",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Anu Joseph",
+     "character": "Sajitha Nair",
+     "slug": "anu-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uwDMCrvU66gbZ70BSDMDLiWrLw4.jpg"
+    },
+    {
+     "name": "Bibin Perumbily",
+     "character": "Aliyan",
+     "slug": "bibin-perumbily",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Jibin V. Joseph",
+     "character": "Neighbour",
+     "slug": "jibin-v-joseph",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Prasobh VIjayan",
+       "slug": "prasobh-vijayan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ratheesh Ravi",
+       "slug": "ratheesh-ravi"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Govindh Vasantha",
+       "slug": "govindh-vasantha"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Faiz Siddik",
+       "slug": "faiz-siddik"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Noufal Abdulla",
+       "slug": "noufal-abdulla"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dulquer Salmaan",
+       "slug": "dulquer-salmaan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Wayfarer Films",
+     "slug": "wayfarer-films",
+     "logo": "https://image.tmdb.org/t/p/w185/77iHxiuXJYTXKU4PDQmtRQe3DJx.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-12-21",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4098770.33,
+    "totalShows": 1187,
+    "totalDays": 9,
+    "openingDay": {
+     "day": 1,
+     "gross": 713677.8899999998,
+     "date": "2023-04-14"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 1221602.7900000003,
+     "date": "2023-04-16"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-04-14"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 348,
+    "title": "Adi",
+    "img": "https://image.tmdb.org/t/p/original/7md5bWSbJpN97wbL4DtL6QC8zrz.jpg",
+    "released": "2023-04-14",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt13671946",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "131 min",
+    "genre": "Comedy, Drama, Family",
+    "plot": "Nandu, has been earning a living in Saudi and is engaged to Geethika. They get married but while returning from the church they get in a fight with two men on a bike.",
+    "released": "2023-04-14",
+    "director": "Prasobh VIjayan",
+    "directorSlug": "prasobh-vijayan",
+    "actors": [
+     "Shine Tom Chacko",
+     "Ahaana Krishna",
+     "Dhruvan",
+     "Bitto Davis",
+     "Sreekanth Dasan",
+     "Anu Joseph"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.4",
+      "votes": 812,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:29.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Sajeev Nair",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Ahaana Krishna",
+     "character": "Geethika",
+     "slug": "ahaana-krishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f9V6wi9FF8b4tcgaJxOiTKTLtl3.jpg"
+    },
+    {
+     "name": "Dhruvan",
+     "character": "Joby Varghese",
+     "slug": "dhruvan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gVQfWlQyNuK13pIl1cTFB4QUnNM.jpg"
+    },
+    {
+     "name": "Bitto Davis",
+     "character": "Thankachaayan",
+     "slug": "bitto-davis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hOgWT8Sr9gYDPA9MGVT1PpUqgvD.jpg"
+    },
+    {
+     "name": "Sreekanth Dasan",
+     "character": "Kunjaava",
+     "slug": "sreekanth-dasan",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Anu Joseph",
+     "character": "Sajitha Nair",
+     "slug": "anu-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uwDMCrvU66gbZ70BSDMDLiWrLw4.jpg"
+    },
+    {
+     "name": "Bibin Perumbily",
+     "character": "Aliyan",
+     "slug": "bibin-perumbily",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Jibin V. Joseph",
+     "character": "Neighbour",
+     "slug": "jibin-v-joseph",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Prasobh VIjayan",
+       "slug": "prasobh-vijayan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ratheesh Ravi",
+       "slug": "ratheesh-ravi"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Govindh Vasantha",
+       "slug": "govindh-vasantha"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Faiz Siddik",
+       "slug": "faiz-siddik"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Noufal Abdulla",
+       "slug": "noufal-abdulla"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dulquer Salmaan",
+       "slug": "dulquer-salmaan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Wayfarer Films",
+     "slug": "wayfarer-films",
+     "logo": "https://image.tmdb.org/t/p/w185/77iHxiuXJYTXKU4PDQmtRQe3DJx.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-12-21",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-04-14",
+     "gross": 3926508.33,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1153,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-04-21",
+     "gross": 172262,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 34,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4098770.33,
+    "totalShows": 1187,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 3926508.33
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3926508.33
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-04-14"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 348,
+    "title": "Adi",
+    "img": "https://image.tmdb.org/t/p/original/7md5bWSbJpN97wbL4DtL6QC8zrz.jpg",
+    "released": "2023-04-14",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt13671946",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "131 min",
+    "genre": "Comedy, Drama, Family",
+    "plot": "Nandu, has been earning a living in Saudi and is engaged to Geethika. They get married but while returning from the church they get in a fight with two men on a bike.",
+    "released": "2023-04-14",
+    "director": "Prasobh VIjayan",
+    "directorSlug": "prasobh-vijayan",
+    "actors": [
+     "Shine Tom Chacko",
+     "Ahaana Krishna",
+     "Dhruvan",
+     "Bitto Davis",
+     "Sreekanth Dasan",
+     "Anu Joseph"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.4",
+      "votes": 812,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:29.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Sajeev Nair",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Ahaana Krishna",
+     "character": "Geethika",
+     "slug": "ahaana-krishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f9V6wi9FF8b4tcgaJxOiTKTLtl3.jpg"
+    },
+    {
+     "name": "Dhruvan",
+     "character": "Joby Varghese",
+     "slug": "dhruvan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gVQfWlQyNuK13pIl1cTFB4QUnNM.jpg"
+    },
+    {
+     "name": "Bitto Davis",
+     "character": "Thankachaayan",
+     "slug": "bitto-davis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hOgWT8Sr9gYDPA9MGVT1PpUqgvD.jpg"
+    },
+    {
+     "name": "Sreekanth Dasan",
+     "character": "Kunjaava",
+     "slug": "sreekanth-dasan",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Anu Joseph",
+     "character": "Sajitha Nair",
+     "slug": "anu-joseph",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uwDMCrvU66gbZ70BSDMDLiWrLw4.jpg"
+    },
+    {
+     "name": "Bibin Perumbily",
+     "character": "Aliyan",
+     "slug": "bibin-perumbily",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Jibin V. Joseph",
+     "character": "Neighbour",
+     "slug": "jibin-v-joseph",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Prasobh VIjayan",
+       "slug": "prasobh-vijayan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ratheesh Ravi",
+       "slug": "ratheesh-ravi"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Govindh Vasantha",
+       "slug": "govindh-vasantha"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Faiz Siddik",
+       "slug": "faiz-siddik"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Noufal Abdulla",
+       "slug": "noufal-abdulla"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dulquer Salmaan",
+       "slug": "dulquer-salmaan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Wayfarer Films",
+     "slug": "wayfarer-films",
+     "logo": "https://image.tmdb.org/t/p/w185/77iHxiuXJYTXKU4PDQmtRQe3DJx.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-12-21",
+    "platforms": [
+     {
+      "id": 232,
+      "name": "Zee5",
+      "logoPath": "/uQvhdtB8skccsGHmvKi3y5bqBsX.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4098770.33,
+    "totalShows": 1187,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 1068915,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1068915,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-04-14"
+   }
+  }
+ }
+}

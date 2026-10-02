@@ -1,0 +1,62 @@
+{
+ "slug": "lorne-balfe",
+ "name": "Lorne Balfe",
+ "source_url": "https://fridaymatinee.in/people/lorne-balfe",
+ "captured_at": "2026-10-02T00:05:12.833495+00:00",
+ "person": {
+  "name": "Lorne Balfe",
+  "photo": "https://image.tmdb.org/t/p/w185/ryV3HjdAiFH2VQGQY6yXy4z9Xbk.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 224,
+   "movie_slug": "black-adam",
+   "title": "Black Adam",
+   "year": 2022,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 405,
+   "movie_slug": "mission-impossible-dead-reckoning-part-one",
+   "title": "Mission: Impossible - Dead Reckoning Part One",
+   "year": 2023,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 234,
+   "movie_slug": "novocaine",
+   "title": "Novocaine",
+   "year": 2025,
+   "kerala_gross": "₹2.2L"
+  },
+  {
+   "movie_id": 781,
+   "movie_slug": "the-naked-gun",
+   "title": "The Naked Gun",
+   "year": 2025,
+   "kerala_gross": "₹1.3L"
+  },
+  {
+   "movie_id": 1243,
+   "movie_slug": "7-dogs",
+   "title": "7 Dogs",
+   "year": 2026,
+   "kerala_gross": "₹11K"
+  },
+  {
+   "movie_id": 1305,
+   "movie_slug": "the-cat-in-the-hat",
+   "title": "The Cat in the Hat",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

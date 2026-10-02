@@ -1,0 +1,653 @@
+{
+ "id": 31,
+ "slug": "sangathamizhan",
+ "source_url": "https://fridaymatinee.in/boxoffice/sangathamizhan-31",
+ "captured_at": "2026-10-01T17:57:34.744718+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 31,
+    "title": "Sangathamizhan",
+    "img": "https://image.tmdb.org/t/p/original/1kfP7KCrqcU2P3C1Z1h8rzGTeAa.jpg",
+    "released": "2019-11-15",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10300380",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "150 min",
+    "genre": "Action, Drama",
+    "plot": "A village is protesting against the setting up a copper plant, but when their leader dies, the corporate company behind the plant sends in a look-alike to facilitate their plan.",
+    "released": "2019-11-15",
+    "director": "Vijay Chandar",
+    "directorSlug": "vijay-chandar",
+    "actors": [
+     "Vijay Sethupathi",
+     "Raashii Khanna",
+     "Nivetha Pethuraj",
+     "Soori",
+     "Nassar",
+     "G. Marimuthu"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.7",
+      "votes": 597,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:11:01.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vijay Sethupathi",
+     "character": "Sangathamizhan (Murugan)",
+     "slug": "vijay-sethupathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6qaMCgZ4MMBMYvTYEKCjLIdq0B5.jpg"
+    },
+    {
+     "name": "Raashii Khanna",
+     "character": "Kamala",
+     "slug": "raashii-khanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8nx3hzFdge51Cb5BcocIe4ShumU.jpg"
+    },
+    {
+     "name": "Nivetha Pethuraj",
+     "character": "Thenmozhi",
+     "slug": "nivetha-pethuraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8OzmSIrwJ3zg7TGWtpKLLyawzt4.jpg"
+    },
+    {
+     "name": "Soori",
+     "character": "Soori",
+     "slug": "soori",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iBpTFbCbkMO3zdw3WK4YaPqk3DA.jpg"
+    },
+    {
+     "name": "Nassar",
+     "character": "Devarajan",
+     "slug": "nassar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg"
+    },
+    {
+     "name": "G. Marimuthu",
+     "character": null,
+     "slug": "g-marimuthu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gDBqLLiwYqYtKdhHowX7ppCmko8.jpg"
+    },
+    {
+     "name": "John Vijay",
+     "character": null,
+     "slug": "john-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1H4uUEI32DmZWfTGmWnXyu0BrU7.jpg"
+    },
+    {
+     "name": "Sriman",
+     "character": "Venkatesh",
+     "slug": "sriman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/81liscP15XwpOUmcEid32dcBWyT.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vijay Chandar",
+       "slug": "vijay-chandar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vijay Chandar",
+       "slug": "vijay-chandar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vivek Siva",
+       "slug": "vivek-siva"
+      },
+      {
+       "name": "Mervin Solomon",
+       "slug": "mervin-solomon"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "R. Velraj",
+       "slug": "r-velraj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen K. L.",
+       "slug": "praveen-k-l"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "B. Bharathi Reddy",
+       "slug": "b-bharathi-reddy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Vijaya Productions",
+     "slug": "vijaya-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 457242,
+    "totalShows": 186,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 121267,
+     "date": "2019-11-15"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 144815,
+     "date": "2019-11-17"
+    },
+    "chartPosition": {
+     "current_position": 97,
+     "weeks_on_chart": 0,
+     "peak_position": 18,
+     "last_week_position": 97
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-15"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 31,
+    "title": "Sangathamizhan",
+    "img": "https://image.tmdb.org/t/p/original/1kfP7KCrqcU2P3C1Z1h8rzGTeAa.jpg",
+    "released": "2019-11-15",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10300380",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "150 min",
+    "genre": "Action, Drama",
+    "plot": "A village is protesting against the setting up a copper plant, but when their leader dies, the corporate company behind the plant sends in a look-alike to facilitate their plan.",
+    "released": "2019-11-15",
+    "director": "Vijay Chandar",
+    "directorSlug": "vijay-chandar",
+    "actors": [
+     "Vijay Sethupathi",
+     "Raashii Khanna",
+     "Nivetha Pethuraj",
+     "Soori",
+     "Nassar",
+     "G. Marimuthu"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.7",
+      "votes": 597,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:11:01.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vijay Sethupathi",
+     "character": "Sangathamizhan (Murugan)",
+     "slug": "vijay-sethupathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6qaMCgZ4MMBMYvTYEKCjLIdq0B5.jpg"
+    },
+    {
+     "name": "Raashii Khanna",
+     "character": "Kamala",
+     "slug": "raashii-khanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8nx3hzFdge51Cb5BcocIe4ShumU.jpg"
+    },
+    {
+     "name": "Nivetha Pethuraj",
+     "character": "Thenmozhi",
+     "slug": "nivetha-pethuraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8OzmSIrwJ3zg7TGWtpKLLyawzt4.jpg"
+    },
+    {
+     "name": "Soori",
+     "character": "Soori",
+     "slug": "soori",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iBpTFbCbkMO3zdw3WK4YaPqk3DA.jpg"
+    },
+    {
+     "name": "Nassar",
+     "character": "Devarajan",
+     "slug": "nassar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg"
+    },
+    {
+     "name": "G. Marimuthu",
+     "character": null,
+     "slug": "g-marimuthu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gDBqLLiwYqYtKdhHowX7ppCmko8.jpg"
+    },
+    {
+     "name": "John Vijay",
+     "character": null,
+     "slug": "john-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1H4uUEI32DmZWfTGmWnXyu0BrU7.jpg"
+    },
+    {
+     "name": "Sriman",
+     "character": "Venkatesh",
+     "slug": "sriman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/81liscP15XwpOUmcEid32dcBWyT.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vijay Chandar",
+       "slug": "vijay-chandar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vijay Chandar",
+       "slug": "vijay-chandar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vivek Siva",
+       "slug": "vivek-siva"
+      },
+      {
+       "name": "Mervin Solomon",
+       "slug": "mervin-solomon"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "R. Velraj",
+       "slug": "r-velraj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen K. L.",
+       "slug": "praveen-k-l"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "B. Bharathi Reddy",
+       "slug": "b-bharathi-reddy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Vijaya Productions",
+     "slug": "vijaya-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2019-11-15",
+     "gross": 457242,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 186,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 457242,
+    "totalShows": 186,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 457242
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 457242
+    },
+    "chartPosition": {
+     "current_position": 97,
+     "weeks_on_chart": 0,
+     "peak_position": 18,
+     "last_week_position": 97
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-15"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 31,
+    "title": "Sangathamizhan",
+    "img": "https://image.tmdb.org/t/p/original/1kfP7KCrqcU2P3C1Z1h8rzGTeAa.jpg",
+    "released": "2019-11-15",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt10300380",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "150 min",
+    "genre": "Action, Drama",
+    "plot": "A village is protesting against the setting up a copper plant, but when their leader dies, the corporate company behind the plant sends in a look-alike to facilitate their plan.",
+    "released": "2019-11-15",
+    "director": "Vijay Chandar",
+    "directorSlug": "vijay-chandar",
+    "actors": [
+     "Vijay Sethupathi",
+     "Raashii Khanna",
+     "Nivetha Pethuraj",
+     "Soori",
+     "Nassar",
+     "G. Marimuthu"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.7",
+      "votes": 597,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:11:01.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vijay Sethupathi",
+     "character": "Sangathamizhan (Murugan)",
+     "slug": "vijay-sethupathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6qaMCgZ4MMBMYvTYEKCjLIdq0B5.jpg"
+    },
+    {
+     "name": "Raashii Khanna",
+     "character": "Kamala",
+     "slug": "raashii-khanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8nx3hzFdge51Cb5BcocIe4ShumU.jpg"
+    },
+    {
+     "name": "Nivetha Pethuraj",
+     "character": "Thenmozhi",
+     "slug": "nivetha-pethuraj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8OzmSIrwJ3zg7TGWtpKLLyawzt4.jpg"
+    },
+    {
+     "name": "Soori",
+     "character": "Soori",
+     "slug": "soori",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iBpTFbCbkMO3zdw3WK4YaPqk3DA.jpg"
+    },
+    {
+     "name": "Nassar",
+     "character": "Devarajan",
+     "slug": "nassar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg"
+    },
+    {
+     "name": "G. Marimuthu",
+     "character": null,
+     "slug": "g-marimuthu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gDBqLLiwYqYtKdhHowX7ppCmko8.jpg"
+    },
+    {
+     "name": "John Vijay",
+     "character": null,
+     "slug": "john-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1H4uUEI32DmZWfTGmWnXyu0BrU7.jpg"
+    },
+    {
+     "name": "Sriman",
+     "character": "Venkatesh",
+     "slug": "sriman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/81liscP15XwpOUmcEid32dcBWyT.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vijay Chandar",
+       "slug": "vijay-chandar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vijay Chandar",
+       "slug": "vijay-chandar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vivek Siva",
+       "slug": "vivek-siva"
+      },
+      {
+       "name": "Mervin Solomon",
+       "slug": "mervin-solomon"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "R. Velraj",
+       "slug": "r-velraj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Praveen K. L.",
+       "slug": "praveen-k-l"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "B. Bharathi Reddy",
+       "slug": "b-bharathi-reddy"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Vijaya Productions",
+     "slug": "vijaya-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 457242,
+    "totalShows": 186,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 168325,
+     "date": "Thiruvananthapuram"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 168325,
+     "date": "Thiruvananthapuram"
+    },
+    "chartPosition": {
+     "current_position": 97,
+     "weeks_on_chart": 0,
+     "peak_position": 18,
+     "last_week_position": 97
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-15"
+   }
+  }
+ }
+}

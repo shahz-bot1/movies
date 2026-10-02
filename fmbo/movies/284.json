@@ -1,0 +1,714 @@
+{
+ "id": 284,
+ "slug": "thankam",
+ "source_url": "https://fridaymatinee.in/boxoffice/thankam-284",
+ "captured_at": "2026-10-01T18:08:47.946566+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 284,
+    "title": "Thankam",
+    "img": "https://image.tmdb.org/t/p/original/lB4VhlVcJGxBTHtSgFaCJdFrmxL.jpg",
+    "released": "2023-01-26",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11086194",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "145 min",
+    "genre": "Drama, Crime",
+    "plot": "Thankam follows the story of Muthu and Kannan, two gold agents from Thrissur, known as the gold capital of India. As they travel across Kerala and Tamil Nadu, delivering consignments of gold, their lives take a dark turn when a routine trip leads to unexpected complications.",
+    "released": "2023-01-26",
+    "director": "Saheed Arafath",
+    "directorSlug": "saheed-arafath",
+    "actors": [
+     "Biju Menon",
+     "Vineeth Sreenivasan",
+     "Aparna Balamurali",
+     "Girish Kulkarni",
+     "Kochu Preman",
+     "Vineeth Thattil David"
+    ],
+    "awards": "3 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "7.1",
+      "votes": 3994,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Biju Menon",
+     "character": "Muthu",
+     "slug": "biju-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kSnzfoZphQGrnOBH7MfU3HMTKGJ.jpg"
+    },
+    {
+     "name": "Vineeth Sreenivasan",
+     "character": "Kannan",
+     "slug": "vineeth-sreenivasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yM1QOwiYHAcL2FwHlHBV2esBA9m.jpg"
+    },
+    {
+     "name": "Aparna Balamurali",
+     "character": "Keerthy",
+     "slug": "aparna-balamurali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8IdA0YxPHttgDQCi09pE28LWw0E.jpg"
+    },
+    {
+     "name": "Girish Kulkarni",
+     "character": "Jayanth Sakhalkar",
+     "slug": "girish-kulkarni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mMqLm0Y42cVDvTvGZzSgYW1aYA7.jpg"
+    },
+    {
+     "name": "Kochu Preman",
+     "character": "Sasipillai",
+     "slug": "kochu-preman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6o5nw5QGB9GFzIwqXy3uOFlZOHx.jpg"
+    },
+    {
+     "name": "Vineeth Thattil David",
+     "character": "Bejoy",
+     "slug": "vineeth-thattil-david",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3GRoDMGPrMOBfHki8eAFYfse7kq.jpg"
+    },
+    {
+     "name": "Indira Prasad",
+     "character": "Ambika Chechi",
+     "slug": "indira-prasad",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Kalaiyarasan",
+     "character": "Abbas",
+     "slug": "kalaiyarasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4xaAqc7EFfcJXIS23yVJb6vZhLt.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Saheed Arafath",
+       "slug": "saheed-arafath"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Syam Pushkaran",
+       "slug": "syam-pushkaran"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Bijibal",
+       "slug": "bijibal"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Gautham Shankar",
+       "slug": "gautham-shankar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kiran Das",
+       "slug": "kiran-das"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dileesh Pothan",
+       "slug": "dileesh-pothan"
+      },
+      {
+       "name": "Fahadh Faasil",
+       "slug": "fahadh-faasil"
+      },
+      {
+       "name": "Rajan Thomas",
+       "slug": "rajan-thomas"
+      },
+      {
+       "name": "Syam Pushkaran",
+       "slug": "syam-pushkaran"
+      },
+      {
+       "name": "Nazriya Nazim",
+       "slug": "nazriya-nazim-fahadh"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Bhavana Studios",
+     "slug": "bhavana-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/4BQiSMEuGfZynsWiMDMpm3zf5vt.png"
+    },
+    {
+     "name": "Working Class Hero",
+     "slug": "working-class-hero",
+     "logo": null
+    },
+    {
+     "name": "Fahadh Faasil and Friends Private Limited",
+     "slug": "fahadh-faasil-and-friends-private-limited",
+     "logo": "https://image.tmdb.org/t/p/w185/9UVxeoW8MBpqIy11A2uvL79Qp2J.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 30120360.359999996,
+    "totalShows": 4860,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 4869121.119999999,
+     "date": "2023-01-26"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 5173762.849999999,
+     "date": "2023-01-29"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 55,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-26"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 284,
+    "title": "Thankam",
+    "img": "https://image.tmdb.org/t/p/original/lB4VhlVcJGxBTHtSgFaCJdFrmxL.jpg",
+    "released": "2023-01-26",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11086194",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "145 min",
+    "genre": "Drama, Crime",
+    "plot": "Thankam follows the story of Muthu and Kannan, two gold agents from Thrissur, known as the gold capital of India. As they travel across Kerala and Tamil Nadu, delivering consignments of gold, their lives take a dark turn when a routine trip leads to unexpected complications.",
+    "released": "2023-01-26",
+    "director": "Saheed Arafath",
+    "directorSlug": "saheed-arafath",
+    "actors": [
+     "Biju Menon",
+     "Vineeth Sreenivasan",
+     "Aparna Balamurali",
+     "Girish Kulkarni",
+     "Kochu Preman",
+     "Vineeth Thattil David"
+    ],
+    "awards": "3 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "7.1",
+      "votes": 3994,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Biju Menon",
+     "character": "Muthu",
+     "slug": "biju-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kSnzfoZphQGrnOBH7MfU3HMTKGJ.jpg"
+    },
+    {
+     "name": "Vineeth Sreenivasan",
+     "character": "Kannan",
+     "slug": "vineeth-sreenivasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yM1QOwiYHAcL2FwHlHBV2esBA9m.jpg"
+    },
+    {
+     "name": "Aparna Balamurali",
+     "character": "Keerthy",
+     "slug": "aparna-balamurali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8IdA0YxPHttgDQCi09pE28LWw0E.jpg"
+    },
+    {
+     "name": "Girish Kulkarni",
+     "character": "Jayanth Sakhalkar",
+     "slug": "girish-kulkarni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mMqLm0Y42cVDvTvGZzSgYW1aYA7.jpg"
+    },
+    {
+     "name": "Kochu Preman",
+     "character": "Sasipillai",
+     "slug": "kochu-preman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6o5nw5QGB9GFzIwqXy3uOFlZOHx.jpg"
+    },
+    {
+     "name": "Vineeth Thattil David",
+     "character": "Bejoy",
+     "slug": "vineeth-thattil-david",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3GRoDMGPrMOBfHki8eAFYfse7kq.jpg"
+    },
+    {
+     "name": "Indira Prasad",
+     "character": "Ambika Chechi",
+     "slug": "indira-prasad",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Kalaiyarasan",
+     "character": "Abbas",
+     "slug": "kalaiyarasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4xaAqc7EFfcJXIS23yVJb6vZhLt.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Saheed Arafath",
+       "slug": "saheed-arafath"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Syam Pushkaran",
+       "slug": "syam-pushkaran"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Bijibal",
+       "slug": "bijibal"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Gautham Shankar",
+       "slug": "gautham-shankar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kiran Das",
+       "slug": "kiran-das"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dileesh Pothan",
+       "slug": "dileesh-pothan"
+      },
+      {
+       "name": "Fahadh Faasil",
+       "slug": "fahadh-faasil"
+      },
+      {
+       "name": "Rajan Thomas",
+       "slug": "rajan-thomas"
+      },
+      {
+       "name": "Syam Pushkaran",
+       "slug": "syam-pushkaran"
+      },
+      {
+       "name": "Nazriya Nazim",
+       "slug": "nazriya-nazim-fahadh"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Bhavana Studios",
+     "slug": "bhavana-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/4BQiSMEuGfZynsWiMDMpm3zf5vt.png"
+    },
+    {
+     "name": "Working Class Hero",
+     "slug": "working-class-hero",
+     "logo": null
+    },
+    {
+     "name": "Fahadh Faasil and Friends Private Limited",
+     "slug": "fahadh-faasil-and-friends-private-limited",
+     "logo": "https://image.tmdb.org/t/p/w185/9UVxeoW8MBpqIy11A2uvL79Qp2J.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-01-26",
+     "gross": 23739671.30000001,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3591,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-02-02",
+     "gross": 6380689.0600000005,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1269,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 30120360.360000007,
+    "totalShows": 4860,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 23739671.30000001
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 23739671.30000001
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 55,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-26"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 284,
+    "title": "Thankam",
+    "img": "https://image.tmdb.org/t/p/original/lB4VhlVcJGxBTHtSgFaCJdFrmxL.jpg",
+    "released": "2023-01-26",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt11086194",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "145 min",
+    "genre": "Drama, Crime",
+    "plot": "Thankam follows the story of Muthu and Kannan, two gold agents from Thrissur, known as the gold capital of India. As they travel across Kerala and Tamil Nadu, delivering consignments of gold, their lives take a dark turn when a routine trip leads to unexpected complications.",
+    "released": "2023-01-26",
+    "director": "Saheed Arafath",
+    "directorSlug": "saheed-arafath",
+    "actors": [
+     "Biju Menon",
+     "Vineeth Sreenivasan",
+     "Aparna Balamurali",
+     "Girish Kulkarni",
+     "Kochu Preman",
+     "Vineeth Thattil David"
+    ],
+    "awards": "3 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "7.1",
+      "votes": 3994,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Biju Menon",
+     "character": "Muthu",
+     "slug": "biju-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kSnzfoZphQGrnOBH7MfU3HMTKGJ.jpg"
+    },
+    {
+     "name": "Vineeth Sreenivasan",
+     "character": "Kannan",
+     "slug": "vineeth-sreenivasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yM1QOwiYHAcL2FwHlHBV2esBA9m.jpg"
+    },
+    {
+     "name": "Aparna Balamurali",
+     "character": "Keerthy",
+     "slug": "aparna-balamurali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8IdA0YxPHttgDQCi09pE28LWw0E.jpg"
+    },
+    {
+     "name": "Girish Kulkarni",
+     "character": "Jayanth Sakhalkar",
+     "slug": "girish-kulkarni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mMqLm0Y42cVDvTvGZzSgYW1aYA7.jpg"
+    },
+    {
+     "name": "Kochu Preman",
+     "character": "Sasipillai",
+     "slug": "kochu-preman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6o5nw5QGB9GFzIwqXy3uOFlZOHx.jpg"
+    },
+    {
+     "name": "Vineeth Thattil David",
+     "character": "Bejoy",
+     "slug": "vineeth-thattil-david",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3GRoDMGPrMOBfHki8eAFYfse7kq.jpg"
+    },
+    {
+     "name": "Indira Prasad",
+     "character": "Ambika Chechi",
+     "slug": "indira-prasad",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Kalaiyarasan",
+     "character": "Abbas",
+     "slug": "kalaiyarasan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4xaAqc7EFfcJXIS23yVJb6vZhLt.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Saheed Arafath",
+       "slug": "saheed-arafath"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Syam Pushkaran",
+       "slug": "syam-pushkaran"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Bijibal",
+       "slug": "bijibal"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Gautham Shankar",
+       "slug": "gautham-shankar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kiran Das",
+       "slug": "kiran-das"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dileesh Pothan",
+       "slug": "dileesh-pothan"
+      },
+      {
+       "name": "Fahadh Faasil",
+       "slug": "fahadh-faasil"
+      },
+      {
+       "name": "Rajan Thomas",
+       "slug": "rajan-thomas"
+      },
+      {
+       "name": "Syam Pushkaran",
+       "slug": "syam-pushkaran"
+      },
+      {
+       "name": "Nazriya Nazim",
+       "slug": "nazriya-nazim-fahadh"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Bhavana Studios",
+     "slug": "bhavana-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/4BQiSMEuGfZynsWiMDMpm3zf5vt.png"
+    },
+    {
+     "name": "Working Class Hero",
+     "slug": "working-class-hero",
+     "logo": null
+    },
+    {
+     "name": "Fahadh Faasil and Friends Private Limited",
+     "slug": "fahadh-faasil-and-friends-private-limited",
+     "logo": "https://image.tmdb.org/t/p/w185/9UVxeoW8MBpqIy11A2uvL79Qp2J.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 30120360.36,
+    "totalShows": 4860,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 8436913,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 8436913,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 55,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-01-26"
+   }
+  }
+ }
+}

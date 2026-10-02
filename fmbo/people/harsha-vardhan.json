@@ -1,0 +1,41 @@
+{
+ "slug": "harsha-vardhan",
+ "name": "Harsha Vardhan",
+ "source_url": "https://fridaymatinee.in/people/harsha-vardhan",
+ "captured_at": "2026-10-01T22:43:42.023370+00:00",
+ "person": {
+  "name": "Harsha Vardhan",
+  "photo": "https://image.tmdb.org/t/p/w185/A6mdUVQBu565oz20DzlxjGUWIZr.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 148,
+   "movie_slug": "aha-sundara",
+   "title": "Aha Sundara",
+   "year": 2022,
+   "kerala_gross": "₹6.3L"
+  },
+  {
+   "movie_id": 796,
+   "movie_slug": "paradha",
+   "title": "Paradha",
+   "year": 2025,
+   "kerala_gross": "₹5.1L"
+  },
+  {
+   "movie_id": 964,
+   "movie_slug": "mana-shankara-vara-prasad-garu",
+   "title": "Mana Shankara Vara Prasad Garu",
+   "year": 2026,
+   "kerala_gross": "₹9.9L"
+  }
+ ]
+}

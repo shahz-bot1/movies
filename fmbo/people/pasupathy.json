@@ -1,0 +1,41 @@
+{
+ "slug": "pasupathy",
+ "name": "Pasupathy",
+ "source_url": "https://fridaymatinee.in/people/pasupathy",
+ "captured_at": "2026-10-02T01:14:17.689871+00:00",
+ "person": {
+  "name": "Pasupathy",
+  "photo": "https://image.tmdb.org/t/p/w185/5acprpMj9trXNd8QOoKwssjkXkb.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 527,
+   "movie_slug": "kalki-2898-ad",
+   "title": "Kalki 2898 AD",
+   "year": 2024,
+   "kerala_gross": "₹26.7 Cr"
+  },
+  {
+   "movie_id": 552,
+   "movie_slug": "thangalaan",
+   "title": "Thangalaan",
+   "year": 2024,
+   "kerala_gross": "₹2.3 Cr"
+  },
+  {
+   "movie_id": 867,
+   "movie_slug": "bison-kaalamaadan",
+   "title": "Bison Kaalamaadan",
+   "year": 2025,
+   "kerala_gross": "₹1.4 Cr"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "slug": "vineeth-vishwam",
+ "name": "Vineeth Vishwam",
+ "source_url": "https://fridaymatinee.in/people/vineeth-vishwam",
+ "captured_at": "2026-10-02T11:48:30.208509+00:00",
+ "person": {
+  "name": "Vineeth Vishwam",
+  "photo": "https://image.tmdb.org/t/p/w185/aNNOrpCuXrgxtGpNTYYZjDyv3HM.jpg",
+  "role": "Actor and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 7
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 97,
+   "movie_slug": "ajagajantharam",
+   "title": "Ajagajantharam",
+   "year": 2021,
+   "kerala_gross": "₹7.4 Cr"
+  },
+  {
+   "movie_id": 100,
+   "movie_slug": "super-sharanya",
+   "title": "Super Sharanya",
+   "year": 2022,
+   "kerala_gross": "₹5.7 Cr"
+  },
+  {
+   "movie_id": 280,
+   "movie_slug": "poovan",
+   "title": "Poovan",
+   "year": 2023,
+   "kerala_gross": "₹29.9L"
+  },
+  {
+   "movie_id": 295,
+   "movie_slug": "christy",
+   "title": "Christy",
+   "year": 2023,
+   "kerala_gross": "₹51.6L"
+  },
+  {
+   "movie_id": 588,
+   "movie_slug": "i-am-kathalan",
+   "title": "I Am Kathalan",
+   "year": 2024,
+   "kerala_gross": "₹3.2 Cr"
+  },
+  {
+   "movie_id": 628,
+   "movie_slug": "ennu-swantham-punyalan",
+   "title": "Ennu Swantham Punyalan",
+   "year": 2025,
+   "kerala_gross": "₹2.5 Cr"
+  },
+  {
+   "movie_id": 1234,
+   "movie_slug": "bethlehem-kudumba-unit",
+   "title": "Bethlehem Kudumba Unit",
+   "year": 2026,
+   "kerala_gross": "₹145.2 Cr"
+  }
+ ]
+}

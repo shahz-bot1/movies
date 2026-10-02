@@ -1,0 +1,48 @@
+{
+ "slug": "chithra-nair",
+ "name": "Chithra Nair",
+ "source_url": "https://fridaymatinee.in/people/chithra-nair",
+ "captured_at": "2026-10-01T21:34:32.601870+00:00",
+ "person": {
+  "name": "Chithra Nair",
+  "photo": "https://image.tmdb.org/t/p/w185/uoPiVE2rr28Gmg0cSQB44fSLzLm.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 176,
+   "movie_slug": "nna-thaan-case-kodu",
+   "title": "Nna Thaan Case Kodu",
+   "year": 2022,
+   "kerala_gross": "₹15.3 Cr"
+  },
+  {
+   "movie_id": 519,
+   "movie_slug": "sureshanteyum-sumalathayudeyum-hrudayahariyaya-pranayakadha",
+   "title": "Sureshanteyum Sumalathayudeyum Hrudayahariyaya Pranayakadha",
+   "year": 2024,
+   "kerala_gross": "₹62.9L"
+  },
+  {
+   "movie_id": 1206,
+   "movie_slug": "maharaja-hostel",
+   "title": "Maharaja Hostel",
+   "year": 2026,
+   "kerala_gross": "₹25.9L"
+  },
+  {
+   "movie_id": 1257,
+   "movie_slug": "ottam-thullal",
+   "title": "Ottam Thullal",
+   "year": 2026,
+   "kerala_gross": "₹17.5L"
+  }
+ ]
+}

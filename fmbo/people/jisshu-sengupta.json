@@ -1,0 +1,48 @@
+{
+ "slug": "jisshu-sengupta",
+ "name": "Jisshu Sengupta",
+ "source_url": "https://fridaymatinee.in/people/jisshu-sengupta",
+ "captured_at": "2026-10-01T23:16:22.169558+00:00",
+ "person": {
+  "name": "Jisshu Sengupta",
+  "photo": "https://image.tmdb.org/t/p/w185/6Ha4p2iQOHpnKC1uB4NKJ53kHRi.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 173,
+   "movie_slug": "sita-ramam",
+   "title": "Sita Ramam",
+   "year": 2022,
+   "kerala_gross": "₹5.0 Cr"
+  },
+  {
+   "movie_id": 350,
+   "movie_slug": "shaakuntalam",
+   "title": "Shaakuntalam",
+   "year": 2023,
+   "kerala_gross": "₹4.2L"
+  },
+  {
+   "movie_id": 988,
+   "movie_slug": "mardaani-3",
+   "title": "Mardaani 3",
+   "year": 2026,
+   "kerala_gross": "₹7.8L"
+  },
+  {
+   "movie_id": 1070,
+   "movie_slug": "bhooth-bangla",
+   "title": "Bhooth Bangla",
+   "year": 2026,
+   "kerala_gross": "₹24.0L"
+  }
+ ]
+}

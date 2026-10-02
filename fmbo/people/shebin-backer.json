@@ -1,0 +1,48 @@
+{
+ "slug": "shebin-backer",
+ "name": "Shebin Backer",
+ "source_url": "https://fridaymatinee.in/people/shebin-backer",
+ "captured_at": "2026-10-02T10:30:05.800836+00:00",
+ "person": {
+  "name": "Shebin Backer",
+  "photo": "https://image.tmdb.org/t/p/w185/nXGF1lz1S0aRanRSFXXvTXRwUaI.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 100,
+   "movie_slug": "super-sharanya",
+   "title": "Super Sharanya",
+   "year": 2022,
+   "kerala_gross": "₹5.7 Cr"
+  },
+  {
+   "movie_id": 280,
+   "movie_slug": "poovan",
+   "title": "Poovan",
+   "year": 2023,
+   "kerala_gross": "₹29.9L"
+  },
+  {
+   "movie_id": 427,
+   "movie_slug": "theeppori-benny",
+   "title": "Theeppori Benny",
+   "year": 2023,
+   "kerala_gross": "₹77.1L"
+  },
+  {
+   "movie_id": 773,
+   "movie_slug": "thalavara",
+   "title": "Thalavara",
+   "year": 2025,
+   "kerala_gross": "₹2.0 Cr"
+  }
+ ]
+}

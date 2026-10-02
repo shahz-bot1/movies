@@ -1,0 +1,630 @@
+{
+ "id": 361,
+ "slug": "agent",
+ "source_url": "https://fridaymatinee.in/boxoffice/agent-361",
+ "captured_at": "2026-10-01T18:10:34.063743+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 361,
+    "title": "Agent",
+    "img": "https://www.themoviedb.org/t/p/w1280/9e7J9QltLrqYdzTxnCC4ea7lSBv.jpg",
+    "released": "2023-04-28",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14411774",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "155 min",
+    "genre": "Action, Thriller",
+    "plot": "Ramakrishna aka Ricky's only one goal in life is to be a RAW recruitee and undertake some Planet-saving mission. Mahadev, RAW head, ropes him in for the most important mission ever known and unknown to even the Prime Minister of India. Ricky must tame The God, the megalomaniacal lynchpin of a giant-sized crime syndicate.",
+    "released": "2023-04-27",
+    "director": "Surender Reddy",
+    "directorSlug": "surender-reddy",
+    "actors": [
+     "Akhil Akkineni",
+     "Mammootty",
+     "Dino Morea",
+     "Sakshi Vaidya",
+     "Sampath Raj",
+     "Murali Sharma"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.5",
+      "votes": 2173,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:25.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Akhil Akkineni",
+     "character": "Ramakrishna AKA 'Ricky'",
+     "slug": "akhil-akkineni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uErlyTiIXxTA0Qd7UTtYukOD51O.jpg"
+    },
+    {
+     "name": "Mammootty",
+     "character": "RAW Chief Colonel Mahadev AKA 'The Devil'",
+     "slug": "mammootty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
+    },
+    {
+     "name": "Dino Morea",
+     "character": "The God",
+     "slug": "dino-morea",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/76sUAgf1NYDEPNqED647RgkcsQX.jpg"
+    },
+    {
+     "name": "Sakshi Vaidya",
+     "character": "Vidya",
+     "slug": "sakshi-vaidya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mjxptpTIascHLZkcXXHZ3VKKId5.jpg"
+    },
+    {
+     "name": "Sampath Raj",
+     "character": "Jitendra Reddy",
+     "slug": "sampath-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oQgoihP26Hyg6gMFVpACRAygZli.jpg"
+    },
+    {
+     "name": "Murali Sharma",
+     "character": "Ricky's Father",
+     "slug": "murali-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8m4L7L9lK4Z2YK4Jg97pMbA0Le5.jpg"
+    },
+    {
+     "name": "Posani Krishna Murali",
+     "character": "Shiva",
+     "slug": "posani-krishna-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mJHo1EvOORv2FAK12zpFESDQfM.jpg"
+    },
+    {
+     "name": "Varalaxmi Sarathkumar",
+     "character": "Shalini",
+     "slug": "varalaxmi-sarathkumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vudH16iDpzft1uWIMMgcCRxBTXa.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Surender Reddy",
+       "slug": "surender-reddy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vakkantham Vamsi",
+       "slug": "vakkantham-vamsi"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "HipHop Tamizha Adhi",
+       "slug": "hiphop-tamizha-adhi"
+      },
+      {
+       "name": "HipHop Tamizha Jeeva",
+       "slug": "hiphop-tamizha-jeeva"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Rasool Ellore",
+       "slug": "rasool-ellore"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Naveen Nooli",
+       "slug": "naveen-nooli"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ramabrahmam Sunkara",
+       "slug": "ramabrahmam-sunkara"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "AK Entertainments",
+     "slug": "ak-entertainments",
+     "logo": "https://image.tmdb.org/t/p/w185/cikGdkHOmFTXgi95V1yx8EIoZyi.png"
+    },
+    {
+     "name": "Surrender 2 Cinema",
+     "slug": "surrender-2-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/zZ353uo0LmooaNcefgipViAZtib.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-02-16",
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4517459.800000001,
+    "totalShows": 1603,
+    "totalDays": 9,
+    "openingDay": {
+     "day": 1,
+     "gross": 1310490.4,
+     "date": "2023-04-28"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1310490.4,
+     "date": "2023-04-28"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-04-28"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 361,
+    "title": "Agent",
+    "img": "https://www.themoviedb.org/t/p/w1280/9e7J9QltLrqYdzTxnCC4ea7lSBv.jpg",
+    "released": "2023-04-28",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14411774",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "155 min",
+    "genre": "Action, Thriller",
+    "plot": "Ramakrishna aka Ricky's only one goal in life is to be a RAW recruitee and undertake some Planet-saving mission. Mahadev, RAW head, ropes him in for the most important mission ever known and unknown to even the Prime Minister of India. Ricky must tame The God, the megalomaniacal lynchpin of a giant-sized crime syndicate.",
+    "released": "2023-04-27",
+    "director": "Surender Reddy",
+    "directorSlug": "surender-reddy",
+    "actors": [
+     "Akhil Akkineni",
+     "Mammootty",
+     "Dino Morea",
+     "Sakshi Vaidya",
+     "Sampath Raj",
+     "Murali Sharma"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.5",
+      "votes": 2173,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:25.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Akhil Akkineni",
+     "character": "Ramakrishna AKA 'Ricky'",
+     "slug": "akhil-akkineni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uErlyTiIXxTA0Qd7UTtYukOD51O.jpg"
+    },
+    {
+     "name": "Mammootty",
+     "character": "RAW Chief Colonel Mahadev AKA 'The Devil'",
+     "slug": "mammootty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
+    },
+    {
+     "name": "Dino Morea",
+     "character": "The God",
+     "slug": "dino-morea",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/76sUAgf1NYDEPNqED647RgkcsQX.jpg"
+    },
+    {
+     "name": "Sakshi Vaidya",
+     "character": "Vidya",
+     "slug": "sakshi-vaidya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mjxptpTIascHLZkcXXHZ3VKKId5.jpg"
+    },
+    {
+     "name": "Sampath Raj",
+     "character": "Jitendra Reddy",
+     "slug": "sampath-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oQgoihP26Hyg6gMFVpACRAygZli.jpg"
+    },
+    {
+     "name": "Murali Sharma",
+     "character": "Ricky's Father",
+     "slug": "murali-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8m4L7L9lK4Z2YK4Jg97pMbA0Le5.jpg"
+    },
+    {
+     "name": "Posani Krishna Murali",
+     "character": "Shiva",
+     "slug": "posani-krishna-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mJHo1EvOORv2FAK12zpFESDQfM.jpg"
+    },
+    {
+     "name": "Varalaxmi Sarathkumar",
+     "character": "Shalini",
+     "slug": "varalaxmi-sarathkumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vudH16iDpzft1uWIMMgcCRxBTXa.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Surender Reddy",
+       "slug": "surender-reddy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vakkantham Vamsi",
+       "slug": "vakkantham-vamsi"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "HipHop Tamizha Adhi",
+       "slug": "hiphop-tamizha-adhi"
+      },
+      {
+       "name": "HipHop Tamizha Jeeva",
+       "slug": "hiphop-tamizha-jeeva"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Rasool Ellore",
+       "slug": "rasool-ellore"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Naveen Nooli",
+       "slug": "naveen-nooli"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ramabrahmam Sunkara",
+       "slug": "ramabrahmam-sunkara"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "AK Entertainments",
+     "slug": "ak-entertainments",
+     "logo": "https://image.tmdb.org/t/p/w185/cikGdkHOmFTXgi95V1yx8EIoZyi.png"
+    },
+    {
+     "name": "Surrender 2 Cinema",
+     "slug": "surrender-2-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/zZ353uo0LmooaNcefgipViAZtib.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-02-16",
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-04-28",
+     "gross": 4489334.8,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1598,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-05-05",
+     "gross": 28125,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4517459.8,
+    "totalShows": 1603,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 4489334.8
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4489334.8
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-04-28"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 361,
+    "title": "Agent",
+    "img": "https://www.themoviedb.org/t/p/w1280/9e7J9QltLrqYdzTxnCC4ea7lSBv.jpg",
+    "released": "2023-04-28",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14411774",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "155 min",
+    "genre": "Action, Thriller",
+    "plot": "Ramakrishna aka Ricky's only one goal in life is to be a RAW recruitee and undertake some Planet-saving mission. Mahadev, RAW head, ropes him in for the most important mission ever known and unknown to even the Prime Minister of India. Ricky must tame The God, the megalomaniacal lynchpin of a giant-sized crime syndicate.",
+    "released": "2023-04-27",
+    "director": "Surender Reddy",
+    "directorSlug": "surender-reddy",
+    "actors": [
+     "Akhil Akkineni",
+     "Mammootty",
+     "Dino Morea",
+     "Sakshi Vaidya",
+     "Sampath Raj",
+     "Murali Sharma"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.5",
+      "votes": 2173,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:10:25.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Akhil Akkineni",
+     "character": "Ramakrishna AKA 'Ricky'",
+     "slug": "akhil-akkineni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uErlyTiIXxTA0Qd7UTtYukOD51O.jpg"
+    },
+    {
+     "name": "Mammootty",
+     "character": "RAW Chief Colonel Mahadev AKA 'The Devil'",
+     "slug": "mammootty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/c5ewp9XtDIOwK5QWhwA7TD0GzqO.jpg"
+    },
+    {
+     "name": "Dino Morea",
+     "character": "The God",
+     "slug": "dino-morea",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/76sUAgf1NYDEPNqED647RgkcsQX.jpg"
+    },
+    {
+     "name": "Sakshi Vaidya",
+     "character": "Vidya",
+     "slug": "sakshi-vaidya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mjxptpTIascHLZkcXXHZ3VKKId5.jpg"
+    },
+    {
+     "name": "Sampath Raj",
+     "character": "Jitendra Reddy",
+     "slug": "sampath-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oQgoihP26Hyg6gMFVpACRAygZli.jpg"
+    },
+    {
+     "name": "Murali Sharma",
+     "character": "Ricky's Father",
+     "slug": "murali-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8m4L7L9lK4Z2YK4Jg97pMbA0Le5.jpg"
+    },
+    {
+     "name": "Posani Krishna Murali",
+     "character": "Shiva",
+     "slug": "posani-krishna-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mJHo1EvOORv2FAK12zpFESDQfM.jpg"
+    },
+    {
+     "name": "Varalaxmi Sarathkumar",
+     "character": "Shalini",
+     "slug": "varalaxmi-sarathkumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vudH16iDpzft1uWIMMgcCRxBTXa.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Surender Reddy",
+       "slug": "surender-reddy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vakkantham Vamsi",
+       "slug": "vakkantham-vamsi"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "HipHop Tamizha Adhi",
+       "slug": "hiphop-tamizha-adhi"
+      },
+      {
+       "name": "HipHop Tamizha Jeeva",
+       "slug": "hiphop-tamizha-jeeva"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Rasool Ellore",
+       "slug": "rasool-ellore"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Naveen Nooli",
+       "slug": "naveen-nooli"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ramabrahmam Sunkara",
+       "slug": "ramabrahmam-sunkara"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "AK Entertainments",
+     "slug": "ak-entertainments",
+     "logo": "https://image.tmdb.org/t/p/w185/cikGdkHOmFTXgi95V1yx8EIoZyi.png"
+    },
+    {
+     "name": "Surrender 2 Cinema",
+     "slug": "surrender-2-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/zZ353uo0LmooaNcefgipViAZtib.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-02-16",
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 4517459.8,
+    "totalShows": 1603,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 913293.8,
+     "date": "Malappuram"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 913293.8,
+     "date": "Malappuram"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-04-28"
+   }
+  }
+ }
+}

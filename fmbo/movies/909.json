@@ -1,0 +1,930 @@
+{
+ "id": 909,
+ "slug": "haq",
+ "source_url": "https://fridaymatinee.in/boxoffice/haq-909",
+ "captured_at": "2026-10-01T18:26:03.936969+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 909,
+    "title": "Haq",
+    "img": "https://image.tmdb.org/t/p/original/lzCum341P3m96Z2mLzTW2jdo0jV.jpg",
+    "released": "2025-11-07",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt36642456",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "136 min",
+    "genre": "Drama",
+    "plot": "In 1980s India, Shazia Bano takes her husband to court after he abandons her and their children, sparking a national battle over faith, women’s rights, and justice.",
+    "released": "2025-11-07",
+    "director": "Suparn Verma",
+    "directorSlug": "suparn-verma",
+    "actors": [
+     "Yami Gautam Dhar",
+     "Emraan Hashmi",
+     "Vartika Singh",
+     "Sheeba Chaddha",
+     "Danish Husain",
+     "Aseem Hattangady"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.7",
+      "votes": 16997,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "71%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Yami Gautam Dhar",
+     "character": "Shazia Bano",
+     "slug": "yami-gautam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wQwYuofypdW7JnglmyFbeWKu33j.jpg"
+    },
+    {
+     "name": "Emraan Hashmi",
+     "character": "Mohd. Abbas Khan",
+     "slug": "emraan-hashmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg"
+    },
+    {
+     "name": "Vartika Singh",
+     "character": "Saira",
+     "slug": "vartika-singh",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sheeba Chaddha",
+     "character": "Bela Jain",
+     "slug": "sheeba-chaddha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yWBQeR47GmnGJn33w4c8QzakkSh.jpg"
+    },
+    {
+     "name": "Danish Husain",
+     "character": "Shazia's Father",
+     "slug": "danish-husain",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8fonWWo47kZPmzWyc5RkYiPVnNI.jpg"
+    },
+    {
+     "name": "Aseem Hattangady",
+     "character": "Faraaz Ansari",
+     "slug": "aseem-hattangady",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Jaimini Pathak",
+     "character": null,
+     "slug": "jaimini-pathak",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ylzo1CrivrWwznjhyL6fQSdIGoi.jpg"
+    },
+    {
+     "name": "Piloo Vidyarthi",
+     "character": null,
+     "slug": "piloo-vidyarthi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8gnFptRWkYHEgBeCKPD5KrKAgbU.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Suparn Verma",
+       "slug": "suparn-verma"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Reshu Nath",
+       "slug": "reshu-nath"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sandeep Chowta",
+       "slug": "sandeep-chowta"
+      },
+      {
+       "name": "Vishal Mishra",
+       "slug": "vishal-mishra"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Pratham Mehta",
+       "slug": "pratham-mehta"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ninad Khanolkar",
+       "slug": "ninad-khanolkar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vishal Gurnani",
+       "slug": "vishal-gurnani"
+      },
+      {
+       "name": "Juhi Parekh Mehta",
+       "slug": "juhi-parekh-mehta"
+      },
+      {
+       "name": "Harman Baweja",
+       "slug": "harman-baweja"
+      },
+      {
+       "name": "Vineet Jain",
+       "slug": "vineet-jain"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Junglee Pictures",
+     "slug": "junglee-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/21kiiZYx0WVFMurYygjGacE3eBz.png"
+    },
+    {
+     "name": "Insomnia Films",
+     "slug": "insomnia-films",
+     "logo": null
+    },
+    {
+     "name": "Baweja Studios",
+     "slug": "baweja-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/fJJZLnOmXWdsi1vflvEi2kC5iBc.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-01-02",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-11-07": [
+     {
+      "id": 877,
+      "title": "Predator: Badlands",
+      "img": "https://image.tmdb.org/t/p/original/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg"
+     },
+     {
+      "id": 880,
+      "title": "Innocent",
+      "img": "https://image.tmdb.org/t/p/original/A1z6Uhk63p6kh43mkuTfECIkcRQ.jpg"
+     },
+     {
+      "id": 899,
+      "title": "Ithiri Neram",
+      "img": "https://image.tmdb.org/t/p/original/vpyf5DG2SE3kMeR9zexiMglZy2P.jpg"
+     }
+    ],
+    "2025-11-12": [
+     {
+      "id": 878,
+      "title": "Now You See Me: Now You Dont",
+      "img": "https://image.tmdb.org/t/p/original/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
+     },
+     {
+      "id": 879,
+      "title": "The Running Man",
+      "img": "https://image.tmdb.org/t/p/original/yhWKTCYa0LK9kS6zcKGYc5Dx9xQ.jpg"
+     }
+    ],
+    "2025-11-13": [
+     {
+      "id": 915,
+      "title": "De De Pyaar De 2",
+      "img": "https://image.tmdb.org/t/p/original/g3J7r2t3L9HEgyWMX0Fki04Swtu.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-11-07",
+     "gross": 63970,
+     "sold": 272,
+     "unsold": 2221,
+     "shows": 19,
+     "occ": 10.91,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 63970,
+     "lastUpdatedAt": "2025-11-07 22:53:00"
+    },
+    {
+     "label": "2025-11-08",
+     "gross": 115110,
+     "sold": 518,
+     "unsold": 1808,
+     "shows": 18,
+     "occ": 22.27,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 179080,
+     "lastUpdatedAt": "2025-11-08 23:18:00"
+    },
+    {
+     "label": "2025-11-09",
+     "gross": 103030,
+     "sold": 396,
+     "unsold": 1452,
+     "shows": 14,
+     "occ": 21.43,
+     "hf": "0",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 282110,
+     "lastUpdatedAt": "2025-11-09 22:53:00"
+    },
+    {
+     "label": "2025-11-10",
+     "gross": 40940,
+     "sold": 158,
+     "unsold": 1505,
+     "shows": 12,
+     "occ": 9.5,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 323050,
+     "lastUpdatedAt": "2025-11-10 22:58:00"
+    },
+    {
+     "label": "2025-11-11",
+     "gross": 30038,
+     "sold": 135,
+     "unsold": 1179,
+     "shows": 10,
+     "occ": 10.27,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 353088,
+     "lastUpdatedAt": "2025-11-11 22:58:00"
+    },
+    {
+     "label": "2025-11-12",
+     "gross": 38370,
+     "sold": 142,
+     "unsold": 1101,
+     "shows": 9,
+     "occ": 11.42,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 391458,
+     "lastUpdatedAt": "2025-11-12 22:58:00"
+    },
+    {
+     "label": "2025-11-13",
+     "gross": 19230,
+     "sold": 70,
+     "unsold": 1169,
+     "shows": 9,
+     "occ": 5.65,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 410688,
+     "lastUpdatedAt": "2025-11-13 22:58:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 410688,
+    "totalShows": 91,
+    "totalSeats": 12126,
+    "totalSold": 1691,
+    "avgOcc": "13.9",
+    "totalDays": 7,
+    "totalHousefull": 1,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 2,
+     "gross": 115110,
+     "date": "2025-11-08"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 63970,
+     "date": "2025-11-07"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "7:19230:410688"
+  },
+  "week": {
+   "movie": {
+    "id": 909,
+    "title": "Haq",
+    "img": "https://image.tmdb.org/t/p/original/lzCum341P3m96Z2mLzTW2jdo0jV.jpg",
+    "released": "2025-11-07",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt36642456",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "136 min",
+    "genre": "Drama",
+    "plot": "In 1980s India, Shazia Bano takes her husband to court after he abandons her and their children, sparking a national battle over faith, women’s rights, and justice.",
+    "released": "2025-11-07",
+    "director": "Suparn Verma",
+    "directorSlug": "suparn-verma",
+    "actors": [
+     "Yami Gautam Dhar",
+     "Emraan Hashmi",
+     "Vartika Singh",
+     "Sheeba Chaddha",
+     "Danish Husain",
+     "Aseem Hattangady"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.7",
+      "votes": 16997,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "71%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Yami Gautam Dhar",
+     "character": "Shazia Bano",
+     "slug": "yami-gautam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wQwYuofypdW7JnglmyFbeWKu33j.jpg"
+    },
+    {
+     "name": "Emraan Hashmi",
+     "character": "Mohd. Abbas Khan",
+     "slug": "emraan-hashmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg"
+    },
+    {
+     "name": "Vartika Singh",
+     "character": "Saira",
+     "slug": "vartika-singh",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sheeba Chaddha",
+     "character": "Bela Jain",
+     "slug": "sheeba-chaddha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yWBQeR47GmnGJn33w4c8QzakkSh.jpg"
+    },
+    {
+     "name": "Danish Husain",
+     "character": "Shazia's Father",
+     "slug": "danish-husain",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8fonWWo47kZPmzWyc5RkYiPVnNI.jpg"
+    },
+    {
+     "name": "Aseem Hattangady",
+     "character": "Faraaz Ansari",
+     "slug": "aseem-hattangady",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Jaimini Pathak",
+     "character": null,
+     "slug": "jaimini-pathak",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ylzo1CrivrWwznjhyL6fQSdIGoi.jpg"
+    },
+    {
+     "name": "Piloo Vidyarthi",
+     "character": null,
+     "slug": "piloo-vidyarthi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8gnFptRWkYHEgBeCKPD5KrKAgbU.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Suparn Verma",
+       "slug": "suparn-verma"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Reshu Nath",
+       "slug": "reshu-nath"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sandeep Chowta",
+       "slug": "sandeep-chowta"
+      },
+      {
+       "name": "Vishal Mishra",
+       "slug": "vishal-mishra"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Pratham Mehta",
+       "slug": "pratham-mehta"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ninad Khanolkar",
+       "slug": "ninad-khanolkar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vishal Gurnani",
+       "slug": "vishal-gurnani"
+      },
+      {
+       "name": "Juhi Parekh Mehta",
+       "slug": "juhi-parekh-mehta"
+      },
+      {
+       "name": "Harman Baweja",
+       "slug": "harman-baweja"
+      },
+      {
+       "name": "Vineet Jain",
+       "slug": "vineet-jain"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Junglee Pictures",
+     "slug": "junglee-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/21kiiZYx0WVFMurYygjGacE3eBz.png"
+    },
+    {
+     "name": "Insomnia Films",
+     "slug": "insomnia-films",
+     "logo": null
+    },
+    {
+     "name": "Baweja Studios",
+     "slug": "baweja-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/fJJZLnOmXWdsi1vflvEi2kC5iBc.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-01-02",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-11-07": [
+     {
+      "id": 877,
+      "title": "Predator: Badlands",
+      "img": "https://image.tmdb.org/t/p/original/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg"
+     },
+     {
+      "id": 880,
+      "title": "Innocent",
+      "img": "https://image.tmdb.org/t/p/original/A1z6Uhk63p6kh43mkuTfECIkcRQ.jpg"
+     },
+     {
+      "id": 899,
+      "title": "Ithiri Neram",
+      "img": "https://image.tmdb.org/t/p/original/vpyf5DG2SE3kMeR9zexiMglZy2P.jpg"
+     }
+    ],
+    "2025-11-12": [
+     {
+      "id": 878,
+      "title": "Now You See Me: Now You Dont",
+      "img": "https://image.tmdb.org/t/p/original/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
+     },
+     {
+      "id": 879,
+      "title": "The Running Man",
+      "img": "https://image.tmdb.org/t/p/original/yhWKTCYa0LK9kS6zcKGYc5Dx9xQ.jpg"
+     }
+    ],
+    "2025-11-13": [
+     {
+      "id": 915,
+      "title": "De De Pyaar De 2",
+      "img": "https://image.tmdb.org/t/p/original/g3J7r2t3L9HEgyWMX0Fki04Swtu.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-11-07",
+     "gross": 410688,
+     "sold": 1691,
+     "unsold": 10435,
+     "shows": 91,
+     "occ": 13.95,
+     "hf": "1",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 410688,
+     "lastUpdatedAt": "2025-11-13 22:58:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 410688,
+    "totalShows": 91,
+    "totalSeats": 12126,
+    "totalSold": 1691,
+    "avgOcc": "13.9",
+    "totalDays": 1,
+    "totalHousefull": 1,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 410688
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 410688
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:410688:410688"
+  },
+  "district": {
+   "movie": {
+    "id": 909,
+    "title": "Haq",
+    "img": "https://image.tmdb.org/t/p/original/lzCum341P3m96Z2mLzTW2jdo0jV.jpg",
+    "released": "2025-11-07",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt36642456",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "136 min",
+    "genre": "Drama",
+    "plot": "In 1980s India, Shazia Bano takes her husband to court after he abandons her and their children, sparking a national battle over faith, women’s rights, and justice.",
+    "released": "2025-11-07",
+    "director": "Suparn Verma",
+    "directorSlug": "suparn-verma",
+    "actors": [
+     "Yami Gautam Dhar",
+     "Emraan Hashmi",
+     "Vartika Singh",
+     "Sheeba Chaddha",
+     "Danish Husain",
+     "Aseem Hattangady"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.7",
+      "votes": 16997,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "71%",
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Yami Gautam Dhar",
+     "character": "Shazia Bano",
+     "slug": "yami-gautam",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wQwYuofypdW7JnglmyFbeWKu33j.jpg"
+    },
+    {
+     "name": "Emraan Hashmi",
+     "character": "Mohd. Abbas Khan",
+     "slug": "emraan-hashmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg"
+    },
+    {
+     "name": "Vartika Singh",
+     "character": "Saira",
+     "slug": "vartika-singh",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sheeba Chaddha",
+     "character": "Bela Jain",
+     "slug": "sheeba-chaddha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yWBQeR47GmnGJn33w4c8QzakkSh.jpg"
+    },
+    {
+     "name": "Danish Husain",
+     "character": "Shazia's Father",
+     "slug": "danish-husain",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8fonWWo47kZPmzWyc5RkYiPVnNI.jpg"
+    },
+    {
+     "name": "Aseem Hattangady",
+     "character": "Faraaz Ansari",
+     "slug": "aseem-hattangady",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Jaimini Pathak",
+     "character": null,
+     "slug": "jaimini-pathak",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ylzo1CrivrWwznjhyL6fQSdIGoi.jpg"
+    },
+    {
+     "name": "Piloo Vidyarthi",
+     "character": null,
+     "slug": "piloo-vidyarthi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8gnFptRWkYHEgBeCKPD5KrKAgbU.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Suparn Verma",
+       "slug": "suparn-verma"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Reshu Nath",
+       "slug": "reshu-nath"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sandeep Chowta",
+       "slug": "sandeep-chowta"
+      },
+      {
+       "name": "Vishal Mishra",
+       "slug": "vishal-mishra"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Pratham Mehta",
+       "slug": "pratham-mehta"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ninad Khanolkar",
+       "slug": "ninad-khanolkar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vishal Gurnani",
+       "slug": "vishal-gurnani"
+      },
+      {
+       "name": "Juhi Parekh Mehta",
+       "slug": "juhi-parekh-mehta"
+      },
+      {
+       "name": "Harman Baweja",
+       "slug": "harman-baweja"
+      },
+      {
+       "name": "Vineet Jain",
+       "slug": "vineet-jain"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Junglee Pictures",
+     "slug": "junglee-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/21kiiZYx0WVFMurYygjGacE3eBz.png"
+    },
+    {
+     "name": "Insomnia Films",
+     "slug": "insomnia-films",
+     "logo": null
+    },
+    {
+     "name": "Baweja Studios",
+     "slug": "baweja-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/fJJZLnOmXWdsi1vflvEi2kC5iBc.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-01-02",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-11-07": [
+     {
+      "id": 877,
+      "title": "Predator: Badlands",
+      "img": "https://image.tmdb.org/t/p/original/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg"
+     },
+     {
+      "id": 880,
+      "title": "Innocent",
+      "img": "https://image.tmdb.org/t/p/original/A1z6Uhk63p6kh43mkuTfECIkcRQ.jpg"
+     },
+     {
+      "id": 899,
+      "title": "Ithiri Neram",
+      "img": "https://image.tmdb.org/t/p/original/vpyf5DG2SE3kMeR9zexiMglZy2P.jpg"
+     }
+    ],
+    "2025-11-12": [
+     {
+      "id": 878,
+      "title": "Now You See Me: Now You Dont",
+      "img": "https://image.tmdb.org/t/p/original/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg"
+     },
+     {
+      "id": 879,
+      "title": "The Running Man",
+      "img": "https://image.tmdb.org/t/p/original/yhWKTCYa0LK9kS6zcKGYc5Dx9xQ.jpg"
+     }
+    ],
+    "2025-11-13": [
+     {
+      "id": 915,
+      "title": "De De Pyaar De 2",
+      "img": "https://image.tmdb.org/t/p/original/g3J7r2t3L9HEgyWMX0Fki04Swtu.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 258650,
+     "sold": 1069,
+     "unsold": 4778,
+     "shows": 45,
+     "occ": 18.28,
+     "hf": "1",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 258650,
+     "lastUpdatedAt": "2025-11-13 22:58:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 73140,
+     "sold": 234,
+     "unsold": 1381,
+     "shows": 16,
+     "occ": 14.49,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 331790,
+     "lastUpdatedAt": "2025-11-13 15:58:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 59048,
+     "sold": 293,
+     "unsold": 3517,
+     "shows": 23,
+     "occ": 7.69,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 390838,
+     "lastUpdatedAt": "2025-11-13 21:28:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 19850,
+     "sold": 95,
+     "unsold": 759,
+     "shows": 7,
+     "occ": 11.12,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 410688,
+     "lastUpdatedAt": "2025-11-13 19:58:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 410688,
+    "totalShows": 91,
+    "totalSeats": 12126,
+    "totalSold": 1691,
+    "avgOcc": "13.9",
+    "totalDays": 4,
+    "totalHousefull": 1,
+    "totalAlmost": 2,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 258650,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 258650,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "4:19850:410688"
+  }
+ }
+}

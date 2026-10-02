@@ -1,0 +1,48 @@
+{
+ "slug": "spadikam-george",
+ "name": "Spadikam George",
+ "source_url": "https://fridaymatinee.in/people/spadikam-george",
+ "captured_at": "2026-10-02T10:51:47.225289+00:00",
+ "person": {
+  "name": "Spadikam George",
+  "photo": "https://image.tmdb.org/t/p/w185/wbvGPkIAPoqQXHATtYEGIVq0kZZ.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 233,
+   "movie_slug": "kumari",
+   "title": "Kumari",
+   "year": 2022,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 293,
+   "movie_slug": "spadikam",
+   "title": "Spadikam",
+   "year": 2023,
+   "kerala_gross": "₹2.0 Cr"
+  },
+  {
+   "movie_id": 514,
+   "movie_slug": "pavi-caretaker",
+   "title": "Pavi Caretaker",
+   "year": 2024,
+   "kerala_gross": "₹6.3 Cr"
+  },
+  {
+   "movie_id": 1002,
+   "movie_slug": "sukhamano-sukhamanu",
+   "title": "Sukhamano Sukhamanu",
+   "year": 2026,
+   "kerala_gross": "₹70.9L"
+  }
+ ]
+}

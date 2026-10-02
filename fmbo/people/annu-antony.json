@@ -1,0 +1,41 @@
+{
+ "slug": "annu-antony",
+ "name": "Annu Antony",
+ "source_url": "https://fridaymatinee.in/people/annu-antony",
+ "captured_at": "2026-10-01T20:43:16.255843+00:00",
+ "person": {
+  "name": "Annu Antony",
+  "photo": "https://image.tmdb.org/t/p/w185/rGO3Zz2RlnGsoYPlf0ThYDS75SV.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 103,
+   "movie_slug": "hridayam",
+   "title": "Hridayam",
+   "year": 2022,
+   "kerala_gross": "₹18.9 Cr"
+  },
+  {
+   "movie_id": 335,
+   "movie_slug": "pookkaalam",
+   "title": "Pookkaalam",
+   "year": 2023,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 865,
+   "movie_slug": "private",
+   "title": "Private",
+   "year": 2025,
+   "kerala_gross": "₹9.8L"
+  }
+ ]
+}

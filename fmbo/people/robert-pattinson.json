@@ -1,0 +1,81 @@
+{
+ "slug": "robert-pattinson",
+ "name": "Robert Pattinson",
+ "source_url": "https://fridaymatinee.in/people/robert-pattinson",
+ "captured_at": "2026-10-02T09:45:56.556498+00:00",
+ "person": {
+  "name": "Robert Pattinson",
+  "photo": "https://image.tmdb.org/t/p/w185/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 8
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 569,
+   "movie_slug": "mickey-17",
+   "title": "Mickey 17",
+   "year": 2025,
+   "kerala_gross": "₹27.6L"
+  },
+  {
+   "movie_id": 1051,
+   "movie_slug": "the-drama",
+   "title": "The Drama",
+   "year": 2026,
+   "kerala_gross": "₹7.2L"
+  },
+  {
+   "movie_id": 1224,
+   "movie_slug": "primetime",
+   "title": "Primetime",
+   "year": 2026,
+   "kerala_gross": "₹2.7L"
+  },
+  {
+   "movie_id": 629,
+   "movie_slug": "the-batman-part-ii",
+   "title": "The Batman - Part II",
+   "year": 2027,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 112,
+   "movie_slug": "batman",
+   "title": "Batman",
+   "year": 2022,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 630,
+   "movie_slug": "die-my-love",
+   "title": "Die, My Love",
+   "year": 2024,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 777,
+   "movie_slug": "the-odyssey",
+   "title": "The Odyssey",
+   "year": 2026,
+   "kerala_gross": "₹12.6 Cr"
+  },
+  {
+   "movie_id": 778,
+   "movie_slug": "dune-part-three",
+   "title": "Dune: Part Three",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

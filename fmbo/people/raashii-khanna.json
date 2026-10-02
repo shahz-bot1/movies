@@ -1,0 +1,48 @@
+{
+ "slug": "raashii-khanna",
+ "name": "Raashii Khanna",
+ "source_url": "https://fridaymatinee.in/people/raashii-khanna",
+ "captured_at": "2026-10-02T06:36:22.295723+00:00",
+ "person": {
+  "name": "Raashii Khanna",
+  "photo": "https://image.tmdb.org/t/p/w185/8nx3hzFdge51Cb5BcocIe4ShumU.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 31,
+   "movie_slug": "sangathamizhan",
+   "title": "Sangathamizhan",
+   "year": 2019,
+   "kerala_gross": "₹4.6L"
+  },
+  {
+   "movie_id": 182,
+   "movie_slug": "thiruchitrambalam",
+   "title": "Thiruchitrambalam",
+   "year": 2022,
+   "kerala_gross": "₹47.5L"
+  },
+  {
+   "movie_id": 228,
+   "movie_slug": "sardar",
+   "title": "Sardar",
+   "year": 2022,
+   "kerala_gross": "₹94.9L"
+  },
+  {
+   "movie_id": 927,
+   "movie_slug": "120-bahadur",
+   "title": "120 Bahadur",
+   "year": 2025,
+   "kerala_gross": "₹9.3L"
+  }
+ ]
+}

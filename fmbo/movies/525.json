@@ -1,0 +1,700 @@
+{
+ "id": 525,
+ "slug": "ullozhukku",
+ "source_url": "https://fridaymatinee.in/boxoffice/ullozhukku-525",
+ "captured_at": "2026-10-01T18:14:37.449228+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 525,
+    "title": "Ullozhukku",
+    "img": "https://image.tmdb.org/t/p/original/iSUVD5mUH26WHAFy0tup7yyVRcq.jpg",
+    "released": "2024-06-21",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32537777",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Drama",
+    "plot": "The film is set in a flooded region in Kerala where a woman and her daughter-in-law attempt to bury a loved one. However, due to heavy floods, the burial is postponed. This delay brings long-buried secrets and lies to the surface, threatening the family's unity.",
+    "released": "2024-06-21",
+    "director": "Christo Tomy",
+    "directorSlug": "christo-tomy",
+    "actors": [
+     "Urvashi",
+     "Parvathy Thiruvothu",
+     "Arjun Radhakrishnan",
+     "Shebin Benson",
+     "Alencier Ley Lopez",
+     "Jaya Kurup"
+    ],
+    "awards": "7 wins u0026 8 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.6",
+      "votes": 2329,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": "100%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Urvashi",
+     "character": "Leelamma",
+     "slug": "urvashi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s5q8iDWeZ8lVBtr87kBXS0S326H.jpg"
+    },
+    {
+     "name": "Parvathy Thiruvothu",
+     "character": "Anju",
+     "slug": "parvathy-thiruvothu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eh1ObSspGzkA6GbrtRKPCvyFehl.jpg"
+    },
+    {
+     "name": "Arjun Radhakrishnan",
+     "character": "Rajeev",
+     "slug": "arjun-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xcxu1R28Hl7bzLQagFdeUsTiHjg.jpg"
+    },
+    {
+     "name": "Shebin Benson",
+     "character": "Juman",
+     "slug": "shebin-benson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kzFUyUC8tmW5oKJvKNTA9brNhCW.jpg"
+    },
+    {
+     "name": "Alencier Ley Lopez",
+     "character": "George",
+     "slug": "alencier-ley-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWammRTzSJiyK9TROHWkoM9AqzS.jpg"
+    },
+    {
+     "name": "Jaya Kurup",
+     "character": "Jiji",
+     "slug": "jaya-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xLfDVFVXZANPixBPVVGM5Eo4q8B.jpg"
+    },
+    {
+     "name": "Prasant Murali",
+     "character": "Thomaskutty",
+     "slug": "prasant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5RKRsWeZhVpe5KHahb5OI6oYXAg.jpg"
+    },
+    {
+     "name": "Smruthi Anish",
+     "character": "Sheba",
+     "slug": "smruthi-anish",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Christo Tomy",
+       "slug": "christo-tomy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Christo Tomy",
+       "slug": "christo-tomy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sushin Shyam",
+       "slug": "sushin-shyam"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shehnad Jalal",
+       "slug": "shehnad-jalal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kiran Das",
+       "slug": "kiran-das"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ronnie Screwvala",
+       "slug": "ronnie-screwvala"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "RSVP Movies",
+     "slug": "rsvp-movies",
+     "logo": "https://image.tmdb.org/t/p/w185/ni6szJ3gzDOAmZwlHXKaFyvsxEQ.png"
+    },
+    {
+     "name": "MacGuffin Pictures",
+     "slug": "macguffin-pictures",
+     "logo": null
+    },
+    {
+     "name": "Reverie Entertainment",
+     "slug": "reverie-entertainment",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 35040845,
+    "totalShows": 5703,
+    "totalDays": 42,
+    "openingDay": {
+     "day": 1,
+     "gross": 2594594.6,
+     "date": "2024-06-21"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 4765118.6,
+     "date": "2024-06-23"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 95,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-06-21"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 525,
+    "title": "Ullozhukku",
+    "img": "https://image.tmdb.org/t/p/original/iSUVD5mUH26WHAFy0tup7yyVRcq.jpg",
+    "released": "2024-06-21",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32537777",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Drama",
+    "plot": "The film is set in a flooded region in Kerala where a woman and her daughter-in-law attempt to bury a loved one. However, due to heavy floods, the burial is postponed. This delay brings long-buried secrets and lies to the surface, threatening the family's unity.",
+    "released": "2024-06-21",
+    "director": "Christo Tomy",
+    "directorSlug": "christo-tomy",
+    "actors": [
+     "Urvashi",
+     "Parvathy Thiruvothu",
+     "Arjun Radhakrishnan",
+     "Shebin Benson",
+     "Alencier Ley Lopez",
+     "Jaya Kurup"
+    ],
+    "awards": "7 wins u0026 8 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.6",
+      "votes": 2329,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": "100%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Urvashi",
+     "character": "Leelamma",
+     "slug": "urvashi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s5q8iDWeZ8lVBtr87kBXS0S326H.jpg"
+    },
+    {
+     "name": "Parvathy Thiruvothu",
+     "character": "Anju",
+     "slug": "parvathy-thiruvothu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eh1ObSspGzkA6GbrtRKPCvyFehl.jpg"
+    },
+    {
+     "name": "Arjun Radhakrishnan",
+     "character": "Rajeev",
+     "slug": "arjun-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xcxu1R28Hl7bzLQagFdeUsTiHjg.jpg"
+    },
+    {
+     "name": "Shebin Benson",
+     "character": "Juman",
+     "slug": "shebin-benson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kzFUyUC8tmW5oKJvKNTA9brNhCW.jpg"
+    },
+    {
+     "name": "Alencier Ley Lopez",
+     "character": "George",
+     "slug": "alencier-ley-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWammRTzSJiyK9TROHWkoM9AqzS.jpg"
+    },
+    {
+     "name": "Jaya Kurup",
+     "character": "Jiji",
+     "slug": "jaya-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xLfDVFVXZANPixBPVVGM5Eo4q8B.jpg"
+    },
+    {
+     "name": "Prasant Murali",
+     "character": "Thomaskutty",
+     "slug": "prasant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5RKRsWeZhVpe5KHahb5OI6oYXAg.jpg"
+    },
+    {
+     "name": "Smruthi Anish",
+     "character": "Sheba",
+     "slug": "smruthi-anish",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Christo Tomy",
+       "slug": "christo-tomy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Christo Tomy",
+       "slug": "christo-tomy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sushin Shyam",
+       "slug": "sushin-shyam"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shehnad Jalal",
+       "slug": "shehnad-jalal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kiran Das",
+       "slug": "kiran-das"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ronnie Screwvala",
+       "slug": "ronnie-screwvala"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "RSVP Movies",
+     "slug": "rsvp-movies",
+     "logo": "https://image.tmdb.org/t/p/w185/ni6szJ3gzDOAmZwlHXKaFyvsxEQ.png"
+    },
+    {
+     "name": "MacGuffin Pictures",
+     "slug": "macguffin-pictures",
+     "logo": null
+    },
+    {
+     "name": "Reverie Entertainment",
+     "slug": "reverie-entertainment",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-06-21",
+     "gross": 17748833.6,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2029,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-06-28",
+     "gross": 9688164.4,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1851,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-07-05",
+     "gross": 5016564,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1294,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-07-12",
+     "gross": 1749961,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 365,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-07-19",
+     "gross": 645949,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 131,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-07-26",
+     "gross": 191373,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 33,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 35040845,
+    "totalShows": 5703,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 17748833.6
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 17748833.6
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 95,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-06-21"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 525,
+    "title": "Ullozhukku",
+    "img": "https://image.tmdb.org/t/p/original/iSUVD5mUH26WHAFy0tup7yyVRcq.jpg",
+    "released": "2024-06-21",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt32537777",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Drama",
+    "plot": "The film is set in a flooded region in Kerala where a woman and her daughter-in-law attempt to bury a loved one. However, due to heavy floods, the burial is postponed. This delay brings long-buried secrets and lies to the surface, threatening the family's unity.",
+    "released": "2024-06-21",
+    "director": "Christo Tomy",
+    "directorSlug": "christo-tomy",
+    "actors": [
+     "Urvashi",
+     "Parvathy Thiruvothu",
+     "Arjun Radhakrishnan",
+     "Shebin Benson",
+     "Alencier Ley Lopez",
+     "Jaya Kurup"
+    ],
+    "awards": "7 wins u0026 8 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.6",
+      "votes": 2329,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": "100%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Urvashi",
+     "character": "Leelamma",
+     "slug": "urvashi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s5q8iDWeZ8lVBtr87kBXS0S326H.jpg"
+    },
+    {
+     "name": "Parvathy Thiruvothu",
+     "character": "Anju",
+     "slug": "parvathy-thiruvothu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eh1ObSspGzkA6GbrtRKPCvyFehl.jpg"
+    },
+    {
+     "name": "Arjun Radhakrishnan",
+     "character": "Rajeev",
+     "slug": "arjun-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xcxu1R28Hl7bzLQagFdeUsTiHjg.jpg"
+    },
+    {
+     "name": "Shebin Benson",
+     "character": "Juman",
+     "slug": "shebin-benson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kzFUyUC8tmW5oKJvKNTA9brNhCW.jpg"
+    },
+    {
+     "name": "Alencier Ley Lopez",
+     "character": "George",
+     "slug": "alencier-ley-lopez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gWammRTzSJiyK9TROHWkoM9AqzS.jpg"
+    },
+    {
+     "name": "Jaya Kurup",
+     "character": "Jiji",
+     "slug": "jaya-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xLfDVFVXZANPixBPVVGM5Eo4q8B.jpg"
+    },
+    {
+     "name": "Prasant Murali",
+     "character": "Thomaskutty",
+     "slug": "prasant-murali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5RKRsWeZhVpe5KHahb5OI6oYXAg.jpg"
+    },
+    {
+     "name": "Smruthi Anish",
+     "character": "Sheba",
+     "slug": "smruthi-anish",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Christo Tomy",
+       "slug": "christo-tomy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Christo Tomy",
+       "slug": "christo-tomy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sushin Shyam",
+       "slug": "sushin-shyam"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shehnad Jalal",
+       "slug": "shehnad-jalal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Kiran Das",
+       "slug": "kiran-das"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ronnie Screwvala",
+       "slug": "ronnie-screwvala"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "RSVP Movies",
+     "slug": "rsvp-movies",
+     "logo": "https://image.tmdb.org/t/p/w185/ni6szJ3gzDOAmZwlHXKaFyvsxEQ.png"
+    },
+    {
+     "name": "MacGuffin Pictures",
+     "slug": "macguffin-pictures",
+     "logo": null
+    },
+    {
+     "name": "Reverie Entertainment",
+     "slug": "reverie-entertainment",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 35040845,
+    "totalShows": 5703,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 11025952,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 11025952,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 95,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-06-21"
+   }
+  }
+ }
+}

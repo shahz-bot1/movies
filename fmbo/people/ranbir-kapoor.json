@@ -1,0 +1,46 @@
+{
+ "slug": "ranbir-kapoor",
+ "name": "Ranbir Kapoor",
+ "source_url": "https://fridaymatinee.in/people/ranbir-kapoor",
+ "captured_at": "2026-10-02T08:40:12.028410+00:00",
+ "person": {
+  "name": "Ranbir Kapoor",
+  "photo": "https://image.tmdb.org/t/p/w185/a5xWgKh7f4XofIl7ZwisxOi616K.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 199,
+   "movie_slug": "brahmastra-part-one-shiva",
+   "title": "Brahmastra Part One Shiva",
+   "year": 2022,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 468,
+   "movie_slug": "animal",
+   "title": "Animal",
+   "year": 2023,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 749,
+   "movie_slug": "yeh-jawaani-hai-deewani",
+   "title": "Yeh Jawaani Hai Deewani",
+   "year": 2025,
+   "kerala_gross": "₹70.2L"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "slug": "stephen-lang",
+ "name": "Stephen Lang",
+ "source_url": "https://fridaymatinee.in/people/stephen-lang",
+ "captured_at": "2026-10-02T10:58:09.954830+00:00",
+ "person": {
+  "name": "Stephen Lang",
+  "photo": "https://image.tmdb.org/t/p/w185/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 246,
+   "movie_slug": "avatar-the-way-of-water",
+   "title": "Avatar The Way of Water",
+   "year": 2022,
+   "kerala_gross": "₹33.3 Cr"
+  },
+  {
+   "movie_id": 919,
+   "movie_slug": "sisu-road-to-revenge",
+   "title": "Sisu: Road to Revenge",
+   "year": 2025,
+   "kerala_gross": "₹43.6L"
+  },
+  {
+   "movie_id": 793,
+   "movie_slug": "avatar-fire-and-ash",
+   "title": "Avatar: Fire and Ash",
+   "year": 2025,
+   "kerala_gross": "₹10.2 Cr"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "slug": "bibin-george",
+ "name": "Bibin George",
+ "source_url": "https://fridaymatinee.in/people/bibin-george",
+ "captured_at": "2026-10-01T21:16:50.887477+00:00",
+ "person": {
+  "name": "Bibin George",
+  "photo": "https://image.tmdb.org/t/p/w185/3vp5ajPUkIUN95ntqcCSfvwoHcb.jpg",
+  "role": "Actor, director and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 7
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 289,
+   "movie_slug": "vedikkettu",
+   "title": "Vedikkettu",
+   "year": 2023,
+   "kerala_gross": "₹65.5L"
+  },
+  {
+   "movie_id": 579,
+   "movie_slug": "gumasthan",
+   "title": "Gumasthan",
+   "year": 2024,
+   "kerala_gross": "₹54.3L"
+  },
+  {
+   "movie_id": 1001,
+   "movie_slug": "sukran",
+   "title": "Sukran",
+   "year": 2026,
+   "kerala_gross": "₹23.3L"
+  },
+  {
+   "movie_id": 56,
+   "movie_slug": "shylock",
+   "title": "Shylock",
+   "year": 2020,
+   "kerala_gross": "₹7.1 Cr"
+  },
+  {
+   "movie_id": 566,
+   "movie_slug": "bad-boyz",
+   "title": "Bad Boyz",
+   "year": 2024,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 703,
+   "movie_slug": "written-directed-by-god",
+   "title": "Written u0026 Directed by God",
+   "year": 2025,
+   "kerala_gross": "₹33.5L"
+  },
+  {
+   "movie_id": 933,
+   "movie_slug": "pongala",
+   "title": "Pongala",
+   "year": 2025,
+   "kerala_gross": "₹52.2L"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "slug": "thalaivasal-vijay",
+ "name": "Thalaivasal Vijay",
+ "source_url": "https://fridaymatinee.in/people/thalaivasal-vijay",
+ "captured_at": "2026-10-02T11:18:46.671260+00:00",
+ "person": {
+  "name": "Thalaivasal Vijay",
+  "photo": "https://image.tmdb.org/t/p/w185/2mlbBSwHF2nzlPpVnjXpTKLaoxQ.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 433,
+   "movie_slug": "garudan",
+   "title": "Garudan",
+   "year": 2023,
+   "kerala_gross": "₹12.3 Cr"
+  },
+  {
+   "movie_id": 545,
+   "movie_slug": "secret",
+   "title": "Secret",
+   "year": 2024,
+   "kerala_gross": "₹15.6L"
+  },
+  {
+   "movie_id": 717,
+   "movie_slug": "3bhk",
+   "title": "3BHK",
+   "year": 2025,
+   "kerala_gross": "₹25.2L"
+  },
+  {
+   "movie_id": 807,
+   "movie_slug": "madharaasi",
+   "title": "Madharaasi",
+   "year": 2025,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 1072,
+   "movie_slug": "tn-2026",
+   "title": "TN 2026",
+   "year": 2026,
+   "kerala_gross": "₹25K"
+  },
+  {
+   "movie_id": 1216,
+   "movie_slug": "dc",
+   "title": "DC",
+   "year": 2026,
+   "kerala_gross": "₹18.1 Cr"
+  }
+ ]
+}

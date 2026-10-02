@@ -1,0 +1,41 @@
+{
+ "slug": "jeyamohan",
+ "name": "Jeyamohan",
+ "source_url": "https://fridaymatinee.in/people/jeyamohan",
+ "captured_at": "2026-10-01T23:13:31.496105+00:00",
+ "person": {
+  "name": "Jeyamohan",
+  "photo": "https://image.tmdb.org/t/p/w185/2VJugMoTXB5gjtEB81Ew5HbPoSg.jpg",
+  "role": "Writer"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 204,
+   "movie_slug": "vendhu-thanindhathu-kaadu",
+   "title": "Vendhu Thanindhathu Kaadu",
+   "year": 2022,
+   "kerala_gross": "₹40.9L"
+  },
+  {
+   "movie_id": 208,
+   "movie_slug": "ponniyin-selvan",
+   "title": "Ponniyin Selvan",
+   "year": 2022,
+   "kerala_gross": "₹17.0 Cr"
+  },
+  {
+   "movie_id": 359,
+   "movie_slug": "ponniyin-selvan-part-2",
+   "title": "Ponniyin Selvan - Part 2",
+   "year": 2023,
+   "kerala_gross": "₹13.2 Cr"
+  }
+ ]
+}

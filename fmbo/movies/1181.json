@@ -1,0 +1,1081 @@
+{
+ "id": 1181,
+ "slug": "welcome-to-the-jungle",
+ "source_url": "https://fridaymatinee.in/boxoffice/welcome-to-the-jungle-1181",
+ "captured_at": "2026-10-01T19:50:26.970738+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1181,
+    "title": "Welcome to the Jungle",
+    "img": "https://image.tmdb.org/t/p/original/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+    "released": "2026-06-26",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28540171",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "170 min",
+    "genre": "Action, Comedy, Adventure, Crime",
+    "plot": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
+    "released": "2026-06-25",
+    "director": "Ahmed Khan",
+    "directorSlug": "ahmed-khan",
+    "actors": [
+     "Akshay Kumar",
+     "Suniel Shetty",
+     "Arshad Warsi",
+     "Jacqueline Fernandez",
+     "Disha Patani",
+     "Raveena Tandon"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.9",
+      "votes": 23614,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": "47%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Akshay Kumar",
+     "character": "Rajeev Kohli",
+     "slug": "akshay-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sR8nASRtTpiwXqkFHjG2jdRBZ7a.jpg"
+    },
+    {
+     "name": "Suniel Shetty",
+     "character": "Yeda Anna",
+     "slug": "suniel-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7N2gTXit5GMfgUhkZ3QsjTnoMH6.jpg"
+    },
+    {
+     "name": "Arshad Warsi",
+     "character": "Romeo",
+     "slug": "arshad-warsi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1Hv35hhpfwNXNm0DqJxpfNJt1q.jpg"
+    },
+    {
+     "name": "Jacqueline Fernandez",
+     "character": "Jenny",
+     "slug": "jacqueline-fernandez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d9uHQdFXMGBwPEhbovipqbnkqqX.jpg"
+    },
+    {
+     "name": "Disha Patani",
+     "character": "Nadia",
+     "slug": "disha-patani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jeFgIW3d3BP6MkfnMlmEGP33Oyq.jpg"
+    },
+    {
+     "name": "Raveena Tandon",
+     "character": "Zoya",
+     "slug": "raveena-tandon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4z0X9ZMgyNZRHfJG4G2Z10rhLpu.jpg"
+    },
+    {
+     "name": "Jackie Shroff",
+     "character": "Zatara",
+     "slug": "jackie-shroff",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sVqe6VioM37LQwgQLd8wnC5vapK.jpg"
+    },
+    {
+     "name": "Paresh Rawal",
+     "character": "Das",
+     "slug": "paresh-rawal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xFVHMvDC8s4Ab2sLXrdVxMxZ33b.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ahmed Khan",
+       "slug": "ahmed-khan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Farhad Samji",
+       "slug": "farhad-samji"
+      },
+      {
+       "name": "Neeraj Vora",
+       "slug": "neeraj-vora"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vikram Montrose",
+       "slug": "vikram-montrose"
+      },
+      {
+       "name": "Anand Raj Anand",
+       "slug": "anand-raj-anand"
+      },
+      {
+       "name": "Sajid Ali Khan",
+       "slug": "sajid-ali-khan"
+      },
+      {
+       "name": "Wajid Khan",
+       "slug": "wajid-khan"
+      },
+      {
+       "name": "Hanif Shaikh",
+       "slug": "hanif-shaikh"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Kabir Lal",
+       "slug": "kabir-lal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nitin FCP",
+       "slug": "nitin-fcp"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Firoz A. Nadiadwala",
+       "slug": "firoz-a-nadiadwala"
+      },
+      {
+       "name": "Rakesh Dang",
+       "slug": "rakesh-dang"
+      },
+      {
+       "name": "Vedant Vikaas Baali",
+       "slug": "vedant-vikaas-baali"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Base Industries Group",
+     "slug": "base-industries-group",
+     "logo": null
+    },
+    {
+     "name": "Cape of Good Films",
+     "slug": "cape-of-good-films",
+     "logo": "https://image.tmdb.org/t/p/w185/r7pvX3K2k3iNVBVt4xufCIEIcnP.png"
+    },
+    {
+     "name": "Nadiadwala Grandson Entertainment",
+     "slug": "nadiadwala-grandson-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/chMIfiURhqvr6eWCrzxIwuaWVeN.png"
+    },
+    {
+     "name": "Seeta Films",
+     "slug": "seeta-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-08-21",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-07-09": [
+     {
+      "id": 1093,
+      "title": "I, Nobody",
+      "img": "https://image.tmdb.org/t/p/original/lVZx2XvCJi9Ujm3zmjMbNGMPVlW.jpg"
+     },
+     {
+      "id": 1182,
+      "title": "Evil Dead Burn",
+      "img": "https://image.tmdb.org/t/p/original/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
+     }
+    ],
+    "2026-07-02": [
+     {
+      "id": 1177,
+      "title": "Minions u0026 Monsters",
+      "img": "https://image.tmdb.org/t/p/original/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+     }
+    ],
+    "2026-07-03": [
+     {
+      "id": 1192,
+      "title": "Gatta Kusthi 2",
+      "img": "https://image.tmdb.org/t/p/original/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-06-27",
+     "gross": 297008,
+     "sold": 1228,
+     "unsold": 5353,
+     "shows": 40,
+     "occ": 18.66,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 297008,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-06-28",
+     "gross": 507568,
+     "sold": 2214,
+     "unsold": 7787,
+     "shows": 62,
+     "occ": 22.14,
+     "hf": "1",
+     "almost": "1",
+     "ff": "1",
+     "cumul": 804576,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-06-29",
+     "gross": 112782,
+     "sold": 516,
+     "unsold": 5455,
+     "shows": 39,
+     "occ": 8.64,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 917358,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-06-30",
+     "gross": 99784,
+     "sold": 583,
+     "unsold": 4835,
+     "shows": 30,
+     "occ": 10.76,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1017142,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-01",
+     "gross": 66382,
+     "sold": 306,
+     "unsold": 4333,
+     "shows": 25,
+     "occ": 6.6,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1083524,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-02",
+     "gross": 42118,
+     "sold": 197,
+     "unsold": 4130,
+     "shows": 23,
+     "occ": 4.55,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1125642,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-03",
+     "gross": 16340,
+     "sold": 45,
+     "unsold": 419,
+     "shows": 4,
+     "occ": 9.7,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1141982,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-04",
+     "gross": 25128,
+     "sold": 82,
+     "unsold": 365,
+     "shows": 4,
+     "occ": 18.34,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1167110,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-05",
+     "gross": 59755,
+     "sold": 197,
+     "unsold": 323,
+     "shows": 5,
+     "occ": 37.88,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1226865,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-06",
+     "gross": 24850,
+     "sold": 60,
+     "unsold": 504,
+     "shows": 5,
+     "occ": 10.64,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1251715,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-07",
+     "gross": 23328,
+     "sold": 98,
+     "unsold": 539,
+     "shows": 6,
+     "occ": 15.38,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1275043,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-08",
+     "gross": 15570,
+     "sold": 46,
+     "unsold": 399,
+     "shows": 5,
+     "occ": 10.34,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1290613,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-09",
+     "gross": 3100,
+     "sold": 9,
+     "unsold": 288,
+     "shows": 3,
+     "occ": 3.03,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1293713,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 1293713,
+    "totalShows": 251,
+    "totalSeats": 40311,
+    "totalSold": 5581,
+    "avgOcc": "13.8",
+    "totalDays": 13,
+    "totalHousefull": 1,
+    "totalAlmost": 1,
+    "totalFastFilling": 1,
+    "peakDay": {
+     "day": 2,
+     "gross": 507568,
+     "date": "2026-06-28"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 297008,
+     "date": "2026-06-27"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "13:3100:1293713"
+  },
+  "week": {
+   "movie": {
+    "id": 1181,
+    "title": "Welcome to the Jungle",
+    "img": "https://image.tmdb.org/t/p/original/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+    "released": "2026-06-26",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28540171",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "170 min",
+    "genre": "Action, Comedy, Adventure, Crime",
+    "plot": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
+    "released": "2026-06-25",
+    "director": "Ahmed Khan",
+    "directorSlug": "ahmed-khan",
+    "actors": [
+     "Akshay Kumar",
+     "Suniel Shetty",
+     "Arshad Warsi",
+     "Jacqueline Fernandez",
+     "Disha Patani",
+     "Raveena Tandon"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.9",
+      "votes": 23614,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": "47%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Akshay Kumar",
+     "character": "Rajeev Kohli",
+     "slug": "akshay-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sR8nASRtTpiwXqkFHjG2jdRBZ7a.jpg"
+    },
+    {
+     "name": "Suniel Shetty",
+     "character": "Yeda Anna",
+     "slug": "suniel-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7N2gTXit5GMfgUhkZ3QsjTnoMH6.jpg"
+    },
+    {
+     "name": "Arshad Warsi",
+     "character": "Romeo",
+     "slug": "arshad-warsi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1Hv35hhpfwNXNm0DqJxpfNJt1q.jpg"
+    },
+    {
+     "name": "Jacqueline Fernandez",
+     "character": "Jenny",
+     "slug": "jacqueline-fernandez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d9uHQdFXMGBwPEhbovipqbnkqqX.jpg"
+    },
+    {
+     "name": "Disha Patani",
+     "character": "Nadia",
+     "slug": "disha-patani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jeFgIW3d3BP6MkfnMlmEGP33Oyq.jpg"
+    },
+    {
+     "name": "Raveena Tandon",
+     "character": "Zoya",
+     "slug": "raveena-tandon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4z0X9ZMgyNZRHfJG4G2Z10rhLpu.jpg"
+    },
+    {
+     "name": "Jackie Shroff",
+     "character": "Zatara",
+     "slug": "jackie-shroff",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sVqe6VioM37LQwgQLd8wnC5vapK.jpg"
+    },
+    {
+     "name": "Paresh Rawal",
+     "character": "Das",
+     "slug": "paresh-rawal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xFVHMvDC8s4Ab2sLXrdVxMxZ33b.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ahmed Khan",
+       "slug": "ahmed-khan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Farhad Samji",
+       "slug": "farhad-samji"
+      },
+      {
+       "name": "Neeraj Vora",
+       "slug": "neeraj-vora"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vikram Montrose",
+       "slug": "vikram-montrose"
+      },
+      {
+       "name": "Anand Raj Anand",
+       "slug": "anand-raj-anand"
+      },
+      {
+       "name": "Sajid Ali Khan",
+       "slug": "sajid-ali-khan"
+      },
+      {
+       "name": "Wajid Khan",
+       "slug": "wajid-khan"
+      },
+      {
+       "name": "Hanif Shaikh",
+       "slug": "hanif-shaikh"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Kabir Lal",
+       "slug": "kabir-lal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nitin FCP",
+       "slug": "nitin-fcp"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Firoz A. Nadiadwala",
+       "slug": "firoz-a-nadiadwala"
+      },
+      {
+       "name": "Rakesh Dang",
+       "slug": "rakesh-dang"
+      },
+      {
+       "name": "Vedant Vikaas Baali",
+       "slug": "vedant-vikaas-baali"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Base Industries Group",
+     "slug": "base-industries-group",
+     "logo": null
+    },
+    {
+     "name": "Cape of Good Films",
+     "slug": "cape-of-good-films",
+     "logo": "https://image.tmdb.org/t/p/w185/r7pvX3K2k3iNVBVt4xufCIEIcnP.png"
+    },
+    {
+     "name": "Nadiadwala Grandson Entertainment",
+     "slug": "nadiadwala-grandson-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/chMIfiURhqvr6eWCrzxIwuaWVeN.png"
+    },
+    {
+     "name": "Seeta Films",
+     "slug": "seeta-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-08-21",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-07-09": [
+     {
+      "id": 1093,
+      "title": "I, Nobody",
+      "img": "https://image.tmdb.org/t/p/original/lVZx2XvCJi9Ujm3zmjMbNGMPVlW.jpg"
+     },
+     {
+      "id": 1182,
+      "title": "Evil Dead Burn",
+      "img": "https://image.tmdb.org/t/p/original/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
+     }
+    ],
+    "2026-07-02": [
+     {
+      "id": 1177,
+      "title": "Minions u0026 Monsters",
+      "img": "https://image.tmdb.org/t/p/original/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+     }
+    ],
+    "2026-07-03": [
+     {
+      "id": 1192,
+      "title": "Gatta Kusthi 2",
+      "img": "https://image.tmdb.org/t/p/original/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-06-27",
+     "gross": 1141982,
+     "sold": 5089,
+     "unsold": 32312,
+     "shows": 223,
+     "occ": 13.61,
+     "hf": "1",
+     "almost": "1",
+     "ff": "1",
+     "cumul": 1141982,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-04",
+     "gross": 151731,
+     "sold": 492,
+     "unsold": 2418,
+     "shows": 28,
+     "occ": 16.91,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1293713,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 1293713,
+    "totalShows": 251,
+    "totalSeats": 40311,
+    "totalSold": 5581,
+    "avgOcc": "13.8",
+    "totalDays": 2,
+    "totalHousefull": 1,
+    "totalAlmost": 1,
+    "totalFastFilling": 1,
+    "peakDay": {
+     "day": 1,
+     "gross": 1141982
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 1141982
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "2:151731:1293713"
+  },
+  "district": {
+   "movie": {
+    "id": 1181,
+    "title": "Welcome to the Jungle",
+    "img": "https://image.tmdb.org/t/p/original/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+    "released": "2026-06-26",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28540171",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "170 min",
+    "genre": "Action, Comedy, Adventure, Crime",
+    "plot": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
+    "released": "2026-06-25",
+    "director": "Ahmed Khan",
+    "directorSlug": "ahmed-khan",
+    "actors": [
+     "Akshay Kumar",
+     "Suniel Shetty",
+     "Arshad Warsi",
+     "Jacqueline Fernandez",
+     "Disha Patani",
+     "Raveena Tandon"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "3.9",
+      "votes": 23614,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": "47%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Akshay Kumar",
+     "character": "Rajeev Kohli",
+     "slug": "akshay-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sR8nASRtTpiwXqkFHjG2jdRBZ7a.jpg"
+    },
+    {
+     "name": "Suniel Shetty",
+     "character": "Yeda Anna",
+     "slug": "suniel-shetty",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7N2gTXit5GMfgUhkZ3QsjTnoMH6.jpg"
+    },
+    {
+     "name": "Arshad Warsi",
+     "character": "Romeo",
+     "slug": "arshad-warsi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1Hv35hhpfwNXNm0DqJxpfNJt1q.jpg"
+    },
+    {
+     "name": "Jacqueline Fernandez",
+     "character": "Jenny",
+     "slug": "jacqueline-fernandez",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/d9uHQdFXMGBwPEhbovipqbnkqqX.jpg"
+    },
+    {
+     "name": "Disha Patani",
+     "character": "Nadia",
+     "slug": "disha-patani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jeFgIW3d3BP6MkfnMlmEGP33Oyq.jpg"
+    },
+    {
+     "name": "Raveena Tandon",
+     "character": "Zoya",
+     "slug": "raveena-tandon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4z0X9ZMgyNZRHfJG4G2Z10rhLpu.jpg"
+    },
+    {
+     "name": "Jackie Shroff",
+     "character": "Zatara",
+     "slug": "jackie-shroff",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sVqe6VioM37LQwgQLd8wnC5vapK.jpg"
+    },
+    {
+     "name": "Paresh Rawal",
+     "character": "Das",
+     "slug": "paresh-rawal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xFVHMvDC8s4Ab2sLXrdVxMxZ33b.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ahmed Khan",
+       "slug": "ahmed-khan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Farhad Samji",
+       "slug": "farhad-samji"
+      },
+      {
+       "name": "Neeraj Vora",
+       "slug": "neeraj-vora"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vikram Montrose",
+       "slug": "vikram-montrose"
+      },
+      {
+       "name": "Anand Raj Anand",
+       "slug": "anand-raj-anand"
+      },
+      {
+       "name": "Sajid Ali Khan",
+       "slug": "sajid-ali-khan"
+      },
+      {
+       "name": "Wajid Khan",
+       "slug": "wajid-khan"
+      },
+      {
+       "name": "Hanif Shaikh",
+       "slug": "hanif-shaikh"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Kabir Lal",
+       "slug": "kabir-lal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nitin FCP",
+       "slug": "nitin-fcp"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Firoz A. Nadiadwala",
+       "slug": "firoz-a-nadiadwala"
+      },
+      {
+       "name": "Rakesh Dang",
+       "slug": "rakesh-dang"
+      },
+      {
+       "name": "Vedant Vikaas Baali",
+       "slug": "vedant-vikaas-baali"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Base Industries Group",
+     "slug": "base-industries-group",
+     "logo": null
+    },
+    {
+     "name": "Cape of Good Films",
+     "slug": "cape-of-good-films",
+     "logo": "https://image.tmdb.org/t/p/w185/r7pvX3K2k3iNVBVt4xufCIEIcnP.png"
+    },
+    {
+     "name": "Nadiadwala Grandson Entertainment",
+     "slug": "nadiadwala-grandson-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/chMIfiURhqvr6eWCrzxIwuaWVeN.png"
+    },
+    {
+     "name": "Seeta Films",
+     "slug": "seeta-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-08-21",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-07-09": [
+     {
+      "id": 1093,
+      "title": "I, Nobody",
+      "img": "https://image.tmdb.org/t/p/original/lVZx2XvCJi9Ujm3zmjMbNGMPVlW.jpg"
+     },
+     {
+      "id": 1182,
+      "title": "Evil Dead Burn",
+      "img": "https://image.tmdb.org/t/p/original/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
+     }
+    ],
+    "2026-07-02": [
+     {
+      "id": 1177,
+      "title": "Minions u0026 Monsters",
+      "img": "https://image.tmdb.org/t/p/original/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+     }
+    ],
+    "2026-07-03": [
+     {
+      "id": 1192,
+      "title": "Gatta Kusthi 2",
+      "img": "https://image.tmdb.org/t/p/original/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 818565,
+     "sold": 3440,
+     "unsold": 18395,
+     "shows": 128,
+     "occ": 15.75,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 818565,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Trivandrum",
+     "gross": 157251,
+     "sold": 749,
+     "unsold": 3916,
+     "shows": 29,
+     "occ": 16.06,
+     "hf": "0",
+     "almost": "0",
+     "ff": "1",
+     "cumul": 975816,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 138476,
+     "sold": 611,
+     "unsold": 3619,
+     "shows": 27,
+     "occ": 14.44,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1114292,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Thrissur",
+     "gross": 103238,
+     "sold": 435,
+     "unsold": 4223,
+     "shows": 27,
+     "occ": 9.34,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1217530,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kannur",
+     "gross": 64743,
+     "sold": 289,
+     "unsold": 3449,
+     "shows": 30,
+     "occ": 7.73,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 1282273,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kollam",
+     "gross": 7550,
+     "sold": 34,
+     "unsold": 451,
+     "shows": 5,
+     "occ": 7.01,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1289823,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Palakkad",
+     "gross": 3890,
+     "sold": 23,
+     "unsold": 677,
+     "shows": 5,
+     "occ": 3.29,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1293713,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 1293713,
+    "totalShows": 251,
+    "totalSeats": 40311,
+    "totalSold": 5581,
+    "avgOcc": "13.8",
+    "totalDays": 7,
+    "totalHousefull": 1,
+    "totalAlmost": 1,
+    "totalFastFilling": 1,
+    "peakDay": {
+     "day": 1,
+     "gross": 818565,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 818565,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "7:3890:1293713"
+  }
+ }
+}

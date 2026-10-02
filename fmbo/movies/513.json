@@ -1,0 +1,667 @@
+{
+ "id": 513,
+ "slug": "jai-ganesh",
+ "source_url": "https://fridaymatinee.in/boxoffice/jai-ganesh-513",
+ "captured_at": "2026-10-01T18:14:01.654205+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 513,
+    "title": "Jai Ganesh",
+    "img": "https://image.tmdb.org/t/p/original/5t06YuOR93cqD2egserG91MhD4X.jpg",
+    "released": "2024-04-11",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28755837",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "125 min",
+    "genre": "Drama, Thriller",
+    "plot": "In the unforgiving shadows of sympathy, Ganesh Gangadharan, a paraplegic designer, wrestles with his inner demons, striving for a semblance of normalcy.",
+    "released": "2024-04-11",
+    "director": "Ranjith Sankar",
+    "directorSlug": "ranjith-sankar",
+    "actors": [
+     "Unni Mukundan",
+     "Mahima Nambiar",
+     "Jomol",
+     "Ravindra Vijay",
+     "Ashokan",
+     "Hareesh Peradi"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 2113,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Unni Mukundan",
+     "character": "Ganesh Gangadharan",
+     "slug": "unni-mukundan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7Pn9GASysyTG6ZnPhsuRq4ESArC.jpg"
+    },
+    {
+     "name": "Mahima Nambiar",
+     "character": "Nidhi",
+     "slug": "mahima-nambiar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/us0TCjr5IHotLbyr6PKjofEqN2x.jpg"
+    },
+    {
+     "name": "Jomol",
+     "character": "Adv.Parvathy Marar",
+     "slug": "jomol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7l2vzLb3occ2yRe92KSEK1rP5HI.jpg"
+    },
+    {
+     "name": "Ravindra Vijay",
+     "character": "Mohan Selvaraj",
+     "slug": "ravindra-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2mw4VbANE3QtI9dzQXdrG74RizL.jpg"
+    },
+    {
+     "name": "Ashokan",
+     "character": "Gangadharan (Ganeshan's father)",
+     "slug": "ashokan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xtluHzXM8msExrEHUYOEAiYmEqK.jpg"
+    },
+    {
+     "name": "Hareesh Peradi",
+     "character": "Narayanan",
+     "slug": "hareesh-peradi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s6Et5mOEicOPGc3mk4vZLiDQVM6.jpg"
+    },
+    {
+     "name": "Nandhu",
+     "character": "Neerali Pavithran",
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    },
+    {
+     "name": "Bensi Mathews",
+     "character": "ADGP Thomas Alex",
+     "slug": "bensi-mathews",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ranjith Sankar",
+       "slug": "ranjith-sankar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ranjith Sankar",
+       "slug": "ranjith-sankar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Aswin Sathya",
+       "slug": "aswin-sathya"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Chandru Selvaraj",
+       "slug": "chandru-selvaraj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sangeeth Prathap",
+       "slug": "sangeeth-prathap"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Unni Mukundan",
+       "slug": "unni-mukundan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Dreams N Beyond",
+     "slug": "dreams-n-beyond",
+     "logo": "https://image.tmdb.org/t/p/w185/yBxz8DfoQYcHYg8NrvqMrMPHTlh.png"
+    },
+    {
+     "name": "Unni Mukundan Films",
+     "slug": "unni-mukundan-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 26947033,
+    "totalShows": 3872,
+    "totalDays": 19,
+    "openingDay": {
+     "day": 1,
+     "gross": 3318010,
+     "date": "2024-04-11"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 4397068,
+     "date": "2024-04-14"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-04-11"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 513,
+    "title": "Jai Ganesh",
+    "img": "https://image.tmdb.org/t/p/original/5t06YuOR93cqD2egserG91MhD4X.jpg",
+    "released": "2024-04-11",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28755837",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "125 min",
+    "genre": "Drama, Thriller",
+    "plot": "In the unforgiving shadows of sympathy, Ganesh Gangadharan, a paraplegic designer, wrestles with his inner demons, striving for a semblance of normalcy.",
+    "released": "2024-04-11",
+    "director": "Ranjith Sankar",
+    "directorSlug": "ranjith-sankar",
+    "actors": [
+     "Unni Mukundan",
+     "Mahima Nambiar",
+     "Jomol",
+     "Ravindra Vijay",
+     "Ashokan",
+     "Hareesh Peradi"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 2113,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Unni Mukundan",
+     "character": "Ganesh Gangadharan",
+     "slug": "unni-mukundan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7Pn9GASysyTG6ZnPhsuRq4ESArC.jpg"
+    },
+    {
+     "name": "Mahima Nambiar",
+     "character": "Nidhi",
+     "slug": "mahima-nambiar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/us0TCjr5IHotLbyr6PKjofEqN2x.jpg"
+    },
+    {
+     "name": "Jomol",
+     "character": "Adv.Parvathy Marar",
+     "slug": "jomol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7l2vzLb3occ2yRe92KSEK1rP5HI.jpg"
+    },
+    {
+     "name": "Ravindra Vijay",
+     "character": "Mohan Selvaraj",
+     "slug": "ravindra-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2mw4VbANE3QtI9dzQXdrG74RizL.jpg"
+    },
+    {
+     "name": "Ashokan",
+     "character": "Gangadharan (Ganeshan's father)",
+     "slug": "ashokan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xtluHzXM8msExrEHUYOEAiYmEqK.jpg"
+    },
+    {
+     "name": "Hareesh Peradi",
+     "character": "Narayanan",
+     "slug": "hareesh-peradi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s6Et5mOEicOPGc3mk4vZLiDQVM6.jpg"
+    },
+    {
+     "name": "Nandhu",
+     "character": "Neerali Pavithran",
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    },
+    {
+     "name": "Bensi Mathews",
+     "character": "ADGP Thomas Alex",
+     "slug": "bensi-mathews",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ranjith Sankar",
+       "slug": "ranjith-sankar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ranjith Sankar",
+       "slug": "ranjith-sankar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Aswin Sathya",
+       "slug": "aswin-sathya"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Chandru Selvaraj",
+       "slug": "chandru-selvaraj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sangeeth Prathap",
+       "slug": "sangeeth-prathap"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Unni Mukundan",
+       "slug": "unni-mukundan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Dreams N Beyond",
+     "slug": "dreams-n-beyond",
+     "logo": "https://image.tmdb.org/t/p/w185/yBxz8DfoQYcHYg8NrvqMrMPHTlh.png"
+    },
+    {
+     "name": "Unni Mukundan Films",
+     "slug": "unni-mukundan-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-04-11",
+     "gross": 17461988,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2192,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-04-18",
+     "gross": 7651931,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1447,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-04-25",
+     "gross": 1833114,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 233,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 26947033,
+    "totalShows": 3872,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 17461988
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 17461988
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-04-11"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 513,
+    "title": "Jai Ganesh",
+    "img": "https://image.tmdb.org/t/p/original/5t06YuOR93cqD2egserG91MhD4X.jpg",
+    "released": "2024-04-11",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28755837",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "125 min",
+    "genre": "Drama, Thriller",
+    "plot": "In the unforgiving shadows of sympathy, Ganesh Gangadharan, a paraplegic designer, wrestles with his inner demons, striving for a semblance of normalcy.",
+    "released": "2024-04-11",
+    "director": "Ranjith Sankar",
+    "directorSlug": "ranjith-sankar",
+    "actors": [
+     "Unni Mukundan",
+     "Mahima Nambiar",
+     "Jomol",
+     "Ravindra Vijay",
+     "Ashokan",
+     "Hareesh Peradi"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 2113,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Unni Mukundan",
+     "character": "Ganesh Gangadharan",
+     "slug": "unni-mukundan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7Pn9GASysyTG6ZnPhsuRq4ESArC.jpg"
+    },
+    {
+     "name": "Mahima Nambiar",
+     "character": "Nidhi",
+     "slug": "mahima-nambiar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/us0TCjr5IHotLbyr6PKjofEqN2x.jpg"
+    },
+    {
+     "name": "Jomol",
+     "character": "Adv.Parvathy Marar",
+     "slug": "jomol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7l2vzLb3occ2yRe92KSEK1rP5HI.jpg"
+    },
+    {
+     "name": "Ravindra Vijay",
+     "character": "Mohan Selvaraj",
+     "slug": "ravindra-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2mw4VbANE3QtI9dzQXdrG74RizL.jpg"
+    },
+    {
+     "name": "Ashokan",
+     "character": "Gangadharan (Ganeshan's father)",
+     "slug": "ashokan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xtluHzXM8msExrEHUYOEAiYmEqK.jpg"
+    },
+    {
+     "name": "Hareesh Peradi",
+     "character": "Narayanan",
+     "slug": "hareesh-peradi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s6Et5mOEicOPGc3mk4vZLiDQVM6.jpg"
+    },
+    {
+     "name": "Nandhu",
+     "character": "Neerali Pavithran",
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    },
+    {
+     "name": "Bensi Mathews",
+     "character": "ADGP Thomas Alex",
+     "slug": "bensi-mathews",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ranjith Sankar",
+       "slug": "ranjith-sankar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ranjith Sankar",
+       "slug": "ranjith-sankar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Aswin Sathya",
+       "slug": "aswin-sathya"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Chandru Selvaraj",
+       "slug": "chandru-selvaraj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sangeeth Prathap",
+       "slug": "sangeeth-prathap"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Unni Mukundan",
+       "slug": "unni-mukundan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Dreams N Beyond",
+     "slug": "dreams-n-beyond",
+     "logo": "https://image.tmdb.org/t/p/w185/yBxz8DfoQYcHYg8NrvqMrMPHTlh.png"
+    },
+    {
+     "name": "Unni Mukundan Films",
+     "slug": "unni-mukundan-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 26947033,
+    "totalShows": 3872,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 7202045,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 7202045,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-04-11"
+   }
+  }
+ }
+}

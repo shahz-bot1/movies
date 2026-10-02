@@ -1,0 +1,55 @@
+{
+ "slug": "revathi",
+ "name": "Revathi",
+ "source_url": "https://fridaymatinee.in/people/revathi",
+ "captured_at": "2026-10-02T09:41:52.471104+00:00",
+ "person": {
+  "name": "Revathi",
+  "photo": "https://image.tmdb.org/t/p/w185/sXS4erG255VJlP7XYAduNBNPyDL.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 182,
+   "movie_slug": "thiruchitrambalam",
+   "title": "Thiruchitrambalam",
+   "year": 2022,
+   "kerala_gross": "₹47.5L"
+  },
+  {
+   "movie_id": 459,
+   "movie_slug": "tiger-3",
+   "title": "Tiger 3",
+   "year": 2023,
+   "kerala_gross": "₹1.9 Cr"
+  },
+  {
+   "movie_id": 729,
+   "movie_slug": "the-diplomat",
+   "title": "The Diplomat",
+   "year": 2025,
+   "kerala_gross": "₹12.7L"
+  },
+  {
+   "movie_id": 1015,
+   "movie_slug": "assi",
+   "title": "Assi",
+   "year": 2026,
+   "kerala_gross": "₹1.9L"
+  },
+  {
+   "movie_id": 1081,
+   "movie_slug": "patriot",
+   "title": "Patriot",
+   "year": 2026,
+   "kerala_gross": "₹24.9 Cr"
+  }
+ ]
+}

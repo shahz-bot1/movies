@@ -1,0 +1,48 @@
+{
+ "slug": "aaron-taylor-johnson",
+ "name": "Aaron Taylor-Johnson",
+ "source_url": "https://fridaymatinee.in/people/aaron-taylor-johnson",
+ "captured_at": "2026-10-01T20:03:49.937224+00:00",
+ "person": {
+  "name": "Aaron Taylor-Johnson",
+  "photo": "https://image.tmdb.org/t/p/w185/pFtHhih2XEaFaD3qOFyQW6q83br.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 774,
+   "movie_slug": "kraven-the-hunter",
+   "title": "Kraven: The Hunter",
+   "year": 2025,
+   "kerala_gross": "₹8.7L"
+  },
+  {
+   "movie_id": 635,
+   "movie_slug": "nosferatu",
+   "title": "Nosferatu",
+   "year": 2025,
+   "kerala_gross": "₹16.8L"
+  },
+  {
+   "movie_id": 621,
+   "movie_slug": "28-years-later",
+   "title": "28 Years Later",
+   "year": 2025,
+   "kerala_gross": "₹13.2L"
+  },
+  {
+   "movie_id": 1088,
+   "movie_slug": "fuze",
+   "title": "Fuze",
+   "year": 2026,
+   "kerala_gross": "₹55K"
+  }
+ ]
+}

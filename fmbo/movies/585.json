@@ -1,0 +1,810 @@
+{
+ "id": 585,
+ "slug": "marco",
+ "source_url": "https://fridaymatinee.in/boxoffice/marco-585",
+ "captured_at": "2026-10-01T18:16:18.054713+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 585,
+    "title": "Marco",
+    "img": "https://image.tmdb.org/t/p/original/il3ao5gcF6fZNqo1o9o7lusmEyU.jpg",
+    "released": "2024-12-20",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29383379",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "145 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "The adoptive son of the Adattu family, Marco, sets off on a ruthless quest for vengeance after his brother is brutally murdered, finding only betrayal, loss and unimaginable brutality at every step.",
+    "released": "2024-12-20",
+    "director": "Haneef Adeni",
+    "directorSlug": "haneef-adeni",
+    "actors": [
+     "Unni Mukundan",
+     "Siddique",
+     "Ishan Shoukath",
+     "Jagadish",
+     "Abhimanyu Thilakan",
+     "Kabir Duhan Singh"
+    ],
+    "awards": "2 wins u0026 3 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 26197,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.5",
+      "votes": 129,
+      "updatedAt": "2026-09-24T19:10:38.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Unni Mukundan",
+     "character": "Marco Jr.",
+     "slug": "unni-mukundan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7Pn9GASysyTG6ZnPhsuRq4ESArC.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "George D'Peter",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Ishan Shoukath",
+     "character": "Victor D'Peter",
+     "slug": "ishan-shoukath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xJicLr2st7kQT7fzPC2xAZnzGUx.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Tony Issac",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Abhimanyu Thilakan",
+     "character": "Russell Issac",
+     "slug": "abhimanyu-thilakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6X1X5aJi9JkF9nhNuy1bEY8RD05.jpg"
+    },
+    {
+     "name": "Kabir Duhan Singh",
+     "character": "Cyrus Issac",
+     "slug": "kabir-duhan-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lAVAxFARP63oTHMYWpwHrWsXPWa.jpg"
+    },
+    {
+     "name": "Anson Paul",
+     "character": "Dev",
+     "slug": "anson-paul",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tuuQTQFh4qMY7EOP9rgVlz0Y57y.jpg"
+    },
+    {
+     "name": "Ajit Koshy",
+     "character": "Jahangir",
+     "slug": "ajit-koshy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qR765VN5mOHfosx23NBMTxWuw6h.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Haneef Adeni",
+       "slug": "haneef-adeni"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Haneef Adeni",
+       "slug": "haneef-adeni"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ravi Basrur",
+       "slug": "ravi-basrur"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Chandru Selvaraj",
+       "slug": "chandru-selvaraj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Abdul Ghadaf",
+       "slug": "abdul-ghadaf"
+      },
+      {
+       "name": "Shareef Muhammed",
+       "slug": "shareef-muhammed"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Cubes Entertainments",
+     "slug": "cubes-entertainments",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-02-27",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 347482985.6000001,
+    "totalShows": 20741,
+    "totalDays": 50,
+    "openingDay": {
+     "day": 1,
+     "gross": 37235064.00000001,
+     "date": "2024-12-20"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 43039180.2,
+     "date": "2024-12-22"
+    },
+    "chartPosition": {
+     "current_position": 25,
+     "weeks_on_chart": 0,
+     "peak_position": 13,
+     "last_week_position": 25
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-12-20"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 585,
+    "title": "Marco",
+    "img": "https://image.tmdb.org/t/p/original/il3ao5gcF6fZNqo1o9o7lusmEyU.jpg",
+    "released": "2024-12-20",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29383379",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "145 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "The adoptive son of the Adattu family, Marco, sets off on a ruthless quest for vengeance after his brother is brutally murdered, finding only betrayal, loss and unimaginable brutality at every step.",
+    "released": "2024-12-20",
+    "director": "Haneef Adeni",
+    "directorSlug": "haneef-adeni",
+    "actors": [
+     "Unni Mukundan",
+     "Siddique",
+     "Ishan Shoukath",
+     "Jagadish",
+     "Abhimanyu Thilakan",
+     "Kabir Duhan Singh"
+    ],
+    "awards": "2 wins u0026 3 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 26197,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.5",
+      "votes": 129,
+      "updatedAt": "2026-09-24T19:10:38.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Unni Mukundan",
+     "character": "Marco Jr.",
+     "slug": "unni-mukundan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7Pn9GASysyTG6ZnPhsuRq4ESArC.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "George D'Peter",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Ishan Shoukath",
+     "character": "Victor D'Peter",
+     "slug": "ishan-shoukath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xJicLr2st7kQT7fzPC2xAZnzGUx.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Tony Issac",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Abhimanyu Thilakan",
+     "character": "Russell Issac",
+     "slug": "abhimanyu-thilakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6X1X5aJi9JkF9nhNuy1bEY8RD05.jpg"
+    },
+    {
+     "name": "Kabir Duhan Singh",
+     "character": "Cyrus Issac",
+     "slug": "kabir-duhan-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lAVAxFARP63oTHMYWpwHrWsXPWa.jpg"
+    },
+    {
+     "name": "Anson Paul",
+     "character": "Dev",
+     "slug": "anson-paul",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tuuQTQFh4qMY7EOP9rgVlz0Y57y.jpg"
+    },
+    {
+     "name": "Ajit Koshy",
+     "character": "Jahangir",
+     "slug": "ajit-koshy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qR765VN5mOHfosx23NBMTxWuw6h.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Haneef Adeni",
+       "slug": "haneef-adeni"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Haneef Adeni",
+       "slug": "haneef-adeni"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ravi Basrur",
+       "slug": "ravi-basrur"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Chandru Selvaraj",
+       "slug": "chandru-selvaraj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Abdul Ghadaf",
+       "slug": "abdul-ghadaf"
+      },
+      {
+       "name": "Shareef Muhammed",
+       "slug": "shareef-muhammed"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Cubes Entertainments",
+     "slug": "cubes-entertainments",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-02-27",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-12-20",
+     "gross": 232175616.60000008,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 7545,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-12-27",
+     "gross": 79450521.20000002,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5951,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-03",
+     "gross": 25378931.599999998,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4661,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-10",
+     "gross": 7483306.400000001,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1691,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-17",
+     "gross": 2381174.8000000003,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 783,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-24",
+     "gross": 354046,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 75,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-01-31",
+     "gross": 250589,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 34,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-02-07",
+     "gross": 8800,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 347482985.6000001,
+    "totalShows": 20741,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 232175616.60000008
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 232175616.60000008
+    },
+    "chartPosition": {
+     "current_position": 25,
+     "weeks_on_chart": 0,
+     "peak_position": 13,
+     "last_week_position": 25
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-12-20"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 585,
+    "title": "Marco",
+    "img": "https://image.tmdb.org/t/p/original/il3ao5gcF6fZNqo1o9o7lusmEyU.jpg",
+    "released": "2024-12-20",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29383379",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "145 min",
+    "genre": "Action, Crime, Thriller",
+    "plot": "The adoptive son of the Adattu family, Marco, sets off on a ruthless quest for vengeance after his brother is brutally murdered, finding only betrayal, loss and unimaginable brutality at every step.",
+    "released": "2024-12-20",
+    "director": "Haneef Adeni",
+    "directorSlug": "haneef-adeni",
+    "actors": [
+     "Unni Mukundan",
+     "Siddique",
+     "Ishan Shoukath",
+     "Jagadish",
+     "Abhimanyu Thilakan",
+     "Kabir Duhan Singh"
+    ],
+    "awards": "2 wins u0026 3 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 26197,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.5",
+      "votes": 129,
+      "updatedAt": "2026-09-24T19:10:38.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Unni Mukundan",
+     "character": "Marco Jr.",
+     "slug": "unni-mukundan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7Pn9GASysyTG6ZnPhsuRq4ESArC.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "George D'Peter",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Ishan Shoukath",
+     "character": "Victor D'Peter",
+     "slug": "ishan-shoukath",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xJicLr2st7kQT7fzPC2xAZnzGUx.jpg"
+    },
+    {
+     "name": "Jagadish",
+     "character": "Tony Issac",
+     "slug": "jagadish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ml3XX5bWPIdHUPvqhW2MYYZ8H7Y.jpg"
+    },
+    {
+     "name": "Abhimanyu Thilakan",
+     "character": "Russell Issac",
+     "slug": "abhimanyu-thilakan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6X1X5aJi9JkF9nhNuy1bEY8RD05.jpg"
+    },
+    {
+     "name": "Kabir Duhan Singh",
+     "character": "Cyrus Issac",
+     "slug": "kabir-duhan-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lAVAxFARP63oTHMYWpwHrWsXPWa.jpg"
+    },
+    {
+     "name": "Anson Paul",
+     "character": "Dev",
+     "slug": "anson-paul",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tuuQTQFh4qMY7EOP9rgVlz0Y57y.jpg"
+    },
+    {
+     "name": "Ajit Koshy",
+     "character": "Jahangir",
+     "slug": "ajit-koshy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qR765VN5mOHfosx23NBMTxWuw6h.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Haneef Adeni",
+       "slug": "haneef-adeni"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Haneef Adeni",
+       "slug": "haneef-adeni"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ravi Basrur",
+       "slug": "ravi-basrur"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Chandru Selvaraj",
+       "slug": "chandru-selvaraj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Abdul Ghadaf",
+       "slug": "abdul-ghadaf"
+      },
+      {
+       "name": "Shareef Muhammed",
+       "slug": "shareef-muhammed"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Cubes Entertainments",
+     "slug": "cubes-entertainments",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-02-27",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 347482985.6,
+    "totalShows": 20741,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 74119284,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 74119284,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 25,
+     "weeks_on_chart": 0,
+     "peak_position": 13,
+     "last_week_position": 25
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-12-20"
+   }
+  }
+ }
+}

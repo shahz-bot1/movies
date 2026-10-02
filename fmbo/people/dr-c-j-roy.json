@@ -1,0 +1,41 @@
+{
+ "slug": "dr-c-j-roy",
+ "name": "Dr. C.J. Roy",
+ "source_url": "https://fridaymatinee.in/people/dr-c-j-roy",
+ "captured_at": "2026-10-01T22:06:21.641544+00:00",
+ "person": {
+  "name": "Dr. C.J. Roy",
+  "photo": null,
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 210,
+   "movie_slug": "mei-hoom-moosa",
+   "title": "Mei Hoom Moosa",
+   "year": 2022,
+   "kerala_gross": "₹3.3 Cr"
+  },
+  {
+   "movie_id": 616,
+   "movie_slug": "identity",
+   "title": "Identity",
+   "year": 2025,
+   "kerala_gross": "₹6.9 Cr"
+  },
+  {
+   "movie_id": 995,
+   "movie_slug": "anomie",
+   "title": "Anomie",
+   "year": 2026,
+   "kerala_gross": "₹2.7 Cr"
+  }
+ ]
+}

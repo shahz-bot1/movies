@@ -1,0 +1,41 @@
+{
+ "slug": "kaniha",
+ "name": "Kaniha",
+ "source_url": "https://fridaymatinee.in/people/kaniha",
+ "captured_at": "2026-10-01T23:38:59.854470+00:00",
+ "person": {
+  "name": "Kaniha",
+  "photo": "https://image.tmdb.org/t/p/w185/3CO0eoxm1haZTDvuCrk245TW9Qi.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 43,
+   "movie_slug": "mamangam",
+   "title": "Mamangam",
+   "year": 2019,
+   "kerala_gross": "₹5.7 Cr"
+  },
+  {
+   "movie_id": 130,
+   "movie_slug": "cbi-5-the-brain",
+   "title": "CBI 5 The Brain",
+   "year": 2022,
+   "kerala_gross": "₹11.7 Cr"
+  },
+  {
+   "movie_id": 166,
+   "movie_slug": "paappan",
+   "title": "Paappan",
+   "year": 2022,
+   "kerala_gross": "₹13.4 Cr"
+  }
+ ]
+}

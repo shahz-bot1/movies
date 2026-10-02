@@ -1,0 +1,55 @@
+{
+ "slug": "ajmal-ameer",
+ "name": "Ajmal Ameer",
+ "source_url": "https://fridaymatinee.in/people/ajmal-ameer",
+ "captured_at": "2026-10-01T20:18:20.815402+00:00",
+ "person": {
+  "name": "Ajmal Ameer",
+  "photo": "https://image.tmdb.org/t/p/w185/jpyj9HkcIZxy2d614imc83prftc.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 166,
+   "movie_slug": "paappan",
+   "title": "Paappan",
+   "year": 2022,
+   "kerala_gross": "₹13.4 Cr"
+  },
+  {
+   "movie_id": 245,
+   "movie_slug": "gold",
+   "title": "Gold",
+   "year": 2022,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 504,
+   "movie_slug": "thankamani",
+   "title": "Thankamani",
+   "year": 2024,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 555,
+   "movie_slug": "hunt",
+   "title": "Hunt",
+   "year": 2024,
+   "kerala_gross": "₹37.6L"
+  },
+  {
+   "movie_id": 560,
+   "movie_slug": "the-greatest-of-all-time",
+   "title": "The Greatest Of All Time",
+   "year": 2024,
+   "kerala_gross": "₹10.6 Cr"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "slug": "g-suresh-kumar",
+ "name": "G Suresh Kumar",
+ "source_url": "https://fridaymatinee.in/people/g-suresh-kumar",
+ "captured_at": "2026-10-01T22:24:29.657665+00:00",
+ "person": {
+  "name": "G Suresh Kumar",
+  "photo": "https://image.tmdb.org/t/p/w185/yZNzQBWdoRb7c6v90diPNkoSIGy.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 33,
+   "movie_slug": "jack-daniel",
+   "title": "Jack Daniel ",
+   "year": 2019,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 149,
+   "movie_slug": "vaashi",
+   "title": "Vaashi",
+   "year": 2022,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 545,
+   "movie_slug": "secret",
+   "title": "Secret",
+   "year": 2024,
+   "kerala_gross": "₹15.6L"
+  },
+  {
+   "movie_id": 555,
+   "movie_slug": "hunt",
+   "title": "Hunt",
+   "year": 2024,
+   "kerala_gross": "₹37.6L"
+  },
+  {
+   "movie_id": 1006,
+   "movie_slug": "ee-thani-niram",
+   "title": "Ee Thani Niram",
+   "year": 2026,
+   "kerala_gross": "₹5.7L"
+  }
+ ]
+}

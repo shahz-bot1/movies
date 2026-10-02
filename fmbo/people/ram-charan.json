@@ -1,0 +1,53 @@
+{
+ "slug": "ram-charan",
+ "name": "Ram Charan",
+ "source_url": "https://fridaymatinee.in/people/ram-charan",
+ "captured_at": "2026-10-02T08:37:09.159319+00:00",
+ "person": {
+  "name": "Ram Charan",
+  "photo": "https://image.tmdb.org/t/p/w185/twGqYUCR0Yh33j3TcgRTZRBRhTd.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 118,
+   "movie_slug": "rrr",
+   "title": "Rrr",
+   "year": 2022,
+   "kerala_gross": "₹17.1 Cr"
+  },
+  {
+   "movie_id": 636,
+   "movie_slug": "game-changer",
+   "title": "Game Changer",
+   "year": 2025,
+   "kerala_gross": "₹62.3L"
+  },
+  {
+   "movie_id": 1127,
+   "movie_slug": "peddi",
+   "title": "Peddi",
+   "year": 2026,
+   "kerala_gross": "₹47.5L"
+  },
+  {
+   "movie_id": 353,
+   "movie_slug": "kisi-ka-bhai-kisi-ki-jaan",
+   "title": "Kisi Ka Bhai Kisi Ki Jaan",
+   "year": 2023,
+   "kerala_gross": "₹30.6L"
+  }
+ ]
+}

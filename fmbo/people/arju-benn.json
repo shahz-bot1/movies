@@ -1,0 +1,41 @@
+{
+ "slug": "arju-benn",
+ "name": "Arju Benn",
+ "source_url": "https://fridaymatinee.in/people/arju-benn",
+ "captured_at": "2026-10-01T20:52:22.676195+00:00",
+ "person": {
+  "name": "Arju Benn",
+  "photo": null,
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 149,
+   "movie_slug": "vaashi",
+   "title": "Vaashi",
+   "year": 2022,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 164,
+   "movie_slug": "malayankunju",
+   "title": "Malayankunju",
+   "year": 2022,
+   "kerala_gross": "₹5.9 Cr"
+  },
+  {
+   "movie_id": 655,
+   "movie_slug": "get-set-baby",
+   "title": "Get-Set Baby",
+   "year": 2025,
+   "kerala_gross": "₹2.8 Cr"
+  }
+ ]
+}

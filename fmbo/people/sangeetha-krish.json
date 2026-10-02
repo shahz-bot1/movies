@@ -1,0 +1,41 @@
+{
+ "slug": "sangeetha-krish",
+ "name": "Sangeetha Krish",
+ "source_url": "https://fridaymatinee.in/people/sangeetha-krish",
+ "captured_at": "2026-10-02T10:08:41.107741+00:00",
+ "person": {
+  "name": "Sangeetha Krish",
+  "photo": "https://image.tmdb.org/t/p/w185/s0jx36aN50nO2eFOlsqJzS9RoAl.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 53,
+   "movie_slug": "sarileru-neekevvaru",
+   "title": "Sarileru Neekevvaru",
+   "year": 2020,
+   "kerala_gross": "₹7.9L"
+  },
+  {
+   "movie_id": 276,
+   "movie_slug": "varisu",
+   "title": "Varisu",
+   "year": 2023,
+   "kerala_gross": "₹7.8 Cr"
+  },
+  {
+   "movie_id": 796,
+   "movie_slug": "paradha",
+   "title": "Paradha",
+   "year": 2025,
+   "kerala_gross": "₹5.1L"
+  }
+ ]
+}

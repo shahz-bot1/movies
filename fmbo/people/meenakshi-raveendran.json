@@ -1,0 +1,41 @@
+{
+ "slug": "meenakshi-raveendran",
+ "name": "Meenakshi Raveendran",
+ "source_url": "https://fridaymatinee.in/people/meenakshi-raveendran",
+ "captured_at": "2026-10-02T00:31:47.991264+00:00",
+ "person": {
+  "name": "Meenakshi Raveendran",
+  "photo": "https://image.tmdb.org/t/p/w185/vHlgWArfp0SLzhyElXERhDwOqJY.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 500,
+   "movie_slug": "premalu",
+   "title": "Premalu",
+   "year": 2024,
+   "kerala_gross": "₹49.2 Cr"
+  },
+  {
+   "movie_id": 699,
+   "movie_slug": "moonwalk",
+   "title": "Moonwalk",
+   "year": 2025,
+   "kerala_gross": "₹65.6L"
+  },
+  {
+   "movie_id": 1234,
+   "movie_slug": "bethlehem-kudumba-unit",
+   "title": "Bethlehem Kudumba Unit",
+   "year": 2026,
+   "kerala_gross": "₹145.2 Cr"
+  }
+ ]
+}

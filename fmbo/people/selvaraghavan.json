@@ -1,0 +1,72 @@
+{
+ "slug": "selvaraghavan",
+ "name": "Selvaraghavan",
+ "source_url": "https://fridaymatinee.in/people/selvaraghavan",
+ "captured_at": "2026-10-02T10:21:31.078266+00:00",
+ "person": {
+  "name": "Selvaraghavan",
+  "photo": "https://image.tmdb.org/t/p/w185/iTEdyvN5XoB0fl6kMg0tChBY4Ml.jpg",
+  "role": "Actor, director and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 123,
+   "movie_slug": "beast",
+   "title": "Beast",
+   "year": 2022,
+   "kerala_gross": "₹6.7 Cr"
+  },
+  {
+   "movie_id": 207,
+   "movie_slug": "naane-varuven",
+   "title": "Naane Varuven",
+   "year": 2022,
+   "kerala_gross": "₹31.8L"
+  },
+  {
+   "movie_id": 424,
+   "movie_slug": "mark-antony",
+   "title": "Mark Antony",
+   "year": 2023,
+   "kerala_gross": "₹2.5 Cr"
+  },
+  {
+   "movie_id": 547,
+   "movie_slug": "raayan",
+   "title": "Raayan",
+   "year": 2024,
+   "kerala_gross": "₹4.4 Cr"
+  },
+  {
+   "movie_id": 844,
+   "movie_slug": "balti",
+   "title": "Balti",
+   "year": 2025,
+   "kerala_gross": "₹7.9 Cr"
+  },
+  {
+   "movie_id": 887,
+   "movie_slug": "aaryan",
+   "title": "Aaryan",
+   "year": 2025,
+   "kerala_gross": "₹49.7L"
+  }
+ ]
+}

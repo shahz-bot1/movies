@@ -1,0 +1,2064 @@
+{
+ "id": 593,
+ "slug": "thudarum",
+ "source_url": "https://fridaymatinee.in/boxoffice/thudarum-593",
+ "captured_at": "2026-10-01T18:16:31.107057+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 593,
+    "title": "Thudarum",
+    "img": "https://image.tmdb.org/t/p/original/uOTDBabtxHA6szYKQNQe9Y7rFlv.jpg",
+    "released": "2025-04-25",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31969600",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "164 min",
+    "genre": "Action, Drama, Thriller",
+    "plot": "A taxi driver finds himself embroiled in a dangerous conspiracy after his car is confiscated by a corrupt police officer.",
+    "released": "2025-04-23",
+    "director": "Tharun Moorthy",
+    "directorSlug": "tharun-moorthy",
+    "actors": [
+     "Mohanlal",
+     "Shobana",
+     "Prakash Varma",
+     "Maniyanpilla Raju",
+     "Farhaan Faasil",
+     "Binu Pappu"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 15691,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:36.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Shanmughan",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Shobana",
+     "character": "Lalitha Shanmughan",
+     "slug": "shobana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/t6niRFC3xCV6hJSuyC9ACWLSVXu.jpg"
+    },
+    {
+     "name": "Prakash Varma",
+     "character": "CI George Mathan",
+     "slug": "prakash-varma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ef4W4gAPXh2PpxloNWRXaH0EJ8J.jpg"
+    },
+    {
+     "name": "Maniyanpilla Raju",
+     "character": "Kuttichan",
+     "slug": "maniyanpilla-raju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2G6JRbEXPkhCqZ0rZjzRNjip99D.jpg"
+    },
+    {
+     "name": "Farhaan Faasil",
+     "character": "CPO Sudheesh",
+     "slug": "farhaan-faasil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sXdUWl3P07h3LbvguzORYuSkyZ2.jpg"
+    },
+    {
+     "name": "Binu Pappu",
+     "character": "SI Benny",
+     "slug": "binu-pappu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zDVvCDE3cdxrAqfZ9J0LgqXfJpY.jpg"
+    },
+    {
+     "name": "Arsha Baiju",
+     "character": "Mary",
+     "slug": "arsha-baiju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lDXG6FpAp6fi1Y8hc5vAHZ2dIUG.jpg"
+    },
+    {
+     "name": "Irshad",
+     "character": "Shaji",
+     "slug": "irshad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fQNMwd91fjYETkiWe8QDD8wNdV.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Tharun Moorthy",
+       "slug": "tharun-moorthy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Tharun Moorthy",
+       "slug": "tharun-moorthy"
+      },
+      {
+       "name": "KR Sunil",
+       "slug": "kr-sunil"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shaji Kumar",
+       "slug": "shaji-kumar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nishadh Yusuf",
+       "slug": "nishadh-yusuf"
+      },
+      {
+       "name": "Shafeeque Vb",
+       "slug": "shafeeque-vb"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "M. Renjith",
+       "slug": "m-renjith"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Rejaputhra Visual Media",
+     "slug": "rejaputhra-visual-media",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-05-30",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-06-19": [
+     {
+      "id": 621,
+      "title": "28 Years Later",
+      "img": "https://image.tmdb.org/t/p/original/hVKHzr4GwSw0FepqhqQ0DDiYHNY.jpg"
+     }
+    ],
+    "2025-05-15": [
+     {
+      "id": 659,
+      "title": "Final Destination Bloodlines",
+      "img": "https://image.tmdb.org/t/p/original/txr6i5Y6nbx7t0dDx1xyzfdFum5.jpg"
+     }
+    ],
+    "2025-05-23": [
+     {
+      "id": 676,
+      "title": "Detective Ujjwalan",
+      "img": "https://image.tmdb.org/t/p/original/rVCNbMW2bmbPE2XaUMUsnA9YgAh.jpg"
+     },
+     {
+      "id": 677,
+      "title": "Narivetta",
+      "img": "https://image.tmdb.org/t/p/original/3xhdWk6y5hVUAOhW7MsBMA7wb10.jpg"
+     },
+     {
+      "id": 698,
+      "title": "Azadi",
+      "img": "https://image.tmdb.org/t/p/original/tFpHKVB9xdRJXE1nN3k0x0k4LfV.jpg"
+     }
+    ],
+    "2025-05-01": [
+     {
+      "id": 678,
+      "title": "Retro",
+      "img": "https://image.tmdb.org/t/p/original/hSTWwyjUgQCtoC9zTKcIf00Vtxo.jpg"
+     },
+     {
+      "id": 679,
+      "title": "Tourist Family",
+      "img": "https://image.tmdb.org/t/p/original/rEffPihtdQXiXfRdfq7pPM5JDqa.jpg"
+     },
+     {
+      "id": 682,
+      "title": "HIT: The Third Case",
+      "img": "https://image.tmdb.org/t/p/original/wT9tGyFol4RBwkjESXUWeBdnLJn.jpg"
+     }
+    ],
+    "2025-05-09": [
+     {
+      "id": 681,
+      "title": "Prince And Family",
+      "img": "https://image.tmdb.org/t/p/original/bsFg2yv4zeOSbch0K3xxObrvux1.jpg"
+     },
+     {
+      "id": 770,
+      "title": "Shinchan: Our Dinosaur Diary",
+      "img": "https://image.tmdb.org/t/p/original/33j42iIIfMWoq2N9wDClCu5GMpo.jpg"
+     }
+    ],
+    "2025-05-08": [
+     {
+      "id": 683,
+      "title": "Sarkeet",
+      "img": "https://image.tmdb.org/t/p/original/yruMwNKwObVwS8vbE3N6hriAdYB.jpg"
+     },
+     {
+      "id": 691,
+      "title": "Padakkalam",
+      "img": "https://image.tmdb.org/t/p/original/4YuRyFKTM17iRmFAcwbyuOyNp5E.jpg"
+     }
+    ],
+    "2025-05-17": [
+     {
+      "id": 692,
+      "title": "Mission: Impossible - The Final Reckoning",
+      "img": "https://image.tmdb.org/t/p/original/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg"
+     }
+    ],
+    "2025-05-16": [
+     {
+      "id": 693,
+      "title": "Lovely",
+      "img": "https://image.tmdb.org/t/p/original/7NERgkk39xP3q0XrP7rik4Cg1d5.jpg"
+     }
+    ],
+    "2025-05-30": [
+     {
+      "id": 699,
+      "title": "Moonwalk",
+      "img": "https://image.tmdb.org/t/p/original/bcmuVEGwGw3O7PbwXTz7Xeew5bB.jpg"
+     },
+     {
+      "id": 753,
+      "title": "Karate Kid Legends",
+      "img": "https://image.tmdb.org/t/p/original/AEgggzRr1vZCLY86MAp93li43z.jpg"
+     }
+    ],
+    "2025-06-06": [
+     {
+      "id": 700,
+      "title": "Aabhyanthara Kuttavaali",
+      "img": "https://image.tmdb.org/t/p/original/zQ4crcJm2QBX2bM8i0NuCKnnD2T.jpg"
+     }
+    ],
+    "2025-06-05": [
+     {
+      "id": 701,
+      "title": "Thug Life",
+      "img": "https://image.tmdb.org/t/p/original/DmBbUtbA3T9sdVXDgIJ8bsIDw0.jpg"
+     },
+     {
+      "id": 703,
+      "title": "Written u0026 Directed by God",
+      "img": "https://image.tmdb.org/t/p/original/vYCJihP5IQwUw9RMSmeGg7yU1FP.jpg"
+     }
+    ],
+    "2025-06-13": [
+     {
+      "id": 704,
+      "title": "Vysanasametham Bandhumithradhikal",
+      "img": "https://image.tmdb.org/t/p/original/iPy1ju7ipQCkZyFt8DTWCotcteu.jpg"
+     },
+     {
+      "id": 705,
+      "title": "Ronth",
+      "img": "https://image.tmdb.org/t/p/original/50MxvHckUkNgPI4EzjMwcWAq7ea.jpg"
+     },
+     {
+      "id": 725,
+      "title": "How to Train Your Dragon",
+      "img": "https://image.tmdb.org/t/p/original/aqZQJrJNTATO3DqQJOLYzdeJymP.jpg"
+     }
+    ],
+    "2025-04-25": [
+     {
+      "id": 754,
+      "title": "Ne Zha 2",
+      "img": "https://image.tmdb.org/t/p/original/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-04-25",
+     "gross": 46423295.99999999,
+     "sold": 289778,
+     "unsold": 94531,
+     "shows": 1383,
+     "occ": 75.4,
+     "hf": "257",
+     "almost": "546",
+     "ff": "579",
+     "cumul": 46423295.99999999,
+     "lastUpdatedAt": "2025-04-25 23:58:00"
+    },
+    {
+     "label": "2025-04-26",
+     "gross": 65290980.199999996,
+     "sold": 405413,
+     "unsold": 56964,
+     "shows": 1745,
+     "occ": 87.68,
+     "hf": "507",
+     "almost": "1035",
+     "ff": "915",
+     "cumul": 111714276.19999999,
+     "lastUpdatedAt": "2025-04-26 23:58:00"
+    },
+    {
+     "label": "2025-04-27",
+     "gross": 78279747,
+     "sold": 485177,
+     "unsold": 31062,
+     "shows": 1975,
+     "occ": 93.98,
+     "hf": "904",
+     "almost": "1543",
+     "ff": "921",
+     "cumul": 189994023.2,
+     "lastUpdatedAt": "2025-04-27 23:58:00"
+    },
+    {
+     "label": "2025-04-28",
+     "gross": 64270590.00000001,
+     "sold": 399416,
+     "unsold": 86011,
+     "shows": 1844,
+     "occ": 82.28,
+     "hf": "313",
+     "almost": "859",
+     "ff": "1009",
+     "cumul": 254264613.2,
+     "lastUpdatedAt": "2025-04-28 23:58:00"
+    },
+    {
+     "label": "2025-04-29",
+     "gross": 59802084.199999996,
+     "sold": 372207,
+     "unsold": 107737,
+     "shows": 1837,
+     "occ": 77.55,
+     "hf": "192",
+     "almost": "703",
+     "ff": "963",
+     "cumul": 314066697.4,
+     "lastUpdatedAt": "2025-04-29 23:58:00"
+    },
+    {
+     "label": "2025-04-30",
+     "gross": 58464830.6,
+     "sold": 361542,
+     "unsold": 128529,
+     "shows": 1881,
+     "occ": 73.77,
+     "hf": "166",
+     "almost": "641",
+     "ff": "895",
+     "cumul": 372531528,
+     "lastUpdatedAt": "2025-04-30 23:58:00"
+    },
+    {
+     "label": "2025-05-01",
+     "gross": 63366818.39999999,
+     "sold": 396597,
+     "unsold": 54794,
+     "shows": 1671,
+     "occ": 87.86,
+     "hf": "395",
+     "almost": "958",
+     "ff": "970",
+     "cumul": 435898346.4,
+     "lastUpdatedAt": "2025-05-01 23:58:00"
+    },
+    {
+     "label": "2025-05-02",
+     "gross": 51949484.20000002,
+     "sold": 325635,
+     "unsold": 139956,
+     "shows": 1724,
+     "occ": 69.94,
+     "hf": "92",
+     "almost": "436",
+     "ff": "767",
+     "cumul": 487847830.6,
+     "lastUpdatedAt": "2025-05-02 23:58:00"
+    },
+    {
+     "label": "2025-05-03",
+     "gross": 58451128.6,
+     "sold": 363167,
+     "unsold": 126391,
+     "shows": 1836,
+     "occ": 74.18,
+     "hf": "154",
+     "almost": "621",
+     "ff": "909",
+     "cumul": 546298959.2,
+     "lastUpdatedAt": "2025-05-03 23:58:00"
+    },
+    {
+     "label": "2025-05-04",
+     "gross": 70613915.4,
+     "sold": 442604,
+     "unsold": 58776,
+     "shows": 1928,
+     "occ": 88.28,
+     "hf": "521",
+     "almost": "1172",
+     "ff": "1041",
+     "cumul": 616912874.6,
+     "lastUpdatedAt": "2025-05-04 23:58:00"
+    },
+    {
+     "label": "2025-05-05",
+     "gross": 48298326.80000001,
+     "sold": 309991,
+     "unsold": 145259,
+     "shows": 1730,
+     "occ": 68.09,
+     "hf": "77",
+     "almost": "425",
+     "ff": "746",
+     "cumul": 665211201.4000001,
+     "lastUpdatedAt": "2025-05-05 23:58:00"
+    },
+    {
+     "label": "2025-05-06",
+     "gross": 42762415.60000001,
+     "sold": 274692,
+     "unsold": 174868,
+     "shows": 1711,
+     "occ": 61.1,
+     "hf": "47",
+     "almost": "277",
+     "ff": "533",
+     "cumul": 707973617.0000001,
+     "lastUpdatedAt": "2025-05-06 23:58:00"
+    },
+    {
+     "label": "2025-05-07",
+     "gross": 36346395.400000006,
+     "sold": 233008,
+     "unsold": 212388,
+     "shows": 1688,
+     "occ": 52.31,
+     "hf": "22",
+     "almost": "177",
+     "ff": "380",
+     "cumul": 744320012.4000001,
+     "lastUpdatedAt": "2025-05-07 23:58:00"
+    },
+    {
+     "label": "2025-05-08",
+     "gross": 30150922.8,
+     "sold": 195294,
+     "unsold": 213017,
+     "shows": 1494,
+     "occ": 47.83,
+     "hf": "11",
+     "almost": "120",
+     "ff": "299",
+     "cumul": 774470935.2,
+     "lastUpdatedAt": "2025-05-08 23:58:00"
+    },
+    {
+     "label": "2025-05-09",
+     "gross": 25767600.6,
+     "sold": 165700,
+     "unsold": 208849,
+     "shows": 1296,
+     "occ": 44.24,
+     "hf": "12",
+     "almost": "101",
+     "ff": "233",
+     "cumul": 800238535.8000001,
+     "lastUpdatedAt": "2025-05-09 23:58:00"
+    },
+    {
+     "label": "2025-05-10",
+     "gross": 34105408.39999999,
+     "sold": 216846,
+     "unsold": 164251,
+     "shows": 1339,
+     "occ": 56.9,
+     "hf": "18",
+     "almost": "187",
+     "ff": "393",
+     "cumul": 834343944.2,
+     "lastUpdatedAt": "2025-05-10 23:58:00"
+    },
+    {
+     "label": "2025-05-11",
+     "gross": 43988802.4,
+     "sold": 285034,
+     "unsold": 102005,
+     "shows": 1362,
+     "occ": 73.64,
+     "hf": "144",
+     "almost": "470",
+     "ff": "623",
+     "cumul": 878332746.6,
+     "lastUpdatedAt": "2025-05-11 23:58:00"
+    },
+    {
+     "label": "2025-05-12",
+     "gross": 23402294.400000013,
+     "sold": 153243,
+     "unsold": 197437,
+     "shows": 1217,
+     "occ": 43.7,
+     "hf": "5",
+     "almost": "90",
+     "ff": "234",
+     "cumul": 901735041,
+     "lastUpdatedAt": "2025-05-12 23:58:00"
+    },
+    {
+     "label": "2025-05-13",
+     "gross": 19690600.800000004,
+     "sold": 127926,
+     "unsold": 223550,
+     "shows": 1227,
+     "occ": 36.4,
+     "hf": "4",
+     "almost": "49",
+     "ff": "134",
+     "cumul": 921425641.8,
+     "lastUpdatedAt": "2025-05-13 23:58:00"
+    },
+    {
+     "label": "2025-05-14",
+     "gross": 16178895.800000003,
+     "sold": 105218,
+     "unsold": 229988,
+     "shows": 1159,
+     "occ": 31.39,
+     "hf": "2",
+     "almost": "23",
+     "ff": "88",
+     "cumul": 937604537.5999999,
+     "lastUpdatedAt": "2025-05-14 23:58:00"
+    },
+    {
+     "label": "2025-05-15",
+     "gross": 14196876.8,
+     "sold": 92199,
+     "unsold": 235052,
+     "shows": 1131,
+     "occ": 28.17,
+     "hf": "2",
+     "almost": "23",
+     "ff": "60",
+     "cumul": 951801414.3999999,
+     "lastUpdatedAt": "2025-05-15 23:58:00"
+    },
+    {
+     "label": "2025-05-16",
+     "gross": 12712418.400000002,
+     "sold": 81664,
+     "unsold": 207840,
+     "shows": 959,
+     "occ": 28.21,
+     "hf": "3",
+     "almost": "22",
+     "ff": "52",
+     "cumul": 964513832.7999998,
+     "lastUpdatedAt": "2025-05-16 23:58:00"
+    },
+    {
+     "label": "2025-05-17",
+     "gross": 15363391.200000001,
+     "sold": 97449,
+     "unsold": 187547,
+     "shows": 949,
+     "occ": 34.19,
+     "hf": "1",
+     "almost": "28",
+     "ff": "75",
+     "cumul": 979877223.9999999,
+     "lastUpdatedAt": "2025-05-17 23:58:00"
+    },
+    {
+     "label": "2025-05-18",
+     "gross": 24327266.800000004,
+     "sold": 158096,
+     "unsold": 132978,
+     "shows": 979,
+     "occ": 54.31,
+     "hf": "26",
+     "almost": "137",
+     "ff": "271",
+     "cumul": 1004204490.7999998,
+     "lastUpdatedAt": "2025-05-18 23:58:00"
+    },
+    {
+     "label": "2025-05-19",
+     "gross": 10322466.799999999,
+     "sold": 68063,
+     "unsold": 202772,
+     "shows": 901,
+     "occ": 25.13,
+     "hf": "2",
+     "almost": "10",
+     "ff": "32",
+     "cumul": 1014526957.5999998,
+     "lastUpdatedAt": "2025-05-19 23:58:00"
+    },
+    {
+     "label": "2025-05-20",
+     "gross": 8746036.4,
+     "sold": 57257,
+     "unsold": 207937,
+     "shows": 886,
+     "occ": 21.59,
+     "hf": "1",
+     "almost": "9",
+     "ff": "18",
+     "cumul": 1023272993.9999998,
+     "lastUpdatedAt": "2025-05-20 23:58:00"
+    },
+    {
+     "label": "2025-05-21",
+     "gross": 8094324.800000001,
+     "sold": 52758,
+     "unsold": 212025,
+     "shows": 880,
+     "occ": 19.92,
+     "hf": "1",
+     "almost": "7",
+     "ff": "16",
+     "cumul": 1031367318.7999997,
+     "lastUpdatedAt": "2025-05-21 23:58:00"
+    },
+    {
+     "label": "2025-05-22",
+     "gross": 7050187.8,
+     "sold": 45894,
+     "unsold": 213341,
+     "shows": 866,
+     "occ": 17.7,
+     "hf": "1",
+     "almost": "6",
+     "ff": "11",
+     "cumul": 1038417506.5999997,
+     "lastUpdatedAt": "2025-05-22 23:58:00"
+    },
+    {
+     "label": "2025-05-23",
+     "gross": 4787946.800000001,
+     "sold": 31137,
+     "unsold": 127833,
+     "shows": 573,
+     "occ": 19.59,
+     "hf": "4",
+     "almost": "5",
+     "ff": "5",
+     "cumul": 1043205453.3999996,
+     "lastUpdatedAt": "2025-05-23 23:58:00"
+    },
+    {
+     "label": "2025-05-24",
+     "gross": 5738418.4,
+     "sold": 36394,
+     "unsold": 120870,
+     "shows": 569,
+     "occ": 23.14,
+     "hf": "3",
+     "almost": "7",
+     "ff": "14",
+     "cumul": 1048943871.7999996,
+     "lastUpdatedAt": "2025-05-24 23:58:00"
+    },
+    {
+     "label": "2025-05-25",
+     "gross": 8878853.600000001,
+     "sold": 57574,
+     "unsold": 101844,
+     "shows": 576,
+     "occ": 36.12,
+     "hf": "6",
+     "almost": "29",
+     "ff": "50",
+     "cumul": 1057822725.3999996,
+     "lastUpdatedAt": "2025-05-25 23:58:00"
+    },
+    {
+     "label": "2025-05-26",
+     "gross": 3183431.6,
+     "sold": 20460,
+     "unsold": 129545,
+     "shows": 543,
+     "occ": 13.64,
+     "hf": "0",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 1061006156.9999996,
+     "lastUpdatedAt": "2025-05-26 23:58:00"
+    },
+    {
+     "label": "2025-05-27",
+     "gross": 2639311.4,
+     "sold": 17284,
+     "unsold": 124422,
+     "shows": 525,
+     "occ": 12.2,
+     "hf": "0",
+     "almost": "3",
+     "ff": "4",
+     "cumul": 1063645468.3999996,
+     "lastUpdatedAt": "2025-05-27 23:58:00"
+    },
+    {
+     "label": "2025-05-28",
+     "gross": 2485143.1999999993,
+     "sold": 15844,
+     "unsold": 127313,
+     "shows": 528,
+     "occ": 11.07,
+     "hf": "0",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 1066130611.5999997,
+     "lastUpdatedAt": "2025-05-28 23:58:00"
+    },
+    {
+     "label": "2025-05-29",
+     "gross": 2161553.8,
+     "sold": 13824,
+     "unsold": 121542,
+     "shows": 490,
+     "occ": 10.21,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1068292165.3999996,
+     "lastUpdatedAt": "2025-05-29 23:58:00"
+    },
+    {
+     "label": "2025-05-30",
+     "gross": 431908.6,
+     "sold": 2624,
+     "unsold": 19356,
+     "shows": 103,
+     "occ": 11.94,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1068724073.9999996,
+     "lastUpdatedAt": "2025-05-30 22:23:00"
+    },
+    {
+     "label": "2025-05-31",
+     "gross": 475253.6,
+     "sold": 2761,
+     "unsold": 20134,
+     "shows": 106,
+     "occ": 12.06,
+     "hf": "0",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 1069199327.5999997,
+     "lastUpdatedAt": "2025-05-31 23:03:00"
+    },
+    {
+     "label": "2025-06-01",
+     "gross": 862118,
+     "sold": 5176,
+     "unsold": 16948,
+     "shows": 103,
+     "occ": 23.4,
+     "hf": "0",
+     "almost": "3",
+     "ff": "6",
+     "cumul": 1070061445.5999997,
+     "lastUpdatedAt": "2025-06-01 23:08:00"
+    },
+    {
+     "label": "2025-06-02",
+     "gross": 241579.2,
+     "sold": 1440,
+     "unsold": 17599,
+     "shows": 94,
+     "occ": 7.56,
+     "hf": "0",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 1070303024.7999997,
+     "lastUpdatedAt": "2025-06-02 23:08:00"
+    },
+    {
+     "label": "2025-06-03",
+     "gross": 173708.2,
+     "sold": 1272,
+     "unsold": 16958,
+     "shows": 89,
+     "occ": 6.98,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1070476732.9999998,
+     "lastUpdatedAt": "2025-06-03 23:08:00"
+    },
+    {
+     "label": "2025-06-04",
+     "gross": 179899.6,
+     "sold": 1138,
+     "unsold": 17288,
+     "shows": 91,
+     "occ": 6.18,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1070656632.5999998,
+     "lastUpdatedAt": "2025-06-04 23:08:00"
+    },
+    {
+     "label": "2025-06-05",
+     "gross": 123363.79999999999,
+     "sold": 797,
+     "unsold": 6230,
+     "shows": 43,
+     "occ": 11.34,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1070779996.3999997,
+     "lastUpdatedAt": "2025-06-05 22:28:00"
+    },
+    {
+     "label": "2025-06-06",
+     "gross": 128509,
+     "sold": 767,
+     "unsold": 2838,
+     "shows": 22,
+     "occ": 21.28,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1070908505.3999997,
+     "lastUpdatedAt": "2025-06-06 22:13:00"
+    },
+    {
+     "label": "2025-06-07",
+     "gross": 259335,
+     "sold": 1587,
+     "unsold": 2346,
+     "shows": 25,
+     "occ": 40.35,
+     "hf": "0",
+     "almost": "0",
+     "ff": "1",
+     "cumul": 1071167840.3999997,
+     "lastUpdatedAt": "2025-06-07 22:13:00"
+    },
+    {
+     "label": "2025-06-08",
+     "gross": 273694.6,
+     "sold": 1693,
+     "unsold": 2858,
+     "shows": 29,
+     "occ": 37.2,
+     "hf": "0",
+     "almost": "1",
+     "ff": "2",
+     "cumul": 1071441534.9999998,
+     "lastUpdatedAt": "2025-06-08 20:53:00"
+    },
+    {
+     "label": "2025-06-09",
+     "gross": 75375,
+     "sold": 481,
+     "unsold": 3392,
+     "shows": 27,
+     "occ": 12.42,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1071516909.9999998,
+     "lastUpdatedAt": "2025-06-09 20:53:00"
+    },
+    {
+     "label": "2025-06-10",
+     "gross": 59154,
+     "sold": 406,
+     "unsold": 3302,
+     "shows": 26,
+     "occ": 10.95,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1071576063.9999998,
+     "lastUpdatedAt": "2025-06-10 20:53:00"
+    },
+    {
+     "label": "2025-06-11",
+     "gross": 42246,
+     "sold": 250,
+     "unsold": 2856,
+     "shows": 24,
+     "occ": 8.05,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1071618309.9999998,
+     "lastUpdatedAt": "2025-06-11 20:53:00"
+    },
+    {
+     "label": "2025-06-12",
+     "gross": 38390,
+     "sold": 218,
+     "unsold": 2813,
+     "shows": 23,
+     "occ": 7.19,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1071656699.9999998,
+     "lastUpdatedAt": "2025-06-12 20:53:00"
+    },
+    {
+     "label": "2025-06-13",
+     "gross": 14663,
+     "sold": 73,
+     "unsold": 1881,
+     "shows": 15,
+     "occ": 3.74,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1071671362.9999998,
+     "lastUpdatedAt": "2025-06-13 21:13:00"
+    },
+    {
+     "label": "2025-06-14",
+     "gross": 58784,
+     "sold": 357,
+     "unsold": 1418,
+     "shows": 14,
+     "occ": 20.11,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 1071730146.9999998,
+     "lastUpdatedAt": "2025-06-14 21:13:00"
+    },
+    {
+     "label": "2025-06-15",
+     "gross": 65833,
+     "sold": 400,
+     "unsold": 1376,
+     "shows": 14,
+     "occ": 22.52,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 1071795979.9999998,
+     "lastUpdatedAt": "2025-06-15 21:13:00"
+    },
+    {
+     "label": "2025-06-16",
+     "gross": 45977,
+     "sold": 301,
+     "unsold": 1196,
+     "shows": 11,
+     "occ": 20.11,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 1071841956.9999998,
+     "lastUpdatedAt": "2025-06-16 21:13:00"
+    },
+    {
+     "label": "2025-06-17",
+     "gross": 36147,
+     "sold": 279,
+     "unsold": 1119,
+     "shows": 10,
+     "occ": 19.96,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 1071878103.9999998,
+     "lastUpdatedAt": "2025-06-17 21:13:00"
+    },
+    {
+     "label": "2025-06-18",
+     "gross": 24672.6,
+     "sold": 169,
+     "unsold": 1378,
+     "shows": 11,
+     "occ": 10.92,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 1071902776.5999998,
+     "lastUpdatedAt": "2025-06-18 21:13:00"
+    },
+    {
+     "label": "2025-06-19",
+     "gross": 8170,
+     "sold": 42,
+     "unsold": 1330,
+     "shows": 10,
+     "occ": 3.06,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 1071910946.5999998,
+     "lastUpdatedAt": "2025-06-19 21:13:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 1071910946.5999998,
+    "totalShows": 44292,
+    "totalSeats": 12130456,
+    "totalSold": 6776616,
+    "avgOcc": "55.9",
+    "totalDays": 56,
+    "totalHousefull": 3898,
+    "totalAlmost": 10734,
+    "totalFastFilling": 13249,
+    "peakDay": {
+     "day": 3,
+     "gross": 78279747,
+     "date": "2025-04-27"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 46423295.99999999,
+     "date": "2025-04-25"
+    },
+    "chartPosition": {
+     "current_position": 4,
+     "weeks_on_chart": 73,
+     "peak_position": 1,
+     "last_week_position": 4
+    }
+   },
+   "_tier": "cold",
+   "_hash": "56:8170:1071910946.5999998"
+  },
+  "week": {
+   "movie": {
+    "id": 593,
+    "title": "Thudarum",
+    "img": "https://image.tmdb.org/t/p/original/uOTDBabtxHA6szYKQNQe9Y7rFlv.jpg",
+    "released": "2025-04-25",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31969600",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "164 min",
+    "genre": "Action, Drama, Thriller",
+    "plot": "A taxi driver finds himself embroiled in a dangerous conspiracy after his car is confiscated by a corrupt police officer.",
+    "released": "2025-04-23",
+    "director": "Tharun Moorthy",
+    "directorSlug": "tharun-moorthy",
+    "actors": [
+     "Mohanlal",
+     "Shobana",
+     "Prakash Varma",
+     "Maniyanpilla Raju",
+     "Farhaan Faasil",
+     "Binu Pappu"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 15691,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:36.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Shanmughan",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Shobana",
+     "character": "Lalitha Shanmughan",
+     "slug": "shobana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/t6niRFC3xCV6hJSuyC9ACWLSVXu.jpg"
+    },
+    {
+     "name": "Prakash Varma",
+     "character": "CI George Mathan",
+     "slug": "prakash-varma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ef4W4gAPXh2PpxloNWRXaH0EJ8J.jpg"
+    },
+    {
+     "name": "Maniyanpilla Raju",
+     "character": "Kuttichan",
+     "slug": "maniyanpilla-raju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2G6JRbEXPkhCqZ0rZjzRNjip99D.jpg"
+    },
+    {
+     "name": "Farhaan Faasil",
+     "character": "CPO Sudheesh",
+     "slug": "farhaan-faasil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sXdUWl3P07h3LbvguzORYuSkyZ2.jpg"
+    },
+    {
+     "name": "Binu Pappu",
+     "character": "SI Benny",
+     "slug": "binu-pappu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zDVvCDE3cdxrAqfZ9J0LgqXfJpY.jpg"
+    },
+    {
+     "name": "Arsha Baiju",
+     "character": "Mary",
+     "slug": "arsha-baiju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lDXG6FpAp6fi1Y8hc5vAHZ2dIUG.jpg"
+    },
+    {
+     "name": "Irshad",
+     "character": "Shaji",
+     "slug": "irshad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fQNMwd91fjYETkiWe8QDD8wNdV.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Tharun Moorthy",
+       "slug": "tharun-moorthy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Tharun Moorthy",
+       "slug": "tharun-moorthy"
+      },
+      {
+       "name": "KR Sunil",
+       "slug": "kr-sunil"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shaji Kumar",
+       "slug": "shaji-kumar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nishadh Yusuf",
+       "slug": "nishadh-yusuf"
+      },
+      {
+       "name": "Shafeeque Vb",
+       "slug": "shafeeque-vb"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "M. Renjith",
+       "slug": "m-renjith"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Rejaputhra Visual Media",
+     "slug": "rejaputhra-visual-media",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-05-30",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-06-19": [
+     {
+      "id": 621,
+      "title": "28 Years Later",
+      "img": "https://image.tmdb.org/t/p/original/hVKHzr4GwSw0FepqhqQ0DDiYHNY.jpg"
+     }
+    ],
+    "2025-05-15": [
+     {
+      "id": 659,
+      "title": "Final Destination Bloodlines",
+      "img": "https://image.tmdb.org/t/p/original/txr6i5Y6nbx7t0dDx1xyzfdFum5.jpg"
+     }
+    ],
+    "2025-05-23": [
+     {
+      "id": 676,
+      "title": "Detective Ujjwalan",
+      "img": "https://image.tmdb.org/t/p/original/rVCNbMW2bmbPE2XaUMUsnA9YgAh.jpg"
+     },
+     {
+      "id": 677,
+      "title": "Narivetta",
+      "img": "https://image.tmdb.org/t/p/original/3xhdWk6y5hVUAOhW7MsBMA7wb10.jpg"
+     },
+     {
+      "id": 698,
+      "title": "Azadi",
+      "img": "https://image.tmdb.org/t/p/original/tFpHKVB9xdRJXE1nN3k0x0k4LfV.jpg"
+     }
+    ],
+    "2025-05-01": [
+     {
+      "id": 678,
+      "title": "Retro",
+      "img": "https://image.tmdb.org/t/p/original/hSTWwyjUgQCtoC9zTKcIf00Vtxo.jpg"
+     },
+     {
+      "id": 679,
+      "title": "Tourist Family",
+      "img": "https://image.tmdb.org/t/p/original/rEffPihtdQXiXfRdfq7pPM5JDqa.jpg"
+     },
+     {
+      "id": 682,
+      "title": "HIT: The Third Case",
+      "img": "https://image.tmdb.org/t/p/original/wT9tGyFol4RBwkjESXUWeBdnLJn.jpg"
+     }
+    ],
+    "2025-05-09": [
+     {
+      "id": 681,
+      "title": "Prince And Family",
+      "img": "https://image.tmdb.org/t/p/original/bsFg2yv4zeOSbch0K3xxObrvux1.jpg"
+     },
+     {
+      "id": 770,
+      "title": "Shinchan: Our Dinosaur Diary",
+      "img": "https://image.tmdb.org/t/p/original/33j42iIIfMWoq2N9wDClCu5GMpo.jpg"
+     }
+    ],
+    "2025-05-08": [
+     {
+      "id": 683,
+      "title": "Sarkeet",
+      "img": "https://image.tmdb.org/t/p/original/yruMwNKwObVwS8vbE3N6hriAdYB.jpg"
+     },
+     {
+      "id": 691,
+      "title": "Padakkalam",
+      "img": "https://image.tmdb.org/t/p/original/4YuRyFKTM17iRmFAcwbyuOyNp5E.jpg"
+     }
+    ],
+    "2025-05-17": [
+     {
+      "id": 692,
+      "title": "Mission: Impossible - The Final Reckoning",
+      "img": "https://image.tmdb.org/t/p/original/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg"
+     }
+    ],
+    "2025-05-16": [
+     {
+      "id": 693,
+      "title": "Lovely",
+      "img": "https://image.tmdb.org/t/p/original/7NERgkk39xP3q0XrP7rik4Cg1d5.jpg"
+     }
+    ],
+    "2025-05-30": [
+     {
+      "id": 699,
+      "title": "Moonwalk",
+      "img": "https://image.tmdb.org/t/p/original/bcmuVEGwGw3O7PbwXTz7Xeew5bB.jpg"
+     },
+     {
+      "id": 753,
+      "title": "Karate Kid Legends",
+      "img": "https://image.tmdb.org/t/p/original/AEgggzRr1vZCLY86MAp93li43z.jpg"
+     }
+    ],
+    "2025-06-06": [
+     {
+      "id": 700,
+      "title": "Aabhyanthara Kuttavaali",
+      "img": "https://image.tmdb.org/t/p/original/zQ4crcJm2QBX2bM8i0NuCKnnD2T.jpg"
+     }
+    ],
+    "2025-06-05": [
+     {
+      "id": 701,
+      "title": "Thug Life",
+      "img": "https://image.tmdb.org/t/p/original/DmBbUtbA3T9sdVXDgIJ8bsIDw0.jpg"
+     },
+     {
+      "id": 703,
+      "title": "Written u0026 Directed by God",
+      "img": "https://image.tmdb.org/t/p/original/vYCJihP5IQwUw9RMSmeGg7yU1FP.jpg"
+     }
+    ],
+    "2025-06-13": [
+     {
+      "id": 704,
+      "title": "Vysanasametham Bandhumithradhikal",
+      "img": "https://image.tmdb.org/t/p/original/iPy1ju7ipQCkZyFt8DTWCotcteu.jpg"
+     },
+     {
+      "id": 705,
+      "title": "Ronth",
+      "img": "https://image.tmdb.org/t/p/original/50MxvHckUkNgPI4EzjMwcWAq7ea.jpg"
+     },
+     {
+      "id": 725,
+      "title": "How to Train Your Dragon",
+      "img": "https://image.tmdb.org/t/p/original/aqZQJrJNTATO3DqQJOLYzdeJymP.jpg"
+     }
+    ],
+    "2025-04-25": [
+     {
+      "id": 754,
+      "title": "Ne Zha 2",
+      "img": "https://image.tmdb.org/t/p/original/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-04-25",
+     "gross": 435898346.40000004,
+     "sold": 2710130,
+     "unsold": 559628,
+     "shows": 12336,
+     "occ": 82.88,
+     "hf": "2734",
+     "almost": "6285",
+     "ff": "6252",
+     "cumul": 435898346.40000004,
+     "lastUpdatedAt": "2025-05-01 23:58:00"
+    },
+    {
+     "label": "2025-05-02",
+     "gross": 338572588.8,
+     "sold": 2144391,
+     "unsold": 1070655,
+     "shows": 12111,
+     "occ": 66.7,
+     "hf": "924",
+     "almost": "3228",
+     "ff": "4675",
+     "cumul": 774470935.2,
+     "lastUpdatedAt": "2025-05-08 23:58:00"
+    },
+    {
+     "label": "2025-05-09",
+     "gross": 177330479.20000005,
+     "sold": 1146166,
+     "unsold": 1361132,
+     "shows": 8731,
+     "occ": 45.71,
+     "hf": "187",
+     "almost": "943",
+     "ff": "1765",
+     "cumul": 951801414.4000001,
+     "lastUpdatedAt": "2025-05-15 23:58:00"
+    },
+    {
+     "label": "2025-05-16",
+     "gross": 86616092.20000002,
+     "sold": 561181,
+     "unsold": 1364440,
+     "shows": 6420,
+     "occ": 29.14,
+     "hf": "35",
+     "almost": "219",
+     "ff": "475",
+     "cumul": 1038417506.6000001,
+     "lastUpdatedAt": "2025-05-22 23:58:00"
+    },
+    {
+     "label": "2025-05-23",
+     "gross": 29874658.80000001,
+     "sold": 192517,
+     "unsold": 853369,
+     "shows": 3804,
+     "occ": 18.41,
+     "hf": "13",
+     "almost": "48",
+     "ff": "73",
+     "cumul": 1068292165.4000001,
+     "lastUpdatedAt": "2025-05-29 23:58:00"
+    },
+    {
+     "label": "2025-05-30",
+     "gross": 2487831,
+     "sold": 15208,
+     "unsold": 114513,
+     "shows": 629,
+     "occ": 11.72,
+     "hf": "0",
+     "almost": "5",
+     "ff": "6",
+     "cumul": 1070779996.4000001,
+     "lastUpdatedAt": "2025-06-05 22:28:00"
+    },
+    {
+     "label": "2025-06-06",
+     "gross": 876703.6,
+     "sold": 5402,
+     "unsold": 20405,
+     "shows": 176,
+     "occ": 20.93,
+     "hf": "0",
+     "almost": "1",
+     "ff": "3",
+     "cumul": 1071656700.0000001,
+     "lastUpdatedAt": "2025-06-12 20:53:00"
+    },
+    {
+     "label": "2025-06-13",
+     "gross": 254246.6,
+     "sold": 1621,
+     "unsold": 9698,
+     "shows": 85,
+     "occ": 14.32,
+     "hf": "5",
+     "almost": "5",
+     "ff": "0",
+     "cumul": 1071910946.6000001,
+     "lastUpdatedAt": "2025-06-19 21:13:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 1071910946.6000001,
+    "totalShows": 44292,
+    "totalSeats": 12130456,
+    "totalSold": 6776616,
+    "avgOcc": "55.9",
+    "totalDays": 8,
+    "totalHousefull": 3898,
+    "totalAlmost": 10734,
+    "totalFastFilling": 13249,
+    "peakDay": {
+     "day": 1,
+     "gross": 435898346.40000004
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 435898346.40000004
+    },
+    "chartPosition": {
+     "current_position": 4,
+     "weeks_on_chart": 73,
+     "peak_position": 1,
+     "last_week_position": 4
+    }
+   },
+   "_tier": "cold",
+   "_hash": "8:254246.6:1071910946.6000001"
+  },
+  "district": {
+   "movie": {
+    "id": 593,
+    "title": "Thudarum",
+    "img": "https://image.tmdb.org/t/p/original/uOTDBabtxHA6szYKQNQe9Y7rFlv.jpg",
+    "released": "2025-04-25",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt31969600",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "164 min",
+    "genre": "Action, Drama, Thriller",
+    "plot": "A taxi driver finds himself embroiled in a dangerous conspiracy after his car is confiscated by a corrupt police officer.",
+    "released": "2025-04-23",
+    "director": "Tharun Moorthy",
+    "directorSlug": "tharun-moorthy",
+    "actors": [
+     "Mohanlal",
+     "Shobana",
+     "Prakash Varma",
+     "Maniyanpilla Raju",
+     "Farhaan Faasil",
+     "Binu Pappu"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 15691,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:36.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Mohanlal",
+     "character": "Shanmughan",
+     "slug": "mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qQLZgSwskFW7VxSVfyZMV933jUU.jpg"
+    },
+    {
+     "name": "Shobana",
+     "character": "Lalitha Shanmughan",
+     "slug": "shobana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/t6niRFC3xCV6hJSuyC9ACWLSVXu.jpg"
+    },
+    {
+     "name": "Prakash Varma",
+     "character": "CI George Mathan",
+     "slug": "prakash-varma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ef4W4gAPXh2PpxloNWRXaH0EJ8J.jpg"
+    },
+    {
+     "name": "Maniyanpilla Raju",
+     "character": "Kuttichan",
+     "slug": "maniyanpilla-raju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2G6JRbEXPkhCqZ0rZjzRNjip99D.jpg"
+    },
+    {
+     "name": "Farhaan Faasil",
+     "character": "CPO Sudheesh",
+     "slug": "farhaan-faasil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sXdUWl3P07h3LbvguzORYuSkyZ2.jpg"
+    },
+    {
+     "name": "Binu Pappu",
+     "character": "SI Benny",
+     "slug": "binu-pappu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zDVvCDE3cdxrAqfZ9J0LgqXfJpY.jpg"
+    },
+    {
+     "name": "Arsha Baiju",
+     "character": "Mary",
+     "slug": "arsha-baiju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lDXG6FpAp6fi1Y8hc5vAHZ2dIUG.jpg"
+    },
+    {
+     "name": "Irshad",
+     "character": "Shaji",
+     "slug": "irshad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fQNMwd91fjYETkiWe8QDD8wNdV.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Tharun Moorthy",
+       "slug": "tharun-moorthy"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Tharun Moorthy",
+       "slug": "tharun-moorthy"
+      },
+      {
+       "name": "KR Sunil",
+       "slug": "kr-sunil"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jakes Bejoy",
+       "slug": "jakes-bejoy"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shaji Kumar",
+       "slug": "shaji-kumar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nishadh Yusuf",
+       "slug": "nishadh-yusuf"
+      },
+      {
+       "name": "Shafeeque Vb",
+       "slug": "shafeeque-vb"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "M. Renjith",
+       "slug": "m-renjith"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Rejaputhra Visual Media",
+     "slug": "rejaputhra-visual-media",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-05-30",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-06-19": [
+     {
+      "id": 621,
+      "title": "28 Years Later",
+      "img": "https://image.tmdb.org/t/p/original/hVKHzr4GwSw0FepqhqQ0DDiYHNY.jpg"
+     }
+    ],
+    "2025-05-15": [
+     {
+      "id": 659,
+      "title": "Final Destination Bloodlines",
+      "img": "https://image.tmdb.org/t/p/original/txr6i5Y6nbx7t0dDx1xyzfdFum5.jpg"
+     }
+    ],
+    "2025-05-23": [
+     {
+      "id": 676,
+      "title": "Detective Ujjwalan",
+      "img": "https://image.tmdb.org/t/p/original/rVCNbMW2bmbPE2XaUMUsnA9YgAh.jpg"
+     },
+     {
+      "id": 677,
+      "title": "Narivetta",
+      "img": "https://image.tmdb.org/t/p/original/3xhdWk6y5hVUAOhW7MsBMA7wb10.jpg"
+     },
+     {
+      "id": 698,
+      "title": "Azadi",
+      "img": "https://image.tmdb.org/t/p/original/tFpHKVB9xdRJXE1nN3k0x0k4LfV.jpg"
+     }
+    ],
+    "2025-05-01": [
+     {
+      "id": 678,
+      "title": "Retro",
+      "img": "https://image.tmdb.org/t/p/original/hSTWwyjUgQCtoC9zTKcIf00Vtxo.jpg"
+     },
+     {
+      "id": 679,
+      "title": "Tourist Family",
+      "img": "https://image.tmdb.org/t/p/original/rEffPihtdQXiXfRdfq7pPM5JDqa.jpg"
+     },
+     {
+      "id": 682,
+      "title": "HIT: The Third Case",
+      "img": "https://image.tmdb.org/t/p/original/wT9tGyFol4RBwkjESXUWeBdnLJn.jpg"
+     }
+    ],
+    "2025-05-09": [
+     {
+      "id": 681,
+      "title": "Prince And Family",
+      "img": "https://image.tmdb.org/t/p/original/bsFg2yv4zeOSbch0K3xxObrvux1.jpg"
+     },
+     {
+      "id": 770,
+      "title": "Shinchan: Our Dinosaur Diary",
+      "img": "https://image.tmdb.org/t/p/original/33j42iIIfMWoq2N9wDClCu5GMpo.jpg"
+     }
+    ],
+    "2025-05-08": [
+     {
+      "id": 683,
+      "title": "Sarkeet",
+      "img": "https://image.tmdb.org/t/p/original/yruMwNKwObVwS8vbE3N6hriAdYB.jpg"
+     },
+     {
+      "id": 691,
+      "title": "Padakkalam",
+      "img": "https://image.tmdb.org/t/p/original/4YuRyFKTM17iRmFAcwbyuOyNp5E.jpg"
+     }
+    ],
+    "2025-05-17": [
+     {
+      "id": 692,
+      "title": "Mission: Impossible - The Final Reckoning",
+      "img": "https://image.tmdb.org/t/p/original/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg"
+     }
+    ],
+    "2025-05-16": [
+     {
+      "id": 693,
+      "title": "Lovely",
+      "img": "https://image.tmdb.org/t/p/original/7NERgkk39xP3q0XrP7rik4Cg1d5.jpg"
+     }
+    ],
+    "2025-05-30": [
+     {
+      "id": 699,
+      "title": "Moonwalk",
+      "img": "https://image.tmdb.org/t/p/original/bcmuVEGwGw3O7PbwXTz7Xeew5bB.jpg"
+     },
+     {
+      "id": 753,
+      "title": "Karate Kid Legends",
+      "img": "https://image.tmdb.org/t/p/original/AEgggzRr1vZCLY86MAp93li43z.jpg"
+     }
+    ],
+    "2025-06-06": [
+     {
+      "id": 700,
+      "title": "Aabhyanthara Kuttavaali",
+      "img": "https://image.tmdb.org/t/p/original/zQ4crcJm2QBX2bM8i0NuCKnnD2T.jpg"
+     }
+    ],
+    "2025-06-05": [
+     {
+      "id": 701,
+      "title": "Thug Life",
+      "img": "https://image.tmdb.org/t/p/original/DmBbUtbA3T9sdVXDgIJ8bsIDw0.jpg"
+     },
+     {
+      "id": 703,
+      "title": "Written u0026 Directed by God",
+      "img": "https://image.tmdb.org/t/p/original/vYCJihP5IQwUw9RMSmeGg7yU1FP.jpg"
+     }
+    ],
+    "2025-06-13": [
+     {
+      "id": 704,
+      "title": "Vysanasametham Bandhumithradhikal",
+      "img": "https://image.tmdb.org/t/p/original/iPy1ju7ipQCkZyFt8DTWCotcteu.jpg"
+     },
+     {
+      "id": 705,
+      "title": "Ronth",
+      "img": "https://image.tmdb.org/t/p/original/50MxvHckUkNgPI4EzjMwcWAq7ea.jpg"
+     },
+     {
+      "id": 725,
+      "title": "How to Train Your Dragon",
+      "img": "https://image.tmdb.org/t/p/original/aqZQJrJNTATO3DqQJOLYzdeJymP.jpg"
+     }
+    ],
+    "2025-04-25": [
+     {
+      "id": 754,
+      "title": "Ne Zha 2",
+      "img": "https://image.tmdb.org/t/p/original/bTMf8M7rZ21fChGdtsZtJj4Dfqh.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 214271715,
+     "sold": 1125605,
+     "unsold": 744719,
+     "shows": 7159,
+     "occ": 60.18,
+     "hf": "799",
+     "almost": "2016",
+     "ff": "2292",
+     "cumul": 214271715,
+     "lastUpdatedAt": "2025-06-17 13:53:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 135158401,
+     "sold": 770463,
+     "unsold": 797984,
+     "shows": 5411,
+     "occ": 49.12,
+     "hf": "311",
+     "almost": "1034",
+     "ff": "1299",
+     "cumul": 349430116,
+     "lastUpdatedAt": "2025-06-19 21:13:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 133611985,
+     "sold": 921412,
+     "unsold": 836179,
+     "shows": 5769,
+     "occ": 52.42,
+     "hf": "383",
+     "almost": "1009",
+     "ff": "1492",
+     "cumul": 483042101,
+     "lastUpdatedAt": "2025-06-19 14:28:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 113747398.20000006,
+     "sold": 689146,
+     "unsold": 426736,
+     "shows": 4773,
+     "occ": 61.76,
+     "hf": "589",
+     "almost": "1615",
+     "ff": "1624",
+     "cumul": 596789499.2,
+     "lastUpdatedAt": "2025-06-19 18:42:00"
+    },
+    {
+     "label": "Kollam",
+     "gross": 80366106,
+     "sold": 514019,
+     "unsold": 439193,
+     "shows": 3215,
+     "occ": 53.92,
+     "hf": "374",
+     "almost": "844",
+     "ff": "856",
+     "cumul": 677155605.2,
+     "lastUpdatedAt": "2025-06-19 18:03:00"
+    },
+    {
+     "label": "Kannur",
+     "gross": 69909927.59999996,
+     "sold": 486108,
+     "unsold": 329130,
+     "shows": 3405,
+     "occ": 59.63,
+     "hf": "160",
+     "almost": "697",
+     "ff": "1171",
+     "cumul": 747065532.8,
+     "lastUpdatedAt": "2025-06-19 13:58:00"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 66346400.80000002,
+     "sold": 499392,
+     "unsold": 452564,
+     "shows": 3443,
+     "occ": 52.46,
+     "hf": "292",
+     "almost": "700",
+     "ff": "986",
+     "cumul": 813411933.6,
+     "lastUpdatedAt": "2025-06-05 17:44:00"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 64385199,
+     "sold": 474021,
+     "unsold": 417698,
+     "shows": 3250,
+     "occ": 53.16,
+     "hf": "330",
+     "almost": "741",
+     "ff": "836",
+     "cumul": 877797132.6,
+     "lastUpdatedAt": "2025-06-15 18:23:00"
+    },
+    {
+     "label": "Kottayam",
+     "gross": 61021095,
+     "sold": 409532,
+     "unsold": 254260,
+     "shows": 2031,
+     "occ": 61.7,
+     "hf": "143",
+     "almost": "509",
+     "ff": "722",
+     "cumul": 938818227.6,
+     "lastUpdatedAt": "2025-06-04 18:23:00"
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 47844974,
+     "sold": 303657,
+     "unsold": 174245,
+     "shows": 1597,
+     "occ": 63.54,
+     "hf": "212",
+     "almost": "583",
+     "ff": "624",
+     "cumul": 986663201.6,
+     "lastUpdatedAt": "2025-06-12 20:53:00"
+    },
+    {
+     "label": "Idukki",
+     "gross": 23350243,
+     "sold": 148300,
+     "unsold": 91532,
+     "shows": 914,
+     "occ": 61.83,
+     "hf": "71",
+     "almost": "205",
+     "ff": "322",
+     "cumul": 1010013444.6,
+     "lastUpdatedAt": "2025-06-19 18:28:00"
+    },
+    {
+     "label": "Pathanamthitta",
+     "gross": 22317940,
+     "sold": 144144,
+     "unsold": 145012,
+     "shows": 1177,
+     "occ": 49.85,
+     "hf": "104",
+     "almost": "279",
+     "ff": "316",
+     "cumul": 1032331384.6,
+     "lastUpdatedAt": "2025-06-04 21:23:00"
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 20536355,
+     "sold": 146051,
+     "unsold": 142761,
+     "shows": 1089,
+     "occ": 50.57,
+     "hf": "96",
+     "almost": "251",
+     "ff": "298",
+     "cumul": 1052867739.6,
+     "lastUpdatedAt": "2025-06-18 10:28:00"
+    },
+    {
+     "label": "Wayanad",
+     "gross": 19043207,
+     "sold": 144766,
+     "unsold": 101827,
+     "shows": 1059,
+     "occ": 58.71,
+     "hf": "34",
+     "almost": "251",
+     "ff": "411",
+     "cumul": 1071910946.6,
+     "lastUpdatedAt": "2025-05-29 20:44:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 1071910946.6,
+    "totalShows": 44292,
+    "totalSeats": 12130456,
+    "totalSold": 6776616,
+    "avgOcc": "55.9",
+    "totalDays": 14,
+    "totalHousefull": 3898,
+    "totalAlmost": 10734,
+    "totalFastFilling": 13249,
+    "peakDay": {
+     "day": 1,
+     "gross": 214271715,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 214271715,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 4,
+     "weeks_on_chart": 73,
+     "peak_position": 1,
+     "last_week_position": 4
+    }
+   },
+   "_tier": "cold",
+   "_hash": "14:19043207:1071910946.6"
+  }
+ }
+}

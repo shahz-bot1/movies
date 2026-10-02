@@ -1,0 +1,48 @@
+{
+ "slug": "amalda-liz",
+ "name": "Amalda Liz",
+ "source_url": "https://fridaymatinee.in/people/amalda-liz",
+ "captured_at": "2026-10-01T20:28:13.219818+00:00",
+ "person": {
+  "name": "Amalda Liz",
+  "photo": "https://image.tmdb.org/t/p/w185/4FcPoRJtqMLVZ0E5cadiq4Hdr0J.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 198,
+   "movie_slug": "ottu",
+   "title": "Ottu",
+   "year": 2022,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 357,
+   "movie_slug": "sulaikha-manzil",
+   "title": "Sulaikha Manzil",
+   "year": 2023,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 499,
+   "movie_slug": "bramayugam",
+   "title": "Bramayugam",
+   "year": 2024,
+   "kerala_gross": "₹18.1 Cr"
+  },
+  {
+   "movie_id": 1168,
+   "movie_slug": "odiyan",
+   "title": "Odiyan",
+   "year": 2027,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

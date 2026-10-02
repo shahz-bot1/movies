@@ -1,0 +1,48 @@
+{
+ "slug": "sethu-lakshmi",
+ "name": "Sethu Lakshmi",
+ "source_url": "https://fridaymatinee.in/people/sethu-lakshmi",
+ "captured_at": "2026-10-02T10:22:19.387489+00:00",
+ "person": {
+  "name": "Sethu Lakshmi",
+  "photo": "https://image.tmdb.org/t/p/w185/iCzxlc0AD2K7j9ySrVMNcPFlyAK.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 58,
+   "movie_slug": "mariyam-vannu-vilakkoothi",
+   "title": "Mariyam Vannu Vilakkoothi",
+   "year": 2020,
+   "kerala_gross": "₹23.7L"
+  },
+  {
+   "movie_id": 90,
+   "movie_slug": "ellam-sheriyakum",
+   "title": "Ellam Sheriyakum",
+   "year": 2021,
+   "kerala_gross": "₹98.6L"
+  },
+  {
+   "movie_id": 139,
+   "movie_slug": "jack-n-jill",
+   "title": "Jack N Jill",
+   "year": 2022,
+   "kerala_gross": "₹37.5L"
+  },
+  {
+   "movie_id": 880,
+   "movie_slug": "innocent",
+   "title": "Innocent",
+   "year": 2025,
+   "kerala_gross": "₹1.0 Cr"
+  }
+ ]
+}

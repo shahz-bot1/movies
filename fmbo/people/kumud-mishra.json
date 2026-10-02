@@ -1,0 +1,55 @@
+{
+ "slug": "kumud-mishra",
+ "name": "Kumud Mishra",
+ "source_url": "https://fridaymatinee.in/people/kumud-mishra",
+ "captured_at": "2026-10-01T23:55:10.821481+00:00",
+ "person": {
+  "name": "Kumud Mishra",
+  "photo": "https://image.tmdb.org/t/p/w185/pM4eD7eIEPk2Lx0c5C1K201qnp6.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 459,
+   "movie_slug": "tiger-3",
+   "title": "Tiger 3",
+   "year": 2023,
+   "kerala_gross": "₹1.9 Cr"
+  },
+  {
+   "movie_id": 729,
+   "movie_slug": "the-diplomat",
+   "title": "The Diplomat",
+   "year": 2025,
+   "kerala_gross": "₹12.7L"
+  },
+  {
+   "movie_id": 840,
+   "movie_slug": "nishaanchi",
+   "title": "Nishaanchi",
+   "year": 2025,
+   "kerala_gross": "₹52K"
+  },
+  {
+   "movie_id": 1015,
+   "movie_slug": "assi",
+   "title": "Assi",
+   "year": 2026,
+   "kerala_gross": "₹1.9L"
+  },
+  {
+   "movie_id": 1147,
+   "movie_slug": "main-vaapas-aaunga",
+   "title": "Main Vaapas Aaunga",
+   "year": 2026,
+   "kerala_gross": "₹16.8L"
+  }
+ ]
+}

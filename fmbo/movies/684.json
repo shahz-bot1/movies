@@ -1,0 +1,679 @@
+{
+ "id": 684,
+ "slug": "snow-white",
+ "source_url": "https://fridaymatinee.in/boxoffice/snow-white-684",
+ "captured_at": "2026-10-01T18:19:22.850891+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 684,
+    "title": "Snow White",
+    "img": "https://image.tmdb.org/t/p/original/13iAm4aXBvnXBBSxUjtU2USzL6S.jpg",
+    "released": "2025-03-21",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt6208148",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG",
+    "runtime": "109 min",
+    "genre": "Family, Fantasy",
+    "plot": "Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the castle when the Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young bandit named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom.",
+    "released": "2025-03-19",
+    "director": "Marc Webb",
+    "directorSlug": "marc-webb",
+    "actors": [
+     "Rachel Zegler",
+     "Emilia Faucher",
+     "Gal Gadot",
+     "Andrew Burnap",
+     "Andrew Barth Feldman",
+     "Jeremy Swift"
+    ],
+    "awards": "3 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "2.2",
+      "votes": 398599,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "4.3",
+      "votes": 1744,
+      "updatedAt": "2026-09-24T16:11:08.000Z"
+     },
+     "rt": null,
+     "metascore": 50,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Rachel Zegler",
+     "character": "Snow White",
+     "slug": "rachel-zegler",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jIesKmqbIDrKIarN2g0YPWS1YV.jpg"
+    },
+    {
+     "name": "Emilia Faucher",
+     "character": "Young Snow White",
+     "slug": "emilia-faucher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qBgjXq2a3g2xzzoCxBPYn7axq5v.jpg"
+    },
+    {
+     "name": "Gal Gadot",
+     "character": "Evil Queen",
+     "slug": "gal-gadot",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg"
+    },
+    {
+     "name": "Andrew Burnap",
+     "character": "Jonathan",
+     "slug": "andrew-burnap",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/SEFcP5hIIsmOE8G3SZxa2v8pyO.jpg"
+    },
+    {
+     "name": "Andrew Barth Feldman",
+     "character": "Dopey / Narrator (voice)",
+     "slug": "andrew-barth-feldman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/17rLE4Q4gKejJp1TsByGnzMpK00.jpg"
+    },
+    {
+     "name": "Jeremy Swift",
+     "character": "Doc (voice)",
+     "slug": "jeremy-swift",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z7rFu02dVOkH3wyvHvPd2k3in7a.jpg"
+    },
+    {
+     "name": "Jason Kravits",
+     "character": "Sneezy (voice)",
+     "slug": "jason-kravits",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kTaZGtOP3SR6kosdRLyeQayfjcF.jpg"
+    },
+    {
+     "name": "Martin Klebba",
+     "character": "Grumpy (voice)",
+     "slug": "martin-klebba",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/schnhMaXtfv5EC7EJODTgMcfzPe.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Marc Webb",
+       "slug": "marc-webb"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Erin Cressida Wilson",
+       "slug": "erin-cressida-wilson"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jeff Morrow",
+       "slug": "jeff-morrow"
+      },
+      {
+       "name": "Frank Churchill",
+       "slug": "frank-churchill"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mandy Walker",
+       "slug": "mandy-walker"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Mark Sanger",
+       "slug": "mark-sanger"
+      },
+      {
+       "name": "Sarah Broshar",
+       "slug": "sarah-broshar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Marc Platt",
+       "slug": "marc-platt"
+      },
+      {
+       "name": "Jared LeBoff",
+       "slug": "jared-leboff"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Walt Disney Pictures",
+     "slug": "walt-disney-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/wdrCwmRnLFJhEoH8GSfymY85KHT.png"
+    },
+    {
+     "name": "Marc Platt Productions",
+     "slug": "marc-platt-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-06-11",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1758921,
+    "totalShows": 445,
+    "totalDays": 21,
+    "openingDay": {
+     "day": 1,
+     "gross": 212790,
+     "date": "2025-03-21"
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 341410,
+     "date": "2025-03-22"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-03-21"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 684,
+    "title": "Snow White",
+    "img": "https://image.tmdb.org/t/p/original/13iAm4aXBvnXBBSxUjtU2USzL6S.jpg",
+    "released": "2025-03-21",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt6208148",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG",
+    "runtime": "109 min",
+    "genre": "Family, Fantasy",
+    "plot": "Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the castle when the Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young bandit named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom.",
+    "released": "2025-03-19",
+    "director": "Marc Webb",
+    "directorSlug": "marc-webb",
+    "actors": [
+     "Rachel Zegler",
+     "Emilia Faucher",
+     "Gal Gadot",
+     "Andrew Burnap",
+     "Andrew Barth Feldman",
+     "Jeremy Swift"
+    ],
+    "awards": "3 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "2.2",
+      "votes": 398599,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "4.3",
+      "votes": 1744,
+      "updatedAt": "2026-09-24T16:11:08.000Z"
+     },
+     "rt": null,
+     "metascore": 50,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Rachel Zegler",
+     "character": "Snow White",
+     "slug": "rachel-zegler",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jIesKmqbIDrKIarN2g0YPWS1YV.jpg"
+    },
+    {
+     "name": "Emilia Faucher",
+     "character": "Young Snow White",
+     "slug": "emilia-faucher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qBgjXq2a3g2xzzoCxBPYn7axq5v.jpg"
+    },
+    {
+     "name": "Gal Gadot",
+     "character": "Evil Queen",
+     "slug": "gal-gadot",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg"
+    },
+    {
+     "name": "Andrew Burnap",
+     "character": "Jonathan",
+     "slug": "andrew-burnap",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/SEFcP5hIIsmOE8G3SZxa2v8pyO.jpg"
+    },
+    {
+     "name": "Andrew Barth Feldman",
+     "character": "Dopey / Narrator (voice)",
+     "slug": "andrew-barth-feldman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/17rLE4Q4gKejJp1TsByGnzMpK00.jpg"
+    },
+    {
+     "name": "Jeremy Swift",
+     "character": "Doc (voice)",
+     "slug": "jeremy-swift",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z7rFu02dVOkH3wyvHvPd2k3in7a.jpg"
+    },
+    {
+     "name": "Jason Kravits",
+     "character": "Sneezy (voice)",
+     "slug": "jason-kravits",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kTaZGtOP3SR6kosdRLyeQayfjcF.jpg"
+    },
+    {
+     "name": "Martin Klebba",
+     "character": "Grumpy (voice)",
+     "slug": "martin-klebba",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/schnhMaXtfv5EC7EJODTgMcfzPe.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Marc Webb",
+       "slug": "marc-webb"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Erin Cressida Wilson",
+       "slug": "erin-cressida-wilson"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jeff Morrow",
+       "slug": "jeff-morrow"
+      },
+      {
+       "name": "Frank Churchill",
+       "slug": "frank-churchill"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mandy Walker",
+       "slug": "mandy-walker"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Mark Sanger",
+       "slug": "mark-sanger"
+      },
+      {
+       "name": "Sarah Broshar",
+       "slug": "sarah-broshar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Marc Platt",
+       "slug": "marc-platt"
+      },
+      {
+       "name": "Jared LeBoff",
+       "slug": "jared-leboff"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Walt Disney Pictures",
+     "slug": "walt-disney-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/wdrCwmRnLFJhEoH8GSfymY85KHT.png"
+    },
+    {
+     "name": "Marc Platt Productions",
+     "slug": "marc-platt-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-06-11",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-03-21",
+     "gross": 1311804,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 400,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-03-28",
+     "gross": 333931,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 28,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-04-04",
+     "gross": 113186,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 17,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1758921,
+    "totalShows": 445,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 1311804
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1311804
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-03-21"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 684,
+    "title": "Snow White",
+    "img": "https://image.tmdb.org/t/p/original/13iAm4aXBvnXBBSxUjtU2USzL6S.jpg",
+    "released": "2025-03-21",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt6208148",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG",
+    "runtime": "109 min",
+    "genre": "Family, Fantasy",
+    "plot": "Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the castle when the Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young bandit named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom.",
+    "released": "2025-03-19",
+    "director": "Marc Webb",
+    "directorSlug": "marc-webb",
+    "actors": [
+     "Rachel Zegler",
+     "Emilia Faucher",
+     "Gal Gadot",
+     "Andrew Burnap",
+     "Andrew Barth Feldman",
+     "Jeremy Swift"
+    ],
+    "awards": "3 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "2.2",
+      "votes": 398599,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "4.3",
+      "votes": 1744,
+      "updatedAt": "2026-09-24T16:11:08.000Z"
+     },
+     "rt": null,
+     "metascore": 50,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Rachel Zegler",
+     "character": "Snow White",
+     "slug": "rachel-zegler",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jIesKmqbIDrKIarN2g0YPWS1YV.jpg"
+    },
+    {
+     "name": "Emilia Faucher",
+     "character": "Young Snow White",
+     "slug": "emilia-faucher",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qBgjXq2a3g2xzzoCxBPYn7axq5v.jpg"
+    },
+    {
+     "name": "Gal Gadot",
+     "character": "Evil Queen",
+     "slug": "gal-gadot",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/AbXKtWQwuDiwhoQLh34VRglwuBE.jpg"
+    },
+    {
+     "name": "Andrew Burnap",
+     "character": "Jonathan",
+     "slug": "andrew-burnap",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/SEFcP5hIIsmOE8G3SZxa2v8pyO.jpg"
+    },
+    {
+     "name": "Andrew Barth Feldman",
+     "character": "Dopey / Narrator (voice)",
+     "slug": "andrew-barth-feldman",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/17rLE4Q4gKejJp1TsByGnzMpK00.jpg"
+    },
+    {
+     "name": "Jeremy Swift",
+     "character": "Doc (voice)",
+     "slug": "jeremy-swift",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z7rFu02dVOkH3wyvHvPd2k3in7a.jpg"
+    },
+    {
+     "name": "Jason Kravits",
+     "character": "Sneezy (voice)",
+     "slug": "jason-kravits",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kTaZGtOP3SR6kosdRLyeQayfjcF.jpg"
+    },
+    {
+     "name": "Martin Klebba",
+     "character": "Grumpy (voice)",
+     "slug": "martin-klebba",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/schnhMaXtfv5EC7EJODTgMcfzPe.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Marc Webb",
+       "slug": "marc-webb"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Erin Cressida Wilson",
+       "slug": "erin-cressida-wilson"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jeff Morrow",
+       "slug": "jeff-morrow"
+      },
+      {
+       "name": "Frank Churchill",
+       "slug": "frank-churchill"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mandy Walker",
+       "slug": "mandy-walker"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Mark Sanger",
+       "slug": "mark-sanger"
+      },
+      {
+       "name": "Sarah Broshar",
+       "slug": "sarah-broshar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Marc Platt",
+       "slug": "marc-platt"
+      },
+      {
+       "name": "Jared LeBoff",
+       "slug": "jared-leboff"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Walt Disney Pictures",
+     "slug": "walt-disney-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/wdrCwmRnLFJhEoH8GSfymY85KHT.png"
+    },
+    {
+     "name": "Marc Platt Productions",
+     "slug": "marc-platt-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-06-11",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 1758921,
+    "totalShows": 445,
+    "totalDays": 10,
+    "openingDay": {
+     "day": 1,
+     "gross": 701096,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 701096,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-03-21"
+   }
+  }
+ }
+}

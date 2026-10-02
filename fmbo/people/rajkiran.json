@@ -1,0 +1,48 @@
+{
+ "slug": "rajkiran",
+ "name": "Rajkiran",
+ "source_url": "https://fridaymatinee.in/people/rajkiran",
+ "captured_at": "2026-10-02T08:34:36.376292+00:00",
+ "person": {
+  "name": "Rajkiran",
+  "photo": "https://image.tmdb.org/t/p/w185/pOtBIgS3433WmLM23TKGdz5UGTi.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 56,
+   "movie_slug": "shylock",
+   "title": "Shylock",
+   "year": 2020,
+   "kerala_gross": "₹7.1 Cr"
+  },
+  {
+   "movie_id": 580,
+   "movie_slug": "meiyazhagan",
+   "title": "Meiyazhagan",
+   "year": 2024,
+   "kerala_gross": "₹67.2L"
+  },
+  {
+   "movie_id": 854,
+   "movie_slug": "idli-kadai",
+   "title": "Idli Kadai",
+   "year": 2025,
+   "kerala_gross": "₹80.6L"
+  },
+  {
+   "movie_id": 963,
+   "movie_slug": "vaa-vaathiyaar",
+   "title": "Vaa Vaathiyaar",
+   "year": 2026,
+   "kerala_gross": "₹45.0L"
+  }
+ ]
+}

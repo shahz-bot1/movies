@@ -1,0 +1,941 @@
+{
+ "id": 1302,
+ "slug": "heart-of-the-beast",
+ "source_url": "https://fridaymatinee.in/boxoffice/heart-of-the-beast-1302",
+ "captured_at": "2026-10-01T19:57:26.139392+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1302,
+    "title": "Heart of the Beast",
+    "img": "https://image.tmdb.org/t/p/original/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "released": "2026-09-25",
+    "language": "English",
+    "live": "on",
+    "pretrack": "off",
+    "imdbId": "tt7526136",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "101 min",
+    "genre": "Adventure, Thriller",
+    "plot": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "released": "2026-09-19",
+    "director": "David Ayer",
+    "directorSlug": "david-ayer",
+    "actors": [
+     "Brad Pitt",
+     "J.K. Simmons",
+     "Anna Lambe",
+     "Justin Melnick",
+     "Shaun DeZern"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 10985,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 160,
+      "updatedAt": "2026-10-01T13:10:04.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T13:10:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Brad Pitt",
+     "character": "James Belmont",
+     "slug": "brad-pitt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+    },
+    {
+     "name": "J.K. Simmons",
+     "character": "Watkins",
+     "slug": "j-k-simmons",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    },
+    {
+     "name": "Anna Lambe",
+     "character": "Amber",
+     "slug": "anna-lambe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cKm5ZnAOVc6nD8KAgSDMJdZclYH.jpg"
+    },
+    {
+     "name": "Justin Melnick",
+     "character": "Military Soldier",
+     "slug": "justin-melnick",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sE5W8tononGWHKH2Z6GLeUHXeyP.jpg"
+    },
+    {
+     "name": "Shaun DeZern",
+     "character": "Military Soldier",
+     "slug": "shaun-dezern",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iORM61n9AM6ldFm7C4t8dm9pRLq.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "David Ayer",
+       "slug": "david-ayer"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Cameron Alexander",
+       "slug": "cameron-alexander"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jared Michael Fry",
+       "slug": "jared-michael-fry"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mauro Fiore",
+       "slug": "mauro-fiore"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Dody Dorn",
+       "slug": "dody-dorn"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Olivia Hamilton",
+       "slug": "olivia-hamilton"
+      },
+      {
+       "name": "David Ayer",
+       "slug": "david-ayer"
+      },
+      {
+       "name": "Marty Bowen",
+       "slug": "marty-bowen"
+      },
+      {
+       "name": "Brad Pitt",
+       "slug": "brad-pitt"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+     "name": "Wild Chickens Productions",
+     "slug": "wild-chickens-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/lyL2Lzk3A4l8pdCruqV5injP6iO.png"
+    },
+    {
+     "name": "Temple Hill Entertainment",
+     "slug": "temple-hill-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/5J93SHsuvIV32AE9oSbMi02pqw9.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    },
+    {
+     "name": "GulfStream Pictures",
+     "slug": "gulfstream-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/7hBlD2RPUo6LHgSDSSnyYuXdigU.png"
+    },
+    {
+     "name": "Kino World",
+     "slug": "kino-world",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-25": [
+     {
+      "id": 1224,
+      "title": "Primetime",
+      "img": "https://image.tmdb.org/t/p/original/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
+     },
+     {
+      "id": 1258,
+      "title": "Dhoomakethu",
+      "img": "https://image.tmdb.org/t/p/original/sxXFjKj3tFKcSJ9VtxRaDc3cbiw.jpg"
+     },
+     {
+      "id": 1288,
+      "title": "Avengers Endgame: Encore",
+      "img": "https://image.tmdb.org/t/p/original/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+     }
+    ],
+    "2026-10-01": [
+     {
+      "id": 1330,
+      "title": "Baththa",
+      "img": "https://m.media-amazon.com/images/M/MV5BNjRmZGFjMDctMzRiNS00MmIwLTliYmMtODY5ZGFkOTE5YmFkXkEyXkFqcGc@._V1_.jpg"
+     },
+     {
+      "id": 1331,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "img": "https://image.tmdb.org/t/p/original/wdWQA1IVCYiTTEZMSnWl1tzhBd3.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-09-25",
+     "gross": 559630,
+     "sold": 2218,
+     "unsold": 5253,
+     "shows": 47,
+     "occ": 29.69,
+     "hf": "0",
+     "almost": "2",
+     "ff": "1",
+     "cumul": 559630,
+     "lastUpdatedAt": "2026-09-25 23:33:01"
+    },
+    {
+     "label": "2026-09-26",
+     "gross": 897941,
+     "sold": 3652,
+     "unsold": 3012,
+     "shows": 47,
+     "occ": 54.8,
+     "hf": "0",
+     "almost": "10",
+     "ff": "12",
+     "cumul": 1457571,
+     "lastUpdatedAt": "2026-09-26 23:33:01"
+    },
+    {
+     "label": "2026-09-27",
+     "gross": 1146738,
+     "sold": 4664,
+     "unsold": 2375,
+     "shows": 50,
+     "occ": 66.26,
+     "hf": "2",
+     "almost": "13",
+     "ff": "17",
+     "cumul": 2604309,
+     "lastUpdatedAt": "2026-09-27 23:39:01"
+    },
+    {
+     "label": "2026-09-28",
+     "gross": 938667,
+     "sold": 4146,
+     "unsold": 5723,
+     "shows": 59,
+     "occ": 42.01,
+     "hf": "1",
+     "almost": "5",
+     "ff": "3",
+     "cumul": 3542976,
+     "lastUpdatedAt": "2026-09-28 23:53:01"
+    },
+    {
+     "label": "2026-09-29",
+     "gross": 919331,
+     "sold": 4367,
+     "unsold": 6576,
+     "shows": 65,
+     "occ": 39.91,
+     "hf": "0",
+     "almost": "3",
+     "ff": "5",
+     "cumul": 4462307,
+     "lastUpdatedAt": "2026-09-29 23:53:01"
+    },
+    {
+     "label": "2026-09-30",
+     "gross": 894489,
+     "sold": 4109,
+     "unsold": 7219,
+     "shows": 70,
+     "occ": 36.27,
+     "hf": "0",
+     "almost": "3",
+     "ff": "3",
+     "cumul": 5356796,
+     "lastUpdatedAt": "2026-09-30 23:53:01"
+    },
+    {
+     "label": "2026-10-01",
+     "gross": 1002741,
+     "sold": 4395,
+     "unsold": 5912,
+     "shows": 59,
+     "occ": 42.64,
+     "hf": "0",
+     "almost": "5",
+     "ff": "7",
+     "cumul": 6359537,
+     "lastUpdatedAt": "2026-10-01 23:53:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 6359537,
+    "totalShows": 397,
+    "totalSeats": 63621,
+    "totalSold": 27551,
+    "avgOcc": "43.3",
+    "totalDays": 7,
+    "totalHousefull": 3,
+    "totalAlmost": 41,
+    "totalFastFilling": 48,
+    "peakDay": {
+     "day": 3,
+     "gross": 1146738,
+     "date": "2026-09-27"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 559630,
+     "date": "2026-09-25"
+    },
+    "chartPosition": null
+   },
+   "_tier": "hot",
+   "_hash": "7:1002741:6359537"
+  },
+  "week": {
+   "movie": {
+    "id": 1302,
+    "title": "Heart of the Beast",
+    "img": "https://image.tmdb.org/t/p/original/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "released": "2026-09-25",
+    "language": "English",
+    "live": "on",
+    "pretrack": "off",
+    "imdbId": "tt7526136",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "101 min",
+    "genre": "Adventure, Thriller",
+    "plot": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "released": "2026-09-19",
+    "director": "David Ayer",
+    "directorSlug": "david-ayer",
+    "actors": [
+     "Brad Pitt",
+     "J.K. Simmons",
+     "Anna Lambe",
+     "Justin Melnick",
+     "Shaun DeZern"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 10985,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 160,
+      "updatedAt": "2026-10-01T13:10:04.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T13:10:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Brad Pitt",
+     "character": "James Belmont",
+     "slug": "brad-pitt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+    },
+    {
+     "name": "J.K. Simmons",
+     "character": "Watkins",
+     "slug": "j-k-simmons",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    },
+    {
+     "name": "Anna Lambe",
+     "character": "Amber",
+     "slug": "anna-lambe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cKm5ZnAOVc6nD8KAgSDMJdZclYH.jpg"
+    },
+    {
+     "name": "Justin Melnick",
+     "character": "Military Soldier",
+     "slug": "justin-melnick",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sE5W8tononGWHKH2Z6GLeUHXeyP.jpg"
+    },
+    {
+     "name": "Shaun DeZern",
+     "character": "Military Soldier",
+     "slug": "shaun-dezern",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iORM61n9AM6ldFm7C4t8dm9pRLq.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "David Ayer",
+       "slug": "david-ayer"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Cameron Alexander",
+       "slug": "cameron-alexander"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jared Michael Fry",
+       "slug": "jared-michael-fry"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mauro Fiore",
+       "slug": "mauro-fiore"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Dody Dorn",
+       "slug": "dody-dorn"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Olivia Hamilton",
+       "slug": "olivia-hamilton"
+      },
+      {
+       "name": "David Ayer",
+       "slug": "david-ayer"
+      },
+      {
+       "name": "Marty Bowen",
+       "slug": "marty-bowen"
+      },
+      {
+       "name": "Brad Pitt",
+       "slug": "brad-pitt"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+     "name": "Wild Chickens Productions",
+     "slug": "wild-chickens-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/lyL2Lzk3A4l8pdCruqV5injP6iO.png"
+    },
+    {
+     "name": "Temple Hill Entertainment",
+     "slug": "temple-hill-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/5J93SHsuvIV32AE9oSbMi02pqw9.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    },
+    {
+     "name": "GulfStream Pictures",
+     "slug": "gulfstream-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/7hBlD2RPUo6LHgSDSSnyYuXdigU.png"
+    },
+    {
+     "name": "Kino World",
+     "slug": "kino-world",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-25": [
+     {
+      "id": 1224,
+      "title": "Primetime",
+      "img": "https://image.tmdb.org/t/p/original/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
+     },
+     {
+      "id": 1258,
+      "title": "Dhoomakethu",
+      "img": "https://image.tmdb.org/t/p/original/sxXFjKj3tFKcSJ9VtxRaDc3cbiw.jpg"
+     },
+     {
+      "id": 1288,
+      "title": "Avengers Endgame: Encore",
+      "img": "https://image.tmdb.org/t/p/original/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+     }
+    ],
+    "2026-10-01": [
+     {
+      "id": 1330,
+      "title": "Baththa",
+      "img": "https://m.media-amazon.com/images/M/MV5BNjRmZGFjMDctMzRiNS00MmIwLTliYmMtODY5ZGFkOTE5YmFkXkEyXkFqcGc@._V1_.jpg"
+     },
+     {
+      "id": 1331,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "img": "https://image.tmdb.org/t/p/original/wdWQA1IVCYiTTEZMSnWl1tzhBd3.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-09-25",
+     "gross": 6359537,
+     "sold": 27551,
+     "unsold": 36070,
+     "shows": 397,
+     "occ": 43.3,
+     "hf": "3",
+     "almost": "41",
+     "ff": "48",
+     "cumul": 6359537,
+     "lastUpdatedAt": "2026-10-01 23:53:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 6359537,
+    "totalShows": 397,
+    "totalSeats": 63621,
+    "totalSold": 27551,
+    "avgOcc": "43.3",
+    "totalDays": 1,
+    "totalHousefull": 3,
+    "totalAlmost": 41,
+    "totalFastFilling": 48,
+    "peakDay": {
+     "day": 1,
+     "gross": 6359537
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 6359537
+    },
+    "chartPosition": null
+   },
+   "_tier": "hot",
+   "_hash": "1:6359537:6359537"
+  },
+  "district": {
+   "movie": {
+    "id": 1302,
+    "title": "Heart of the Beast",
+    "img": "https://image.tmdb.org/t/p/original/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "released": "2026-09-25",
+    "language": "English",
+    "live": "on",
+    "pretrack": "off",
+    "imdbId": "tt7526136",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "101 min",
+    "genre": "Adventure, Thriller",
+    "plot": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "released": "2026-09-19",
+    "director": "David Ayer",
+    "directorSlug": "david-ayer",
+    "actors": [
+     "Brad Pitt",
+     "J.K. Simmons",
+     "Anna Lambe",
+     "Justin Melnick",
+     "Shaun DeZern"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.3",
+      "votes": 10985,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 160,
+      "updatedAt": "2026-10-01T13:10:04.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-10-01T13:10:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Brad Pitt",
+     "character": "James Belmont",
+     "slug": "brad-pitt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+    },
+    {
+     "name": "J.K. Simmons",
+     "character": "Watkins",
+     "slug": "j-k-simmons",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    },
+    {
+     "name": "Anna Lambe",
+     "character": "Amber",
+     "slug": "anna-lambe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cKm5ZnAOVc6nD8KAgSDMJdZclYH.jpg"
+    },
+    {
+     "name": "Justin Melnick",
+     "character": "Military Soldier",
+     "slug": "justin-melnick",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sE5W8tononGWHKH2Z6GLeUHXeyP.jpg"
+    },
+    {
+     "name": "Shaun DeZern",
+     "character": "Military Soldier",
+     "slug": "shaun-dezern",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iORM61n9AM6ldFm7C4t8dm9pRLq.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "David Ayer",
+       "slug": "david-ayer"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Cameron Alexander",
+       "slug": "cameron-alexander"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Jared Michael Fry",
+       "slug": "jared-michael-fry"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mauro Fiore",
+       "slug": "mauro-fiore"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Dody Dorn",
+       "slug": "dody-dorn"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Olivia Hamilton",
+       "slug": "olivia-hamilton"
+      },
+      {
+       "name": "David Ayer",
+       "slug": "david-ayer"
+      },
+      {
+       "name": "Marty Bowen",
+       "slug": "marty-bowen"
+      },
+      {
+       "name": "Brad Pitt",
+       "slug": "brad-pitt"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+     "name": "Wild Chickens Productions",
+     "slug": "wild-chickens-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/lyL2Lzk3A4l8pdCruqV5injP6iO.png"
+    },
+    {
+     "name": "Temple Hill Entertainment",
+     "slug": "temple-hill-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/5J93SHsuvIV32AE9oSbMi02pqw9.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "slug": "domain-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    },
+    {
+     "name": "GulfStream Pictures",
+     "slug": "gulfstream-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/7hBlD2RPUo6LHgSDSSnyYuXdigU.png"
+    },
+    {
+     "name": "Kino World",
+     "slug": "kino-world",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "otherReleases": {
+    "2026-09-25": [
+     {
+      "id": 1224,
+      "title": "Primetime",
+      "img": "https://image.tmdb.org/t/p/original/lmrulvLbmaejTix1YaMxo1oGhH1.jpg"
+     },
+     {
+      "id": 1258,
+      "title": "Dhoomakethu",
+      "img": "https://image.tmdb.org/t/p/original/sxXFjKj3tFKcSJ9VtxRaDc3cbiw.jpg"
+     },
+     {
+      "id": 1288,
+      "title": "Avengers Endgame: Encore",
+      "img": "https://image.tmdb.org/t/p/original/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg"
+     }
+    ],
+    "2026-10-01": [
+     {
+      "id": 1330,
+      "title": "Baththa",
+      "img": "https://m.media-amazon.com/images/M/MV5BNjRmZGFjMDctMzRiNS00MmIwLTliYmMtODY5ZGFkOTE5YmFkXkEyXkFqcGc@._V1_.jpg"
+     },
+     {
+      "id": 1331,
+      "title": "Yezhu Kadal Yezhu Malai",
+      "img": "https://image.tmdb.org/t/p/original/wdWQA1IVCYiTTEZMSnWl1tzhBd3.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 2947327,
+     "sold": 12713,
+     "unsold": 13017,
+     "shows": 147,
+     "occ": 49.41,
+     "hf": "1",
+     "almost": "20",
+     "ff": "24",
+     "cumul": 2947327,
+     "lastUpdatedAt": "2026-10-01 23:23:01"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 1409400,
+     "sold": 5813,
+     "unsold": 6437,
+     "shows": 78,
+     "occ": 47.45,
+     "hf": "1",
+     "almost": "13",
+     "ff": "17",
+     "cumul": 4356727,
+     "lastUpdatedAt": "2026-10-01 22:33:01"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 787741,
+     "sold": 3563,
+     "unsold": 5614,
+     "shows": 61,
+     "occ": 38.83,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 5144468,
+     "lastUpdatedAt": "2026-10-01 23:28:01"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 692606,
+     "sold": 3009,
+     "unsold": 2911,
+     "shows": 41,
+     "occ": 50.83,
+     "hf": "0",
+     "almost": "7",
+     "ff": "7",
+     "cumul": 5837074,
+     "lastUpdatedAt": "2026-10-01 23:43:01"
+    },
+    {
+     "label": "Kannur",
+     "gross": 203970,
+     "sold": 804,
+     "unsold": 1964,
+     "shows": 20,
+     "occ": 29.05,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 6041044,
+     "lastUpdatedAt": "2026-10-01 23:53:01"
+    },
+    {
+     "label": "Kollam",
+     "gross": 117730,
+     "sold": 558,
+     "unsold": 870,
+     "shows": 14,
+     "occ": 39.08,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 6158774,
+     "lastUpdatedAt": "2026-10-01 17:43:01"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 83257,
+     "sold": 467,
+     "unsold": 1280,
+     "shows": 13,
+     "occ": 26.73,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 6242031,
+     "lastUpdatedAt": "2026-09-30 17:13:01"
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 65310,
+     "sold": 373,
+     "unsold": 3515,
+     "shows": 16,
+     "occ": 9.59,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 6307341,
+     "lastUpdatedAt": "2026-10-01 21:29:01"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 52196,
+     "sold": 251,
+     "unsold": 462,
+     "shows": 7,
+     "occ": 35.2,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 6359537,
+     "lastUpdatedAt": "2026-10-01 21:58:01"
+    }
+   ],
+   "summary": {
+    "totalGross": 6359537,
+    "totalShows": 397,
+    "totalSeats": 63621,
+    "totalSold": 27551,
+    "avgOcc": "43.3",
+    "totalDays": 9,
+    "totalHousefull": 3,
+    "totalAlmost": 41,
+    "totalFastFilling": 48,
+    "peakDay": {
+     "day": 1,
+     "gross": 2947327,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 2947327,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "hot",
+   "_hash": "9:52196:6359537"
+  }
+ }
+}

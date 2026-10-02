@@ -1,0 +1,41 @@
+{
+ "slug": "anu-moothedath",
+ "name": "Anu Moothedath",
+ "source_url": "https://fridaymatinee.in/people/anu-moothedath",
+ "captured_at": "2026-10-01T20:46:13.179437+00:00",
+ "person": {
+  "name": "Anu Moothedath",
+  "photo": null,
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 250,
+   "movie_slug": "the-teacher",
+   "title": "The Teacher",
+   "year": 2022,
+   "kerala_gross": "₹19.4L"
+  },
+  {
+   "movie_id": 691,
+   "movie_slug": "padakkalam",
+   "title": "Padakkalam",
+   "year": 2025,
+   "kerala_gross": "₹10.6 Cr"
+  },
+  {
+   "movie_id": 722,
+   "movie_slug": "hridayapoorvam",
+   "title": "Hridayapoorvam",
+   "year": 2025,
+   "kerala_gross": "₹37.0 Cr"
+  }
+ ]
+}

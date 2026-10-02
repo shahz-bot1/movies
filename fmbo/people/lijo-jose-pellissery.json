@@ -1,0 +1,56 @@
+{
+ "slug": "lijo-jose-pellissery",
+ "name": "Lijo Jose Pellissery",
+ "source_url": "https://fridaymatinee.in/people/lijo-jose-pellissery",
+ "captured_at": "2026-10-02T00:01:52.103916+00:00",
+ "person": {
+  "name": "Lijo Jose Pellissery",
+  "photo": "https://image.tmdb.org/t/p/w185/o9FdqNyBc7Z2wZJYvm4H7MKwTM0.jpg",
+  "role": "Director, actor, producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 3
+  },
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 1
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 13,
+   "movie_slug": "jallikattu",
+   "title": "Jallikattu",
+   "year": 2019,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 277,
+   "movie_slug": "nanpakal-nerathu-mayakkam",
+   "title": "Nanpakal Nerathu Mayakkam",
+   "year": 2023,
+   "kerala_gross": "₹3.5 Cr"
+  },
+  {
+   "movie_id": 418,
+   "movie_slug": "malaikottai-vaaliban",
+   "title": "Malaikottai Vaaliban",
+   "year": 2024,
+   "kerala_gross": "₹10.5 Cr"
+  }
+ ]
+}

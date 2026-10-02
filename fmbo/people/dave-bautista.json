@@ -1,0 +1,53 @@
+{
+ "slug": "dave-bautista",
+ "name": "Dave Bautista",
+ "source_url": "https://fridaymatinee.in/people/dave-bautista",
+ "captured_at": "2026-10-01T21:48:53.035585+00:00",
+ "person": {
+  "name": "Dave Bautista",
+  "photo": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 158,
+   "movie_slug": "thor-love-and-thunder",
+   "title": "Thor Love and Thunder",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 372,
+   "movie_slug": "guardians-of-the-galaxy-volume-3",
+   "title": "Guardians of the Galaxy Volume 3",
+   "year": 2023,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 498,
+   "movie_slug": "dune-part-two",
+   "title": "Dune: Part Two",
+   "year": 2024,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 835,
+   "movie_slug": "afterburn",
+   "title": "Afterburn",
+   "year": 2025,
+   "kerala_gross": "₹89K"
+  }
+ ]
+}

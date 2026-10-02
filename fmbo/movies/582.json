@@ -1,0 +1,213 @@
+{
+ "id": 582,
+ "slug": "vettaiyan",
+ "source_url": "https://fridaymatinee.in/boxoffice/vettaiyan-582",
+ "captured_at": "2026-10-01T18:16:13.170101+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 582,
+    "title": "Vettaiyan",
+    "img": "https://image.tmdb.org/t/p/original/poElk45MZQMnKaQEzugZt7PVhi5.jpg",
+    "released": "2024-10-10",
+    "language": "tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26936666",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "161 min",
+    "genre": "Action, Crime, Drama",
+    "plot": "A sought-after Supercop gets caught in a series of unexpected events when he encounters a suspect who is accused of being involved in a murder case.",
+    "released": "2024-10-10",
+    "director": "T. J. Gnanavel",
+    "directorSlug": "t-j-gnanavel",
+    "actors": [
+     "Rajinikanth",
+     "Amitabh Bachchan",
+     "Fahadh Faasil",
+     "Rana Daggubati",
+     "Manju Warrier",
+     "Ritika Singh"
+    ],
+    "awards": "4 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.8",
+      "votes": 41426,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Rajinikanth",
+     "character": "Athiyan IPS",
+     "slug": "rajinikanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cQBcrXqcQPfXOQfNfgO3slJM2xi.jpg"
+    },
+    {
+     "name": "Amitabh Bachchan",
+     "character": "Sathyadev",
+     "slug": "amitabh-bachchan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u69PvpWqGkywSm0YjFiw77j9eqS.jpg"
+    },
+    {
+     "name": "Fahadh Faasil",
+     "character": "\"Battery\" Patrick",
+     "slug": "fahadh-faasil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wmkwZWFHqMptqdt4HacMIAe8OBP.jpg"
+    },
+    {
+     "name": "Rana Daggubati",
+     "character": "Natraj",
+     "slug": "rana-daggubati",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dCQE1CoWWc6RoXUTxOKjAXO8KDr.jpg"
+    },
+    {
+     "name": "Manju Warrier",
+     "character": "Thara",
+     "slug": "manju-warrier",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7u1WgUHnwIW9mtL6aTdo1cRXmCM.jpg"
+    },
+    {
+     "name": "Ritika Singh",
+     "character": "Roopa Kiran",
+     "slug": "ritika-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qAheudLsok1DODKvT85EiwayhUZ.jpg"
+    },
+    {
+     "name": "Kishore",
+     "character": "SP Harish Kumar",
+     "slug": "kishore",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/njLrsTMxiUfnqOvWegFT3e2Sj6T.jpg"
+    },
+    {
+     "name": "Dushara Vijayan",
+     "character": "Saranya",
+     "slug": "dushara-vijayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5C5V9qdYil7LVCp8LqctZCEsu1n.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "T. J. Gnanavel",
+       "slug": "t-j-gnanavel"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Kiruthika B",
+       "slug": "kiruthika-b"
+      },
+      {
+       "name": "T. J. Gnanavel",
+       "slug": "t-j-gnanavel"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "S. R. Kathir",
+       "slug": "s-r-kathir"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Philomin Raj",
+       "slug": "philomin-raj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Allirajah Subaskaran",
+       "slug": "allirajah-subaskaran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lyca Productions",
+     "slug": "lyca-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/clz3r0SYNudiGRB10yjvU9ZSgP8.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 131437100.60000001,
+    "totalShows": 12760,
+    "totalDays": 29,
+    "openingDay": {
+     "day": 1,
+     "gross": 32499327,
+     "date": "2024-10-10"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 32499327,
+     "date": "2024-10-10"
+    },
+    "chartPosition": {
+     "current_position": 78,
+     "weeks_on_chart": 0,
+     "peak_position": 39,
+     "last_week_position": 78
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-10-10"
+   }
+  }
+ }
+}

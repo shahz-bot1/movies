@@ -1,0 +1,41 @@
+{
+ "slug": "ramana-girivasan",
+ "name": "Ramana Girivasan",
+ "source_url": "https://fridaymatinee.in/people/ramana-girivasan",
+ "captured_at": "2026-10-02T08:37:54.764418+00:00",
+ "person": {
+  "name": "Ramana Girivasan",
+  "photo": null,
+  "role": "Writer"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 18,
+   "movie_slug": "bigil",
+   "title": "Bigil",
+   "year": 2019,
+   "kerala_gross": "₹5.4 Cr"
+  },
+  {
+   "movie_id": 417,
+   "movie_slug": "jawan",
+   "title": "Jawan",
+   "year": 2023,
+   "kerala_gross": "₹9.9 Cr"
+  },
+  {
+   "movie_id": 1191,
+   "movie_slug": "idhayam-murali",
+   "title": "Idhayam Murali",
+   "year": 2026,
+   "kerala_gross": "₹25.9L"
+  }
+ ]
+}

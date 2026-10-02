@@ -1,0 +1,793 @@
+{
+ "id": 479,
+ "slug": "dunki",
+ "source_url": "https://fridaymatinee.in/boxoffice/dunki-479",
+ "captured_at": "2026-10-01T18:13:04.838081+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 479,
+    "title": "Dunki",
+    "img": "https://image.tmdb.org/t/p/original/kPRb1mbVHGop0egQ7153y0lhzGL.jpg",
+    "released": "2023-12-21",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15428134",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "159 min",
+    "genre": "Adventure, Comedy, Drama",
+    "plot": "Four friends from a sleepy little village in Punjab share a common dream: to go to England. Their problem is that they have neither the visa nor the ticket. A soldier alights from a train one day, and their lives change. He gives them a soldier's promise: He will take them to the land of their dreams. What follows is a hilarious and heartwarming tale of a perilous journey through the desert and the sea, but most crucially through the hinterlands of their mind.",
+    "released": "2023-12-21",
+    "director": "Rajkumar Hirani",
+    "directorSlug": "rajkumar-hirani",
+    "actors": [
+     "Shah Rukh Khan",
+     "Taapsee Pannu",
+     "Vikram Kochhar",
+     "Anil Grover",
+     "Boman Irani",
+     "Vicky Kaushal"
+    ],
+    "awards": "4 wins u0026 25 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 86568,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.3",
+      "votes": 122,
+      "updatedAt": "2026-09-24T19:11:08.000Z"
+     },
+     "rt": "46%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shah Rukh Khan",
+     "character": "Hardayal 'Hardy' Singh Dhillon",
+     "slug": "shah-rukh-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+     "name": "Taapsee Pannu",
+     "character": "Manu Randhawa",
+     "slug": "taapsee-pannu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/43e24aeOC8AZITo6ShaKKG9aV0Y.jpg"
+    },
+    {
+     "name": "Vikram Kochhar",
+     "character": "Buggu Lakhanpal",
+     "slug": "vikram-kochhar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qzwC8ebdicpuoVjfsM3KQSG6J9O.jpg"
+    },
+    {
+     "name": "Anil Grover",
+     "character": "Balli Kakkad",
+     "slug": "anil-grover",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6ZN0Y3j0oQrkqckYWRC5ixwieZ5.jpg"
+    },
+    {
+     "name": "Boman Irani",
+     "character": "Geetu Gulati",
+     "slug": "boman-irani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5J7GiiNar9bg9rGYeA2L30JXE2W.jpg"
+    },
+    {
+     "name": "Vicky Kaushal",
+     "character": "Sukhi",
+     "slug": "vicky-kaushal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hKSa4DWEAD7DYhABYGwjPmxdpAY.jpg"
+    },
+    {
+     "name": "Deven Bhojani",
+     "character": "Puru Patel",
+     "slug": "deven-bhojani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4gKlQ8QD6BtfachIRAXOxB5vidB.jpg"
+    },
+    {
+     "name": "Sapna Sand",
+     "character": "Buggu's Mother",
+     "slug": "sapna-sand",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1FWOLemBx7Wu4JF3r5hozlfs7pE.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rajkumar Hirani",
+       "slug": "rajkumar-hirani"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rajkumar Hirani",
+       "slug": "rajkumar-hirani"
+      },
+      {
+       "name": "Abhijat Joshi",
+       "slug": "abhijat-joshi"
+      },
+      {
+       "name": "Kanika Dhillon",
+       "slug": "kanika-dhillon"
+      },
+      {
+       "name": "Karan Narvekar",
+       "slug": "karan-narvekar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Pritam Chakraborty",
+       "slug": "pritam-chakraborty"
+      },
+      {
+       "name": "Aman Pant",
+       "slug": "aman-pant"
+      },
+      {
+       "name": "Shekhar Ravjiani",
+       "slug": "shekhar-ravjiani"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "C.K. Muraleedharan",
+       "slug": "c-k-muraleedharan"
+      },
+      {
+       "name": "Manush Nandan",
+       "slug": "manush-nandan"
+      },
+      {
+       "name": "Amit Roy",
+       "slug": "amit-roy"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rajkumar Hirani",
+       "slug": "rajkumar-hirani"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Gauri Khan",
+       "slug": "gauri-khan"
+      },
+      {
+       "name": "Rajkumar Hirani",
+       "slug": "rajkumar-hirani"
+      },
+      {
+       "name": "Jyoti Deshpande",
+       "slug": "jyoti-deshpande"
+      },
+      {
+       "name": "Shah Rukh Khan",
+       "slug": "shah-rukh-khan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Red Chillies Entertainment",
+     "slug": "red-chillies-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/fkrlAFxgAtIHgYJGIQcDggeucKV.png"
+    },
+    {
+     "name": "Rajkumar Hirani Films",
+     "slug": "rajkumar-hirani-films",
+     "logo": null
+    },
+    {
+     "name": "Jio Studios",
+     "slug": "jio-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/6CkBjiSlfAJFaMjwB44ILbOhFuV.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-02-15",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 22460428.08,
+    "totalShows": 3538,
+    "totalDays": 21,
+    "openingDay": {
+     "day": 1,
+     "gross": 4613299.999999999,
+     "date": "2023-12-21"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4613299.999999999,
+     "date": "2023-12-21"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 97,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-12-21"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 479,
+    "title": "Dunki",
+    "img": "https://image.tmdb.org/t/p/original/kPRb1mbVHGop0egQ7153y0lhzGL.jpg",
+    "released": "2023-12-21",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15428134",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "159 min",
+    "genre": "Adventure, Comedy, Drama",
+    "plot": "Four friends from a sleepy little village in Punjab share a common dream: to go to England. Their problem is that they have neither the visa nor the ticket. A soldier alights from a train one day, and their lives change. He gives them a soldier's promise: He will take them to the land of their dreams. What follows is a hilarious and heartwarming tale of a perilous journey through the desert and the sea, but most crucially through the hinterlands of their mind.",
+    "released": "2023-12-21",
+    "director": "Rajkumar Hirani",
+    "directorSlug": "rajkumar-hirani",
+    "actors": [
+     "Shah Rukh Khan",
+     "Taapsee Pannu",
+     "Vikram Kochhar",
+     "Anil Grover",
+     "Boman Irani",
+     "Vicky Kaushal"
+    ],
+    "awards": "4 wins u0026 25 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 86568,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.3",
+      "votes": 122,
+      "updatedAt": "2026-09-24T19:11:08.000Z"
+     },
+     "rt": "46%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shah Rukh Khan",
+     "character": "Hardayal 'Hardy' Singh Dhillon",
+     "slug": "shah-rukh-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+     "name": "Taapsee Pannu",
+     "character": "Manu Randhawa",
+     "slug": "taapsee-pannu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/43e24aeOC8AZITo6ShaKKG9aV0Y.jpg"
+    },
+    {
+     "name": "Vikram Kochhar",
+     "character": "Buggu Lakhanpal",
+     "slug": "vikram-kochhar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qzwC8ebdicpuoVjfsM3KQSG6J9O.jpg"
+    },
+    {
+     "name": "Anil Grover",
+     "character": "Balli Kakkad",
+     "slug": "anil-grover",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6ZN0Y3j0oQrkqckYWRC5ixwieZ5.jpg"
+    },
+    {
+     "name": "Boman Irani",
+     "character": "Geetu Gulati",
+     "slug": "boman-irani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5J7GiiNar9bg9rGYeA2L30JXE2W.jpg"
+    },
+    {
+     "name": "Vicky Kaushal",
+     "character": "Sukhi",
+     "slug": "vicky-kaushal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hKSa4DWEAD7DYhABYGwjPmxdpAY.jpg"
+    },
+    {
+     "name": "Deven Bhojani",
+     "character": "Puru Patel",
+     "slug": "deven-bhojani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4gKlQ8QD6BtfachIRAXOxB5vidB.jpg"
+    },
+    {
+     "name": "Sapna Sand",
+     "character": "Buggu's Mother",
+     "slug": "sapna-sand",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1FWOLemBx7Wu4JF3r5hozlfs7pE.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rajkumar Hirani",
+       "slug": "rajkumar-hirani"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rajkumar Hirani",
+       "slug": "rajkumar-hirani"
+      },
+      {
+       "name": "Abhijat Joshi",
+       "slug": "abhijat-joshi"
+      },
+      {
+       "name": "Kanika Dhillon",
+       "slug": "kanika-dhillon"
+      },
+      {
+       "name": "Karan Narvekar",
+       "slug": "karan-narvekar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Pritam Chakraborty",
+       "slug": "pritam-chakraborty"
+      },
+      {
+       "name": "Aman Pant",
+       "slug": "aman-pant"
+      },
+      {
+       "name": "Shekhar Ravjiani",
+       "slug": "shekhar-ravjiani"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "C.K. Muraleedharan",
+       "slug": "c-k-muraleedharan"
+      },
+      {
+       "name": "Manush Nandan",
+       "slug": "manush-nandan"
+      },
+      {
+       "name": "Amit Roy",
+       "slug": "amit-roy"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rajkumar Hirani",
+       "slug": "rajkumar-hirani"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Gauri Khan",
+       "slug": "gauri-khan"
+      },
+      {
+       "name": "Rajkumar Hirani",
+       "slug": "rajkumar-hirani"
+      },
+      {
+       "name": "Jyoti Deshpande",
+       "slug": "jyoti-deshpande"
+      },
+      {
+       "name": "Shah Rukh Khan",
+       "slug": "shah-rukh-khan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Red Chillies Entertainment",
+     "slug": "red-chillies-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/fkrlAFxgAtIHgYJGIQcDggeucKV.png"
+    },
+    {
+     "name": "Rajkumar Hirani Films",
+     "slug": "rajkumar-hirani-films",
+     "logo": null
+    },
+    {
+     "name": "Jio Studios",
+     "slug": "jio-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/6CkBjiSlfAJFaMjwB44ILbOhFuV.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-02-15",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-12-21",
+     "gross": 16644051.600000003,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2513,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-12-28",
+     "gross": 4599326.279999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 795,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-01-04",
+     "gross": 1217050.2,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 230,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 22460428.080000002,
+    "totalShows": 3538,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 16644051.600000003
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 16644051.600000003
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 97,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-12-21"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 479,
+    "title": "Dunki",
+    "img": "https://image.tmdb.org/t/p/original/kPRb1mbVHGop0egQ7153y0lhzGL.jpg",
+    "released": "2023-12-21",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15428134",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "159 min",
+    "genre": "Adventure, Comedy, Drama",
+    "plot": "Four friends from a sleepy little village in Punjab share a common dream: to go to England. Their problem is that they have neither the visa nor the ticket. A soldier alights from a train one day, and their lives change. He gives them a soldier's promise: He will take them to the land of their dreams. What follows is a hilarious and heartwarming tale of a perilous journey through the desert and the sea, but most crucially through the hinterlands of their mind.",
+    "released": "2023-12-21",
+    "director": "Rajkumar Hirani",
+    "directorSlug": "rajkumar-hirani",
+    "actors": [
+     "Shah Rukh Khan",
+     "Taapsee Pannu",
+     "Vikram Kochhar",
+     "Anil Grover",
+     "Boman Irani",
+     "Vicky Kaushal"
+    ],
+    "awards": "4 wins u0026 25 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 86568,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.3",
+      "votes": 122,
+      "updatedAt": "2026-09-24T19:11:08.000Z"
+     },
+     "rt": "46%",
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shah Rukh Khan",
+     "character": "Hardayal 'Hardy' Singh Dhillon",
+     "slug": "shah-rukh-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+     "name": "Taapsee Pannu",
+     "character": "Manu Randhawa",
+     "slug": "taapsee-pannu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/43e24aeOC8AZITo6ShaKKG9aV0Y.jpg"
+    },
+    {
+     "name": "Vikram Kochhar",
+     "character": "Buggu Lakhanpal",
+     "slug": "vikram-kochhar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qzwC8ebdicpuoVjfsM3KQSG6J9O.jpg"
+    },
+    {
+     "name": "Anil Grover",
+     "character": "Balli Kakkad",
+     "slug": "anil-grover",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6ZN0Y3j0oQrkqckYWRC5ixwieZ5.jpg"
+    },
+    {
+     "name": "Boman Irani",
+     "character": "Geetu Gulati",
+     "slug": "boman-irani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5J7GiiNar9bg9rGYeA2L30JXE2W.jpg"
+    },
+    {
+     "name": "Vicky Kaushal",
+     "character": "Sukhi",
+     "slug": "vicky-kaushal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hKSa4DWEAD7DYhABYGwjPmxdpAY.jpg"
+    },
+    {
+     "name": "Deven Bhojani",
+     "character": "Puru Patel",
+     "slug": "deven-bhojani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4gKlQ8QD6BtfachIRAXOxB5vidB.jpg"
+    },
+    {
+     "name": "Sapna Sand",
+     "character": "Buggu's Mother",
+     "slug": "sapna-sand",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1FWOLemBx7Wu4JF3r5hozlfs7pE.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Rajkumar Hirani",
+       "slug": "rajkumar-hirani"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Rajkumar Hirani",
+       "slug": "rajkumar-hirani"
+      },
+      {
+       "name": "Abhijat Joshi",
+       "slug": "abhijat-joshi"
+      },
+      {
+       "name": "Kanika Dhillon",
+       "slug": "kanika-dhillon"
+      },
+      {
+       "name": "Karan Narvekar",
+       "slug": "karan-narvekar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Pritam Chakraborty",
+       "slug": "pritam-chakraborty"
+      },
+      {
+       "name": "Aman Pant",
+       "slug": "aman-pant"
+      },
+      {
+       "name": "Shekhar Ravjiani",
+       "slug": "shekhar-ravjiani"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "C.K. Muraleedharan",
+       "slug": "c-k-muraleedharan"
+      },
+      {
+       "name": "Manush Nandan",
+       "slug": "manush-nandan"
+      },
+      {
+       "name": "Amit Roy",
+       "slug": "amit-roy"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rajkumar Hirani",
+       "slug": "rajkumar-hirani"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Gauri Khan",
+       "slug": "gauri-khan"
+      },
+      {
+       "name": "Rajkumar Hirani",
+       "slug": "rajkumar-hirani"
+      },
+      {
+       "name": "Jyoti Deshpande",
+       "slug": "jyoti-deshpande"
+      },
+      {
+       "name": "Shah Rukh Khan",
+       "slug": "shah-rukh-khan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Red Chillies Entertainment",
+     "slug": "red-chillies-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/fkrlAFxgAtIHgYJGIQcDggeucKV.png"
+    },
+    {
+     "name": "Rajkumar Hirani Films",
+     "slug": "rajkumar-hirani-films",
+     "logo": null
+    },
+    {
+     "name": "Jio Studios",
+     "slug": "jio-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/6CkBjiSlfAJFaMjwB44ILbOhFuV.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2024-02-15",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 22460428.080000002,
+    "totalShows": 3538,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 8670903,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 8670903,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 97,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-12-21"
+   }
+  }
+ }
+}

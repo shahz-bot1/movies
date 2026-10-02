@@ -1,0 +1,60 @@
+{
+ "slug": "aamir-khan",
+ "name": "Aamir Khan",
+ "source_url": "https://fridaymatinee.in/people/aamir-khan",
+ "captured_at": "2026-10-01T20:02:32.121547+00:00",
+ "person": {
+  "name": "Aamir Khan",
+  "photo": "https://image.tmdb.org/t/p/w185/6uiZSwi2kvd1jZ7X7Xz9W9VGuV4.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 180,
+   "movie_slug": "laal-singh-chaddha",
+   "title": "Laal Singh Chaddha",
+   "year": 2022,
+   "kerala_gross": "₹24.6L"
+  },
+  {
+   "movie_id": 708,
+   "movie_slug": "sitaare-zameen-par",
+   "title": "Sitaare Zameen Par",
+   "year": 2025,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 765,
+   "movie_slug": "coolie",
+   "title": "Coolie",
+   "year": 2025,
+   "kerala_gross": "₹22.9 Cr"
+  },
+  {
+   "movie_id": 977,
+   "movie_slug": "happy-patel-khatarnak-jasoos",
+   "title": "Happy Patel Khatarnak Jasoos",
+   "year": 2026,
+   "kerala_gross": "₹3.5L"
+  },
+  {
+   "movie_id": 1230,
+   "movie_slug": "batwara-1947",
+   "title": "Batwara 1947",
+   "year": 2026,
+   "kerala_gross": "₹7.1L"
+  }
+ ]
+}

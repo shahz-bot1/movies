@@ -1,0 +1,55 @@
+{
+ "slug": "malavika-menon",
+ "name": "Malavika Menon",
+ "source_url": "https://fridaymatinee.in/people/malavika-menon",
+ "captured_at": "2026-10-02T00:14:35.633277+00:00",
+ "person": {
+  "name": "Malavika Menon",
+  "photo": "https://image.tmdb.org/t/p/w185/fF9hiCl725VQ6z0FtUzOzt5Qs9G.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 107,
+   "movie_slug": "aaraattu",
+   "title": "Aaraattu",
+   "year": 2022,
+   "kerala_gross": "₹7.2 Cr"
+  },
+  {
+   "movie_id": 402,
+   "movie_slug": "padmini",
+   "title": "Padmini",
+   "year": 2023,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 504,
+   "movie_slug": "thankamani",
+   "title": "Thankamani",
+   "year": 2024,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 653,
+   "movie_slug": "kalamkaval",
+   "title": "Kalamkaval",
+   "year": 2025,
+   "kerala_gross": "₹31.9 Cr"
+  },
+  {
+   "movie_id": 1154,
+   "movie_slug": "secret-of-kalinga",
+   "title": "Secret of Kalinga",
+   "year": 2026,
+   "kerala_gross": "₹32.1L"
+  }
+ ]
+}

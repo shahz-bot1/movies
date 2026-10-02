@@ -1,0 +1,843 @@
+{
+ "id": 500,
+ "slug": "premalu",
+ "source_url": "https://fridaymatinee.in/boxoffice/premalu-500",
+ "captured_at": "2026-10-01T18:13:42.332975+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 500,
+    "title": "Premalu",
+    "img": "https://image.tmdb.org/t/p/original/jlYPimzNuhokY4WfnuVTiNXMixA.jpg",
+    "released": "2024-02-09",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28288786",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "155 min",
+    "genre": "Romance, Comedy",
+    "plot": "Sachin, a carefree graduate, crosses paths with Reenu, a spirited IT professional, in Hyderabad. As their friendship deepens, unspoken feelings, career ambitions and life choices challenge their bond.",
+    "released": "2024-02-09",
+    "director": "Girish A. D.",
+    "directorSlug": "girish-a-d",
+    "actors": [
+     "Naslen K. Gafoor",
+     "Mamitha Baiju",
+     "Sangeeth Prathap",
+     "Shyam Mohan",
+     "Akhila Bhargavan",
+     "Meenakshi Raveendran"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "7.8",
+      "votes": 24686,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": {
+      "value": "7.8",
+      "votes": 73,
+      "updatedAt": "2026-09-24T19:11:03.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:11:03.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Naslen K. Gafoor",
+     "character": "Sachin Santhosh",
+     "slug": "naslen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8cAVtELGh2ZL5DhyijYBiAQF2Zt.jpg"
+    },
+    {
+     "name": "Mamitha Baiju",
+     "character": "Reenu",
+     "slug": "mamitha-baiju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uQ5PhUbDPSaSzulViEzlWqphDPH.jpg"
+    },
+    {
+     "name": "Sangeeth Prathap",
+     "character": "Amal Davis",
+     "slug": "sangeeth-prathap",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2f7mTmZ1RttbacuADm6vv7xpTAi.jpg"
+    },
+    {
+     "name": "Shyam Mohan",
+     "character": "Aadhi",
+     "slug": "shyam-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wqUndf8mfVUxKtus68hrh7dlBhX.jpg"
+    },
+    {
+     "name": "Akhila Bhargavan",
+     "character": "Karthika",
+     "slug": "akhila-bhargavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dGaNyhTvnotJpqxmRLXCqIfKGjC.jpg"
+    },
+    {
+     "name": "Meenakshi Raveendran",
+     "character": "Niharika",
+     "slug": "meenakshi-raveendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e8VgGVTJpxxmV5iXmhRgP6ntRFM.jpg"
+    },
+    {
+     "name": "Mathew Thomas",
+     "character": "Thomas (Extended Cameo)",
+     "slug": "mathew-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tynqqZ6LXz6TCDUWMG0xR4pNDkw.jpg"
+    },
+    {
+     "name": "Althaf Salim",
+     "character": "Shobi Sir",
+     "slug": "althaf-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wYFAsF8f4Ak26c4t5J1IfBBxP0W.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Girish A. D.",
+       "slug": "girish-a-d"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Girish A. D.",
+       "slug": "girish-a-d"
+      },
+      {
+       "name": "Kiran Josey",
+       "slug": "kiran-josey"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ajmal Sabu",
+       "slug": "ajmal-sabu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Akash Joseph Varghese",
+       "slug": "akash-joseph-varghese"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dileesh Pothan",
+       "slug": "dileesh-pothan"
+      },
+      {
+       "name": "Syam Pushkaran",
+       "slug": "syam-pushkaran"
+      },
+      {
+       "name": "Fahadh Faasil",
+       "slug": "fahadh-faasil"
+      },
+      {
+       "name": "Nazriya Nazim",
+       "slug": "nazriya-nazim-fahadh"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Bhavana Studios",
+     "slug": "bhavana-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/4BQiSMEuGfZynsWiMDMpm3zf5vt.png"
+    },
+    {
+     "name": "Fahadh Faasil and Friends Private Limited",
+     "slug": "fahadh-faasil-and-friends-private-limited",
+     "logo": "https://image.tmdb.org/t/p/w185/9UVxeoW8MBpqIy11A2uvL79Qp2J.png"
+    },
+    {
+     "name": "Working Class Hero",
+     "slug": "working-class-hero",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 491919730.53999984,
+    "totalShows": 36028,
+    "totalDays": 76,
+    "openingDay": {
+     "day": 1,
+     "gross": 7498234.829999999,
+     "date": "2024-02-09"
+    },
+    "peakDay": {
+     "day": 10,
+     "gross": 27453827.550000004,
+     "date": "2024-02-18"
+    },
+    "chartPosition": {
+     "current_position": 15,
+     "weeks_on_chart": 86,
+     "peak_position": 4,
+     "last_week_position": 15
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-02-09"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 500,
+    "title": "Premalu",
+    "img": "https://image.tmdb.org/t/p/original/jlYPimzNuhokY4WfnuVTiNXMixA.jpg",
+    "released": "2024-02-09",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28288786",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "155 min",
+    "genre": "Romance, Comedy",
+    "plot": "Sachin, a carefree graduate, crosses paths with Reenu, a spirited IT professional, in Hyderabad. As their friendship deepens, unspoken feelings, career ambitions and life choices challenge their bond.",
+    "released": "2024-02-09",
+    "director": "Girish A. D.",
+    "directorSlug": "girish-a-d",
+    "actors": [
+     "Naslen K. Gafoor",
+     "Mamitha Baiju",
+     "Sangeeth Prathap",
+     "Shyam Mohan",
+     "Akhila Bhargavan",
+     "Meenakshi Raveendran"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "7.8",
+      "votes": 24686,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": {
+      "value": "7.8",
+      "votes": 73,
+      "updatedAt": "2026-09-24T19:11:03.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:11:03.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Naslen K. Gafoor",
+     "character": "Sachin Santhosh",
+     "slug": "naslen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8cAVtELGh2ZL5DhyijYBiAQF2Zt.jpg"
+    },
+    {
+     "name": "Mamitha Baiju",
+     "character": "Reenu",
+     "slug": "mamitha-baiju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uQ5PhUbDPSaSzulViEzlWqphDPH.jpg"
+    },
+    {
+     "name": "Sangeeth Prathap",
+     "character": "Amal Davis",
+     "slug": "sangeeth-prathap",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2f7mTmZ1RttbacuADm6vv7xpTAi.jpg"
+    },
+    {
+     "name": "Shyam Mohan",
+     "character": "Aadhi",
+     "slug": "shyam-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wqUndf8mfVUxKtus68hrh7dlBhX.jpg"
+    },
+    {
+     "name": "Akhila Bhargavan",
+     "character": "Karthika",
+     "slug": "akhila-bhargavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dGaNyhTvnotJpqxmRLXCqIfKGjC.jpg"
+    },
+    {
+     "name": "Meenakshi Raveendran",
+     "character": "Niharika",
+     "slug": "meenakshi-raveendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e8VgGVTJpxxmV5iXmhRgP6ntRFM.jpg"
+    },
+    {
+     "name": "Mathew Thomas",
+     "character": "Thomas (Extended Cameo)",
+     "slug": "mathew-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tynqqZ6LXz6TCDUWMG0xR4pNDkw.jpg"
+    },
+    {
+     "name": "Althaf Salim",
+     "character": "Shobi Sir",
+     "slug": "althaf-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wYFAsF8f4Ak26c4t5J1IfBBxP0W.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Girish A. D.",
+       "slug": "girish-a-d"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Girish A. D.",
+       "slug": "girish-a-d"
+      },
+      {
+       "name": "Kiran Josey",
+       "slug": "kiran-josey"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ajmal Sabu",
+       "slug": "ajmal-sabu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Akash Joseph Varghese",
+       "slug": "akash-joseph-varghese"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dileesh Pothan",
+       "slug": "dileesh-pothan"
+      },
+      {
+       "name": "Syam Pushkaran",
+       "slug": "syam-pushkaran"
+      },
+      {
+       "name": "Fahadh Faasil",
+       "slug": "fahadh-faasil"
+      },
+      {
+       "name": "Nazriya Nazim",
+       "slug": "nazriya-nazim-fahadh"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Bhavana Studios",
+     "slug": "bhavana-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/4BQiSMEuGfZynsWiMDMpm3zf5vt.png"
+    },
+    {
+     "name": "Fahadh Faasil and Friends Private Limited",
+     "slug": "fahadh-faasil-and-friends-private-limited",
+     "logo": "https://image.tmdb.org/t/p/w185/9UVxeoW8MBpqIy11A2uvL79Qp2J.png"
+    },
+    {
+     "name": "Working Class Hero",
+     "slug": "working-class-hero",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-02-09",
+     "gross": 110408915.27000004,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5423,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-02-16",
+     "gross": 113735048.47999997,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5501,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-02-23",
+     "gross": 82192484.23000005,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5089,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-03-01",
+     "gross": 67848386.55999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4921,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-03-08",
+     "gross": 51812402.6,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4551,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-03-15",
+     "gross": 26434191.8,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4228,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-03-22",
+     "gross": 19333147.399999995,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3232,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-03-29",
+     "gross": 12533174.8,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1659,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-04-05",
+     "gross": 7417802.399999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1400,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-04-12",
+     "gross": 130755,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 17,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-04-19",
+     "gross": 73422,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 7,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 491919730.54,
+    "totalShows": 36028,
+    "totalDays": 11,
+    "openingDay": {
+     "day": 1,
+     "gross": 110408915.27000004
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 113735048.47999997
+    },
+    "chartPosition": {
+     "current_position": 15,
+     "weeks_on_chart": 86,
+     "peak_position": 4,
+     "last_week_position": 15
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-02-09"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 500,
+    "title": "Premalu",
+    "img": "https://image.tmdb.org/t/p/original/jlYPimzNuhokY4WfnuVTiNXMixA.jpg",
+    "released": "2024-02-09",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28288786",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "155 min",
+    "genre": "Romance, Comedy",
+    "plot": "Sachin, a carefree graduate, crosses paths with Reenu, a spirited IT professional, in Hyderabad. As their friendship deepens, unspoken feelings, career ambitions and life choices challenge their bond.",
+    "released": "2024-02-09",
+    "director": "Girish A. D.",
+    "directorSlug": "girish-a-d",
+    "actors": [
+     "Naslen K. Gafoor",
+     "Mamitha Baiju",
+     "Sangeeth Prathap",
+     "Shyam Mohan",
+     "Akhila Bhargavan",
+     "Meenakshi Raveendran"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "7.8",
+      "votes": 24686,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": {
+      "value": "7.8",
+      "votes": 73,
+      "updatedAt": "2026-09-24T19:11:03.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:11:03.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Naslen K. Gafoor",
+     "character": "Sachin Santhosh",
+     "slug": "naslen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8cAVtELGh2ZL5DhyijYBiAQF2Zt.jpg"
+    },
+    {
+     "name": "Mamitha Baiju",
+     "character": "Reenu",
+     "slug": "mamitha-baiju",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/uQ5PhUbDPSaSzulViEzlWqphDPH.jpg"
+    },
+    {
+     "name": "Sangeeth Prathap",
+     "character": "Amal Davis",
+     "slug": "sangeeth-prathap",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2f7mTmZ1RttbacuADm6vv7xpTAi.jpg"
+    },
+    {
+     "name": "Shyam Mohan",
+     "character": "Aadhi",
+     "slug": "shyam-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wqUndf8mfVUxKtus68hrh7dlBhX.jpg"
+    },
+    {
+     "name": "Akhila Bhargavan",
+     "character": "Karthika",
+     "slug": "akhila-bhargavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dGaNyhTvnotJpqxmRLXCqIfKGjC.jpg"
+    },
+    {
+     "name": "Meenakshi Raveendran",
+     "character": "Niharika",
+     "slug": "meenakshi-raveendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e8VgGVTJpxxmV5iXmhRgP6ntRFM.jpg"
+    },
+    {
+     "name": "Mathew Thomas",
+     "character": "Thomas (Extended Cameo)",
+     "slug": "mathew-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tynqqZ6LXz6TCDUWMG0xR4pNDkw.jpg"
+    },
+    {
+     "name": "Althaf Salim",
+     "character": "Shobi Sir",
+     "slug": "althaf-salim",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wYFAsF8f4Ak26c4t5J1IfBBxP0W.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Girish A. D.",
+       "slug": "girish-a-d"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Girish A. D.",
+       "slug": "girish-a-d"
+      },
+      {
+       "name": "Kiran Josey",
+       "slug": "kiran-josey"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Ajmal Sabu",
+       "slug": "ajmal-sabu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Akash Joseph Varghese",
+       "slug": "akash-joseph-varghese"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Dileesh Pothan",
+       "slug": "dileesh-pothan"
+      },
+      {
+       "name": "Syam Pushkaran",
+       "slug": "syam-pushkaran"
+      },
+      {
+       "name": "Fahadh Faasil",
+       "slug": "fahadh-faasil"
+      },
+      {
+       "name": "Nazriya Nazim",
+       "slug": "nazriya-nazim-fahadh"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Bhavana Studios",
+     "slug": "bhavana-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/4BQiSMEuGfZynsWiMDMpm3zf5vt.png"
+    },
+    {
+     "name": "Fahadh Faasil and Friends Private Limited",
+     "slug": "fahadh-faasil-and-friends-private-limited",
+     "logo": "https://image.tmdb.org/t/p/w185/9UVxeoW8MBpqIy11A2uvL79Qp2J.png"
+    },
+    {
+     "name": "Working Class Hero",
+     "slug": "working-class-hero",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 491919730.53999996,
+    "totalShows": 36028,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 114506127,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 114506127,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 15,
+     "weeks_on_chart": 86,
+     "peak_position": 4,
+     "last_week_position": 15
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-02-09"
+   }
+  }
+ }
+}

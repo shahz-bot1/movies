@@ -1,0 +1,48 @@
+{
+ "slug": "manu-antony",
+ "name": "Manu Antony",
+ "source_url": "https://fridaymatinee.in/people/manu-antony",
+ "captured_at": "2026-10-02T00:20:23.480215+00:00",
+ "person": {
+  "name": "Manu Antony",
+  "photo": null,
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 285,
+   "movie_slug": "iratta",
+   "title": "Iratta",
+   "year": 2023,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 295,
+   "movie_slug": "christy",
+   "title": "Christy",
+   "year": 2023,
+   "kerala_gross": "₹51.6L"
+  },
+  {
+   "movie_id": 402,
+   "movie_slug": "padmini",
+   "title": "Padmini",
+   "year": 2023,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 584,
+   "movie_slug": "pani",
+   "title": "Pani",
+   "year": 2024,
+   "kerala_gross": "₹16.7 Cr"
+  }
+ ]
+}

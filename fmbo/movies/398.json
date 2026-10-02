@@ -1,0 +1,591 @@
+{
+ "id": 398,
+ "slug": "dhoomam",
+ "source_url": "https://fridaymatinee.in/boxoffice/dhoomam-398",
+ "captured_at": "2026-10-01T18:11:06.470132+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 398,
+    "title": "Dhoomam",
+    "img": "https://image.tmdb.org/t/p/original/zZ4qJFfv6UXqb6otLBW2qzOQu4C.jpg",
+    "released": "2023-06-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt22436062",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "143 min",
+    "genre": "Thriller, Drama",
+    "plot": "Avinash wants to quit his marketing job at a top cigarette company, but it comes with consequences",
+    "released": "2023-06-23",
+    "director": "Pawan Kumar",
+    "directorSlug": "pawan-kumar",
+    "actors": [
+     "Fahadh Faasil",
+     "Achyuth Kumar",
+     "Aparna Balamurali",
+     "Joy Mathew",
+     "Dev Mohan",
+     "Anu Mohan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 2112,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Fahadh Faasil",
+     "character": "Avinash",
+     "slug": "fahadh-faasil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wmkwZWFHqMptqdt4HacMIAe8OBP.jpg"
+    },
+    {
+     "name": "Achyuth Kumar",
+     "character": "Prakash",
+     "slug": "achyuth-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zO1MoCgaz0RxILjga8VYXguROMp.jpg"
+    },
+    {
+     "name": "Aparna Balamurali",
+     "character": "Diya",
+     "slug": "aparna-balamurali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8IdA0YxPHttgDQCi09pE28LWw0E.jpg"
+    },
+    {
+     "name": "Joy Mathew",
+     "character": null,
+     "slug": "joy-mathew",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zuwa8aKySE18dMa0cW8YqeYVxUO.jpg"
+    },
+    {
+     "name": "Dev Mohan",
+     "character": null,
+     "slug": "dev-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e9F4UCwxJ85cIVty2nLJxUIKSyn.jpg"
+    },
+    {
+     "name": "Anu Mohan",
+     "character": "Satya",
+     "slug": "anu-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h20NTIRjJjIzca6TNLQ9kb9p69G.jpg"
+    },
+    {
+     "name": "Nandhu",
+     "character": null,
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    },
+    {
+     "name": "Roshan Mathew",
+     "character": "Sid",
+     "slug": "roshan-mathew",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9BzqaEdErGxF1EDELQEXpnRsqQu.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Pawan Kumar",
+       "slug": "pawan-kumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Pawan Kumar",
+       "slug": "pawan-kumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Poornachandra Tejaswi",
+       "slug": "poornachandra-tejaswi"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Preetha Jayaraman",
+       "slug": "preetha-jayaraman"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vijay Kiragandur",
+       "slug": "vijay-kiragandur"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Hombale Films",
+     "slug": "hombale-films",
+     "logo": "https://image.tmdb.org/t/p/w185/ldpgYauK9FMNsbOSSxSSl63o3mb.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 16679128.98,
+    "totalShows": 3821,
+    "totalDays": 13,
+    "openingDay": {
+     "day": 1,
+     "gross": 4962005.9,
+     "date": "2023-06-23"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4962005.9,
+     "date": "2023-06-23"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 89,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-06-23"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 398,
+    "title": "Dhoomam",
+    "img": "https://image.tmdb.org/t/p/original/zZ4qJFfv6UXqb6otLBW2qzOQu4C.jpg",
+    "released": "2023-06-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt22436062",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "143 min",
+    "genre": "Thriller, Drama",
+    "plot": "Avinash wants to quit his marketing job at a top cigarette company, but it comes with consequences",
+    "released": "2023-06-23",
+    "director": "Pawan Kumar",
+    "directorSlug": "pawan-kumar",
+    "actors": [
+     "Fahadh Faasil",
+     "Achyuth Kumar",
+     "Aparna Balamurali",
+     "Joy Mathew",
+     "Dev Mohan",
+     "Anu Mohan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 2112,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Fahadh Faasil",
+     "character": "Avinash",
+     "slug": "fahadh-faasil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wmkwZWFHqMptqdt4HacMIAe8OBP.jpg"
+    },
+    {
+     "name": "Achyuth Kumar",
+     "character": "Prakash",
+     "slug": "achyuth-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zO1MoCgaz0RxILjga8VYXguROMp.jpg"
+    },
+    {
+     "name": "Aparna Balamurali",
+     "character": "Diya",
+     "slug": "aparna-balamurali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8IdA0YxPHttgDQCi09pE28LWw0E.jpg"
+    },
+    {
+     "name": "Joy Mathew",
+     "character": null,
+     "slug": "joy-mathew",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zuwa8aKySE18dMa0cW8YqeYVxUO.jpg"
+    },
+    {
+     "name": "Dev Mohan",
+     "character": null,
+     "slug": "dev-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e9F4UCwxJ85cIVty2nLJxUIKSyn.jpg"
+    },
+    {
+     "name": "Anu Mohan",
+     "character": "Satya",
+     "slug": "anu-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h20NTIRjJjIzca6TNLQ9kb9p69G.jpg"
+    },
+    {
+     "name": "Nandhu",
+     "character": null,
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    },
+    {
+     "name": "Roshan Mathew",
+     "character": "Sid",
+     "slug": "roshan-mathew",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9BzqaEdErGxF1EDELQEXpnRsqQu.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Pawan Kumar",
+       "slug": "pawan-kumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Pawan Kumar",
+       "slug": "pawan-kumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Poornachandra Tejaswi",
+       "slug": "poornachandra-tejaswi"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Preetha Jayaraman",
+       "slug": "preetha-jayaraman"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vijay Kiragandur",
+       "slug": "vijay-kiragandur"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Hombale Films",
+     "slug": "hombale-films",
+     "logo": "https://image.tmdb.org/t/p/w185/ldpgYauK9FMNsbOSSxSSl63o3mb.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-06-23",
+     "gross": 15475172.98,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3355,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-06-30",
+     "gross": 1203956,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 466,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 16679128.98,
+    "totalShows": 3821,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 15475172.98
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 15475172.98
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 89,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-06-23"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 398,
+    "title": "Dhoomam",
+    "img": "https://image.tmdb.org/t/p/original/zZ4qJFfv6UXqb6otLBW2qzOQu4C.jpg",
+    "released": "2023-06-23",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt22436062",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "143 min",
+    "genre": "Thriller, Drama",
+    "plot": "Avinash wants to quit his marketing job at a top cigarette company, but it comes with consequences",
+    "released": "2023-06-23",
+    "director": "Pawan Kumar",
+    "directorSlug": "pawan-kumar",
+    "actors": [
+     "Fahadh Faasil",
+     "Achyuth Kumar",
+     "Aparna Balamurali",
+     "Joy Mathew",
+     "Dev Mohan",
+     "Anu Mohan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 2112,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Fahadh Faasil",
+     "character": "Avinash",
+     "slug": "fahadh-faasil",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wmkwZWFHqMptqdt4HacMIAe8OBP.jpg"
+    },
+    {
+     "name": "Achyuth Kumar",
+     "character": "Prakash",
+     "slug": "achyuth-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zO1MoCgaz0RxILjga8VYXguROMp.jpg"
+    },
+    {
+     "name": "Aparna Balamurali",
+     "character": "Diya",
+     "slug": "aparna-balamurali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8IdA0YxPHttgDQCi09pE28LWw0E.jpg"
+    },
+    {
+     "name": "Joy Mathew",
+     "character": null,
+     "slug": "joy-mathew",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zuwa8aKySE18dMa0cW8YqeYVxUO.jpg"
+    },
+    {
+     "name": "Dev Mohan",
+     "character": null,
+     "slug": "dev-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e9F4UCwxJ85cIVty2nLJxUIKSyn.jpg"
+    },
+    {
+     "name": "Anu Mohan",
+     "character": "Satya",
+     "slug": "anu-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h20NTIRjJjIzca6TNLQ9kb9p69G.jpg"
+    },
+    {
+     "name": "Nandhu",
+     "character": null,
+     "slug": "nandhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/db5fTGCBP9hlUjqz2sPldT3jNZL.jpg"
+    },
+    {
+     "name": "Roshan Mathew",
+     "character": "Sid",
+     "slug": "roshan-mathew",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9BzqaEdErGxF1EDELQEXpnRsqQu.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Pawan Kumar",
+       "slug": "pawan-kumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Pawan Kumar",
+       "slug": "pawan-kumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Poornachandra Tejaswi",
+       "slug": "poornachandra-tejaswi"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Preetha Jayaraman",
+       "slug": "preetha-jayaraman"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vijay Kiragandur",
+       "slug": "vijay-kiragandur"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Hombale Films",
+     "slug": "hombale-films",
+     "logo": "https://image.tmdb.org/t/p/w185/ldpgYauK9FMNsbOSSxSSl63o3mb.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 532,
+      "name": "aha",
+      "logoPath": "/i8cMQ9Hw8oDcOO4rV6GYlO7VBDH.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 16679128.98,
+    "totalShows": 3821,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 4437526,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4437526,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 89,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-06-23"
+   }
+  }
+ }
+}

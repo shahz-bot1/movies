@@ -1,0 +1,730 @@
+{
+ "id": 198,
+ "slug": "ottu",
+ "source_url": "https://fridaymatinee.in/boxoffice/ottu-198",
+ "captured_at": "2026-10-01T18:06:24.619117+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 198,
+    "title": "Ottu",
+    "img": "https://image.tmdb.org/t/p/original/2cTDIaG9Hz5UaBFkwvXsrtXPdpZ.jpg",
+    "released": "2022-09-08",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14312358",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "105 min",
+    "genre": "Thriller, Drama",
+    "plot": "Kichu takes up an assignment to befriend a gangster David, who has lost his memories to learn about a valuable gold shipment that has gone missing. Will Kichu pull off the task, or end up waking the monster in the gangster?",
+    "released": "2022-09-08",
+    "director": "Fellini T P",
+    "directorSlug": "fellini-t-p",
+    "actors": [
+     "Kunchacko Boban",
+     "Arvind Swamy",
+     "Eesha Rebba",
+     "Jackie Shroff",
+     "Aadukalam Naren",
+     "Amalda Liz"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 1324,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:11:03.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kunchacko Boban",
+     "character": "Kichu",
+     "slug": "kunchacko-boban",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1jdbIaYOBuhPNGS8XCqlzMsb0SV.jpg"
+    },
+    {
+     "name": "Arvind Swamy",
+     "character": "David",
+     "slug": "arvind-swamy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/axg3WBjcK5j6YrstPtPdDKUJ0y2.jpg"
+    },
+    {
+     "name": "Eesha Rebba",
+     "character": "Kalyani",
+     "slug": "eesha-rebba",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6oq2x8o2mEBOR82lNBtROcTeN9O.jpg"
+    },
+    {
+     "name": "Jackie Shroff",
+     "character": "Adiga",
+     "slug": "jackie-shroff",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1UNJypgEyuihUW2avLLVYj76jie.jpg"
+    },
+    {
+     "name": "Aadukalam Naren",
+     "character": null,
+     "slug": "aadukalam-naren",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w3a6Qwh6pbnU2j7vJlzpyc2r7Dw.jpg"
+    },
+    {
+     "name": "Amalda Liz",
+     "character": null,
+     "slug": "amalda-liz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dvre5bAj5rYQmcRoHWCSk4Hc88Y.jpg"
+    },
+    {
+     "name": "Jins Baskar",
+     "character": null,
+     "slug": "jins-baskar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bAWtxMgfGxZKZ4bvTqqeVMr8wyL.jpg"
+    },
+    {
+     "name": "Siyad Yadu",
+     "character": null,
+     "slug": "siyad-yadu",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Fellini T P",
+       "slug": "fellini-t-p"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "S Sanjeev",
+       "slug": "s-sanjeev"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "A. H. Kaashif",
+       "slug": "a-h-kaashif"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Gautham Shankar",
+       "slug": "gautham-shankar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Appu N. Bhattathiri",
+       "slug": "appu-n-bhattathiri"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shaji Nadesan",
+       "slug": "shaji-nadesan"
+      },
+      {
+       "name": "Arya",
+       "slug": "arya"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "The Show People",
+     "slug": "the-show-people",
+     "logo": null
+    },
+    {
+     "name": "August Cinema",
+     "slug": "august-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/1MQcG1KC3wJ0qyYtU9FOwAZldag.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2708,
+      "name": " AP International South Cinema Amazon Channel",
+      "logoPath": "/qe5IxHppN6JWNGf8xqSo2dgAbR4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 13730959.869999997,
+    "totalShows": 3596,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 3188634.68,
+     "date": "2022-09-08"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3188634.68,
+     "date": "2022-09-08"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 62,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-09-08"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 198,
+    "title": "Ottu",
+    "img": "https://image.tmdb.org/t/p/original/2cTDIaG9Hz5UaBFkwvXsrtXPdpZ.jpg",
+    "released": "2022-09-08",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14312358",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "105 min",
+    "genre": "Thriller, Drama",
+    "plot": "Kichu takes up an assignment to befriend a gangster David, who has lost his memories to learn about a valuable gold shipment that has gone missing. Will Kichu pull off the task, or end up waking the monster in the gangster?",
+    "released": "2022-09-08",
+    "director": "Fellini T P",
+    "directorSlug": "fellini-t-p",
+    "actors": [
+     "Kunchacko Boban",
+     "Arvind Swamy",
+     "Eesha Rebba",
+     "Jackie Shroff",
+     "Aadukalam Naren",
+     "Amalda Liz"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 1324,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:11:03.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kunchacko Boban",
+     "character": "Kichu",
+     "slug": "kunchacko-boban",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1jdbIaYOBuhPNGS8XCqlzMsb0SV.jpg"
+    },
+    {
+     "name": "Arvind Swamy",
+     "character": "David",
+     "slug": "arvind-swamy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/axg3WBjcK5j6YrstPtPdDKUJ0y2.jpg"
+    },
+    {
+     "name": "Eesha Rebba",
+     "character": "Kalyani",
+     "slug": "eesha-rebba",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6oq2x8o2mEBOR82lNBtROcTeN9O.jpg"
+    },
+    {
+     "name": "Jackie Shroff",
+     "character": "Adiga",
+     "slug": "jackie-shroff",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1UNJypgEyuihUW2avLLVYj76jie.jpg"
+    },
+    {
+     "name": "Aadukalam Naren",
+     "character": null,
+     "slug": "aadukalam-naren",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w3a6Qwh6pbnU2j7vJlzpyc2r7Dw.jpg"
+    },
+    {
+     "name": "Amalda Liz",
+     "character": null,
+     "slug": "amalda-liz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dvre5bAj5rYQmcRoHWCSk4Hc88Y.jpg"
+    },
+    {
+     "name": "Jins Baskar",
+     "character": null,
+     "slug": "jins-baskar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bAWtxMgfGxZKZ4bvTqqeVMr8wyL.jpg"
+    },
+    {
+     "name": "Siyad Yadu",
+     "character": null,
+     "slug": "siyad-yadu",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Fellini T P",
+       "slug": "fellini-t-p"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "S Sanjeev",
+       "slug": "s-sanjeev"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "A. H. Kaashif",
+       "slug": "a-h-kaashif"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Gautham Shankar",
+       "slug": "gautham-shankar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Appu N. Bhattathiri",
+       "slug": "appu-n-bhattathiri"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shaji Nadesan",
+       "slug": "shaji-nadesan"
+      },
+      {
+       "name": "Arya",
+       "slug": "arya"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "The Show People",
+     "slug": "the-show-people",
+     "logo": null
+    },
+    {
+     "name": "August Cinema",
+     "slug": "august-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/1MQcG1KC3wJ0qyYtU9FOwAZldag.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2708,
+      "name": " AP International South Cinema Amazon Channel",
+      "logoPath": "/qe5IxHppN6JWNGf8xqSo2dgAbR4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-09-08",
+     "gross": 12270109.599999996,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2985,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-09-15",
+     "gross": 1317536.27,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 551,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-09-22",
+     "gross": 143314,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 60,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 13730959.869999995,
+    "totalShows": 3596,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 12270109.599999996
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 12270109.599999996
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 62,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-09-08"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 198,
+    "title": "Ottu",
+    "img": "https://image.tmdb.org/t/p/original/2cTDIaG9Hz5UaBFkwvXsrtXPdpZ.jpg",
+    "released": "2022-09-08",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt14312358",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "105 min",
+    "genre": "Thriller, Drama",
+    "plot": "Kichu takes up an assignment to befriend a gangster David, who has lost his memories to learn about a valuable gold shipment that has gone missing. Will Kichu pull off the task, or end up waking the monster in the gangster?",
+    "released": "2022-09-08",
+    "director": "Fellini T P",
+    "directorSlug": "fellini-t-p",
+    "actors": [
+     "Kunchacko Boban",
+     "Arvind Swamy",
+     "Eesha Rebba",
+     "Jackie Shroff",
+     "Aadukalam Naren",
+     "Amalda Liz"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 1324,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T22:11:03.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kunchacko Boban",
+     "character": "Kichu",
+     "slug": "kunchacko-boban",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1jdbIaYOBuhPNGS8XCqlzMsb0SV.jpg"
+    },
+    {
+     "name": "Arvind Swamy",
+     "character": "David",
+     "slug": "arvind-swamy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/axg3WBjcK5j6YrstPtPdDKUJ0y2.jpg"
+    },
+    {
+     "name": "Eesha Rebba",
+     "character": "Kalyani",
+     "slug": "eesha-rebba",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6oq2x8o2mEBOR82lNBtROcTeN9O.jpg"
+    },
+    {
+     "name": "Jackie Shroff",
+     "character": "Adiga",
+     "slug": "jackie-shroff",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1UNJypgEyuihUW2avLLVYj76jie.jpg"
+    },
+    {
+     "name": "Aadukalam Naren",
+     "character": null,
+     "slug": "aadukalam-naren",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/w3a6Qwh6pbnU2j7vJlzpyc2r7Dw.jpg"
+    },
+    {
+     "name": "Amalda Liz",
+     "character": null,
+     "slug": "amalda-liz",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/dvre5bAj5rYQmcRoHWCSk4Hc88Y.jpg"
+    },
+    {
+     "name": "Jins Baskar",
+     "character": null,
+     "slug": "jins-baskar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bAWtxMgfGxZKZ4bvTqqeVMr8wyL.jpg"
+    },
+    {
+     "name": "Siyad Yadu",
+     "character": null,
+     "slug": "siyad-yadu",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Fellini T P",
+       "slug": "fellini-t-p"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "S Sanjeev",
+       "slug": "s-sanjeev"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "A. H. Kaashif",
+       "slug": "a-h-kaashif"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Gautham Shankar",
+       "slug": "gautham-shankar"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Appu N. Bhattathiri",
+       "slug": "appu-n-bhattathiri"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shaji Nadesan",
+       "slug": "shaji-nadesan"
+      },
+      {
+       "name": "Arya",
+       "slug": "arya"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "The Show People",
+     "slug": "the-show-people",
+     "logo": null
+    },
+    {
+     "name": "August Cinema",
+     "slug": "august-cinema",
+     "logo": "https://image.tmdb.org/t/p/w185/1MQcG1KC3wJ0qyYtU9FOwAZldag.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2708,
+      "name": " AP International South Cinema Amazon Channel",
+      "logoPath": "/qe5IxHppN6JWNGf8xqSo2dgAbR4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 13730959.870000001,
+    "totalShows": 3596,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 3492540,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3492540,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 62,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-09-08"
+   }
+  }
+ }
+}

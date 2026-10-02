@@ -1,0 +1,661 @@
+{
+ "id": 123,
+ "slug": "beast",
+ "source_url": "https://fridaymatinee.in/boxoffice/beast-123",
+ "captured_at": "2026-10-01T18:01:37.633442+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 123,
+    "title": "Beast",
+    "img": "https://www.fridaymatinee.in/fmbo/images/posters/Beast-123.webp",
+    "released": "2022-04-13",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11301946",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "155 min",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "A former RAW officer, who is among the hostages in a mall taken over by terrorists, has to foil their plans and prevent the government from releasing a dreaded terrorist, who he had helped put in prison at great personal cost.",
+    "released": "2022-04-12",
+    "director": "Nelson Dilipkumar",
+    "directorSlug": "nelson-dilipkumar",
+    "actors": [
+     "Vijay",
+     "Pooja Hegde",
+     "Selvaraghavan",
+     "Shine Tom Chacko",
+     "Yogi Babu",
+     "Redin Kingsley"
+    ],
+    "awards": "3 wins u0026 7 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.2",
+      "votes": 39790,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.2",
+      "votes": 89,
+      "updatedAt": "2026-09-25T01:10:29.000Z"
+     },
+     "rt": "68%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vijay",
+     "character": "Veera Raghavan",
+     "slug": "joseph-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y7UJa3TT9GTe8nXW0rLkNYeLiDu.jpg"
+    },
+    {
+     "name": "Pooja Hegde",
+     "character": "Preethi",
+     "slug": "pooja-hegde",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2ZxrR6DVIWtDDtmIhJ6i64wwWSU.jpg"
+    },
+    {
+     "name": "Selvaraghavan",
+     "character": "Althaf Hussain",
+     "slug": "selvaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iTEdyvN5XoB0fl6kMg0tChBY4Ml.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Terrorist",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Yogi Babu",
+     "character": "Jill",
+     "slug": "yogi-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+    },
+    {
+     "name": "Redin Kingsley",
+     "character": "Jack",
+     "slug": "redin-kingsley",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/JX9ukTnXCNBlsbQeHGY85qf3du.jpg"
+    },
+    {
+     "name": "VTV Ganesh",
+     "character": "Dominic",
+     "slug": "vtv-ganesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5JomvpPx6PrExYcZAbHM1MoHjoZ.jpg"
+    },
+    {
+     "name": "Shaji Chen",
+     "character": "Home Minister",
+     "slug": "shaji-chen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yUzs3zZsjaMjM3SpupkIw82Jp6F.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nelson Dilipkumar",
+       "slug": "nelson-dilipkumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Nelson Dilipkumar",
+       "slug": "nelson-dilipkumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Manoj Paramahamsa",
+       "slug": "manoj-paramahamsa"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "R. Nirmal",
+       "slug": "r-nirmal"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kalanithi Maran",
+       "slug": "kalanithi-maran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sun Pictures",
+     "slug": "sun-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8KsxNPnM0y9Dk3fOcHqKUDw2XUs.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-04-12",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 66602614.089999996,
+    "totalShows": 8079,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 37297847.88999999,
+     "date": "2022-04-13"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 37297847.88999999,
+     "date": "2022-04-13"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 15,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-04-13"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 123,
+    "title": "Beast",
+    "img": "https://www.fridaymatinee.in/fmbo/images/posters/Beast-123.webp",
+    "released": "2022-04-13",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11301946",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "155 min",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "A former RAW officer, who is among the hostages in a mall taken over by terrorists, has to foil their plans and prevent the government from releasing a dreaded terrorist, who he had helped put in prison at great personal cost.",
+    "released": "2022-04-12",
+    "director": "Nelson Dilipkumar",
+    "directorSlug": "nelson-dilipkumar",
+    "actors": [
+     "Vijay",
+     "Pooja Hegde",
+     "Selvaraghavan",
+     "Shine Tom Chacko",
+     "Yogi Babu",
+     "Redin Kingsley"
+    ],
+    "awards": "3 wins u0026 7 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.2",
+      "votes": 39790,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.2",
+      "votes": 89,
+      "updatedAt": "2026-09-25T01:10:29.000Z"
+     },
+     "rt": "68%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vijay",
+     "character": "Veera Raghavan",
+     "slug": "joseph-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y7UJa3TT9GTe8nXW0rLkNYeLiDu.jpg"
+    },
+    {
+     "name": "Pooja Hegde",
+     "character": "Preethi",
+     "slug": "pooja-hegde",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2ZxrR6DVIWtDDtmIhJ6i64wwWSU.jpg"
+    },
+    {
+     "name": "Selvaraghavan",
+     "character": "Althaf Hussain",
+     "slug": "selvaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iTEdyvN5XoB0fl6kMg0tChBY4Ml.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Terrorist",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Yogi Babu",
+     "character": "Jill",
+     "slug": "yogi-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+    },
+    {
+     "name": "Redin Kingsley",
+     "character": "Jack",
+     "slug": "redin-kingsley",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/JX9ukTnXCNBlsbQeHGY85qf3du.jpg"
+    },
+    {
+     "name": "VTV Ganesh",
+     "character": "Dominic",
+     "slug": "vtv-ganesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5JomvpPx6PrExYcZAbHM1MoHjoZ.jpg"
+    },
+    {
+     "name": "Shaji Chen",
+     "character": "Home Minister",
+     "slug": "shaji-chen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yUzs3zZsjaMjM3SpupkIw82Jp6F.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nelson Dilipkumar",
+       "slug": "nelson-dilipkumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Nelson Dilipkumar",
+       "slug": "nelson-dilipkumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Manoj Paramahamsa",
+       "slug": "manoj-paramahamsa"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "R. Nirmal",
+       "slug": "r-nirmal"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kalanithi Maran",
+       "slug": "kalanithi-maran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sun Pictures",
+     "slug": "sun-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8KsxNPnM0y9Dk3fOcHqKUDw2XUs.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-04-12",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-04-13",
+     "gross": 62182403.089999996,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5932,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-04-20",
+     "gross": 4405082,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2137,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-04-27",
+     "gross": 15129,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 10,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 66602614.089999996,
+    "totalShows": 8079,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 62182403.089999996
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 62182403.089999996
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 15,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-04-13"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 123,
+    "title": "Beast",
+    "img": "https://www.fridaymatinee.in/fmbo/images/posters/Beast-123.webp",
+    "released": "2022-04-13",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11301946",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "155 min",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "A former RAW officer, who is among the hostages in a mall taken over by terrorists, has to foil their plans and prevent the government from releasing a dreaded terrorist, who he had helped put in prison at great personal cost.",
+    "released": "2022-04-12",
+    "director": "Nelson Dilipkumar",
+    "directorSlug": "nelson-dilipkumar",
+    "actors": [
+     "Vijay",
+     "Pooja Hegde",
+     "Selvaraghavan",
+     "Shine Tom Chacko",
+     "Yogi Babu",
+     "Redin Kingsley"
+    ],
+    "awards": "3 wins u0026 7 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.2",
+      "votes": 39790,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.2",
+      "votes": 89,
+      "updatedAt": "2026-09-25T01:10:29.000Z"
+     },
+     "rt": "68%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Vijay",
+     "character": "Veera Raghavan",
+     "slug": "joseph-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/y7UJa3TT9GTe8nXW0rLkNYeLiDu.jpg"
+    },
+    {
+     "name": "Pooja Hegde",
+     "character": "Preethi",
+     "slug": "pooja-hegde",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/2ZxrR6DVIWtDDtmIhJ6i64wwWSU.jpg"
+    },
+    {
+     "name": "Selvaraghavan",
+     "character": "Althaf Hussain",
+     "slug": "selvaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iTEdyvN5XoB0fl6kMg0tChBY4Ml.jpg"
+    },
+    {
+     "name": "Shine Tom Chacko",
+     "character": "Terrorist",
+     "slug": "shine-tom-chacko",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lIfhgkTK8bgM5jS2R91ZvCxKIwj.jpg"
+    },
+    {
+     "name": "Yogi Babu",
+     "character": "Jill",
+     "slug": "yogi-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lTNb5POaftGHXzgN9aIegcehh89.jpg"
+    },
+    {
+     "name": "Redin Kingsley",
+     "character": "Jack",
+     "slug": "redin-kingsley",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/JX9ukTnXCNBlsbQeHGY85qf3du.jpg"
+    },
+    {
+     "name": "VTV Ganesh",
+     "character": "Dominic",
+     "slug": "vtv-ganesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5JomvpPx6PrExYcZAbHM1MoHjoZ.jpg"
+    },
+    {
+     "name": "Shaji Chen",
+     "character": "Home Minister",
+     "slug": "shaji-chen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yUzs3zZsjaMjM3SpupkIw82Jp6F.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Nelson Dilipkumar",
+       "slug": "nelson-dilipkumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Nelson Dilipkumar",
+       "slug": "nelson-dilipkumar"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Manoj Paramahamsa",
+       "slug": "manoj-paramahamsa"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "R. Nirmal",
+       "slug": "r-nirmal"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kalanithi Maran",
+       "slug": "kalanithi-maran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sun Pictures",
+     "slug": "sun-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8KsxNPnM0y9Dk3fOcHqKUDw2XUs.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-04-12",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 66602614.09,
+    "totalShows": 8079,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 13239537,
+     "date": "Thiruvananthapuram"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 13239537,
+     "date": "Thiruvananthapuram"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 15,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-04-13"
+   }
+  }
+ }
+}

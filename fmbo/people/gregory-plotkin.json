@@ -1,0 +1,41 @@
+{
+ "slug": "gregory-plotkin",
+ "name": "Gregory Plotkin",
+ "source_url": "https://fridaymatinee.in/people/gregory-plotkin",
+ "captured_at": "2026-10-01T22:36:00.231268+00:00",
+ "person": {
+  "name": "Gregory Plotkin",
+  "photo": "https://image.tmdb.org/t/p/w185/sUGMMdWoLobZE4DuaXhLTOPVkby.jpg",
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 804,
+   "movie_slug": "the-conjuring-last-rites",
+   "title": "The Conjuring Last Rites",
+   "year": 2025,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 885,
+   "movie_slug": "anaconda",
+   "title": "Anaconda",
+   "year": 2025,
+   "kerala_gross": "₹31.6L"
+  },
+  {
+   "movie_id": 1235,
+   "movie_slug": "insidious-out-of-the-further",
+   "title": "Insidious: Out of the Further",
+   "year": 2026,
+   "kerala_gross": "₹26.8L"
+  }
+ ]
+}

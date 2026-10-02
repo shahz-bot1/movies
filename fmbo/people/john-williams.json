@@ -1,0 +1,41 @@
+{
+ "slug": "john-williams",
+ "name": "John Williams",
+ "source_url": "https://fridaymatinee.in/people/john-williams",
+ "captured_at": "2026-10-01T23:23:10.060583+00:00",
+ "person": {
+  "name": "John Williams",
+  "photo": "https://image.tmdb.org/t/p/w185/wswitHP5jQNvsIxd6Yypa1Crmn1.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 714,
+   "movie_slug": "jurassic-world-rebirth",
+   "title": "Jurassic World Rebirth",
+   "year": 2025,
+   "kerala_gross": "₹5.8 Cr"
+  },
+  {
+   "movie_id": 632,
+   "movie_slug": "superman",
+   "title": "Superman",
+   "year": 2025,
+   "kerala_gross": "₹3.7 Cr"
+  },
+  {
+   "movie_id": 1143,
+   "movie_slug": "disclosure-day",
+   "title": "Disclosure Day",
+   "year": 2026,
+   "kerala_gross": "₹48.4L"
+  }
+ ]
+}

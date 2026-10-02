@@ -1,0 +1,1515 @@
+{
+ "id": 1005,
+ "slug": "spa",
+ "source_url": "https://fridaymatinee.in/boxoffice/spa-1005",
+ "captured_at": "2026-10-01T18:36:13.021883+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1005,
+    "title": "Spa",
+    "img": "https://image.tmdb.org/t/p/original/clYMYFXcDZSpURJBvEDISnFUpSp.jpg",
+    "released": "2026-02-13",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt39028247",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "116 min",
+    "genre": "Drama",
+    "plot": "The narrative follows the intertwined lives of people connected to La Paradise, an urban massage therapy centre. It centres on Mathan, a man struggling to distinguish between the reality of love and its fictionalised ideals. Through a sharp lens of social satire, the story explores adult themes and human behaviour within this unique urban setting.",
+    "released": "2026-02-13",
+    "director": "Abrid Shine",
+    "directorSlug": "abrid-shine",
+    "actors": [
+     "Shruthy Menon",
+     "Radhika Radhakrishnan",
+     "Sreeja Das",
+     "Poojitha Menon",
+     "Rima Dutta",
+     "Sreelakshmi Bhatt"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 320,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T13:10:45.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shruthy Menon",
+     "character": null,
+     "slug": "shruthy-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mBgSAZn28MhYUXzrC544V9YM50a.jpg"
+    },
+    {
+     "name": "Radhika Radhakrishnan",
+     "character": null,
+     "slug": "radhika-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xQYytlP1GkKTjobLSxKI5VF6xcI.jpg"
+    },
+    {
+     "name": "Sreeja Das",
+     "character": null,
+     "slug": "sreeja-das",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yYNaDI2mHo1p9uLmYd3d6x7GJQk.jpg"
+    },
+    {
+     "name": "Poojitha Menon",
+     "character": null,
+     "slug": "poojitha-menon",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rima Dutta",
+     "character": null,
+     "slug": "rima-dutta",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sreelakshmi Bhatt",
+     "character": null,
+     "slug": "sreelakshmi-bhatt",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sidharth Bharathan",
+     "character": null,
+     "slug": "sidharth-bharathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4a13KELmZuB4NnRlOsdzMfo2K7j.jpg"
+    },
+    {
+     "name": "Neena Kurup",
+     "character": null,
+     "slug": "neena-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6S8Qd5iBDVI7EBCVWUujrpih7CD.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abrid Shine",
+       "slug": "abrid-shine"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Abrid Shine",
+       "slug": "abrid-shine"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ishaan Chhabra",
+       "slug": "ishaan-chhabra"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Swaroop Philip",
+       "slug": "swaroop-philip"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Manoj",
+       "slug": "manoj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sanchoo J",
+       "slug": "sanchoo-j"
+      },
+      {
+       "name": "Sajimon Parayil",
+       "slug": "sajimon-parayil"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sparayil Cinemas",
+     "slug": "sparayil-cinemas",
+     "logo": null
+    },
+    {
+     "name": "Sanchod J Films",
+     "slug": "sanchod-j-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-05-28",
+    "platforms": [
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-03-04": [
+     {
+      "id": 631,
+      "title": "The Bride",
+      "img": "https://image.tmdb.org/t/p/original/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+     }
+    ],
+    "2026-02-14": [
+     {
+      "id": 1011,
+      "title": "Seetha Payanam",
+      "img": "https://image.tmdb.org/t/p/original/ubYKOsmUXdz4GQgVndBAze8G5UM.jpg"
+     }
+    ],
+    "2026-02-19": [
+     {
+      "id": 1013,
+      "title": "GOAT",
+      "img": "https://image.tmdb.org/t/p/original/loVFe4kTWQDLTZSwO5HvLBJDDk2.jpg"
+     }
+    ],
+    "2026-02-20": [
+     {
+      "id": 1014,
+      "title": "Do Deewane Seher Mein",
+      "img": "https://image.tmdb.org/t/p/original/p8yPjT9NAH87oD9TedclRaAW7RY.jpg"
+     },
+     {
+      "id": 1015,
+      "title": "Assi",
+      "img": "https://image.tmdb.org/t/p/original/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg"
+     }
+    ],
+    "2026-02-27": [
+     {
+      "id": 1019,
+      "title": "Hamnet",
+      "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+     },
+     {
+      "id": 1020,
+      "title": "Masthishka Maranam",
+      "img": "https://image.tmdb.org/t/p/original/tC6dhwbZ7LDCx9RyDNiPOaLvMId.jpg"
+     },
+     {
+      "id": 1022,
+      "title": "The Kerala Story 2 Goes Beyond",
+      "img": "https://image.tmdb.org/t/p/original/5btAk8YTRT3FLsqQBumN5eCk8xO.jpg"
+     }
+    ],
+    "2026-03-06": [
+     {
+      "id": 1030,
+      "title": "Sambhavam Adhyayam Onnu",
+      "img": "https://image.tmdb.org/t/p/original/tBNSo4T0R8UztkkpjYkzXI4bFAT.jpg"
+     },
+     {
+      "id": 1055,
+      "title": "Hoppers",
+      "img": "https://image.tmdb.org/t/p/original/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+     }
+    ],
+    "2026-03-13": [
+     {
+      "id": 1036,
+      "title": "Iron Lung",
+      "img": "https://image.tmdb.org/t/p/original/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
+     },
+     {
+      "id": 1037,
+      "title": "Aurora: What Happened to the Earth?",
+      "img": "https://image.tmdb.org/t/p/original/fYShYKxsa8ZiMkPkbjiVoKnD9jV.jpg"
+     },
+     {
+      "id": 1039,
+      "title": "Reminders of Him",
+      "img": "https://image.tmdb.org/t/p/original/9ikCZPDyQ7P40bpWJGo3kg2bA9m.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-02-14",
+     "gross": 282642,
+     "sold": 1680,
+     "unsold": 29863,
+     "shows": 128,
+     "occ": 5.33,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 282642,
+     "lastUpdatedAt": "2026-02-14 23:56:19"
+    },
+    {
+     "label": "2026-02-15",
+     "gross": 487396.9999999997,
+     "sold": 2794,
+     "unsold": 50761,
+     "shows": 209,
+     "occ": 5.22,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 770038.9999999998,
+     "lastUpdatedAt": "2026-02-15 23:56:33"
+    },
+    {
+     "label": "2026-02-16",
+     "gross": 455689.9999999997,
+     "sold": 3072,
+     "unsold": 33179,
+     "shows": 150,
+     "occ": 8.47,
+     "hf": "4",
+     "almost": "4",
+     "ff": "0",
+     "cumul": 1225728.9999999995,
+     "lastUpdatedAt": "2026-02-16 23:56:35"
+    },
+    {
+     "label": "2026-02-17",
+     "gross": 320993,
+     "sold": 1992,
+     "unsold": 29249,
+     "shows": 132,
+     "occ": 6.38,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 1546721.9999999995,
+     "lastUpdatedAt": "2026-02-17 23:56:21"
+    },
+    {
+     "label": "2026-02-18",
+     "gross": 404670,
+     "sold": 2843,
+     "unsold": 24009,
+     "shows": 115,
+     "occ": 10.59,
+     "hf": "4",
+     "almost": "5",
+     "ff": "1",
+     "cumul": 1951391.9999999995,
+     "lastUpdatedAt": "2026-02-18 23:56:24"
+    },
+    {
+     "label": "2026-02-19",
+     "gross": 421834,
+     "sold": 2918,
+     "unsold": 19806,
+     "shows": 97,
+     "occ": 12.84,
+     "hf": "4",
+     "almost": "4",
+     "ff": "1",
+     "cumul": 2373225.9999999995,
+     "lastUpdatedAt": "2026-02-19 21:53:00"
+    },
+    {
+     "label": "2026-02-20",
+     "gross": 170564,
+     "sold": 1068,
+     "unsold": 13714,
+     "shows": 60,
+     "occ": 7.23,
+     "hf": "0",
+     "almost": "1",
+     "ff": "1",
+     "cumul": 2543789.9999999995,
+     "lastUpdatedAt": "2026-02-20 22:43:00"
+    },
+    {
+     "label": "2026-02-21",
+     "gross": 246616,
+     "sold": 1466,
+     "unsold": 11268,
+     "shows": 58,
+     "occ": 11.51,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 2790405.9999999995,
+     "lastUpdatedAt": "2026-02-21 22:48:00"
+    },
+    {
+     "label": "2026-02-22",
+     "gross": 270881,
+     "sold": 1631,
+     "unsold": 11014,
+     "shows": 58,
+     "occ": 12.9,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3061286.9999999995,
+     "lastUpdatedAt": "2026-02-22 22:43:00"
+    },
+    {
+     "label": "2026-02-23",
+     "gross": 9838,
+     "sold": 87,
+     "unsold": 2245,
+     "shows": 12,
+     "occ": 3.73,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3071124.9999999995,
+     "lastUpdatedAt": "2026-02-23 21:44:00"
+    },
+    {
+     "label": "2026-02-24",
+     "gross": 7820,
+     "sold": 72,
+     "unsold": 2115,
+     "shows": 12,
+     "occ": 3.29,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3078944.9999999995,
+     "lastUpdatedAt": "2026-02-24 21:44:00"
+    },
+    {
+     "label": "2026-02-25",
+     "gross": 7230,
+     "sold": 66,
+     "unsold": 2215,
+     "shows": 12,
+     "occ": 2.89,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3086174.9999999995,
+     "lastUpdatedAt": "2026-02-25 21:44:00"
+    },
+    {
+     "label": "2026-02-26",
+     "gross": 94834,
+     "sold": 555,
+     "unsold": 9286,
+     "shows": 46,
+     "occ": 5.64,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3181008.9999999995,
+     "lastUpdatedAt": "2026-02-26 23:08:00"
+    },
+    {
+     "label": "2026-02-27",
+     "gross": 65994,
+     "sold": 364,
+     "unsold": 5075,
+     "shows": 22,
+     "occ": 6.69,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3247002.9999999995,
+     "lastUpdatedAt": "2026-02-27 23:13:00"
+    },
+    {
+     "label": "2026-02-28",
+     "gross": 86098,
+     "sold": 472,
+     "unsold": 4866,
+     "shows": 25,
+     "occ": 8.84,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3333100.9999999995,
+     "lastUpdatedAt": "2026-02-28 23:13:00"
+    },
+    {
+     "label": "2026-03-01",
+     "gross": 87100,
+     "sold": 469,
+     "unsold": 5968,
+     "shows": 25,
+     "occ": 7.29,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 3420200.9999999995,
+     "lastUpdatedAt": "2026-03-01 23:13:00"
+    },
+    {
+     "label": "2026-03-02",
+     "gross": 53016,
+     "sold": 298,
+     "unsold": 4778,
+     "shows": 19,
+     "occ": 5.87,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3473216.9999999995,
+     "lastUpdatedAt": "2026-03-02 23:23:00"
+    },
+    {
+     "label": "2026-03-03",
+     "gross": 51872,
+     "sold": 439,
+     "unsold": 2923,
+     "shows": 13,
+     "occ": 13.06,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3525088.9999999995,
+     "lastUpdatedAt": "2026-03-03 23:23:00"
+    },
+    {
+     "label": "2026-03-04",
+     "gross": 50557,
+     "sold": 299,
+     "unsold": 3982,
+     "shows": 16,
+     "occ": 6.98,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3575645.9999999995,
+     "lastUpdatedAt": "2026-03-04 23:23:00"
+    },
+    {
+     "label": "2026-03-05",
+     "gross": 47858,
+     "sold": 282,
+     "unsold": 4157,
+     "shows": 17,
+     "occ": 6.35,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3623503.9999999995,
+     "lastUpdatedAt": "2026-03-05 23:23:00"
+    },
+    {
+     "label": "2026-03-06",
+     "gross": 28925,
+     "sold": 130,
+     "unsold": 958,
+     "shows": 6,
+     "occ": 11.95,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3652428.9999999995,
+     "lastUpdatedAt": "2026-03-06 23:23:00"
+    },
+    {
+     "label": "2026-03-07",
+     "gross": 30597,
+     "sold": 155,
+     "unsold": 933,
+     "shows": 6,
+     "occ": 14.25,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3683025.9999999995,
+     "lastUpdatedAt": "2026-03-07 23:23:00"
+    },
+    {
+     "label": "2026-03-08",
+     "gross": 25976,
+     "sold": 122,
+     "unsold": 1170,
+     "shows": 7,
+     "occ": 9.44,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3709001.9999999995,
+     "lastUpdatedAt": "2026-03-08 23:23:00"
+    },
+    {
+     "label": "2026-03-09",
+     "gross": 11446,
+     "sold": 61,
+     "unsold": 986,
+     "shows": 5,
+     "occ": 5.83,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3720447.9999999995,
+     "lastUpdatedAt": "2026-03-09 23:33:00"
+    },
+    {
+     "label": "2026-03-10",
+     "gross": 21836,
+     "sold": 155,
+     "unsold": 944,
+     "shows": 6,
+     "occ": 14.1,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3742283.9999999995,
+     "lastUpdatedAt": "2026-03-10 23:33:00"
+    },
+    {
+     "label": "2026-03-11",
+     "gross": 15370,
+     "sold": 90,
+     "unsold": 1432,
+     "shows": 7,
+     "occ": 5.91,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3757653.9999999995,
+     "lastUpdatedAt": "2026-03-11 23:38:00"
+    },
+    {
+     "label": "2026-03-12",
+     "gross": 14407,
+     "sold": 86,
+     "unsold": 1436,
+     "shows": 7,
+     "occ": 5.65,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3772060.9999999995,
+     "lastUpdatedAt": "2026-03-12 23:38:00"
+    },
+    {
+     "label": "2026-03-13",
+     "gross": 17264,
+     "sold": 92,
+     "unsold": 326,
+     "shows": 3,
+     "occ": 22.01,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3789324.9999999995,
+     "lastUpdatedAt": "2026-03-13 23:13:00"
+    },
+    {
+     "label": "2026-03-14",
+     "gross": 22873,
+     "sold": 103,
+     "unsold": 317,
+     "shows": 3,
+     "occ": 24.52,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3812197.9999999995,
+     "lastUpdatedAt": "2026-03-14 23:13:00"
+    },
+    {
+     "label": "2026-03-15",
+     "gross": 21343,
+     "sold": 113,
+     "unsold": 378,
+     "shows": 4,
+     "occ": 23.01,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3833540.9999999995,
+     "lastUpdatedAt": "2026-03-15 23:13:00"
+    },
+    {
+     "label": "2026-03-16",
+     "gross": 13872,
+     "sold": 72,
+     "unsold": 348,
+     "shows": 3,
+     "occ": 17.14,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3847412.9999999995,
+     "lastUpdatedAt": "2026-03-16 22:53:00"
+    },
+    {
+     "label": "2026-03-17",
+     "gross": 13019,
+     "sold": 73,
+     "unsold": 347,
+     "shows": 3,
+     "occ": 17.38,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3860431.9999999995,
+     "lastUpdatedAt": "2026-03-17 22:53:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 3860431.9999999995,
+    "totalShows": 1286,
+    "totalSeats": 304167,
+    "totalSold": 24119,
+    "avgOcc": "7.9",
+    "totalDays": 32,
+    "totalHousefull": 18,
+    "totalAlmost": 20,
+    "totalFastFilling": 3,
+    "peakDay": {
+     "day": 2,
+     "gross": 487396.9999999997,
+     "date": "2026-02-15"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 282642,
+     "date": "2026-02-14"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "32:13019:3860431.9999999995"
+  },
+  "week": {
+   "movie": {
+    "id": 1005,
+    "title": "Spa",
+    "img": "https://image.tmdb.org/t/p/original/clYMYFXcDZSpURJBvEDISnFUpSp.jpg",
+    "released": "2026-02-13",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt39028247",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "116 min",
+    "genre": "Drama",
+    "plot": "The narrative follows the intertwined lives of people connected to La Paradise, an urban massage therapy centre. It centres on Mathan, a man struggling to distinguish between the reality of love and its fictionalised ideals. Through a sharp lens of social satire, the story explores adult themes and human behaviour within this unique urban setting.",
+    "released": "2026-02-13",
+    "director": "Abrid Shine",
+    "directorSlug": "abrid-shine",
+    "actors": [
+     "Shruthy Menon",
+     "Radhika Radhakrishnan",
+     "Sreeja Das",
+     "Poojitha Menon",
+     "Rima Dutta",
+     "Sreelakshmi Bhatt"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 320,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T13:10:45.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shruthy Menon",
+     "character": null,
+     "slug": "shruthy-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mBgSAZn28MhYUXzrC544V9YM50a.jpg"
+    },
+    {
+     "name": "Radhika Radhakrishnan",
+     "character": null,
+     "slug": "radhika-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xQYytlP1GkKTjobLSxKI5VF6xcI.jpg"
+    },
+    {
+     "name": "Sreeja Das",
+     "character": null,
+     "slug": "sreeja-das",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yYNaDI2mHo1p9uLmYd3d6x7GJQk.jpg"
+    },
+    {
+     "name": "Poojitha Menon",
+     "character": null,
+     "slug": "poojitha-menon",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rima Dutta",
+     "character": null,
+     "slug": "rima-dutta",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sreelakshmi Bhatt",
+     "character": null,
+     "slug": "sreelakshmi-bhatt",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sidharth Bharathan",
+     "character": null,
+     "slug": "sidharth-bharathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4a13KELmZuB4NnRlOsdzMfo2K7j.jpg"
+    },
+    {
+     "name": "Neena Kurup",
+     "character": null,
+     "slug": "neena-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6S8Qd5iBDVI7EBCVWUujrpih7CD.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abrid Shine",
+       "slug": "abrid-shine"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Abrid Shine",
+       "slug": "abrid-shine"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ishaan Chhabra",
+       "slug": "ishaan-chhabra"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Swaroop Philip",
+       "slug": "swaroop-philip"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Manoj",
+       "slug": "manoj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sanchoo J",
+       "slug": "sanchoo-j"
+      },
+      {
+       "name": "Sajimon Parayil",
+       "slug": "sajimon-parayil"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sparayil Cinemas",
+     "slug": "sparayil-cinemas",
+     "logo": null
+    },
+    {
+     "name": "Sanchod J Films",
+     "slug": "sanchod-j-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-05-28",
+    "platforms": [
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-03-04": [
+     {
+      "id": 631,
+      "title": "The Bride",
+      "img": "https://image.tmdb.org/t/p/original/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+     }
+    ],
+    "2026-02-14": [
+     {
+      "id": 1011,
+      "title": "Seetha Payanam",
+      "img": "https://image.tmdb.org/t/p/original/ubYKOsmUXdz4GQgVndBAze8G5UM.jpg"
+     }
+    ],
+    "2026-02-19": [
+     {
+      "id": 1013,
+      "title": "GOAT",
+      "img": "https://image.tmdb.org/t/p/original/loVFe4kTWQDLTZSwO5HvLBJDDk2.jpg"
+     }
+    ],
+    "2026-02-20": [
+     {
+      "id": 1014,
+      "title": "Do Deewane Seher Mein",
+      "img": "https://image.tmdb.org/t/p/original/p8yPjT9NAH87oD9TedclRaAW7RY.jpg"
+     },
+     {
+      "id": 1015,
+      "title": "Assi",
+      "img": "https://image.tmdb.org/t/p/original/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg"
+     }
+    ],
+    "2026-02-27": [
+     {
+      "id": 1019,
+      "title": "Hamnet",
+      "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+     },
+     {
+      "id": 1020,
+      "title": "Masthishka Maranam",
+      "img": "https://image.tmdb.org/t/p/original/tC6dhwbZ7LDCx9RyDNiPOaLvMId.jpg"
+     },
+     {
+      "id": 1022,
+      "title": "The Kerala Story 2 Goes Beyond",
+      "img": "https://image.tmdb.org/t/p/original/5btAk8YTRT3FLsqQBumN5eCk8xO.jpg"
+     }
+    ],
+    "2026-03-06": [
+     {
+      "id": 1030,
+      "title": "Sambhavam Adhyayam Onnu",
+      "img": "https://image.tmdb.org/t/p/original/tBNSo4T0R8UztkkpjYkzXI4bFAT.jpg"
+     },
+     {
+      "id": 1055,
+      "title": "Hoppers",
+      "img": "https://image.tmdb.org/t/p/original/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+     }
+    ],
+    "2026-03-13": [
+     {
+      "id": 1036,
+      "title": "Iron Lung",
+      "img": "https://image.tmdb.org/t/p/original/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
+     },
+     {
+      "id": 1037,
+      "title": "Aurora: What Happened to the Earth?",
+      "img": "https://image.tmdb.org/t/p/original/fYShYKxsa8ZiMkPkbjiVoKnD9jV.jpg"
+     },
+     {
+      "id": 1039,
+      "title": "Reminders of Him",
+      "img": "https://image.tmdb.org/t/p/original/9ikCZPDyQ7P40bpWJGo3kg2bA9m.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-02-14",
+     "gross": 2543789.9999999995,
+     "sold": 16367,
+     "unsold": 200581,
+     "shows": 891,
+     "occ": 7.54,
+     "hf": "17",
+     "almost": "19",
+     "ff": "3",
+     "cumul": 2543789.9999999995,
+     "lastUpdatedAt": "2026-02-20 22:43:00"
+    },
+    {
+     "label": "2026-02-21",
+     "gross": 703213,
+     "sold": 4241,
+     "unsold": 43218,
+     "shows": 220,
+     "occ": 8.94,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3247002.9999999995,
+     "lastUpdatedAt": "2026-02-27 23:13:00"
+    },
+    {
+     "label": "2026-02-28",
+     "gross": 405426,
+     "sold": 2389,
+     "unsold": 27632,
+     "shows": 121,
+     "occ": 7.96,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 3652428.9999999995,
+     "lastUpdatedAt": "2026-03-06 23:23:00"
+    },
+    {
+     "label": "2026-03-07",
+     "gross": 136896,
+     "sold": 761,
+     "unsold": 7227,
+     "shows": 41,
+     "occ": 9.53,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3789324.9999999995,
+     "lastUpdatedAt": "2026-03-13 23:13:00"
+    },
+    {
+     "label": "2026-03-14",
+     "gross": 71107,
+     "sold": 361,
+     "unsold": 1390,
+     "shows": 13,
+     "occ": 20.62,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3860431.9999999995,
+     "lastUpdatedAt": "2026-03-17 22:53:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 3860431.9999999995,
+    "totalShows": 1286,
+    "totalSeats": 304167,
+    "totalSold": 24119,
+    "avgOcc": "7.9",
+    "totalDays": 5,
+    "totalHousefull": 18,
+    "totalAlmost": 20,
+    "totalFastFilling": 3,
+    "peakDay": {
+     "day": 1,
+     "gross": 2543789.9999999995
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 2543789.9999999995
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "5:71107:3860431.9999999995"
+  },
+  "district": {
+   "movie": {
+    "id": 1005,
+    "title": "Spa",
+    "img": "https://image.tmdb.org/t/p/original/clYMYFXcDZSpURJBvEDISnFUpSp.jpg",
+    "released": "2026-02-13",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt39028247",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "116 min",
+    "genre": "Drama",
+    "plot": "The narrative follows the intertwined lives of people connected to La Paradise, an urban massage therapy centre. It centres on Mathan, a man struggling to distinguish between the reality of love and its fictionalised ideals. Through a sharp lens of social satire, the story explores adult themes and human behaviour within this unique urban setting.",
+    "released": "2026-02-13",
+    "director": "Abrid Shine",
+    "directorSlug": "abrid-shine",
+    "actors": [
+     "Shruthy Menon",
+     "Radhika Radhakrishnan",
+     "Sreeja Das",
+     "Poojitha Menon",
+     "Rima Dutta",
+     "Sreelakshmi Bhatt"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 320,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T13:10:45.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shruthy Menon",
+     "character": null,
+     "slug": "shruthy-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mBgSAZn28MhYUXzrC544V9YM50a.jpg"
+    },
+    {
+     "name": "Radhika Radhakrishnan",
+     "character": null,
+     "slug": "radhika-radhakrishnan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xQYytlP1GkKTjobLSxKI5VF6xcI.jpg"
+    },
+    {
+     "name": "Sreeja Das",
+     "character": null,
+     "slug": "sreeja-das",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yYNaDI2mHo1p9uLmYd3d6x7GJQk.jpg"
+    },
+    {
+     "name": "Poojitha Menon",
+     "character": null,
+     "slug": "poojitha-menon",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Rima Dutta",
+     "character": null,
+     "slug": "rima-dutta",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sreelakshmi Bhatt",
+     "character": null,
+     "slug": "sreelakshmi-bhatt",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Sidharth Bharathan",
+     "character": null,
+     "slug": "sidharth-bharathan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4a13KELmZuB4NnRlOsdzMfo2K7j.jpg"
+    },
+    {
+     "name": "Neena Kurup",
+     "character": null,
+     "slug": "neena-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6S8Qd5iBDVI7EBCVWUujrpih7CD.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abrid Shine",
+       "slug": "abrid-shine"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Abrid Shine",
+       "slug": "abrid-shine"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ishaan Chhabra",
+       "slug": "ishaan-chhabra"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Swaroop Philip",
+       "slug": "swaroop-philip"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Manoj",
+       "slug": "manoj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sanchoo J",
+       "slug": "sanchoo-j"
+      },
+      {
+       "name": "Sajimon Parayil",
+       "slug": "sajimon-parayil"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sparayil Cinemas",
+     "slug": "sparayil-cinemas",
+     "logo": null
+    },
+    {
+     "name": "Sanchod J Films",
+     "slug": "sanchod-j-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-05-28",
+    "platforms": [
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-03-04": [
+     {
+      "id": 631,
+      "title": "The Bride",
+      "img": "https://image.tmdb.org/t/p/original/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg"
+     }
+    ],
+    "2026-02-14": [
+     {
+      "id": 1011,
+      "title": "Seetha Payanam",
+      "img": "https://image.tmdb.org/t/p/original/ubYKOsmUXdz4GQgVndBAze8G5UM.jpg"
+     }
+    ],
+    "2026-02-19": [
+     {
+      "id": 1013,
+      "title": "GOAT",
+      "img": "https://image.tmdb.org/t/p/original/loVFe4kTWQDLTZSwO5HvLBJDDk2.jpg"
+     }
+    ],
+    "2026-02-20": [
+     {
+      "id": 1014,
+      "title": "Do Deewane Seher Mein",
+      "img": "https://image.tmdb.org/t/p/original/p8yPjT9NAH87oD9TedclRaAW7RY.jpg"
+     },
+     {
+      "id": 1015,
+      "title": "Assi",
+      "img": "https://image.tmdb.org/t/p/original/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg"
+     }
+    ],
+    "2026-02-27": [
+     {
+      "id": 1019,
+      "title": "Hamnet",
+      "img": "https://image.tmdb.org/t/p/original/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+     },
+     {
+      "id": 1020,
+      "title": "Masthishka Maranam",
+      "img": "https://image.tmdb.org/t/p/original/tC6dhwbZ7LDCx9RyDNiPOaLvMId.jpg"
+     },
+     {
+      "id": 1022,
+      "title": "The Kerala Story 2 Goes Beyond",
+      "img": "https://image.tmdb.org/t/p/original/5btAk8YTRT3FLsqQBumN5eCk8xO.jpg"
+     }
+    ],
+    "2026-03-06": [
+     {
+      "id": 1030,
+      "title": "Sambhavam Adhyayam Onnu",
+      "img": "https://image.tmdb.org/t/p/original/tBNSo4T0R8UztkkpjYkzXI4bFAT.jpg"
+     },
+     {
+      "id": 1055,
+      "title": "Hoppers",
+      "img": "https://image.tmdb.org/t/p/original/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+     }
+    ],
+    "2026-03-13": [
+     {
+      "id": 1036,
+      "title": "Iron Lung",
+      "img": "https://image.tmdb.org/t/p/original/sIwakdbMGS1krtgendTWpxTY9Hw.jpg"
+     },
+     {
+      "id": 1037,
+      "title": "Aurora: What Happened to the Earth?",
+      "img": "https://image.tmdb.org/t/p/original/fYShYKxsa8ZiMkPkbjiVoKnD9jV.jpg"
+     },
+     {
+      "id": 1039,
+      "title": "Reminders of Him",
+      "img": "https://image.tmdb.org/t/p/original/9ikCZPDyQ7P40bpWJGo3kg2bA9m.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 1800759,
+     "sold": 9767,
+     "unsold": 39390,
+     "shows": 265,
+     "occ": 19.87,
+     "hf": "1",
+     "almost": "3",
+     "ff": "3",
+     "cumul": 1800759,
+     "lastUpdatedAt": "2026-03-17 22:53:00"
+    },
+    {
+     "label": "Palakkad",
+     "gross": 672249,
+     "sold": 5346,
+     "unsold": 20859,
+     "shows": 100,
+     "occ": 20.4,
+     "hf": "12",
+     "almost": "12",
+     "ff": "0",
+     "cumul": 2473008,
+     "lastUpdatedAt": "2026-02-26 20:28:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 327138,
+     "sold": 1965,
+     "unsold": 45767,
+     "shows": 158,
+     "occ": 4.12,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 2800146,
+     "lastUpdatedAt": "2026-03-08 23:13:00"
+    },
+    {
+     "label": "Thrissur",
+     "gross": 302416,
+     "sold": 2012,
+     "unsold": 36883,
+     "shows": 133,
+     "occ": 5.17,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3102562,
+     "lastUpdatedAt": "2026-03-12 17:48:00"
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 235531,
+     "sold": 1286,
+     "unsold": 28911,
+     "shows": 133,
+     "occ": 4.26,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3338093,
+     "lastUpdatedAt": "2026-03-05 22:14:00"
+    },
+    {
+     "label": "Malappuram",
+     "gross": 138059,
+     "sold": 1213,
+     "unsold": 24402,
+     "shows": 147,
+     "occ": 4.74,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3476152,
+     "lastUpdatedAt": "2026-02-28 21:44:00"
+    },
+    {
+     "label": "Kollam",
+     "gross": 118200,
+     "sold": 784,
+     "unsold": 17603,
+     "shows": 62,
+     "occ": 4.26,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 3594352,
+     "lastUpdatedAt": "2026-02-26 16:28:00"
+    },
+    {
+     "label": "Kottayam",
+     "gross": 90305,
+     "sold": 651,
+     "unsold": 26573,
+     "shows": 83,
+     "occ": 2.39,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3684657,
+     "lastUpdatedAt": "2026-03-05 13:43:00"
+    },
+    {
+     "label": "Kannur",
+     "gross": 83454.99999999945,
+     "sold": 482,
+     "unsold": 19459,
+     "shows": 96,
+     "occ": 2.42,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 3768111.9999999995,
+     "lastUpdatedAt": "2026-02-28 12:59:00"
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 43670,
+     "sold": 309,
+     "unsold": 6351,
+     "shows": 29,
+     "occ": 4.64,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3811781.9999999995,
+     "lastUpdatedAt": "2026-02-22 16:28:00"
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 28930,
+     "sold": 192,
+     "unsold": 7011,
+     "shows": 40,
+     "occ": 2.67,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3840711.9999999995,
+     "lastUpdatedAt": "2026-02-19 21:18:00"
+    },
+    {
+     "label": "Idukki",
+     "gross": 13810,
+     "sold": 78,
+     "unsold": 5141,
+     "shows": 32,
+     "occ": 1.49,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3854521.9999999995,
+     "lastUpdatedAt": "2026-02-19 18:08:00"
+    },
+    {
+     "label": "Pathanamthitta",
+     "gross": 5460,
+     "sold": 31,
+     "unsold": 631,
+     "shows": 3,
+     "occ": 4.68,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3859981.9999999995,
+     "lastUpdatedAt": "2026-02-15 13:23:00"
+    },
+    {
+     "label": "Wayanad",
+     "gross": 450,
+     "sold": 3,
+     "unsold": 1067,
+     "shows": 5,
+     "occ": 0.28,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 3860431.9999999995,
+     "lastUpdatedAt": "2026-02-15 20:44:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 3860431.9999999995,
+    "totalShows": 1286,
+    "totalSeats": 304167,
+    "totalSold": 24119,
+    "avgOcc": "7.9",
+    "totalDays": 14,
+    "totalHousefull": 18,
+    "totalAlmost": 20,
+    "totalFastFilling": 3,
+    "peakDay": {
+     "day": 1,
+     "gross": 1800759,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 1800759,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "14:450:3860431.9999999995"
+  }
+ }
+}

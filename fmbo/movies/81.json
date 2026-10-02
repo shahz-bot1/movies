@@ -1,0 +1,657 @@
+{
+ "id": 81,
+ "slug": "nayattu",
+ "source_url": "https://fridaymatinee.in/boxoffice/nayattu-81",
+ "captured_at": "2026-10-01T18:00:21.368803+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 81,
+    "title": "Nayattu",
+    "img": "https://i.postimg.cc/wqGVBmLt/image.png?dl=1",
+    "released": "2021-04-08",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11604676",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "124 min",
+    "genre": "Thriller, Drama",
+    "plot": "Three police officers are forced to go on the run when they get tangled in the death of a youth, a few days before the election.",
+    "released": "2021-04-08",
+    "director": "Martin Prakkat",
+    "directorSlug": "martin-prakkat",
+    "actors": [
+     "Kunchacko Boban",
+     "Joju George",
+     "Nimisha Sajayan",
+     "Jaffer Idukki",
+     "Yama Gilgamesh",
+     "Anil Nedumangad"
+    ],
+    "awards": "2 wins u0026 6 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "8.0",
+      "votes": 10636,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "100%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kunchacko Boban",
+     "character": "CPO Praveen Michael",
+     "slug": "kunchacko-boban",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1jdbIaYOBuhPNGS8XCqlzMsb0SV.jpg"
+    },
+    {
+     "name": "Joju George",
+     "character": "ASI Maniyan",
+     "slug": "joju-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jCObRH5idadzrTvyC9XnlnR8rXH.jpg"
+    },
+    {
+     "name": "Nimisha Sajayan",
+     "character": "CPO Sunitha",
+     "slug": "nimisha-sajayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/r1tiqFWXlWDFlZx966yOeBYs2qY.jpg"
+    },
+    {
+     "name": "Jaffer Idukki",
+     "character": "Chief Minister",
+     "slug": "jaffer-idukki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6kkv7LDD0NIGFTKZyrgGH5KGZpR.jpg"
+    },
+    {
+     "name": "Yama Gilgamesh",
+     "character": "SP Anuradha",
+     "slug": "yama-gilgamesh",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Anil Nedumangad",
+     "character": "DYSP Crime Branch",
+     "slug": "anil-nedumangad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rJ8JOczllGVm8ammRKDZYM88dYb.jpg"
+    },
+    {
+     "name": "Dineesh P",
+     "character": "Biju",
+     "slug": "dineesh-p",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Hakkim Shajahan",
+     "character": "Hakkim",
+     "slug": "hakkim-shajahan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/reEowrr3Gw4vKFfVUOhIT4EM4Es.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Martin Prakkat",
+       "slug": "martin-prakkat"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shahi Kabir",
+       "slug": "shahi-kabir"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shyju Khalid",
+       "slug": "shyju-khalid"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rajesh Rajendran",
+       "slug": "rajesh-rajendran"
+      },
+      {
+       "name": "Mahesh Narayanan",
+       "slug": "mahesh-narayanan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "P M Sasidharan",
+       "slug": "p-m-sasidharan"
+      },
+      {
+       "name": "Ranjith",
+       "slug": "ranjith"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Gold Coin Motion Picture Company",
+     "slug": "gold-coin-motion-picture-company",
+     "logo": null
+    },
+    {
+     "name": "Martin Prakkat Films",
+     "slug": "martin-prakkat-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2021-05-09",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 12362989,
+    "totalShows": 2609,
+    "totalDays": 12,
+    "openingDay": {
+     "day": 1,
+     "gross": 2307573,
+     "date": "2021-04-08"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2307573,
+     "date": "2021-04-08"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 27,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-04-08"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 81,
+    "title": "Nayattu",
+    "img": "https://i.postimg.cc/wqGVBmLt/image.png?dl=1",
+    "released": "2021-04-08",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11604676",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "124 min",
+    "genre": "Thriller, Drama",
+    "plot": "Three police officers are forced to go on the run when they get tangled in the death of a youth, a few days before the election.",
+    "released": "2021-04-08",
+    "director": "Martin Prakkat",
+    "directorSlug": "martin-prakkat",
+    "actors": [
+     "Kunchacko Boban",
+     "Joju George",
+     "Nimisha Sajayan",
+     "Jaffer Idukki",
+     "Yama Gilgamesh",
+     "Anil Nedumangad"
+    ],
+    "awards": "2 wins u0026 6 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "8.0",
+      "votes": 10636,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "100%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kunchacko Boban",
+     "character": "CPO Praveen Michael",
+     "slug": "kunchacko-boban",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1jdbIaYOBuhPNGS8XCqlzMsb0SV.jpg"
+    },
+    {
+     "name": "Joju George",
+     "character": "ASI Maniyan",
+     "slug": "joju-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jCObRH5idadzrTvyC9XnlnR8rXH.jpg"
+    },
+    {
+     "name": "Nimisha Sajayan",
+     "character": "CPO Sunitha",
+     "slug": "nimisha-sajayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/r1tiqFWXlWDFlZx966yOeBYs2qY.jpg"
+    },
+    {
+     "name": "Jaffer Idukki",
+     "character": "Chief Minister",
+     "slug": "jaffer-idukki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6kkv7LDD0NIGFTKZyrgGH5KGZpR.jpg"
+    },
+    {
+     "name": "Yama Gilgamesh",
+     "character": "SP Anuradha",
+     "slug": "yama-gilgamesh",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Anil Nedumangad",
+     "character": "DYSP Crime Branch",
+     "slug": "anil-nedumangad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rJ8JOczllGVm8ammRKDZYM88dYb.jpg"
+    },
+    {
+     "name": "Dineesh P",
+     "character": "Biju",
+     "slug": "dineesh-p",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Hakkim Shajahan",
+     "character": "Hakkim",
+     "slug": "hakkim-shajahan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/reEowrr3Gw4vKFfVUOhIT4EM4Es.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Martin Prakkat",
+       "slug": "martin-prakkat"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shahi Kabir",
+       "slug": "shahi-kabir"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shyju Khalid",
+       "slug": "shyju-khalid"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rajesh Rajendran",
+       "slug": "rajesh-rajendran"
+      },
+      {
+       "name": "Mahesh Narayanan",
+       "slug": "mahesh-narayanan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "P M Sasidharan",
+       "slug": "p-m-sasidharan"
+      },
+      {
+       "name": "Ranjith",
+       "slug": "ranjith"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Gold Coin Motion Picture Company",
+     "slug": "gold-coin-motion-picture-company",
+     "logo": null
+    },
+    {
+     "name": "Martin Prakkat Films",
+     "slug": "martin-prakkat-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2021-05-09",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2021-04-08",
+     "gross": 10424365,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1749,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-04-15",
+     "gross": 1938624,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 860,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 12362989,
+    "totalShows": 2609,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 10424365
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 10424365
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 27,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-04-08"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 81,
+    "title": "Nayattu",
+    "img": "https://i.postimg.cc/wqGVBmLt/image.png?dl=1",
+    "released": "2021-04-08",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11604676",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "124 min",
+    "genre": "Thriller, Drama",
+    "plot": "Three police officers are forced to go on the run when they get tangled in the death of a youth, a few days before the election.",
+    "released": "2021-04-08",
+    "director": "Martin Prakkat",
+    "directorSlug": "martin-prakkat",
+    "actors": [
+     "Kunchacko Boban",
+     "Joju George",
+     "Nimisha Sajayan",
+     "Jaffer Idukki",
+     "Yama Gilgamesh",
+     "Anil Nedumangad"
+    ],
+    "awards": "2 wins u0026 6 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "8.0",
+      "votes": 10636,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": null,
+     "rt": "100%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Kunchacko Boban",
+     "character": "CPO Praveen Michael",
+     "slug": "kunchacko-boban",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1jdbIaYOBuhPNGS8XCqlzMsb0SV.jpg"
+    },
+    {
+     "name": "Joju George",
+     "character": "ASI Maniyan",
+     "slug": "joju-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jCObRH5idadzrTvyC9XnlnR8rXH.jpg"
+    },
+    {
+     "name": "Nimisha Sajayan",
+     "character": "CPO Sunitha",
+     "slug": "nimisha-sajayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/r1tiqFWXlWDFlZx966yOeBYs2qY.jpg"
+    },
+    {
+     "name": "Jaffer Idukki",
+     "character": "Chief Minister",
+     "slug": "jaffer-idukki",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6kkv7LDD0NIGFTKZyrgGH5KGZpR.jpg"
+    },
+    {
+     "name": "Yama Gilgamesh",
+     "character": "SP Anuradha",
+     "slug": "yama-gilgamesh",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Anil Nedumangad",
+     "character": "DYSP Crime Branch",
+     "slug": "anil-nedumangad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rJ8JOczllGVm8ammRKDZYM88dYb.jpg"
+    },
+    {
+     "name": "Dineesh P",
+     "character": "Biju",
+     "slug": "dineesh-p",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Hakkim Shajahan",
+     "character": "Hakkim",
+     "slug": "hakkim-shajahan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/reEowrr3Gw4vKFfVUOhIT4EM4Es.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Martin Prakkat",
+       "slug": "martin-prakkat"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Shahi Kabir",
+       "slug": "shahi-kabir"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Shyju Khalid",
+       "slug": "shyju-khalid"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rajesh Rajendran",
+       "slug": "rajesh-rajendran"
+      },
+      {
+       "name": "Mahesh Narayanan",
+       "slug": "mahesh-narayanan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "P M Sasidharan",
+       "slug": "p-m-sasidharan"
+      },
+      {
+       "name": "Ranjith",
+       "slug": "ranjith"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Gold Coin Motion Picture Company",
+     "slug": "gold-coin-motion-picture-company",
+     "logo": null
+    },
+    {
+     "name": "Martin Prakkat Films",
+     "slug": "martin-prakkat-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2021-05-09",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 12362989,
+    "totalShows": 2609,
+    "totalDays": 13,
+    "openingDay": {
+     "day": 1,
+     "gross": 3846878,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3846878,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 27,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-04-08"
+   }
+  }
+ }
+}

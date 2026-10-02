@@ -1,0 +1,53 @@
+{
+ "slug": "santhy-balachandran",
+ "name": "Santhy Balachandran",
+ "source_url": "https://fridaymatinee.in/people/santhy-balachandran",
+ "captured_at": "2026-10-02T10:12:05.920480+00:00",
+ "person": {
+  "name": "Santhy Balachandran",
+  "photo": "https://image.tmdb.org/t/p/w185/gLpx6IM3Ifs6m1tytsc3yc4Lw90.jpg",
+  "role": "Actor and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 13,
+   "movie_slug": "jallikattu",
+   "title": "Jallikattu",
+   "year": 2019,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 268,
+   "movie_slug": "djinn",
+   "title": "Djinn",
+   "year": 2023,
+   "kerala_gross": "₹53.9L"
+  },
+  {
+   "movie_id": 1020,
+   "movie_slug": "masthishka-maranam",
+   "title": "Masthishka Maranam",
+   "year": 2026,
+   "kerala_gross": "₹2.3 Cr"
+  },
+  {
+   "movie_id": 1180,
+   "movie_slug": "ananthan-kaadu",
+   "title": "Ananthan Kaadu",
+   "year": 2026,
+   "kerala_gross": "₹2.2 Cr"
+  }
+ ]
+}

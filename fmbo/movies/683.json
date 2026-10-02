@@ -1,0 +1,659 @@
+{
+ "id": 683,
+ "slug": "sarkeet",
+ "source_url": "https://fridaymatinee.in/boxoffice/sarkeet-683",
+ "captured_at": "2026-10-01T18:19:20.277426+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 683,
+    "title": "Sarkeet",
+    "img": "https://image.tmdb.org/t/p/original/yruMwNKwObVwS8vbE3N6hriAdYB.jpg",
+    "released": "2025-05-08",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt34757142",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "123 min",
+    "genre": "Family, Drama, Comedy",
+    "plot": "In a distant land, Balu and Stephy struggle to balance work, parenting their spirited son with ADHD, and holding their relationship together. When a worn-out stranger enters their lives, a fleeting connection sparks unexpected change in just one day.",
+    "released": "2025-05-08",
+    "director": "Thamar K V",
+    "directorSlug": "thamar-k-v",
+    "actors": [
+     "Asif Ali",
+     "Divya Prabha",
+     "Deepak Parambol",
+     "Orhan",
+     "Swathi Das Prabhu",
+     "Prasanth Alexander"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 1272,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:11:09.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Asif Ali",
+     "character": "Ameer",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Divya Prabha",
+     "character": "Stephy",
+     "slug": "divya-prabha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cbOuWRUiSNYKE7oayfVxyQyGtZi.jpg"
+    },
+    {
+     "name": "Deepak Parambol",
+     "character": "Balu",
+     "slug": "deepak-parambol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ri2gQM9o9MmcZQZjjq6pQmdbIxb.jpg"
+    },
+    {
+     "name": "Orhan",
+     "character": "Jeffron",
+     "slug": "orhan",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Swathi Das Prabhu",
+     "character": "Noufal",
+     "slug": "swathi-das-prabhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/djKv8ti6z3pydi1NZTzUjNYBkLS.jpg"
+    },
+    {
+     "name": "Prasanth Alexander",
+     "character": "Pothan",
+     "slug": "prasanth-alexander",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QTEvNPnSxAb7WHDsIOr0hxDNDP.jpg"
+    },
+    {
+     "name": "Remya Suresh",
+     "character": "Reshmi",
+     "slug": "remya-suresh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8yYe2YBNEj0Vt2O1h8gEzyJ8N5g.jpg"
+    },
+    {
+     "name": "Zhinz Shan",
+     "character": "Ameer's father",
+     "slug": "zhinz-shan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e2qrMKWAS01rpA2kl89UUz4VyBt.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Thamar K V",
+       "slug": "thamar-k-v"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Thamar K V",
+       "slug": "thamar-k-v"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Govindh Vasantha",
+       "slug": "govindh-vasantha"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Aeyaz Hasn",
+       "slug": "aeyaz-hasn"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sangeeth Prathap",
+       "slug": "sangeeth-prathap"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ajith Vinayaka",
+       "slug": "ajith-vinayaka"
+      },
+      {
+       "name": "Florine Dominic",
+       "slug": "florine-dominic"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ajith Vinayaka Films Pvt Ltd",
+     "slug": "ajith-vinayaka-films-pvt-ltd",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 17485643.2,
+    "totalShows": 3232,
+    "totalDays": 22,
+    "openingDay": {
+     "day": 1,
+     "gross": 2645891.8,
+     "date": "2025-05-08"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 3212509,
+     "date": "2025-05-11"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-05-08"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 683,
+    "title": "Sarkeet",
+    "img": "https://image.tmdb.org/t/p/original/yruMwNKwObVwS8vbE3N6hriAdYB.jpg",
+    "released": "2025-05-08",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt34757142",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "123 min",
+    "genre": "Family, Drama, Comedy",
+    "plot": "In a distant land, Balu and Stephy struggle to balance work, parenting their spirited son with ADHD, and holding their relationship together. When a worn-out stranger enters their lives, a fleeting connection sparks unexpected change in just one day.",
+    "released": "2025-05-08",
+    "director": "Thamar K V",
+    "directorSlug": "thamar-k-v",
+    "actors": [
+     "Asif Ali",
+     "Divya Prabha",
+     "Deepak Parambol",
+     "Orhan",
+     "Swathi Das Prabhu",
+     "Prasanth Alexander"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 1272,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:11:09.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Asif Ali",
+     "character": "Ameer",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Divya Prabha",
+     "character": "Stephy",
+     "slug": "divya-prabha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cbOuWRUiSNYKE7oayfVxyQyGtZi.jpg"
+    },
+    {
+     "name": "Deepak Parambol",
+     "character": "Balu",
+     "slug": "deepak-parambol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ri2gQM9o9MmcZQZjjq6pQmdbIxb.jpg"
+    },
+    {
+     "name": "Orhan",
+     "character": "Jeffron",
+     "slug": "orhan",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Swathi Das Prabhu",
+     "character": "Noufal",
+     "slug": "swathi-das-prabhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/djKv8ti6z3pydi1NZTzUjNYBkLS.jpg"
+    },
+    {
+     "name": "Prasanth Alexander",
+     "character": "Pothan",
+     "slug": "prasanth-alexander",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QTEvNPnSxAb7WHDsIOr0hxDNDP.jpg"
+    },
+    {
+     "name": "Remya Suresh",
+     "character": "Reshmi",
+     "slug": "remya-suresh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8yYe2YBNEj0Vt2O1h8gEzyJ8N5g.jpg"
+    },
+    {
+     "name": "Zhinz Shan",
+     "character": "Ameer's father",
+     "slug": "zhinz-shan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e2qrMKWAS01rpA2kl89UUz4VyBt.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Thamar K V",
+       "slug": "thamar-k-v"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Thamar K V",
+       "slug": "thamar-k-v"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Govindh Vasantha",
+       "slug": "govindh-vasantha"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Aeyaz Hasn",
+       "slug": "aeyaz-hasn"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sangeeth Prathap",
+       "slug": "sangeeth-prathap"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ajith Vinayaka",
+       "slug": "ajith-vinayaka"
+      },
+      {
+       "name": "Florine Dominic",
+       "slug": "florine-dominic"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ajith Vinayaka Films Pvt Ltd",
+     "slug": "ajith-vinayaka-films-pvt-ltd",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-05-08",
+     "gross": 14089475.2,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2562,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-05-15",
+     "gross": 3055280,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 576,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-05-22",
+     "gross": 326638,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 88,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-05-29",
+     "gross": 14250,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 6,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 17485643.2,
+    "totalShows": 3232,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 14089475.2
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 14089475.2
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-05-08"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 683,
+    "title": "Sarkeet",
+    "img": "https://image.tmdb.org/t/p/original/yruMwNKwObVwS8vbE3N6hriAdYB.jpg",
+    "released": "2025-05-08",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt34757142",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "123 min",
+    "genre": "Family, Drama, Comedy",
+    "plot": "In a distant land, Balu and Stephy struggle to balance work, parenting their spirited son with ADHD, and holding their relationship together. When a worn-out stranger enters their lives, a fleeting connection sparks unexpected change in just one day.",
+    "released": "2025-05-08",
+    "director": "Thamar K V",
+    "directorSlug": "thamar-k-v",
+    "actors": [
+     "Asif Ali",
+     "Divya Prabha",
+     "Deepak Parambol",
+     "Orhan",
+     "Swathi Das Prabhu",
+     "Prasanth Alexander"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.5",
+      "votes": 1272,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:11:09.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Asif Ali",
+     "character": "Ameer",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Divya Prabha",
+     "character": "Stephy",
+     "slug": "divya-prabha",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cbOuWRUiSNYKE7oayfVxyQyGtZi.jpg"
+    },
+    {
+     "name": "Deepak Parambol",
+     "character": "Balu",
+     "slug": "deepak-parambol",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ri2gQM9o9MmcZQZjjq6pQmdbIxb.jpg"
+    },
+    {
+     "name": "Orhan",
+     "character": "Jeffron",
+     "slug": "orhan",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Swathi Das Prabhu",
+     "character": "Noufal",
+     "slug": "swathi-das-prabhu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/djKv8ti6z3pydi1NZTzUjNYBkLS.jpg"
+    },
+    {
+     "name": "Prasanth Alexander",
+     "character": "Pothan",
+     "slug": "prasanth-alexander",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QTEvNPnSxAb7WHDsIOr0hxDNDP.jpg"
+    },
+    {
+     "name": "Remya Suresh",
+     "character": "Reshmi",
+     "slug": "remya-suresh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8yYe2YBNEj0Vt2O1h8gEzyJ8N5g.jpg"
+    },
+    {
+     "name": "Zhinz Shan",
+     "character": "Ameer's father",
+     "slug": "zhinz-shan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e2qrMKWAS01rpA2kl89UUz4VyBt.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Thamar K V",
+       "slug": "thamar-k-v"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Thamar K V",
+       "slug": "thamar-k-v"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Govindh Vasantha",
+       "slug": "govindh-vasantha"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Aeyaz Hasn",
+       "slug": "aeyaz-hasn"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Sangeeth Prathap",
+       "slug": "sangeeth-prathap"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ajith Vinayaka",
+       "slug": "ajith-vinayaka"
+      },
+      {
+       "name": "Florine Dominic",
+       "slug": "florine-dominic"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ajith Vinayaka Films Pvt Ltd",
+     "slug": "ajith-vinayaka-films-pvt-ltd",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 17485643.2,
+    "totalShows": 3232,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 4858300,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4858300,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-05-08"
+   }
+  }
+ }
+}

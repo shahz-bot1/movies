@@ -1,0 +1,651 @@
+{
+ "id": 740,
+ "slug": "su-from-so",
+ "source_url": "https://fridaymatinee.in/boxoffice/su-from-so-740",
+ "captured_at": "2026-10-01T18:20:49.065702+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 740,
+    "title": "SU from So",
+    "img": "https://image.tmdb.org/t/p/original/a9v6QSFClDqGX2D0YCORp8T1Ji0.jpg",
+    "released": "2025-08-01",
+    "language": "kannada",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt37629310",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "135 min",
+    "genre": "Comedy, Horror",
+    "plot": "In a peaceful village full of joy, laughter, and vibrant life, everything seems perfect—until one day, the devil arrives. What follows is a hilarious chain of events that flips the entire village upside down!",
+    "released": "2025-07-25",
+    "director": "JP Tuminad",
+    "directorSlug": "jp-tuminad",
+    "actors": [
+     "Shaneel Gautham",
+     "JP Tuminad",
+     "Sandhya Arakere",
+     "Prakash K Thuminadu",
+     "Deepak Rai Panaje",
+     "Mime  Ramdas"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.6",
+      "votes": 8069,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:54.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shaneel Gautham",
+     "character": "Ravi Anna",
+     "slug": "shaneel-gautham",
+     "profile_picture_url": null
+    },
+    {
+     "name": "JP Tuminad",
+     "character": "Ashoka",
+     "slug": "jp-tuminad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/q2fRV66jdlTRWqBeVtPIvVyacGC.jpg"
+    },
+    {
+     "name": "Sandhya Arakere",
+     "character": "Bhanu",
+     "slug": "sandhya-arakere",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Prakash K Thuminadu",
+     "character": "Chandranna",
+     "slug": "prakash-k-thuminadu",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Deepak Rai Panaje",
+     "character": "Satishanna",
+     "slug": "deepak-rai-panaje",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sKDSBchwG85XdhUulFzDVsxopIz.jpg"
+    },
+    {
+     "name": "Mime  Ramdas",
+     "character": "Yadhu Anna",
+     "slug": "mime-ramdas",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Pushparaj Bollar",
+     "character": "Bhaava",
+     "slug": "pushparaj-bollar",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Arjun Kaje",
+     "character": "Prasad",
+     "slug": "arjun-kaje",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "JP Tuminad",
+       "slug": "jp-tuminad"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "JP Tuminad",
+       "slug": "jp-tuminad"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sumedh K",
+       "slug": "sumedh-k"
+      },
+      {
+       "name": "Sandeep Thulasidas",
+       "slug": "sandeep-thulasidas"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nithin Shetty",
+       "slug": "nithin-shetty"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shashidhar Shetty Baroda",
+       "slug": "shashidhar-shetty-baroda"
+      },
+      {
+       "name": "Ravi Rai Kalas",
+       "slug": "ravi-rai-kalas"
+      },
+      {
+       "name": "Raj B Shetty",
+       "slug": "raj-b-shetty"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lighter Buddha Films",
+     "slug": "lighter-buddha-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-08",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 58170206.4,
+    "totalShows": 9316,
+    "totalDays": 35,
+    "openingDay": {
+     "day": 1,
+     "gross": 716274,
+     "date": "2025-08-01"
+    },
+    "peakDay": {
+     "day": 10,
+     "gross": 8669637,
+     "date": "2025-08-10"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-01"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 740,
+    "title": "SU from So",
+    "img": "https://image.tmdb.org/t/p/original/a9v6QSFClDqGX2D0YCORp8T1Ji0.jpg",
+    "released": "2025-08-01",
+    "language": "kannada",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt37629310",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "135 min",
+    "genre": "Comedy, Horror",
+    "plot": "In a peaceful village full of joy, laughter, and vibrant life, everything seems perfect—until one day, the devil arrives. What follows is a hilarious chain of events that flips the entire village upside down!",
+    "released": "2025-07-25",
+    "director": "JP Tuminad",
+    "directorSlug": "jp-tuminad",
+    "actors": [
+     "Shaneel Gautham",
+     "JP Tuminad",
+     "Sandhya Arakere",
+     "Prakash K Thuminadu",
+     "Deepak Rai Panaje",
+     "Mime  Ramdas"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.6",
+      "votes": 8069,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:54.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shaneel Gautham",
+     "character": "Ravi Anna",
+     "slug": "shaneel-gautham",
+     "profile_picture_url": null
+    },
+    {
+     "name": "JP Tuminad",
+     "character": "Ashoka",
+     "slug": "jp-tuminad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/q2fRV66jdlTRWqBeVtPIvVyacGC.jpg"
+    },
+    {
+     "name": "Sandhya Arakere",
+     "character": "Bhanu",
+     "slug": "sandhya-arakere",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Prakash K Thuminadu",
+     "character": "Chandranna",
+     "slug": "prakash-k-thuminadu",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Deepak Rai Panaje",
+     "character": "Satishanna",
+     "slug": "deepak-rai-panaje",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sKDSBchwG85XdhUulFzDVsxopIz.jpg"
+    },
+    {
+     "name": "Mime  Ramdas",
+     "character": "Yadhu Anna",
+     "slug": "mime-ramdas",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Pushparaj Bollar",
+     "character": "Bhaava",
+     "slug": "pushparaj-bollar",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Arjun Kaje",
+     "character": "Prasad",
+     "slug": "arjun-kaje",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "JP Tuminad",
+       "slug": "jp-tuminad"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "JP Tuminad",
+       "slug": "jp-tuminad"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sumedh K",
+       "slug": "sumedh-k"
+      },
+      {
+       "name": "Sandeep Thulasidas",
+       "slug": "sandeep-thulasidas"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nithin Shetty",
+       "slug": "nithin-shetty"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shashidhar Shetty Baroda",
+       "slug": "shashidhar-shetty-baroda"
+      },
+      {
+       "name": "Ravi Rai Kalas",
+       "slug": "ravi-rai-kalas"
+      },
+      {
+       "name": "Raj B Shetty",
+       "slug": "raj-b-shetty"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lighter Buddha Films",
+     "slug": "lighter-buddha-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-08",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-08-01",
+     "gross": 20847319.6,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2241,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-08",
+     "gross": 26920960.000000004,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4307,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-15",
+     "gross": 7343042.999999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1726,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-22",
+     "gross": 2964196.8000000007,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 999,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2025-08-29",
+     "gross": 94687,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 43,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 58170206.400000006,
+    "totalShows": 9316,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 20847319.6
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 26920960.000000004
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-01"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 740,
+    "title": "SU from So",
+    "img": "https://image.tmdb.org/t/p/original/a9v6QSFClDqGX2D0YCORp8T1Ji0.jpg",
+    "released": "2025-08-01",
+    "language": "kannada",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt37629310",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "135 min",
+    "genre": "Comedy, Horror",
+    "plot": "In a peaceful village full of joy, laughter, and vibrant life, everything seems perfect—until one day, the devil arrives. What follows is a hilarious chain of events that flips the entire village upside down!",
+    "released": "2025-07-25",
+    "director": "JP Tuminad",
+    "directorSlug": "jp-tuminad",
+    "actors": [
+     "Shaneel Gautham",
+     "JP Tuminad",
+     "Sandhya Arakere",
+     "Prakash K Thuminadu",
+     "Deepak Rai Panaje",
+     "Mime  Ramdas"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "7.6",
+      "votes": 8069,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:54.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shaneel Gautham",
+     "character": "Ravi Anna",
+     "slug": "shaneel-gautham",
+     "profile_picture_url": null
+    },
+    {
+     "name": "JP Tuminad",
+     "character": "Ashoka",
+     "slug": "jp-tuminad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/q2fRV66jdlTRWqBeVtPIvVyacGC.jpg"
+    },
+    {
+     "name": "Sandhya Arakere",
+     "character": "Bhanu",
+     "slug": "sandhya-arakere",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Prakash K Thuminadu",
+     "character": "Chandranna",
+     "slug": "prakash-k-thuminadu",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Deepak Rai Panaje",
+     "character": "Satishanna",
+     "slug": "deepak-rai-panaje",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sKDSBchwG85XdhUulFzDVsxopIz.jpg"
+    },
+    {
+     "name": "Mime  Ramdas",
+     "character": "Yadhu Anna",
+     "slug": "mime-ramdas",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Pushparaj Bollar",
+     "character": "Bhaava",
+     "slug": "pushparaj-bollar",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Arjun Kaje",
+     "character": "Prasad",
+     "slug": "arjun-kaje",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "JP Tuminad",
+       "slug": "jp-tuminad"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "JP Tuminad",
+       "slug": "jp-tuminad"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Sumedh K",
+       "slug": "sumedh-k"
+      },
+      {
+       "name": "Sandeep Thulasidas",
+       "slug": "sandeep-thulasidas"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Nithin Shetty",
+       "slug": "nithin-shetty"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Shashidhar Shetty Baroda",
+       "slug": "shashidhar-shetty-baroda"
+      },
+      {
+       "name": "Ravi Rai Kalas",
+       "slug": "ravi-rai-kalas"
+      },
+      {
+       "name": "Raj B Shetty",
+       "slug": "raj-b-shetty"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lighter Buddha Films",
+     "slug": "lighter-buddha-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-08",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 58170206.4,
+    "totalShows": 9316,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 15162595,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 15162595,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-01"
+   }
+  }
+ }
+}

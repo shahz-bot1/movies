@@ -1,0 +1,41 @@
+{
+ "slug": "yog-jappie",
+ "name": "Yog Jappie",
+ "source_url": "https://fridaymatinee.in/people/yog-jappie",
+ "captured_at": "2026-10-02T12:09:01.964355+00:00",
+ "person": {
+  "name": "Yog Jappie",
+  "photo": "https://image.tmdb.org/t/p/w185/ptXD7Ze5ZWqXml1Kju1W73mo2Ey.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 228,
+   "movie_slug": "sardar",
+   "title": "Sardar",
+   "year": 2022,
+   "kerala_gross": "₹94.9L"
+  },
+  {
+   "movie_id": 772,
+   "movie_slug": "sahasam",
+   "title": "Sahasam",
+   "year": 2025,
+   "kerala_gross": "₹2.1 Cr"
+  },
+  {
+   "movie_id": 1335,
+   "movie_slug": "sigma",
+   "title": "Sigma",
+   "year": 2026,
+   "kerala_gross": "₹4.7L"
+  }
+ ]
+}

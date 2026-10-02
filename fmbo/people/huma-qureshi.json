@@ -1,0 +1,41 @@
+{
+ "slug": "huma-qureshi",
+ "name": "Huma Qureshi",
+ "source_url": "https://fridaymatinee.in/people/huma-qureshi",
+ "captured_at": "2026-10-01T22:49:22.982497+00:00",
+ "person": {
+  "name": "Huma Qureshi",
+  "photo": "https://image.tmdb.org/t/p/w185/nJWauZQdRjMJxwY3UP4SXrqh9CM.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 109,
+   "movie_slug": "valimai",
+   "title": "Valimai",
+   "year": 2022,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 837,
+   "movie_slug": "jolly-llb-3",
+   "title": "Jolly LLB 3",
+   "year": 2025,
+   "kerala_gross": "₹19.7L"
+  },
+  {
+   "movie_id": 669,
+   "movie_slug": "toxic",
+   "title": "Toxic",
+   "year": 2026,
+   "kerala_gross": "₹3.5 Cr"
+  }
+ ]
+}

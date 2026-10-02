@@ -1,0 +1,55 @@
+{
+ "slug": "arun-kurian",
+ "name": "Arun Kurian",
+ "source_url": "https://fridaymatinee.in/people/arun-kurian",
+ "captured_at": "2026-10-01T20:56:45.994448+00:00",
+ "person": {
+  "name": "Arun Kurian",
+  "photo": "https://image.tmdb.org/t/p/w185/7jFTigCmJV3xH0fKSkv1wbdbdKo.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 103,
+   "movie_slug": "hridayam",
+   "title": "Hridayam",
+   "year": 2022,
+   "kerala_gross": "₹18.9 Cr"
+  },
+  {
+   "movie_id": 242,
+   "movie_slug": "1744-white-alto",
+   "title": "1744 White Alto",
+   "year": 2022,
+   "kerala_gross": "₹44.9L"
+  },
+  {
+   "movie_id": 335,
+   "movie_slug": "pookkaalam",
+   "title": "Pookkaalam",
+   "year": 2023,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 501,
+   "movie_slug": "manjummel-boys",
+   "title": "Manjummel Boys",
+   "year": 2024,
+   "kerala_gross": "₹55.0 Cr"
+  },
+  {
+   "movie_id": 761,
+   "movie_slug": "lokah-chapter-one-chandra",
+   "title": "Lokah: Chapter One - Chandra",
+   "year": 2025,
+   "kerala_gross": "₹111.4 Cr"
+  }
+ ]
+}

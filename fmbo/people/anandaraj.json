@@ -1,0 +1,62 @@
+{
+ "slug": "anandaraj",
+ "name": "Anandaraj",
+ "source_url": "https://fridaymatinee.in/people/anandaraj",
+ "captured_at": "2026-10-01T20:34:10.036339+00:00",
+ "person": {
+  "name": "Anandaraj",
+  "photo": "https://image.tmdb.org/t/p/w185/gZxzckfurzV0oQOME8b1ATNoMHD.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 18,
+   "movie_slug": "bigil",
+   "title": "Bigil",
+   "year": 2019,
+   "kerala_gross": "₹5.4 Cr"
+  },
+  {
+   "movie_id": 187,
+   "movie_slug": "cobra",
+   "title": "Cobra",
+   "year": 2022,
+   "kerala_gross": "₹2.7 Cr"
+  },
+  {
+   "movie_id": 229,
+   "movie_slug": "prince",
+   "title": "Prince",
+   "year": 2022,
+   "kerala_gross": "₹18.3L"
+  },
+  {
+   "movie_id": 963,
+   "movie_slug": "vaa-vaathiyaar",
+   "title": "Vaa Vaathiyaar",
+   "year": 2026,
+   "kerala_gross": "₹45.0L"
+  },
+  {
+   "movie_id": 1065,
+   "movie_slug": "love-insurance-kompany",
+   "title": "Love Insurance Kompany",
+   "year": 2026,
+   "kerala_gross": "₹54.0L"
+  },
+  {
+   "movie_id": 1306,
+   "movie_slug": "scene",
+   "title": "Scene",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

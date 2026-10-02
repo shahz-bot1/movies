@@ -1,0 +1,41 @@
+{
+ "slug": "n-b-srikanth",
+ "name": "N. B. Srikanth",
+ "source_url": "https://fridaymatinee.in/people/n-b-srikanth",
+ "captured_at": "2026-10-02T00:48:58.898839+00:00",
+ "person": {
+  "name": "N. B. Srikanth",
+  "photo": null,
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 32,
+   "movie_slug": "action",
+   "title": "Action",
+   "year": 2019,
+   "kerala_gross": "₹9.7L"
+  },
+  {
+   "movie_id": 647,
+   "movie_slug": "vidaamuyarchi",
+   "title": "Vidaamuyarchi",
+   "year": 2025,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 1231,
+   "movie_slug": "magudam",
+   "title": "Magudam",
+   "year": 2026,
+   "kerala_gross": "₹7.0L"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "anishma-anilkumar",
+ "name": "Anishma Anilkumar",
+ "source_url": "https://fridaymatinee.in/people/anishma-anilkumar",
+ "captured_at": "2026-10-01T20:39:57.343278+00:00",
+ "person": {
+  "name": "Anishma Anilkumar",
+  "photo": "https://image.tmdb.org/t/p/w185/4neoaZvYhVFgN4jGmtPGJqmkPxl.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 280,
+   "movie_slug": "poovan",
+   "title": "Poovan",
+   "year": 2023,
+   "kerala_gross": "₹29.9L"
+  },
+  {
+   "movie_id": 588,
+   "movie_slug": "i-am-kathalan",
+   "title": "I Am Kathalan",
+   "year": 2024,
+   "kerala_gross": "₹3.2 Cr"
+  },
+  {
+   "movie_id": 674,
+   "movie_slug": "maranamass",
+   "title": "Maranamass",
+   "year": 2025,
+   "kerala_gross": "₹11.4 Cr"
+  },
+  {
+   "movie_id": 953,
+   "movie_slug": "sirai",
+   "title": "Sirai",
+   "year": 2025,
+   "kerala_gross": "₹17.2L"
+  },
+  {
+   "movie_id": 1034,
+   "movie_slug": "youth",
+   "title": "Youth",
+   "year": 2026,
+   "kerala_gross": "₹1.1 Cr"
+  }
+ ]
+}

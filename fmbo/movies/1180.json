@@ -1,0 +1,1367 @@
+{
+ "id": 1180,
+ "slug": "ananthan-kaadu",
+ "source_url": "https://fridaymatinee.in/boxoffice/ananthan-kaadu-1180",
+ "captured_at": "2026-10-01T19:50:21.951816+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 1180,
+    "title": "Ananthan Kaadu",
+    "img": "https://image.tmdb.org/t/p/original/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg",
+    "released": "2026-06-25",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33083436",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "156 min",
+    "genre": "Action, Thriller",
+    "plot": "This is a tale, which almost became a true story. It unfolds in the late Eighties and early Nineties, when the country was going through a dark phase both politically and socially a time when turmoil was writ all over the political scape of the nation.",
+    "released": "2026-06-25",
+    "director": "Jiyen Krishnakumar",
+    "directorSlug": "jiyen-krishnakumar",
+    "actors": [
+     "Arya",
+     "Nikhila Vimal",
+     "Regena Cassandrra",
+     "Vijayaraghavan",
+     "Achyuth Kumar",
+     "Indrans"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 326,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Arya",
+     "character": "Vetrivel Kumaran",
+     "slug": "arya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tX9cHKPa52Iz8M3dvUFW9uqbqUK.jpg"
+    },
+    {
+     "name": "Nikhila Vimal",
+     "character": "Deepa",
+     "slug": "nikhila-vimal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9Y5DAApG8LozGUKw00fnFwtZYtE.jpg"
+    },
+    {
+     "name": "Regena Cassandrra",
+     "character": "Priyamvadha",
+     "slug": "regina-cassandra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ypUo0oOCjY2FMhjrNBeCR9esmpS.jpg"
+    },
+    {
+     "name": "Vijayaraghavan",
+     "character": "K. K. Menon",
+     "slug": "vijayaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3AE7r02YPbSrEUIfP7gUN7lLNfI.jpg"
+    },
+    {
+     "name": "Achyuth Kumar",
+     "character": "Mudaliyar",
+     "slug": "achyuth-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zO1MoCgaz0RxILjga8VYXguROMp.jpg"
+    },
+    {
+     "name": "Indrans",
+     "character": "Krishnankutty",
+     "slug": "indrans",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vs5Acy2hJ4dWoM3xRGdnFKdVXzw.jpg"
+    },
+    {
+     "name": "Santhy Balachandran",
+     "character": "Karthi",
+     "slug": "santhy-balachandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gLpx6IM3Ifs6m1tytsc3yc4Lw90.jpg"
+    },
+    {
+     "name": "Murali Gopy",
+     "character": "Thankaraj Ponnappan",
+     "slug": "murali-gopy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oNEKhIL7PmE6yXzOcaVNGqPMnmw.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jiyen Krishnakumar",
+       "slug": "jiyen-krishnakumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Murali Gopy",
+       "slug": "murali-gopy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "B. Ajaneesh Loknath",
+       "slug": "b-ajaneesh-loknath"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Yuva",
+       "slug": "yuva"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rohit VS Variyath",
+       "slug": "rohit-vs-variyath"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "S. Vinoth Kumar",
+       "slug": "s-vinoth-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mini Studios",
+     "slug": "mini-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/9OTmYAzW2URLSE76T7y8OVLqqBT.png"
+    },
+    {
+     "name": "The Show People",
+     "slug": "the-show-people",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-09-02",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2053,
+      "name": "Lionsgate Play Apple TV Channel",
+      "logoPath": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2074,
+      "name": "Lionsgate Play Amazon Channel",
+      "logoPath": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2708,
+      "name": " AP International South Cinema Amazon Channel",
+      "logoPath": "/qe5IxHppN6JWNGf8xqSo2dgAbR4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-06-26": [
+     {
+      "id": 795,
+      "title": "Supergirl",
+      "img": "https://image.tmdb.org/t/p/original/niSvU02l2BONH9ivubV6K1a5QiK.jpg"
+     },
+     {
+      "id": 1169,
+      "title": "Uyir",
+      "img": "https://image.tmdb.org/t/p/original/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg"
+     },
+     {
+      "id": 1170,
+      "title": "Heartin",
+      "img": "https://image.tmdb.org/t/p/original/7xvMocNLZov64aOU1X3BRWawjD7.jpg"
+     }
+    ],
+    "2026-07-09": [
+     {
+      "id": 1093,
+      "title": "I, Nobody",
+      "img": "https://image.tmdb.org/t/p/original/lVZx2XvCJi9Ujm3zmjMbNGMPVlW.jpg"
+     },
+     {
+      "id": 1182,
+      "title": "Evil Dead Burn",
+      "img": "https://image.tmdb.org/t/p/original/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
+     }
+    ],
+    "2026-07-02": [
+     {
+      "id": 1177,
+      "title": "Minions u0026 Monsters",
+      "img": "https://image.tmdb.org/t/p/original/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+     }
+    ],
+    "2026-07-10": [
+     {
+      "id": 1185,
+      "title": "Moana",
+      "img": "https://image.tmdb.org/t/p/original/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg"
+     },
+     {
+      "id": 1188,
+      "title": "The Invite",
+      "img": "https://image.tmdb.org/t/p/original/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
+     },
+     {
+      "id": 1190,
+      "title": "Dhamaal 4",
+      "img": "https://image.tmdb.org/t/p/original/5d7hpbefNiuebl5eqP5cRrckVxs.jpg"
+     }
+    ],
+    "2026-07-03": [
+     {
+      "id": 1192,
+      "title": "Gatta Kusthi 2",
+      "img": "https://image.tmdb.org/t/p/original/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-06-25",
+     "gross": 3594026,
+     "sold": 22016,
+     "unsold": 186833,
+     "shows": 746,
+     "occ": 10.54,
+     "hf": "2",
+     "almost": "3",
+     "ff": "3",
+     "cumul": 3594026,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-06-26",
+     "gross": 3461515,
+     "sold": 21410,
+     "unsold": 173808,
+     "shows": 701,
+     "occ": 10.97,
+     "hf": "0",
+     "almost": "6",
+     "ff": "13",
+     "cumul": 7055541,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-06-27",
+     "gross": 3473344,
+     "sold": 21501,
+     "unsold": 168958,
+     "shows": 687,
+     "occ": 11.29,
+     "hf": "0",
+     "almost": "0",
+     "ff": "10",
+     "cumul": 10528885,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-06-28",
+     "gross": 3392858,
+     "sold": 21522,
+     "unsold": 168329,
+     "shows": 682,
+     "occ": 11.34,
+     "hf": "3",
+     "almost": "5",
+     "ff": "6",
+     "cumul": 13921743,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-06-29",
+     "gross": 1318790,
+     "sold": 8557,
+     "unsold": 160434,
+     "shows": 604,
+     "occ": 5.06,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 15240533,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-06-30",
+     "gross": 1179816,
+     "sold": 7959,
+     "unsold": 146061,
+     "shows": 557,
+     "occ": 5.17,
+     "hf": "0",
+     "almost": "0",
+     "ff": "1",
+     "cumul": 16420349,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-01",
+     "gross": 1080556,
+     "sold": 6942,
+     "unsold": 131862,
+     "shows": 503,
+     "occ": 5,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 17500905,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-02",
+     "gross": 1569376,
+     "sold": 10138,
+     "unsold": 116856,
+     "shows": 460,
+     "occ": 7.98,
+     "hf": "10",
+     "almost": "10",
+     "ff": "0",
+     "cumul": 19070281,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-03",
+     "gross": 466531,
+     "sold": 2975,
+     "unsold": 34575,
+     "shows": 160,
+     "occ": 7.92,
+     "hf": "4",
+     "almost": "4",
+     "ff": "0",
+     "cumul": 19536812,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-04",
+     "gross": 539599,
+     "sold": 3419,
+     "unsold": 39616,
+     "shows": 179,
+     "occ": 7.94,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 20076411,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-05",
+     "gross": 651636,
+     "sold": 4313,
+     "unsold": 38759,
+     "shows": 178,
+     "occ": 10.01,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 20728047,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-06",
+     "gross": 328535,
+     "sold": 2226,
+     "unsold": 26276,
+     "shows": 123,
+     "occ": 7.81,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 21056582,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-07",
+     "gross": 506154,
+     "sold": 3817,
+     "unsold": 27020,
+     "shows": 131,
+     "occ": 12.38,
+     "hf": "8",
+     "almost": "8",
+     "ff": "0",
+     "cumul": 21562736,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-08",
+     "gross": 242187,
+     "sold": 1675,
+     "unsold": 19724,
+     "shows": 97,
+     "occ": 7.83,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 21804923,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-09",
+     "gross": 148020,
+     "sold": 1008,
+     "unsold": 10796,
+     "shows": 55,
+     "occ": 8.54,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 21952943,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-10",
+     "gross": 3203,
+     "sold": 23,
+     "unsold": 3452,
+     "shows": 13,
+     "occ": 0.66,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 21956146,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-11",
+     "gross": 3316,
+     "sold": 25,
+     "unsold": 1979,
+     "shows": 9,
+     "occ": 1.25,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 21959462,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-12",
+     "gross": 42145,
+     "sold": 316,
+     "unsold": 2009,
+     "shows": 11,
+     "occ": 13.59,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 22001607,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-13",
+     "gross": 1309,
+     "sold": 10,
+     "unsold": 1730,
+     "shows": 8,
+     "occ": 0.57,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 22002916,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-14",
+     "gross": 1923,
+     "sold": 16,
+     "unsold": 1931,
+     "shows": 9,
+     "occ": 0.82,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 22004839,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-15",
+     "gross": 2018,
+     "sold": 15,
+     "unsold": 1792,
+     "shows": 8,
+     "occ": 0.83,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 22006857,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 22006857,
+    "totalShows": 5921,
+    "totalSeats": 1602683,
+    "totalSold": 139883,
+    "avgOcc": "8.7",
+    "totalDays": 21,
+    "totalHousefull": 40,
+    "totalAlmost": 49,
+    "totalFastFilling": 33,
+    "peakDay": {
+     "day": 1,
+     "gross": 3594026,
+     "date": "2026-06-25"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 3594026,
+     "date": "2026-06-25"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "21:2018:22006857"
+  },
+  "week": {
+   "movie": {
+    "id": 1180,
+    "title": "Ananthan Kaadu",
+    "img": "https://image.tmdb.org/t/p/original/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg",
+    "released": "2026-06-25",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33083436",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "156 min",
+    "genre": "Action, Thriller",
+    "plot": "This is a tale, which almost became a true story. It unfolds in the late Eighties and early Nineties, when the country was going through a dark phase both politically and socially a time when turmoil was writ all over the political scape of the nation.",
+    "released": "2026-06-25",
+    "director": "Jiyen Krishnakumar",
+    "directorSlug": "jiyen-krishnakumar",
+    "actors": [
+     "Arya",
+     "Nikhila Vimal",
+     "Regena Cassandrra",
+     "Vijayaraghavan",
+     "Achyuth Kumar",
+     "Indrans"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 326,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Arya",
+     "character": "Vetrivel Kumaran",
+     "slug": "arya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tX9cHKPa52Iz8M3dvUFW9uqbqUK.jpg"
+    },
+    {
+     "name": "Nikhila Vimal",
+     "character": "Deepa",
+     "slug": "nikhila-vimal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9Y5DAApG8LozGUKw00fnFwtZYtE.jpg"
+    },
+    {
+     "name": "Regena Cassandrra",
+     "character": "Priyamvadha",
+     "slug": "regina-cassandra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ypUo0oOCjY2FMhjrNBeCR9esmpS.jpg"
+    },
+    {
+     "name": "Vijayaraghavan",
+     "character": "K. K. Menon",
+     "slug": "vijayaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3AE7r02YPbSrEUIfP7gUN7lLNfI.jpg"
+    },
+    {
+     "name": "Achyuth Kumar",
+     "character": "Mudaliyar",
+     "slug": "achyuth-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zO1MoCgaz0RxILjga8VYXguROMp.jpg"
+    },
+    {
+     "name": "Indrans",
+     "character": "Krishnankutty",
+     "slug": "indrans",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vs5Acy2hJ4dWoM3xRGdnFKdVXzw.jpg"
+    },
+    {
+     "name": "Santhy Balachandran",
+     "character": "Karthi",
+     "slug": "santhy-balachandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gLpx6IM3Ifs6m1tytsc3yc4Lw90.jpg"
+    },
+    {
+     "name": "Murali Gopy",
+     "character": "Thankaraj Ponnappan",
+     "slug": "murali-gopy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oNEKhIL7PmE6yXzOcaVNGqPMnmw.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jiyen Krishnakumar",
+       "slug": "jiyen-krishnakumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Murali Gopy",
+       "slug": "murali-gopy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "B. Ajaneesh Loknath",
+       "slug": "b-ajaneesh-loknath"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Yuva",
+       "slug": "yuva"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rohit VS Variyath",
+       "slug": "rohit-vs-variyath"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "S. Vinoth Kumar",
+       "slug": "s-vinoth-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mini Studios",
+     "slug": "mini-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/9OTmYAzW2URLSE76T7y8OVLqqBT.png"
+    },
+    {
+     "name": "The Show People",
+     "slug": "the-show-people",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-09-02",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2053,
+      "name": "Lionsgate Play Apple TV Channel",
+      "logoPath": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2074,
+      "name": "Lionsgate Play Amazon Channel",
+      "logoPath": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2708,
+      "name": " AP International South Cinema Amazon Channel",
+      "logoPath": "/qe5IxHppN6JWNGf8xqSo2dgAbR4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-06-26": [
+     {
+      "id": 795,
+      "title": "Supergirl",
+      "img": "https://image.tmdb.org/t/p/original/niSvU02l2BONH9ivubV6K1a5QiK.jpg"
+     },
+     {
+      "id": 1169,
+      "title": "Uyir",
+      "img": "https://image.tmdb.org/t/p/original/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg"
+     },
+     {
+      "id": 1170,
+      "title": "Heartin",
+      "img": "https://image.tmdb.org/t/p/original/7xvMocNLZov64aOU1X3BRWawjD7.jpg"
+     }
+    ],
+    "2026-07-09": [
+     {
+      "id": 1093,
+      "title": "I, Nobody",
+      "img": "https://image.tmdb.org/t/p/original/lVZx2XvCJi9Ujm3zmjMbNGMPVlW.jpg"
+     },
+     {
+      "id": 1182,
+      "title": "Evil Dead Burn",
+      "img": "https://image.tmdb.org/t/p/original/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
+     }
+    ],
+    "2026-07-02": [
+     {
+      "id": 1177,
+      "title": "Minions u0026 Monsters",
+      "img": "https://image.tmdb.org/t/p/original/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+     }
+    ],
+    "2026-07-10": [
+     {
+      "id": 1185,
+      "title": "Moana",
+      "img": "https://image.tmdb.org/t/p/original/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg"
+     },
+     {
+      "id": 1188,
+      "title": "The Invite",
+      "img": "https://image.tmdb.org/t/p/original/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
+     },
+     {
+      "id": 1190,
+      "title": "Dhamaal 4",
+      "img": "https://image.tmdb.org/t/p/original/5d7hpbefNiuebl5eqP5cRrckVxs.jpg"
+     }
+    ],
+    "2026-07-03": [
+     {
+      "id": 1192,
+      "title": "Gatta Kusthi 2",
+      "img": "https://image.tmdb.org/t/p/original/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2026-06-25",
+     "gross": 17500905,
+     "sold": 109907,
+     "unsold": 1136285,
+     "shows": 4480,
+     "occ": 8.82,
+     "hf": "7",
+     "almost": "16",
+     "ff": "33",
+     "cumul": 17500905,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-02",
+     "gross": 4304018,
+     "sold": 28563,
+     "unsold": 302826,
+     "shows": 1328,
+     "occ": 8.62,
+     "hf": "30",
+     "almost": "30",
+     "ff": "0",
+     "cumul": 21804923,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "2026-07-09",
+     "gross": 201934,
+     "sold": 1413,
+     "unsold": 23689,
+     "shows": 113,
+     "occ": 5.63,
+     "hf": "3",
+     "almost": "3",
+     "ff": "0",
+     "cumul": 22006857,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 22006857,
+    "totalShows": 5921,
+    "totalSeats": 1602683,
+    "totalSold": 139883,
+    "avgOcc": "8.7",
+    "totalDays": 3,
+    "totalHousefull": 40,
+    "totalAlmost": 49,
+    "totalFastFilling": 33,
+    "peakDay": {
+     "day": 1,
+     "gross": 17500905
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 17500905
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "3:201934:22006857"
+  },
+  "district": {
+   "movie": {
+    "id": 1180,
+    "title": "Ananthan Kaadu",
+    "img": "https://image.tmdb.org/t/p/original/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg",
+    "released": "2026-06-25",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt33083436",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "156 min",
+    "genre": "Action, Thriller",
+    "plot": "This is a tale, which almost became a true story. It unfolds in the late Eighties and early Nineties, when the country was going through a dark phase both politically and socially a time when turmoil was writ all over the political scape of the nation.",
+    "released": "2026-06-25",
+    "director": "Jiyen Krishnakumar",
+    "directorSlug": "jiyen-krishnakumar",
+    "actors": [
+     "Arya",
+     "Nikhila Vimal",
+     "Regena Cassandrra",
+     "Vijayaraghavan",
+     "Achyuth Kumar",
+     "Indrans"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 326,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Arya",
+     "character": "Vetrivel Kumaran",
+     "slug": "arya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tX9cHKPa52Iz8M3dvUFW9uqbqUK.jpg"
+    },
+    {
+     "name": "Nikhila Vimal",
+     "character": "Deepa",
+     "slug": "nikhila-vimal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9Y5DAApG8LozGUKw00fnFwtZYtE.jpg"
+    },
+    {
+     "name": "Regena Cassandrra",
+     "character": "Priyamvadha",
+     "slug": "regina-cassandra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ypUo0oOCjY2FMhjrNBeCR9esmpS.jpg"
+    },
+    {
+     "name": "Vijayaraghavan",
+     "character": "K. K. Menon",
+     "slug": "vijayaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3AE7r02YPbSrEUIfP7gUN7lLNfI.jpg"
+    },
+    {
+     "name": "Achyuth Kumar",
+     "character": "Mudaliyar",
+     "slug": "achyuth-kumar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zO1MoCgaz0RxILjga8VYXguROMp.jpg"
+    },
+    {
+     "name": "Indrans",
+     "character": "Krishnankutty",
+     "slug": "indrans",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vs5Acy2hJ4dWoM3xRGdnFKdVXzw.jpg"
+    },
+    {
+     "name": "Santhy Balachandran",
+     "character": "Karthi",
+     "slug": "santhy-balachandran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gLpx6IM3Ifs6m1tytsc3yc4Lw90.jpg"
+    },
+    {
+     "name": "Murali Gopy",
+     "character": "Thankaraj Ponnappan",
+     "slug": "murali-gopy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oNEKhIL7PmE6yXzOcaVNGqPMnmw.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jiyen Krishnakumar",
+       "slug": "jiyen-krishnakumar"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Murali Gopy",
+       "slug": "murali-gopy"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "B. Ajaneesh Loknath",
+       "slug": "b-ajaneesh-loknath"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Yuva",
+       "slug": "yuva"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rohit VS Variyath",
+       "slug": "rohit-vs-variyath"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "S. Vinoth Kumar",
+       "slug": "s-vinoth-kumar"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Mini Studios",
+     "slug": "mini-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/9OTmYAzW2URLSE76T7y8OVLqqBT.png"
+    },
+    {
+     "name": "The Show People",
+     "slug": "the-show-people",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2026-09-02",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2053,
+      "name": "Lionsgate Play Apple TV Channel",
+      "logoPath": "/55QivoAtXrlpjQpTFmXaGRSEsjR.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2074,
+      "name": "Lionsgate Play Amazon Channel",
+      "logoPath": "/w4gcxwOsvrlWQ2nhQ3Rk6xdS4VW.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2708,
+      "name": " AP International South Cinema Amazon Channel",
+      "logoPath": "/qe5IxHppN6JWNGf8xqSo2dgAbR4.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2026-06-26": [
+     {
+      "id": 795,
+      "title": "Supergirl",
+      "img": "https://image.tmdb.org/t/p/original/niSvU02l2BONH9ivubV6K1a5QiK.jpg"
+     },
+     {
+      "id": 1169,
+      "title": "Uyir",
+      "img": "https://image.tmdb.org/t/p/original/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg"
+     },
+     {
+      "id": 1170,
+      "title": "Heartin",
+      "img": "https://image.tmdb.org/t/p/original/7xvMocNLZov64aOU1X3BRWawjD7.jpg"
+     }
+    ],
+    "2026-07-09": [
+     {
+      "id": 1093,
+      "title": "I, Nobody",
+      "img": "https://image.tmdb.org/t/p/original/lVZx2XvCJi9Ujm3zmjMbNGMPVlW.jpg"
+     },
+     {
+      "id": 1182,
+      "title": "Evil Dead Burn",
+      "img": "https://image.tmdb.org/t/p/original/ztadKzIIR0ERYqpHteaPFtk7inP.jpg"
+     }
+    ],
+    "2026-07-02": [
+     {
+      "id": 1177,
+      "title": "Minions u0026 Monsters",
+      "img": "https://image.tmdb.org/t/p/original/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg"
+     }
+    ],
+    "2026-07-10": [
+     {
+      "id": 1185,
+      "title": "Moana",
+      "img": "https://image.tmdb.org/t/p/original/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg"
+     },
+     {
+      "id": 1188,
+      "title": "The Invite",
+      "img": "https://image.tmdb.org/t/p/original/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
+     },
+     {
+      "id": 1190,
+      "title": "Dhamaal 4",
+      "img": "https://image.tmdb.org/t/p/original/5d7hpbefNiuebl5eqP5cRrckVxs.jpg"
+     }
+    ],
+    "2026-07-03": [
+     {
+      "id": 1192,
+      "title": "Gatta Kusthi 2",
+      "img": "https://image.tmdb.org/t/p/original/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 4684936,
+     "sold": 25396,
+     "unsold": 196458,
+     "shows": 786,
+     "occ": 11.45,
+     "hf": "4",
+     "almost": "7",
+     "ff": "8",
+     "cumul": 4684936,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Trivandrum",
+     "gross": 3601987,
+     "sold": 20272,
+     "unsold": 156305,
+     "shows": 517,
+     "occ": 11.48,
+     "hf": "18",
+     "almost": "19",
+     "ff": "4",
+     "cumul": 8286923,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kozhikode",
+     "gross": 3116442,
+     "sold": 19186,
+     "unsold": 123240,
+     "shows": 668,
+     "occ": 13.47,
+     "hf": "11",
+     "almost": "14",
+     "ff": "7",
+     "cumul": 11403365,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kannur",
+     "gross": 2352951,
+     "sold": 17423,
+     "unsold": 49370,
+     "shows": 302,
+     "occ": 26.09,
+     "hf": "3",
+     "almost": "3",
+     "ff": "10",
+     "cumul": 13756316,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Thrissur",
+     "gross": 1844150,
+     "sold": 12332,
+     "unsold": 215505,
+     "shows": 843,
+     "occ": 5.41,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 15600466,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Palakkad",
+     "gross": 1475395,
+     "sold": 10713,
+     "unsold": 174514,
+     "shows": 722,
+     "occ": 5.78,
+     "hf": "1",
+     "almost": "1",
+     "ff": "0",
+     "cumul": 17075861,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Malappuram",
+     "gross": 1259603,
+     "sold": 9901,
+     "unsold": 104774,
+     "shows": 475,
+     "occ": 8.63,
+     "hf": "0",
+     "almost": "2",
+     "ff": "4",
+     "cumul": 18335464,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kollam",
+     "gross": 1136624,
+     "sold": 6825,
+     "unsold": 142489,
+     "shows": 477,
+     "occ": 4.57,
+     "hf": "2",
+     "almost": "2",
+     "ff": "0",
+     "cumul": 19472088,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Alappuzha",
+     "gross": 765948,
+     "sold": 5034,
+     "unsold": 129812,
+     "shows": 412,
+     "occ": 3.73,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 20238036,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kottayam",
+     "gross": 640395,
+     "sold": 5158,
+     "unsold": 79257,
+     "shows": 298,
+     "occ": 6.11,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 20878431,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Kasaragod",
+     "gross": 589072,
+     "sold": 4146,
+     "unsold": 32963,
+     "shows": 155,
+     "occ": 11.17,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 21467503,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Pathanamthitta",
+     "gross": 259050,
+     "sold": 1641,
+     "unsold": 26940,
+     "shows": 105,
+     "occ": 5.74,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 21726553,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Idukki",
+     "gross": 219685,
+     "sold": 1329,
+     "unsold": 21081,
+     "shows": 91,
+     "occ": 5.93,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 21946238,
+     "lastUpdatedAt": null
+    },
+    {
+     "label": "Wayanad",
+     "gross": 60619,
+     "sold": 527,
+     "unsold": 10092,
+     "shows": 70,
+     "occ": 4.96,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 22006857,
+     "lastUpdatedAt": null
+    }
+   ],
+   "summary": {
+    "totalGross": 22006857,
+    "totalShows": 5921,
+    "totalSeats": 1602683,
+    "totalSold": 139883,
+    "avgOcc": "8.7",
+    "totalDays": 14,
+    "totalHousefull": 40,
+    "totalAlmost": 49,
+    "totalFastFilling": 33,
+    "peakDay": {
+     "day": 1,
+     "gross": 4684936,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 4684936,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "mild",
+   "_hash": "14:60619:22006857"
+  }
+ }
+}

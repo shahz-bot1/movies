@@ -1,0 +1,48 @@
+{
+ "slug": "b-ajithkumar",
+ "name": "B. Ajithkumar",
+ "source_url": "https://fridaymatinee.in/people/b-ajithkumar",
+ "captured_at": "2026-10-01T21:06:06.138001+00:00",
+ "person": {
+  "name": "B. Ajithkumar",
+  "photo": "https://image.tmdb.org/t/p/w185/xmpgSWelnGrXLTfbv21ZrSIgHOe.jpg",
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 29,
+   "movie_slug": "moothon",
+   "title": "Moothon",
+   "year": 2019,
+   "kerala_gross": "₹63.5L"
+  },
+  {
+   "movie_id": 142,
+   "movie_slug": "kuttavum-shikshayum",
+   "title": "Kuttavum Shikshayum",
+   "year": 2022,
+   "kerala_gross": "₹50.7L"
+  },
+  {
+   "movie_id": 304,
+   "movie_slug": "thuramukham",
+   "title": "Thuramukham",
+   "year": 2023,
+   "kerala_gross": "₹1.9 Cr"
+  },
+  {
+   "movie_id": 538,
+   "movie_slug": "barroz",
+   "title": "Barroz",
+   "year": 2024,
+   "kerala_gross": "₹8.6 Cr"
+  }
+ ]
+}

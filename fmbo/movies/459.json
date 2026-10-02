@@ -1,0 +1,732 @@
+{
+ "id": 459,
+ "slug": "tiger-3",
+ "source_url": "https://fridaymatinee.in/boxoffice/tiger-3-459",
+ "captured_at": "2026-10-01T18:12:34.499294+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 459,
+    "title": "Tiger 3",
+    "img": "https://image.tmdb.org/t/p/original/8HOqipGorQ7eYDJk7UOkPa5lw8o.jpg",
+    "released": "2023-11-12",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt18411490",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "155 min",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "Following the events of Tiger Zinda Hai, War, and Pathaan, Avinash Singh Rathore returns as Tiger but this time the battle is within. He has to choose between his country or family as an old enemy is after his life, who claims that his family was killed by Tiger. He holds Tiger captive in Pakistan as the Indian agent's loyalty towards his country faces its biggest test.",
+    "released": "2023-11-12",
+    "director": "Maneesh Sharma",
+    "directorSlug": "maneesh-sharma",
+    "actors": [
+     "Salman Khan",
+     "Katrina Kaif",
+     "Emraan Hashmi",
+     "Simran",
+     "Revathi",
+     "Sartaaj Kakkar"
+    ],
+    "awards": "14 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.6",
+      "votes": 56971,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.6",
+      "votes": 68,
+      "updatedAt": "2026-09-24T22:10:05.000Z"
+     },
+     "rt": "52%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Salman Khan",
+     "character": "Avinash 'Tiger' Singh Rathore",
+     "slug": "salman-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n7pKtccmf2jVOz8Qn90q2ThqLge.jpg"
+    },
+    {
+     "name": "Katrina Kaif",
+     "character": "Zoya 'Zee' Humaini",
+     "slug": "katrina-kaif",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4EAYTJvGdt4NYl2BUKZMdz4lztR.jpg"
+    },
+    {
+     "name": "Emraan Hashmi",
+     "character": "Aatish Rehman",
+     "slug": "emraan-hashmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg"
+    },
+    {
+     "name": "Simran",
+     "character": "Nasreen Irani",
+     "slug": "simran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/BRsVC78sFbFy0NQhaUkGkuUUOL.jpg"
+    },
+    {
+     "name": "Revathi",
+     "character": "Maithili Menon",
+     "slug": "revathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sXS4erG255VJlP7XYAduNBNPyDL.jpg"
+    },
+    {
+     "name": "Sartaaj Kakkar",
+     "character": "Junior",
+     "slug": "sartaaj-kakkar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fGsALORJKBh9I3xlg33hEt7Opbf.jpg"
+    },
+    {
+     "name": "Kumud Mishra",
+     "character": "Rakesh Ji",
+     "slug": "kumud-mishra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pM4eD7eIEPk2Lx0c5C1K201qnp6.jpg"
+    },
+    {
+     "name": "Anant Vidhaat Sharma",
+     "character": "Karan",
+     "slug": "anant-vidhaat-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fNyw53r3AcuL1zvwOhtcErNBjG3.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Maneesh Sharma",
+       "slug": "maneesh-sharma"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Aditya Chopra",
+       "slug": "aditya-chopra"
+      },
+      {
+       "name": "Shridhar Raghavan",
+       "slug": "shridhar-raghavan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Tanuj Tiku",
+       "slug": "tanuj-tiku"
+      },
+      {
+       "name": "Pritam Chakraborty",
+       "slug": "pritam-chakraborty"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Anay Goswami",
+       "slug": "anay-goswami"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rameshwar S. Bhagat",
+       "slug": "rameshwar-s-bhagat"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Aditya Chopra",
+       "slug": "aditya-chopra"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Yash Raj Films",
+     "slug": "yash-raj-films",
+     "logo": "https://image.tmdb.org/t/p/w185/lvzN86o3jrP44DIvn4SMBLOl9PF.png"
+    },
+    {
+     "name": "First Step Productions",
+     "slug": "first-step-productions",
+     "logo": null
+    },
+    {
+     "name": "Etalon-Film",
+     "slug": "etalon-film",
+     "logo": null
+    },
+    {
+     "name": "FPS Productions",
+     "slug": "fps-productions",
+     "logo": null
+    },
+    {
+     "name": "SK-Film",
+     "slug": "sk-film",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-12-31",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 18883342.680000003,
+    "totalShows": 2337,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 8854987.32,
+     "date": "2023-11-12"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 8854987.32,
+     "date": "2023-11-12"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 99,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-11-12"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 459,
+    "title": "Tiger 3",
+    "img": "https://image.tmdb.org/t/p/original/8HOqipGorQ7eYDJk7UOkPa5lw8o.jpg",
+    "released": "2023-11-12",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt18411490",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "155 min",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "Following the events of Tiger Zinda Hai, War, and Pathaan, Avinash Singh Rathore returns as Tiger but this time the battle is within. He has to choose between his country or family as an old enemy is after his life, who claims that his family was killed by Tiger. He holds Tiger captive in Pakistan as the Indian agent's loyalty towards his country faces its biggest test.",
+    "released": "2023-11-12",
+    "director": "Maneesh Sharma",
+    "directorSlug": "maneesh-sharma",
+    "actors": [
+     "Salman Khan",
+     "Katrina Kaif",
+     "Emraan Hashmi",
+     "Simran",
+     "Revathi",
+     "Sartaaj Kakkar"
+    ],
+    "awards": "14 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.6",
+      "votes": 56971,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.6",
+      "votes": 68,
+      "updatedAt": "2026-09-24T22:10:05.000Z"
+     },
+     "rt": "52%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Salman Khan",
+     "character": "Avinash 'Tiger' Singh Rathore",
+     "slug": "salman-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n7pKtccmf2jVOz8Qn90q2ThqLge.jpg"
+    },
+    {
+     "name": "Katrina Kaif",
+     "character": "Zoya 'Zee' Humaini",
+     "slug": "katrina-kaif",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4EAYTJvGdt4NYl2BUKZMdz4lztR.jpg"
+    },
+    {
+     "name": "Emraan Hashmi",
+     "character": "Aatish Rehman",
+     "slug": "emraan-hashmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg"
+    },
+    {
+     "name": "Simran",
+     "character": "Nasreen Irani",
+     "slug": "simran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/BRsVC78sFbFy0NQhaUkGkuUUOL.jpg"
+    },
+    {
+     "name": "Revathi",
+     "character": "Maithili Menon",
+     "slug": "revathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sXS4erG255VJlP7XYAduNBNPyDL.jpg"
+    },
+    {
+     "name": "Sartaaj Kakkar",
+     "character": "Junior",
+     "slug": "sartaaj-kakkar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fGsALORJKBh9I3xlg33hEt7Opbf.jpg"
+    },
+    {
+     "name": "Kumud Mishra",
+     "character": "Rakesh Ji",
+     "slug": "kumud-mishra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pM4eD7eIEPk2Lx0c5C1K201qnp6.jpg"
+    },
+    {
+     "name": "Anant Vidhaat Sharma",
+     "character": "Karan",
+     "slug": "anant-vidhaat-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fNyw53r3AcuL1zvwOhtcErNBjG3.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Maneesh Sharma",
+       "slug": "maneesh-sharma"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Aditya Chopra",
+       "slug": "aditya-chopra"
+      },
+      {
+       "name": "Shridhar Raghavan",
+       "slug": "shridhar-raghavan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Tanuj Tiku",
+       "slug": "tanuj-tiku"
+      },
+      {
+       "name": "Pritam Chakraborty",
+       "slug": "pritam-chakraborty"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Anay Goswami",
+       "slug": "anay-goswami"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rameshwar S. Bhagat",
+       "slug": "rameshwar-s-bhagat"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Aditya Chopra",
+       "slug": "aditya-chopra"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Yash Raj Films",
+     "slug": "yash-raj-films",
+     "logo": "https://image.tmdb.org/t/p/w185/lvzN86o3jrP44DIvn4SMBLOl9PF.png"
+    },
+    {
+     "name": "First Step Productions",
+     "slug": "first-step-productions",
+     "logo": null
+    },
+    {
+     "name": "Etalon-Film",
+     "slug": "etalon-film",
+     "logo": null
+    },
+    {
+     "name": "FPS Productions",
+     "slug": "fps-productions",
+     "logo": null
+    },
+    {
+     "name": "SK-Film",
+     "slug": "sk-film",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-12-31",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-11-12",
+     "gross": 17180291.07999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1921,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-11-19",
+     "gross": 1703051.5999999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 416,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 18883342.679999992,
+    "totalShows": 2337,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 17180291.07999999
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 17180291.07999999
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 99,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-11-12"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 459,
+    "title": "Tiger 3",
+    "img": "https://image.tmdb.org/t/p/original/8HOqipGorQ7eYDJk7UOkPa5lw8o.jpg",
+    "released": "2023-11-12",
+    "language": "hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt18411490",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "155 min",
+    "genre": "Action, Adventure, Thriller",
+    "plot": "Following the events of Tiger Zinda Hai, War, and Pathaan, Avinash Singh Rathore returns as Tiger but this time the battle is within. He has to choose between his country or family as an old enemy is after his life, who claims that his family was killed by Tiger. He holds Tiger captive in Pakistan as the Indian agent's loyalty towards his country faces its biggest test.",
+    "released": "2023-11-12",
+    "director": "Maneesh Sharma",
+    "directorSlug": "maneesh-sharma",
+    "actors": [
+     "Salman Khan",
+     "Katrina Kaif",
+     "Emraan Hashmi",
+     "Simran",
+     "Revathi",
+     "Sartaaj Kakkar"
+    ],
+    "awards": "14 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.6",
+      "votes": 56971,
+      "updatedAt": "2026-09-29T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.6",
+      "votes": 68,
+      "updatedAt": "2026-09-24T22:10:05.000Z"
+     },
+     "rt": "52%",
+     "metascore": null,
+     "updatedAt": "2026-09-29T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Salman Khan",
+     "character": "Avinash 'Tiger' Singh Rathore",
+     "slug": "salman-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/n7pKtccmf2jVOz8Qn90q2ThqLge.jpg"
+    },
+    {
+     "name": "Katrina Kaif",
+     "character": "Zoya 'Zee' Humaini",
+     "slug": "katrina-kaif",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4EAYTJvGdt4NYl2BUKZMdz4lztR.jpg"
+    },
+    {
+     "name": "Emraan Hashmi",
+     "character": "Aatish Rehman",
+     "slug": "emraan-hashmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kflgvFCFZnpTRbKmJWn5T0G5EKI.jpg"
+    },
+    {
+     "name": "Simran",
+     "character": "Nasreen Irani",
+     "slug": "simran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/BRsVC78sFbFy0NQhaUkGkuUUOL.jpg"
+    },
+    {
+     "name": "Revathi",
+     "character": "Maithili Menon",
+     "slug": "revathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sXS4erG255VJlP7XYAduNBNPyDL.jpg"
+    },
+    {
+     "name": "Sartaaj Kakkar",
+     "character": "Junior",
+     "slug": "sartaaj-kakkar",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fGsALORJKBh9I3xlg33hEt7Opbf.jpg"
+    },
+    {
+     "name": "Kumud Mishra",
+     "character": "Rakesh Ji",
+     "slug": "kumud-mishra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pM4eD7eIEPk2Lx0c5C1K201qnp6.jpg"
+    },
+    {
+     "name": "Anant Vidhaat Sharma",
+     "character": "Karan",
+     "slug": "anant-vidhaat-sharma",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fNyw53r3AcuL1zvwOhtcErNBjG3.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Maneesh Sharma",
+       "slug": "maneesh-sharma"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Aditya Chopra",
+       "slug": "aditya-chopra"
+      },
+      {
+       "name": "Shridhar Raghavan",
+       "slug": "shridhar-raghavan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Tanuj Tiku",
+       "slug": "tanuj-tiku"
+      },
+      {
+       "name": "Pritam Chakraborty",
+       "slug": "pritam-chakraborty"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Anay Goswami",
+       "slug": "anay-goswami"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rameshwar S. Bhagat",
+       "slug": "rameshwar-s-bhagat"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Aditya Chopra",
+       "slug": "aditya-chopra"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Yash Raj Films",
+     "slug": "yash-raj-films",
+     "logo": "https://image.tmdb.org/t/p/w185/lvzN86o3jrP44DIvn4SMBLOl9PF.png"
+    },
+    {
+     "name": "First Step Productions",
+     "slug": "first-step-productions",
+     "logo": null
+    },
+    {
+     "name": "Etalon-Film",
+     "slug": "etalon-film",
+     "logo": null
+    },
+    {
+     "name": "FPS Productions",
+     "slug": "fps-productions",
+     "logo": null
+    },
+    {
+     "name": "SK-Film",
+     "slug": "sk-film",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-12-31",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 18883342.68,
+    "totalShows": 2337,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 6930298,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 6930298,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 99,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-11-12"
+   }
+  }
+ }
+}

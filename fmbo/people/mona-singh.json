@@ -1,0 +1,48 @@
+{
+ "slug": "mona-singh",
+ "name": "Mona Singh",
+ "source_url": "https://fridaymatinee.in/people/mona-singh",
+ "captured_at": "2026-10-02T00:43:59.569274+00:00",
+ "person": {
+  "name": "Mona Singh",
+  "photo": "https://image.tmdb.org/t/p/w185/fBl5KYnlKY8HDUqlTs64xbDZtU8.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 180,
+   "movie_slug": "laal-singh-chaddha",
+   "title": "Laal Singh Chaddha",
+   "year": 2022,
+   "kerala_gross": "₹24.6L"
+  },
+  {
+   "movie_id": 977,
+   "movie_slug": "happy-patel-khatarnak-jasoos",
+   "title": "Happy Patel Khatarnak Jasoos",
+   "year": 2026,
+   "kerala_gross": "₹3.5L"
+  },
+  {
+   "movie_id": 981,
+   "movie_slug": "border-2",
+   "title": "Border 2",
+   "year": 2026,
+   "kerala_gross": "₹74.6L"
+  },
+  {
+   "movie_id": 1230,
+   "movie_slug": "batwara-1947",
+   "title": "Batwara 1947",
+   "year": 2026,
+   "kerala_gross": "₹7.1L"
+  }
+ ]
+}

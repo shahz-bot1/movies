@@ -1,0 +1,668 @@
+{
+ "id": 417,
+ "slug": "jawan",
+ "source_url": "https://fridaymatinee.in/boxoffice/jawan-417",
+ "captured_at": "2026-10-01T18:11:43.372941+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 417,
+    "title": "Jawan",
+    "img": "https://image.tmdb.org/t/p/original/mG8bIqJIr7CFSKJW8nAP17Lbc1s.jpg",
+    "released": "2023-09-07",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15354916",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "169 min",
+    "genre": "Action, Thriller",
+    "plot": "An emotional journey of a prison warden, driven by a personal vendetta while keeping up to a promise made years ago, recruits inmates to commit outrageous crimes that shed light on corruption and injustice, in an attempt to get even with his past,  and that leads him to an unexpected reunion.",
+    "released": "2023-09-07",
+    "director": "Atlee",
+    "directorSlug": "atlee",
+    "actors": [
+     "Shah Rukh Khan",
+     "Nayanthara",
+     "Vijay Sethupathi",
+     "Deepika Padukone",
+     "Sanjay Dutt",
+     "Priyamani"
+    ],
+    "awards": "27 wins u0026 59 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.9",
+      "votes": 112910,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.0",
+      "votes": 352,
+      "updatedAt": "2026-09-24T22:10:13.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shah Rukh Khan",
+     "character": "Vikram Rathore / Azad",
+     "slug": "shah-rukh-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+     "name": "Nayanthara",
+     "character": "Narmada",
+     "slug": "nayanthara",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5KubBeb2DkNXoU4lzzBdWzqzzlM.jpg"
+    },
+    {
+     "name": "Vijay Sethupathi",
+     "character": "Kalee Gaikwad",
+     "slug": "vijay-sethupathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6qaMCgZ4MMBMYvTYEKCjLIdq0B5.jpg"
+    },
+    {
+     "name": "Deepika Padukone",
+     "character": "Aishwarya Rathore",
+     "slug": "deepika-padukone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rzvvBQ0r6oiqDdzcsdTRB7jN4Rx.jpg"
+    },
+    {
+     "name": "Sanjay Dutt",
+     "character": "Madhavan Naik",
+     "slug": "sanjay-dutt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg"
+    },
+    {
+     "name": "Priyamani",
+     "character": "Laxmi",
+     "slug": "priyamani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zB365nF9wec5KBczviUTAX9MwHj.jpg"
+    },
+    {
+     "name": "Sanya Malhotra",
+     "character": "Eeram",
+     "slug": "sanya-malhotra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sQ0VIqGLecfpwYayO05Z7NC32yN.jpg"
+    },
+    {
+     "name": "Girija Oak",
+     "character": "Ishkra",
+     "slug": "girija-oak",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f10HPTExCVQ8mZXShctpWPsxxaw.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Atlee",
+       "slug": "atlee"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Atlee",
+       "slug": "atlee"
+      },
+      {
+       "name": "Ramana Girivasan",
+       "slug": "ramana-girivasan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "G. K. Vishnu",
+       "slug": "g-k-vishnu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Antony L. Ruben",
+       "slug": "antony-l-ruben"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Gauri Khan",
+       "slug": "gauri-khan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Red Chillies Entertainment",
+     "slug": "red-chillies-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/fkrlAFxgAtIHgYJGIQcDggeucKV.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-11-02",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 99465084.35999998,
+    "totalShows": 9871,
+    "totalDays": 27,
+    "openingDay": {
+     "day": 1,
+     "gross": 27301821.910000004,
+     "date": "2023-09-07"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 27301821.910000004,
+     "date": "2023-09-07"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 29,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-09-07"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 417,
+    "title": "Jawan",
+    "img": "https://image.tmdb.org/t/p/original/mG8bIqJIr7CFSKJW8nAP17Lbc1s.jpg",
+    "released": "2023-09-07",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15354916",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "169 min",
+    "genre": "Action, Thriller",
+    "plot": "An emotional journey of a prison warden, driven by a personal vendetta while keeping up to a promise made years ago, recruits inmates to commit outrageous crimes that shed light on corruption and injustice, in an attempt to get even with his past,  and that leads him to an unexpected reunion.",
+    "released": "2023-09-07",
+    "director": "Atlee",
+    "directorSlug": "atlee",
+    "actors": [
+     "Shah Rukh Khan",
+     "Nayanthara",
+     "Vijay Sethupathi",
+     "Deepika Padukone",
+     "Sanjay Dutt",
+     "Priyamani"
+    ],
+    "awards": "27 wins u0026 59 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.9",
+      "votes": 112910,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.0",
+      "votes": 352,
+      "updatedAt": "2026-09-24T22:10:13.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shah Rukh Khan",
+     "character": "Vikram Rathore / Azad",
+     "slug": "shah-rukh-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+     "name": "Nayanthara",
+     "character": "Narmada",
+     "slug": "nayanthara",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5KubBeb2DkNXoU4lzzBdWzqzzlM.jpg"
+    },
+    {
+     "name": "Vijay Sethupathi",
+     "character": "Kalee Gaikwad",
+     "slug": "vijay-sethupathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6qaMCgZ4MMBMYvTYEKCjLIdq0B5.jpg"
+    },
+    {
+     "name": "Deepika Padukone",
+     "character": "Aishwarya Rathore",
+     "slug": "deepika-padukone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rzvvBQ0r6oiqDdzcsdTRB7jN4Rx.jpg"
+    },
+    {
+     "name": "Sanjay Dutt",
+     "character": "Madhavan Naik",
+     "slug": "sanjay-dutt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg"
+    },
+    {
+     "name": "Priyamani",
+     "character": "Laxmi",
+     "slug": "priyamani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zB365nF9wec5KBczviUTAX9MwHj.jpg"
+    },
+    {
+     "name": "Sanya Malhotra",
+     "character": "Eeram",
+     "slug": "sanya-malhotra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sQ0VIqGLecfpwYayO05Z7NC32yN.jpg"
+    },
+    {
+     "name": "Girija Oak",
+     "character": "Ishkra",
+     "slug": "girija-oak",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f10HPTExCVQ8mZXShctpWPsxxaw.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Atlee",
+       "slug": "atlee"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Atlee",
+       "slug": "atlee"
+      },
+      {
+       "name": "Ramana Girivasan",
+       "slug": "ramana-girivasan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "G. K. Vishnu",
+       "slug": "g-k-vishnu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Antony L. Ruben",
+       "slug": "antony-l-ruben"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Gauri Khan",
+       "slug": "gauri-khan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Red Chillies Entertainment",
+     "slug": "red-chillies-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/fkrlAFxgAtIHgYJGIQcDggeucKV.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-11-02",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2023-09-07",
+     "gross": 81089203.59999998,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 6810,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-09-14",
+     "gross": 12012162.359999998,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2290,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-09-21",
+     "gross": 4500402.399999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 619,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-09-28",
+     "gross": 1863316,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 152,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 99465084.35999998,
+    "totalShows": 9871,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 81089203.59999998
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 81089203.59999998
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 29,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-09-07"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 417,
+    "title": "Jawan",
+    "img": "https://image.tmdb.org/t/p/original/mG8bIqJIr7CFSKJW8nAP17Lbc1s.jpg",
+    "released": "2023-09-07",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt15354916",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "Not Rated",
+    "runtime": "169 min",
+    "genre": "Action, Thriller",
+    "plot": "An emotional journey of a prison warden, driven by a personal vendetta while keeping up to a promise made years ago, recruits inmates to commit outrageous crimes that shed light on corruption and injustice, in an attempt to get even with his past,  and that leads him to an unexpected reunion.",
+    "released": "2023-09-07",
+    "director": "Atlee",
+    "directorSlug": "atlee",
+    "actors": [
+     "Shah Rukh Khan",
+     "Nayanthara",
+     "Vijay Sethupathi",
+     "Deepika Padukone",
+     "Sanjay Dutt",
+     "Priyamani"
+    ],
+    "awards": "27 wins u0026 59 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.9",
+      "votes": 112910,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.0",
+      "votes": 352,
+      "updatedAt": "2026-09-24T22:10:13.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Shah Rukh Khan",
+     "character": "Vikram Rathore / Azad",
+     "slug": "shah-rukh-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+     "name": "Nayanthara",
+     "character": "Narmada",
+     "slug": "nayanthara",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5KubBeb2DkNXoU4lzzBdWzqzzlM.jpg"
+    },
+    {
+     "name": "Vijay Sethupathi",
+     "character": "Kalee Gaikwad",
+     "slug": "vijay-sethupathi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6qaMCgZ4MMBMYvTYEKCjLIdq0B5.jpg"
+    },
+    {
+     "name": "Deepika Padukone",
+     "character": "Aishwarya Rathore",
+     "slug": "deepika-padukone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rzvvBQ0r6oiqDdzcsdTRB7jN4Rx.jpg"
+    },
+    {
+     "name": "Sanjay Dutt",
+     "character": "Madhavan Naik",
+     "slug": "sanjay-dutt",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oq4pnvWhl1HxKpp0KVlSfAr3Tiu.jpg"
+    },
+    {
+     "name": "Priyamani",
+     "character": "Laxmi",
+     "slug": "priyamani",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zB365nF9wec5KBczviUTAX9MwHj.jpg"
+    },
+    {
+     "name": "Sanya Malhotra",
+     "character": "Eeram",
+     "slug": "sanya-malhotra",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/sQ0VIqGLecfpwYayO05Z7NC32yN.jpg"
+    },
+    {
+     "name": "Girija Oak",
+     "character": "Ishkra",
+     "slug": "girija-oak",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/f10HPTExCVQ8mZXShctpWPsxxaw.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Atlee",
+       "slug": "atlee"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Atlee",
+       "slug": "atlee"
+      },
+      {
+       "name": "Ramana Girivasan",
+       "slug": "ramana-girivasan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Anirudh Ravichander",
+       "slug": "anirudh-ravichander"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "G. K. Vishnu",
+       "slug": "g-k-vishnu"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Antony L. Ruben",
+       "slug": "antony-l-ruben"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Gauri Khan",
+       "slug": "gauri-khan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Red Chillies Entertainment",
+     "slug": "red-chillies-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/fkrlAFxgAtIHgYJGIQcDggeucKV.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-11-02",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 99465084.35999998,
+    "totalShows": 9871,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 32395091,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 32395091,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 29,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2024-09-07"
+   }
+  }
+ }
+}

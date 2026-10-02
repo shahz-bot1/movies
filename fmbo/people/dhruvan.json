@@ -1,0 +1,83 @@
+{
+ "slug": "dhruvan",
+ "name": "Dhruvan",
+ "source_url": "https://fridaymatinee.in/people/dhruvan",
+ "captured_at": "2026-10-01T22:00:22.138168+00:00",
+ "person": {
+  "name": "Dhruvan",
+  "photo": "https://image.tmdb.org/t/p/w185/gVQfWlQyNuK13pIl1cTFB4QUnNM.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 9
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 109,
+   "movie_slug": "valimai",
+   "title": "Valimai",
+   "year": 2022,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 134,
+   "movie_slug": "jana-gana-mana",
+   "title": "Jana Gana Mana",
+   "year": 2022,
+   "kerala_gross": "₹19.6 Cr"
+  },
+  {
+   "movie_id": 348,
+   "movie_slug": "adi",
+   "title": "Adi",
+   "year": 2023,
+   "kerala_gross": "₹41.0L"
+  },
+  {
+   "movie_id": 422,
+   "movie_slug": "kasargold",
+   "title": "Kasargold",
+   "year": 2023,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 426,
+   "movie_slug": "kannur-squad",
+   "title": "Kannur Squad",
+   "year": 2023,
+   "kerala_gross": "₹32.9 Cr"
+  },
+  {
+   "movie_id": 616,
+   "movie_slug": "identity",
+   "title": "Identity",
+   "year": 2025,
+   "kerala_gross": "₹6.9 Cr"
+  },
+  {
+   "movie_id": 194,
+   "movie_slug": "randaam-yaamam",
+   "title": "Randaam Yaamam",
+   "year": 2025,
+   "kerala_gross": "₹4.0L"
+  },
+  {
+   "movie_id": 881,
+   "movie_slug": "vilaayath-budha",
+   "title": "Vilaayath Budha",
+   "year": 2025,
+   "kerala_gross": "₹4.5 Cr"
+  },
+  {
+   "movie_id": 1218,
+   "movie_slug": "vivaah",
+   "title": "Vivaah",
+   "year": 2026,
+   "kerala_gross": "₹6.7L"
+  }
+ ]
+}

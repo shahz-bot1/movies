@@ -1,0 +1,62 @@
+{
+ "slug": "aruldoss",
+ "name": "Aruldoss",
+ "source_url": "https://fridaymatinee.in/people/aruldoss",
+ "captured_at": "2026-10-01T20:55:46.441603+00:00",
+ "person": {
+  "name": "Aruldoss",
+  "photo": "https://image.tmdb.org/t/p/w185/gDMVbi6reJPolJm9qtqYwTWyh4p.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 65,
+   "movie_slug": "eeswaran",
+   "title": "Eeswaran",
+   "year": 2021,
+   "kerala_gross": "₹1.4L"
+  },
+  {
+   "movie_id": 524,
+   "movie_slug": "maharaja",
+   "title": "Maharaja",
+   "year": 2024,
+   "kerala_gross": "₹5.7 Cr"
+  },
+  {
+   "movie_id": 739,
+   "movie_slug": "thalaivan-thalaivii",
+   "title": "Thalaivan Thalaivii",
+   "year": 2025,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 952,
+   "movie_slug": "mark",
+   "title": "Mark",
+   "year": 2025,
+   "kerala_gross": "₹21K"
+  },
+  {
+   "movie_id": 1164,
+   "movie_slug": "nooru-sami",
+   "title": "Nooru Sami",
+   "year": 2026,
+   "kerala_gross": "₹5.2L"
+  },
+  {
+   "movie_id": 1171,
+   "movie_slug": "con-city",
+   "title": "Con City",
+   "year": 2026,
+   "kerala_gross": "₹3.3L"
+  }
+ ]
+}

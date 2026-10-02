@@ -1,0 +1,597 @@
+{
+ "id": 504,
+ "slug": "thankamani",
+ "source_url": "https://fridaymatinee.in/boxoffice/thankamani-504",
+ "captured_at": "2026-10-01T18:13:49.822723+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 504,
+    "title": "Thankamani",
+    "img": "https://image.tmdb.org/t/p/original/vxerl2Nfu6IWptq5WPrIHq1GAWS.jpg",
+    "released": "2024-03-07",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26491040",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "154 min",
+    "genre": "Crime, Drama",
+    "plot": "In October 1986, a dispute erupted between students of Thankamani village and a private bus owner over service to the area which didn't have proper roads.",
+    "released": "2024-03-07",
+    "director": "Ratheesh Reghunandan",
+    "directorSlug": "ratheesh-reghunandan",
+    "actors": [
+     "Dileep",
+     "Pranitha Subhash",
+     "Neeta Pillai",
+     "Manoj K Jayan",
+     "John Vijay",
+     "Siddique"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.5",
+      "votes": 251,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:27:06.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dileep",
+     "character": "Abel Joshua Maathan",
+     "slug": "dileep",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5DirIZGTvLfBJOt2zOfBlb0bIsz.jpg"
+    },
+    {
+     "name": "Pranitha Subhash",
+     "character": "Arpitha Nath IPS",
+     "slug": "pranitha-subhash",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nYTdnt5wHIYHa0hK95ZNwsx2mdd.jpg"
+    },
+    {
+     "name": "Neeta Pillai",
+     "character": "Anitha Varkey",
+     "slug": "neeta-pillai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oAWK8hGRB32x5Cnz0oNt8O5VIyX.jpg"
+    },
+    {
+     "name": "Manoj K Jayan",
+     "character": "Mani Peter",
+     "slug": "manoj-k-jayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jTKRE7c208lvZLNwrLtMleiV8DS.jpg"
+    },
+    {
+     "name": "John Vijay",
+     "character": "Red.SP Michael Kuruvila",
+     "slug": "john-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1H4uUEI32DmZWfTGmWnXyu0BrU7.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "George Peruvanthanam",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Ajmal Ameer",
+     "character": "Robin Paul IPS",
+     "slug": "ajmal-ameer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jpyj9HkcIZxy2d614imc83prftc.jpg"
+    },
+    {
+     "name": "Sampath Ram",
+     "character": "Retd.CI Eppan Mattakkavan",
+     "slug": "sampath-ram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kuObekNREXMfOh9QidmOgGhkQbv.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ratheesh Reghunandan",
+       "slug": "ratheesh-reghunandan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ratheesh Reghunandan",
+       "slug": "ratheesh-reghunandan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "William Francis",
+       "slug": "william-francis"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Manoj Pillai",
+       "slug": "manoj-pillai"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shyam Sasidharan",
+       "slug": "shyam-sasidharan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "R. B. Choudary",
+       "slug": "r-b-choudary"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Super Good Films",
+     "slug": "super-good-films",
+     "logo": null
+    },
+    {
+     "name": "Iffaar Media",
+     "slug": "iffaar-media",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 21526401.4,
+    "totalShows": 4407,
+    "totalDays": 9,
+    "openingDay": {
+     "day": 1,
+     "gross": 6363884.4,
+     "date": "2024-03-07"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 6363884.4,
+     "date": "2024-03-07"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-03-07"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 504,
+    "title": "Thankamani",
+    "img": "https://image.tmdb.org/t/p/original/vxerl2Nfu6IWptq5WPrIHq1GAWS.jpg",
+    "released": "2024-03-07",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26491040",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "154 min",
+    "genre": "Crime, Drama",
+    "plot": "In October 1986, a dispute erupted between students of Thankamani village and a private bus owner over service to the area which didn't have proper roads.",
+    "released": "2024-03-07",
+    "director": "Ratheesh Reghunandan",
+    "directorSlug": "ratheesh-reghunandan",
+    "actors": [
+     "Dileep",
+     "Pranitha Subhash",
+     "Neeta Pillai",
+     "Manoj K Jayan",
+     "John Vijay",
+     "Siddique"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.5",
+      "votes": 251,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:27:06.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dileep",
+     "character": "Abel Joshua Maathan",
+     "slug": "dileep",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5DirIZGTvLfBJOt2zOfBlb0bIsz.jpg"
+    },
+    {
+     "name": "Pranitha Subhash",
+     "character": "Arpitha Nath IPS",
+     "slug": "pranitha-subhash",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nYTdnt5wHIYHa0hK95ZNwsx2mdd.jpg"
+    },
+    {
+     "name": "Neeta Pillai",
+     "character": "Anitha Varkey",
+     "slug": "neeta-pillai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oAWK8hGRB32x5Cnz0oNt8O5VIyX.jpg"
+    },
+    {
+     "name": "Manoj K Jayan",
+     "character": "Mani Peter",
+     "slug": "manoj-k-jayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jTKRE7c208lvZLNwrLtMleiV8DS.jpg"
+    },
+    {
+     "name": "John Vijay",
+     "character": "Red.SP Michael Kuruvila",
+     "slug": "john-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1H4uUEI32DmZWfTGmWnXyu0BrU7.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "George Peruvanthanam",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Ajmal Ameer",
+     "character": "Robin Paul IPS",
+     "slug": "ajmal-ameer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jpyj9HkcIZxy2d614imc83prftc.jpg"
+    },
+    {
+     "name": "Sampath Ram",
+     "character": "Retd.CI Eppan Mattakkavan",
+     "slug": "sampath-ram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kuObekNREXMfOh9QidmOgGhkQbv.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ratheesh Reghunandan",
+       "slug": "ratheesh-reghunandan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ratheesh Reghunandan",
+       "slug": "ratheesh-reghunandan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "William Francis",
+       "slug": "william-francis"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Manoj Pillai",
+       "slug": "manoj-pillai"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shyam Sasidharan",
+       "slug": "shyam-sasidharan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "R. B. Choudary",
+       "slug": "r-b-choudary"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Super Good Films",
+     "slug": "super-good-films",
+     "logo": null
+    },
+    {
+     "name": "Iffaar Media",
+     "slug": "iffaar-media",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2024-03-07",
+     "gross": 20851350.2,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3979,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-03-14",
+     "gross": 675051.2,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 428,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 21526401.4,
+    "totalShows": 4407,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 20851350.2
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 20851350.2
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-03-07"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 504,
+    "title": "Thankamani",
+    "img": "https://image.tmdb.org/t/p/original/vxerl2Nfu6IWptq5WPrIHq1GAWS.jpg",
+    "released": "2024-03-07",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt26491040",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "154 min",
+    "genre": "Crime, Drama",
+    "plot": "In October 1986, a dispute erupted between students of Thankamani village and a private bus owner over service to the area which didn't have proper roads.",
+    "released": "2024-03-07",
+    "director": "Ratheesh Reghunandan",
+    "directorSlug": "ratheesh-reghunandan",
+    "actors": [
+     "Dileep",
+     "Pranitha Subhash",
+     "Neeta Pillai",
+     "Manoj K Jayan",
+     "John Vijay",
+     "Siddique"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.5",
+      "votes": 251,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:27:06.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Dileep",
+     "character": "Abel Joshua Maathan",
+     "slug": "dileep",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5DirIZGTvLfBJOt2zOfBlb0bIsz.jpg"
+    },
+    {
+     "name": "Pranitha Subhash",
+     "character": "Arpitha Nath IPS",
+     "slug": "pranitha-subhash",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nYTdnt5wHIYHa0hK95ZNwsx2mdd.jpg"
+    },
+    {
+     "name": "Neeta Pillai",
+     "character": "Anitha Varkey",
+     "slug": "neeta-pillai",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/oAWK8hGRB32x5Cnz0oNt8O5VIyX.jpg"
+    },
+    {
+     "name": "Manoj K Jayan",
+     "character": "Mani Peter",
+     "slug": "manoj-k-jayan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jTKRE7c208lvZLNwrLtMleiV8DS.jpg"
+    },
+    {
+     "name": "John Vijay",
+     "character": "Red.SP Michael Kuruvila",
+     "slug": "john-vijay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1H4uUEI32DmZWfTGmWnXyu0BrU7.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "George Peruvanthanam",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Ajmal Ameer",
+     "character": "Robin Paul IPS",
+     "slug": "ajmal-ameer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jpyj9HkcIZxy2d614imc83prftc.jpg"
+    },
+    {
+     "name": "Sampath Ram",
+     "character": "Retd.CI Eppan Mattakkavan",
+     "slug": "sampath-ram",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kuObekNREXMfOh9QidmOgGhkQbv.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Ratheesh Reghunandan",
+       "slug": "ratheesh-reghunandan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Ratheesh Reghunandan",
+       "slug": "ratheesh-reghunandan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "William Francis",
+       "slug": "william-francis"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Manoj Pillai",
+       "slug": "manoj-pillai"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shyam Sasidharan",
+       "slug": "shyam-sasidharan"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "R. B. Choudary",
+       "slug": "r-b-choudary"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Super Good Films",
+     "slug": "super-good-films",
+     "logo": null
+    },
+    {
+     "name": "Iffaar Media",
+     "slug": "iffaar-media",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 21526401.4,
+    "totalShows": 4407,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 4196696,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 4196696,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-03-07"
+   }
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "aswath-lal",
+ "name": "Aswath Lal",
+ "source_url": "https://fridaymatinee.in/people/aswath-lal",
+ "captured_at": "2026-10-01T21:01:48.336993+00:00",
+ "person": {
+  "name": "Aswath Lal",
+  "photo": "https://image.tmdb.org/t/p/w185/12ievyCsGaYPh9mq0SRND3DOePE.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 103,
+   "movie_slug": "hridayam",
+   "title": "Hridayam",
+   "year": 2022,
+   "kerala_gross": "₹18.9 Cr"
+  },
+  {
+   "movie_id": 196,
+   "movie_slug": "oru-thekkan-thallu-case",
+   "title": "Oru Thekkan Thallu Case",
+   "year": 2022,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 489,
+   "movie_slug": "varshangalkku-shesham",
+   "title": "Varshangalkku Shesham",
+   "year": 2024,
+   "kerala_gross": "₹31.2 Cr"
+  },
+  {
+   "movie_id": 969,
+   "movie_slug": "baby-girl",
+   "title": "Baby Girl",
+   "year": 2026,
+   "kerala_gross": "₹3.3 Cr"
+  }
+ ]
+}

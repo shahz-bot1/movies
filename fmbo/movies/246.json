@@ -1,0 +1,917 @@
+{
+ "id": 246,
+ "slug": "avatar-the-way-of-water",
+ "source_url": "https://fridaymatinee.in/boxoffice/avatar-the-way-of-water-246",
+ "captured_at": "2026-10-01T18:07:50.966473+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 246,
+    "title": "Avatar The Way of Water",
+    "img": "https://image.tmdb.org/t/p/original/kEVYW8jrFxV4qyEuXAZ1O6S5MxJ.jpg",
+    "released": "2022-12-16",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt1630029",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "192 min",
+    "genre": "Action, Adventure, Science Fiction",
+    "plot": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+    "released": "2022-12-14",
+    "director": "James Cameron",
+    "directorSlug": "james-cameron",
+    "actors": [
+     "Sam Worthington",
+     "Zoe Saldaña",
+     "Sigourney Weaver",
+     "Stephen Lang",
+     "Kate Winslet",
+     "Cliff Curtis"
+    ],
+    "awards": "Won 1 Oscar. 74 wins u0026 153 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 648806,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 14666,
+      "updatedAt": "2026-09-24T22:10:50.000Z"
+     },
+     "rt": "76%",
+     "metascore": 67,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sam Worthington",
+     "character": "Jake Sully",
+     "slug": "sam-worthington",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+    },
+    {
+     "name": "Zoe Saldaña",
+     "character": "Neytiri",
+     "slug": "zoe-saldana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+    },
+    {
+     "name": "Sigourney Weaver",
+     "character": "Kiri",
+     "slug": "sigourney-weaver",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+     "name": "Stephen Lang",
+     "character": "Colonel Miles Quaritch",
+     "slug": "stephen-lang",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
+    },
+    {
+     "name": "Kate Winslet",
+     "character": "Ronal",
+     "slug": "kate-winslet",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg"
+    },
+    {
+     "name": "Cliff Curtis",
+     "character": "Tonowari",
+     "slug": "cliff-curtis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3D6qz8vL6DWHAO3HeXeaSuwxq3s.jpg"
+    },
+    {
+     "name": "Joel David Moore",
+     "character": "Norm Spellman",
+     "slug": "joel-david-moore",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mMVhVglj6BZFuvqAXnEibce08k7.jpg"
+    },
+    {
+     "name": "CCH Pounder",
+     "character": "Mo'at",
+     "slug": "cch-pounder",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mr6BLDN75T8DJl9dNK3hN4YwqJa.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      },
+      {
+       "name": "Josh Friedman",
+       "slug": "josh-friedman"
+      },
+      {
+       "name": "Amanda Silver",
+       "slug": "amanda-silver"
+      },
+      {
+       "name": "Rick Jaffa",
+       "slug": "rick-jaffa"
+      },
+      {
+       "name": "Shane Salerno",
+       "slug": "shane-salerno"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Simon Franglen",
+       "slug": "simon-franglen"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Russell Carpenter",
+       "slug": "russell-carpenter"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      },
+      {
+       "name": "John Refoua",
+       "slug": "john-refoua"
+      },
+      {
+       "name": "Stephen E. Rivkin",
+       "slug": "stephen-e-rivkin"
+      },
+      {
+       "name": "David Brenner",
+       "slug": "david-brenner"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      },
+      {
+       "name": "Jon Landau",
+       "slug": "jon-landau"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "20th Century Studios",
+     "slug": "20th-century-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/h0rjX5vjW5r8yEnUBStFarjcLT4.png"
+    },
+    {
+     "name": "Lightstorm Entertainment",
+     "slug": "lightstorm-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/8wdmrfGcDx3TJxYiiDksLzAW4pB.png"
+    },
+    {
+     "name": "TSG Entertainment",
+     "slug": "tsg-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/qx9K6bFWJupwde0xQDwOvXkOaL8.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-06-07",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 332866229.24,
+    "totalShows": 19040,
+    "totalDays": 90,
+    "openingDay": {
+     "day": 1,
+     "gross": 28471167.540000007,
+     "date": "2022-12-16"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 28471167.540000007,
+     "date": "2022-12-16"
+    },
+    "chartPosition": {
+     "current_position": 27,
+     "weeks_on_chart": 69,
+     "peak_position": 2,
+     "last_week_position": 27
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-12-16"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 246,
+    "title": "Avatar The Way of Water",
+    "img": "https://image.tmdb.org/t/p/original/kEVYW8jrFxV4qyEuXAZ1O6S5MxJ.jpg",
+    "released": "2022-12-16",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt1630029",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "192 min",
+    "genre": "Action, Adventure, Science Fiction",
+    "plot": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+    "released": "2022-12-14",
+    "director": "James Cameron",
+    "directorSlug": "james-cameron",
+    "actors": [
+     "Sam Worthington",
+     "Zoe Saldaña",
+     "Sigourney Weaver",
+     "Stephen Lang",
+     "Kate Winslet",
+     "Cliff Curtis"
+    ],
+    "awards": "Won 1 Oscar. 74 wins u0026 153 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 648806,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 14666,
+      "updatedAt": "2026-09-24T22:10:50.000Z"
+     },
+     "rt": "76%",
+     "metascore": 67,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sam Worthington",
+     "character": "Jake Sully",
+     "slug": "sam-worthington",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+    },
+    {
+     "name": "Zoe Saldaña",
+     "character": "Neytiri",
+     "slug": "zoe-saldana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+    },
+    {
+     "name": "Sigourney Weaver",
+     "character": "Kiri",
+     "slug": "sigourney-weaver",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+     "name": "Stephen Lang",
+     "character": "Colonel Miles Quaritch",
+     "slug": "stephen-lang",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
+    },
+    {
+     "name": "Kate Winslet",
+     "character": "Ronal",
+     "slug": "kate-winslet",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg"
+    },
+    {
+     "name": "Cliff Curtis",
+     "character": "Tonowari",
+     "slug": "cliff-curtis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3D6qz8vL6DWHAO3HeXeaSuwxq3s.jpg"
+    },
+    {
+     "name": "Joel David Moore",
+     "character": "Norm Spellman",
+     "slug": "joel-david-moore",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mMVhVglj6BZFuvqAXnEibce08k7.jpg"
+    },
+    {
+     "name": "CCH Pounder",
+     "character": "Mo'at",
+     "slug": "cch-pounder",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mr6BLDN75T8DJl9dNK3hN4YwqJa.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      },
+      {
+       "name": "Josh Friedman",
+       "slug": "josh-friedman"
+      },
+      {
+       "name": "Amanda Silver",
+       "slug": "amanda-silver"
+      },
+      {
+       "name": "Rick Jaffa",
+       "slug": "rick-jaffa"
+      },
+      {
+       "name": "Shane Salerno",
+       "slug": "shane-salerno"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Simon Franglen",
+       "slug": "simon-franglen"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Russell Carpenter",
+       "slug": "russell-carpenter"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      },
+      {
+       "name": "John Refoua",
+       "slug": "john-refoua"
+      },
+      {
+       "name": "Stephen E. Rivkin",
+       "slug": "stephen-e-rivkin"
+      },
+      {
+       "name": "David Brenner",
+       "slug": "david-brenner"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      },
+      {
+       "name": "Jon Landau",
+       "slug": "jon-landau"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "20th Century Studios",
+     "slug": "20th-century-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/h0rjX5vjW5r8yEnUBStFarjcLT4.png"
+    },
+    {
+     "name": "Lightstorm Entertainment",
+     "slug": "lightstorm-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/8wdmrfGcDx3TJxYiiDksLzAW4pB.png"
+    },
+    {
+     "name": "TSG Entertainment",
+     "slug": "tsg-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/qx9K6bFWJupwde0xQDwOvXkOaL8.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-06-07",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-12-16",
+     "gross": 126979426.20999995,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 6667,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-12-23",
+     "gross": 108231755.37000003,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5223,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-12-30",
+     "gross": 57364611.85999997,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4424,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-01-06",
+     "gross": 20683299.8,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1686,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-01-13",
+     "gross": 9701474,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 506,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-01-20",
+     "gross": 5771762,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 204,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-01-27",
+     "gross": 1928125,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 129,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-02-03",
+     "gross": 829804,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 62,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-02-10",
+     "gross": 516936,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 39,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-02-17",
+     "gross": 313855,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 33,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-02-24",
+     "gross": 215070,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 23,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-03-03",
+     "gross": 215430,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 30,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-03-10",
+     "gross": 114680,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 14,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 332866229.23999995,
+    "totalShows": 19040,
+    "totalDays": 13,
+    "openingDay": {
+     "day": 1,
+     "gross": 126979426.20999995
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 126979426.20999995
+    },
+    "chartPosition": {
+     "current_position": 27,
+     "weeks_on_chart": 69,
+     "peak_position": 2,
+     "last_week_position": 27
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-12-16"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 246,
+    "title": "Avatar The Way of Water",
+    "img": "https://image.tmdb.org/t/p/original/kEVYW8jrFxV4qyEuXAZ1O6S5MxJ.jpg",
+    "released": "2022-12-16",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt1630029",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "192 min",
+    "genre": "Action, Adventure, Science Fiction",
+    "plot": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+    "released": "2022-12-14",
+    "director": "James Cameron",
+    "directorSlug": "james-cameron",
+    "actors": [
+     "Sam Worthington",
+     "Zoe Saldaña",
+     "Sigourney Weaver",
+     "Stephen Lang",
+     "Kate Winslet",
+     "Cliff Curtis"
+    ],
+    "awards": "Won 1 Oscar. 74 wins u0026 153 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "7.5",
+      "votes": 648806,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "7.6",
+      "votes": 14666,
+      "updatedAt": "2026-09-24T22:10:50.000Z"
+     },
+     "rt": "76%",
+     "metascore": 67,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Sam Worthington",
+     "character": "Jake Sully",
+     "slug": "sam-worthington",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+    },
+    {
+     "name": "Zoe Saldaña",
+     "character": "Neytiri",
+     "slug": "zoe-saldana",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+    },
+    {
+     "name": "Sigourney Weaver",
+     "character": "Kiri",
+     "slug": "sigourney-weaver",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+     "name": "Stephen Lang",
+     "character": "Colonel Miles Quaritch",
+     "slug": "stephen-lang",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
+    },
+    {
+     "name": "Kate Winslet",
+     "character": "Ronal",
+     "slug": "kate-winslet",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg"
+    },
+    {
+     "name": "Cliff Curtis",
+     "character": "Tonowari",
+     "slug": "cliff-curtis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3D6qz8vL6DWHAO3HeXeaSuwxq3s.jpg"
+    },
+    {
+     "name": "Joel David Moore",
+     "character": "Norm Spellman",
+     "slug": "joel-david-moore",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mMVhVglj6BZFuvqAXnEibce08k7.jpg"
+    },
+    {
+     "name": "CCH Pounder",
+     "character": "Mo'at",
+     "slug": "cch-pounder",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mr6BLDN75T8DJl9dNK3hN4YwqJa.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      },
+      {
+       "name": "Josh Friedman",
+       "slug": "josh-friedman"
+      },
+      {
+       "name": "Amanda Silver",
+       "slug": "amanda-silver"
+      },
+      {
+       "name": "Rick Jaffa",
+       "slug": "rick-jaffa"
+      },
+      {
+       "name": "Shane Salerno",
+       "slug": "shane-salerno"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Simon Franglen",
+       "slug": "simon-franglen"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Russell Carpenter",
+       "slug": "russell-carpenter"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      },
+      {
+       "name": "John Refoua",
+       "slug": "john-refoua"
+      },
+      {
+       "name": "Stephen E. Rivkin",
+       "slug": "stephen-e-rivkin"
+      },
+      {
+       "name": "David Brenner",
+       "slug": "david-brenner"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "James Cameron",
+       "slug": "james-cameron"
+      },
+      {
+       "name": "Jon Landau",
+       "slug": "jon-landau"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "20th Century Studios",
+     "slug": "20th-century-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/h0rjX5vjW5r8yEnUBStFarjcLT4.png"
+    },
+    {
+     "name": "Lightstorm Entertainment",
+     "slug": "lightstorm-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/8wdmrfGcDx3TJxYiiDksLzAW4pB.png"
+    },
+    {
+     "name": "TSG Entertainment",
+     "slug": "tsg-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/qx9K6bFWJupwde0xQDwOvXkOaL8.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2023-06-07",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 332866229.24,
+    "totalShows": 19040,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 80505460,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 80505460,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 27,
+     "weeks_on_chart": 69,
+     "peak_position": 2,
+     "last_week_position": 27
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-12-16"
+   }
+  }
+ }
+}

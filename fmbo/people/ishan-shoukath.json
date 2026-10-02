@@ -1,0 +1,41 @@
+{
+ "slug": "ishan-shoukath",
+ "name": "Ishan Shoukath",
+ "source_url": "https://fridaymatinee.in/people/ishan-shoukath",
+ "captured_at": "2026-10-01T22:54:02.816722+00:00",
+ "person": {
+  "name": "Ishan Shoukath",
+  "photo": "https://image.tmdb.org/t/p/w185/xJicLr2st7kQT7fzPC2xAZnzGUx.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 585,
+   "movie_slug": "marco",
+   "title": "Marco",
+   "year": 2024,
+   "kerala_gross": "₹34.7 Cr"
+  },
+  {
+   "movie_id": 691,
+   "movie_slug": "padakkalam",
+   "title": "Padakkalam",
+   "year": 2025,
+   "kerala_gross": "₹10.6 Cr"
+  },
+  {
+   "movie_id": 968,
+   "movie_slug": "chatha-pacha-the-ring-of-rowdies",
+   "title": "Chatha Pacha: The Ring of Rowdies",
+   "year": 2026,
+   "kerala_gross": "₹13.5 Cr"
+  }
+ ]
+}

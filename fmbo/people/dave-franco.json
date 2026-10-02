@@ -1,0 +1,41 @@
+{
+ "slug": "dave-franco",
+ "name": "Dave Franco",
+ "source_url": "https://fridaymatinee.in/people/dave-franco",
+ "captured_at": "2026-10-01T21:49:02.049820+00:00",
+ "person": {
+  "name": "Dave Franco",
+  "photo": "https://image.tmdb.org/t/p/w185/to7ee1xcCOpDSKMXjBIRuYEfbEc.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 878,
+   "movie_slug": "now-you-see-me-now-you-dont",
+   "title": "Now You See Me: Now You Dont",
+   "year": 2025,
+   "kerala_gross": "₹10.9L"
+  },
+  {
+   "movie_id": 1055,
+   "movie_slug": "hoppers",
+   "title": "Hoppers",
+   "year": 2026,
+   "kerala_gross": "₹17.4L"
+  },
+  {
+   "movie_id": 1322,
+   "movie_slug": "forgotten-island",
+   "title": "Forgotten Island",
+   "year": 2026,
+   "kerala_gross": "₹3.6L"
+  }
+ ]
+}

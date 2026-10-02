@@ -1,0 +1,48 @@
+{
+ "slug": "pramod-shetty",
+ "name": "Pramod Shetty",
+ "source_url": "https://fridaymatinee.in/people/pramod-shetty",
+ "captured_at": "2026-10-02T06:25:10.422903+00:00",
+ "person": {
+  "name": "Pramod Shetty",
+  "photo": "https://image.tmdb.org/t/p/w185/86EdpeMO9V7tQt1tgIk3MpnKSTH.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 225,
+   "movie_slug": "kantara",
+   "title": "Kantara",
+   "year": 2022,
+   "kerala_gross": "₹12.0 Cr"
+  },
+  {
+   "movie_id": 308,
+   "movie_slug": "kabzaa",
+   "title": "Kabzaa",
+   "year": 2023,
+   "kerala_gross": "₹40.7L"
+  },
+  {
+   "movie_id": 490,
+   "movie_slug": "ajayante-randam-moshanam",
+   "title": "Ajayante Randam Moshanam",
+   "year": 2024,
+   "kerala_gross": "₹56.2 Cr"
+  },
+  {
+   "movie_id": 825,
+   "movie_slug": "kantara-chapter-1",
+   "title": "Kantara Chapter 1",
+   "year": 2025,
+   "kerala_gross": "₹51.0 Cr"
+  }
+ ]
+}

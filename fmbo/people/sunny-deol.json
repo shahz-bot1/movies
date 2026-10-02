@@ -1,0 +1,48 @@
+{
+ "slug": "sunny-deol",
+ "name": "Sunny Deol",
+ "source_url": "https://fridaymatinee.in/people/sunny-deol",
+ "captured_at": "2026-10-02T11:07:19.012826+00:00",
+ "person": {
+  "name": "Sunny Deol",
+  "photo": "https://image.tmdb.org/t/p/w185/w9RenJriQVys2k5fa9ojkXpYMwO.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 434,
+   "movie_slug": "jaat",
+   "title": "Jaat",
+   "year": 2025,
+   "kerala_gross": "₹18.1L"
+  },
+  {
+   "movie_id": 981,
+   "movie_slug": "border-2",
+   "title": "Border 2",
+   "year": 2026,
+   "kerala_gross": "₹74.6L"
+  },
+  {
+   "movie_id": 1230,
+   "movie_slug": "batwara-1947",
+   "title": "Batwara 1947",
+   "year": 2026,
+   "kerala_gross": "₹7.1L"
+  },
+  {
+   "movie_id": 205,
+   "movie_slug": "chup",
+   "title": "Chup",
+   "year": 2022,
+   "kerala_gross": "₹49.5L"
+  }
+ ]
+}

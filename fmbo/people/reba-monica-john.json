@@ -1,0 +1,41 @@
+{
+ "slug": "reba-monica-john",
+ "name": "Reba Monica John",
+ "source_url": "https://fridaymatinee.in/people/reba-monica-john",
+ "captured_at": "2026-10-02T08:46:02.305730+00:00",
+ "person": {
+  "name": "Reba Monica John",
+  "photo": "https://image.tmdb.org/t/p/w185/dYW3cCnwzEIzKaeZjSopXYd2a50.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 18,
+   "movie_slug": "bigil",
+   "title": "Bigil",
+   "year": 2019,
+   "kerala_gross": "₹5.4 Cr"
+  },
+  {
+   "movie_id": 63,
+   "movie_slug": "forensic",
+   "title": "Forensic",
+   "year": 2020,
+   "kerala_gross": "₹4.2 Cr"
+  },
+  {
+   "movie_id": 932,
+   "movie_slug": "dheeram",
+   "title": "Dheeram",
+   "year": 2025,
+   "kerala_gross": "₹85.6L"
+  }
+ ]
+}

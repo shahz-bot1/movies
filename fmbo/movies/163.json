@@ -1,0 +1,715 @@
+{
+ "id": 163,
+ "slug": "mahaveeryar",
+ "source_url": "https://fridaymatinee.in/boxoffice/mahaveeryar-163",
+ "captured_at": "2026-10-01T18:05:28.934236+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 163,
+    "title": "Mahaveeryar",
+    "img": "https://image.tmdb.org/t/p/original/hbGaL2rnXkL7BnNyU2CxRcnYG3G.jpg",
+    "released": "2022-07-21",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13557082",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "126 min",
+    "genre": "Action, Comedy, Fantasy",
+    "plot": "An 18th-century king suffers from an illness of persistent hiccups. Meanwhile, a godman accused of stealing a temple statue in the present day defends himself in a contemporary court, where the two tales meet to unravel a satirical take on society.",
+    "released": "2022-07-21",
+    "director": "Abrid Shine",
+    "directorSlug": "abrid-shine",
+    "actors": [
+     "Nivin Pauly",
+     "Asif Ali",
+     "Shanvi Shrivastava",
+     "Lal",
+     "Siddique",
+     "Lalu Alex"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 2712,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:18.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Nivin Pauly",
+     "character": "Apoornnananthan",
+     "slug": "nivin-pauly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6W4nGeMkRWZ5Wj0HAAntu9FWP4f.jpg"
+    },
+    {
+     "name": "Asif Ali",
+     "character": "Veerabhadran",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Shanvi Shrivastava",
+     "character": "Devayani",
+     "slug": "shanvi-shrivastava",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8ZRnmt0pnn2vdPJVK9UsWyakEF2.jpg"
+    },
+    {
+     "name": "Lal",
+     "character": "Rudra Mahaveera Ugrasena Maharaja",
+     "slug": "lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "MM Veerendra Kumar (Chief Judicial Magistrate)",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Lalu Alex",
+     "character": "'PP' Public Prosecutor",
+     "slug": "lalu-alex",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vK4aDoB3W68Ln730mNY9TuYcaTP.jpg"
+    },
+    {
+     "name": "Major Ravi",
+     "character": "Veerabhaskar (Defence Counsel)",
+     "slug": "major-ravi",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Vijay Menon",
+     "character": "Veerasimhan  (Defence Counsel)",
+     "slug": "vijay-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tB9qpkqCzVfu0dyaE7a775EnOnE.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abrid Shine",
+       "slug": "abrid-shine"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "M Mukundan",
+       "slug": "m-mukundan"
+      },
+      {
+       "name": "Abrid Shine",
+       "slug": "abrid-shine"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ishaan Chhabra",
+       "slug": "ishaan-chhabra"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Chandru Selvaraj",
+       "slug": "chandru-selvaraj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Manoj",
+       "slug": "manoj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Nivin Pauly",
+       "slug": "nivin-pauly"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Pauly Jr. Pictures",
+     "slug": "pauly-jr-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8IUc7vMmJgjgvhQ87N4krft6knv.png"
+    },
+    {
+     "name": "Indian Movie Makers",
+     "slug": "indian-movie-makers",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 40106277.400000006,
+    "totalShows": 7750,
+    "totalDays": 34,
+    "openingDay": {
+     "day": 1,
+     "gross": 8035270.35,
+     "date": "2022-07-21"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 8035270.35,
+     "date": "2022-07-21"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 37,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-07-21"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 163,
+    "title": "Mahaveeryar",
+    "img": "https://image.tmdb.org/t/p/original/hbGaL2rnXkL7BnNyU2CxRcnYG3G.jpg",
+    "released": "2022-07-21",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13557082",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "126 min",
+    "genre": "Action, Comedy, Fantasy",
+    "plot": "An 18th-century king suffers from an illness of persistent hiccups. Meanwhile, a godman accused of stealing a temple statue in the present day defends himself in a contemporary court, where the two tales meet to unravel a satirical take on society.",
+    "released": "2022-07-21",
+    "director": "Abrid Shine",
+    "directorSlug": "abrid-shine",
+    "actors": [
+     "Nivin Pauly",
+     "Asif Ali",
+     "Shanvi Shrivastava",
+     "Lal",
+     "Siddique",
+     "Lalu Alex"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 2712,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:18.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Nivin Pauly",
+     "character": "Apoornnananthan",
+     "slug": "nivin-pauly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6W4nGeMkRWZ5Wj0HAAntu9FWP4f.jpg"
+    },
+    {
+     "name": "Asif Ali",
+     "character": "Veerabhadran",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Shanvi Shrivastava",
+     "character": "Devayani",
+     "slug": "shanvi-shrivastava",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8ZRnmt0pnn2vdPJVK9UsWyakEF2.jpg"
+    },
+    {
+     "name": "Lal",
+     "character": "Rudra Mahaveera Ugrasena Maharaja",
+     "slug": "lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "MM Veerendra Kumar (Chief Judicial Magistrate)",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Lalu Alex",
+     "character": "'PP' Public Prosecutor",
+     "slug": "lalu-alex",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vK4aDoB3W68Ln730mNY9TuYcaTP.jpg"
+    },
+    {
+     "name": "Major Ravi",
+     "character": "Veerabhaskar (Defence Counsel)",
+     "slug": "major-ravi",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Vijay Menon",
+     "character": "Veerasimhan  (Defence Counsel)",
+     "slug": "vijay-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tB9qpkqCzVfu0dyaE7a775EnOnE.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abrid Shine",
+       "slug": "abrid-shine"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "M Mukundan",
+       "slug": "m-mukundan"
+      },
+      {
+       "name": "Abrid Shine",
+       "slug": "abrid-shine"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ishaan Chhabra",
+       "slug": "ishaan-chhabra"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Chandru Selvaraj",
+       "slug": "chandru-selvaraj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Manoj",
+       "slug": "manoj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Nivin Pauly",
+       "slug": "nivin-pauly"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Pauly Jr. Pictures",
+     "slug": "pauly-jr-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8IUc7vMmJgjgvhQ87N4krft6knv.png"
+    },
+    {
+     "name": "Indian Movie Makers",
+     "slug": "indian-movie-makers",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-07-21",
+     "gross": 23523647.15,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3710,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-07-28",
+     "gross": 4144053,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 916,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-08-04",
+     "gross": 742476,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 153,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-07-13",
+     "gross": 8457895.27,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1812,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-07-20",
+     "gross": 3079376.98,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1076,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2023-07-27",
+     "gross": 158829,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 83,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 40106277.4,
+    "totalShows": 7750,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 23523647.15
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 23523647.15
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 37,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-07-21"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 163,
+    "title": "Mahaveeryar",
+    "img": "https://image.tmdb.org/t/p/original/hbGaL2rnXkL7BnNyU2CxRcnYG3G.jpg",
+    "released": "2022-07-21",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13557082",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "126 min",
+    "genre": "Action, Comedy, Fantasy",
+    "plot": "An 18th-century king suffers from an illness of persistent hiccups. Meanwhile, a godman accused of stealing a temple statue in the present day defends himself in a contemporary court, where the two tales meet to unravel a satirical take on society.",
+    "released": "2022-07-21",
+    "director": "Abrid Shine",
+    "directorSlug": "abrid-shine",
+    "actors": [
+     "Nivin Pauly",
+     "Asif Ali",
+     "Shanvi Shrivastava",
+     "Lal",
+     "Siddique",
+     "Lalu Alex"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 2712,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:18.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Nivin Pauly",
+     "character": "Apoornnananthan",
+     "slug": "nivin-pauly",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6W4nGeMkRWZ5Wj0HAAntu9FWP4f.jpg"
+    },
+    {
+     "name": "Asif Ali",
+     "character": "Veerabhadran",
+     "slug": "asif-ali",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5QMLoQ01BOVWRK0JKioJcwtM7EH.jpg"
+    },
+    {
+     "name": "Shanvi Shrivastava",
+     "character": "Devayani",
+     "slug": "shanvi-shrivastava",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8ZRnmt0pnn2vdPJVK9UsWyakEF2.jpg"
+    },
+    {
+     "name": "Lal",
+     "character": "Rudra Mahaveera Ugrasena Maharaja",
+     "slug": "lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ds3eeWA56YFeeuWP6WUs1ok58FK.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "MM Veerendra Kumar (Chief Judicial Magistrate)",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Lalu Alex",
+     "character": "'PP' Public Prosecutor",
+     "slug": "lalu-alex",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vK4aDoB3W68Ln730mNY9TuYcaTP.jpg"
+    },
+    {
+     "name": "Major Ravi",
+     "character": "Veerabhaskar (Defence Counsel)",
+     "slug": "major-ravi",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Vijay Menon",
+     "character": "Veerasimhan  (Defence Counsel)",
+     "slug": "vijay-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tB9qpkqCzVfu0dyaE7a775EnOnE.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Abrid Shine",
+       "slug": "abrid-shine"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "M Mukundan",
+       "slug": "m-mukundan"
+      },
+      {
+       "name": "Abrid Shine",
+       "slug": "abrid-shine"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ishaan Chhabra",
+       "slug": "ishaan-chhabra"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Chandru Selvaraj",
+       "slug": "chandru-selvaraj"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Manoj",
+       "slug": "manoj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Nivin Pauly",
+       "slug": "nivin-pauly"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Pauly Jr. Pictures",
+     "slug": "pauly-jr-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8IUc7vMmJgjgvhQ87N4krft6knv.png"
+    },
+    {
+     "name": "Indian Movie Makers",
+     "slug": "indian-movie-makers",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 40106277.4,
+    "totalShows": 7750,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 10653593,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 10653593,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 37,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-07-21"
+   }
+  }
+ }
+}

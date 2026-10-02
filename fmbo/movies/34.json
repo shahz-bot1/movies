@@ -1,0 +1,400 @@
+{
+ "id": 34,
+ "slug": "ford-v-ferrari",
+ "source_url": "https://fridaymatinee.in/boxoffice/ford-v-ferrari-34",
+ "captured_at": "2026-10-01T17:57:42.806523+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 34,
+    "title": "Ford v Ferrari",
+    "img": "https://image.tmdb.org/t/p/original/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+    "released": "2019-11-15",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt1950186",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "153 min",
+    "genre": "Drama, Action, History",
+    "plot": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
+    "released": "2019-11-13",
+    "director": "James Mangold",
+    "directorSlug": "james-mangold",
+    "actors": [
+     "Matt Damon",
+     "Christian Bale",
+     "Jon Bernthal",
+     "Caitríona Balfe",
+     "Josh Lucas",
+     "Noah Jupe"
+    ],
+    "awards": "Won 2 Oscars. 26 wins u0026 86 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.1",
+      "votes": 588145,
+      "updatedAt": "2026-10-01T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "8.0",
+      "votes": 9317,
+      "updatedAt": "2026-09-25T01:11:00.000Z"
+     },
+     "rt": "92%",
+     "metascore": 81,
+     "updatedAt": "2026-10-01T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Matt Damon",
+     "character": "Carroll Shelby",
+     "slug": "matt-damon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
+    },
+    {
+     "name": "Christian Bale",
+     "character": "Ken Miles",
+     "slug": "christian-bale",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+    },
+    {
+     "name": "Jon Bernthal",
+     "character": "Lee Iacocca",
+     "slug": "jon-bernthal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg"
+    },
+    {
+     "name": "Caitríona Balfe",
+     "character": "Mollie Miles",
+     "slug": "caitriona-balfe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4KQRDj74lKwU52Ewmzz7sVIakgn.jpg"
+    },
+    {
+     "name": "Josh Lucas",
+     "character": "Leo Beebe",
+     "slug": "josh-lucas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ueR4CH32f22DGjFxuhnW1o3YKB3.jpg"
+    },
+    {
+     "name": "Noah Jupe",
+     "character": "Peter Miles",
+     "slug": "noah-jupe",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cBhJisZrIsZzamiUCVjOZODcqOK.jpg"
+    },
+    {
+     "name": "Tracy Letts",
+     "character": "Henry Ford II",
+     "slug": "tracy-letts",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/x318yEddF10ASORC5U958C2kowf.jpg"
+    },
+    {
+     "name": "Remo Girone",
+     "character": "Enzo Ferrari",
+     "slug": "remo-girone",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gRS90yn20ZMlq4pvVQjtUM5DLqN.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "James Mangold",
+       "slug": "james-mangold"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "John-Henry Butterworth",
+       "slug": "john-henry-butterworth"
+      },
+      {
+       "name": "Jez Butterworth",
+       "slug": "jez-butterworth"
+      },
+      {
+       "name": "Jason Keller",
+       "slug": "jason-keller"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Marco Beltrami",
+       "slug": "marco-beltrami"
+      },
+      {
+       "name": "Buck Sanders",
+       "slug": "buck-sanders"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Phedon Papamichael",
+       "slug": "phedon-papamichael"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Michael McCusker",
+       "slug": "michael-mccusker"
+      },
+      {
+       "name": "Andrew Buckland",
+       "slug": "andrew-buckland"
+      },
+      {
+       "name": "Dirk Westervelt",
+       "slug": "dirk-westervelt"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "James Mangold",
+       "slug": "james-mangold"
+      },
+      {
+       "name": "Jenno Topping",
+       "slug": "jenno-topping"
+      },
+      {
+       "name": "Peter Chernin",
+       "slug": "peter-chernin"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "20th Century Fox",
+     "slug": "20th-century-fox",
+     "logo": "https://image.tmdb.org/t/p/w185/qZCc1lty5FzX30aOCVRBLzaVmcp.png"
+    },
+    {
+     "name": "TSG Entertainment",
+     "slug": "tsg-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/qx9K6bFWJupwde0xQDwOvXkOaL8.png"
+    },
+    {
+     "name": "Chernin Entertainment",
+     "slug": "chernin-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/8BFxn9NUWSgp0ndih569Gm62xiC.png"
+    },
+    {
+     "name": "Turnpike Films",
+     "slug": "turnpike-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2020-01-28",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3171177,
+    "totalShows": 211,
+    "totalDays": 34,
+    "openingDay": {
+     "day": 1,
+     "gross": 80160,
+     "date": "2019-11-15"
+    },
+    "peakDay": {
+     "day": 10,
+     "gross": 232514,
+     "date": "2019-11-24"
+    },
+    "chartPosition": {
+     "current_position": 99,
+     "weeks_on_chart": 0,
+     "peak_position": 17,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-15"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 34,
+    "title": "Ford v Ferrari",
+    "img": "https://image.tmdb.org/t/p/original/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+    "released": "2019-11-15",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt1950186",
+    "isRerelease": false
+   },
+   "omdb": "$e:1:props:allViews:date:omdb",
+   "cast": "$e:1:props:allViews:date:cast",
+   "crew": "$e:1:props:allViews:date:crew",
+   "companies": "$e:1:props:allViews:date:companies",
+   "ott": "$e:1:props:allViews:date:ott",
+   "boxoffice": [
+    {
+     "label": "2019-11-15",
+     "gross": 733122,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 65,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-11-22",
+     "gross": 1160760,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 78,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-11-29",
+     "gross": 736450,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 39,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-12-06",
+     "gross": 414335,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 23,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2019-12-13",
+     "gross": 126510,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 6,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3171177,
+    "totalShows": 211,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 733122,
+     "date": "$undefined"
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 1160760,
+     "date": "$undefined"
+    },
+    "chartPosition": "$e:1:props:allViews:date:summary:chartPosition"
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-15"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 34,
+    "title": "Ford v Ferrari",
+    "img": "https://image.tmdb.org/t/p/original/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+    "released": "2019-11-15",
+    "language": "English",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt1950186",
+    "isRerelease": false
+   },
+   "omdb": "$e:1:props:allViews:date:omdb",
+   "cast": "$e:1:props:allViews:date:cast",
+   "crew": "$e:1:props:allViews:date:crew",
+   "companies": "$e:1:props:allViews:date:companies",
+   "ott": "$e:1:props:allViews:date:ott",
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 3171177,
+    "totalShows": 211,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 2353702,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2353702,
+     "date": "Ernakulam"
+    },
+    "chartPosition": "$e:1:props:allViews:date:summary:chartPosition"
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2020-11-15"
+   }
+  }
+ }
+}

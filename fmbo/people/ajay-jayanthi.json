@@ -1,0 +1,41 @@
+{
+ "slug": "ajay-jayanthi",
+ "name": "Ajay Jayanthi",
+ "source_url": "https://fridaymatinee.in/people/ajay-jayanthi",
+ "captured_at": "2026-10-01T20:16:31.077878+00:00",
+ "person": {
+  "name": "Ajay Jayanthi",
+  "photo": null,
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 840,
+   "movie_slug": "nishaanchi",
+   "title": "Nishaanchi",
+   "year": 2025,
+   "kerala_gross": "₹52K"
+  },
+  {
+   "movie_id": 977,
+   "movie_slug": "happy-patel-khatarnak-jasoos",
+   "title": "Happy Patel Khatarnak Jasoos",
+   "year": 2026,
+   "kerala_gross": "₹3.5L"
+  },
+  {
+   "movie_id": 1124,
+   "movie_slug": "the-great-grand-superhero",
+   "title": "The Great Grand Superhero",
+   "year": 2026,
+   "kerala_gross": "₹40K"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "slug": "mysskin",
+ "name": "Mysskin",
+ "source_url": "https://fridaymatinee.in/people/mysskin",
+ "captured_at": "2026-10-02T00:48:50.837956+00:00",
+ "person": {
+  "name": "Mysskin",
+  "photo": "https://image.tmdb.org/t/p/w185/2g65eG5FBh9oOMAhxpfk5T6um6A.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 409,
+   "movie_slug": "maaveeran",
+   "title": "Maaveeran",
+   "year": 2023,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 430,
+   "movie_slug": "leo",
+   "title": "Leo",
+   "year": 2023,
+   "kerala_gross": "₹47.4 Cr"
+  },
+  {
+   "movie_id": 658,
+   "movie_slug": "dragon",
+   "title": "Dragon",
+   "year": 2025,
+   "kerala_gross": "₹3.1 Cr"
+  },
+  {
+   "movie_id": 1138,
+   "movie_slug": "parimala-and-co",
+   "title": "Parimala and Co",
+   "year": 2026,
+   "kerala_gross": "₹29.7L"
+  },
+  {
+   "movie_id": 662,
+   "movie_slug": "im-game",
+   "title": "Im Game",
+   "year": 2026,
+   "kerala_gross": "₹16.5 Cr"
+  }
+ ]
+}

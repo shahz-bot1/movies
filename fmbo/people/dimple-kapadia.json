@@ -1,0 +1,41 @@
+{
+ "slug": "dimple-kapadia",
+ "name": "Dimple Kapadia",
+ "source_url": "https://fridaymatinee.in/people/dimple-kapadia",
+ "captured_at": "2026-10-01T22:02:06.999197+00:00",
+ "person": {
+  "name": "Dimple Kapadia",
+  "photo": "https://image.tmdb.org/t/p/w185/rrISOX9TnetEAiZ5zCosTkmFdh2.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 44,
+   "movie_slug": "dabangg-3",
+   "title": "Dabangg 3",
+   "year": 2019,
+   "kerala_gross": "₹28.7L"
+  },
+  {
+   "movie_id": 199,
+   "movie_slug": "brahmastra-part-one-shiva",
+   "title": "Brahmastra Part One Shiva",
+   "year": 2022,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 278,
+   "movie_slug": "pathaan",
+   "title": "Pathaan",
+   "year": 2023,
+   "kerala_gross": "₹9.5 Cr"
+  }
+ ]
+}

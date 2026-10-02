@@ -1,0 +1,41 @@
+{
+ "slug": "ravi-raghavendra",
+ "name": "Ravi Raghavendra",
+ "source_url": "https://fridaymatinee.in/people/ravi-raghavendra",
+ "captured_at": "2026-10-02T08:44:51.255429+00:00",
+ "person": {
+  "name": "Ravi Raghavendra",
+  "photo": "https://image.tmdb.org/t/p/w185/xVlk1yd5YYp1N1ysCxRo7347aWk.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 135,
+   "movie_slug": "kaathuvaakula-rendu-kadhal",
+   "title": "Kaathuvaakula Rendu Kadhal",
+   "year": 2022,
+   "kerala_gross": "₹45.7L"
+  },
+  {
+   "movie_id": 592,
+   "movie_slug": "kanguva",
+   "title": "Kanguva",
+   "year": 2024,
+   "kerala_gross": "₹4.7 Cr"
+  },
+  {
+   "movie_id": 647,
+   "movie_slug": "vidaamuyarchi",
+   "title": "Vidaamuyarchi",
+   "year": 2025,
+   "kerala_gross": "₹2.6 Cr"
+  }
+ ]
+}

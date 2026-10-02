@@ -1,0 +1,41 @@
+{
+ "slug": "prathap-pothan",
+ "name": "Prathap Pothan",
+ "source_url": "https://fridaymatinee.in/people/prathap-pothan",
+ "captured_at": "2026-10-02T06:28:22.443435+00:00",
+ "person": {
+  "name": "Prathap Pothan",
+  "photo": "https://image.tmdb.org/t/p/w185/wDnpGLXgsBax5NE0LgSsV6EWrje.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 63,
+   "movie_slug": "forensic",
+   "title": "Forensic",
+   "year": 2020,
+   "kerala_gross": "₹4.2 Cr"
+  },
+  {
+   "movie_id": 235,
+   "movie_slug": "saturday-night",
+   "title": "Saturday Night",
+   "year": 2022,
+   "kerala_gross": "₹1.4 Cr"
+  },
+  {
+   "movie_id": 241,
+   "movie_slug": "adrishyam",
+   "title": "Adrishyam",
+   "year": 2022,
+   "kerala_gross": "₹49.0L"
+  }
+ ]
+}

@@ -1,0 +1,608 @@
+{
+ "id": 72,
+ "slug": "tsunami",
+ "source_url": "https://fridaymatinee.in/boxoffice/tsunami-72",
+ "captured_at": "2026-10-01T17:59:59.594993+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 72,
+    "title": "Tsunami",
+    "img": "https://image.tmdb.org/t/p/original/rDLg9qMN9sfJuojBLCCesuKjIjP.jpg",
+    "released": "2021-03-11",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13269124",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Comedy",
+    "plot": "Bobby is a young man who goes to a seminary in Goa to become a priest, despite his family opposes that. But something happens during his journey so that he ends it there and returns home.",
+    "released": "2021-03-11",
+    "director": "Lal",
+    "directorSlug": "lal",
+    "actors": [
+     "Balu Varghese",
+     "Innocent",
+     "Mukesh",
+     "Aju Varghese",
+     "Suresh Krishna",
+     "Aradhya Ann"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.2",
+      "votes": 515,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:44.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Balu Varghese",
+     "character": "Bobby",
+     "slug": "balu-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v1Ydyfxe3bFxXiHB4cU5Hmoh5hV.jpg"
+    },
+    {
+     "name": "Innocent",
+     "character": "Eappachan",
+     "slug": "innocent",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zJ4mjbYYo7Z7Gva8pl1Q2czs7a7.jpg"
+    },
+    {
+     "name": "Mukesh",
+     "character": "Fr. Silvester Kattuparambil",
+     "slug": "mukesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zFdvuL90ek2U32lJdGM9ePZA8jC.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Antappan",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Suresh Krishna",
+     "character": "Francis Kattuparambil",
+     "slug": "suresh-krishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hQ4TZgh8IuUh1LJtxCRmUY45fo6.jpg"
+    },
+    {
+     "name": "Aradhya Ann",
+     "character": "Anna",
+     "slug": "aradhya-ann",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/deOwNGkvS7NTCdeaCJPwVn1MlMA.jpg"
+    },
+    {
+     "name": "Nishaa Mathew",
+     "character": "Jaseentha Eapen",
+     "slug": "nishaa-mathew",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vqGi70wgv46CsWYCTXkFNm0n9PU.jpg"
+    },
+    {
+     "name": "Arun",
+     "character": "C.I. Brenard",
+     "slug": "arun",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eCeMZszcSFwCvyacaB6Stfj6gZZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Lal",
+       "slug": "lal"
+      },
+      {
+       "name": "Lal Jr.",
+       "slug": "lal-jr"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Lal",
+       "slug": "lal"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Yakzan Gary Pereira",
+       "slug": "yakzan-gary-pereira"
+      },
+      {
+       "name": "Neha Nair",
+       "slug": "neha-nair"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Alex J. Pulickal",
+       "slug": "alex-j-pulickal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ratheesh Raj",
+       "slug": "ratheesh-raj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Allan Antony",
+       "slug": "allan-antony"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Panda Dad Production",
+     "slug": "panda-dad-production",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2021-03-26",
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 502639,
+    "totalShows": 240,
+    "totalDays": 4,
+    "openingDay": {
+     "day": 1,
+     "gross": 239772,
+     "date": "2021-03-11"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 239772,
+     "date": "2021-03-11"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 55,
+     "last_week_position": 96
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-03-11"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 72,
+    "title": "Tsunami",
+    "img": "https://image.tmdb.org/t/p/original/rDLg9qMN9sfJuojBLCCesuKjIjP.jpg",
+    "released": "2021-03-11",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13269124",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Comedy",
+    "plot": "Bobby is a young man who goes to a seminary in Goa to become a priest, despite his family opposes that. But something happens during his journey so that he ends it there and returns home.",
+    "released": "2021-03-11",
+    "director": "Lal",
+    "directorSlug": "lal",
+    "actors": [
+     "Balu Varghese",
+     "Innocent",
+     "Mukesh",
+     "Aju Varghese",
+     "Suresh Krishna",
+     "Aradhya Ann"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.2",
+      "votes": 515,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:44.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Balu Varghese",
+     "character": "Bobby",
+     "slug": "balu-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v1Ydyfxe3bFxXiHB4cU5Hmoh5hV.jpg"
+    },
+    {
+     "name": "Innocent",
+     "character": "Eappachan",
+     "slug": "innocent",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zJ4mjbYYo7Z7Gva8pl1Q2czs7a7.jpg"
+    },
+    {
+     "name": "Mukesh",
+     "character": "Fr. Silvester Kattuparambil",
+     "slug": "mukesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zFdvuL90ek2U32lJdGM9ePZA8jC.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Antappan",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Suresh Krishna",
+     "character": "Francis Kattuparambil",
+     "slug": "suresh-krishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hQ4TZgh8IuUh1LJtxCRmUY45fo6.jpg"
+    },
+    {
+     "name": "Aradhya Ann",
+     "character": "Anna",
+     "slug": "aradhya-ann",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/deOwNGkvS7NTCdeaCJPwVn1MlMA.jpg"
+    },
+    {
+     "name": "Nishaa Mathew",
+     "character": "Jaseentha Eapen",
+     "slug": "nishaa-mathew",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vqGi70wgv46CsWYCTXkFNm0n9PU.jpg"
+    },
+    {
+     "name": "Arun",
+     "character": "C.I. Brenard",
+     "slug": "arun",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eCeMZszcSFwCvyacaB6Stfj6gZZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Lal",
+       "slug": "lal"
+      },
+      {
+       "name": "Lal Jr.",
+       "slug": "lal-jr"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Lal",
+       "slug": "lal"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Yakzan Gary Pereira",
+       "slug": "yakzan-gary-pereira"
+      },
+      {
+       "name": "Neha Nair",
+       "slug": "neha-nair"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Alex J. Pulickal",
+       "slug": "alex-j-pulickal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ratheesh Raj",
+       "slug": "ratheesh-raj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Allan Antony",
+       "slug": "allan-antony"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Panda Dad Production",
+     "slug": "panda-dad-production",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2021-03-26",
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2021-03-11",
+     "gross": 502639,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 240,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 502639,
+    "totalShows": 240,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 502639
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 502639
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 55,
+     "last_week_position": 96
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-03-11"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 72,
+    "title": "Tsunami",
+    "img": "https://image.tmdb.org/t/p/original/rDLg9qMN9sfJuojBLCCesuKjIjP.jpg",
+    "released": "2021-03-11",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13269124",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "122 min",
+    "genre": "Comedy",
+    "plot": "Bobby is a young man who goes to a seminary in Goa to become a priest, despite his family opposes that. But something happens during his journey so that he ends it there and returns home.",
+    "released": "2021-03-11",
+    "director": "Lal",
+    "directorSlug": "lal",
+    "actors": [
+     "Balu Varghese",
+     "Innocent",
+     "Mukesh",
+     "Aju Varghese",
+     "Suresh Krishna",
+     "Aradhya Ann"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.2",
+      "votes": 515,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:44.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Balu Varghese",
+     "character": "Bobby",
+     "slug": "balu-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/v1Ydyfxe3bFxXiHB4cU5Hmoh5hV.jpg"
+    },
+    {
+     "name": "Innocent",
+     "character": "Eappachan",
+     "slug": "innocent",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zJ4mjbYYo7Z7Gva8pl1Q2czs7a7.jpg"
+    },
+    {
+     "name": "Mukesh",
+     "character": "Fr. Silvester Kattuparambil",
+     "slug": "mukesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zFdvuL90ek2U32lJdGM9ePZA8jC.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Antappan",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Suresh Krishna",
+     "character": "Francis Kattuparambil",
+     "slug": "suresh-krishna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/hQ4TZgh8IuUh1LJtxCRmUY45fo6.jpg"
+    },
+    {
+     "name": "Aradhya Ann",
+     "character": "Anna",
+     "slug": "aradhya-ann",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/deOwNGkvS7NTCdeaCJPwVn1MlMA.jpg"
+    },
+    {
+     "name": "Nishaa Mathew",
+     "character": "Jaseentha Eapen",
+     "slug": "nishaa-mathew",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vqGi70wgv46CsWYCTXkFNm0n9PU.jpg"
+    },
+    {
+     "name": "Arun",
+     "character": "C.I. Brenard",
+     "slug": "arun",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eCeMZszcSFwCvyacaB6Stfj6gZZ.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Lal",
+       "slug": "lal"
+      },
+      {
+       "name": "Lal Jr.",
+       "slug": "lal-jr"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Lal",
+       "slug": "lal"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Yakzan Gary Pereira",
+       "slug": "yakzan-gary-pereira"
+      },
+      {
+       "name": "Neha Nair",
+       "slug": "neha-nair"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Alex J. Pulickal",
+       "slug": "alex-j-pulickal"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ratheesh Raj",
+       "slug": "ratheesh-raj"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Allan Antony",
+       "slug": "allan-antony"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Panda Dad Production",
+     "slug": "panda-dad-production",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2021-03-26",
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 502639,
+    "totalShows": 240,
+    "totalDays": 8,
+    "openingDay": {
+     "day": 1,
+     "gross": 319468,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 319468,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 55,
+     "last_week_position": 96
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-03-11"
+   }
+  }
+ }
+}

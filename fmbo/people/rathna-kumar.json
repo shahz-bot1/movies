@@ -1,0 +1,41 @@
+{
+ "slug": "rathna-kumar",
+ "name": "Rathna Kumar",
+ "source_url": "https://fridaymatinee.in/people/rathna-kumar",
+ "captured_at": "2026-10-02T08:43:25.221901+00:00",
+ "person": {
+  "name": "Rathna Kumar",
+  "photo": "https://image.tmdb.org/t/p/w185/rI9zRYRweUXvQZuf7k7PG4U0t9N.jpg",
+  "role": "Writer"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 144,
+   "movie_slug": "vikram",
+   "title": "Vikram",
+   "year": 2022,
+   "kerala_gross": "₹29.1 Cr"
+  },
+  {
+   "movie_id": 430,
+   "movie_slug": "leo",
+   "title": "Leo",
+   "year": 2023,
+   "kerala_gross": "₹47.4 Cr"
+  },
+  {
+   "movie_id": 1276,
+   "movie_slug": "sardar-2",
+   "title": "Sardar 2",
+   "year": 2026,
+   "kerala_gross": "₹42.6L"
+  }
+ ]
+}

@@ -1,0 +1,695 @@
+{
+ "id": 833,
+ "slug": "the-toxic-avenger",
+ "source_url": "https://fridaymatinee.in/boxoffice/the-toxic-avenger-833",
+ "captured_at": "2026-10-01T18:23:51.394960+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 833,
+    "title": "The Toxic Avenger",
+    "img": "https://image.tmdb.org/t/p/original/uEqiAF3jtlyXL4fd1NEgJUlGolZ.jpg",
+    "released": "2025-09-19",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt1633359",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "102 min",
+    "genre": "Action, Comedy, Science Fiction",
+    "plot": "When a downtrodden janitor, Winston Gooze, is exposed to a catastrophic toxic accident, he’s transformed into a new kind of hero: The Toxic Avenger. Now, Toxie must rise from outcast to savior, taking on ruthless corporate overlords and corrupt forces who threaten his son, his friends, and his community.",
+    "released": "2025-08-28",
+    "director": "Macon Blair",
+    "directorSlug": "macon-blair",
+    "actors": [
+     "Peter Dinklage",
+     "Jacob Tremblay",
+     "Taylour Paige",
+     "Julia Davis",
+     "Jonny Coyne",
+     "Elijah Wood"
+    ],
+    "awards": "1 win u0026 3 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 20248,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.9",
+      "votes": 443,
+      "updatedAt": "2026-09-24T16:10:23.000Z"
+     },
+     "rt": "87%",
+     "metascore": 65,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Peter Dinklage",
+     "character": "Winston / Toxie, the Hero",
+     "slug": "peter-dinklage",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+    },
+    {
+     "name": "Jacob Tremblay",
+     "character": "Wade, the Kid",
+     "slug": "jacob-tremblay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg"
+    },
+    {
+     "name": "Taylour Paige",
+     "character": "J.J. Doherty, the Wild Card",
+     "slug": "taylour-paige",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/KTX1trmIfVa7MFkZmES1MVjl79.jpg"
+    },
+    {
+     "name": "Julia Davis",
+     "character": "Kissy Sturnevan, his Associate",
+     "slug": "julia-davis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wsUNCSKoNQTgSdlr9FIeIR6hRAd.jpg"
+    },
+    {
+     "name": "Jonny Coyne",
+     "character": "Thad Barkabus, the Big Boss",
+     "slug": "jonny-coyne",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6PSW0qaoY3KSnWUUv6f54NOuPC0.jpg"
+    },
+    {
+     "name": "Elijah Wood",
+     "character": "Fritz Garbinger, his Creepy Brother",
+     "slug": "elijah-wood",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ayARmqAe9Aab1zg6FjJG0u9MEBo.jpg"
+    },
+    {
+     "name": "Kevin Bacon",
+     "character": "Bob Garbinger, the Villain",
+     "slug": "kevin-bacon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
+    },
+    {
+     "name": "David Yow",
+     "character": "Guthrie Stockins, the Wise Hobo",
+     "slug": "david-yow",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rbL8wH5G8gBd93RjOcfcFLC3e2l.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Macon Blair",
+       "slug": "macon-blair"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Macon Blair",
+       "slug": "macon-blair"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Brooke Blair",
+       "slug": "brooke-blair"
+      },
+      {
+       "name": "Will Blair",
+       "slug": "will-blair"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Dana Gonzales",
+       "slug": "dana-gonzales"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Brett W. Bachman",
+       "slug": "brett-w-bachman"
+      },
+      {
+       "name": "James Thomas",
+       "slug": "james-thomas"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Lloyd Kaufman",
+       "slug": "lloyd-kaufman"
+      },
+      {
+       "name": "Michael Herz",
+       "slug": "michael-herz"
+      },
+      {
+       "name": "Mary Parent",
+       "slug": "mary-parent"
+      },
+      {
+       "name": "Alex Garcia",
+       "slug": "alex-garcia"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Legendary Pictures",
+     "slug": "legendary-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png"
+    },
+    {
+     "name": "Troma Entertainment",
+     "slug": "troma-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kqP7DC8cUCzDSI5SXiJKJKmQg1K.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-30",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 7600,
+    "totalShows": 4,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 3900,
+     "date": "2025-09-19"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3900,
+     "date": "2025-09-19"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-19"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 833,
+    "title": "The Toxic Avenger",
+    "img": "https://image.tmdb.org/t/p/original/uEqiAF3jtlyXL4fd1NEgJUlGolZ.jpg",
+    "released": "2025-09-19",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt1633359",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "102 min",
+    "genre": "Action, Comedy, Science Fiction",
+    "plot": "When a downtrodden janitor, Winston Gooze, is exposed to a catastrophic toxic accident, he’s transformed into a new kind of hero: The Toxic Avenger. Now, Toxie must rise from outcast to savior, taking on ruthless corporate overlords and corrupt forces who threaten his son, his friends, and his community.",
+    "released": "2025-08-28",
+    "director": "Macon Blair",
+    "directorSlug": "macon-blair",
+    "actors": [
+     "Peter Dinklage",
+     "Jacob Tremblay",
+     "Taylour Paige",
+     "Julia Davis",
+     "Jonny Coyne",
+     "Elijah Wood"
+    ],
+    "awards": "1 win u0026 3 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 20248,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.9",
+      "votes": 443,
+      "updatedAt": "2026-09-24T16:10:23.000Z"
+     },
+     "rt": "87%",
+     "metascore": 65,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Peter Dinklage",
+     "character": "Winston / Toxie, the Hero",
+     "slug": "peter-dinklage",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+    },
+    {
+     "name": "Jacob Tremblay",
+     "character": "Wade, the Kid",
+     "slug": "jacob-tremblay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg"
+    },
+    {
+     "name": "Taylour Paige",
+     "character": "J.J. Doherty, the Wild Card",
+     "slug": "taylour-paige",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/KTX1trmIfVa7MFkZmES1MVjl79.jpg"
+    },
+    {
+     "name": "Julia Davis",
+     "character": "Kissy Sturnevan, his Associate",
+     "slug": "julia-davis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wsUNCSKoNQTgSdlr9FIeIR6hRAd.jpg"
+    },
+    {
+     "name": "Jonny Coyne",
+     "character": "Thad Barkabus, the Big Boss",
+     "slug": "jonny-coyne",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6PSW0qaoY3KSnWUUv6f54NOuPC0.jpg"
+    },
+    {
+     "name": "Elijah Wood",
+     "character": "Fritz Garbinger, his Creepy Brother",
+     "slug": "elijah-wood",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ayARmqAe9Aab1zg6FjJG0u9MEBo.jpg"
+    },
+    {
+     "name": "Kevin Bacon",
+     "character": "Bob Garbinger, the Villain",
+     "slug": "kevin-bacon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
+    },
+    {
+     "name": "David Yow",
+     "character": "Guthrie Stockins, the Wise Hobo",
+     "slug": "david-yow",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rbL8wH5G8gBd93RjOcfcFLC3e2l.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Macon Blair",
+       "slug": "macon-blair"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Macon Blair",
+       "slug": "macon-blair"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Brooke Blair",
+       "slug": "brooke-blair"
+      },
+      {
+       "name": "Will Blair",
+       "slug": "will-blair"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Dana Gonzales",
+       "slug": "dana-gonzales"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Brett W. Bachman",
+       "slug": "brett-w-bachman"
+      },
+      {
+       "name": "James Thomas",
+       "slug": "james-thomas"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Lloyd Kaufman",
+       "slug": "lloyd-kaufman"
+      },
+      {
+       "name": "Michael Herz",
+       "slug": "michael-herz"
+      },
+      {
+       "name": "Mary Parent",
+       "slug": "mary-parent"
+      },
+      {
+       "name": "Alex Garcia",
+       "slug": "alex-garcia"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Legendary Pictures",
+     "slug": "legendary-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png"
+    },
+    {
+     "name": "Troma Entertainment",
+     "slug": "troma-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kqP7DC8cUCzDSI5SXiJKJKmQg1K.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-30",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-09-19",
+     "gross": 7600,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 7600,
+    "totalShows": 4,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 7600
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 7600
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-19"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 833,
+    "title": "The Toxic Avenger",
+    "img": "https://image.tmdb.org/t/p/original/uEqiAF3jtlyXL4fd1NEgJUlGolZ.jpg",
+    "released": "2025-09-19",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt1633359",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "102 min",
+    "genre": "Action, Comedy, Science Fiction",
+    "plot": "When a downtrodden janitor, Winston Gooze, is exposed to a catastrophic toxic accident, he’s transformed into a new kind of hero: The Toxic Avenger. Now, Toxie must rise from outcast to savior, taking on ruthless corporate overlords and corrupt forces who threaten his son, his friends, and his community.",
+    "released": "2025-08-28",
+    "director": "Macon Blair",
+    "directorSlug": "macon-blair",
+    "actors": [
+     "Peter Dinklage",
+     "Jacob Tremblay",
+     "Taylour Paige",
+     "Julia Davis",
+     "Jonny Coyne",
+     "Elijah Wood"
+    ],
+    "awards": "1 win u0026 3 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "5.8",
+      "votes": 20248,
+      "updatedAt": "2026-09-27T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "5.9",
+      "votes": 443,
+      "updatedAt": "2026-09-24T16:10:23.000Z"
+     },
+     "rt": "87%",
+     "metascore": 65,
+     "updatedAt": "2026-09-27T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Peter Dinklage",
+     "character": "Winston / Toxie, the Hero",
+     "slug": "peter-dinklage",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+    },
+    {
+     "name": "Jacob Tremblay",
+     "character": "Wade, the Kid",
+     "slug": "jacob-tremblay",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg"
+    },
+    {
+     "name": "Taylour Paige",
+     "character": "J.J. Doherty, the Wild Card",
+     "slug": "taylour-paige",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/KTX1trmIfVa7MFkZmES1MVjl79.jpg"
+    },
+    {
+     "name": "Julia Davis",
+     "character": "Kissy Sturnevan, his Associate",
+     "slug": "julia-davis",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wsUNCSKoNQTgSdlr9FIeIR6hRAd.jpg"
+    },
+    {
+     "name": "Jonny Coyne",
+     "character": "Thad Barkabus, the Big Boss",
+     "slug": "jonny-coyne",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6PSW0qaoY3KSnWUUv6f54NOuPC0.jpg"
+    },
+    {
+     "name": "Elijah Wood",
+     "character": "Fritz Garbinger, his Creepy Brother",
+     "slug": "elijah-wood",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ayARmqAe9Aab1zg6FjJG0u9MEBo.jpg"
+    },
+    {
+     "name": "Kevin Bacon",
+     "character": "Bob Garbinger, the Villain",
+     "slug": "kevin-bacon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
+    },
+    {
+     "name": "David Yow",
+     "character": "Guthrie Stockins, the Wise Hobo",
+     "slug": "david-yow",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rbL8wH5G8gBd93RjOcfcFLC3e2l.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Macon Blair",
+       "slug": "macon-blair"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Macon Blair",
+       "slug": "macon-blair"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Brooke Blair",
+       "slug": "brooke-blair"
+      },
+      {
+       "name": "Will Blair",
+       "slug": "will-blair"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Dana Gonzales",
+       "slug": "dana-gonzales"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Brett W. Bachman",
+       "slug": "brett-w-bachman"
+      },
+      {
+       "name": "James Thomas",
+       "slug": "james-thomas"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Lloyd Kaufman",
+       "slug": "lloyd-kaufman"
+      },
+      {
+       "name": "Michael Herz",
+       "slug": "michael-herz"
+      },
+      {
+       "name": "Mary Parent",
+       "slug": "mary-parent"
+      },
+      {
+       "name": "Alex Garcia",
+       "slug": "alex-garcia"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Legendary Pictures",
+     "slug": "legendary-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png"
+    },
+    {
+     "name": "Troma Entertainment",
+     "slug": "troma-entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kqP7DC8cUCzDSI5SXiJKJKmQg1K.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-09-30",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 7600,
+    "totalShows": 4,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 5640,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5640,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-09-19"
+   }
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "slug": "dileep",
+ "name": "Dileep",
+ "source_url": "https://fridaymatinee.in/people/dileep",
+ "captured_at": "2026-10-01T22:01:09.433791+00:00",
+ "person": {
+  "name": "Dileep",
+  "photo": "https://image.tmdb.org/t/p/w185/5DirIZGTvLfBJOt2zOfBlb0bIsz.jpg",
+  "role": "Actor and producer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 7
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 2
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 33,
+   "movie_slug": "jack-daniel",
+   "title": "Jack Daniel ",
+   "year": 2019,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 406,
+   "movie_slug": "voice-of-sathyanathan",
+   "title": "Voice Of Sathyanathan",
+   "year": 2023,
+   "kerala_gross": "₹10.1 Cr"
+  },
+  {
+   "movie_id": 450,
+   "movie_slug": "bandra",
+   "title": "Bandra",
+   "year": 2023,
+   "kerala_gross": "₹2.9 Cr"
+  },
+  {
+   "movie_id": 504,
+   "movie_slug": "thankamani",
+   "title": "Thankamani",
+   "year": 2024,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 514,
+   "movie_slug": "pavi-caretaker",
+   "title": "Pavi Caretaker",
+   "year": 2024,
+   "kerala_gross": "₹6.3 Cr"
+  },
+  {
+   "movie_id": 681,
+   "movie_slug": "prince-and-family",
+   "title": "Prince And Family",
+   "year": 2025,
+   "kerala_gross": "₹14.8 Cr"
+  },
+  {
+   "movie_id": 883,
+   "movie_slug": "bha-bha-ba",
+   "title": "Bha. Bha. Ba.",
+   "year": 2025,
+   "kerala_gross": "₹22.3 Cr"
+  }
+ ]
+}

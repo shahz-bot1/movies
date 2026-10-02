@@ -1,0 +1,48 @@
+{
+ "slug": "aswathy-sreekanth",
+ "name": "Aswathy Sreekanth",
+ "source_url": "https://fridaymatinee.in/people/aswathy-sreekanth",
+ "captured_at": "2026-10-01T21:01:56.577445+00:00",
+ "person": {
+  "name": "Aswathy Sreekanth",
+  "photo": "https://image.tmdb.org/t/p/w185/k3p97oYCJ889M4RcXtJnUnuACxd.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 98,
+   "movie_slug": "kunjeldho",
+   "title": "Kunjeldho",
+   "year": 2021,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 427,
+   "movie_slug": "theeppori-benny",
+   "title": "Theeppori Benny",
+   "year": 2023,
+   "kerala_gross": "₹77.1L"
+  },
+  {
+   "movie_id": 521,
+   "movie_slug": "mandakini",
+   "title": "Mandakini",
+   "year": 2024,
+   "kerala_gross": "₹3.2 Cr"
+  },
+  {
+   "movie_id": 746,
+   "movie_slug": "flask",
+   "title": "Flask",
+   "year": 2025,
+   "kerala_gross": "₹23.2L"
+  }
+ ]
+}

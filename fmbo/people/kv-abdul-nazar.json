@@ -1,0 +1,48 @@
+{
+ "slug": "kv-abdul-nazar",
+ "name": "KV Abdul Nazar",
+ "source_url": "https://fridaymatinee.in/people/kv-abdul-nazar",
+ "captured_at": "2026-10-01T23:56:09.423417+00:00",
+ "person": {
+  "name": "KV Abdul Nazar",
+  "photo": null,
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 71,
+   "movie_slug": "varthamanam",
+   "title": "Varthamanam",
+   "year": 2021,
+   "kerala_gross": "₹4.2L"
+  },
+  {
+   "movie_id": 252,
+   "movie_slug": "oru-anweshanathinte-thudakkam",
+   "title": "Oru Anweshanathinte Thudakkam",
+   "year": 2024,
+   "kerala_gross": "₹30.8L"
+  },
+  {
+   "movie_id": 802,
+   "movie_slug": "the-case-diary",
+   "title": "The Case Diary",
+   "year": 2025,
+   "kerala_gross": "₹21.5L"
+  },
+  {
+   "movie_id": 866,
+   "movie_slug": "paathirathri",
+   "title": "Paathirathri",
+   "year": 2025,
+   "kerala_gross": "₹2.1 Cr"
+  }
+ ]
+}

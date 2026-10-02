@@ -1,0 +1,41 @@
+{
+ "slug": "sreenivasan",
+ "name": "Sreenivasan",
+ "source_url": "https://fridaymatinee.in/people/sreenivasan",
+ "captured_at": "2026-10-02T10:54:34.896293+00:00",
+ "person": {
+  "name": "Sreenivasan",
+  "photo": "https://image.tmdb.org/t/p/w185/nvZ0NcCjNVb6oVsdNB4fNuXCeTa.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 74,
+   "movie_slug": "mohan-kumar-fans",
+   "title": "Mohan Kumar Fans",
+   "year": 2021,
+   "kerala_gross": "₹54.1L"
+  },
+  {
+   "movie_id": 133,
+   "movie_slug": "makal",
+   "title": "Makal",
+   "year": 2022,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 657,
+   "movie_slug": "aapp-kaise-ho",
+   "title": "Aapp Kaise Ho",
+   "year": 2025,
+   "kerala_gross": "₹44.7L"
+  }
+ ]
+}

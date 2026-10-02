@@ -1,0 +1,98 @@
+{
+ "slug": "anoop-menon",
+ "name": "Anoop Menon",
+ "source_url": "https://fridaymatinee.in/people/anoop-menon",
+ "captured_at": "2026-10-01T20:43:23.758409+00:00",
+ "person": {
+  "name": "Anoop Menon",
+  "photo": "https://image.tmdb.org/t/p/w185/bQTaoXeuG0Mf3GbwATsfdNFwzKN.jpg",
+  "role": "Actor, director, producer and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 9
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  },
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 40,
+   "movie_slug": "kamala",
+   "title": "Kamala",
+   "year": 2019,
+   "kerala_gross": "₹17.0L"
+  },
+  {
+   "movie_id": 55,
+   "movie_slug": "big-brother",
+   "title": "Big Brother ",
+   "year": 2020,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 130,
+   "movie_slug": "cbi-5-the-brain",
+   "title": "CBI 5 The Brain",
+   "year": 2022,
+   "kerala_gross": "₹11.7 Cr"
+  },
+  {
+   "movie_id": 162,
+   "movie_slug": "padma",
+   "title": "Padma",
+   "year": 2022,
+   "kerala_gross": "₹8.8L"
+  },
+  {
+   "movie_id": 197,
+   "movie_slug": "pathombatham-noottandu",
+   "title": "Pathombatham Noottandu",
+   "year": 2022,
+   "kerala_gross": "₹7.7 Cr"
+  },
+  {
+   "movie_id": 463,
+   "movie_slug": "phoenix",
+   "title": "Phoenix",
+   "year": 2023,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 477,
+   "movie_slug": "abraham-ozler",
+   "title": "Abraham Ozler",
+   "year": 2024,
+   "kerala_gross": "₹17.2 Cr"
+  },
+  {
+   "movie_id": 517,
+   "movie_slug": "nadikar",
+   "title": "Nadikar",
+   "year": 2024,
+   "kerala_gross": "₹3.0 Cr"
+  },
+  {
+   "movie_id": 1006,
+   "movie_slug": "ee-thani-niram",
+   "title": "Ee Thani Niram",
+   "year": 2026,
+   "kerala_gross": "₹5.7L"
+  }
+ ]
+}

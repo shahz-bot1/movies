@@ -1,0 +1,69 @@
+{
+ "slug": "tanikella-bharani",
+ "name": "Tanikella Bharani",
+ "source_url": "https://fridaymatinee.in/people/tanikella-bharani",
+ "captured_at": "2026-10-02T11:15:17.370078+00:00",
+ "person": {
+  "name": "Tanikella Bharani",
+  "photo": "https://image.tmdb.org/t/p/w185/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 7
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 53,
+   "movie_slug": "sarileru-neekevvaru",
+   "title": "Sarileru Neekevvaru",
+   "year": 2020,
+   "kerala_gross": "₹7.9L"
+  },
+  {
+   "movie_id": 297,
+   "movie_slug": "vaathi",
+   "title": "Vaathi",
+   "year": 2023,
+   "kerala_gross": "₹50.3L"
+  },
+  {
+   "movie_id": 701,
+   "movie_slug": "thug-life",
+   "title": "Thug Life",
+   "year": 2025,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 892,
+   "movie_slug": "baahubali-the-epic",
+   "title": "Baahubali: The Epic",
+   "year": 2025,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 1061,
+   "movie_slug": "raakaasa",
+   "title": "Raakaasa",
+   "year": 2026,
+   "kerala_gross": "₹58K"
+  },
+  {
+   "movie_id": 1149,
+   "movie_slug": "happy-be-happy",
+   "title": "Happy Be Happy",
+   "year": 2026,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 1273,
+   "movie_slug": "the-paradise",
+   "title": "The Paradise",
+   "year": 2026,
+   "kerala_gross": "₹72.9L"
+  }
+ ]
+}

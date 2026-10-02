@@ -1,0 +1,648 @@
+{
+ "id": 86,
+ "slug": "annaatthe",
+ "source_url": "https://fridaymatinee.in/boxoffice/annaatthe-86",
+ "captured_at": "2026-10-01T18:00:29.660529+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 86,
+    "title": "Annaatthe",
+    "img": "https://image.tmdb.org/t/p/original/1T5BAF0RsrQfQik5WtXA30gJlk7.jpg",
+    "released": "2021-11-04",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11253090",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "163 min",
+    "genre": "Action, Family, Drama",
+    "plot": "Kaaliyan is a village president in the Madurai district, who is fondly called Annaatthe. His nieces compete with each other to marry him. But, he falls in love with another woman who visits their village. Kaaliyan has a sister who gets married and shifts to Kolkata where she faces some unknown threats. Soon, her brother comes to her aid.",
+    "released": "2021-11-04",
+    "director": "Siva",
+    "directorSlug": "siva",
+    "actors": [
+     "Rajinikanth",
+     "Keerthy Suresh",
+     "Jagapati Babu",
+     "Soori",
+     "Nayanthara",
+     "Meena"
+    ],
+    "awards": "6 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "4.0",
+      "votes": 11573,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Rajinikanth",
+     "character": "'Annaatthe' Kaalaiyaan",
+     "slug": "rajinikanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cQBcrXqcQPfXOQfNfgO3slJM2xi.jpg"
+    },
+    {
+     "name": "Keerthy Suresh",
+     "character": "Thanga Meenakshi",
+     "slug": "keerthy-suresh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fTdgSinsAitdujBBEUEA72GY0pv.jpg"
+    },
+    {
+     "name": "Jagapati Babu",
+     "character": "Udhav Palekar",
+     "slug": "jagapati-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg"
+    },
+    {
+     "name": "Soori",
+     "character": "Pachakili",
+     "slug": "soori",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iBpTFbCbkMO3zdw3WK4YaPqk3DA.jpg"
+    },
+    {
+     "name": "Nayanthara",
+     "character": "Pattamal",
+     "slug": "nayanthara",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5KubBeb2DkNXoU4lzzBdWzqzzlM.jpg"
+    },
+    {
+     "name": "Meena",
+     "character": "Mangayarkarasi",
+     "slug": "meena",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vMawuuT7VCeeJuBqpkm5siuWPij.jpg"
+    },
+    {
+     "name": "Khushboo",
+     "character": "Angayarkanni",
+     "slug": "khushboo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cu6ABz6a7iR1hLlCvBUzDSM2vag.jpg"
+    },
+    {
+     "name": "Bala",
+     "character": "Arjun",
+     "slug": "bala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l76ZJjEaTOix5twXeYy5k2xY9e7.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Siva",
+       "slug": "siva"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Adhi Narayana",
+       "slug": "adhi-narayana"
+      },
+      {
+       "name": "Siva",
+       "slug": "siva"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "D. Imman",
+       "slug": "d-imman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vettri",
+       "slug": "vettri"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Antony L. Ruben",
+       "slug": "antony-l-ruben"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kalanithi Maran",
+       "slug": "kalanithi-maran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sun Pictures",
+     "slug": "sun-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8KsxNPnM0y9Dk3fOcHqKUDw2XUs.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2021-11-04",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 11199951,
+    "totalShows": 2529,
+    "totalDays": 10,
+    "openingDay": {
+     "day": 1,
+     "gross": 5364740,
+     "date": "2021-11-04"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 5364740,
+     "date": "2021-11-04"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 30,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-11-04"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 86,
+    "title": "Annaatthe",
+    "img": "https://image.tmdb.org/t/p/original/1T5BAF0RsrQfQik5WtXA30gJlk7.jpg",
+    "released": "2021-11-04",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11253090",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "163 min",
+    "genre": "Action, Family, Drama",
+    "plot": "Kaaliyan is a village president in the Madurai district, who is fondly called Annaatthe. His nieces compete with each other to marry him. But, he falls in love with another woman who visits their village. Kaaliyan has a sister who gets married and shifts to Kolkata where she faces some unknown threats. Soon, her brother comes to her aid.",
+    "released": "2021-11-04",
+    "director": "Siva",
+    "directorSlug": "siva",
+    "actors": [
+     "Rajinikanth",
+     "Keerthy Suresh",
+     "Jagapati Babu",
+     "Soori",
+     "Nayanthara",
+     "Meena"
+    ],
+    "awards": "6 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "4.0",
+      "votes": 11573,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Rajinikanth",
+     "character": "'Annaatthe' Kaalaiyaan",
+     "slug": "rajinikanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cQBcrXqcQPfXOQfNfgO3slJM2xi.jpg"
+    },
+    {
+     "name": "Keerthy Suresh",
+     "character": "Thanga Meenakshi",
+     "slug": "keerthy-suresh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fTdgSinsAitdujBBEUEA72GY0pv.jpg"
+    },
+    {
+     "name": "Jagapati Babu",
+     "character": "Udhav Palekar",
+     "slug": "jagapati-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg"
+    },
+    {
+     "name": "Soori",
+     "character": "Pachakili",
+     "slug": "soori",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iBpTFbCbkMO3zdw3WK4YaPqk3DA.jpg"
+    },
+    {
+     "name": "Nayanthara",
+     "character": "Pattamal",
+     "slug": "nayanthara",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5KubBeb2DkNXoU4lzzBdWzqzzlM.jpg"
+    },
+    {
+     "name": "Meena",
+     "character": "Mangayarkarasi",
+     "slug": "meena",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vMawuuT7VCeeJuBqpkm5siuWPij.jpg"
+    },
+    {
+     "name": "Khushboo",
+     "character": "Angayarkanni",
+     "slug": "khushboo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cu6ABz6a7iR1hLlCvBUzDSM2vag.jpg"
+    },
+    {
+     "name": "Bala",
+     "character": "Arjun",
+     "slug": "bala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l76ZJjEaTOix5twXeYy5k2xY9e7.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Siva",
+       "slug": "siva"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Adhi Narayana",
+       "slug": "adhi-narayana"
+      },
+      {
+       "name": "Siva",
+       "slug": "siva"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "D. Imman",
+       "slug": "d-imman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vettri",
+       "slug": "vettri"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Antony L. Ruben",
+       "slug": "antony-l-ruben"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kalanithi Maran",
+       "slug": "kalanithi-maran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sun Pictures",
+     "slug": "sun-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8KsxNPnM0y9Dk3fOcHqKUDw2XUs.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2021-11-04",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2021-11-04",
+     "gross": 10368286,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2179,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2021-11-11",
+     "gross": 831665,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 350,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 11199951,
+    "totalShows": 2529,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 10368286
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 10368286
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 30,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-11-04"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 86,
+    "title": "Annaatthe",
+    "img": "https://image.tmdb.org/t/p/original/1T5BAF0RsrQfQik5WtXA30gJlk7.jpg",
+    "released": "2021-11-04",
+    "language": "Tamil",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11253090",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "163 min",
+    "genre": "Action, Family, Drama",
+    "plot": "Kaaliyan is a village president in the Madurai district, who is fondly called Annaatthe. His nieces compete with each other to marry him. But, he falls in love with another woman who visits their village. Kaaliyan has a sister who gets married and shifts to Kolkata where she faces some unknown threats. Soon, her brother comes to her aid.",
+    "released": "2021-11-04",
+    "director": "Siva",
+    "directorSlug": "siva",
+    "actors": [
+     "Rajinikanth",
+     "Keerthy Suresh",
+     "Jagapati Babu",
+     "Soori",
+     "Nayanthara",
+     "Meena"
+    ],
+    "awards": "6 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "4.0",
+      "votes": 11573,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Rajinikanth",
+     "character": "'Annaatthe' Kaalaiyaan",
+     "slug": "rajinikanth",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cQBcrXqcQPfXOQfNfgO3slJM2xi.jpg"
+    },
+    {
+     "name": "Keerthy Suresh",
+     "character": "Thanga Meenakshi",
+     "slug": "keerthy-suresh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fTdgSinsAitdujBBEUEA72GY0pv.jpg"
+    },
+    {
+     "name": "Jagapati Babu",
+     "character": "Udhav Palekar",
+     "slug": "jagapati-babu",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bm72k6FmDxhxtZsl1xvxoz88Hkm.jpg"
+    },
+    {
+     "name": "Soori",
+     "character": "Pachakili",
+     "slug": "soori",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iBpTFbCbkMO3zdw3WK4YaPqk3DA.jpg"
+    },
+    {
+     "name": "Nayanthara",
+     "character": "Pattamal",
+     "slug": "nayanthara",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5KubBeb2DkNXoU4lzzBdWzqzzlM.jpg"
+    },
+    {
+     "name": "Meena",
+     "character": "Mangayarkarasi",
+     "slug": "meena",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/vMawuuT7VCeeJuBqpkm5siuWPij.jpg"
+    },
+    {
+     "name": "Khushboo",
+     "character": "Angayarkanni",
+     "slug": "khushboo",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/cu6ABz6a7iR1hLlCvBUzDSM2vag.jpg"
+    },
+    {
+     "name": "Bala",
+     "character": "Arjun",
+     "slug": "bala",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/l76ZJjEaTOix5twXeYy5k2xY9e7.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Siva",
+       "slug": "siva"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Adhi Narayana",
+       "slug": "adhi-narayana"
+      },
+      {
+       "name": "Siva",
+       "slug": "siva"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "D. Imman",
+       "slug": "d-imman"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Vettri",
+       "slug": "vettri"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Antony L. Ruben",
+       "slug": "antony-l-ruben"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Kalanithi Maran",
+       "slug": "kalanithi-maran"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Sun Pictures",
+     "slug": "sun-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8KsxNPnM0y9Dk3fOcHqKUDw2XUs.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2021-11-04",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 309,
+      "name": "Sun Nxt",
+      "logoPath": "/1T9VcLknesOZZen9ZgLfcDdm5Ys.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 11199951,
+    "totalShows": 2529,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 3019830,
+     "date": "Thiruvananthapuram"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 3019830,
+     "date": "Thiruvananthapuram"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 30,
+     "last_week_position": 99
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2022-11-04"
+   }
+  }
+ }
+}

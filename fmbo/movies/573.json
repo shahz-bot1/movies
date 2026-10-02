@@ -1,0 +1,745 @@
+{
+ "id": 573,
+ "slug": "kadha-innuvare",
+ "source_url": "https://fridaymatinee.in/boxoffice/kadha-innuvare-573",
+ "captured_at": "2026-10-01T18:16:00.806951+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 573,
+    "title": "Kadha Innuvare",
+    "img": "https://image.tmdb.org/t/p/original/rva44wdp5NsJwL6QY9U6U2nNSfr.jpg",
+    "released": "2024-09-20",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28372186",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "129 min",
+    "genre": "Family, Drama, Romance",
+    "plot": "An anthology of four unusual stories where each couple fights to be with the ones they love against all odds.",
+    "released": "2024-09-20",
+    "director": "Vishnu Mohan",
+    "directorSlug": "vishnu-mohan",
+    "actors": [
+     "Biju Menon",
+     "Methil Devika",
+     "Anu Mohan",
+     "Nikhila Vimal",
+     "Hakkim Shajahan",
+     "Siddique"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 469,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:41.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Biju Menon",
+     "character": "Ramachandran",
+     "slug": "biju-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kSnzfoZphQGrnOBH7MfU3HMTKGJ.jpg"
+    },
+    {
+     "name": "Methil Devika",
+     "character": "Lekshmi",
+     "slug": "methil-devika",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Anu Mohan",
+     "character": "Joseph",
+     "slug": "anu-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h20NTIRjJjIzca6TNLQ9kb9p69G.jpg"
+    },
+    {
+     "name": "Nikhila Vimal",
+     "character": "Uma",
+     "slug": "nikhila-vimal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rhj9mUuZ5yiORTKbampS9LEMShi.jpg"
+    },
+    {
+     "name": "Hakkim Shajahan",
+     "character": null,
+     "slug": "hakkim-shajahan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/reEowrr3Gw4vKFfVUOhIT4EM4Es.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Narayanan, Uma's Father",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "Sivarajan",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5MGztWs1yxlptGDzeofC2jG7cAm.jpg"
+    },
+    {
+     "name": "Anusree Nair",
+     "character": "Nazeema",
+     "slug": "anusree-nair",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gI1mBmAa3IPVqn1CSej0IEiPIws.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vishnu Mohan",
+       "slug": "vishnu-mohan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vishnu Mohan",
+       "slug": "vishnu-mohan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ashwin Aryan",
+       "slug": "ashwin-aryan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jomon T. John",
+       "slug": "jomon-t-john"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jomon T. John",
+       "slug": "jomon-t-john"
+      },
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      },
+      {
+       "name": "Vishnu Mohan",
+       "slug": "vishnu-mohan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Plan J Studios",
+     "slug": "plan-j-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/nR6442rEtcl7AMdlwYhUIJ70hwj.png"
+    },
+    {
+     "name": "Imagin Cinemas",
+     "slug": "imagin-cinemas",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2760,
+      "name": "Ultraplaybox Amazon Channel",
+      "logoPath": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 9673637.2,
+    "totalShows": 2397,
+    "totalDays": 17,
+    "openingDay": {
+     "day": 1,
+     "gross": 2019416,
+     "date": "2024-09-20"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 2119869.5999999996,
+     "date": "2024-09-22"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-09-20"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 573,
+    "title": "Kadha Innuvare",
+    "img": "https://image.tmdb.org/t/p/original/rva44wdp5NsJwL6QY9U6U2nNSfr.jpg",
+    "released": "2024-09-20",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28372186",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "129 min",
+    "genre": "Family, Drama, Romance",
+    "plot": "An anthology of four unusual stories where each couple fights to be with the ones they love against all odds.",
+    "released": "2024-09-20",
+    "director": "Vishnu Mohan",
+    "directorSlug": "vishnu-mohan",
+    "actors": [
+     "Biju Menon",
+     "Methil Devika",
+     "Anu Mohan",
+     "Nikhila Vimal",
+     "Hakkim Shajahan",
+     "Siddique"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 469,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:41.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Biju Menon",
+     "character": "Ramachandran",
+     "slug": "biju-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kSnzfoZphQGrnOBH7MfU3HMTKGJ.jpg"
+    },
+    {
+     "name": "Methil Devika",
+     "character": "Lekshmi",
+     "slug": "methil-devika",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Anu Mohan",
+     "character": "Joseph",
+     "slug": "anu-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h20NTIRjJjIzca6TNLQ9kb9p69G.jpg"
+    },
+    {
+     "name": "Nikhila Vimal",
+     "character": "Uma",
+     "slug": "nikhila-vimal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rhj9mUuZ5yiORTKbampS9LEMShi.jpg"
+    },
+    {
+     "name": "Hakkim Shajahan",
+     "character": null,
+     "slug": "hakkim-shajahan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/reEowrr3Gw4vKFfVUOhIT4EM4Es.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Narayanan, Uma's Father",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "Sivarajan",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5MGztWs1yxlptGDzeofC2jG7cAm.jpg"
+    },
+    {
+     "name": "Anusree Nair",
+     "character": "Nazeema",
+     "slug": "anusree-nair",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gI1mBmAa3IPVqn1CSej0IEiPIws.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vishnu Mohan",
+       "slug": "vishnu-mohan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vishnu Mohan",
+       "slug": "vishnu-mohan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ashwin Aryan",
+       "slug": "ashwin-aryan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jomon T. John",
+       "slug": "jomon-t-john"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jomon T. John",
+       "slug": "jomon-t-john"
+      },
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      },
+      {
+       "name": "Vishnu Mohan",
+       "slug": "vishnu-mohan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Plan J Studios",
+     "slug": "plan-j-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/nR6442rEtcl7AMdlwYhUIJ70hwj.png"
+    },
+    {
+     "name": "Imagin Cinemas",
+     "slug": "imagin-cinemas",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2760,
+      "name": "Ultraplaybox Amazon Channel",
+      "logoPath": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-09-20",
+     "gross": 8809042.2,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 2310,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-09-27",
+     "gross": 731405,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 75,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-10-04",
+     "gross": 133190,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 12,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 9673637.2,
+    "totalShows": 2397,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 8809042.2
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 8809042.2
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-09-20"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 573,
+    "title": "Kadha Innuvare",
+    "img": "https://image.tmdb.org/t/p/original/rva44wdp5NsJwL6QY9U6U2nNSfr.jpg",
+    "released": "2024-09-20",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28372186",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "129 min",
+    "genre": "Family, Drama, Romance",
+    "plot": "An anthology of four unusual stories where each couple fights to be with the ones they love against all odds.",
+    "released": "2024-09-20",
+    "director": "Vishnu Mohan",
+    "directorSlug": "vishnu-mohan",
+    "actors": [
+     "Biju Menon",
+     "Methil Devika",
+     "Anu Mohan",
+     "Nikhila Vimal",
+     "Hakkim Shajahan",
+     "Siddique"
+    ],
+    "awards": "1 nomination total",
+    "ratings": {
+     "imdb": {
+      "value": "5.7",
+      "votes": 469,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:41.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Biju Menon",
+     "character": "Ramachandran",
+     "slug": "biju-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kSnzfoZphQGrnOBH7MfU3HMTKGJ.jpg"
+    },
+    {
+     "name": "Methil Devika",
+     "character": "Lekshmi",
+     "slug": "methil-devika",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Anu Mohan",
+     "character": "Joseph",
+     "slug": "anu-mohan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h20NTIRjJjIzca6TNLQ9kb9p69G.jpg"
+    },
+    {
+     "name": "Nikhila Vimal",
+     "character": "Uma",
+     "slug": "nikhila-vimal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/rhj9mUuZ5yiORTKbampS9LEMShi.jpg"
+    },
+    {
+     "name": "Hakkim Shajahan",
+     "character": null,
+     "slug": "hakkim-shajahan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/reEowrr3Gw4vKFfVUOhIT4EM4Es.jpg"
+    },
+    {
+     "name": "Siddique",
+     "character": "Narayanan, Uma's Father",
+     "slug": "siddique",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/tMv7QsmYlXAXtP75D3eIxXHpgTv.jpg"
+    },
+    {
+     "name": "Renji Panicker",
+     "character": "Sivarajan",
+     "slug": "renji-panicker",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5MGztWs1yxlptGDzeofC2jG7cAm.jpg"
+    },
+    {
+     "name": "Anusree Nair",
+     "character": "Nazeema",
+     "slug": "anusree-nair",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/gI1mBmAa3IPVqn1CSej0IEiPIws.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vishnu Mohan",
+       "slug": "vishnu-mohan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vishnu Mohan",
+       "slug": "vishnu-mohan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Ashwin Aryan",
+       "slug": "ashwin-aryan"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Jomon T. John",
+       "slug": "jomon-t-john"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Jomon T. John",
+       "slug": "jomon-t-john"
+      },
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      },
+      {
+       "name": "Vishnu Mohan",
+       "slug": "vishnu-mohan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Plan J Studios",
+     "slug": "plan-j-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/nR6442rEtcl7AMdlwYhUIJ70hwj.png"
+    },
+    {
+     "name": "Imagin Cinemas",
+     "slug": "imagin-cinemas",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2177,
+      "name": "ManoramaMAX Amazon Channel",
+      "logoPath": "/x6trBIuWWDrMAiOb1UwXSZx9E5t.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2760,
+      "name": "Ultraplaybox Amazon Channel",
+      "logoPath": "/dxmkK4ObaJzcVD4xhML0FiXGxYN.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 9673637.2,
+    "totalShows": 2397,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 2938475,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2938475,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-09-20"
+   }
+  }
+ }
+}

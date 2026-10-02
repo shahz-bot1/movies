@@ -1,0 +1,41 @@
+{
+ "slug": "hashir",
+ "name": "Hashir",
+ "source_url": "https://fridaymatinee.in/people/hashir",
+ "captured_at": "2026-10-01T22:44:32.601575+00:00",
+ "person": {
+  "name": "Hashir",
+  "photo": "https://image.tmdb.org/t/p/w185/h5YDOCvdgmaq8lWkNOU6YXzWWoo.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 549,
+   "movie_slug": "vaazha",
+   "title": "Vaazha",
+   "year": 2024,
+   "kerala_gross": "₹24.4 Cr"
+  },
+  {
+   "movie_id": 1048,
+   "movie_slug": "vaazha-ii",
+   "title": "Vaazha II",
+   "year": 2026,
+   "kerala_gross": "₹119.7 Cr"
+  },
+  {
+   "movie_id": 1105,
+   "movie_slug": "athiradi",
+   "title": "Athiradi",
+   "year": 2026,
+   "kerala_gross": "₹32.6 Cr"
+  }
+ ]
+}

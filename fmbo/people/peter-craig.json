@@ -1,0 +1,41 @@
+{
+ "slug": "peter-craig",
+ "name": "Peter Craig",
+ "source_url": "https://fridaymatinee.in/people/peter-craig",
+ "captured_at": "2026-10-02T06:18:33.175477+00:00",
+ "person": {
+  "name": "Peter Craig",
+  "photo": "https://image.tmdb.org/t/p/w185/5r0nnz5JJ8bIiUfcK2TaasmJm3h.jpg",
+  "role": "Writer"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 112,
+   "movie_slug": "batman",
+   "title": "Batman",
+   "year": 2022,
+   "kerala_gross": "₹1.6 Cr"
+  },
+  {
+   "movie_id": 141,
+   "movie_slug": "top-gun-maverick",
+   "title": "Top Gun Maverick",
+   "year": 2022,
+   "kerala_gross": "₹93.9L"
+  },
+  {
+   "movie_id": 568,
+   "movie_slug": "gladiator-ii",
+   "title": "Gladiator II",
+   "year": 2024,
+   "kerala_gross": "₹32.0L"
+  }
+ ]
+}

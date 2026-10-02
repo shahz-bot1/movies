@@ -1,0 +1,62 @@
+{
+ "slug": "abhirami",
+ "name": "Abhirami",
+ "source_url": "https://fridaymatinee.in/people/abhirami",
+ "captured_at": "2026-10-01T20:06:56.733152+00:00",
+ "person": {
+  "name": "Abhirami",
+  "photo": "https://image.tmdb.org/t/p/w185/fLeOMTryyBPFrz5Wdxv3zBtx3V9.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 6
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 433,
+   "movie_slug": "garudan",
+   "title": "Garudan",
+   "year": 2023,
+   "kerala_gross": "₹12.3 Cr"
+  },
+  {
+   "movie_id": 524,
+   "movie_slug": "maharaja",
+   "title": "Maharaja",
+   "year": 2024,
+   "kerala_gross": "₹5.7 Cr"
+  },
+  {
+   "movie_id": 582,
+   "movie_slug": "vettaiyan",
+   "title": "Vettaiyan",
+   "year": 2024,
+   "kerala_gross": "₹13.1 Cr"
+  },
+  {
+   "movie_id": 701,
+   "movie_slug": "thug-life",
+   "title": "Thug Life",
+   "year": 2025,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 1122,
+   "movie_slug": "blast",
+   "title": "Blast",
+   "year": 2026,
+   "kerala_gross": "₹13.0 Cr"
+  },
+  {
+   "movie_id": 1256,
+   "movie_slug": "l-o-law-and-order",
+   "title": "Lu0026O - Law and Order",
+   "year": 2026,
+   "kerala_gross": "₹70.9L"
+  }
+ ]
+}

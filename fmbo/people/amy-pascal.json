@@ -1,0 +1,48 @@
+{
+ "slug": "amy-pascal",
+ "name": "Amy Pascal",
+ "source_url": "https://fridaymatinee.in/people/amy-pascal",
+ "captured_at": "2026-10-01T20:32:07.765673+00:00",
+ "person": {
+  "name": "Amy Pascal",
+  "photo": "https://image.tmdb.org/t/p/w185/cZ526e4oPN1i44Q0BxYW8nOtrzR.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 96,
+   "movie_slug": "spider-man-no-way-home",
+   "title": "Spider Man No Way Home",
+   "year": 2021,
+   "kerala_gross": "₹11.5 Cr"
+  },
+  {
+   "movie_id": 572,
+   "movie_slug": "venom-the-last-dance",
+   "title": "Venom: The Last Dance",
+   "year": 2024,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 990,
+   "movie_slug": "project-hail-mary",
+   "title": "Project Hail Mary",
+   "year": 2026,
+   "kerala_gross": "₹5.1 Cr"
+  },
+  {
+   "movie_id": 675,
+   "movie_slug": "spider-man-brand-new-day",
+   "title": "Spider-Man: Brand New Day",
+   "year": 2026,
+   "kerala_gross": "₹35.7 Cr"
+  }
+ ]
+}

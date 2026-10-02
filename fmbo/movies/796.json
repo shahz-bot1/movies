@@ -1,0 +1,563 @@
+{
+ "id": 796,
+ "slug": "paradha",
+ "source_url": "https://fridaymatinee.in/boxoffice/paradha-796",
+ "captured_at": "2026-10-01T18:22:44.000864+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 796,
+    "title": "Paradha",
+    "img": "https://image.tmdb.org/t/p/original/wOOxDIhZCUmWkEPxBajQwmKVm8l.jpg",
+    "released": "2025-08-22",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28019966",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "142 min",
+    "genre": "Drama",
+    "plot": "A veiled village woman's life changes when city visitors challenge her traditions. As she questions customs and investigates a curse, rumors of Sati emerge, leading her to confront societal norms.",
+    "released": "2025-08-22",
+    "director": "Praveen Kandregula",
+    "directorSlug": "praveen-kandregula",
+    "actors": [
+     "Anupama Parameswaran",
+     "Darshana Rajendran",
+     "Sangeetha Krish",
+     "Rag Mayur",
+     "Rajendra Prasad",
+     "Harsha Vardhan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 612,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:35.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Anupama Parameswaran",
+     "character": "Subbalakshmi \"Subbu\"",
+     "slug": "anupama-parameswaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iA8NAbwIKTbA8fKTNtXsAiBcC4W.jpg"
+    },
+    {
+     "name": "Darshana Rajendran",
+     "character": "Amishta \"Ami\"",
+     "slug": "darshana-rajendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qhsKLCi4J0Zq22R6HPXffrVT7Lg.jpg"
+    },
+    {
+     "name": "Sangeetha Krish",
+     "character": "Rathnamma",
+     "slug": "sangeetha-krish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s0jx36aN50nO2eFOlsqJzS9RoAl.jpg"
+    },
+    {
+     "name": "Rag Mayur",
+     "character": "Rajesh",
+     "slug": "rag-mayur",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qzXA7j2XQnWfnkakJoCKPbn0PWI.jpg"
+    },
+    {
+     "name": "Rajendra Prasad",
+     "character": "Krishna",
+     "slug": "rajendra-prasad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg"
+    },
+    {
+     "name": "Harsha Vardhan",
+     "character": "Madhav",
+     "slug": "harsha-vardhan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/A6mdUVQBu565oz20DzlxjGUWIZr.jpg"
+    },
+    {
+     "name": "Gautham Vasudev Menon",
+     "character": "The Photographer",
+     "slug": "gautham-vasudev-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+     "name": "Gnaneswari Kandregula",
+     "character": "Officer",
+     "slug": "gnaneswari-kandregula",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u72AFHzwqtRLPKh2gjXyMgviQqf.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Praveen Kandregula",
+       "slug": "praveen-kandregula"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Poojitha Sreekanti",
+       "slug": "poojitha-sreekanti"
+      },
+      {
+       "name": "Prahaas Boppudi",
+       "slug": "prahaas-boppudi"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mridul Sujit Sen",
+       "slug": "mridul-sujit-sen"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Dharmendra Kakarala",
+       "slug": "dharmendra-kakarala"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vijay Donkada",
+       "slug": "vijay-donkada"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": "2025-09-11",
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 506097.6000000001,
+    "totalShows": 312,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 8718,
+     "date": "2025-08-22"
+    },
+    "peakDay": {
+     "day": 6,
+     "gross": 350939,
+     "date": "2025-08-27"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-22"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 796,
+    "title": "Paradha",
+    "img": "https://image.tmdb.org/t/p/original/wOOxDIhZCUmWkEPxBajQwmKVm8l.jpg",
+    "released": "2025-08-22",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28019966",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "142 min",
+    "genre": "Drama",
+    "plot": "A veiled village woman's life changes when city visitors challenge her traditions. As she questions customs and investigates a curse, rumors of Sati emerge, leading her to confront societal norms.",
+    "released": "2025-08-22",
+    "director": "Praveen Kandregula",
+    "directorSlug": "praveen-kandregula",
+    "actors": [
+     "Anupama Parameswaran",
+     "Darshana Rajendran",
+     "Sangeetha Krish",
+     "Rag Mayur",
+     "Rajendra Prasad",
+     "Harsha Vardhan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 612,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:35.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Anupama Parameswaran",
+     "character": "Subbalakshmi \"Subbu\"",
+     "slug": "anupama-parameswaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iA8NAbwIKTbA8fKTNtXsAiBcC4W.jpg"
+    },
+    {
+     "name": "Darshana Rajendran",
+     "character": "Amishta \"Ami\"",
+     "slug": "darshana-rajendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qhsKLCi4J0Zq22R6HPXffrVT7Lg.jpg"
+    },
+    {
+     "name": "Sangeetha Krish",
+     "character": "Rathnamma",
+     "slug": "sangeetha-krish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s0jx36aN50nO2eFOlsqJzS9RoAl.jpg"
+    },
+    {
+     "name": "Rag Mayur",
+     "character": "Rajesh",
+     "slug": "rag-mayur",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qzXA7j2XQnWfnkakJoCKPbn0PWI.jpg"
+    },
+    {
+     "name": "Rajendra Prasad",
+     "character": "Krishna",
+     "slug": "rajendra-prasad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg"
+    },
+    {
+     "name": "Harsha Vardhan",
+     "character": "Madhav",
+     "slug": "harsha-vardhan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/A6mdUVQBu565oz20DzlxjGUWIZr.jpg"
+    },
+    {
+     "name": "Gautham Vasudev Menon",
+     "character": "The Photographer",
+     "slug": "gautham-vasudev-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+     "name": "Gnaneswari Kandregula",
+     "character": "Officer",
+     "slug": "gnaneswari-kandregula",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u72AFHzwqtRLPKh2gjXyMgviQqf.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Praveen Kandregula",
+       "slug": "praveen-kandregula"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Poojitha Sreekanti",
+       "slug": "poojitha-sreekanti"
+      },
+      {
+       "name": "Prahaas Boppudi",
+       "slug": "prahaas-boppudi"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mridul Sujit Sen",
+       "slug": "mridul-sujit-sen"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Dharmendra Kakarala",
+       "slug": "dharmendra-kakarala"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vijay Donkada",
+       "slug": "vijay-donkada"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": "2025-09-11",
+    "platforms": []
+   },
+   "boxoffice": [
+    {
+     "label": "2025-08-22",
+     "gross": 506097.6000000001,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 312,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 506097.6000000001,
+    "totalShows": 312,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 506097.6000000001
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 506097.6000000001
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-22"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 796,
+    "title": "Paradha",
+    "img": "https://image.tmdb.org/t/p/original/wOOxDIhZCUmWkEPxBajQwmKVm8l.jpg",
+    "released": "2025-08-22",
+    "language": "telugu",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt28019966",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "142 min",
+    "genre": "Drama",
+    "plot": "A veiled village woman's life changes when city visitors challenge her traditions. As she questions customs and investigates a curse, rumors of Sati emerge, leading her to confront societal norms.",
+    "released": "2025-08-22",
+    "director": "Praveen Kandregula",
+    "directorSlug": "praveen-kandregula",
+    "actors": [
+     "Anupama Parameswaran",
+     "Darshana Rajendran",
+     "Sangeetha Krish",
+     "Rag Mayur",
+     "Rajendra Prasad",
+     "Harsha Vardhan"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.0",
+      "votes": 612,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T16:10:35.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Anupama Parameswaran",
+     "character": "Subbalakshmi \"Subbu\"",
+     "slug": "anupama-parameswaran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iA8NAbwIKTbA8fKTNtXsAiBcC4W.jpg"
+    },
+    {
+     "name": "Darshana Rajendran",
+     "character": "Amishta \"Ami\"",
+     "slug": "darshana-rajendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qhsKLCi4J0Zq22R6HPXffrVT7Lg.jpg"
+    },
+    {
+     "name": "Sangeetha Krish",
+     "character": "Rathnamma",
+     "slug": "sangeetha-krish",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/s0jx36aN50nO2eFOlsqJzS9RoAl.jpg"
+    },
+    {
+     "name": "Rag Mayur",
+     "character": "Rajesh",
+     "slug": "rag-mayur",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qzXA7j2XQnWfnkakJoCKPbn0PWI.jpg"
+    },
+    {
+     "name": "Rajendra Prasad",
+     "character": "Krishna",
+     "slug": "rajendra-prasad",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zh6QJ85g5KbpkjL5fgqlOGddn5C.jpg"
+    },
+    {
+     "name": "Harsha Vardhan",
+     "character": "Madhav",
+     "slug": "harsha-vardhan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/A6mdUVQBu565oz20DzlxjGUWIZr.jpg"
+    },
+    {
+     "name": "Gautham Vasudev Menon",
+     "character": "The Photographer",
+     "slug": "gautham-vasudev-menon",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+     "name": "Gnaneswari Kandregula",
+     "character": "Officer",
+     "slug": "gnaneswari-kandregula",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/u72AFHzwqtRLPKh2gjXyMgviQqf.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Praveen Kandregula",
+       "slug": "praveen-kandregula"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Poojitha Sreekanti",
+       "slug": "poojitha-sreekanti"
+      },
+      {
+       "name": "Prahaas Boppudi",
+       "slug": "prahaas-boppudi"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Gopi Sundar",
+       "slug": "gopi-sundar"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Mridul Sujit Sen",
+       "slug": "mridul-sujit-sen"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Dharmendra Kakarala",
+       "slug": "dharmendra-kakarala"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Vijay Donkada",
+       "slug": "vijay-donkada"
+      }
+     ]
+    }
+   ],
+   "companies": [],
+   "ott": {
+    "releaseDate": "2025-09-11",
+    "platforms": []
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 506097.6000000001,
+    "totalShows": 312,
+    "totalDays": 12,
+    "openingDay": {
+     "day": 1,
+     "gross": 286500,
+     "date": "Kollam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 286500,
+     "date": "Kollam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2026-08-22"
+   }
+  }
+ }
+}

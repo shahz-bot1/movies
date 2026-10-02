@@ -1,0 +1,41 @@
+{
+ "slug": "veena-nair",
+ "name": "Veena Nair",
+ "source_url": "https://fridaymatinee.in/people/veena-nair",
+ "captured_at": "2026-10-02T11:39:31.974809+00:00",
+ "person": {
+  "name": "Veena Nair",
+  "photo": "https://image.tmdb.org/t/p/w185/pQo0USQVAr7jAZ7RJh4p3XmezRM.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 16,
+   "movie_slug": "aadya-rathri",
+   "title": "Aadya Rathri",
+   "year": 2019,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 295,
+   "movie_slug": "christy",
+   "title": "Christy",
+   "year": 2023,
+   "kerala_gross": "₹51.6L"
+  },
+  {
+   "movie_id": 565,
+   "movie_slug": "dominic-and-the-ladies-purse",
+   "title": "Dominic And The Ladies Purse",
+   "year": 2025,
+   "kerala_gross": "₹7.7 Cr"
+  }
+ ]
+}

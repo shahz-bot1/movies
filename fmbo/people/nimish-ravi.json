@@ -1,0 +1,76 @@
+{
+ "slug": "nimish-ravi",
+ "name": "Nimish Ravi",
+ "source_url": "https://fridaymatinee.in/people/nimish-ravi",
+ "captured_at": "2026-10-02T01:01:56.955764+00:00",
+ "person": {
+  "name": "Nimish Ravi",
+  "photo": "https://image.tmdb.org/t/p/w185/3prTwkLnNym21TUYBjgs1RtlOmr.jpg",
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 8
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 88,
+   "movie_slug": "kurup",
+   "title": "Kurup",
+   "year": 2021,
+   "kerala_gross": "₹18.0 Cr"
+  },
+  {
+   "movie_id": 220,
+   "movie_slug": "rorschach",
+   "title": "Rorschach",
+   "year": 2022,
+   "kerala_gross": "₹14.3 Cr"
+  },
+  {
+   "movie_id": 404,
+   "movie_slug": "king-of-kotha",
+   "title": "King of Kotha",
+   "year": 2023,
+   "kerala_gross": "₹12.1 Cr"
+  },
+  {
+   "movie_id": 537,
+   "movie_slug": "lucky-baskhar",
+   "title": "Lucky Baskhar",
+   "year": 2024,
+   "kerala_gross": "₹17.4 Cr"
+  },
+  {
+   "movie_id": 634,
+   "movie_slug": "bazooka",
+   "title": "Bazooka",
+   "year": 2025,
+   "kerala_gross": "₹11.9 Cr"
+  },
+  {
+   "movie_id": 761,
+   "movie_slug": "lokah-chapter-one-chandra",
+   "title": "Lokah: Chapter One - Chandra",
+   "year": 2025,
+   "kerala_gross": "₹111.4 Cr"
+  },
+  {
+   "movie_id": 1225,
+   "movie_slug": "vishwanath-and-sons",
+   "title": "Vishwanath and Sons",
+   "year": 2026,
+   "kerala_gross": "₹7.2 Cr"
+  },
+  {
+   "movie_id": 1000,
+   "movie_slug": "lokah-chapter-2-michael",
+   "title": "Lokah Chapter 2: Michael",
+   "year": 2027,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

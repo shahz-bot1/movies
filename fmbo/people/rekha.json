@@ -1,0 +1,55 @@
+{
+ "slug": "rekha",
+ "name": "Rekha",
+ "source_url": "https://fridaymatinee.in/people/rekha",
+ "captured_at": "2026-10-02T08:47:02.479618+00:00",
+ "person": {
+  "name": "Rekha",
+  "photo": "https://image.tmdb.org/t/p/w185/tKwnIkSKK1QDCbkOVzEv8o0cZ2j.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 98,
+   "movie_slug": "kunjeldho",
+   "title": "Kunjeldho",
+   "year": 2021,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 147,
+   "movie_slug": "dear-friend",
+   "title": "Dear Friend",
+   "year": 2022,
+   "kerala_gross": "₹34.2L"
+  },
+  {
+   "movie_id": 518,
+   "movie_slug": "guruvayoorambala-nadayil",
+   "title": "Guruvayoorambala Nadayil",
+   "year": 2024,
+   "kerala_gross": "₹39.9 Cr"
+  },
+  {
+   "movie_id": 194,
+   "movie_slug": "randaam-yaamam",
+   "title": "Randaam Yaamam",
+   "year": 2025,
+   "kerala_gross": "₹4.0L"
+  },
+  {
+   "movie_id": 802,
+   "movie_slug": "the-case-diary",
+   "title": "The Case Diary",
+   "year": 2025,
+   "kerala_gross": "₹21.5L"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "slug": "pooja-hegde",
+ "name": "Pooja Hegde",
+ "source_url": "https://fridaymatinee.in/people/pooja-hegde",
+ "captured_at": "2026-10-02T06:21:50.560466+00:00",
+ "person": {
+  "name": "Pooja Hegde",
+  "photo": "https://image.tmdb.org/t/p/w185/9wdyzZz0Fu81pnKNDBVOcxkPBIp.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 7
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 20,
+   "movie_slug": "housefull-4",
+   "title": "Housefull 4",
+   "year": 2019,
+   "kerala_gross": "₹23.7L"
+  },
+  {
+   "movie_id": 54,
+   "movie_slug": "angu-vaikuntapurathu",
+   "title": "Angu Vaikuntapurathu",
+   "year": 2020,
+   "kerala_gross": "₹36.2L"
+  },
+  {
+   "movie_id": 123,
+   "movie_slug": "beast",
+   "title": "Beast",
+   "year": 2022,
+   "kerala_gross": "₹6.7 Cr"
+  },
+  {
+   "movie_id": 353,
+   "movie_slug": "kisi-ka-bhai-kisi-ki-jaan",
+   "title": "Kisi Ka Bhai Kisi Ki Jaan",
+   "year": 2023,
+   "kerala_gross": "₹30.6L"
+  },
+  {
+   "movie_id": 391,
+   "movie_slug": "deva",
+   "title": "Deva",
+   "year": 2025,
+   "kerala_gross": "₹11.6L"
+  },
+  {
+   "movie_id": 678,
+   "movie_slug": "retro",
+   "title": "Retro",
+   "year": 2025,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 956,
+   "movie_slug": "jana-nayagan",
+   "title": "Jana Nayagan",
+   "year": 2026,
+   "kerala_gross": "₹15.5 Cr"
+  }
+ ]
+}

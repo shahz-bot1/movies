@@ -1,0 +1,48 @@
+{
+ "slug": "josh-friedman",
+ "name": "Josh Friedman",
+ "source_url": "https://fridaymatinee.in/people/josh-friedman",
+ "captured_at": "2026-10-01T23:28:01.430203+00:00",
+ "person": {
+  "name": "Josh Friedman",
+  "photo": "https://image.tmdb.org/t/p/w185/uThNFxSfRXGIGwsFU3SEutSqVwL.jpg",
+  "role": "Writer"
+ },
+ "tabs": [
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 24,
+   "movie_slug": "terminator-dark-fate",
+   "title": "Terminator Dark Fate",
+   "year": 2019,
+   "kerala_gross": "₹22.9L"
+  },
+  {
+   "movie_id": 246,
+   "movie_slug": "avatar-the-way-of-water",
+   "title": "Avatar The Way of Water",
+   "year": 2022,
+   "kerala_gross": "₹33.3 Cr"
+  },
+  {
+   "movie_id": 734,
+   "movie_slug": "the-fantastic-four-first-steps",
+   "title": "The Fantastic Four: First Steps",
+   "year": 2025,
+   "kerala_gross": "₹1.5 Cr"
+  },
+  {
+   "movie_id": 793,
+   "movie_slug": "avatar-fire-and-ash",
+   "title": "Avatar: Fire and Ash",
+   "year": 2025,
+   "kerala_gross": "₹10.2 Cr"
+  }
+ ]
+}

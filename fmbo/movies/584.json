@@ -1,0 +1,739 @@
+{
+ "id": 584,
+ "slug": "pani",
+ "source_url": "https://fridaymatinee.in/boxoffice/pani-584",
+ "captured_at": "2026-10-01T18:16:15.418815+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 584,
+    "title": "Pani",
+    "img": "https://image.tmdb.org/t/p/original/aZxht6TGhlb3hn9HldvRvGNN4rD.jpg",
+    "released": "2024-10-24",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29461220",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "141 min",
+    "genre": "Action, Crime",
+    "plot": "When the peaceful married life of a couple is unexpectedly disrupted by two youngsters with criminal inclination, the trials and tribulations connect the mobster lives of Thrissur by becoming a part of vengeance.",
+    "released": "2024-10-24",
+    "director": "Joju George",
+    "directorSlug": "joju-george",
+    "actors": [
+     "Joju George",
+     "Abhinaya",
+     "Chandini Sreedharan",
+     "Abhaya Hiranmayi",
+     "Sona Maria Abraham",
+     "Seema"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.9",
+      "votes": 4133,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:38.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Joju George",
+     "character": "Giri",
+     "slug": "joju-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jCObRH5idadzrTvyC9XnlnR8rXH.jpg"
+    },
+    {
+     "name": "Abhinaya",
+     "character": "Gowry",
+     "slug": "abhinaya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jZSoiKuWYNWXJgPtTDro009rGiN.jpg"
+    },
+    {
+     "name": "Chandini Sreedharan",
+     "character": "Kalyani Prakash",
+     "slug": "chandini-sreedharan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iLB5E22YVpLFzqKp8lpzlI2OiOC.jpg"
+    },
+    {
+     "name": "Abhaya Hiranmayi",
+     "character": "Jaya",
+     "slug": "abhaya-hiranmayi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5D6yKknLtRPCs29V5lX0qb4ACfK.jpg"
+    },
+    {
+     "name": "Sona Maria Abraham",
+     "character": "Karthika Kuruvila",
+     "slug": "sona-maria-abraham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/33QF2bAnX1ntSjfz1KWEPDKihED.jpg"
+    },
+    {
+     "name": "Seema",
+     "character": "Mangalath Devaki Amma",
+     "slug": "seema",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5VeEKZkIn7C7l7TwUMCYOSaPsym.jpg"
+    },
+    {
+     "name": "Merlet Ann Thomas",
+     "character": "Sneha",
+     "slug": "merlet-ann-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8R2GwxCxQimIB4j0G7NCY3s9SZK.jpg"
+    },
+    {
+     "name": "Babu Namboothiri",
+     "character": null,
+     "slug": "babu-namboothiri",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3THH9M9qq9X09I5myQwIHZzKPJI.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Joju George",
+       "slug": "joju-george"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Joju George",
+       "slug": "joju-george"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      },
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Venu",
+       "slug": "venu"
+      },
+      {
+       "name": "Jinto George",
+       "slug": "jinto-george"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Manu Antony",
+       "slug": "manu-antony"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "M. Riaz Adam",
+       "slug": "m-riaz-adam"
+      },
+      {
+       "name": "Sijo Vadakkan",
+       "slug": "sijo-vadakkan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Appu Pathu Pappu Production House",
+     "slug": "appu-pathu-pappu-production-house",
+     "logo": null
+    },
+    {
+     "name": "ADS Studios",
+     "slug": "ads-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-01-14",
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 167249472.19999996,
+    "totalShows": 16015,
+    "totalDays": 36,
+    "openingDay": {
+     "day": 1,
+     "gross": 7232301,
+     "date": "2024-10-24"
+    },
+    "peakDay": {
+     "day": 4,
+     "gross": 22993762.599999994,
+     "date": "2024-10-27"
+    },
+    "chartPosition": {
+     "current_position": 63,
+     "weeks_on_chart": 0,
+     "peak_position": 34,
+     "last_week_position": 63
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-10-24"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 584,
+    "title": "Pani",
+    "img": "https://image.tmdb.org/t/p/original/aZxht6TGhlb3hn9HldvRvGNN4rD.jpg",
+    "released": "2024-10-24",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29461220",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "141 min",
+    "genre": "Action, Crime",
+    "plot": "When the peaceful married life of a couple is unexpectedly disrupted by two youngsters with criminal inclination, the trials and tribulations connect the mobster lives of Thrissur by becoming a part of vengeance.",
+    "released": "2024-10-24",
+    "director": "Joju George",
+    "directorSlug": "joju-george",
+    "actors": [
+     "Joju George",
+     "Abhinaya",
+     "Chandini Sreedharan",
+     "Abhaya Hiranmayi",
+     "Sona Maria Abraham",
+     "Seema"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.9",
+      "votes": 4133,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:38.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Joju George",
+     "character": "Giri",
+     "slug": "joju-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jCObRH5idadzrTvyC9XnlnR8rXH.jpg"
+    },
+    {
+     "name": "Abhinaya",
+     "character": "Gowry",
+     "slug": "abhinaya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jZSoiKuWYNWXJgPtTDro009rGiN.jpg"
+    },
+    {
+     "name": "Chandini Sreedharan",
+     "character": "Kalyani Prakash",
+     "slug": "chandini-sreedharan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iLB5E22YVpLFzqKp8lpzlI2OiOC.jpg"
+    },
+    {
+     "name": "Abhaya Hiranmayi",
+     "character": "Jaya",
+     "slug": "abhaya-hiranmayi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5D6yKknLtRPCs29V5lX0qb4ACfK.jpg"
+    },
+    {
+     "name": "Sona Maria Abraham",
+     "character": "Karthika Kuruvila",
+     "slug": "sona-maria-abraham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/33QF2bAnX1ntSjfz1KWEPDKihED.jpg"
+    },
+    {
+     "name": "Seema",
+     "character": "Mangalath Devaki Amma",
+     "slug": "seema",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5VeEKZkIn7C7l7TwUMCYOSaPsym.jpg"
+    },
+    {
+     "name": "Merlet Ann Thomas",
+     "character": "Sneha",
+     "slug": "merlet-ann-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8R2GwxCxQimIB4j0G7NCY3s9SZK.jpg"
+    },
+    {
+     "name": "Babu Namboothiri",
+     "character": null,
+     "slug": "babu-namboothiri",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3THH9M9qq9X09I5myQwIHZzKPJI.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Joju George",
+       "slug": "joju-george"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Joju George",
+       "slug": "joju-george"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      },
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Venu",
+       "slug": "venu"
+      },
+      {
+       "name": "Jinto George",
+       "slug": "jinto-george"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Manu Antony",
+       "slug": "manu-antony"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "M. Riaz Adam",
+       "slug": "m-riaz-adam"
+      },
+      {
+       "name": "Sijo Vadakkan",
+       "slug": "sijo-vadakkan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Appu Pathu Pappu Production House",
+     "slug": "appu-pathu-pappu-production-house",
+     "logo": null
+    },
+    {
+     "name": "ADS Studios",
+     "slug": "ads-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-01-14",
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2024-10-24",
+     "gross": 88013695,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 6122,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-10-31",
+     "gross": 57389997.19999999,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 5503,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-11-07",
+     "gross": 16307651.2,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3079,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-11-14",
+     "gross": 4810996.600000001,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1096,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-11-21",
+     "gross": 701774.2,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 205,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2024-11-28",
+     "gross": 25358,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 10,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 167249472.19999996,
+    "totalShows": 16015,
+    "totalDays": 6,
+    "openingDay": {
+     "day": 1,
+     "gross": 88013695
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 88013695
+    },
+    "chartPosition": {
+     "current_position": 63,
+     "weeks_on_chart": 0,
+     "peak_position": 34,
+     "last_week_position": 63
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-10-24"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 584,
+    "title": "Pani",
+    "img": "https://image.tmdb.org/t/p/original/aZxht6TGhlb3hn9HldvRvGNN4rD.jpg",
+    "released": "2024-10-24",
+    "language": "malayalam",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt29461220",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "141 min",
+    "genre": "Action, Crime",
+    "plot": "When the peaceful married life of a couple is unexpectedly disrupted by two youngsters with criminal inclination, the trials and tribulations connect the mobster lives of Thrissur by becoming a part of vengeance.",
+    "released": "2024-10-24",
+    "director": "Joju George",
+    "directorSlug": "joju-george",
+    "actors": [
+     "Joju George",
+     "Abhinaya",
+     "Chandini Sreedharan",
+     "Abhaya Hiranmayi",
+     "Sona Maria Abraham",
+     "Seema"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "6.9",
+      "votes": 4133,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-24T19:10:38.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Joju George",
+     "character": "Giri",
+     "slug": "joju-george",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jCObRH5idadzrTvyC9XnlnR8rXH.jpg"
+    },
+    {
+     "name": "Abhinaya",
+     "character": "Gowry",
+     "slug": "abhinaya",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/jZSoiKuWYNWXJgPtTDro009rGiN.jpg"
+    },
+    {
+     "name": "Chandini Sreedharan",
+     "character": "Kalyani Prakash",
+     "slug": "chandini-sreedharan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/iLB5E22YVpLFzqKp8lpzlI2OiOC.jpg"
+    },
+    {
+     "name": "Abhaya Hiranmayi",
+     "character": "Jaya",
+     "slug": "abhaya-hiranmayi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5D6yKknLtRPCs29V5lX0qb4ACfK.jpg"
+    },
+    {
+     "name": "Sona Maria Abraham",
+     "character": "Karthika Kuruvila",
+     "slug": "sona-maria-abraham",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/33QF2bAnX1ntSjfz1KWEPDKihED.jpg"
+    },
+    {
+     "name": "Seema",
+     "character": "Mangalath Devaki Amma",
+     "slug": "seema",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/5VeEKZkIn7C7l7TwUMCYOSaPsym.jpg"
+    },
+    {
+     "name": "Merlet Ann Thomas",
+     "character": "Sneha",
+     "slug": "merlet-ann-thomas",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8R2GwxCxQimIB4j0G7NCY3s9SZK.jpg"
+    },
+    {
+     "name": "Babu Namboothiri",
+     "character": null,
+     "slug": "babu-namboothiri",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3THH9M9qq9X09I5myQwIHZzKPJI.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Joju George",
+       "slug": "joju-george"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Joju George",
+       "slug": "joju-george"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Vishnu Vijay",
+       "slug": "vishnu-vijay"
+      },
+      {
+       "name": "Sam C S",
+       "slug": "sam-c-s"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Venu",
+       "slug": "venu"
+      },
+      {
+       "name": "Jinto George",
+       "slug": "jinto-george"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Manu Antony",
+       "slug": "manu-antony"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "M. Riaz Adam",
+       "slug": "m-riaz-adam"
+      },
+      {
+       "name": "Sijo Vadakkan",
+       "slug": "sijo-vadakkan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Appu Pathu Pappu Production House",
+     "slug": "appu-pathu-pappu-production-house",
+     "logo": null
+    },
+    {
+     "name": "ADS Studios",
+     "slug": "ads-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-01-14",
+    "platforms": [
+     {
+      "id": 237,
+      "name": "Sony Liv",
+      "logoPath": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 614,
+      "name": "VI movies and tv",
+      "logoPath": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 167249472.2,
+    "totalShows": 16015,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 40831206,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 40831206,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 63,
+     "weeks_on_chart": 0,
+     "peak_position": 34,
+     "last_week_position": 63
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2025-10-24"
+   }
+  }
+ }
+}

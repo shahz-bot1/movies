@@ -1,0 +1,41 @@
+{
+ "slug": "meera-nair",
+ "name": "Meera Nair",
+ "source_url": "https://fridaymatinee.in/people/meera-nair",
+ "captured_at": "2026-10-02T00:32:20.621473+00:00",
+ "person": {
+  "name": "Meera Nair",
+  "photo": "https://image.tmdb.org/t/p/w185/3lZ0hkTykKYTqfRpWPo1eWP3kGy.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 57,
+   "movie_slug": "anveshanam",
+   "title": "Anveshanam",
+   "year": 2020,
+   "kerala_gross": "₹52.9L"
+  },
+  {
+   "movie_id": 133,
+   "movie_slug": "makal",
+   "title": "Makal",
+   "year": 2022,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 151,
+   "movie_slug": "heaven",
+   "title": "Heaven",
+   "year": 2022,
+   "kerala_gross": "₹41.3L"
+  }
+ ]
+}

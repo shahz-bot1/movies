@@ -1,0 +1,41 @@
+{
+ "slug": "sreepath",
+ "name": "Sreepath Yan",
+ "source_url": "https://fridaymatinee.in/people/sreepath",
+ "captured_at": "2026-10-02T10:54:38.849734+00:00",
+ "person": {
+  "name": "Sreepath Yan",
+  "photo": "https://image.tmdb.org/t/p/w185/hv04Z8lvIpT2wkuffOep0wgKPN8.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 269,
+   "movie_slug": "malikappuram",
+   "title": "Malikappuram",
+   "year": 2022,
+   "kerala_gross": "₹28.1 Cr"
+  },
+  {
+   "movie_id": 1096,
+   "movie_slug": "revolver-rinko",
+   "title": "Revolver Rinko",
+   "year": 2026,
+   "kerala_gross": "₹25.9L"
+  },
+  {
+   "movie_id": 1257,
+   "movie_slug": "ottam-thullal",
+   "title": "Ottam Thullal",
+   "year": 2026,
+   "kerala_gross": "₹17.5L"
+  }
+ ]
+}

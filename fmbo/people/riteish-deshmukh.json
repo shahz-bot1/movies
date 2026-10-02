@@ -1,0 +1,58 @@
+{
+ "slug": "riteish-deshmukh",
+ "name": "Riteish Deshmukh",
+ "source_url": "https://fridaymatinee.in/people/riteish-deshmukh",
+ "captured_at": "2026-10-02T09:43:38.931067+00:00",
+ "person": {
+  "name": "Riteish Deshmukh",
+  "photo": "https://image.tmdb.org/t/p/w185/b4Mwk9dDgMS82269iBX7V1YsOpu.jpg",
+  "role": "Actor, director and writer"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  },
+  {
+   "key": "director",
+   "label": "Director",
+   "count": 1
+  },
+  {
+   "key": "writer",
+   "label": "Writer",
+   "count": 1
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 20,
+   "movie_slug": "housefull-4",
+   "title": "Housefull 4",
+   "year": 2019,
+   "kerala_gross": "₹23.7L"
+  },
+  {
+   "movie_id": 920,
+   "movie_slug": "mastiii-4",
+   "title": "Mastiii 4",
+   "year": 2025,
+   "kerala_gross": "₹4.4L"
+  },
+  {
+   "movie_id": 1099,
+   "movie_slug": "raja-shivaji",
+   "title": "Raja Shivaji",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 1190,
+   "movie_slug": "dhamaal-4",
+   "title": "Dhamaal 4",
+   "year": 2026,
+   "kerala_gross": "₹13.9L"
+  }
+ ]
+}

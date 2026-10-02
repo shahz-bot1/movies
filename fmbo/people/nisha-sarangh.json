@@ -1,0 +1,55 @@
+{
+ "slug": "nisha-sarangh",
+ "name": "Nisha Sarangh",
+ "source_url": "https://fridaymatinee.in/people/nisha-sarangh",
+ "captured_at": "2026-10-02T01:03:39.399494+00:00",
+ "person": {
+  "name": "Nisha Sarangh",
+  "photo": "https://image.tmdb.org/t/p/w185/qBNSgQtJbRm2DyiQYP6BkaWE6Qr.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 102,
+   "movie_slug": "meppadiyan",
+   "title": "Meppadiyan",
+   "year": 2022,
+   "kerala_gross": "₹1.7 Cr"
+  },
+  {
+   "movie_id": 150,
+   "movie_slug": "prakashan-parakkatte",
+   "title": "Prakashan Parakkatte",
+   "year": 2022,
+   "kerala_gross": "₹1.8 Cr"
+  },
+  {
+   "movie_id": 266,
+   "movie_slug": "aanandam-paramanandam",
+   "title": "Aanandam Paramanandam",
+   "year": 2022,
+   "kerala_gross": "₹48.6L"
+  },
+  {
+   "movie_id": 427,
+   "movie_slug": "theeppori-benny",
+   "title": "Theeppori Benny",
+   "year": 2023,
+   "kerala_gross": "₹77.1L"
+  },
+  {
+   "movie_id": 969,
+   "movie_slug": "baby-girl",
+   "title": "Baby Girl",
+   "year": 2026,
+   "kerala_gross": "₹3.3 Cr"
+  }
+ ]
+}

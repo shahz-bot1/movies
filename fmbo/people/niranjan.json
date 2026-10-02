@@ -1,0 +1,41 @@
+{
+ "slug": "niranjan",
+ "name": "Niranjan",
+ "source_url": "https://fridaymatinee.in/people/niranjan",
+ "captured_at": "2026-10-02T01:02:53.109048+00:00",
+ "person": {
+  "name": "Niranjan",
+  "photo": "https://image.tmdb.org/t/p/w185/3q6TyDabmImPWGWURU70hJwxMWh.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 243,
+   "movie_slug": "vivaha-aavahanam",
+   "title": "Vivaha Aavahanam",
+   "year": 2022,
+   "kerala_gross": "₹12.4L"
+  },
+  {
+   "movie_id": 296,
+   "movie_slug": "dear-vaappi",
+   "title": "Dear Vaappi",
+   "year": 2023,
+   "kerala_gross": "₹17.9L"
+  },
+  {
+   "movie_id": 1020,
+   "movie_slug": "masthishka-maranam",
+   "title": "Masthishka Maranam",
+   "year": 2026,
+   "kerala_gross": "₹2.3 Cr"
+  }
+ ]
+}

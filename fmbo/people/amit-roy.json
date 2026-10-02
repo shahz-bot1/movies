@@ -1,0 +1,41 @@
+{
+ "slug": "amit-roy",
+ "name": "Amit Roy",
+ "source_url": "https://fridaymatinee.in/people/amit-roy",
+ "captured_at": "2026-10-01T20:30:31.598014+00:00",
+ "person": {
+  "name": "Amit Roy",
+  "photo": null,
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 468,
+   "movie_slug": "animal",
+   "title": "Animal",
+   "year": 2023,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 479,
+   "movie_slug": "dunki",
+   "title": "Dunki",
+   "year": 2023,
+   "kerala_gross": "₹2.2 Cr"
+  },
+  {
+   "movie_id": 391,
+   "movie_slug": "deva",
+   "title": "Deva",
+   "year": 2025,
+   "kerala_gross": "₹11.6L"
+  }
+ ]
+}

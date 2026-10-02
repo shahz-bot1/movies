@@ -1,0 +1,669 @@
+{
+ "id": 105,
+ "slug": "kallan-dsouza",
+ "source_url": "https://fridaymatinee.in/boxoffice/kallan-dsouza-105",
+ "captured_at": "2026-10-01T18:01:11.988000+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 105,
+    "title": "Kallan Dsouza",
+    "img": "https://image.tmdb.org/t/p/original/oft2uo1PrS2LVzYLyxcx3kERVR6.jpg",
+    "released": "2022-02-11",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt14389844",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "120 min",
+    "genre": "Comedy",
+    "plot": "Kallan D'Souza and his partner make a living committing petty thefts and are highly successful at it. However, a stubborn police officer threatens their operation.",
+    "released": "2022-02-11",
+    "director": "Jithu K Jayan",
+    "directorSlug": "jithu-k-jayan",
+    "actors": [
+     "Soubin Shahir",
+     "Dileesh Pothan",
+     "Surabhi Lakshmi",
+     "Hareesh Perumanna",
+     "Vijayaraghavan",
+     "Sreejith Ravi"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.6",
+      "votes": 252,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:33.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Soubin Shahir",
+     "character": "D'Souza",
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Dileesh Pothan",
+     "character": "CI Manoj",
+     "slug": "dileesh-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg"
+    },
+    {
+     "name": "Surabhi Lakshmi",
+     "character": "Aasha",
+     "slug": "surabhi-lakshmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wiUgB299IuWJ0FFJLo1IPMJ1BAD.jpg"
+    },
+    {
+     "name": "Hareesh Perumanna",
+     "character": null,
+     "slug": "hareesh-perumanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6yMsL4628NL86MmrGQlMHQ3OSbX.jpg"
+    },
+    {
+     "name": "Vijayaraghavan",
+     "character": null,
+     "slug": "vijayaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3AE7r02YPbSrEUIfP7gUN7lLNfI.jpg"
+    },
+    {
+     "name": "Sreejith Ravi",
+     "character": null,
+     "slug": "sreejith-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h1fKS7qVWJ3mhmDs0Z8RHx24iQI.jpg"
+    },
+    {
+     "name": "Santhosh Keezhattoor",
+     "character": null,
+     "slug": "santhosh-keezhattoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fl39fT0fSTeLCaJAsbybXgHMVUw.jpg"
+    },
+    {
+     "name": "Rony David Raj",
+     "character": null,
+     "slug": "rony-david-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xVF53sOhi28IDqPlir2EXfrF9AI.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jithu K Jayan",
+       "slug": "jithu-k-jayan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sajeer Baba",
+       "slug": "sajeer-baba"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Kailas Menon",
+       "slug": "kailas-menon"
+      },
+      {
+       "name": "Leo Tom",
+       "slug": "leo-tom"
+      },
+      {
+       "name": "Prashanth Karma",
+       "slug": "prashanth-karma"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Arun Chalil",
+       "slug": "arun-chalil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rizaal Jainy",
+       "slug": "rizaal-jainy"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sandra Thomas",
+       "slug": "sandra-thomas"
+      },
+      {
+       "name": "Ramshi Ahmed",
+       "slug": "ramshi-ahmed"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ruby Films",
+     "slug": "ruby-films",
+     "logo": null
+    },
+    {
+     "name": "Ramshi Ahamed Productions",
+     "slug": "ramshi-ahamed-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2758653,
+    "totalShows": 1867,
+    "totalDays": 10,
+    "openingDay": {
+     "day": 1,
+     "gross": 769126,
+     "date": "2022-02-11"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 769126,
+     "date": "2022-02-11"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 63,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-02-11"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 105,
+    "title": "Kallan Dsouza",
+    "img": "https://image.tmdb.org/t/p/original/oft2uo1PrS2LVzYLyxcx3kERVR6.jpg",
+    "released": "2022-02-11",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt14389844",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "120 min",
+    "genre": "Comedy",
+    "plot": "Kallan D'Souza and his partner make a living committing petty thefts and are highly successful at it. However, a stubborn police officer threatens their operation.",
+    "released": "2022-02-11",
+    "director": "Jithu K Jayan",
+    "directorSlug": "jithu-k-jayan",
+    "actors": [
+     "Soubin Shahir",
+     "Dileesh Pothan",
+     "Surabhi Lakshmi",
+     "Hareesh Perumanna",
+     "Vijayaraghavan",
+     "Sreejith Ravi"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.6",
+      "votes": 252,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:33.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Soubin Shahir",
+     "character": "D'Souza",
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Dileesh Pothan",
+     "character": "CI Manoj",
+     "slug": "dileesh-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg"
+    },
+    {
+     "name": "Surabhi Lakshmi",
+     "character": "Aasha",
+     "slug": "surabhi-lakshmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wiUgB299IuWJ0FFJLo1IPMJ1BAD.jpg"
+    },
+    {
+     "name": "Hareesh Perumanna",
+     "character": null,
+     "slug": "hareesh-perumanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6yMsL4628NL86MmrGQlMHQ3OSbX.jpg"
+    },
+    {
+     "name": "Vijayaraghavan",
+     "character": null,
+     "slug": "vijayaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3AE7r02YPbSrEUIfP7gUN7lLNfI.jpg"
+    },
+    {
+     "name": "Sreejith Ravi",
+     "character": null,
+     "slug": "sreejith-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h1fKS7qVWJ3mhmDs0Z8RHx24iQI.jpg"
+    },
+    {
+     "name": "Santhosh Keezhattoor",
+     "character": null,
+     "slug": "santhosh-keezhattoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fl39fT0fSTeLCaJAsbybXgHMVUw.jpg"
+    },
+    {
+     "name": "Rony David Raj",
+     "character": null,
+     "slug": "rony-david-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xVF53sOhi28IDqPlir2EXfrF9AI.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jithu K Jayan",
+       "slug": "jithu-k-jayan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sajeer Baba",
+       "slug": "sajeer-baba"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Kailas Menon",
+       "slug": "kailas-menon"
+      },
+      {
+       "name": "Leo Tom",
+       "slug": "leo-tom"
+      },
+      {
+       "name": "Prashanth Karma",
+       "slug": "prashanth-karma"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Arun Chalil",
+       "slug": "arun-chalil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rizaal Jainy",
+       "slug": "rizaal-jainy"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sandra Thomas",
+       "slug": "sandra-thomas"
+      },
+      {
+       "name": "Ramshi Ahmed",
+       "slug": "ramshi-ahmed"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ruby Films",
+     "slug": "ruby-films",
+     "logo": null
+    },
+    {
+     "name": "Ramshi Ahamed Productions",
+     "slug": "ramshi-ahamed-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-02-11",
+     "gross": 2758653,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1855,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-02-18",
+     "gross": 0,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 12,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2758653,
+    "totalShows": 1867,
+    "totalDays": 2,
+    "openingDay": {
+     "day": 1,
+     "gross": 2758653
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2758653
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 63,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-02-11"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 105,
+    "title": "Kallan Dsouza",
+    "img": "https://image.tmdb.org/t/p/original/oft2uo1PrS2LVzYLyxcx3kERVR6.jpg",
+    "released": "2022-02-11",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt14389844",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "120 min",
+    "genre": "Comedy",
+    "plot": "Kallan D'Souza and his partner make a living committing petty thefts and are highly successful at it. However, a stubborn police officer threatens their operation.",
+    "released": "2022-02-11",
+    "director": "Jithu K Jayan",
+    "directorSlug": "jithu-k-jayan",
+    "actors": [
+     "Soubin Shahir",
+     "Dileesh Pothan",
+     "Surabhi Lakshmi",
+     "Hareesh Perumanna",
+     "Vijayaraghavan",
+     "Sreejith Ravi"
+    ],
+    "awards": null,
+    "ratings": {
+     "imdb": {
+      "value": "4.6",
+      "votes": 252,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:33.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Soubin Shahir",
+     "character": "D'Souza",
+     "slug": "soubin-shahir",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/eFMA1PFOpDtiJ5MlkSAMexvTPsl.jpg"
+    },
+    {
+     "name": "Dileesh Pothan",
+     "character": "CI Manoj",
+     "slug": "dileesh-pothan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mXCnvBbRynOYOE3aqGostSvCZ0N.jpg"
+    },
+    {
+     "name": "Surabhi Lakshmi",
+     "character": "Aasha",
+     "slug": "surabhi-lakshmi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/wiUgB299IuWJ0FFJLo1IPMJ1BAD.jpg"
+    },
+    {
+     "name": "Hareesh Perumanna",
+     "character": null,
+     "slug": "hareesh-perumanna",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/6yMsL4628NL86MmrGQlMHQ3OSbX.jpg"
+    },
+    {
+     "name": "Vijayaraghavan",
+     "character": null,
+     "slug": "vijayaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3AE7r02YPbSrEUIfP7gUN7lLNfI.jpg"
+    },
+    {
+     "name": "Sreejith Ravi",
+     "character": null,
+     "slug": "sreejith-ravi",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/h1fKS7qVWJ3mhmDs0Z8RHx24iQI.jpg"
+    },
+    {
+     "name": "Santhosh Keezhattoor",
+     "character": null,
+     "slug": "santhosh-keezhattoor",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fl39fT0fSTeLCaJAsbybXgHMVUw.jpg"
+    },
+    {
+     "name": "Rony David Raj",
+     "character": null,
+     "slug": "rony-david-raj",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/xVF53sOhi28IDqPlir2EXfrF9AI.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Jithu K Jayan",
+       "slug": "jithu-k-jayan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Sajeer Baba",
+       "slug": "sajeer-baba"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Kailas Menon",
+       "slug": "kailas-menon"
+      },
+      {
+       "name": "Leo Tom",
+       "slug": "leo-tom"
+      },
+      {
+       "name": "Prashanth Karma",
+       "slug": "prashanth-karma"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Arun Chalil",
+       "slug": "arun-chalil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Rizaal Jainy",
+       "slug": "rizaal-jainy"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Sandra Thomas",
+       "slug": "sandra-thomas"
+      },
+      {
+       "name": "Ramshi Ahmed",
+       "slug": "ramshi-ahmed"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Ruby Films",
+     "slug": "ruby-films",
+     "logo": null
+    },
+    {
+     "name": "Ramshi Ahamed Productions",
+     "slug": "ramshi-ahamed-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 482,
+      "name": "ManoramaMax",
+      "logoPath": "/cBaQWaCbICFJTF42ItSGRhCo1aO.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2758653,
+    "totalShows": 1867,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 803194,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 803194,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 63,
+     "last_week_position": 98
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-02-11"
+   }
+  }
+ }
+}

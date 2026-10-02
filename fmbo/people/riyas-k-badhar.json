@@ -1,0 +1,41 @@
+{
+ "slug": "riyas-k-badhar",
+ "name": "Riyas K. Badhar",
+ "source_url": "https://fridaymatinee.in/people/riyas-k-badhar",
+ "captured_at": "2026-10-02T09:44:08.345231+00:00",
+ "person": {
+  "name": "Riyas K. Badhar",
+  "photo": null,
+  "role": "Editor"
+ },
+ "tabs": [
+  {
+   "key": "editor",
+   "label": "Editor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 56,
+   "movie_slug": "shylock",
+   "title": "Shylock",
+   "year": 2020,
+   "kerala_gross": "₹7.1 Cr"
+  },
+  {
+   "movie_id": 303,
+   "movie_slug": "pakalum-paathiravum",
+   "title": "Pakalum Paathiravum",
+   "year": 2023,
+   "kerala_gross": "₹60.1L"
+  },
+  {
+   "movie_id": 880,
+   "movie_slug": "innocent",
+   "title": "Innocent",
+   "year": 2025,
+   "kerala_gross": "₹1.0 Cr"
+  }
+ ]
+}

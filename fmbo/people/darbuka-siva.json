@@ -1,0 +1,41 @@
+{
+ "slug": "darbuka-siva",
+ "name": "Darbuka Siva",
+ "source_url": "https://fridaymatinee.in/people/darbuka-siva",
+ "captured_at": "2026-10-01T21:47:54.964748+00:00",
+ "person": {
+  "name": "Darbuka Siva",
+  "photo": "https://image.tmdb.org/t/p/w185/4Aipk0gtEGOlKJzJwMRhxduEPCM.jpg",
+  "role": "Music"
+ },
+ "tabs": [
+  {
+   "key": "music",
+   "label": "Music",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 42,
+   "movie_slug": "enai-noki-paayum-thota",
+   "title": "Enai Noki Paayum Thota",
+   "year": 2019,
+   "kerala_gross": "₹11.3L"
+  },
+  {
+   "movie_id": 565,
+   "movie_slug": "dominic-and-the-ladies-purse",
+   "title": "Dominic And The Ladies Purse",
+   "year": 2025,
+   "kerala_gross": "₹7.7 Cr"
+  },
+  {
+   "movie_id": 1072,
+   "movie_slug": "tn-2026",
+   "title": "TN 2026",
+   "year": 2026,
+   "kerala_gross": "₹25K"
+  }
+ ]
+}

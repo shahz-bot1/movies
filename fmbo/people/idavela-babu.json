@@ -1,0 +1,55 @@
+{
+ "slug": "idavela-babu",
+ "name": "Idavela Babu",
+ "source_url": "https://fridaymatinee.in/people/idavela-babu",
+ "captured_at": "2026-10-01T22:50:43.965830+00:00",
+ "person": {
+  "name": "Idavela Babu",
+  "photo": "https://image.tmdb.org/t/p/w185/aVzMDHCh5qCRPXKxCeala7XBDJ8.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 66,
+   "movie_slug": "vellam",
+   "title": "vellam",
+   "year": 2021,
+   "kerala_gross": "₹52.5L"
+  },
+  {
+   "movie_id": 226,
+   "movie_slug": "monster",
+   "title": "Monster",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 306,
+   "movie_slug": "maheshum-marutiyum",
+   "title": "Maheshum Marutiyum",
+   "year": 2023,
+   "kerala_gross": "₹55.7L"
+  },
+  {
+   "movie_id": 307,
+   "movie_slug": "khalipurse-of-billionaires",
+   "title": "Khalipurse Of Billionaires",
+   "year": 2023,
+   "kerala_gross": "₹9.9L"
+  },
+  {
+   "movie_id": 657,
+   "movie_slug": "aapp-kaise-ho",
+   "title": "Aapp Kaise Ho",
+   "year": 2025,
+   "kerala_gross": "₹44.7L"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "shiva-rajkumar",
+ "name": "Shiva Rajkumar",
+ "source_url": "https://fridaymatinee.in/people/shiva-rajkumar",
+ "captured_at": "2026-10-02T10:34:01.757161+00:00",
+ "person": {
+  "name": "Shiva Rajkumar",
+  "photo": "https://image.tmdb.org/t/p/w185/aOQ6tjRLjMReW8Pig9PjJaudl5b.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 308,
+   "movie_slug": "kabzaa",
+   "title": "Kabzaa",
+   "year": 2023,
+   "kerala_gross": "₹40.7L"
+  },
+  {
+   "movie_id": 414,
+   "movie_slug": "jailer",
+   "title": "Jailer",
+   "year": 2023,
+   "kerala_gross": "₹42.4 Cr"
+  },
+  {
+   "movie_id": 492,
+   "movie_slug": "captain-miller",
+   "title": "Captain Miller",
+   "year": 2024,
+   "kerala_gross": "₹3.3 Cr"
+  },
+  {
+   "movie_id": 1127,
+   "movie_slug": "peddi",
+   "title": "Peddi",
+   "year": 2026,
+   "kerala_gross": "₹47.5L"
+  }
+ ]
+}

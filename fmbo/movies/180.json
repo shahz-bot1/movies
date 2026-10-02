@@ -1,0 +1,656 @@
+{
+ "id": 180,
+ "slug": "laal-singh-chaddha",
+ "source_url": "https://fridaymatinee.in/boxoffice/laal-singh-chaddha-180",
+ "captured_at": "2026-10-01T18:05:55.583419+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 180,
+    "title": "Laal Singh Chaddha",
+    "img": "https://image.tmdb.org/t/p/original/g5rNmcznZX0UPm8CGjfk7kHcAbq.jpg",
+    "released": "2022-08-11",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10028196",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "164 min",
+    "genre": "Drama, Romance, Comedy",
+    "plot": "Events in India's history — from the Emergency and the famous Cricket World Cup win to the Punjab riots — unfold from the perspective of an innocent Sikh man Laal Singh Chaddha, a person with a low IQ but high optimism. Laal is able to achieve everything under the sun but his childhood love continues to elude him.",
+    "released": "2022-08-11",
+    "director": "Advait Chandan",
+    "directorSlug": "advait-chandan",
+    "actors": [
+     "Aamir Khan",
+     "Kareena Kapoor Khan",
+     "Naga Chaitanya Akkineni",
+     "Mona Singh",
+     "Manav Vij",
+     "Kamini Kaushal"
+    ],
+    "awards": "5 wins u0026 26 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "5.6",
+      "votes": 181718,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.3",
+      "votes": 98,
+      "updatedAt": "2026-09-25T01:10:14.000Z"
+     },
+     "rt": "69%",
+     "metascore": 46,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aamir Khan",
+     "character": "Laal Singh Chaddha",
+     "slug": "aamir-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ayE2Ot15rqWU3YhPI3Yg8xBzVx7.jpg"
+    },
+    {
+     "name": "Kareena Kapoor Khan",
+     "character": "Rupa D'Souza",
+     "slug": "kareena-kapoor-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pJZJJ93NwJq3kb3RWtaZBYVga1x.jpg"
+    },
+    {
+     "name": "Naga Chaitanya Akkineni",
+     "character": "Balaraju Bodi",
+     "slug": "naga-chaitanya-akkineni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pcGTJvzIC3JzcfNVzdA6IHo3e8k.jpg"
+    },
+    {
+     "name": "Mona Singh",
+     "character": "Gurpreet Kaur (Laal's mother)",
+     "slug": "mona-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fBl5KYnlKY8HDUqlTs64xbDZtU8.jpg"
+    },
+    {
+     "name": "Manav Vij",
+     "character": "Mohammad bhai",
+     "slug": "manav-vij",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qBGYyDNhHB8Gt2gKQUs0VdsWutJ.jpg"
+    },
+    {
+     "name": "Kamini Kaushal",
+     "character": "Old lady on train",
+     "slug": "kamini-kaushal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9sUKpr1DqGzyfDpaSLOeHMeMos5.jpg"
+    },
+    {
+     "name": "Ahmad Ibn Umar",
+     "character": "Young Laal",
+     "slug": "ahmad-ibn-umar",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Hafsa Ashraf",
+     "character": "Young Rupa",
+     "slug": "hafsa-ashraf",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Advait Chandan",
+       "slug": "advait-chandan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Atul Kulkarni",
+       "slug": "atul-kulkarni"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Pritam Chakraborty",
+       "slug": "pritam-chakraborty"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Satyajit Pande",
+       "slug": "satyajit-pande"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Hemanti Sarkar",
+       "slug": "hemanti-sarkar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ajit Andhare",
+       "slug": "ajit-andhare"
+      },
+      {
+       "name": "Aamir Khan",
+       "slug": "aamir-khan"
+      },
+      {
+       "name": "Kiran Rao",
+       "slug": "kiran-rao"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aamir Khan Productions",
+     "slug": "aamir-khan-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/yJIGEhIk3yAWAIiZ4p3xEV1dzwR.png"
+    },
+    {
+     "name": "Viacom18 Studios",
+     "slug": "viacom18-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/xa1Yz7B5eRC2F9oHA6mDn8NE6ci.png"
+    },
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-10-06",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2457122.8,
+    "totalShows": 632,
+    "totalDays": 7,
+    "openingDay": {
+     "day": 1,
+     "gross": 758966,
+     "date": "2022-08-11"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 758966,
+     "date": "2022-08-11"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-08-11"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 180,
+    "title": "Laal Singh Chaddha",
+    "img": "https://image.tmdb.org/t/p/original/g5rNmcznZX0UPm8CGjfk7kHcAbq.jpg",
+    "released": "2022-08-11",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10028196",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "164 min",
+    "genre": "Drama, Romance, Comedy",
+    "plot": "Events in India's history — from the Emergency and the famous Cricket World Cup win to the Punjab riots — unfold from the perspective of an innocent Sikh man Laal Singh Chaddha, a person with a low IQ but high optimism. Laal is able to achieve everything under the sun but his childhood love continues to elude him.",
+    "released": "2022-08-11",
+    "director": "Advait Chandan",
+    "directorSlug": "advait-chandan",
+    "actors": [
+     "Aamir Khan",
+     "Kareena Kapoor Khan",
+     "Naga Chaitanya Akkineni",
+     "Mona Singh",
+     "Manav Vij",
+     "Kamini Kaushal"
+    ],
+    "awards": "5 wins u0026 26 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "5.6",
+      "votes": 181718,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.3",
+      "votes": 98,
+      "updatedAt": "2026-09-25T01:10:14.000Z"
+     },
+     "rt": "69%",
+     "metascore": 46,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aamir Khan",
+     "character": "Laal Singh Chaddha",
+     "slug": "aamir-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ayE2Ot15rqWU3YhPI3Yg8xBzVx7.jpg"
+    },
+    {
+     "name": "Kareena Kapoor Khan",
+     "character": "Rupa D'Souza",
+     "slug": "kareena-kapoor-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pJZJJ93NwJq3kb3RWtaZBYVga1x.jpg"
+    },
+    {
+     "name": "Naga Chaitanya Akkineni",
+     "character": "Balaraju Bodi",
+     "slug": "naga-chaitanya-akkineni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pcGTJvzIC3JzcfNVzdA6IHo3e8k.jpg"
+    },
+    {
+     "name": "Mona Singh",
+     "character": "Gurpreet Kaur (Laal's mother)",
+     "slug": "mona-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fBl5KYnlKY8HDUqlTs64xbDZtU8.jpg"
+    },
+    {
+     "name": "Manav Vij",
+     "character": "Mohammad bhai",
+     "slug": "manav-vij",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qBGYyDNhHB8Gt2gKQUs0VdsWutJ.jpg"
+    },
+    {
+     "name": "Kamini Kaushal",
+     "character": "Old lady on train",
+     "slug": "kamini-kaushal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9sUKpr1DqGzyfDpaSLOeHMeMos5.jpg"
+    },
+    {
+     "name": "Ahmad Ibn Umar",
+     "character": "Young Laal",
+     "slug": "ahmad-ibn-umar",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Hafsa Ashraf",
+     "character": "Young Rupa",
+     "slug": "hafsa-ashraf",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Advait Chandan",
+       "slug": "advait-chandan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Atul Kulkarni",
+       "slug": "atul-kulkarni"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Pritam Chakraborty",
+       "slug": "pritam-chakraborty"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Satyajit Pande",
+       "slug": "satyajit-pande"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Hemanti Sarkar",
+       "slug": "hemanti-sarkar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ajit Andhare",
+       "slug": "ajit-andhare"
+      },
+      {
+       "name": "Aamir Khan",
+       "slug": "aamir-khan"
+      },
+      {
+       "name": "Kiran Rao",
+       "slug": "kiran-rao"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aamir Khan Productions",
+     "slug": "aamir-khan-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/yJIGEhIk3yAWAIiZ4p3xEV1dzwR.png"
+    },
+    {
+     "name": "Viacom18 Studios",
+     "slug": "viacom18-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/xa1Yz7B5eRC2F9oHA6mDn8NE6ci.png"
+    },
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-10-06",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-08-11",
+     "gross": 2457122.8000000003,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 632,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2457122.8000000003,
+    "totalShows": 632,
+    "totalDays": 1,
+    "openingDay": {
+     "day": 1,
+     "gross": 2457122.8000000003
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2457122.8000000003
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-08-11"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 180,
+    "title": "Laal Singh Chaddha",
+    "img": "https://image.tmdb.org/t/p/original/g5rNmcznZX0UPm8CGjfk7kHcAbq.jpg",
+    "released": "2022-08-11",
+    "language": "Hindi",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt10028196",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "PG-13",
+    "runtime": "164 min",
+    "genre": "Drama, Romance, Comedy",
+    "plot": "Events in India's history — from the Emergency and the famous Cricket World Cup win to the Punjab riots — unfold from the perspective of an innocent Sikh man Laal Singh Chaddha, a person with a low IQ but high optimism. Laal is able to achieve everything under the sun but his childhood love continues to elude him.",
+    "released": "2022-08-11",
+    "director": "Advait Chandan",
+    "directorSlug": "advait-chandan",
+    "actors": [
+     "Aamir Khan",
+     "Kareena Kapoor Khan",
+     "Naga Chaitanya Akkineni",
+     "Mona Singh",
+     "Manav Vij",
+     "Kamini Kaushal"
+    ],
+    "awards": "5 wins u0026 26 nominations",
+    "ratings": {
+     "imdb": {
+      "value": "5.6",
+      "votes": 181718,
+      "updatedAt": "2026-09-30T01:50:04.000Z"
+     },
+     "tmdb": {
+      "value": "6.3",
+      "votes": 98,
+      "updatedAt": "2026-09-25T01:10:14.000Z"
+     },
+     "rt": "69%",
+     "metascore": 46,
+     "updatedAt": "2026-09-30T01:50:04.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Aamir Khan",
+     "character": "Laal Singh Chaddha",
+     "slug": "aamir-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/ayE2Ot15rqWU3YhPI3Yg8xBzVx7.jpg"
+    },
+    {
+     "name": "Kareena Kapoor Khan",
+     "character": "Rupa D'Souza",
+     "slug": "kareena-kapoor-khan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pJZJJ93NwJq3kb3RWtaZBYVga1x.jpg"
+    },
+    {
+     "name": "Naga Chaitanya Akkineni",
+     "character": "Balaraju Bodi",
+     "slug": "naga-chaitanya-akkineni",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/pcGTJvzIC3JzcfNVzdA6IHo3e8k.jpg"
+    },
+    {
+     "name": "Mona Singh",
+     "character": "Gurpreet Kaur (Laal's mother)",
+     "slug": "mona-singh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fBl5KYnlKY8HDUqlTs64xbDZtU8.jpg"
+    },
+    {
+     "name": "Manav Vij",
+     "character": "Mohammad bhai",
+     "slug": "manav-vij",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qBGYyDNhHB8Gt2gKQUs0VdsWutJ.jpg"
+    },
+    {
+     "name": "Kamini Kaushal",
+     "character": "Old lady on train",
+     "slug": "kamini-kaushal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/9sUKpr1DqGzyfDpaSLOeHMeMos5.jpg"
+    },
+    {
+     "name": "Ahmad Ibn Umar",
+     "character": "Young Laal",
+     "slug": "ahmad-ibn-umar",
+     "profile_picture_url": null
+    },
+    {
+     "name": "Hafsa Ashraf",
+     "character": "Young Rupa",
+     "slug": "hafsa-ashraf",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Advait Chandan",
+       "slug": "advait-chandan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Atul Kulkarni",
+       "slug": "atul-kulkarni"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Pritam Chakraborty",
+       "slug": "pritam-chakraborty"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Satyajit Pande",
+       "slug": "satyajit-pande"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Hemanti Sarkar",
+       "slug": "hemanti-sarkar"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Ajit Andhare",
+       "slug": "ajit-andhare"
+      },
+      {
+       "name": "Aamir Khan",
+       "slug": "aamir-khan"
+      },
+      {
+       "name": "Kiran Rao",
+       "slug": "kiran-rao"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Aamir Khan Productions",
+     "slug": "aamir-khan-productions",
+     "logo": "https://image.tmdb.org/t/p/w185/yJIGEhIk3yAWAIiZ4p3xEV1dzwR.png"
+    },
+    {
+     "name": "Viacom18 Studios",
+     "slug": "viacom18-studios",
+     "logo": "https://image.tmdb.org/t/p/w185/xa1Yz7B5eRC2F9oHA6mDn8NE6ci.png"
+    },
+    {
+     "name": "Paramount Pictures",
+     "slug": "paramount-pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-10-06",
+    "platforms": [
+     {
+      "id": 8,
+      "name": "Netflix",
+      "logoPath": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 2457122.8,
+    "totalShows": 632,
+    "totalDays": 12,
+    "openingDay": {
+     "day": 1,
+     "gross": 1131042,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 1131042,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-08-11"
+   }
+  }
+ }
+}

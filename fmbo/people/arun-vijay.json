@@ -1,0 +1,41 @@
+{
+ "slug": "arun-vijay",
+ "name": "Arun Vijay",
+ "source_url": "https://fridaymatinee.in/people/arun-vijay",
+ "captured_at": "2026-10-01T20:57:35.372562+00:00",
+ "person": {
+  "name": "Arun Vijay",
+  "photo": "https://image.tmdb.org/t/p/w185/hoZ99Ay5bsxSnzC1UE3Uw3ak7bh.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 157,
+   "movie_slug": "yaanai",
+   "title": "Yaanai",
+   "year": 2022,
+   "kerala_gross": "₹16.6L"
+  },
+  {
+   "movie_id": 854,
+   "movie_slug": "idli-kadai",
+   "title": "Idli Kadai",
+   "year": 2025,
+   "kerala_gross": "₹80.6L"
+  },
+  {
+   "movie_id": 955,
+   "movie_slug": "retta-thala",
+   "title": "Retta Thala",
+   "year": 2025,
+   "kerala_gross": "₹3.0L"
+  }
+ ]
+}

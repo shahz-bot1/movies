@@ -1,0 +1,41 @@
+{
+ "slug": "s-kumar",
+ "name": "S. Kumar",
+ "source_url": "https://fridaymatinee.in/people/s-kumar",
+ "captured_at": "2026-10-02T09:53:42.248567+00:00",
+ "person": {
+  "name": "S. Kumar",
+  "photo": null,
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 133,
+   "movie_slug": "makal",
+   "title": "Makal",
+   "year": 2022,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 293,
+   "movie_slug": "spadikam",
+   "title": "Spadikam",
+   "year": 2023,
+   "kerala_gross": "₹2.0 Cr"
+  },
+  {
+   "movie_id": 1193,
+   "movie_slug": "kireedam",
+   "title": "Kireedam",
+   "year": 2026,
+   "kerala_gross": "₹27.3L"
+  }
+ ]
+}

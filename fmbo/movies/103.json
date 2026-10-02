@@ -1,0 +1,684 @@
+{
+ "id": 103,
+ "slug": "hridayam",
+ "source_url": "https://fridaymatinee.in/boxoffice/hridayam-103",
+ "captured_at": "2026-10-01T18:01:06.099532+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 103,
+    "title": "Hridayam",
+    "img": "https://image.tmdb.org/t/p/original/rMNzpbruCuBmYPWhaNLrKOlNKcu.jpg",
+    "released": "2022-01-21",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11375428",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "172 min",
+    "genre": "Romance, Drama",
+    "plot": "Arun and Darshana are first-year engineering students and they fall in love soon after their college begins. And just as how things work generally in teenage, the road ahead isn't too easy for them. Life offers many twists and turns that they least expect.",
+    "released": "2022-01-21",
+    "director": "Vineeth Sreenivasan",
+    "directorSlug": "vineeth-sreenivasan",
+    "actors": [
+     "Pranav Mohanlal",
+     "Darshana Rajendran",
+     "Kalyani Priyadarshan",
+     "Aswath Lal",
+     "Vijayaraghavan",
+     "Arun Kurian"
+    ],
+    "awards": "3 wins u0026 2 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.0",
+      "votes": 21601,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.2",
+      "votes": 65,
+      "updatedAt": "2026-09-25T01:10:34.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Pranav Mohanlal",
+     "character": "Arun Neelakandan",
+     "slug": "pranav-mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nubzHZimxhAHdSBW7rkFXRPCajO.jpg"
+    },
+    {
+     "name": "Darshana Rajendran",
+     "character": "Darshana",
+     "slug": "darshana-rajendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qhsKLCi4J0Zq22R6HPXffrVT7Lg.jpg"
+    },
+    {
+     "name": "Kalyani Priyadarshan",
+     "character": "Nithya Balagopal",
+     "slug": "kalyani-priyadarshan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8FXahoKdXzS3nCKvyRqbE2y5kSA.jpg"
+    },
+    {
+     "name": "Aswath Lal",
+     "character": "Antony Thadikaran",
+     "slug": "aswath-lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/12ievyCsGaYPh9mq0SRND3DOePE.jpg"
+    },
+    {
+     "name": "Vijayaraghavan",
+     "character": "Neelakandan",
+     "slug": "vijayaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3AE7r02YPbSrEUIfP7gUN7lLNfI.jpg"
+    },
+    {
+     "name": "Arun Kurian",
+     "character": "Varun Subrahmanyam",
+     "slug": "arun-kurian",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7jFTigCmJV3xH0fKSkv1wbdbdKo.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Jimmy",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Athul Ram Kumar",
+     "character": "Jackson",
+     "slug": "athul-ram-kumar",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vineeth Sreenivasan",
+       "slug": "vineeth-sreenivasan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vineeth Sreenivasan",
+       "slug": "vineeth-sreenivasan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hesham Abdul Wahab",
+       "slug": "hesham-abdul-wahab"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Viswajith Odukkathil",
+       "slug": "viswajith-odukkathil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ranjan Abraham",
+       "slug": "ranjan-abraham"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Visakh Subramaniam",
+       "slug": "visakh-subramaniam"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Big Bang Entertainments",
+     "slug": "big-bang-entertainments",
+     "logo": null
+    },
+    {
+     "name": "Merryland Studios",
+     "slug": "merryland-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-02-18",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 188919062.2,
+    "totalShows": 19820,
+    "totalDays": 35,
+    "openingDay": {
+     "day": 1,
+     "gross": 17639597.199999996,
+     "date": "2022-01-21"
+    },
+    "peakDay": {
+     "day": 2,
+     "gross": 20735611.400000002,
+     "date": "2022-01-22"
+    },
+    "chartPosition": {
+     "current_position": 53,
+     "weeks_on_chart": 67,
+     "peak_position": 1,
+     "last_week_position": 53
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-01-21"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 103,
+    "title": "Hridayam",
+    "img": "https://image.tmdb.org/t/p/original/rMNzpbruCuBmYPWhaNLrKOlNKcu.jpg",
+    "released": "2022-01-21",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11375428",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "172 min",
+    "genre": "Romance, Drama",
+    "plot": "Arun and Darshana are first-year engineering students and they fall in love soon after their college begins. And just as how things work generally in teenage, the road ahead isn't too easy for them. Life offers many twists and turns that they least expect.",
+    "released": "2022-01-21",
+    "director": "Vineeth Sreenivasan",
+    "directorSlug": "vineeth-sreenivasan",
+    "actors": [
+     "Pranav Mohanlal",
+     "Darshana Rajendran",
+     "Kalyani Priyadarshan",
+     "Aswath Lal",
+     "Vijayaraghavan",
+     "Arun Kurian"
+    ],
+    "awards": "3 wins u0026 2 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.0",
+      "votes": 21601,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.2",
+      "votes": 65,
+      "updatedAt": "2026-09-25T01:10:34.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Pranav Mohanlal",
+     "character": "Arun Neelakandan",
+     "slug": "pranav-mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nubzHZimxhAHdSBW7rkFXRPCajO.jpg"
+    },
+    {
+     "name": "Darshana Rajendran",
+     "character": "Darshana",
+     "slug": "darshana-rajendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qhsKLCi4J0Zq22R6HPXffrVT7Lg.jpg"
+    },
+    {
+     "name": "Kalyani Priyadarshan",
+     "character": "Nithya Balagopal",
+     "slug": "kalyani-priyadarshan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8FXahoKdXzS3nCKvyRqbE2y5kSA.jpg"
+    },
+    {
+     "name": "Aswath Lal",
+     "character": "Antony Thadikaran",
+     "slug": "aswath-lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/12ievyCsGaYPh9mq0SRND3DOePE.jpg"
+    },
+    {
+     "name": "Vijayaraghavan",
+     "character": "Neelakandan",
+     "slug": "vijayaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3AE7r02YPbSrEUIfP7gUN7lLNfI.jpg"
+    },
+    {
+     "name": "Arun Kurian",
+     "character": "Varun Subrahmanyam",
+     "slug": "arun-kurian",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7jFTigCmJV3xH0fKSkv1wbdbdKo.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Jimmy",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Athul Ram Kumar",
+     "character": "Jackson",
+     "slug": "athul-ram-kumar",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vineeth Sreenivasan",
+       "slug": "vineeth-sreenivasan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vineeth Sreenivasan",
+       "slug": "vineeth-sreenivasan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hesham Abdul Wahab",
+       "slug": "hesham-abdul-wahab"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Viswajith Odukkathil",
+       "slug": "viswajith-odukkathil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ranjan Abraham",
+       "slug": "ranjan-abraham"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Visakh Subramaniam",
+       "slug": "visakh-subramaniam"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Big Bang Entertainments",
+     "slug": "big-bang-entertainments",
+     "logo": null
+    },
+    {
+     "name": "Merryland Studios",
+     "slug": "merryland-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-02-18",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-01-21",
+     "gross": 99862399,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 6947,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-01-28",
+     "gross": 38947639.400000006,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4465,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-02-04",
+     "gross": 30761768.799999997,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 4670,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-02-11",
+     "gross": 17519398,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3155,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-02-18",
+     "gross": 1827857,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 583,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 188919062.2,
+    "totalShows": 19820,
+    "totalDays": 5,
+    "openingDay": {
+     "day": 1,
+     "gross": 99862399
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 99862399
+    },
+    "chartPosition": {
+     "current_position": 53,
+     "weeks_on_chart": 67,
+     "peak_position": 1,
+     "last_week_position": 53
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-01-21"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 103,
+    "title": "Hridayam",
+    "img": "https://image.tmdb.org/t/p/original/rMNzpbruCuBmYPWhaNLrKOlNKcu.jpg",
+    "released": "2022-01-21",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt11375428",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "172 min",
+    "genre": "Romance, Drama",
+    "plot": "Arun and Darshana are first-year engineering students and they fall in love soon after their college begins. And just as how things work generally in teenage, the road ahead isn't too easy for them. Life offers many twists and turns that they least expect.",
+    "released": "2022-01-21",
+    "director": "Vineeth Sreenivasan",
+    "directorSlug": "vineeth-sreenivasan",
+    "actors": [
+     "Pranav Mohanlal",
+     "Darshana Rajendran",
+     "Kalyani Priyadarshan",
+     "Aswath Lal",
+     "Vijayaraghavan",
+     "Arun Kurian"
+    ],
+    "awards": "3 wins u0026 2 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "8.0",
+      "votes": 21601,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "7.2",
+      "votes": 65,
+      "updatedAt": "2026-09-25T01:10:34.000Z"
+     },
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Pranav Mohanlal",
+     "character": "Arun Neelakandan",
+     "slug": "pranav-mohanlal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nubzHZimxhAHdSBW7rkFXRPCajO.jpg"
+    },
+    {
+     "name": "Darshana Rajendran",
+     "character": "Darshana",
+     "slug": "darshana-rajendran",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qhsKLCi4J0Zq22R6HPXffrVT7Lg.jpg"
+    },
+    {
+     "name": "Kalyani Priyadarshan",
+     "character": "Nithya Balagopal",
+     "slug": "kalyani-priyadarshan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8FXahoKdXzS3nCKvyRqbE2y5kSA.jpg"
+    },
+    {
+     "name": "Aswath Lal",
+     "character": "Antony Thadikaran",
+     "slug": "aswath-lal",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/12ievyCsGaYPh9mq0SRND3DOePE.jpg"
+    },
+    {
+     "name": "Vijayaraghavan",
+     "character": "Neelakandan",
+     "slug": "vijayaraghavan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/3AE7r02YPbSrEUIfP7gUN7lLNfI.jpg"
+    },
+    {
+     "name": "Arun Kurian",
+     "character": "Varun Subrahmanyam",
+     "slug": "arun-kurian",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7jFTigCmJV3xH0fKSkv1wbdbdKo.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Jimmy",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Athul Ram Kumar",
+     "character": "Jackson",
+     "slug": "athul-ram-kumar",
+     "profile_picture_url": null
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vineeth Sreenivasan",
+       "slug": "vineeth-sreenivasan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vineeth Sreenivasan",
+       "slug": "vineeth-sreenivasan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Hesham Abdul Wahab",
+       "slug": "hesham-abdul-wahab"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Viswajith Odukkathil",
+       "slug": "viswajith-odukkathil"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Ranjan Abraham",
+       "slug": "ranjan-abraham"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Visakh Subramaniam",
+       "slug": "visakh-subramaniam"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Big Bang Entertainments",
+     "slug": "big-bang-entertainments",
+     "logo": null
+    },
+    {
+     "name": "Merryland Studios",
+     "slug": "merryland-studios",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2022-02-18",
+    "platforms": [
+     {
+      "id": 2336,
+      "name": "JioHotstar",
+      "logoPath": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 188919062.2,
+    "totalShows": 19820,
+    "totalDays": 15,
+    "openingDay": {
+     "day": 1,
+     "gross": 41081026.60000001,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 41081026.60000001,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 53,
+     "weeks_on_chart": 67,
+     "peak_position": 1,
+     "last_week_position": 53
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-01-21"
+   }
+  }
+ }
+}

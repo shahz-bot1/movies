@@ -1,0 +1,41 @@
+{
+ "slug": "s-r-prabu",
+ "name": "S. R. Prabu",
+ "source_url": "https://fridaymatinee.in/people/s-r-prabu",
+ "captured_at": "2026-10-02T09:54:23.305292+00:00",
+ "person": {
+  "name": "S. R. Prabu",
+  "photo": "https://image.tmdb.org/t/p/w185/cjZq7AmqbsjPpGspVvEMs72nzzg.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 21,
+   "movie_slug": "kaithi",
+   "title": "Kaithi",
+   "year": 2019,
+   "kerala_gross": "₹2.6 Cr"
+  },
+  {
+   "movie_id": 454,
+   "movie_slug": "japan",
+   "title": "Japan",
+   "year": 2023,
+   "kerala_gross": "₹17.8L"
+  },
+  {
+   "movie_id": 1106,
+   "movie_slug": "karuppu",
+   "title": "Karuppu",
+   "year": 2026,
+   "kerala_gross": "₹11.0 Cr"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "sophia-paul",
+ "name": "Sophia Paul",
+ "source_url": "https://fridaymatinee.in/people/sophia-paul",
+ "captured_at": "2026-10-02T10:50:57.865381+00:00",
+ "person": {
+  "name": "Sophia Paul",
+  "photo": "https://image.tmdb.org/t/p/w185/xhjireGEEQrt86zXxGUTy4CqIq0.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 416,
+   "movie_slug": "rdx-robert-dony-xavier",
+   "title": "RDX - Robert Dony Xavier",
+   "year": 2023,
+   "kerala_gross": "₹39.7 Cr"
+  },
+  {
+   "movie_id": 561,
+   "movie_slug": "kondal",
+   "title": "Kondal",
+   "year": 2024,
+   "kerala_gross": "₹2.4 Cr"
+  },
+  {
+   "movie_id": 676,
+   "movie_slug": "detective-ujjwalan",
+   "title": "Detective Ujjwalan",
+   "year": 2025,
+   "kerala_gross": "₹4.2 Cr"
+  },
+  {
+   "movie_id": 1286,
+   "movie_slug": "cosmic-samson",
+   "title": "Cosmic Samson",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  }
+ ]
+}

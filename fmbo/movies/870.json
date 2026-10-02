@@ -1,0 +1,822 @@
+{
+ "id": 870,
+ "slug": "good-fortune",
+ "source_url": "https://fridaymatinee.in/boxoffice/good-fortune-870",
+ "captured_at": "2026-10-01T18:24:43.448350+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 870,
+    "title": "Good Fortune",
+    "img": "https://image.tmdb.org/t/p/original/mIN2Pgn4T6TpjuDtlhMPCAw5Bvo.jpg",
+    "released": "2025-10-17",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27543578",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "97 min",
+    "genre": "Comedy, Fantasy",
+    "plot": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist.",
+    "released": "2025-10-14",
+    "director": "Aziz Ansari",
+    "directorSlug": "aziz-ansari",
+    "actors": [
+     "Keanu Reeves",
+     "Aziz Ansari",
+     "Seth Rogen",
+     "Keke Palmer",
+     "Sandra Oh",
+     "Sherry Cola"
+    ],
+    "awards": "5 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 56243,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 833,
+      "updatedAt": "2026-09-24T16:10:09.000Z"
+     },
+     "rt": "79%",
+     "metascore": 61,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Keanu Reeves",
+     "character": "Gabriel",
+     "slug": "keanu-reeves",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+    },
+    {
+     "name": "Aziz Ansari",
+     "character": "Arj / Delivery Robots (voice)",
+     "slug": "aziz-ansari",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg"
+    },
+    {
+     "name": "Seth Rogen",
+     "character": "Jeff",
+     "slug": "seth-rogen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+    },
+    {
+     "name": "Keke Palmer",
+     "character": "Elena",
+     "slug": "keke-palmer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fXiKInUmPLs5F53yv2KZSuCXHJZ.jpg"
+    },
+    {
+     "name": "Sandra Oh",
+     "character": "Martha",
+     "slug": "sandra-oh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
+    },
+    {
+     "name": "Sherry Cola",
+     "character": "Linda",
+     "slug": "sherry-cola",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fO6t05iJo4gqsTkOgPO1jwF4B4t.jpg"
+    },
+    {
+     "name": "Stephen McKinley Henderson",
+     "character": "Azrael",
+     "slug": "stephen-mckinley-henderson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z2weSPo4sdMNj47tP5o0me41r2z.jpg"
+    },
+    {
+     "name": "Blanca Araceli",
+     "character": "Rosa",
+     "slug": "blanca-araceli",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kDm6OwatIx7WWGumIhPUmGu2J3v.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Aziz Ansari",
+       "slug": "aziz-ansari"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Aziz Ansari",
+       "slug": "aziz-ansari"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Carter Burwell",
+       "slug": "carter-burwell"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Adam Newport-Berra",
+       "slug": "adam-newport-berra"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Anthony Katagas",
+       "slug": "anthony-katagas"
+      },
+      {
+       "name": "Aziz Ansari",
+       "slug": "aziz-ansari"
+      },
+      {
+       "name": "Alan Yang",
+       "slug": "alan-yang"
+      },
+      {
+       "name": "David Koplan",
+       "slug": "david-koplan"
+      },
+      {
+       "name": "Brady Fujikawa",
+       "slug": "brady-fujikawa"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lionsgate",
+     "slug": "lionsgate",
+     "logo": "https://image.tmdb.org/t/p/w185/cisLn1YAUuptXVBa0xjq7ST9cH0.png"
+    },
+    {
+     "name": "Media Capital Technologies",
+     "slug": "media-capital-technologies",
+     "logo": "https://image.tmdb.org/t/p/w185/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png"
+    },
+    {
+     "name": "Oh Brudder Productions",
+     "slug": "oh-brudder-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-06",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-10-21": [
+     {
+      "id": 872,
+      "title": "Thamma",
+      "img": "https://image.tmdb.org/t/p/original/udkbDwBbysCGEydt0FHnl9dVO2k.jpg"
+     },
+     {
+      "id": 875,
+      "title": "Ek Deewane Ki Deewaniyat",
+      "img": "https://image.tmdb.org/t/p/original/1AfKrRPRPT0TtCTiK9uyBCgFjZS.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-10-18",
+     "gross": 17050,
+     "sold": 68,
+     "unsold": 381,
+     "shows": 3,
+     "occ": 15.14,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 17050,
+     "lastUpdatedAt": "2025-10-18 20:58:00"
+    },
+    {
+     "label": "2025-10-19",
+     "gross": 15810,
+     "sold": 68,
+     "unsold": 378,
+     "shows": 3,
+     "occ": 15.25,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 32860,
+     "lastUpdatedAt": "2025-10-19 20:58:00"
+    },
+    {
+     "label": "2025-10-20",
+     "gross": 2610,
+     "sold": 11,
+     "unsold": 125,
+     "shows": 1,
+     "occ": 8.09,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 35470,
+     "lastUpdatedAt": "2025-10-20 20:58:00"
+    },
+    {
+     "label": "2025-10-21",
+     "gross": 2320,
+     "sold": 10,
+     "unsold": 126,
+     "shows": 1,
+     "occ": 7.35,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 37790,
+     "lastUpdatedAt": "2025-10-21 20:58:00"
+    },
+    {
+     "label": "2025-10-22",
+     "gross": 6220,
+     "sold": 28,
+     "unsold": 108,
+     "shows": 1,
+     "occ": 20.59,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 44010,
+     "lastUpdatedAt": "2025-10-22 20:58:00"
+    },
+    {
+     "label": "2025-10-23",
+     "gross": 3380,
+     "sold": 14,
+     "unsold": 122,
+     "shows": 1,
+     "occ": 10.29,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 47390,
+     "lastUpdatedAt": "2025-10-23 20:58:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 47390,
+    "totalShows": 10,
+    "totalSeats": 1439,
+    "totalSold": 199,
+    "avgOcc": "13.8",
+    "totalDays": 6,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 17050,
+     "date": "2025-10-18"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 17050,
+     "date": "2025-10-18"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "6:3380:47390"
+  },
+  "week": {
+   "movie": {
+    "id": 870,
+    "title": "Good Fortune",
+    "img": "https://image.tmdb.org/t/p/original/mIN2Pgn4T6TpjuDtlhMPCAw5Bvo.jpg",
+    "released": "2025-10-17",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27543578",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "97 min",
+    "genre": "Comedy, Fantasy",
+    "plot": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist.",
+    "released": "2025-10-14",
+    "director": "Aziz Ansari",
+    "directorSlug": "aziz-ansari",
+    "actors": [
+     "Keanu Reeves",
+     "Aziz Ansari",
+     "Seth Rogen",
+     "Keke Palmer",
+     "Sandra Oh",
+     "Sherry Cola"
+    ],
+    "awards": "5 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 56243,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 833,
+      "updatedAt": "2026-09-24T16:10:09.000Z"
+     },
+     "rt": "79%",
+     "metascore": 61,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Keanu Reeves",
+     "character": "Gabriel",
+     "slug": "keanu-reeves",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+    },
+    {
+     "name": "Aziz Ansari",
+     "character": "Arj / Delivery Robots (voice)",
+     "slug": "aziz-ansari",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg"
+    },
+    {
+     "name": "Seth Rogen",
+     "character": "Jeff",
+     "slug": "seth-rogen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+    },
+    {
+     "name": "Keke Palmer",
+     "character": "Elena",
+     "slug": "keke-palmer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fXiKInUmPLs5F53yv2KZSuCXHJZ.jpg"
+    },
+    {
+     "name": "Sandra Oh",
+     "character": "Martha",
+     "slug": "sandra-oh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
+    },
+    {
+     "name": "Sherry Cola",
+     "character": "Linda",
+     "slug": "sherry-cola",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fO6t05iJo4gqsTkOgPO1jwF4B4t.jpg"
+    },
+    {
+     "name": "Stephen McKinley Henderson",
+     "character": "Azrael",
+     "slug": "stephen-mckinley-henderson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z2weSPo4sdMNj47tP5o0me41r2z.jpg"
+    },
+    {
+     "name": "Blanca Araceli",
+     "character": "Rosa",
+     "slug": "blanca-araceli",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kDm6OwatIx7WWGumIhPUmGu2J3v.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Aziz Ansari",
+       "slug": "aziz-ansari"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Aziz Ansari",
+       "slug": "aziz-ansari"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Carter Burwell",
+       "slug": "carter-burwell"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Adam Newport-Berra",
+       "slug": "adam-newport-berra"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Anthony Katagas",
+       "slug": "anthony-katagas"
+      },
+      {
+       "name": "Aziz Ansari",
+       "slug": "aziz-ansari"
+      },
+      {
+       "name": "Alan Yang",
+       "slug": "alan-yang"
+      },
+      {
+       "name": "David Koplan",
+       "slug": "david-koplan"
+      },
+      {
+       "name": "Brady Fujikawa",
+       "slug": "brady-fujikawa"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lionsgate",
+     "slug": "lionsgate",
+     "logo": "https://image.tmdb.org/t/p/w185/cisLn1YAUuptXVBa0xjq7ST9cH0.png"
+    },
+    {
+     "name": "Media Capital Technologies",
+     "slug": "media-capital-technologies",
+     "logo": "https://image.tmdb.org/t/p/w185/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png"
+    },
+    {
+     "name": "Oh Brudder Productions",
+     "slug": "oh-brudder-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-06",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-10-21": [
+     {
+      "id": 872,
+      "title": "Thamma",
+      "img": "https://image.tmdb.org/t/p/original/udkbDwBbysCGEydt0FHnl9dVO2k.jpg"
+     },
+     {
+      "id": 875,
+      "title": "Ek Deewane Ki Deewaniyat",
+      "img": "https://image.tmdb.org/t/p/original/1AfKrRPRPT0TtCTiK9uyBCgFjZS.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2025-10-18",
+     "gross": 47390,
+     "sold": 199,
+     "unsold": 1240,
+     "shows": 10,
+     "occ": 13.83,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 47390,
+     "lastUpdatedAt": "2025-10-23 20:58:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 47390,
+    "totalShows": 10,
+    "totalSeats": 1439,
+    "totalSold": 199,
+    "avgOcc": "13.8",
+    "totalDays": 1,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 47390
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 47390
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "1:47390:47390"
+  },
+  "district": {
+   "movie": {
+    "id": 870,
+    "title": "Good Fortune",
+    "img": "https://image.tmdb.org/t/p/original/mIN2Pgn4T6TpjuDtlhMPCAw5Bvo.jpg",
+    "released": "2025-10-17",
+    "language": "english",
+    "live": "off",
+    "pretrack": "off",
+    "imdbId": "tt27543578",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": "R",
+    "runtime": "97 min",
+    "genre": "Comedy, Fantasy",
+    "plot": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist.",
+    "released": "2025-10-14",
+    "director": "Aziz Ansari",
+    "directorSlug": "aziz-ansari",
+    "actors": [
+     "Keanu Reeves",
+     "Aziz Ansari",
+     "Seth Rogen",
+     "Keke Palmer",
+     "Sandra Oh",
+     "Sherry Cola"
+    ],
+    "awards": "5 nominations total",
+    "ratings": {
+     "imdb": {
+      "value": "6.4",
+      "votes": 56243,
+      "updatedAt": "2026-09-26T01:50:05.000Z"
+     },
+     "tmdb": {
+      "value": "6.9",
+      "votes": 833,
+      "updatedAt": "2026-09-24T16:10:09.000Z"
+     },
+     "rt": "79%",
+     "metascore": 61,
+     "updatedAt": "2026-09-26T01:50:05.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Keanu Reeves",
+     "character": "Gabriel",
+     "slug": "keanu-reeves",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+    },
+    {
+     "name": "Aziz Ansari",
+     "character": "Arj / Delivery Robots (voice)",
+     "slug": "aziz-ansari",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/yUeQHM4ycUXrUgRWgKVYKNmKxfJ.jpg"
+    },
+    {
+     "name": "Seth Rogen",
+     "character": "Jeff",
+     "slug": "seth-rogen",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+    },
+    {
+     "name": "Keke Palmer",
+     "character": "Elena",
+     "slug": "keke-palmer",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fXiKInUmPLs5F53yv2KZSuCXHJZ.jpg"
+    },
+    {
+     "name": "Sandra Oh",
+     "character": "Martha",
+     "slug": "sandra-oh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
+    },
+    {
+     "name": "Sherry Cola",
+     "character": "Linda",
+     "slug": "sherry-cola",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/fO6t05iJo4gqsTkOgPO1jwF4B4t.jpg"
+    },
+    {
+     "name": "Stephen McKinley Henderson",
+     "character": "Azrael",
+     "slug": "stephen-mckinley-henderson",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/z2weSPo4sdMNj47tP5o0me41r2z.jpg"
+    },
+    {
+     "name": "Blanca Araceli",
+     "character": "Rosa",
+     "slug": "blanca-araceli",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/kDm6OwatIx7WWGumIhPUmGu2J3v.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Aziz Ansari",
+       "slug": "aziz-ansari"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Aziz Ansari",
+       "slug": "aziz-ansari"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Carter Burwell",
+       "slug": "carter-burwell"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Adam Newport-Berra",
+       "slug": "adam-newport-berra"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Anthony Katagas",
+       "slug": "anthony-katagas"
+      },
+      {
+       "name": "Aziz Ansari",
+       "slug": "aziz-ansari"
+      },
+      {
+       "name": "Alan Yang",
+       "slug": "alan-yang"
+      },
+      {
+       "name": "David Koplan",
+       "slug": "david-koplan"
+      },
+      {
+       "name": "Brady Fujikawa",
+       "slug": "brady-fujikawa"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Lionsgate",
+     "slug": "lionsgate",
+     "logo": "https://image.tmdb.org/t/p/w185/cisLn1YAUuptXVBa0xjq7ST9cH0.png"
+    },
+    {
+     "name": "Media Capital Technologies",
+     "slug": "media-capital-technologies",
+     "logo": "https://image.tmdb.org/t/p/w185/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png"
+    },
+    {
+     "name": "Oh Brudder Productions",
+     "slug": "oh-brudder-productions",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": "2025-11-06",
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "otherReleases": {
+    "2025-10-21": [
+     {
+      "id": 872,
+      "title": "Thamma",
+      "img": "https://image.tmdb.org/t/p/original/udkbDwBbysCGEydt0FHnl9dVO2k.jpg"
+     },
+     {
+      "id": 875,
+      "title": "Ek Deewane Ki Deewaniyat",
+      "img": "https://image.tmdb.org/t/p/original/1AfKrRPRPT0TtCTiK9uyBCgFjZS.jpg"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "Ernakulam",
+     "gross": 24450,
+     "sold": 106,
+     "unsold": 515,
+     "shows": 4,
+     "occ": 17.07,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 24450,
+     "lastUpdatedAt": "2025-10-19 20:28:00"
+    },
+    {
+     "label": "Thiruvananthapuram",
+     "gross": 22940,
+     "sold": 93,
+     "unsold": 725,
+     "shows": 6,
+     "occ": 11.37,
+     "hf": "0",
+     "almost": "0",
+     "ff": "0",
+     "cumul": 47390,
+     "lastUpdatedAt": "2025-10-23 20:58:00"
+    }
+   ],
+   "summary": {
+    "totalGross": 47390,
+    "totalShows": 10,
+    "totalSeats": 1439,
+    "totalSold": 199,
+    "avgOcc": "13.8",
+    "totalDays": 2,
+    "totalHousefull": 0,
+    "totalAlmost": 0,
+    "totalFastFilling": 0,
+    "peakDay": {
+     "day": 1,
+     "gross": 24450,
+     "date": "Ernakulam"
+    },
+    "openingDay": {
+     "day": 1,
+     "gross": 24450,
+     "date": "Ernakulam"
+    },
+    "chartPosition": null
+   },
+   "_tier": "cold",
+   "_hash": "2:22940:47390"
+  }
+ }
+}

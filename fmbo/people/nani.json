@@ -1,0 +1,48 @@
+{
+ "slug": "nani",
+ "name": "Nani",
+ "source_url": "https://fridaymatinee.in/people/nani",
+ "captured_at": "2026-10-02T00:52:09.470421+00:00",
+ "person": {
+  "name": "Nani",
+  "photo": "https://image.tmdb.org/t/p/w185/jfOH4sUWs3VXuGUlo0VLMYNRBQ4.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 148,
+   "movie_slug": "aha-sundara",
+   "title": "Aha Sundara",
+   "year": 2022,
+   "kerala_gross": "₹6.3L"
+  },
+  {
+   "movie_id": 314,
+   "movie_slug": "dasara",
+   "title": "Dasara",
+   "year": 2023,
+   "kerala_gross": "₹41.4L"
+  },
+  {
+   "movie_id": 682,
+   "movie_slug": "hit-the-third-case",
+   "title": "HIT: The Third Case",
+   "year": 2025,
+   "kerala_gross": "₹71.3L"
+  },
+  {
+   "movie_id": 1273,
+   "movie_slug": "the-paradise",
+   "title": "The Paradise",
+   "year": 2026,
+   "kerala_gross": "₹72.9L"
+  }
+ ]
+}

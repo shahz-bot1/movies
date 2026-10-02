@@ -1,0 +1,48 @@
+{
+ "slug": "easwari-rao",
+ "name": "Easwari Rao",
+ "source_url": "https://fridaymatinee.in/people/easwari-rao",
+ "captured_at": "2026-10-01T22:08:22.590764+00:00",
+ "person": {
+  "name": "Easwari Rao",
+  "photo": "https://image.tmdb.org/t/p/w185/fjyvQ45YZcovy2Egj2eux8UiuHU.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 124,
+   "movie_slug": "kgf-chapter-2",
+   "title": "KGF Chapter 2",
+   "year": 2022,
+   "kerala_gross": "₹52.5 Cr"
+  },
+  {
+   "movie_id": 450,
+   "movie_slug": "bandra",
+   "title": "Bandra",
+   "year": 2023,
+   "kerala_gross": "₹2.9 Cr"
+  },
+  {
+   "movie_id": 478,
+   "movie_slug": "salaar-part-1-ceasefire",
+   "title": "Salaar: Part 1 - Ceasefire",
+   "year": 2023,
+   "kerala_gross": "₹12.5 Cr"
+  },
+  {
+   "movie_id": 493,
+   "movie_slug": "guntur-kaaram",
+   "title": "Guntur Kaaram",
+   "year": 2024,
+   "kerala_gross": "₹8.3L"
+  }
+ ]
+}

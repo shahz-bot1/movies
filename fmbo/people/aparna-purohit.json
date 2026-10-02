@@ -1,0 +1,41 @@
+{
+ "slug": "aparna-purohit",
+ "name": "Aparna Purohit",
+ "source_url": "https://fridaymatinee.in/people/aparna-purohit",
+ "captured_at": "2026-10-01T20:49:27.386377+00:00",
+ "person": {
+  "name": "Aparna Purohit",
+  "photo": null,
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 708,
+   "movie_slug": "sitaare-zameen-par",
+   "title": "Sitaare Zameen Par",
+   "year": 2025,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 977,
+   "movie_slug": "happy-patel-khatarnak-jasoos",
+   "title": "Happy Patel Khatarnak Jasoos",
+   "year": 2026,
+   "kerala_gross": "₹3.5L"
+  },
+  {
+   "movie_id": 1230,
+   "movie_slug": "batwara-1947",
+   "title": "Batwara 1947",
+   "year": 2026,
+   "kerala_gross": "₹7.1L"
+  }
+ ]
+}

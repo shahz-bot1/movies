@@ -1,0 +1,48 @@
+{
+ "slug": "disha-patani",
+ "name": "Disha Patani",
+ "source_url": "https://fridaymatinee.in/people/disha-patani",
+ "captured_at": "2026-10-01T22:03:21.494497+00:00",
+ "person": {
+  "name": "Disha Patani",
+  "photo": "https://image.tmdb.org/t/p/w185/jeFgIW3d3BP6MkfnMlmEGP33Oyq.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 592,
+   "movie_slug": "kanguva",
+   "title": "Kanguva",
+   "year": 2024,
+   "kerala_gross": "₹4.7 Cr"
+  },
+  {
+   "movie_id": 1018,
+   "movie_slug": "o",
+   "title": "O",
+   "year": 2026,
+   "kerala_gross": "No figures"
+  },
+  {
+   "movie_id": 1181,
+   "movie_slug": "welcome-to-the-jungle",
+   "title": "Welcome to the Jungle",
+   "year": 2026,
+   "kerala_gross": "₹12.9L"
+  },
+  {
+   "movie_id": 1226,
+   "movie_slug": "awarapan-2",
+   "title": "Awarapan 2",
+   "year": 2026,
+   "kerala_gross": "₹25.6L"
+  }
+ ]
+}

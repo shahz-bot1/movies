@@ -1,0 +1,649 @@
+{
+ "id": 102,
+ "slug": "meppadiyan",
+ "source_url": "https://fridaymatinee.in/boxoffice/meppadiyan-102",
+ "captured_at": "2026-10-01T18:01:03.892378+00:00",
+ "views": {
+  "date": {
+   "movie": {
+    "id": 102,
+    "title": "Meppadiyan",
+    "img": "https://image.tmdb.org/t/p/original/jNnxZxS8CDfQLQDYSm2il8RPvpI.jpg",
+    "released": "2022-01-14",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13919696",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "124 min",
+    "genre": "Drama, Thriller",
+    "plot": "While there is an old-fashioned feel to the story telling, it moves along new paths that are twisted enough to keep us interested and also has us clenching our fists.",
+    "released": "2022-01-14",
+    "director": "Vishnu Mohan",
+    "directorSlug": "vishnu-mohan",
+    "actors": [
+     "Unni Mukundan",
+     "Kottayam Ramesh",
+     "Saiju Kurup",
+     "Anju Kurian",
+     "Aju Varghese",
+     "Kundara Johny"
+    ],
+    "awards": "2 wins",
+    "ratings": {
+     "imdb": {
+      "value": "7.1",
+      "votes": 4511,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:35.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Unni Mukundan",
+     "character": "Jayakrishnan",
+     "slug": "unni-mukundan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7Pn9GASysyTG6ZnPhsuRq4ESArC.jpg"
+    },
+    {
+     "name": "Kottayam Ramesh",
+     "character": "Aashan",
+     "slug": "kottayam-ramesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mCQ9E3cmfe7gqjvUCcHPQmjncxe.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Philip Varkey",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Anju Kurian",
+     "character": "Renuka",
+     "slug": "anju-kurian",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/r4VyXgKI5TpspfwEClmWwCS6fQ.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Thadathil Xavier",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Kundara Johny",
+     "character": "Yacob",
+     "slug": "kundara-johny",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lGp0YVnQ05S5JDnMtSctUn7AXV7.jpg"
+    },
+    {
+     "name": "Nisha Sarangh",
+     "character": "Stella",
+     "slug": "nisha-sarangh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qBNSgQtJbRm2DyiQYP6BkaWE6Qr.jpg"
+    },
+    {
+     "name": "Manohari Joy",
+     "character": "Amma",
+     "slug": "manohari-joy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bqGyqfULge3YiiA7KUFmrfS9eir.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vishnu Mohan",
+       "slug": "vishnu-mohan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vishnu Mohan",
+       "slug": "vishnu-mohan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rahul Subrahmanian",
+       "slug": "rahul-subrahmanian"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Neil D'Cunha",
+       "slug": "neil-d-cunha"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Unni Mukundan",
+       "slug": "unni-mukundan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Unni Mukundan Films",
+     "slug": "unni-mukundan-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 17336335.4,
+    "totalShows": 4448,
+    "totalDays": 20,
+    "openingDay": {
+     "day": 1,
+     "gross": 1964161.5999999999,
+     "date": "2022-01-14"
+    },
+    "peakDay": {
+     "day": 3,
+     "gross": 3550858.0000000005,
+     "date": "2022-01-16"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 29,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-01-14"
+   }
+  },
+  "week": {
+   "movie": {
+    "id": 102,
+    "title": "Meppadiyan",
+    "img": "https://image.tmdb.org/t/p/original/jNnxZxS8CDfQLQDYSm2il8RPvpI.jpg",
+    "released": "2022-01-14",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13919696",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "124 min",
+    "genre": "Drama, Thriller",
+    "plot": "While there is an old-fashioned feel to the story telling, it moves along new paths that are twisted enough to keep us interested and also has us clenching our fists.",
+    "released": "2022-01-14",
+    "director": "Vishnu Mohan",
+    "directorSlug": "vishnu-mohan",
+    "actors": [
+     "Unni Mukundan",
+     "Kottayam Ramesh",
+     "Saiju Kurup",
+     "Anju Kurian",
+     "Aju Varghese",
+     "Kundara Johny"
+    ],
+    "awards": "2 wins",
+    "ratings": {
+     "imdb": {
+      "value": "7.1",
+      "votes": 4511,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:35.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Unni Mukundan",
+     "character": "Jayakrishnan",
+     "slug": "unni-mukundan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7Pn9GASysyTG6ZnPhsuRq4ESArC.jpg"
+    },
+    {
+     "name": "Kottayam Ramesh",
+     "character": "Aashan",
+     "slug": "kottayam-ramesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mCQ9E3cmfe7gqjvUCcHPQmjncxe.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Philip Varkey",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Anju Kurian",
+     "character": "Renuka",
+     "slug": "anju-kurian",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/r4VyXgKI5TpspfwEClmWwCS6fQ.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Thadathil Xavier",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Kundara Johny",
+     "character": "Yacob",
+     "slug": "kundara-johny",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lGp0YVnQ05S5JDnMtSctUn7AXV7.jpg"
+    },
+    {
+     "name": "Nisha Sarangh",
+     "character": "Stella",
+     "slug": "nisha-sarangh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qBNSgQtJbRm2DyiQYP6BkaWE6Qr.jpg"
+    },
+    {
+     "name": "Manohari Joy",
+     "character": "Amma",
+     "slug": "manohari-joy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bqGyqfULge3YiiA7KUFmrfS9eir.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vishnu Mohan",
+       "slug": "vishnu-mohan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vishnu Mohan",
+       "slug": "vishnu-mohan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rahul Subrahmanian",
+       "slug": "rahul-subrahmanian"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Neil D'Cunha",
+       "slug": "neil-d-cunha"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Unni Mukundan",
+       "slug": "unni-mukundan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Unni Mukundan Films",
+     "slug": "unni-mukundan-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [
+    {
+     "label": "2022-01-14",
+     "gross": 14388982.999999998,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 3227,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-01-21",
+     "gross": 2636452.4000000004,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 1094,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    },
+    {
+     "label": "2022-01-28",
+     "gross": 310900,
+     "sold": "$undefined",
+     "unsold": "$undefined",
+     "shows": 127,
+     "occ": "$undefined",
+     "hf": "$undefined",
+     "almost": "$undefined",
+     "ff": "$undefined",
+     "cumul": "$undefined",
+     "lastUpdatedAt": "$undefined"
+    }
+   ],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 17336335.4,
+    "totalShows": 4448,
+    "totalDays": 3,
+    "openingDay": {
+     "day": 1,
+     "gross": 14388982.999999998
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 14388982.999999998
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 29,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-01-14"
+   }
+  },
+  "district": {
+   "movie": {
+    "id": 102,
+    "title": "Meppadiyan",
+    "img": "https://image.tmdb.org/t/p/original/jNnxZxS8CDfQLQDYSm2il8RPvpI.jpg",
+    "released": "2022-01-14",
+    "language": "Malayalam",
+    "live": "off",
+    "pretrack": "",
+    "imdbId": "tt13919696",
+    "isRerelease": false
+   },
+   "omdb": {
+    "rated": null,
+    "runtime": "124 min",
+    "genre": "Drama, Thriller",
+    "plot": "While there is an old-fashioned feel to the story telling, it moves along new paths that are twisted enough to keep us interested and also has us clenching our fists.",
+    "released": "2022-01-14",
+    "director": "Vishnu Mohan",
+    "directorSlug": "vishnu-mohan",
+    "actors": [
+     "Unni Mukundan",
+     "Kottayam Ramesh",
+     "Saiju Kurup",
+     "Anju Kurian",
+     "Aju Varghese",
+     "Kundara Johny"
+    ],
+    "awards": "2 wins",
+    "ratings": {
+     "imdb": {
+      "value": "7.1",
+      "votes": 4511,
+      "updatedAt": "2026-09-24T09:23:19.000Z"
+     },
+     "tmdb": null,
+     "rt": null,
+     "metascore": null,
+     "updatedAt": "2026-09-25T01:10:35.000Z"
+    }
+   },
+   "cast": [
+    {
+     "name": "Unni Mukundan",
+     "character": "Jayakrishnan",
+     "slug": "unni-mukundan",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/7Pn9GASysyTG6ZnPhsuRq4ESArC.jpg"
+    },
+    {
+     "name": "Kottayam Ramesh",
+     "character": "Aashan",
+     "slug": "kottayam-ramesh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/mCQ9E3cmfe7gqjvUCcHPQmjncxe.jpg"
+    },
+    {
+     "name": "Saiju Kurup",
+     "character": "Philip Varkey",
+     "slug": "saiju-kurup",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/4NMeGiBEBjkmBcX5PStRHFOcrOu.jpg"
+    },
+    {
+     "name": "Anju Kurian",
+     "character": "Renuka",
+     "slug": "anju-kurian",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/r4VyXgKI5TpspfwEClmWwCS6fQ.jpg"
+    },
+    {
+     "name": "Aju Varghese",
+     "character": "Thadathil Xavier",
+     "slug": "aju-varghese",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/1kP34TpAdUt174VZWCaxHua2sy1.jpg"
+    },
+    {
+     "name": "Kundara Johny",
+     "character": "Yacob",
+     "slug": "kundara-johny",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/lGp0YVnQ05S5JDnMtSctUn7AXV7.jpg"
+    },
+    {
+     "name": "Nisha Sarangh",
+     "character": "Stella",
+     "slug": "nisha-sarangh",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/qBNSgQtJbRm2DyiQYP6BkaWE6Qr.jpg"
+    },
+    {
+     "name": "Manohari Joy",
+     "character": "Amma",
+     "slug": "manohari-joy",
+     "profile_picture_url": "https://image.tmdb.org/t/p/w185/bqGyqfULge3YiiA7KUFmrfS9eir.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "role": "director",
+     "people": [
+      {
+       "name": "Vishnu Mohan",
+       "slug": "vishnu-mohan"
+      }
+     ]
+    },
+    {
+     "role": "writer",
+     "people": [
+      {
+       "name": "Vishnu Mohan",
+       "slug": "vishnu-mohan"
+      }
+     ]
+    },
+    {
+     "role": "music",
+     "people": [
+      {
+       "name": "Rahul Subrahmanian",
+       "slug": "rahul-subrahmanian"
+      }
+     ]
+    },
+    {
+     "role": "dop",
+     "people": [
+      {
+       "name": "Neil D'Cunha",
+       "slug": "neil-d-cunha"
+      }
+     ]
+    },
+    {
+     "role": "editor",
+     "people": [
+      {
+       "name": "Shameer Muhammed",
+       "slug": "shameer-muhammed"
+      }
+     ]
+    },
+    {
+     "role": "producer",
+     "people": [
+      {
+       "name": "Unni Mukundan",
+       "slug": "unni-mukundan"
+      }
+     ]
+    }
+   ],
+   "companies": [
+    {
+     "name": "Unni Mukundan Films",
+     "slug": "unni-mukundan-films",
+     "logo": null
+    }
+   ],
+   "ott": {
+    "releaseDate": null,
+    "platforms": [
+     {
+      "id": 119,
+      "name": "Amazon Prime Video",
+      "logoPath": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+      "availability": "flatrate"
+     },
+     {
+      "id": 2100,
+      "name": "Amazon Prime Video with Ads",
+      "logoPath": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+      "availability": "flatrate"
+     }
+    ]
+   },
+   "boxoffice": [],
+   "otherReleases": {},
+   "summary": {
+    "totalGross": 17336335.4,
+    "totalShows": 4448,
+    "totalDays": 14,
+    "openingDay": {
+     "day": 1,
+     "gross": 2924838.5999999996,
+     "date": "Ernakulam"
+    },
+    "peakDay": {
+     "day": 1,
+     "gross": 2924838.5999999996,
+     "date": "Ernakulam"
+    },
+    "chartPosition": {
+     "current_position": 100,
+     "weeks_on_chart": 0,
+     "peak_position": 29,
+     "last_week_position": 100
+    }
+   },
+   "_tier": "cold",
+   "_hash": "archived",
+   "archive": {
+    "restricted": true,
+    "archivedAt": "2023-01-14"
+   }
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "prem-kumar",
+ "name": "Prem Kumar",
+ "source_url": "https://fridaymatinee.in/people/prem-kumar",
+ "captured_at": "2026-10-02T06:30:32.466399+00:00",
+ "person": {
+  "name": "Prem Kumar",
+  "photo": "https://image.tmdb.org/t/p/w185/r4LRf7C8YUKpOwqf5cHxhLoPBcJ.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 105,
+   "movie_slug": "kallan-dsouza",
+   "title": "Kallan Dsouza",
+   "year": 2022,
+   "kerala_gross": "₹27.6L"
+  },
+  {
+   "movie_id": 245,
+   "movie_slug": "gold",
+   "title": "Gold",
+   "year": 2022,
+   "kerala_gross": "₹4.0 Cr"
+  },
+  {
+   "movie_id": 306,
+   "movie_slug": "maheshum-marutiyum",
+   "title": "Maheshum Marutiyum",
+   "year": 2023,
+   "kerala_gross": "₹55.7L"
+  },
+  {
+   "movie_id": 678,
+   "movie_slug": "retro",
+   "title": "Retro",
+   "year": 2025,
+   "kerala_gross": "₹4.0 Cr"
+  }
+ ]
+}

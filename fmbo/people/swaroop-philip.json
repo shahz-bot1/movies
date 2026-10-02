@@ -1,0 +1,55 @@
+{
+ "slug": "swaroop-philip",
+ "name": "Swaroop Philip",
+ "source_url": "https://fridaymatinee.in/people/swaroop-philip",
+ "captured_at": "2026-10-02T11:11:44.967071+00:00",
+ "person": {
+  "name": "Swaroop Philip",
+  "photo": null,
+  "role": "Cinematography"
+ },
+ "tabs": [
+  {
+   "key": "dop",
+   "label": "Cinematography",
+   "count": 5
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 98,
+   "movie_slug": "kunjeldho",
+   "title": "Kunjeldho",
+   "year": 2021,
+   "kerala_gross": "₹1.1 Cr"
+  },
+  {
+   "movie_id": 155,
+   "movie_slug": "ullasam",
+   "title": "Ullasam",
+   "year": 2022,
+   "kerala_gross": "₹44.2L"
+  },
+  {
+   "movie_id": 406,
+   "movie_slug": "voice-of-sathyanathan",
+   "title": "Voice Of Sathyanathan",
+   "year": 2023,
+   "kerala_gross": "₹10.1 Cr"
+  },
+  {
+   "movie_id": 994,
+   "movie_slug": "ashakal-aayiram",
+   "title": "Ashakal Aayiram",
+   "year": 2026,
+   "kerala_gross": "₹5.8 Cr"
+  },
+  {
+   "movie_id": 1005,
+   "movie_slug": "spa",
+   "title": "Spa",
+   "year": 2026,
+   "kerala_gross": "₹38.6L"
+  }
+ ]
+}

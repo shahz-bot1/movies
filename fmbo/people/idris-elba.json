@@ -1,0 +1,48 @@
+{
+ "slug": "idris-elba",
+ "name": "Idris Elba",
+ "source_url": "https://fridaymatinee.in/people/idris-elba",
+ "captured_at": "2026-10-01T22:50:51.362469+00:00",
+ "person": {
+  "name": "Idris Elba",
+  "photo": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 4
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 158,
+   "movie_slug": "thor-love-and-thunder",
+   "title": "Thor Love and Thunder",
+   "year": 2022,
+   "kerala_gross": "₹3.8 Cr"
+  },
+  {
+   "movie_id": 603,
+   "movie_slug": "sonic-the-hedgehog-3",
+   "title": "Sonic the Hedgehog 3",
+   "year": 2025,
+   "kerala_gross": "₹30.5L"
+  },
+  {
+   "movie_id": 900,
+   "movie_slug": "zootopia-2",
+   "title": "Zootopia 2",
+   "year": 2025,
+   "kerala_gross": "₹84.3L"
+  },
+  {
+   "movie_id": 1133,
+   "movie_slug": "masters-of-the-universe",
+   "title": "Masters of the Universe",
+   "year": 2026,
+   "kerala_gross": "₹58.3L"
+  }
+ ]
+}

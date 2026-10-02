@@ -1,0 +1,41 @@
+{
+ "slug": "avi-arad",
+ "name": "Avi Arad",
+ "source_url": "https://fridaymatinee.in/people/avi-arad",
+ "captured_at": "2026-10-01T21:04:20.750320+00:00",
+ "person": {
+  "name": "Avi Arad",
+  "photo": "https://image.tmdb.org/t/p/w185/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg",
+  "role": "Producer"
+ },
+ "tabs": [
+  {
+   "key": "producer",
+   "label": "Producer",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 572,
+   "movie_slug": "venom-the-last-dance",
+   "title": "Venom: The Last Dance",
+   "year": 2024,
+   "kerala_gross": "₹1.2 Cr"
+  },
+  {
+   "movie_id": 774,
+   "movie_slug": "kraven-the-hunter",
+   "title": "Kraven: The Hunter",
+   "year": 2025,
+   "kerala_gross": "₹8.7L"
+  },
+  {
+   "movie_id": 675,
+   "movie_slug": "spider-man-brand-new-day",
+   "title": "Spider-Man: Brand New Day",
+   "year": 2026,
+   "kerala_gross": "₹35.7 Cr"
+  }
+ ]
+}

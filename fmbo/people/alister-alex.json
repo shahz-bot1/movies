@@ -1,0 +1,41 @@
+{
+ "slug": "alister-alex",
+ "name": "Alister Alex",
+ "source_url": "https://fridaymatinee.in/people/alister-alex",
+ "captured_at": "2026-10-01T20:25:49.950845+00:00",
+ "person": {
+  "name": "Alister Alex",
+  "photo": "https://image.tmdb.org/t/p/w185/6dEC9osBKUjgBpiMhm8EgQOgbHF.jpg",
+  "role": "Actor"
+ },
+ "tabs": [
+  {
+   "key": "actor",
+   "label": "Actor",
+   "count": 3
+  }
+ ],
+ "films": [
+  {
+   "movie_id": 164,
+   "movie_slug": "malayankunju",
+   "title": "Malayankunju",
+   "year": 2022,
+   "kerala_gross": "₹5.9 Cr"
+  },
+  {
+   "movie_id": 295,
+   "movie_slug": "christy",
+   "title": "Christy",
+   "year": 2023,
+   "kerala_gross": "₹51.6L"
+  },
+  {
+   "movie_id": 458,
+   "movie_slug": "kaathal-the-core",
+   "title": "Kaathal - The Core",
+   "year": 2023,
+   "kerala_gross": "₹7.8 Cr"
+  }
+ ]
+}
