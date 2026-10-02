@@ -1,0 +1,237 @@
+2026-10-01T17:56:40.418464+00:00 movie crawl starting
+2026-10-01T17:56:42.573246+00:00 sitemap: 868 movies
+2026-10-01T17:56:52.111895+00:00 FETCH FAIL 15 https://fridaymatinee.in/boxoffice/joker-15: 'str' object has no attribute 'get'
+2026-10-01T17:56:57.091290+00:00 FETCH FAIL 17 https://fridaymatinee.in/boxoffice/edakkad-battalion-06-17: 'str' object has no attribute 'get'
+2026-10-01T17:56:59.448864+00:00 FETCH FAIL 18 https://fridaymatinee.in/boxoffice/bigil-18: 'str' object has no attribute 'get'
+2026-10-01T17:57:09.816097+00:00 FETCH FAIL 21 https://fridaymatinee.in/boxoffice/kaithi-21: 'str' object has no attribute 'get'
+2026-10-01T17:57:13.446618+00:00 FETCH FAIL 22 https://fridaymatinee.in/boxoffice/made-in-china-22: 'str' object has no attribute 'get'
+2026-10-01T17:57:16.336134+00:00 FETCH FAIL 24 https://fridaymatinee.in/boxoffice/terminator-dark-fate-24: 'str' object has no attribute 'get'
+2026-10-01T17:57:18.482803+00:00 FETCH FAIL 25 https://fridaymatinee.in/boxoffice/akasha-ganga-2-25: 'str' object has no attribute 'get'
+2026-10-01T17:57:24.070429+00:00 FETCH FAIL 27 https://fridaymatinee.in/boxoffice/android-kunjappan-27: 'str' object has no attribute 'get'
+2026-10-01T17:57:26.601616+00:00 FETCH FAIL 28 https://fridaymatinee.in/boxoffice/nalpathiyonnu-28: 'str' object has no attribute 'get'
+2026-10-01T17:57:37.893417+00:00 FETCH FAIL 32 https://fridaymatinee.in/boxoffice/action-32: 'str' object has no attribute 'get'
+2026-10-01T17:57:40.389787+00:00 FETCH FAIL 33 https://fridaymatinee.in/boxoffice/jack-daniel-33: 'str' object has no attribute 'get'
+2026-10-01T17:57:42.823737+00:00 FETCH FAIL 34 https://fridaymatinee.in/boxoffice/ford-v-ferrari-34: 'str' object has no attribute 'get'
+2026-10-01T17:57:47.916912+00:00 FETCH FAIL 36 https://fridaymatinee.in/boxoffice/frozen-2-36: 'str' object has no attribute 'get'
+2026-10-01T17:57:52.811242+00:00 FETCH FAIL 38 https://fridaymatinee.in/boxoffice/kettiyolaanu-ente-malakha-38: 'str' object has no attribute 'get'
+2026-10-01T17:57:55.881042+00:00 FETCH FAIL 39 https://fridaymatinee.in/boxoffice/happy-sardar-39: 'str' object has no attribute 'get'
+2026-10-01T17:58:29.531192+00:00 movie crawl starting
+2026-10-01T17:58:31.347279+00:00 sitemap: 868 movies
+2026-10-01T17:59:38.560492+00:00 progress 50/868 done=23 skipped=27 failed=0
+2026-10-01T18:01:56.896169+00:00 progress 100/868 done=73 skipped=27 failed=0
+2026-10-01T18:02:43.737110+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/kaduva-160: HTTP Error 500: Internal Server Error
+2026-10-01T18:02:49.605280+00:00 fetch error attempt 2/4 https://fridaymatinee.in/boxoffice/kaduva-160: HTTP Error 500: Internal Server Error
+2026-10-01T18:03:05.575138+00:00 fetch error attempt 3/4 https://fridaymatinee.in/boxoffice/kaduva-160: HTTP Error 500: Internal Server Error
+2026-10-01T18:03:51.334218+00:00 fetch error attempt 4/4 https://fridaymatinee.in/boxoffice/kaduva-160: HTTP Error 500: Internal Server Error
+2026-10-01T18:05:21.334583+00:00 FETCH FAIL 160 https://fridaymatinee.in/boxoffice/kaduva-160: HTTPError: HTTP Error 500: Internal Server Error
+2026-10-01T18:06:55.054160+00:00 progress 150/868 done=122 skipped=27 failed=1
+2026-10-01T18:09:16.814547+00:00 progress 200/868 done=172 skipped=27 failed=1
+2026-10-01T18:11:25.062817+00:00 progress 250/868 done=222 skipped=27 failed=1
+2026-10-01T18:13:39.767267+00:00 progress 300/868 done=272 skipped=27 failed=1
+2026-10-01T18:15:58.518195+00:00 progress 350/868 done=322 skipped=27 failed=1
+2026-10-01T18:18:20.352077+00:00 progress 400/868 done=372 skipped=27 failed=1
+2026-10-01T18:20:34.090024+00:00 progress 450/868 done=422 skipped=27 failed=1
+2026-10-01T18:22:52.147476+00:00 progress 500/868 done=472 skipped=27 failed=1
+2026-10-01T18:25:06.043084+00:00 progress 550/868 done=522 skipped=27 failed=1
+2026-10-01T18:27:29.039218+00:00 progress 600/868 done=572 skipped=27 failed=1
+2026-10-01T18:29:00.110734+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/mercy-985: <urlopen error timed out>
+2026-10-01T18:29:35.118506+00:00 fetch error attempt 2/4 https://fridaymatinee.in/boxoffice/mercy-985: <urlopen error timed out>
+2026-10-01T18:30:20.131913+00:00 fetch error attempt 3/4 https://fridaymatinee.in/boxoffice/mercy-985: <urlopen error timed out>
+2026-10-01T18:31:35.185206+00:00 fetch error attempt 4/4 https://fridaymatinee.in/boxoffice/mercy-985: <urlopen error timed out>
+2026-10-01T18:33:05.200565+00:00 FETCH FAIL 985 https://fridaymatinee.in/boxoffice/mercy-985: URLError: <urlopen error timed out>
+2026-10-01T18:33:08.102091+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/mankatha-986: IncompleteRead(19340 bytes read)
+2026-10-01T18:33:23.336906+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/mardaani-3-988: IncompleteRead(14768 bytes read)
+2026-10-01T18:33:35.914983+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/project-hail-mary-990: IncompleteRead(27333 bytes read)
+2026-10-01T18:33:41.833523+00:00 fetch error attempt 2/4 https://fridaymatinee.in/boxoffice/project-hail-mary-990: IncompleteRead(27196 bytes read)
+2026-10-01T18:34:00.724353+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/padayaatra-991: IncompleteRead(14908 bytes read)
+2026-10-01T18:34:06.482213+00:00 fetch error attempt 2/4 https://fridaymatinee.in/boxoffice/padayaatra-991: IncompleteRead(12427 bytes read)
+2026-10-01T18:34:22.570561+00:00 fetch error attempt 3/4 https://fridaymatinee.in/boxoffice/padayaatra-991: IncompleteRead(12464 bytes read)
+2026-10-01T18:35:10.949119+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/send-help-992: IncompleteRead(19100 bytes read)
+2026-10-01T18:35:19.102229+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/aashaan-993: IncompleteRead(17266 bytes read)
+2026-10-01T18:35:27.401194+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/ashakal-aayiram-994: IncompleteRead(19975 bytes read)
+2026-10-01T18:35:35.645936+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/anomie-995: IncompleteRead(17379 bytes read)
+2026-10-01T18:35:46.961191+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/with-love-997: IncompleteRead(17685 bytes read)
+2026-10-01T18:36:15.629703+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/ee-thani-niram-1006: IncompleteRead(14840 bytes read)
+2026-10-01T18:36:24.606199+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/crime-101-1007: IncompleteRead(19760 bytes read)
+2026-10-01T18:36:32.328154+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/pookie-1008: IncompleteRead(17522 bytes read)
+2026-10-01T18:36:40.262970+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/my-lord-1009: IncompleteRead(16762 bytes read)
+2026-10-01T18:36:53.898441+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/drishyam-3-1012: IncompleteRead(20346 bytes read)
+2026-10-01T18:37:00.018784+00:00 progress 650/868 done=621 skipped=27 failed=2
+2026-10-01T18:37:04.995097+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/do-deewane-seher-mein-1014: IncompleteRead(17840 bytes read)
+2026-10-01T18:37:12.533830+00:00 fetch error attempt 2/4 https://fridaymatinee.in/boxoffice/do-deewane-seher-mein-1014: IncompleteRead(17794 bytes read)
+2026-10-01T18:37:28.279104+00:00 fetch error attempt 3/4 https://fridaymatinee.in/boxoffice/do-deewane-seher-mein-1014: IncompleteRead(17841 bytes read)
+2026-10-01T18:38:22.523689+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/tu-yaa-main-1017: IncompleteRead(14838 bytes read)
+2026-10-01T18:38:28.245375+00:00 fetch error attempt 2/4 https://fridaymatinee.in/boxoffice/tu-yaa-main-1017: IncompleteRead(14868 bytes read)
+2026-10-01T18:38:43.929345+00:00 fetch error attempt 3/4 https://fridaymatinee.in/boxoffice/tu-yaa-main-1017: IncompleteRead(17561 bytes read)
+2026-10-01T18:39:30.676092+00:00 fetch error attempt 4/4 https://fridaymatinee.in/boxoffice/tu-yaa-main-1017: IncompleteRead(17636 bytes read)
+2026-10-01T18:41:00.696821+00:00 FETCH FAIL 1017 https://fridaymatinee.in/boxoffice/tu-yaa-main-1017: IncompleteRead: IncompleteRead(17636 bytes read)
+2026-10-01T18:41:05.880495+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/hamnet-1019: IncompleteRead(16807 bytes read)
+2026-10-01T18:41:11.983750+00:00 fetch error attempt 2/4 https://fridaymatinee.in/boxoffice/hamnet-1019: IncompleteRead(16545 bytes read)
+2026-10-01T18:41:30.844309+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/masthishka-maranam-1020: IncompleteRead(18753 bytes read)
+2026-10-01T18:41:49.425064+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/aadu-3-1026: IncompleteRead(22258 bytes read)
+2026-10-01T18:41:55.120767+00:00 fetch error attempt 2/4 https://fridaymatinee.in/boxoffice/aadu-3-1026: IncompleteRead(19995 bytes read)
+2026-10-01T18:42:11.511991+00:00 fetch error attempt 3/4 https://fridaymatinee.in/boxoffice/aadu-3-1026: IncompleteRead(22261 bytes read)
+2026-10-01T18:42:57.422938+00:00 fetch error attempt 4/4 https://fridaymatinee.in/boxoffice/aadu-3-1026: IncompleteRead(19999 bytes read)
+2026-10-01T18:44:27.427133+00:00 FETCH FAIL 1026 https://fridaymatinee.in/boxoffice/aadu-3-1026: IncompleteRead: IncompleteRead(19999 bytes read)
+2026-10-01T18:44:35.257008+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/youth-1034: IncompleteRead(19435 bytes read)
+2026-10-01T18:44:41.099311+00:00 fetch error attempt 2/4 https://fridaymatinee.in/boxoffice/youth-1034: IncompleteRead(19386 bytes read)
+2026-10-01T18:45:01.007925+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/iron-lung-1036: IncompleteRead(19464 bytes read)
+2026-10-01T18:45:09.193748+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/aurora-what-happened-to-the-earth-1037: IncompleteRead(17067 bytes read)
+2026-10-01T18:45:27.835653+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/derby-1047: IncompleteRead(17208 bytes read)
+2026-10-01T18:45:33.233680+00:00 fetch error attempt 2/4 https://fridaymatinee.in/boxoffice/derby-1047: IncompleteRead(18471 bytes read)
+2026-10-01T18:45:48.927768+00:00 fetch error attempt 3/4 https://fridaymatinee.in/boxoffice/derby-1047: IncompleteRead(17254 bytes read)
+2026-10-01T18:46:34.646677+00:00 fetch error attempt 4/4 https://fridaymatinee.in/boxoffice/derby-1047: IncompleteRead(17253 bytes read)
+2026-10-01T18:48:04.686439+00:00 FETCH FAIL 1047 https://fridaymatinee.in/boxoffice/derby-1047: IncompleteRead: IncompleteRead(17253 bytes read)
+2026-10-01T18:48:09.691112+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/the-super-mario-galaxy-movie-1049: IncompleteRead(22295 bytes read)
+2026-10-01T18:48:15.847376+00:00 fetch error attempt 2/4 https://fridaymatinee.in/boxoffice/the-super-mario-galaxy-movie-1049: IncompleteRead(21907 bytes read)
+2026-10-01T18:48:36.924258+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/leader-1052: IncompleteRead(17639 bytes read)
+2026-10-01T18:48:42.901777+00:00 fetch error attempt 2/4 https://fridaymatinee.in/boxoffice/leader-1052: IncompleteRead(17463 bytes read)
+2026-10-01T18:48:58.634410+00:00 fetch error attempt 3/4 https://fridaymatinee.in/boxoffice/leader-1052: IncompleteRead(17499 bytes read)
+2026-10-01T18:49:59.283548+00:00 movie crawl starting
+2026-10-01T18:50:00.339136+00:00 TRUNCATED response on https://fridaymatinee.in/sitemap.xml, cooling down 120s
+2026-10-01T18:52:02.330096+00:00 sitemap: 868 movies
+2026-10-01T18:52:03.305533+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/kaduva-160: HTTP Error 500: Internal Server Error
+2026-10-01T18:52:08.968584+00:00 fetch error attempt 2/4 https://fridaymatinee.in/boxoffice/kaduva-160: HTTP Error 500: Internal Server Error
+2026-10-01T18:52:24.622187+00:00 fetch error attempt 3/4 https://fridaymatinee.in/boxoffice/kaduva-160: HTTP Error 500: Internal Server Error
+2026-10-01T18:53:10.802579+00:00 fetch error attempt 4/4 https://fridaymatinee.in/boxoffice/kaduva-160: HTTP Error 500: Internal Server Error
+2026-10-01T18:54:40.803018+00:00 FETCH FAIL 160 https://fridaymatinee.in/boxoffice/kaduva-160: HTTPError: HTTP Error 500: Internal Server Error
+2026-10-01T18:55:05.189732+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/derby-1047, cooling down 120s
+2026-10-01T18:57:11.620754+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/leader-1052, cooling down 120s
+2026-10-01T18:59:32.681866+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/hoppers-1055, cooling down 120s
+2026-10-01T19:01:40.749923+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/biker-1059, cooling down 120s
+2026-10-01T19:03:59.955250+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/colony-1063, cooling down 120s
+2026-10-01T19:06:30.967834+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/pallichattambi-1068, cooling down 120s
+2026-10-01T19:08:33.507865+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/pallichattambi-1068, cooling down 120s
+2026-10-01T19:10:40.582107+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/oru-durooha-saahacharyathil-1069, cooling down 120s
+2026-10-01T19:12:41.957947+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/oru-durooha-saahacharyathil-1069, cooling down 120s
+2026-10-01T19:15:02.646247+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/tn-2026-1072, cooling down 120s
+2026-10-01T19:17:05.303200+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/tn-2026-1072, cooling down 120s
+2026-10-01T19:19:18.880305+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/normal-1074, cooling down 120s
+2026-10-01T19:21:26.040393+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/bad-boy-karthik-1075, cooling down 120s
+2026-10-01T19:23:26.861720+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/bad-boy-karthik-1075, cooling down 120s
+2026-10-01T19:25:39.171951+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/michael-1080, cooling down 120s
+2026-10-01T19:26:21.942933+00:00 movie crawl starting
+2026-10-01T19:26:23.741309+00:00 TRUNCATED response on https://fridaymatinee.in/sitemap.xml, cooling down 300s
+2026-10-01T19:27:39.862045+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/michael-1080, cooling down 120s
+2026-10-01T19:29:43.424882+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/michael-1080, cooling down 120s
+2026-10-01T19:31:25.046162+00:00 sitemap: 868 movies
+2026-10-01T19:31:26.163308+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/kaduva-160: HTTP Error 500: Internal Server Error
+2026-10-01T19:31:31.835465+00:00 fetch error attempt 2/4 https://fridaymatinee.in/boxoffice/kaduva-160: HTTP Error 500: Internal Server Error
+2026-10-01T19:31:44.128760+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/michael-1080, cooling down 120s
+2026-10-01T19:31:47.735573+00:00 fetch error attempt 3/4 https://fridaymatinee.in/boxoffice/kaduva-160: HTTP Error 500: Internal Server Error
+2026-10-01T19:32:33.704966+00:00 fetch error attempt 4/4 https://fridaymatinee.in/boxoffice/kaduva-160: HTTP Error 500: Internal Server Error
+2026-10-01T19:33:44.132502+00:00 FETCH FAIL 1080 https://fridaymatinee.in/boxoffice/michael-1080: IncompleteRead: IncompleteRead(25507 bytes read)
+2026-10-01T19:33:50.486923+00:00 progress 700/868 done=26 skipped=672 failed=2
+2026-10-01T19:33:56.417057+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/kara-1084, cooling down 120s
+2026-10-01T19:34:03.723143+00:00 FETCH FAIL 160 https://fridaymatinee.in/boxoffice/kaduva-160: HTTPError: HTTP Error 500: Internal Server Error
+2026-10-01T19:34:13.677498+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/michael-1080, cooling down 300s
+2026-10-01T19:35:57.449194+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/kara-1084, cooling down 120s
+2026-10-01T19:39:23.864464+00:00 TRUNCATED response on https://fridaymatinee.in/boxoffice/kara-1084, cooling down 300s
+2026-10-01T19:41:49.437526+00:00 movie crawl starting
+2026-10-01T19:41:50.418059+00:00 sitemap: 868 movies
+2026-10-01T19:41:51.422161+00:00 fetch error attempt 1/4 https://fridaymatinee.in/boxoffice/kaduva-160: curl rc=0 http=500 err=
+2026-10-01T19:42:00.315310+00:00 fetch error attempt 2/4 https://fridaymatinee.in/boxoffice/kaduva-160: curl rc=0 http=500 err=
+2026-10-01T19:42:21.037330+00:00 fetch error attempt 3/4 https://fridaymatinee.in/boxoffice/kaduva-160: curl rc=0 http=500 err=
+2026-10-01T19:43:22.250866+00:00 fetch error attempt 4/4 https://fridaymatinee.in/boxoffice/kaduva-160: curl rc=0 http=500 err=
+2026-10-01T19:45:22.261930+00:00 FETCH FAIL 160 https://fridaymatinee.in/boxoffice/kaduva-160: RuntimeError: curl rc=0 http=500 err=
+2026-10-01T19:49:36.437667+00:00 progress 750/868 done=50 skipped=699 failed=1
+2026-10-01T19:53:51.707988+00:00 progress 800/868 done=100 skipped=699 failed=1
+2026-10-01T19:58:13.747018+00:00 progress 850/868 done=150 skipped=699 failed=1
+2026-10-01T19:59:58.292815+00:00 movie crawl finished: done=168 skipped=699 failed=1 unique_people=7114
+2026-10-01T19:59:58.310164+00:00 failed ids: [160]
+2026-10-01T20:00:20.555859+00:00 people crawl starting: 7114 people
+2026-10-01T20:07:49.313223+00:00 people progress 100/7114 done=100 skipped=0 failed=0
+2026-10-01T20:14:55.204099+00:00 people progress 200/7114 done=200 skipped=0 failed=0
+2026-10-01T20:21:47.899459+00:00 people progress 300/7114 done=300 skipped=0 failed=0
+2026-10-01T20:28:57.701957+00:00 people progress 400/7114 done=400 skipped=0 failed=0
+2026-10-01T20:36:01.574474+00:00 people progress 500/7114 done=500 skipped=0 failed=0
+2026-10-01T20:43:06.741531+00:00 people progress 600/7114 done=600 skipped=0 failed=0
+2026-10-01T20:50:13.518876+00:00 people progress 700/7114 done=700 skipped=0 failed=0
+2026-10-01T20:57:22.677198+00:00 people progress 800/7114 done=800 skipped=0 failed=0
+2026-10-01T21:04:28.803598+00:00 people progress 900/7114 done=900 skipped=0 failed=0
+2026-10-01T21:07:25.705089+00:00 fetch error attempt 1/4 https://fridaymatinee.in/people/babita-ashiwal: curl rc=0 http=522 err=
+2026-10-01T21:11:26.977688+00:00 fetch error attempt 1/4 https://fridaymatinee.in/people/basil-iwanyk: curl rc=0 http=522 err=
+2026-10-01T21:12:27.677915+00:00 people progress 1000/7114 done=1000 skipped=0 failed=0
+2026-10-01T21:19:28.093475+00:00 people progress 1100/7114 done=1100 skipped=0 failed=0
+2026-10-01T21:26:22.050358+00:00 people progress 1200/7114 done=1200 skipped=0 failed=0
+2026-10-01T21:33:12.902839+00:00 people progress 1300/7114 done=1300 skipped=0 failed=0
+2026-10-01T21:40:11.514674+00:00 people progress 1400/7114 done=1400 skipped=0 failed=0
+2026-10-01T21:47:20.397352+00:00 fetch error attempt 1/4 https://fridaymatinee.in/people/danny-huston: curl rc=28 http=0 err=
+2026-10-01T21:48:07.640167+00:00 people progress 1500/7114 done=1500 skipped=0 failed=0
+2026-10-01T21:55:11.503149+00:00 people progress 1600/7114 done=1600 skipped=0 failed=0
+2026-10-01T22:02:11.789910+00:00 people progress 1700/7114 done=1700 skipped=0 failed=0
+2026-10-01T22:09:08.938496+00:00 people progress 1800/7114 done=1800 skipped=0 failed=0
+2026-10-01T22:16:14.499114+00:00 people progress 1900/7114 done=1900 skipped=0 failed=0
+2026-10-01T22:23:18.940426+00:00 people progress 2000/7114 done=2000 skipped=0 failed=0
+2026-10-01T22:30:20.586637+00:00 people progress 2100/7114 done=2100 skipped=0 failed=0
+2026-10-01T22:37:24.694311+00:00 people progress 2200/7114 done=2200 skipped=0 failed=0
+2026-10-01T22:44:24.223978+00:00 people progress 2300/7114 done=2300 skipped=0 failed=0
+2026-10-01T22:51:36.464134+00:00 people progress 2400/7114 done=2400 skipped=0 failed=0
+2026-10-01T22:58:31.380950+00:00 people progress 2500/7114 done=2500 skipped=0 failed=0
+2026-10-01T23:05:31.830499+00:00 people progress 2600/7114 done=2600 skipped=0 failed=0
+2026-10-01T23:12:28.843212+00:00 people progress 2700/7114 done=2700 skipped=0 failed=0
+2026-10-01T23:19:21.107728+00:00 people progress 2800/7114 done=2800 skipped=0 failed=0
+2026-10-01T23:26:19.987078+00:00 people progress 2900/7114 done=2900 skipped=0 failed=0
+2026-10-01T23:33:07.788998+00:00 people progress 3000/7114 done=3000 skipped=0 failed=0
+2026-10-01T23:40:08.979792+00:00 people progress 3100/7114 done=3100 skipped=0 failed=0
+2026-10-01T23:47:15.329436+00:00 people progress 3200/7114 done=3200 skipped=0 failed=0
+2026-10-01T23:54:21.942229+00:00 people progress 3300/7114 done=3300 skipped=0 failed=0
+2026-10-02T00:01:21.001213+00:00 people progress 3400/7114 done=3400 skipped=0 failed=0
+2026-10-02T00:08:21.442129+00:00 people progress 3500/7114 done=3500 skipped=0 failed=0
+2026-10-02T00:15:29.842426+00:00 people progress 3600/7114 done=3600 skipped=0 failed=0
+2026-10-02T00:22:25.693912+00:00 people progress 3700/7114 done=3700 skipped=0 failed=0
+2026-10-02T00:29:26.545316+00:00 people progress 3800/7114 done=3800 skipped=0 failed=0
+2026-10-02T00:36:17.457996+00:00 people progress 3900/7114 done=3900 skipped=0 failed=0
+2026-10-02T00:43:11.695561+00:00 people progress 4000/7114 done=4000 skipped=0 failed=0
+2026-10-02T00:50:20.302105+00:00 people progress 4100/7114 done=4100 skipped=0 failed=0
+2026-10-02T00:57:20.531821+00:00 people progress 4200/7114 done=4200 skipped=0 failed=0
+2026-10-02T01:04:22.848772+00:00 people progress 4300/7114 done=4300 skipped=0 failed=0
+2026-10-02T01:11:24.040219+00:00 people progress 4400/7114 done=4400 skipped=0 failed=0
+2026-10-02T01:17:38.037492+00:00 fetch error attempt 1/4 https://fridaymatinee.in/people/person-7033: curl rc=7 http=0 err=
+2026-10-02T06:18:01.206905+00:00 people crawl starting: 7114 people
+2026-10-02T06:18:46.382541+00:00 people progress 4500/7114 done=11 skipped=4489 failed=0
+2026-10-02T06:25:37.431069+00:00 people progress 4600/7114 done=111 skipped=4489 failed=0
+2026-10-02T06:32:33.639720+00:00 people progress 4700/7114 done=211 skipped=4489 failed=0
+2026-10-02T06:36:30.580662+00:00 fetch error attempt 1/4 https://fridaymatinee.in/people/rachel-david: curl rc=7 http=0 err=
+2026-10-02T06:36:38.597555+00:00 fetch error attempt 2/4 https://fridaymatinee.in/people/rachel-david: curl rc=7 http=0 err=
+2026-10-02T08:26:31.691991+00:00 people crawl starting: 7114 people
+2026-10-02T08:26:31.691991+00:00 people crawl starting: 7114 people
+2026-10-02T08:29:23.403758+00:00 people progress 4800/7114 done=43 skipped=4757 failed=0
+2026-10-02T08:29:23.403758+00:00 people progress 4800/7114 done=43 skipped=4757 failed=0
+2026-10-02T08:36:19.489998+00:00 people progress 4900/7114 done=143 skipped=4757 failed=0
+2026-10-02T08:36:19.489998+00:00 people progress 4900/7114 done=143 skipped=4757 failed=0
+2026-10-02T08:43:16.275359+00:00 people progress 5000/7114 done=243 skipped=4757 failed=0
+2026-10-02T08:43:16.275359+00:00 people progress 5000/7114 done=243 skipped=4757 failed=0
+2026-10-02T08:48:11.378976+00:00 fetch error attempt 1/4 https://fridaymatinee.in/people/renjith-touchriver: curl rc=7 http=0 err=
+2026-10-02T08:48:11.378976+00:00 fetch error attempt 1/4 https://fridaymatinee.in/people/renjith-touchriver: curl rc=7 http=0 err=
+2026-10-02T09:41:02.907359+00:00 people crawl starting: 7114 people
+2026-10-02T09:41:56.958163+00:00 people crawl starting: 7114 people
+2026-10-02T09:42:28.481507+00:00 people progress 5100/7114 done=22 skipped=5078 failed=0
+2026-10-02T09:47:30.948804+00:00 people progress 5200/7114 done=88 skipped=5112 failed=0
+2026-10-02T09:47:31.142721+00:00 people progress 5200/7114 done=81 skipped=5119 failed=0
+2026-10-02T09:54:19.462444+00:00 people progress 5300/7114 done=184 skipped=5116 failed=0
+2026-10-02T10:01:22.417027+00:00 people progress 5400/7114 done=284 skipped=5116 failed=0
+2026-10-02T10:08:26.360398+00:00 people progress 5500/7114 done=384 skipped=5116 failed=0
+2026-10-02T10:15:24.089608+00:00 people progress 5600/7114 done=484 skipped=5116 failed=0
+2026-10-02T10:17:10.731844+00:00 fetch error attempt 1/4 https://fridaymatinee.in/people/sathyaprakash-dharmar: curl rc=28 http=0 err=
+2026-10-02T10:23:10.691217+00:00 people progress 5700/7114 done=584 skipped=5116 failed=0
+2026-10-02T10:30:19.315267+00:00 people progress 5800/7114 done=684 skipped=5116 failed=0
+2026-10-02T10:37:19.966660+00:00 people progress 5900/7114 done=784 skipped=5116 failed=0
+2026-10-02T10:40:05.103682+00:00 fetch error attempt 1/4 https://fridaymatinee.in/people/sidharth-malhotra: curl rc=52 http=0 err=
+2026-10-02T10:40:13.123351+00:00 fetch error attempt 2/4 https://fridaymatinee.in/people/sidharth-malhotra: curl rc=7 http=0 err=
+2026-10-02T10:44:28.157109+00:00 people crawl starting: 7114 people
+2026-10-02T10:49:06.122974+00:00 people progress 6000/7114 done=62 skipped=5938 failed=0
+2026-10-02T10:56:09.656192+00:00 people progress 6100/7114 done=162 skipped=5938 failed=0
+2026-10-02T11:03:06.520346+00:00 people progress 6200/7114 done=262 skipped=5938 failed=0
+2026-10-02T11:10:15.096466+00:00 people progress 6300/7114 done=362 skipped=5938 failed=0
+2026-10-02T11:17:16.514276+00:00 people progress 6400/7114 done=462 skipped=5938 failed=0
+2026-10-02T11:24:30.522638+00:00 people progress 6500/7114 done=562 skipped=5938 failed=0
+2026-10-02T11:31:41.391559+00:00 people progress 6600/7114 done=662 skipped=5938 failed=0
+2026-10-02T11:38:37.253866+00:00 people progress 6700/7114 done=762 skipped=5938 failed=0
+2026-10-02T11:45:36.659274+00:00 people progress 6800/7114 done=862 skipped=5938 failed=0
+2026-10-02T11:52:37.212815+00:00 people progress 6900/7114 done=962 skipped=5938 failed=0
+2026-10-02T11:58:02.629191+00:00 fetch error attempt 1/4 https://fridaymatinee.in/people/william-francis: curl rc=7 http=0 err=
+2026-10-02T12:05:24.566616+00:00 people crawl starting: 7114 people
+2026-10-02T12:07:00.050838+00:00 people progress 7000/7114 done=23 skipped=6977 failed=0
+2026-10-02T12:13:53.885754+00:00 people progress 7100/7114 done=123 skipped=6977 failed=0
+2026-10-02T12:15:00.846312+00:00 people crawl finished: done=137 skipped=6977 failed=0
